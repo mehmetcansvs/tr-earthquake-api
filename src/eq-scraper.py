@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+import pathlib
+import os
 
 # Scraping Part
 URL = 'http://www.koeri.boun.edu.tr/scripts/lst6.asp'
@@ -52,7 +54,9 @@ api_data = {
 }
 
 # Save API data
-with open('../api-data/api_data.json', 'w', encoding='utf-8') as f:
+repo_root_dir = pathlib.Path(__file__).resolve().parent.parent
+repo_root_dir = pathlib.Path(os.path.relpath(repo_root_dir))
+with open(repo_root_dir / 'api-data/api_data.json', 'w', encoding='utf-8') as f:
     json.dump(api_data, f, indent=4)
 
 
