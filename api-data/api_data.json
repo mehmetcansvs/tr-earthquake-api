@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.21",
+            "Time": "23:22:18",
+            "Latitude": "37.8843",
+            "Longitude": "27.0802",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.21",
             "Time": "20:51:21",
             "Latitude": "39.0477",
             "Longitude": "27.5698",
@@ -4472,15 +4481,6 @@
             "Depth": "5.0",
             "ML": "2.6",
             "Location": "BASKAVAK HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "06:49:40",
-            "Latitude": "38.7245",
-            "Longitude": "38.1210",
-            "Depth": "6.5",
-            "ML": "1.6",
-            "Location": "YESILPINAR HEKIMHAN MALATYA"
         }
     ]
 }
