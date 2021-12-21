@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.22",
+            "Time": "01:31:51",
+            "Latitude": "35.6917",
+            "Longitude": "31.7682",
+            "Depth": "8.6",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.22",
             "Time": "00:24:28",
             "Latitude": "40.8278",
             "Longitude": "28.8015",
@@ -4472,15 +4481,6 @@
             "Depth": "5.0",
             "ML": "2.7",
             "Location": "HAYDAROGLU HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "06:50:56",
-            "Latitude": "39.9108",
-            "Longitude": "39.0837",
-            "Depth": "6.0",
-            "ML": "2.3",
-            "Location": "KIZILENIS REFAHIYE ERZINCAN"
         }
     ]
 }
