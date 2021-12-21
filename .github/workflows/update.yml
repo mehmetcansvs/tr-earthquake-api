@@ -9,7 +9,7 @@ on:
 env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
-jobs:c
+jobs:
   scheduled:
     runs-on: ubuntu-latest
     strategy:
