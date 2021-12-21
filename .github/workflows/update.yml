@@ -1,7 +1,6 @@
 name: Update API Data
 
 on:
-  push:
   workflow_dispatch:
   schedule: 
     - cron: "*/30 * * * *" # Cron time.
