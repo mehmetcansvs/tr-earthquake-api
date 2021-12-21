@@ -6,6 +6,9 @@ on:
   schedule: 
     - cron: "* * * * *"
 
+env:
+  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+
 jobs:
   scheduled:
     runs-on: ubuntu-latest
