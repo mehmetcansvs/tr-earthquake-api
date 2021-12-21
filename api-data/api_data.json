@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.21",
+            "Time": "11:53:20",
+            "Latitude": "36.2518",
+            "Longitude": "33.6767",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "ISIKLI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2021.12.21",
+            "Time": "11:49:16",
+            "Latitude": "39.6237",
+            "Longitude": "41.2822",
+            "Depth": "4.1",
+            "ML": "2.1",
+            "Location": "TOPTEPE TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2021.12.21",
             "Time": "10:28:18",
             "Latitude": "37.6382",
             "Longitude": "29.4473",
@@ -4463,24 +4481,6 @@
             "Depth": "14.4",
             "ML": "0.8",
             "Location": "TAHTALI GONEN BALIKESIR"
-        },
-        {
-            "Date": "2021.12.08",
-            "Time": "20:52:29",
-            "Latitude": "38.8497",
-            "Longitude": "26.4478",
-            "Depth": "10.7",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.08",
-            "Time": "20:44:59",
-            "Latitude": "37.1042",
-            "Longitude": "28.4302",
-            "Depth": "26.1",
-            "ML": "1.1",
-            "Location": "ULA MUGLA"
         }
     ]
 }

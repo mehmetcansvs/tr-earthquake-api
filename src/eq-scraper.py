@@ -52,7 +52,7 @@ api_data = {
 }
 
 # Save API data
-with open('api_data.json', 'w', encoding='utf-8') as f:
+with open('../api-data/api_data.json', 'w', encoding='utf-8') as f:
     json.dump(api_data, f, indent=4)
 
 
