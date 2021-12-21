@@ -2,8 +2,7 @@ name: Update
 
 on:
   schedule: 
-    - cron: "*/1 * * * *"
-    workflow-dispatch:
+    - cron: "* * * * *"
 
 env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
