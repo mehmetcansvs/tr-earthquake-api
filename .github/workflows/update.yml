@@ -4,12 +4,12 @@ on:
   push:
   workflow_dispatch:
   schedule: 
-    - cron: "* * * * *"
+    - cron: "*/30 * * * *"
 
 env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
-jobs:
+jobs:c
   scheduled:
     runs-on: ubuntu-latest
     strategy:
