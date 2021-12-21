@@ -20,6 +20,15 @@
         },
         {
             "Date": "2021.12.21",
+            "Time": "20:14:48",
+            "Latitude": "38.5625",
+            "Longitude": "31.8093",
+            "Depth": "3.4",
+            "ML": "1.6",
+            "Location": "YESILOBA YUNAK KONYA"
+        },
+        {
+            "Date": "2021.12.21",
             "Time": "19:26:33",
             "Latitude": "38.8468",
             "Longitude": "43.6168",
@@ -4472,15 +4481,6 @@
             "Depth": "6.5",
             "ML": "1.6",
             "Location": "YESILPINAR HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "06:42:49",
-            "Latitude": "38.7132",
-            "Longitude": "38.1810",
-            "Depth": "8.6",
-            "ML": "1.3",
-            "Location": "KOSAR YAZIHAN MALATYA"
         }
     ]
 }
