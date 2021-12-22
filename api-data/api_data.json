@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.22",
+            "Time": "08:09:11",
+            "Latitude": "38.2613",
+            "Longitude": "38.6672",
+            "Depth": "20.7",
+            "ML": "1.3",
+            "Location": "CAYKOY PUTURGE MALATYA"
+        },
+        {
+            "Date": "2021.12.22",
             "Time": "07:19:14",
             "Latitude": "36.4555",
             "Longitude": "27.1462",
@@ -4472,15 +4481,6 @@
             "Depth": "2.4",
             "ML": "1.9",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "18:06:44",
-            "Latitude": "36.5238",
-            "Longitude": "28.7797",
-            "Depth": "19.5",
-            "ML": "3.5",
-            "Location": "FETHIYE KORFEZI ACIKLARI AKDENIZ"
         }
     ]
 }
