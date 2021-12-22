@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.22",
+            "Time": "10:02:58",
+            "Latitude": "39.3622",
+            "Longitude": "36.9673",
+            "Depth": "7.4",
+            "ML": "2.2",
+            "Location": "KAZANPINAR ULAS SIVAS"
+        },
+        {
+            "Date": "2021.12.22",
             "Time": "08:48:14",
             "Latitude": "35.1470",
             "Longitude": "25.2003",
@@ -4472,15 +4481,6 @@
             "Depth": "13.4",
             "ML": "2.2",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "19:19:16",
-            "Latitude": "37.5898",
-            "Longitude": "29.4718",
-            "Depth": "5.9",
-            "ML": "1.5",
-            "Location": "YESILYUVA ACIPAYAM DENIZLI"
         }
     ]
 }
