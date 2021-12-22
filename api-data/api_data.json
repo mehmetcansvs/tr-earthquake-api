@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2021.12.22",
+            "Time": "12:35:09",
+            "Latitude": "39.1862",
+            "Longitude": "27.3557",
+            "Depth": "7.9",
+            "ML": "2.2",
+            "Location": "ZAGNOS BERGAMA IZMIR"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "12:30:50",
+            "Latitude": "39.4093",
+            "Longitude": "31.6185",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "TEKOREN SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "11:44:32",
+            "Latitude": "39.6458",
+            "Longitude": "41.2032",
+            "Depth": "9.1",
+            "ML": "2.5",
+            "Location": "CUKURCAYIR CAT ERZURUM"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "11:44:22",
+            "Latitude": "37.1862",
+            "Longitude": "37.2092",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "YESILCE SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "11:33:08",
+            "Latitude": "40.5035",
+            "Longitude": "34.3552",
+            "Depth": "6.7",
+            "ML": "2.2",
+            "Location": "YARIMCA UGURLUDAG CORUM"
+        },
+        {
+            "Date": "2021.12.22",
             "Time": "10:02:58",
             "Latitude": "39.3622",
             "Longitude": "36.9673",
@@ -4436,51 +4481,6 @@
             "Depth": "8.0",
             "ML": "2.4",
             "Location": "KAYALIBOGAZ SARIKAMIS KARS"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "21:45:43",
-            "Latitude": "36.4770",
-            "Longitude": "27.1885",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "21:14:13",
-            "Latitude": "36.9152",
-            "Longitude": "28.0363",
-            "Depth": "14.2",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "20:31:23",
-            "Latitude": "35.0498",
-            "Longitude": "23.2343",
-            "Depth": "86.9",
-            "ML": "3.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "20:17:06",
-            "Latitude": "37.0902",
-            "Longitude": "36.8503",
-            "Depth": "6.2",
-            "ML": "1.6",
-            "Location": "DURMUSLAR NURDAGI GAZIANTEP"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "19:32:18",
-            "Latitude": "38.7302",
-            "Longitude": "26.5362",
-            "Depth": "13.4",
-            "ML": "2.2",
-            "Location": "EGE DENIZI"
         }
     ]
 }
