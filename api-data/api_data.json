@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.22",
+            "Time": "05:28:11",
+            "Latitude": "39.8323",
+            "Longitude": "29.1280",
+            "Depth": "2.6",
+            "ML": "3.2",
+            "Location": "FADIL ORHANELI BURSA"
+        },
+        {
+            "Date": "2021.12.22",
             "Time": "04:17:10",
             "Latitude": "37.4727",
             "Longitude": "27.4783",
@@ -4472,15 +4481,6 @@
             "Depth": "5.1",
             "ML": "1.9",
             "Location": "KOZPINAR BIGADIC BALIKESIR"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "10:10:01",
-            "Latitude": "40.2377",
-            "Longitude": "31.8265",
-            "Depth": "7.3",
-            "ML": "1.6",
-            "Location": "DOGANYURT BEYPAZARI ANKARA"
         }
     ]
 }
