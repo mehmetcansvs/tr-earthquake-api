@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.22",
+            "Time": "08:41:12",
+            "Latitude": "37.8930",
+            "Longitude": "27.1608",
+            "Depth": "7.3",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "08:38:30",
+            "Latitude": "37.0680",
+            "Longitude": "28.3748",
+            "Depth": "6.8",
+            "ML": "1.6",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2021.12.22",
             "Time": "08:09:11",
             "Latitude": "38.2613",
             "Longitude": "38.6672",
@@ -4463,24 +4481,6 @@
             "Depth": "14.7",
             "ML": "1.6",
             "Location": "FETHIYE KORFEZI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "18:32:18",
-            "Latitude": "35.0183",
-            "Longitude": "25.1670",
-            "Depth": "5.3",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "18:12:14",
-            "Latitude": "37.7020",
-            "Longitude": "26.1078",
-            "Depth": "2.4",
-            "ML": "1.9",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
