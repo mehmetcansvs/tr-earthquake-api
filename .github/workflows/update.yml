@@ -3,7 +3,7 @@ name: Update API Data
 on:
   workflow_dispatch:
   schedule: 
-    - cron: "*/30 * * * *" # Cron time.
+    - cron: "0 */2 * * *" # Cron time.
 
 env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
