@@ -29,6 +29,15 @@
         },
         {
             "Date": "2021.12.22",
+            "Time": "17:09:41",
+            "Latitude": "38.9375",
+            "Longitude": "25.9755",
+            "Depth": "12.8",
+            "ML": "2.0",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.22",
             "Time": "16:57:54",
             "Latitude": "37.3653",
             "Longitude": "35.2848",
@@ -4472,15 +4481,6 @@
             "Depth": "7.4",
             "ML": "2.1",
             "Location": "ASAGIEKECE HILVAN SANLIURFA"
-        },
-        {
-            "Date": "2021.12.10",
-            "Time": "17:48:51",
-            "Latitude": "37.4515",
-            "Longitude": "29.4095",
-            "Depth": "11.7",
-            "ML": "1.7",
-            "Location": "UCARI ACIPAYAM DENIZLI"
         }
     ]
 }
