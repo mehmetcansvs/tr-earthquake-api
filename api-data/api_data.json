@@ -2,6 +2,87 @@
     "data": [
         {
             "Date": "2021.12.22",
+            "Time": "15:11:16",
+            "Latitude": "36.0083",
+            "Longitude": "29.0563",
+            "Depth": "8.9",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "15:02:25",
+            "Latitude": "37.6860",
+            "Longitude": "29.3953",
+            "Depth": "13.9",
+            "ML": "1.4",
+            "Location": "KARACAY HONAZ DENIZLI"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "14:21:20",
+            "Latitude": "34.8762",
+            "Longitude": "24.2015",
+            "Depth": "11.9",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "14:20:38",
+            "Latitude": "37.9448",
+            "Longitude": "34.6967",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "NIGDE"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "14:13:52",
+            "Latitude": "38.9665",
+            "Longitude": "35.7765",
+            "Depth": "11.7",
+            "ML": "1.5",
+            "Location": "KARAHIDIRLI BUNYAN KAYSERI"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "13:41:29",
+            "Latitude": "38.6943",
+            "Longitude": "34.8962",
+            "Depth": "6.7",
+            "ML": "1.4",
+            "Location": "AKTEPE AVANOS NEVSEHIR"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "13:41:15",
+            "Latitude": "40.1837",
+            "Longitude": "31.7720",
+            "Depth": "2.3",
+            "ML": "2.0",
+            "Location": "HIRKATEPE BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "13:33:39",
+            "Latitude": "40.2542",
+            "Longitude": "35.1825",
+            "Depth": "2.5",
+            "ML": "1.9",
+            "Location": "KARAHACIP ORTAKOY CORUM"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "13:30:12",
+            "Latitude": "35.1818",
+            "Longitude": "25.2698",
+            "Depth": "6.9",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.22",
             "Time": "12:35:09",
             "Latitude": "39.1862",
             "Longitude": "27.3557",
@@ -4400,87 +4481,6 @@
             "Depth": "17.4",
             "ML": "1.4",
             "Location": "SAZAK CAL DENIZLI"
-        },
-        {
-            "Date": "2021.12.10",
-            "Time": "07:49:37",
-            "Latitude": "40.6710",
-            "Longitude": "30.5898",
-            "Depth": "15.4",
-            "ML": "1.9",
-            "Location": "HARMANLI KARAPURCEK SAKARYA"
-        },
-        {
-            "Date": "2021.12.10",
-            "Time": "07:39:13",
-            "Latitude": "38.0322",
-            "Longitude": "31.4413",
-            "Depth": "5.2",
-            "ML": "1.2",
-            "Location": "ARAK SARKIKARAAGAC ISPARTA"
-        },
-        {
-            "Date": "2021.12.10",
-            "Time": "06:23:50",
-            "Latitude": "36.4443",
-            "Longitude": "33.6812",
-            "Depth": "22.4",
-            "ML": "1.5",
-            "Location": "ORTAOREN SILIFKE MERSIN"
-        },
-        {
-            "Date": "2021.12.10",
-            "Time": "06:18:26",
-            "Latitude": "40.1625",
-            "Longitude": "31.7077",
-            "Depth": "9.8",
-            "ML": "1.2",
-            "Location": "SEKLI BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2021.12.10",
-            "Time": "03:00:32",
-            "Latitude": "34.4728",
-            "Longitude": "28.3547",
-            "Depth": "80.4",
-            "ML": "3.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.10",
-            "Time": "01:47:33",
-            "Latitude": "35.1272",
-            "Longitude": "23.2717",
-            "Depth": "72.2",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.10",
-            "Time": "01:08:59",
-            "Latitude": "35.2808",
-            "Longitude": "25.3245",
-            "Depth": "5.4",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.10",
-            "Time": "00:37:00",
-            "Latitude": "35.0378",
-            "Longitude": "27.6247",
-            "Depth": "79.5",
-            "ML": "2.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.09",
-            "Time": "23:52:43",
-            "Latitude": "39.9682",
-            "Longitude": "42.5753",
-            "Depth": "8.0",
-            "ML": "2.4",
-            "Location": "KAYALIBOGAZ SARIKAMIS KARS"
         }
     ]
 }
