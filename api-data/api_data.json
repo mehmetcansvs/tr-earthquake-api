@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.22",
+            "Time": "22:23:11",
+            "Latitude": "36.1093",
+            "Longitude": "29.6143",
+            "Depth": "13.0",
+            "ML": "2.2",
+            "Location": "KAS ANTALYA"
+        },
+        {
+            "Date": "2021.12.22",
+            "Time": "22:07:25",
+            "Latitude": "40.4863",
+            "Longitude": "34.2308",
+            "Depth": "1.6",
+            "ML": "2.4",
+            "Location": "SAGPAZAR BAYAT CORUM"
+        },
+        {
+            "Date": "2021.12.22",
             "Time": "17:58:57",
             "Latitude": "36.0835",
             "Longitude": "27.0927",
@@ -4471,16 +4489,7 @@
             "Longitude": "38.8802",
             "Depth": "5.0",
             "ML": "1.4",
-            "Location": "AKCA KALE MALATYA REVIZE KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.10",
-            "Time": "18:43:24",
-            "Latitude": "37.6040",
-            "Longitude": "38.7598",
-            "Depth": "7.4",
-            "ML": "2.1",
-            "Location": "ASAGIEKECE HILVAN SANLIURFA"
+            "Location": "AKCA KALE MALATYA REVIZE"
         }
     ]
 }
