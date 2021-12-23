@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2021.12.23",
+            "Time": "20:26:46",
+            "Latitude": "37.6455",
+            "Longitude": "27.2445",
+            "Depth": "6.5",
+            "ML": "1.8",
+            "Location": "ATBURGAZI SOKE AYDIN"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "19:54:58",
+            "Latitude": "37.9492",
+            "Longitude": "35.6130",
+            "Depth": "25.4",
+            "ML": "1.2",
+            "Location": "CONDU FEKE ADANA"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "19:39:28",
+            "Latitude": "37.8175",
+            "Longitude": "26.9480",
+            "Depth": "6.3",
+            "ML": "2.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.23",
             "Time": "18:48:21",
             "Latitude": "39.8032",
             "Longitude": "41.8482",
@@ -4436,33 +4463,6 @@
             "Depth": "19.0",
             "ML": "1.6",
             "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "18:59:12",
-            "Latitude": "37.8608",
-            "Longitude": "26.9058",
-            "Depth": "4.3",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "17:03:37",
-            "Latitude": "36.1607",
-            "Longitude": "33.6112",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "YESILOVACIK SILIFKE MERSIN"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "16:19:09",
-            "Latitude": "35.0983",
-            "Longitude": "26.4582",
-            "Depth": "13.0",
-            "ML": "3.2",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
