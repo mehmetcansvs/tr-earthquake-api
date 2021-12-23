@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2021.12.23",
+            "Time": "10:37:37",
+            "Latitude": "36.9510",
+            "Longitude": "39.2370",
+            "Depth": "29.5",
+            "ML": "2.6",
+            "Location": "AYRANCI SANLIURFA"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "09:40:57",
+            "Latitude": "36.5403",
+            "Longitude": "30.4588",
+            "Depth": "4.9",
+            "ML": "2.5",
+            "Location": "BEYCIK KEMER ANTALYA"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "09:22:03",
+            "Latitude": "37.8723",
+            "Longitude": "26.9548",
+            "Depth": "8.9",
+            "ML": "2.1",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.23",
             "Time": "07:34:37",
             "Latitude": "37.9143",
             "Longitude": "27.1035",
@@ -4445,33 +4472,6 @@
             "Depth": "5.3",
             "ML": "2.1",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "05:13:16",
-            "Latitude": "38.3697",
-            "Longitude": "38.8960",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "KAYABAGLARI SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "05:08:52",
-            "Latitude": "37.7335",
-            "Longitude": "25.9437",
-            "Depth": "1.4",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "05:07:32",
-            "Latitude": "37.0275",
-            "Longitude": "37.4317",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "SAHINBEY GAZIANTEP"
         }
     ]
 }
