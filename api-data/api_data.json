@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2021.12.23",
+            "Time": "18:48:21",
+            "Latitude": "39.8032",
+            "Longitude": "41.8482",
+            "Depth": "14.0",
+            "ML": "1.5",
+            "Location": "YEMLIK KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "17:54:45",
+            "Latitude": "37.8698",
+            "Longitude": "27.5820",
+            "Depth": "5.2",
+            "ML": "2.2",
+            "Location": "GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "17:20:46",
+            "Latitude": "35.2918",
+            "Longitude": "25.3220",
+            "Depth": "8.6",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.23",
             "Time": "16:43:07",
             "Latitude": "37.4255",
             "Longitude": "36.1873",
@@ -4436,33 +4463,6 @@
             "Depth": "13.0",
             "ML": "3.2",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "15:07:53",
-            "Latitude": "38.3372",
-            "Longitude": "27.2812",
-            "Depth": "13.9",
-            "ML": "1.6",
-            "Location": "BELENBASI BUCA IZMIR"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "14:48:43",
-            "Latitude": "40.2727",
-            "Longitude": "41.7413",
-            "Depth": "28.8",
-            "ML": "2.0",
-            "Location": "SAVASCILAR NARMAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "14:30:56",
-            "Latitude": "40.8487",
-            "Longitude": "31.7067",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "MESCICELE BOLU"
         }
     ]
 }
