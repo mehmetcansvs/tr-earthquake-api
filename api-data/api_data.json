@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.23",
+            "Time": "07:34:37",
+            "Latitude": "37.9143",
+            "Longitude": "27.1035",
+            "Depth": "7.1",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "07:30:11",
+            "Latitude": "38.9290",
+            "Longitude": "43.5722",
+            "Depth": "13.3",
+            "ML": "2.0",
+            "Location": "CAKIRBEY VAN"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "07:26:28",
+            "Latitude": "34.8543",
+            "Longitude": "24.3308",
+            "Depth": "6.5",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "07:18:33",
+            "Latitude": "38.0767",
+            "Longitude": "30.3983",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "ILEYDAGI ULUBORLU ISPARTA"
+        },
+        {
+            "Date": "2021.12.23",
             "Time": "06:47:26",
             "Latitude": "36.5207",
             "Longitude": "27.7932",
@@ -71,6 +107,15 @@
             "Depth": "9.2",
             "ML": "1.2",
             "Location": "BOZKURT DENIZLI"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "05:11:22",
+            "Latitude": "35.1245",
+            "Longitude": "25.2085",
+            "Depth": "4.0",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2021.12.23",
@@ -4427,51 +4472,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "SAHINBEY GAZIANTEP"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "05:07:11",
-            "Latitude": "37.7372",
-            "Longitude": "25.9632",
-            "Depth": "14.6",
-            "ML": "3.2",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "04:42:45",
-            "Latitude": "35.9330",
-            "Longitude": "27.7088",
-            "Depth": "11.5",
-            "ML": "2.1",
-            "Location": "RODOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "04:36:40",
-            "Latitude": "38.6917",
-            "Longitude": "44.0287",
-            "Depth": "6.7",
-            "ML": "1.7",
-            "Location": "MEHMETALAN OZALP VAN"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "04:06:08",
-            "Latitude": "36.5255",
-            "Longitude": "28.7565",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "03:25:53",
-            "Latitude": "41.3585",
-            "Longitude": "43.9863",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "GURCISTAN"
         }
     ]
 }
