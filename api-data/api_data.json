@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.23",
+            "Time": "22:56:36",
+            "Latitude": "40.1930",
+            "Longitude": "33.9663",
+            "Depth": "6.9",
+            "ML": "2.4",
+            "Location": "KAVAKKOY DELICE KIRIKKALE"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "22:43:52",
+            "Latitude": "37.1490",
+            "Longitude": "28.2453",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "ALGI MUGLA"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "22:32:26",
+            "Latitude": "35.8033",
+            "Longitude": "29.1278",
+            "Depth": "19.1",
+            "ML": "1.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "22:08:37",
+            "Latitude": "37.9047",
+            "Longitude": "27.1350",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.23",
             "Time": "20:26:46",
             "Latitude": "37.6455",
             "Longitude": "27.2445",
@@ -4427,42 +4463,6 @@
             "Depth": "20.2",
             "ML": "2.7",
             "Location": "TURKIYE IRAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2021.12.12",
-            "Time": "04:57:33",
-            "Latitude": "37.7575",
-            "Longitude": "26.6542",
-            "Depth": "7.8",
-            "ML": "1.9",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.12",
-            "Time": "04:31:09",
-            "Latitude": "36.6468",
-            "Longitude": "36.0588",
-            "Depth": "5.3",
-            "ML": "0.8",
-            "Location": "KARAAGAC ARSUZ HATAY"
-        },
-        {
-            "Date": "2021.12.12",
-            "Time": "03:55:16",
-            "Latitude": "38.4882",
-            "Longitude": "39.2990",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "BEKCITEPE SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2021.12.12",
-            "Time": "02:06:52",
-            "Latitude": "38.9535",
-            "Longitude": "43.4270",
-            "Depth": "19.0",
-            "ML": "1.6",
-            "Location": "VAN GOLU"
         }
     ]
 }
