@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.23",
+            "Time": "23:51:50",
+            "Latitude": "36.0848",
+            "Longitude": "35.8045",
+            "Depth": "11.8",
+            "ML": "3.0",
+            "Location": "SAMANDAG HATAY ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "23:47:08",
+            "Latitude": "39.2860",
+            "Longitude": "33.2677",
+            "Depth": "5.8",
+            "ML": "1.1",
+            "Location": "EGRIBASAN BALA ANKARA"
+        },
+        {
+            "Date": "2021.12.23",
             "Time": "22:56:36",
             "Latitude": "40.1930",
             "Longitude": "33.9663",
@@ -26,6 +44,15 @@
             "Depth": "19.1",
             "ML": "1.6",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "22:11:06",
+            "Latitude": "38.7522",
+            "Longitude": "33.5918",
+            "Depth": "2.6",
+            "ML": "1.8",
+            "Location": "CALOREN SEREFLIKOCHISAR ANKARA"
         },
         {
             "Date": "2021.12.23",
@@ -4436,33 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.3",
             "Location": "GOKCE ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.12",
-            "Time": "05:56:11",
-            "Latitude": "37.2048",
-            "Longitude": "30.6620",
-            "Depth": "89.2",
-            "ML": "2.4",
-            "Location": "KARAVELILER DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2021.12.12",
-            "Time": "05:47:31",
-            "Latitude": "38.4932",
-            "Longitude": "39.2062",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "KAVAKTEPE ELAZIG"
-        },
-        {
-            "Date": "2021.12.12",
-            "Time": "05:15:56",
-            "Latitude": "39.2245",
-            "Longitude": "44.1743",
-            "Depth": "20.2",
-            "ML": "2.7",
-            "Location": "TURKIYE IRAN SINIR BOLGESI"
         }
     ]
 }
