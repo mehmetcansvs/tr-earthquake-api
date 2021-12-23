@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2021.12.23",
+            "Time": "16:43:07",
+            "Latitude": "37.4255",
+            "Longitude": "36.1873",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "KAYASUYU KADIRLI OSMANIYE"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "16:34:15",
+            "Latitude": "36.1673",
+            "Longitude": "33.5302",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "KOCASLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "16:33:38",
+            "Latitude": "39.6882",
+            "Longitude": "43.5473",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "YUKARIESEN TASLICAY AGRI"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "16:04:35",
+            "Latitude": "37.6527",
+            "Longitude": "26.1018",
+            "Depth": "4.4",
+            "ML": "2.2",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "15:54:10",
+            "Latitude": "37.5465",
+            "Longitude": "26.2140",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "15:51:05",
+            "Latitude": "37.6230",
+            "Longitude": "26.0418",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2021.12.23",
             "Time": "14:15:26",
             "Latitude": "40.2275",
             "Longitude": "29.0468",
@@ -4409,60 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.9",
             "Location": "MESCICELE BOLU"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "14:13:48",
-            "Latitude": "36.3932",
-            "Longitude": "33.8268",
-            "Depth": "0.0",
-            "ML": "0.8",
-            "Location": "EKSILER SILIFKE MERSIN"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "13:03:45",
-            "Latitude": "37.8513",
-            "Longitude": "26.7900",
-            "Depth": "23.8",
-            "ML": "1.7",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "12:47:52",
-            "Latitude": "37.9003",
-            "Longitude": "26.9203",
-            "Depth": "22.3",
-            "ML": "2.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "12:29:00",
-            "Latitude": "38.2760",
-            "Longitude": "38.4405",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "UZUMLU MALATYA"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "12:28:37",
-            "Latitude": "38.5912",
-            "Longitude": "30.7243",
-            "Depth": "5.7",
-            "ML": "1.8",
-            "Location": "KIZILDAG AFYONKARAHISAR"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "10:11:10",
-            "Latitude": "36.6987",
-            "Longitude": "27.1862",
-            "Depth": "5.4",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
