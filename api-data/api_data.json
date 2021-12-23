@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2021.12.23",
+            "Time": "06:47:26",
+            "Latitude": "36.5207",
+            "Longitude": "27.7932",
+            "Depth": "5.5",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "06:28:15",
+            "Latitude": "40.7972",
+            "Longitude": "29.2100",
+            "Depth": "8.3",
+            "ML": "1.1",
+            "Location": "TUZLA ISTANBUL"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "06:10:07",
+            "Latitude": "38.8945",
+            "Longitude": "43.5463",
+            "Depth": "9.7",
+            "ML": "1.6",
+            "Location": "COLPAN VAN"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "05:58:45",
+            "Latitude": "40.1762",
+            "Longitude": "31.7400",
+            "Depth": "7.9",
+            "ML": "1.8",
+            "Location": "HIRKATEPE BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "05:48:53",
+            "Latitude": "38.1963",
+            "Longitude": "42.6177",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "ELMACIK HIZAN BITLIS"
+        },
+        {
+            "Date": "2021.12.23",
+            "Time": "05:32:24",
+            "Latitude": "38.2168",
+            "Longitude": "30.0150",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "ISHAKLI CIVRIL DENIZLI"
+        },
+        {
+            "Date": "2021.12.23",
             "Time": "05:24:12",
             "Latitude": "38.2387",
             "Longitude": "29.9943",
@@ -4418,60 +4472,6 @@
             "Depth": "5.4",
             "ML": "1.8",
             "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "03:00:19",
-            "Latitude": "34.9875",
-            "Longitude": "25.3378",
-            "Depth": "27.8",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "02:12:09",
-            "Latitude": "36.9068",
-            "Longitude": "34.0325",
-            "Depth": "4.0",
-            "ML": "1.9",
-            "Location": "EVDILEK ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "01:52:15",
-            "Latitude": "38.5800",
-            "Longitude": "43.0367",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "01:17:10",
-            "Latitude": "38.4217",
-            "Longitude": "42.8727",
-            "Depth": "7.9",
-            "ML": "1.4",
-            "Location": "ALTINSAC GEVAS VAN"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "00:34:02",
-            "Latitude": "38.9082",
-            "Longitude": "43.6735",
-            "Depth": "22.1",
-            "ML": "1.6",
-            "Location": "OVAPINAR MURADIYE VAN"
-        },
-        {
-            "Date": "2021.12.11",
-            "Time": "00:23:01",
-            "Latitude": "38.4453",
-            "Longitude": "26.6795",
-            "Depth": "8.5",
-            "ML": "1.6",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
         }
     ]
 }
