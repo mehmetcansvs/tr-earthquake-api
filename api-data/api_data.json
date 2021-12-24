@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.24",
+            "Time": "22:02:38",
+            "Latitude": "38.2948",
+            "Longitude": "42.7807",
+            "Depth": "11.1",
+            "ML": "1.9",
+            "Location": "ANAKOY GEVAS VAN"
+        },
+        {
+            "Date": "2021.12.24",
             "Time": "20:36:32",
             "Latitude": "39.8195",
             "Longitude": "41.8730",
@@ -4452,15 +4461,6 @@
             "Latitude": "35.1587",
             "Longitude": "25.2960",
             "Depth": "5.3",
-            "ML": "1.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "04:51:11",
-            "Latitude": "35.4972",
-            "Longitude": "25.3407",
-            "Depth": "8.5",
             "ML": "1.6",
             "Location": "GIRIT ADASI AKDENIZ"
         }
