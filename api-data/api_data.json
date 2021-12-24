@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2021.12.24",
+            "Time": "04:35:19",
+            "Latitude": "35.1128",
+            "Longitude": "25.1440",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.24",
             "Time": "03:36:59",
             "Latitude": "38.7815",
             "Longitude": "43.7173",
             "Depth": "18.3",
             "ML": "1.7",
             "Location": "SARIMEMET MURADIYE VAN"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "02:59:59",
+            "Latitude": "35.2033",
+            "Longitude": "25.2905",
+            "Depth": "7.4",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "02:39:56",
+            "Latitude": "37.9223",
+            "Longitude": "27.6467",
+            "Depth": "1.6",
+            "ML": "2.2",
+            "Location": "BOZKOY GERMENCIK AYDIN"
         },
         {
             "Date": "2021.12.24",
@@ -4436,33 +4463,6 @@
             "Depth": "8.3",
             "ML": "1.7",
             "Location": "ARMUTCUK ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "00:25:43",
-            "Latitude": "37.4762",
-            "Longitude": "35.8498",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "HACIMIRZALI KOZAN ADANA"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "00:23:53",
-            "Latitude": "37.4705",
-            "Longitude": "35.8027",
-            "Depth": "5.0",
-            "ML": "3.3",
-            "Location": "HACIMIRZALI KOZAN ADANA"
-        },
-        {
-            "Date": "2021.12.12",
-            "Time": "22:51:50",
-            "Latitude": "38.3818",
-            "Longitude": "38.9480",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "YUREKKAYA SIVRICE ELAZIG"
         }
     ]
 }
