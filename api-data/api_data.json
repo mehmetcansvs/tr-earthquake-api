@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.24",
+            "Time": "18:53:31",
+            "Latitude": "37.8408",
+            "Longitude": "26.8983",
+            "Depth": "7.6",
+            "ML": "1.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "18:00:32",
+            "Latitude": "39.7927",
+            "Longitude": "41.8888",
+            "Depth": "5.7",
+            "ML": "2.2",
+            "Location": "SARITAS KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "17:55:03",
+            "Latitude": "36.3848",
+            "Longitude": "27.1168",
+            "Depth": "8.7",
+            "ML": "1.6",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "17:24:36",
+            "Latitude": "37.0710",
+            "Longitude": "28.4005",
+            "Depth": "4.2",
+            "ML": "1.3",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2021.12.24",
             "Time": "15:40:14",
             "Latitude": "37.5912",
             "Longitude": "26.2493",
@@ -4427,42 +4463,6 @@
             "Depth": "11.8",
             "ML": "1.3",
             "Location": "BASARAN KIRAZ IZMIR"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "00:48:31",
-            "Latitude": "38.4277",
-            "Longitude": "38.8867",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "KUTLUGUN BASKIL ELAZIG"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "23:36:32",
-            "Latitude": "36.8622",
-            "Longitude": "27.6082",
-            "Depth": "29.4",
-            "ML": "1.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "23:31:48",
-            "Latitude": "36.3305",
-            "Longitude": "28.5192",
-            "Depth": "4.0",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "22:35:47",
-            "Latitude": "37.3855",
-            "Longitude": "29.0888",
-            "Depth": "18.2",
-            "ML": "2.8",
-            "Location": "GUMUSDERE TAVAS DENIZLI"
         }
     ]
 }
