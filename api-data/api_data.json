@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2021.12.24",
+            "Time": "06:52:37",
+            "Latitude": "36.5528",
+            "Longitude": "27.7385",
+            "Depth": "81.5",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "06:05:19",
+            "Latitude": "37.8362",
+            "Longitude": "26.8592",
+            "Depth": "4.1",
+            "ML": "1.6",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "05:59:35",
+            "Latitude": "38.6738",
+            "Longitude": "43.5765",
+            "Depth": "4.2",
+            "ML": "1.5",
+            "Location": "KOZLUCA VAN"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "05:26:38",
+            "Latitude": "38.7058",
+            "Longitude": "43.6217",
+            "Depth": "5.0",
+            "ML": "4.0",
+            "Location": "KARAGUNDUZ VAN"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "05:22:34",
+            "Latitude": "39.7853",
+            "Longitude": "41.8313",
+            "Depth": "4.8",
+            "ML": "1.0",
+            "Location": "YEMLIK KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "05:07:52",
+            "Latitude": "40.1350",
+            "Longitude": "42.1585",
+            "Depth": "18.6",
+            "ML": "1.3",
+            "Location": "ASAGIBADEMOZU HORASAN ERZURUM"
+        },
+        {
+            "Date": "2021.12.24",
             "Time": "04:35:19",
             "Latitude": "35.1128",
             "Longitude": "25.1440",
@@ -29,12 +83,48 @@
         },
         {
             "Date": "2021.12.24",
+            "Time": "02:43:44",
+            "Latitude": "37.9265",
+            "Longitude": "27.6430",
+            "Depth": "4.7",
+            "ML": "1.5",
+            "Location": "BOZKOY GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "02:40:50",
+            "Latitude": "37.9530",
+            "Longitude": "27.6403",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "BOZKOY GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2021.12.24",
             "Time": "02:39:56",
             "Latitude": "37.9223",
             "Longitude": "27.6467",
             "Depth": "1.6",
             "ML": "2.2",
             "Location": "BOZKOY GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "02:31:17",
+            "Latitude": "39.3593",
+            "Longitude": "33.2945",
+            "Depth": "5.4",
+            "ML": "1.1",
+            "Location": "YUKARIHACIBEKIR BALA ANKARA"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "02:30:25",
+            "Latitude": "38.7403",
+            "Longitude": "43.5885",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "ASAGIGOLALAN VAN"
         },
         {
             "Date": "2021.12.24",
@@ -4373,96 +4463,6 @@
             "Depth": "5.2",
             "ML": "1.6",
             "Location": "AKKAYA MUGLA"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "05:29:13",
-            "Latitude": "38.5663",
-            "Longitude": "27.4438",
-            "Depth": "9.3",
-            "ML": "1.0",
-            "Location": "AYVACIK MANISA"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "04:57:21",
-            "Latitude": "38.5217",
-            "Longitude": "39.2900",
-            "Depth": "14.0",
-            "ML": "1.5",
-            "Location": "ACIPAYAM ELAZIG"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "04:00:36",
-            "Latitude": "37.8892",
-            "Longitude": "29.2487",
-            "Depth": "4.8",
-            "ML": "1.5",
-            "Location": "IRLIGANLI DENIZLI"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "03:38:29",
-            "Latitude": "36.4178",
-            "Longitude": "28.4188",
-            "Depth": "23.1",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "03:29:13",
-            "Latitude": "37.9027",
-            "Longitude": "35.0992",
-            "Depth": "9.5",
-            "ML": "1.1",
-            "Location": "PINARBASI CAMARDI NIGDE"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "02:49:14",
-            "Latitude": "40.1208",
-            "Longitude": "40.8680",
-            "Depth": "4.0",
-            "ML": "1.5",
-            "Location": "YUKARICANOREN AZIZIYE ERZURUM"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "02:31:51",
-            "Latitude": "38.4392",
-            "Longitude": "39.2217",
-            "Depth": "12.0",
-            "ML": "1.4",
-            "Location": "KURKKOY SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "01:28:39",
-            "Latitude": "38.8815",
-            "Longitude": "43.4888",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "00:58:06",
-            "Latitude": "40.5585",
-            "Longitude": "35.4760",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "BOGAZKAYA MECITOZU CORUM"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "00:45:36",
-            "Latitude": "37.1287",
-            "Longitude": "28.5090",
-            "Depth": "8.3",
-            "ML": "1.7",
-            "Location": "ARMUTCUK ULA MUGLA"
         }
     ]
 }
