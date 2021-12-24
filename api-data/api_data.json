@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2021.12.24",
+            "Time": "08:07:13",
+            "Latitude": "40.5120",
+            "Longitude": "34.3550",
+            "Depth": "13.0",
+            "ML": "2.0",
+            "Location": "YARIMCA UGURLUDAG CORUM"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "07:44:13",
+            "Latitude": "37.0290",
+            "Longitude": "27.8293",
+            "Depth": "11.8",
+            "ML": "1.4",
+            "Location": "BOZALAN MILAS MUGLA"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "07:20:30",
+            "Latitude": "40.4925",
+            "Longitude": "26.4858",
+            "Depth": "9.4",
+            "ML": "1.9",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.24",
             "Time": "06:52:37",
             "Latitude": "36.5528",
             "Longitude": "27.7385",
@@ -4436,33 +4463,6 @@
             "Depth": "5.9",
             "ML": "1.7",
             "Location": "HONAZ DENIZLI"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "06:40:59",
-            "Latitude": "38.8875",
-            "Longitude": "43.4913",
-            "Depth": "3.0",
-            "ML": "1.9",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "06:23:19",
-            "Latitude": "38.5417",
-            "Longitude": "44.8318",
-            "Depth": "5.4",
-            "ML": "2.5",
-            "Location": "TURKIYE IRAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "06:10:30",
-            "Latitude": "37.1703",
-            "Longitude": "28.3137",
-            "Depth": "5.2",
-            "ML": "1.6",
-            "Location": "AKKAYA MUGLA"
         }
     ]
 }
