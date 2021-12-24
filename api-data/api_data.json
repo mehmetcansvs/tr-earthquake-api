@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.24",
+            "Time": "15:40:14",
+            "Latitude": "37.5912",
+            "Longitude": "26.2493",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "15:27:06",
+            "Latitude": "39.8713",
+            "Longitude": "41.7235",
+            "Depth": "14.0",
+            "ML": "1.5",
+            "Location": "YASTIKTEPE PASINLER ERZURUM"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "15:24:12",
+            "Latitude": "39.8243",
+            "Longitude": "33.2757",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "HISARKOY YAHSIHAN KIRIKKALE"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "15:11:04",
+            "Latitude": "35.1480",
+            "Longitude": "27.2965",
+            "Depth": "24.6",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.24",
             "Time": "14:01:26",
             "Latitude": "36.7162",
             "Longitude": "34.6540",
@@ -4427,42 +4463,6 @@
             "Depth": "18.2",
             "ML": "2.8",
             "Location": "GUMUSDERE TAVAS DENIZLI"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "21:12:26",
-            "Latitude": "37.8588",
-            "Longitude": "29.3115",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "GURLEYIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "20:10:33",
-            "Latitude": "38.6407",
-            "Longitude": "39.5368",
-            "Depth": "5.0",
-            "ML": "3.6",
-            "Location": "ICME ELAZIG"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "20:03:44",
-            "Latitude": "38.4008",
-            "Longitude": "26.8145",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.13",
-            "Time": "20:00:38",
-            "Latitude": "37.0148",
-            "Longitude": "29.1253",
-            "Depth": "9.3",
-            "ML": "1.5",
-            "Location": "AKPINAR CAMELI DENIZLI"
         }
     ]
 }
