@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.25",
+            "Time": "15:19:42",
+            "Latitude": "36.6295",
+            "Longitude": "27.0318",
+            "Depth": "131.9",
+            "ML": "3.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "15:10:47",
+            "Latitude": "37.8743",
+            "Longitude": "32.1460",
+            "Depth": "4.8",
+            "ML": "1.1",
+            "Location": "KIZILOREN MERAM KONYA"
+        },
+        {
+            "Date": "2021.12.25",
             "Time": "13:16:31",
             "Latitude": "36.8802",
             "Longitude": "35.9603",
@@ -4445,24 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "CUKUROREN BOLU"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "16:34:33",
-            "Latitude": "37.7018",
-            "Longitude": "25.9372",
-            "Depth": "4.6",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "16:08:15",
-            "Latitude": "38.6832",
-            "Longitude": "39.5363",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "OSMANAGAKOY KOVANCILAR ELAZIG"
         }
     ]
 }
