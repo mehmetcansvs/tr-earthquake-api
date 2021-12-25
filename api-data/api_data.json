@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2021.12.25",
+            "Time": "05:11:18",
+            "Latitude": "36.2332",
+            "Longitude": "27.0367",
+            "Depth": "4.5",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "04:30:20",
+            "Latitude": "38.3330",
+            "Longitude": "38.6955",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "ERDEMLI KALE MALATYA"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "04:11:40",
+            "Latitude": "37.8643",
+            "Longitude": "29.3317",
+            "Depth": "14.4",
+            "ML": "1.4",
+            "Location": "KARAPINAR CAL DENIZLI"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "03:55:32",
+            "Latitude": "37.3742",
+            "Longitude": "35.7723",
+            "Depth": "4.6",
+            "ML": "0.9",
+            "Location": "CUKUROREN KOZAN ADANA"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "03:46:26",
+            "Latitude": "36.4570",
+            "Longitude": "27.1115",
+            "Depth": "4.0",
+            "ML": "1.6",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2021.12.25",
             "Time": "03:36:48",
             "Latitude": "37.9028",
             "Longitude": "27.0258",
@@ -4418,51 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "CENGILTI KARATAY KONYA"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "12:17:41",
-            "Latitude": "37.2935",
-            "Longitude": "31.9208",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "SUSUZ SEYDISEHIR KONYA"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "11:49:42",
-            "Latitude": "37.1657",
-            "Longitude": "37.2113",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "YESILCE SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "11:38:49",
-            "Latitude": "37.2990",
-            "Longitude": "26.8805",
-            "Depth": "2.7",
-            "ML": "2.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "11:20:56",
-            "Latitude": "34.8723",
-            "Longitude": "25.6652",
-            "Depth": "6.8",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "10:58:43",
-            "Latitude": "35.8570",
-            "Longitude": "25.4715",
-            "Depth": "17.4",
-            "ML": "1.4",
-            "Location": "AKDENIZ"
         }
     ]
 }
