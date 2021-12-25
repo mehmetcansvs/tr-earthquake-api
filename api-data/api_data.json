@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2021.12.25",
+            "Time": "13:06:10",
+            "Latitude": "37.8673",
+            "Longitude": "29.3453",
+            "Depth": "9.5",
+            "ML": "1.9",
+            "Location": "KARAPINAR CAL DENIZLI"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "12:36:35",
+            "Latitude": "35.2758",
+            "Longitude": "25.2423",
+            "Depth": "2.6",
+            "ML": "1.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "12:15:19",
+            "Latitude": "36.2197",
+            "Longitude": "33.7075",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "ISIKLI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "11:33:45",
+            "Latitude": "39.9400",
+            "Longitude": "30.4693",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "AVLAMIS TEPEBASI ESKISEHIR"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "10:27:42",
+            "Latitude": "34.9073",
+            "Longitude": "23.8088",
+            "Depth": "12.6",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "09:54:47",
+            "Latitude": "37.8603",
+            "Longitude": "29.2767",
+            "Depth": "4.2",
+            "ML": "1.2",
+            "Location": "GURLEYIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2021.12.25",
             "Time": "08:12:08",
             "Latitude": "37.8670",
             "Longitude": "29.3062",
@@ -4409,60 +4463,6 @@
             "Depth": "8.2",
             "ML": "1.9",
             "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "14:53:45",
-            "Latitude": "38.4337",
-            "Longitude": "39.1347",
-            "Depth": "1.4",
-            "ML": "2.0",
-            "Location": "KAVAKKOY SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "14:53:32",
-            "Latitude": "37.6582",
-            "Longitude": "26.0970",
-            "Depth": "4.6",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "14:48:12",
-            "Latitude": "37.8603",
-            "Longitude": "29.7428",
-            "Depth": "8.7",
-            "ML": "1.5",
-            "Location": "DARICILAR DAZKIRI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "14:43:37",
-            "Latitude": "40.1530",
-            "Longitude": "31.7227",
-            "Depth": "5.3",
-            "ML": "1.9",
-            "Location": "SEKLI BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "14:37:14",
-            "Latitude": "37.9575",
-            "Longitude": "27.1353",
-            "Depth": "15.9",
-            "ML": "2.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "14:17:39",
-            "Latitude": "36.1388",
-            "Longitude": "33.5313",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "YANISLI GULNAR MERSIN"
         }
     ]
 }
