@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.25",
+            "Time": "08:12:08",
+            "Latitude": "37.8670",
+            "Longitude": "29.3062",
+            "Depth": "13.4",
+            "ML": "1.2",
+            "Location": "GURLEYIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "07:31:34",
+            "Latitude": "37.8733",
+            "Longitude": "27.0763",
+            "Depth": "5.7",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.25",
             "Time": "06:56:28",
             "Latitude": "37.8268",
             "Longitude": "29.6722",
@@ -4445,24 +4463,6 @@
             "Depth": "0.0",
             "ML": "0.9",
             "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "13:14:36",
-            "Latitude": "40.8037",
-            "Longitude": "30.6788",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "SEYHLER HENDEK SAKARYA"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "13:10:07",
-            "Latitude": "36.2790",
-            "Longitude": "27.0422",
-            "Depth": "2.8",
-            "ML": "2.7",
-            "Location": "AKDENIZ"
         }
     ]
 }
