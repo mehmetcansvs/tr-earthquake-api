@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.25",
+            "Time": "06:56:28",
+            "Latitude": "37.8268",
+            "Longitude": "29.6722",
+            "Depth": "5.9",
+            "ML": "1.7",
+            "Location": "CARDAK DENIZLI"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "06:52:40",
+            "Latitude": "39.3705",
+            "Longitude": "40.7215",
+            "Depth": "3.8",
+            "ML": "1.2",
+            "Location": "KAYNARPINAR KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "06:11:24",
+            "Latitude": "36.0167",
+            "Longitude": "27.6255",
+            "Depth": "5.3",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.25",
+            "Time": "05:58:10",
+            "Latitude": "37.6317",
+            "Longitude": "26.7728",
+            "Depth": "16.0",
+            "ML": "1.3",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.25",
             "Time": "05:11:18",
             "Latitude": "36.2332",
             "Longitude": "27.0367",
@@ -4427,42 +4463,6 @@
             "Depth": "2.8",
             "ML": "2.7",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "12:56:58",
-            "Latitude": "38.2882",
-            "Longitude": "44.4160",
-            "Depth": "4.5",
-            "ML": "2.3",
-            "Location": "BOGRUPEK BASKALE VAN"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "12:48:25",
-            "Latitude": "35.4607",
-            "Longitude": "25.3930",
-            "Depth": "12.1",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "12:37:51",
-            "Latitude": "38.5018",
-            "Longitude": "39.3072",
-            "Depth": "1.2",
-            "ML": "2.2",
-            "Location": "GUNEYKOY SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2021.12.14",
-            "Time": "12:34:45",
-            "Latitude": "38.0082",
-            "Longitude": "32.6978",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "CENGILTI KARATAY KONYA"
         }
     ]
 }
