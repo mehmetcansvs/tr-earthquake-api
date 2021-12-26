@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.26",
+            "Time": "02:42:31",
+            "Latitude": "40.1898",
+            "Longitude": "28.6850",
+            "Depth": "10.2",
+            "ML": "1.9",
+            "Location": "CATALAGIL NILUFER BURSA"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "02:22:58",
+            "Latitude": "34.7452",
+            "Longitude": "24.9053",
+            "Depth": "12.4",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "01:53:14",
+            "Latitude": "37.0923",
+            "Longitude": "28.3798",
+            "Depth": "5.7",
+            "ML": "1.7",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "01:05:24",
+            "Latitude": "35.1123",
+            "Longitude": "25.2290",
+            "Depth": "3.4",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.26",
             "Time": "00:09:57",
             "Latitude": "40.7570",
             "Longitude": "30.9715",
@@ -4427,42 +4463,6 @@
             "Depth": "19.8",
             "ML": "4.0",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "06:19:11",
-            "Latitude": "38.7282",
-            "Longitude": "43.5137",
-            "Depth": "15.8",
-            "ML": "1.9",
-            "Location": "AKCAOREN VAN"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "05:56:51",
-            "Latitude": "36.0080",
-            "Longitude": "27.5995",
-            "Depth": "5.4",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "05:23:57",
-            "Latitude": "40.1890",
-            "Longitude": "31.8180",
-            "Depth": "9.9",
-            "ML": "1.7",
-            "Location": "CAKILOBA BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "04:58:12",
-            "Latitude": "41.0378",
-            "Longitude": "40.9523",
-            "Depth": "10.1",
-            "ML": "1.4",
-            "Location": "BOGAZICI CAMLIHEMSIN RIZE"
         }
     ]
 }
