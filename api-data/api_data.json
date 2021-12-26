@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2021.12.26",
+            "Time": "12:40:06",
+            "Latitude": "39.2420",
+            "Longitude": "32.9597",
+            "Depth": "24.0",
+            "ML": "1.4",
+            "Location": "KOMUSINI KULU KONYA"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "12:32:47",
+            "Latitude": "39.8405",
+            "Longitude": "41.8098",
+            "Depth": "19.3",
+            "ML": "1.9",
+            "Location": "MARIFET KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "12:16:34",
+            "Latitude": "36.2515",
+            "Longitude": "33.6890",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "ISIKLI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2021.12.26",
             "Time": "11:08:51",
             "Latitude": "39.4453",
             "Longitude": "31.5908",
@@ -29,12 +56,39 @@
         },
         {
             "Date": "2021.12.26",
+            "Time": "10:28:58",
+            "Latitude": "37.8982",
+            "Longitude": "29.2440",
+            "Depth": "17.7",
+            "ML": "1.3",
+            "Location": "IRLIGANLI DENIZLI"
+        },
+        {
+            "Date": "2021.12.26",
             "Time": "09:29:16",
             "Latitude": "38.3640",
             "Longitude": "26.8935",
             "Depth": "8.3",
             "ML": "2.1",
             "Location": "GUZELBAHCE IZMIR"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "08:42:43",
+            "Latitude": "38.7167",
+            "Longitude": "26.4378",
+            "Depth": "11.5",
+            "ML": "1.6",
+            "Location": "HASSEKI KARABURUN IZMIR"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "08:39:44",
+            "Latitude": "38.6818",
+            "Longitude": "26.5268",
+            "Depth": "3.8",
+            "ML": "1.8",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
         },
         {
             "Date": "2021.12.26",
@@ -4409,60 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "SUNGUDERESI AKYAKA KARS"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "19:55:41",
-            "Latitude": "36.9447",
-            "Longitude": "27.6478",
-            "Depth": "9.8",
-            "ML": "2.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "18:20:59",
-            "Latitude": "38.9412",
-            "Longitude": "42.8142",
-            "Depth": "2.3",
-            "ML": "2.0",
-            "Location": "GUVERCINLI PATNOS AGRI"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "18:18:08",
-            "Latitude": "39.5762",
-            "Longitude": "41.3130",
-            "Depth": "10.7",
-            "ML": "2.0",
-            "Location": "TOPTEPE TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "17:54:05",
-            "Latitude": "41.3585",
-            "Longitude": "43.4093",
-            "Depth": "21.3",
-            "ML": "2.2",
-            "Location": "AKCIL CILDIR ARDAHAN"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "17:03:54",
-            "Latitude": "36.1283",
-            "Longitude": "33.5227",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "15:28:43",
-            "Latitude": "38.8557",
-            "Longitude": "41.8632",
-            "Depth": "12.5",
-            "ML": "1.7",
-            "Location": "MOLLABABA KORKUT MUS"
         }
     ]
 }
