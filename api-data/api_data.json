@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2021.12.26",
+            "Time": "21:59:02",
+            "Latitude": "35.1918",
+            "Longitude": "26.9537",
+            "Depth": "5.0",
+            "ML": "5.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "21:43:43",
+            "Latitude": "36.9185",
+            "Longitude": "27.2540",
+            "Depth": "6.6",
+            "ML": "1.9",
+            "Location": "KOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "21:04:01",
+            "Latitude": "37.8417",
+            "Longitude": "26.9207",
+            "Depth": "15.0",
+            "ML": "1.4",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.26",
             "Time": "20:42:59",
             "Latitude": "37.8760",
             "Longitude": "26.8480",
             "Depth": "3.8",
             "ML": "1.7",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "20:03:39",
+            "Latitude": "41.0378",
+            "Longitude": "35.1935",
+            "Depth": "5.1",
+            "ML": "1.6",
+            "Location": "DUMANLI GUMUSHACIKOY AMASYA"
         },
         {
             "Date": "2021.12.26",
@@ -4427,42 +4463,6 @@
             "Depth": "2.3",
             "ML": "2.7",
             "Location": "CORUS ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.16",
-            "Time": "03:49:41",
-            "Latitude": "36.1930",
-            "Longitude": "36.3328",
-            "Depth": "16.9",
-            "ML": "1.1",
-            "Location": "YARSELI ALTINOZU HATAY"
-        },
-        {
-            "Date": "2021.12.16",
-            "Time": "03:06:28",
-            "Latitude": "41.0898",
-            "Longitude": "43.8832",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2021.12.16",
-            "Time": "02:33:09",
-            "Latitude": "39.0370",
-            "Longitude": "27.5168",
-            "Depth": "10.6",
-            "ML": "1.8",
-            "Location": "YAYLAKOY KINIK IZMIR"
-        },
-        {
-            "Date": "2021.12.16",
-            "Time": "02:12:15",
-            "Latitude": "38.9547",
-            "Longitude": "26.0867",
-            "Depth": "5.5",
-            "ML": "2.0",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         }
     ]
 }
