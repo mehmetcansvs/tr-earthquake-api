@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.26",
+            "Time": "20:42:59",
+            "Latitude": "37.8760",
+            "Longitude": "26.8480",
+            "Depth": "3.8",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "19:47:47",
+            "Latitude": "40.4648",
+            "Longitude": "34.0352",
+            "Depth": "3.5",
+            "ML": "2.1",
+            "Location": "KAPAKLI KIZILIRMAK CANKIRI"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "19:30:14",
+            "Latitude": "37.4785",
+            "Longitude": "26.9787",
+            "Depth": "4.1",
+            "ML": "1.5",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "19:13:51",
+            "Latitude": "38.1250",
+            "Longitude": "23.1493",
+            "Depth": "2.6",
+            "ML": "4.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2021.12.26",
             "Time": "19:00:18",
             "Latitude": "35.1705",
             "Longitude": "26.9600",
@@ -4427,42 +4463,6 @@
             "Depth": "5.5",
             "ML": "2.0",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.16",
-            "Time": "02:03:59",
-            "Latitude": "36.1622",
-            "Longitude": "27.1960",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.16",
-            "Time": "01:54:15",
-            "Latitude": "43.1868",
-            "Longitude": "38.2078",
-            "Depth": "4.2",
-            "ML": "3.2",
-            "Location": "KARADENIZ"
-        },
-        {
-            "Date": "2021.12.16",
-            "Time": "01:38:18",
-            "Latitude": "36.1415",
-            "Longitude": "29.1380",
-            "Depth": "19.5",
-            "ML": "1.4",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.16",
-            "Time": "01:28:15",
-            "Latitude": "41.1150",
-            "Longitude": "43.8843",
-            "Depth": "1.7",
-            "ML": "1.7",
-            "Location": "ERMENISTAN"
         }
     ]
 }
