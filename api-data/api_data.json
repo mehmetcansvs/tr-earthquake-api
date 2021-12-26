@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.26",
+            "Time": "08:35:13",
+            "Latitude": "38.6847",
+            "Longitude": "26.5533",
+            "Depth": "19.8",
+            "ML": "2.2",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "07:12:19",
+            "Latitude": "37.8493",
+            "Longitude": "27.0893",
+            "Depth": "5.9",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.26",
             "Time": "05:29:39",
             "Latitude": "40.1837",
             "Longitude": "31.6047",
@@ -4445,24 +4463,6 @@
             "Depth": "8.0",
             "ML": "1.8",
             "Location": "APA CUMRA KONYA"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "11:58:25",
-            "Latitude": "39.2248",
-            "Longitude": "27.5642",
-            "Depth": "9.0",
-            "ML": "1.8",
-            "Location": "HATUN SOMA MANISA"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "11:57:29",
-            "Latitude": "36.9855",
-            "Longitude": "28.5273",
-            "Depth": "5.2",
-            "ML": "2.0",
-            "Location": "CORUS ULA MUGLA"
         }
     ]
 }
