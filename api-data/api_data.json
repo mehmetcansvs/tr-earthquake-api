@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.26",
+            "Time": "05:29:39",
+            "Latitude": "40.1837",
+            "Longitude": "31.6047",
+            "Depth": "7.4",
+            "ML": "1.8",
+            "Location": "KARAKOY NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2021.12.26",
             "Time": "05:21:40",
             "Latitude": "37.1938",
             "Longitude": "28.6682",
@@ -4454,15 +4463,6 @@
             "Depth": "5.2",
             "ML": "2.0",
             "Location": "CORUS ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "11:52:45",
-            "Latitude": "36.6257",
-            "Longitude": "36.2400",
-            "Depth": "3.0",
-            "ML": "1.5",
-            "Location": "ORHANGAZI ISKENDERUN HATAY"
         }
     ]
 }
