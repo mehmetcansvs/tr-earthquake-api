@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.26",
+            "Time": "11:08:51",
+            "Latitude": "39.4453",
+            "Longitude": "31.5908",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "11:05:22",
+            "Latitude": "41.1950",
+            "Longitude": "31.8247",
+            "Depth": "8.6",
+            "ML": "2.2",
+            "Location": "TELLIOGLU DEVREK ZONGULDAK"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "11:04:31",
+            "Latitude": "37.6808",
+            "Longitude": "29.3765",
+            "Depth": "5.8",
+            "ML": "1.9",
+            "Location": "KOCAPINAR SERINHISAR DENIZLI"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "09:29:16",
+            "Latitude": "38.3640",
+            "Longitude": "26.8935",
+            "Depth": "8.3",
+            "ML": "2.1",
+            "Location": "GUZELBAHCE IZMIR"
+        },
+        {
+            "Date": "2021.12.26",
             "Time": "08:35:13",
             "Latitude": "38.6847",
             "Longitude": "26.5533",
@@ -4427,42 +4463,6 @@
             "Depth": "12.5",
             "ML": "1.7",
             "Location": "MOLLABABA KORKUT MUS"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "15:04:42",
-            "Latitude": "38.7342",
-            "Longitude": "43.2050",
-            "Depth": "21.9",
-            "ML": "1.5",
-            "Location": "OZYURT VAN"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "14:42:22",
-            "Latitude": "37.1507",
-            "Longitude": "28.5565",
-            "Depth": "8.2",
-            "ML": "1.9",
-            "Location": "YAYLASOGUT ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "13:54:13",
-            "Latitude": "39.1147",
-            "Longitude": "28.5307",
-            "Depth": "14.2",
-            "ML": "1.8",
-            "Location": "BARDAKCI DEMIRCI MANISA"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "12:36:59",
-            "Latitude": "37.3908",
-            "Longitude": "32.5660",
-            "Depth": "8.0",
-            "ML": "1.8",
-            "Location": "APA CUMRA KONYA"
         }
     ]
 }
