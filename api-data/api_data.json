@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.26",
+            "Time": "14:16:36",
+            "Latitude": "37.8123",
+            "Longitude": "29.6292",
+            "Depth": "17.8",
+            "ML": "1.4",
+            "Location": "BOZKURT DENIZLI"
+        },
+        {
+            "Date": "2021.12.26",
+            "Time": "13:04:59",
+            "Latitude": "37.2915",
+            "Longitude": "31.8987",
+            "Depth": "0.0",
+            "ML": "2.1",
+            "Location": "MADENLI SEYDISEHIR KONYA"
+        },
+        {
+            "Date": "2021.12.26",
             "Time": "12:40:06",
             "Latitude": "39.2420",
             "Longitude": "32.9597",
@@ -4445,24 +4463,6 @@
             "Depth": "6.3",
             "ML": "2.2",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "21:20:21",
-            "Latitude": "38.1907",
-            "Longitude": "27.3442",
-            "Depth": "20.3",
-            "ML": "1.6",
-            "Location": "TORBALI IZMIR"
-        },
-        {
-            "Date": "2021.12.15",
-            "Time": "20:45:41",
-            "Latitude": "40.8917",
-            "Longitude": "43.7720",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "SUNGUDERESI AKYAKA KARS"
         }
     ]
 }
