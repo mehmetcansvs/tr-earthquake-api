@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.27",
+            "Time": "20:33:15",
+            "Latitude": "37.0652",
+            "Longitude": "28.3757",
+            "Depth": "9.8",
+            "ML": "2.0",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2021.12.27",
             "Time": "17:57:51",
             "Latitude": "35.1507",
             "Longitude": "25.2118",
@@ -4454,15 +4463,6 @@
             "Depth": "17.2",
             "ML": "1.5",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "20:10:15",
-            "Latitude": "36.4340",
-            "Longitude": "37.9487",
-            "Depth": "7.3",
-            "ML": "1.7",
-            "Location": "SURIYE"
         }
     ]
 }
