@@ -2,6 +2,105 @@
     "data": [
         {
             "Date": "2021.12.27",
+            "Time": "16:46:44",
+            "Latitude": "39.2885",
+            "Longitude": "41.0872",
+            "Depth": "20.1",
+            "ML": "1.4",
+            "Location": "SAKAOREN KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "16:26:01",
+            "Latitude": "36.3253",
+            "Longitude": "38.7918",
+            "Depth": "7.7",
+            "ML": "2.1",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "16:09:47",
+            "Latitude": "37.1373",
+            "Longitude": "37.3982",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "DULUK SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "16:01:11",
+            "Latitude": "40.7738",
+            "Longitude": "30.6088",
+            "Depth": "0.0",
+            "ML": "2.2",
+            "Location": "YAGBASAN HENDEK SAKARYA"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "15:38:32",
+            "Latitude": "39.4782",
+            "Longitude": "41.2278",
+            "Depth": "17.7",
+            "ML": "1.9",
+            "Location": "HAMZALAR TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "15:30:02",
+            "Latitude": "39.5128",
+            "Longitude": "41.1995",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "AKDAMAR TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "15:25:27",
+            "Latitude": "40.5242",
+            "Longitude": "40.7792",
+            "Depth": "13.7",
+            "ML": "1.5",
+            "Location": "YIGITBASI PAZARYOLU ERZURUM"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "15:13:49",
+            "Latitude": "38.7162",
+            "Longitude": "28.9133",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BEYPINAR SELENDI MANISA"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "15:04:08",
+            "Latitude": "39.6423",
+            "Longitude": "42.5070",
+            "Depth": "20.0",
+            "ML": "1.4",
+            "Location": "DORTPINAR KARAYAZI ERZURUM"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "14:56:28",
+            "Latitude": "36.4415",
+            "Longitude": "37.2575",
+            "Depth": "21.1",
+            "ML": "1.9",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "14:45:23",
+            "Latitude": "38.0073",
+            "Longitude": "29.4992",
+            "Depth": "31.9",
+            "ML": "1.5",
+            "Location": "ISABEY CAL DENIZLI"
+        },
+        {
+            "Date": "2021.12.27",
             "Time": "12:44:25",
             "Latitude": "36.8507",
             "Longitude": "28.1035",
@@ -4364,105 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.8",
             "Location": "BOZARMUT SOMA MANISA"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "17:50:29",
-            "Latitude": "38.8613",
-            "Longitude": "31.1240",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "YURUKKARACAOREN BOLVADIN AFYONKARAHISAR"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "15:05:26",
-            "Latitude": "36.1800",
-            "Longitude": "36.0248",
-            "Depth": "15.2",
-            "ML": "2.0",
-            "Location": "YAYLICA SAMANDAG HATAY"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "14:58:06",
-            "Latitude": "37.1608",
-            "Longitude": "37.2647",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "BOYNO SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "13:54:11",
-            "Latitude": "41.1103",
-            "Longitude": "43.9528",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "13:40:30",
-            "Latitude": "39.1890",
-            "Longitude": "41.8703",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "KONGUR HINIS ERZURUM"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "13:27:34",
-            "Latitude": "35.2528",
-            "Longitude": "33.6428",
-            "Depth": "11.2",
-            "ML": "1.4",
-            "Location": "KIBRIS DEGIRMENLIK"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "13:10:55",
-            "Latitude": "38.0743",
-            "Longitude": "27.2122",
-            "Depth": "12.8",
-            "ML": "1.1",
-            "Location": "CAKALTEPE MENDERES IZMIR"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "13:08:28",
-            "Latitude": "40.4138",
-            "Longitude": "40.5617",
-            "Depth": "20.1",
-            "ML": "1.8",
-            "Location": "TASBURUN BAYBURT"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "12:54:33",
-            "Latitude": "38.6920",
-            "Longitude": "35.6272",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "TALAS KAYSERI"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "12:46:01",
-            "Latitude": "42.0560",
-            "Longitude": "33.6453",
-            "Depth": "12.1",
-            "ML": "1.7",
-            "Location": "OZLUCE INEBOLU KASTAMONU"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "12:28:32",
-            "Latitude": "40.4855",
-            "Longitude": "34.2067",
-            "Depth": "5.0",
-            "ML": "4.2",
-            "Location": "SAGPAZAR BAYAT CORUM"
         }
     ]
 }
