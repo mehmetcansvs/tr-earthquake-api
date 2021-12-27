@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.27",
+            "Time": "12:44:25",
+            "Latitude": "36.8507",
+            "Longitude": "28.1035",
+            "Depth": "13.9",
+            "ML": "1.7",
+            "Location": "HISARONU MARMARIS MUGLA"
+        },
+        {
+            "Date": "2021.12.27",
             "Time": "12:06:02",
             "Latitude": "37.1730",
             "Longitude": "37.1935",
@@ -4454,15 +4463,6 @@
             "Depth": "5.0",
             "ML": "4.2",
             "Location": "SAGPAZAR BAYAT CORUM"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "12:25:48",
-            "Latitude": "37.9260",
-            "Longitude": "29.2765",
-            "Depth": "17.4",
-            "ML": "1.5",
-            "Location": "BAKLANCAKIRLAR CAL DENIZLI"
         }
     ]
 }
