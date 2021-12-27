@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2021.12.28",
+            "Time": "00:33:20",
+            "Latitude": "37.3638",
+            "Longitude": "34.9995",
+            "Depth": "7.0",
+            "ML": "0.6",
+            "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "23:55:05",
+            "Latitude": "40.5845",
+            "Longitude": "30.5722",
+            "Depth": "11.7",
+            "ML": "1.8",
+            "Location": "AHMEDIYE KARAPURCEK SAKARYA"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "23:51:52",
+            "Latitude": "37.0165",
+            "Longitude": "27.2488",
+            "Depth": "24.2",
+            "ML": "1.4",
+            "Location": "TURGUTREIS BODRUM MUGLA"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "23:19:58",
+            "Latitude": "37.5838",
+            "Longitude": "28.7102",
+            "Depth": "5.3",
+            "ML": "2.2",
+            "Location": "KIRKOY KALE DENIZLI"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "23:08:19",
+            "Latitude": "38.6507",
+            "Longitude": "31.0617",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "YESILYURT CAY AFYONKARAHISAR"
+        },
+        {
             "Date": "2021.12.27",
             "Time": "22:17:22",
             "Latitude": "37.9685",
@@ -4418,51 +4463,6 @@
             "Depth": "4.8",
             "ML": "1.5",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.18",
-            "Time": "01:43:45",
-            "Latitude": "36.9388",
-            "Longitude": "27.7530",
-            "Depth": "17.1",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.18",
-            "Time": "01:41:33",
-            "Latitude": "38.8140",
-            "Longitude": "26.6245",
-            "Depth": "9.1",
-            "ML": "1.8",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.18",
-            "Time": "00:52:48",
-            "Latitude": "37.0567",
-            "Longitude": "28.3752",
-            "Depth": "4.3",
-            "ML": "1.7",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.18",
-            "Time": "00:44:23",
-            "Latitude": "37.0887",
-            "Longitude": "28.3763",
-            "Depth": "5.5",
-            "ML": "3.0",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.18",
-            "Time": "00:06:23",
-            "Latitude": "37.3418",
-            "Longitude": "38.7832",
-            "Depth": "17.4",
-            "ML": "1.1",
-            "Location": "ASAGICIFTLIK SANLIURFA"
         }
     ]
 }
