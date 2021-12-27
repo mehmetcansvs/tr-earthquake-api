@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2021.12.27",
+            "Time": "12:06:02",
+            "Latitude": "37.1730",
+            "Longitude": "37.1935",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "DURNALIK SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "11:47:26",
+            "Latitude": "36.1147",
+            "Longitude": "33.5660",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "11:17:34",
+            "Latitude": "36.0997",
+            "Longitude": "27.5565",
+            "Depth": "10.0",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "11:10:31",
+            "Latitude": "35.4073",
+            "Longitude": "26.8288",
+            "Depth": "7.7",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "11:00:43",
+            "Latitude": "40.6423",
+            "Longitude": "33.8922",
+            "Depth": "14.2",
+            "ML": "2.2",
+            "Location": "TOPUZSARAY YAPRAKLI CANKIRI"
+        },
+        {
+            "Date": "2021.12.27",
             "Time": "10:06:48",
             "Latitude": "36.9398",
             "Longitude": "27.2630",
@@ -1538,6 +1583,15 @@
             "Depth": "13.0",
             "ML": "2.0",
             "Location": "YARIMCA UGURLUDAG CORUM"
+        },
+        {
+            "Date": "2021.12.24",
+            "Time": "08:05:19",
+            "Latitude": "38.8532",
+            "Longitude": "42.2192",
+            "Depth": "18.7",
+            "ML": "1.4",
+            "Location": "NAZIK AHLAT BITLIS"
         },
         {
             "Date": "2021.12.24",
@@ -4409,60 +4463,6 @@
             "Depth": "17.4",
             "ML": "1.5",
             "Location": "BAKLANCAKIRLAR CAL DENIZLI"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "12:02:16",
-            "Latitude": "37.9268",
-            "Longitude": "27.0353",
-            "Depth": "1.4",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "11:53:12",
-            "Latitude": "40.8378",
-            "Longitude": "31.3860",
-            "Depth": "7.3",
-            "ML": "1.8",
-            "Location": "DARIYERIHASANBEY KAYNASLI DUZCE"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "11:44:20",
-            "Latitude": "40.5603",
-            "Longitude": "34.9070",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "OMERBEY CORUM"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "11:40:38",
-            "Latitude": "41.1192",
-            "Longitude": "43.8977",
-            "Depth": "3.0",
-            "ML": "2.2",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "10:55:26",
-            "Latitude": "37.9132",
-            "Longitude": "27.1955",
-            "Depth": "5.7",
-            "ML": "2.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "10:39:22",
-            "Latitude": "38.3792",
-            "Longitude": "39.3932",
-            "Depth": "1.1",
-            "ML": "1.9",
-            "Location": "YILDIZHAN MADEN ELAZIG"
         }
     ]
 }
