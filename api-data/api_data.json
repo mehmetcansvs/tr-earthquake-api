@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2021.12.27",
+            "Time": "08:13:36",
+            "Latitude": "35.1755",
+            "Longitude": "26.8463",
+            "Depth": "5.0",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "07:17:24",
+            "Latitude": "40.4542",
+            "Longitude": "34.8060",
+            "Depth": "9.4",
+            "ML": "2.0",
+            "Location": "SARIMBEY CORUM"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "07:16:24",
+            "Latitude": "37.8693",
+            "Longitude": "44.6018",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "ESENDERE YUKSEKOVA HAKKARI"
+        },
+        {
+            "Date": "2021.12.27",
             "Time": "06:42:06",
             "Latitude": "39.5085",
             "Longitude": "41.1987",
@@ -4436,33 +4463,6 @@
             "Depth": "20.4",
             "ML": "1.9",
             "Location": "ESENLIK BULANIK MUS"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "09:49:57",
-            "Latitude": "39.0393",
-            "Longitude": "37.3603",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "TURNALI KANGAL SIVAS"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "07:55:12",
-            "Latitude": "37.0333",
-            "Longitude": "28.1210",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "SARNICKOY MUGLA"
-        },
-        {
-            "Date": "2021.12.17",
-            "Time": "05:48:04",
-            "Latitude": "37.7055",
-            "Longitude": "26.0023",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
