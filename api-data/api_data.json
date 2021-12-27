@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.27",
+            "Time": "05:12:32",
+            "Latitude": "37.5705",
+            "Longitude": "29.5165",
+            "Depth": "5.4",
+            "ML": "2.3",
+            "Location": "DUDEN YESILOVA BURDUR"
+        },
+        {
+            "Date": "2021.12.27",
             "Time": "03:41:56",
             "Latitude": "39.5140",
             "Longitude": "41.1543",
@@ -4454,15 +4463,6 @@
             "Depth": "4.3",
             "ML": "1.9",
             "Location": "CALTILIDERE ALIAGA IZMIR"
-        },
-        {
-            "Date": "2021.12.16",
-            "Time": "20:50:49",
-            "Latitude": "41.0543",
-            "Longitude": "43.8873",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "ERMENISTAN"
         }
     ]
 }
