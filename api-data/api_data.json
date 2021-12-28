@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.28",
+            "Time": "14:12:51",
+            "Latitude": "38.0957",
+            "Longitude": "27.1103",
+            "Depth": "8.6",
+            "ML": "2.0",
+            "Location": "CAMONU MENDERES IZMIR"
+        },
+        {
+            "Date": "2021.12.28",
             "Time": "12:31:54",
             "Latitude": "38.1402",
             "Longitude": "32.6222",
@@ -344,6 +353,15 @@
         },
         {
             "Date": "2021.12.27",
+            "Time": "18:57:57",
+            "Latitude": "34.9950",
+            "Longitude": "25.1070",
+            "Depth": "7.4",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.27",
             "Time": "17:57:51",
             "Latitude": "35.1507",
             "Longitude": "25.2118",
@@ -368,6 +386,15 @@
             "Depth": "5.0",
             "ML": "3.2",
             "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "17:19:06",
+            "Latitude": "35.0907",
+            "Longitude": "26.8970",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2021.12.27",
@@ -560,6 +587,15 @@
         },
         {
             "Date": "2021.12.27",
+            "Time": "07:22:46",
+            "Latitude": "35.0932",
+            "Longitude": "26.9912",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.27",
             "Time": "07:17:24",
             "Latitude": "40.4542",
             "Longitude": "34.8060",
@@ -575,6 +611,15 @@
             "Depth": "5.0",
             "ML": "2.7",
             "Location": "ESENDERE YUKSEKOVA HAKKARI"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "06:43:48",
+            "Latitude": "35.1552",
+            "Longitude": "26.8340",
+            "Depth": "5.4",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2021.12.27",
@@ -602,6 +647,24 @@
             "Depth": "12.0",
             "ML": "1.8",
             "Location": "CIMENOZU CAT ERZURUM"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "06:15:33",
+            "Latitude": "35.0183",
+            "Longitude": "26.9868",
+            "Depth": "1.6",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "06:09:28",
+            "Latitude": "35.3945",
+            "Longitude": "26.6483",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2021.12.27",
@@ -665,6 +728,15 @@
             "Depth": "1.4",
             "ML": "3.2",
             "Location": "KARLICA TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "05:45:47",
+            "Latitude": "35.1862",
+            "Longitude": "26.8967",
+            "Depth": "11.8",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2021.12.27",
@@ -4400,78 +4472,6 @@
             "Depth": "8.9",
             "ML": "2.0",
             "Location": "KOCLU KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "02:29:23",
-            "Latitude": "37.0818",
-            "Longitude": "28.3923",
-            "Depth": "14.0",
-            "ML": "1.5",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "01:13:31",
-            "Latitude": "38.7617",
-            "Longitude": "26.5177",
-            "Depth": "7.3",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "00:43:34",
-            "Latitude": "36.4140",
-            "Longitude": "27.1343",
-            "Depth": "8.8",
-            "ML": "2.3",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.18",
-            "Time": "23:00:47",
-            "Latitude": "38.1892",
-            "Longitude": "38.4698",
-            "Depth": "5.0",
-            "ML": "1.3",
-            "Location": "GULUMUSAGI MALATYA"
-        },
-        {
-            "Date": "2021.12.18",
-            "Time": "22:27:57",
-            "Latitude": "36.2620",
-            "Longitude": "28.9352",
-            "Depth": "10.5",
-            "ML": "3.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.18",
-            "Time": "21:53:20",
-            "Latitude": "34.0258",
-            "Longitude": "25.7753",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.18",
-            "Time": "21:26:37",
-            "Latitude": "36.9778",
-            "Longitude": "27.7713",
-            "Depth": "3.8",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.18",
-            "Time": "20:35:30",
-            "Latitude": "37.8640",
-            "Longitude": "35.1760",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "PINARBASI CAMARDI NIGDE"
         }
     ]
 }
