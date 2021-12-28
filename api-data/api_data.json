@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.28",
+            "Time": "22:47:55",
+            "Latitude": "39.3397",
+            "Longitude": "32.2687",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "SABANCA POLATLI ANKARA"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "21:36:09",
+            "Latitude": "38.2450",
+            "Longitude": "33.4392",
+            "Depth": "14.6",
+            "ML": "0.9",
+            "Location": "ESMEKAYA ESKIL AKSARAY"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "21:22:57",
+            "Latitude": "39.0075",
+            "Longitude": "27.8772",
+            "Depth": "10.0",
+            "ML": "1.6",
+            "Location": "DINGILLER AKHISAR MANISA"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "21:12:47",
+            "Latitude": "40.1080",
+            "Longitude": "40.8632",
+            "Depth": "10.5",
+            "ML": "2.2",
+            "Location": "YUKARICANOREN AZIZIYE ERZURUM"
+        },
+        {
+            "Date": "2021.12.28",
             "Time": "20:11:53",
             "Latitude": "36.9875",
             "Longitude": "35.4958",
@@ -4436,42 +4472,6 @@
             "Depth": "27.3",
             "ML": "1.6",
             "Location": "AGASENLIGI PULUMUR TUNCELI"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "20:33:08",
-            "Latitude": "37.8460",
-            "Longitude": "35.1623",
-            "Depth": "1.1",
-            "ML": "2.2",
-            "Location": "DEMIRKAZIK CAMARDI NIGDE"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "20:25:51",
-            "Latitude": "34.4120",
-            "Longitude": "26.3098",
-            "Depth": "17.1",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "19:40:32",
-            "Latitude": "36.8917",
-            "Longitude": "27.9207",
-            "Depth": "19.7",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "19:28:23",
-            "Latitude": "36.1317",
-            "Longitude": "27.0338",
-            "Depth": "89.7",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
         }
     ]
 }
