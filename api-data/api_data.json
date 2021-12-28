@@ -2,12 +2,93 @@
     "data": [
         {
             "Date": "2021.12.28",
+            "Time": "16:39:37",
+            "Latitude": "38.0867",
+            "Longitude": "39.3317",
+            "Depth": "3.4",
+            "ML": "1.8",
+            "Location": "YAYIKLI CERMIK DIYARBAKIR"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "16:35:11",
+            "Latitude": "36.1718",
+            "Longitude": "29.6022",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "KAS ANTALYA"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "16:12:34",
+            "Latitude": "36.3197",
+            "Longitude": "29.7943",
+            "Depth": "6.0",
+            "ML": "1.7",
+            "Location": "BELKONAK KAS ANTALYA"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "15:54:32",
+            "Latitude": "38.9878",
+            "Longitude": "35.0143",
+            "Depth": "9.0",
+            "ML": "1.2",
+            "Location": "KALABA AVANOS NEVSEHIR"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "15:44:09",
+            "Latitude": "37.0257",
+            "Longitude": "28.5357",
+            "Depth": "11.0",
+            "ML": "1.8",
+            "Location": "KARABOGURTLEN ULA MUGLA"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "14:58:26",
+            "Latitude": "39.6155",
+            "Longitude": "34.3202",
+            "Depth": "7.8",
+            "ML": "1.2",
+            "Location": "ALAHACILI CICEKDAGI KIRSEHIR"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "14:52:43",
+            "Latitude": "37.7565",
+            "Longitude": "26.6682",
+            "Depth": "9.7",
+            "ML": "1.8",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.28",
             "Time": "14:12:51",
             "Latitude": "38.0957",
             "Longitude": "27.1103",
             "Depth": "8.6",
             "ML": "2.0",
             "Location": "CAMONU MENDERES IZMIR"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "13:47:04",
+            "Latitude": "41.2435",
+            "Longitude": "44.0205",
+            "Depth": "8.0",
+            "ML": "2.1",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "12:34:17",
+            "Latitude": "37.3128",
+            "Longitude": "31.8583",
+            "Depth": "0.0",
+            "ML": "2.1",
+            "Location": "MADENLI SEYDISEHIR KONYA"
         },
         {
             "Date": "2021.12.28",
@@ -4391,87 +4472,6 @@
             "Depth": "14.0",
             "ML": "1.2",
             "Location": "BEZIRGAN KAS ANTALYA"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "11:34:49",
-            "Latitude": "36.4740",
-            "Longitude": "29.7920",
-            "Depth": "8.7",
-            "ML": "1.4",
-            "Location": "ORTABAG KAS ANTALYA"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "11:34:10",
-            "Latitude": "36.3495",
-            "Longitude": "29.5283",
-            "Depth": "19.1",
-            "ML": "1.7",
-            "Location": "CAMLIOVA KAS ANTALYA"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "10:32:03",
-            "Latitude": "37.0258",
-            "Longitude": "28.3365",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "GOKCE ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "10:23:41",
-            "Latitude": "34.5980",
-            "Longitude": "26.7270",
-            "Depth": "5.0",
-            "ML": "3.6",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "10:08:58",
-            "Latitude": "41.1255",
-            "Longitude": "43.9498",
-            "Depth": "11.0",
-            "ML": "2.0",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "10:07:43",
-            "Latitude": "36.1682",
-            "Longitude": "29.7373",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "BOGAZCIK KAS ANTALYA"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "06:58:31",
-            "Latitude": "40.5010",
-            "Longitude": "29.3040",
-            "Depth": "4.5",
-            "ML": "1.6",
-            "Location": "ORHANGAZI BURSA"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "02:36:51",
-            "Latitude": "37.3735",
-            "Longitude": "28.0708",
-            "Depth": "3.7",
-            "ML": "2.2",
-            "Location": "YESILBAGCILAR YATAGAN MUGLA"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "02:33:32",
-            "Latitude": "37.5337",
-            "Longitude": "36.1863",
-            "Depth": "8.9",
-            "ML": "2.0",
-            "Location": "KOCLU KADIRLI OSMANIYE"
         }
     ]
 }
