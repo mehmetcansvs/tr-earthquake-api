@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.28",
+            "Time": "07:29:09",
+            "Latitude": "35.8285",
+            "Longitude": "27.3967",
+            "Depth": "10.0",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.28",
             "Time": "06:59:00",
             "Latitude": "39.7913",
             "Longitude": "41.8173",
@@ -4463,15 +4472,6 @@
             "Depth": "5.0",
             "ML": "2.0",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.18",
-            "Time": "08:16:37",
-            "Latitude": "36.2187",
-            "Longitude": "23.2185",
-            "Depth": "18.0",
-            "ML": "5.0",
-            "Location": "YUNANISTAN"
         }
     ]
 }
