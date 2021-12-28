@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2021.12.29",
+            "Time": "00:57:46",
+            "Latitude": "40.5120",
+            "Longitude": "23.1153",
+            "Depth": "15.7",
+            "ML": "3.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "00:48:51",
+            "Latitude": "38.3202",
+            "Longitude": "38.8403",
+            "Depth": "10.7",
+            "ML": "1.9",
+            "Location": "GUNDEGER PUTURGE MALATYA"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "00:29:16",
+            "Latitude": "35.1338",
+            "Longitude": "26.9040",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "00:07:51",
+            "Latitude": "36.3780",
+            "Longitude": "29.4612",
+            "Depth": "17.3",
+            "ML": "1.0",
+            "Location": "CAMLIOVA KAS ANTALYA"
+        },
+        {
             "Date": "2021.12.28",
             "Time": "22:47:55",
             "Latitude": "39.3397",
@@ -4436,42 +4472,6 @@
             "Depth": "8.0",
             "ML": "1.6",
             "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "23:05:24",
-            "Latitude": "41.0488",
-            "Longitude": "38.9843",
-            "Depth": "19.8",
-            "ML": "2.3",
-            "Location": "GORELE GIRESUN"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "23:00:30",
-            "Latitude": "37.0045",
-            "Longitude": "35.6948",
-            "Depth": "22.3",
-            "ML": "0.8",
-            "Location": "ALTIKARA CEYHAN ADANA"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "22:45:47",
-            "Latitude": "40.7137",
-            "Longitude": "30.4887",
-            "Depth": "23.2",
-            "ML": "1.3",
-            "Location": "YAZILI ERENLER SAKARYA"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "21:11:50",
-            "Latitude": "39.3868",
-            "Longitude": "40.1597",
-            "Depth": "27.3",
-            "ML": "1.6",
-            "Location": "AGASENLIGI PULUMUR TUNCELI"
         }
     ]
 }
