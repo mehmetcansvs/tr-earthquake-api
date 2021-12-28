@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2021.12.28",
+            "Time": "20:11:53",
+            "Latitude": "36.9875",
+            "Longitude": "35.4958",
+            "Depth": "20.0",
+            "ML": "1.2",
+            "Location": "HASANBEYLI SARICAM ADANA"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "20:05:17",
+            "Latitude": "37.0267",
+            "Longitude": "35.6335",
+            "Depth": "22.9",
+            "ML": "1.4",
+            "Location": "UNLUCE SARICAM ADANA"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "20:02:53",
+            "Latitude": "39.8647",
+            "Longitude": "41.7868",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "TASLIYURT PASINLER ERZURUM"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "20:00:09",
+            "Latitude": "37.8340",
+            "Longitude": "26.4738",
+            "Depth": "9.6",
+            "ML": "2.0",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "19:11:23",
+            "Latitude": "35.0570",
+            "Longitude": "26.8205",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "18:51:50",
+            "Latitude": "36.3055",
+            "Longitude": "27.1318",
+            "Depth": "5.6",
+            "ML": "1.6",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2021.12.28",
+            "Time": "18:46:28",
+            "Latitude": "40.6000",
+            "Longitude": "27.7793",
+            "Depth": "12.6",
+            "ML": "1.8",
+            "Location": "ASMALI MARMARA BALIKESIR"
+        },
+        {
+            "Date": "2021.12.28",
             "Time": "18:16:23",
             "Latitude": "37.9128",
             "Longitude": "27.6057",
@@ -4409,69 +4472,6 @@
             "Depth": "89.7",
             "ML": "2.1",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "18:37:34",
-            "Latitude": "38.5103",
-            "Longitude": "26.7255",
-            "Depth": "2.7",
-            "ML": "1.8",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "18:34:28",
-            "Latitude": "37.3663",
-            "Longitude": "29.1260",
-            "Depth": "5.2",
-            "ML": "1.8",
-            "Location": "BAHCEKOY TAVAS DENIZLI"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "18:32:11",
-            "Latitude": "35.9373",
-            "Longitude": "28.5322",
-            "Depth": "52.7",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "17:45:27",
-            "Latitude": "38.5185",
-            "Longitude": "26.7138",
-            "Depth": "4.0",
-            "ML": "1.7",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "17:42:10",
-            "Latitude": "37.7440",
-            "Longitude": "26.0255",
-            "Depth": "8.0",
-            "ML": "2.2",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "17:29:10",
-            "Latitude": "38.3803",
-            "Longitude": "38.9113",
-            "Depth": "6.1",
-            "ML": "1.8",
-            "Location": "KAYABAGLARI SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2021.12.19",
-            "Time": "15:49:52",
-            "Latitude": "37.0850",
-            "Longitude": "28.3795",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "KIZILAGAC ULA MUGLA"
         }
     ]
 }
