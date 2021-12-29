@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2021.12.29",
+            "Time": "14:52:39",
+            "Latitude": "39.4900",
+            "Longitude": "33.1700",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "CATALOREN BALA ANKARA"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "14:46:10",
+            "Latitude": "39.0857",
+            "Longitude": "29.1518",
+            "Depth": "19.5",
+            "ML": "1.2",
+            "Location": "YAGMURLAR SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "14:37:35",
+            "Latitude": "35.0837",
+            "Longitude": "26.9723",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "14:31:58",
+            "Latitude": "38.7477",
+            "Longitude": "43.4395",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "YEMLICE VAN REVIZE YESILDUMLUPINAR ILGAZ CANKIRI"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "13:49:16",
+            "Latitude": "34.8427",
+            "Longitude": "25.6828",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "13:49:04",
+            "Latitude": "38.5593",
+            "Longitude": "39.5690",
+            "Depth": "9.2",
+            "ML": "1.8",
+            "Location": "YESILOVA MADEN ELAZIG"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "13:20:29",
+            "Latitude": "40.7812",
+            "Longitude": "31.4975",
+            "Depth": "8.3",
+            "ML": "2.2",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "13:11:16",
+            "Latitude": "37.8480",
+            "Longitude": "26.9933",
+            "Depth": "11.8",
+            "ML": "2.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.29",
             "Time": "13:07:33",
             "Latitude": "39.8787",
             "Longitude": "26.3035",
@@ -4391,87 +4463,6 @@
             "Depth": "5.9",
             "ML": "2.6",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "18:20:46",
-            "Latitude": "38.1238",
-            "Longitude": "44.9907",
-            "Depth": "15.5",
-            "ML": "3.0",
-            "Location": "IRAN"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "17:49:56",
-            "Latitude": "36.9185",
-            "Longitude": "27.2558",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "KOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "17:23:47",
-            "Latitude": "39.0013",
-            "Longitude": "32.8532",
-            "Depth": "1.6",
-            "ML": "1.4",
-            "Location": "KOZANLI KULU KONYA"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "16:20:53",
-            "Latitude": "36.6822",
-            "Longitude": "27.6883",
-            "Depth": "89.0",
-            "ML": "2.4",
-            "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "15:21:14",
-            "Latitude": "39.9502",
-            "Longitude": "27.0138",
-            "Depth": "8.1",
-            "ML": "1.3",
-            "Location": "TERZIALAN CAN CANAKKALE"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "15:11:07",
-            "Latitude": "37.4958",
-            "Longitude": "32.5433",
-            "Depth": "7.0",
-            "ML": "1.7",
-            "Location": "AHMEDIYE AKOREN KONYA"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "14:47:53",
-            "Latitude": "40.0173",
-            "Longitude": "27.0648",
-            "Depth": "4.0",
-            "ML": "0.9",
-            "Location": "BUYUKTEPE CAN CANAKKALE"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "14:41:59",
-            "Latitude": "40.6500",
-            "Longitude": "27.4095",
-            "Depth": "13.3",
-            "ML": "2.4",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "14:30:21",
-            "Latitude": "40.8518",
-            "Longitude": "31.6832",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "YESILCELE BOLU"
         }
     ]
 }
