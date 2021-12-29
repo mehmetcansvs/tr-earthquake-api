@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.29",
+            "Time": "03:17:31",
+            "Latitude": "35.6552",
+            "Longitude": "33.8157",
+            "Depth": "5.2",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "01:57:49",
+            "Latitude": "40.1490",
+            "Longitude": "31.6533",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "ULUKOY NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2021.12.29",
             "Time": "00:57:46",
             "Latitude": "40.5120",
             "Longitude": "23.1153",
@@ -4454,24 +4472,6 @@
             "Depth": "5.0",
             "ML": "2.7",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "01:33:00",
-            "Latitude": "34.9310",
-            "Longitude": "33.9683",
-            "Depth": "27.1",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "00:05:38",
-            "Latitude": "37.8405",
-            "Longitude": "26.5422",
-            "Depth": "8.0",
-            "ML": "1.6",
-            "Location": "SISAM ADASI EGE DENIZI"
         }
     ]
 }
