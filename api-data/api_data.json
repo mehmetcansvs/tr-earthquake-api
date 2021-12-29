@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2021.12.29",
+            "Time": "20:13:33",
+            "Latitude": "39.0388",
+            "Longitude": "26.5358",
+            "Depth": "8.3",
+            "ML": "1.6",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "19:47:06",
+            "Latitude": "34.7497",
+            "Longitude": "25.1705",
+            "Depth": "86.1",
+            "ML": "5.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "19:33:15",
+            "Latitude": "38.0292",
+            "Longitude": "27.1245",
+            "Depth": "5.2",
+            "ML": "2.0",
+            "Location": "CILE MENDERES IZMIR"
+        },
+        {
+            "Date": "2021.12.29",
             "Time": "19:12:23",
             "Latitude": "38.6920",
             "Longitude": "38.1225",
@@ -71,6 +98,15 @@
             "Depth": "14.3",
             "ML": "3.3",
             "Location": "ERDEK KORFEZI MARMARA DENIZI"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "17:43:37",
+            "Latitude": "40.8063",
+            "Longitude": "27.5012",
+            "Depth": "19.8",
+            "ML": "1.4",
+            "Location": "YENIKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
         },
         {
             "Date": "2021.12.29",
@@ -4427,42 +4463,6 @@
             "Depth": "4.0",
             "ML": "2.3",
             "Location": "ALHANUSAGI MALATYA"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "02:33:42",
-            "Latitude": "36.0337",
-            "Longitude": "27.6145",
-            "Depth": "16.5",
-            "ML": "1.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "02:30:46",
-            "Latitude": "36.2293",
-            "Longitude": "35.9477",
-            "Depth": "2.1",
-            "ML": "2.2",
-            "Location": "BUYUKOBA SAMANDAG HATAY"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "02:20:20",
-            "Latitude": "37.0782",
-            "Longitude": "28.3732",
-            "Depth": "6.1",
-            "ML": "2.0",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "01:49:05",
-            "Latitude": "39.8260",
-            "Longitude": "43.4162",
-            "Depth": "5.5",
-            "ML": "1.7",
-            "Location": "TUTAK TUZLUCA IGDIR"
         }
     ]
 }
