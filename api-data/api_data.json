@@ -2,6 +2,105 @@
     "data": [
         {
             "Date": "2021.12.29",
+            "Time": "13:07:33",
+            "Latitude": "39.8787",
+            "Longitude": "26.3035",
+            "Depth": "8.0",
+            "ML": "1.2",
+            "Location": "PINARBASI EZINE CANAKKALE"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "12:26:50",
+            "Latitude": "37.8822",
+            "Longitude": "29.8498",
+            "Depth": "18.5",
+            "ML": "1.7",
+            "Location": "ASAGIYENICE DAZKIRI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "12:21:42",
+            "Latitude": "37.7285",
+            "Longitude": "25.9932",
+            "Depth": "6.8",
+            "ML": "2.4",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "12:13:54",
+            "Latitude": "41.2828",
+            "Longitude": "43.9953",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "12:08:06",
+            "Latitude": "37.1352",
+            "Longitude": "28.6707",
+            "Depth": "6.0",
+            "ML": "2.1",
+            "Location": "TURGUT ULA MUGLA"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "12:05:22",
+            "Latitude": "40.9208",
+            "Longitude": "33.8632",
+            "Depth": "13.4",
+            "ML": "1.6",
+            "Location": "YUKARIKAYI TOSYA KASTAMONU"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "12:05:15",
+            "Latitude": "37.0597",
+            "Longitude": "35.1663",
+            "Depth": "5.3",
+            "ML": "1.5",
+            "Location": "KARAHAN CUKUROVA ADANA"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "12:03:03",
+            "Latitude": "39.0272",
+            "Longitude": "29.0387",
+            "Depth": "7.8",
+            "ML": "1.2",
+            "Location": "SAMAT SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "11:39:15",
+            "Latitude": "39.0973",
+            "Longitude": "29.1548",
+            "Depth": "6.5",
+            "ML": "1.9",
+            "Location": "SENKOY SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "09:57:52",
+            "Latitude": "40.0425",
+            "Longitude": "40.6410",
+            "Depth": "24.3",
+            "ML": "1.8",
+            "Location": "MUSADANISMAN ASKALE ERZURUM"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "09:55:42",
+            "Latitude": "39.0950",
+            "Longitude": "27.5398",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "DEREKOY SOMA MANISA"
+        },
+        {
+            "Date": "2021.12.29",
             "Time": "09:51:56",
             "Latitude": "38.5888",
             "Longitude": "39.6432",
@@ -4373,105 +4472,6 @@
             "Depth": "0.0",
             "ML": "1.8",
             "Location": "YESILCELE BOLU"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "14:05:19",
-            "Latitude": "36.6008",
-            "Longitude": "28.0250",
-            "Depth": "8.7",
-            "ML": "3.0",
-            "Location": "TASLICA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "11:23:50",
-            "Latitude": "35.1455",
-            "Longitude": "25.3075",
-            "Depth": "7.3",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "10:54:01",
-            "Latitude": "37.9100",
-            "Longitude": "29.2353",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "IRLIGANLI DENIZLI"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "10:47:37",
-            "Latitude": "37.4633",
-            "Longitude": "32.4162",
-            "Depth": "6.7",
-            "ML": "1.4",
-            "Location": "ORHANIYE AKOREN KONYA"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "10:38:10",
-            "Latitude": "37.4937",
-            "Longitude": "32.4598",
-            "Depth": "12.3",
-            "ML": "1.6",
-            "Location": "ORHANIYE AKOREN KONYA"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "10:16:50",
-            "Latitude": "37.2812",
-            "Longitude": "38.5313",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "BULANCAK BOZOVA SANLIURFA"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "09:49:26",
-            "Latitude": "35.2297",
-            "Longitude": "25.2910",
-            "Depth": "7.6",
-            "ML": "3.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "09:20:34",
-            "Latitude": "38.3467",
-            "Longitude": "38.7582",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "CANAKCI KALE MALATYA"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "08:50:19",
-            "Latitude": "37.8595",
-            "Longitude": "27.6727",
-            "Depth": "5.3",
-            "ML": "1.5",
-            "Location": "SINIRTEKE INCIRLIOVA AYDIN"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "08:35:00",
-            "Latitude": "35.2077",
-            "Longitude": "25.2660",
-            "Depth": "9.2",
-            "ML": "3.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "07:05:01",
-            "Latitude": "37.8870",
-            "Longitude": "27.6965",
-            "Depth": "7.6",
-            "ML": "1.7",
-            "Location": "KARABAG INCIRLIOVA AYDIN"
         }
     ]
 }
