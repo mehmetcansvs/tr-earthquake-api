@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2021.12.29",
+            "Time": "07:06:28",
+            "Latitude": "37.9068",
+            "Longitude": "27.6352",
+            "Depth": "9.2",
+            "ML": "1.4",
+            "Location": "ALANGULLU GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "06:58:27",
+            "Latitude": "37.0732",
+            "Longitude": "28.3805",
+            "Depth": "3.1",
+            "ML": "2.5",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "06:49:46",
+            "Latitude": "39.0848",
+            "Longitude": "29.1405",
+            "Depth": "7.6",
+            "ML": "2.1",
+            "Location": "YAGMURLAR SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "06:17:15",
+            "Latitude": "39.0600",
+            "Longitude": "27.1720",
+            "Depth": "9.9",
+            "ML": "1.5",
+            "Location": "ARMAGANLAR BERGAMA IZMIR"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "06:13:13",
+            "Latitude": "37.2213",
+            "Longitude": "28.0652",
+            "Depth": "16.6",
+            "ML": "1.4",
+            "Location": "CUKUROZ YATAGAN MUGLA"
+        },
+        {
+            "Date": "2021.12.29",
             "Time": "04:38:22",
             "Latitude": "36.4538",
             "Longitude": "28.9975",
@@ -4427,51 +4472,6 @@
             "Depth": "7.5",
             "ML": "1.4",
             "Location": "CIHATLI GEMLIK BURSA"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "05:59:29",
-            "Latitude": "40.1577",
-            "Longitude": "31.7620",
-            "Depth": "8.8",
-            "ML": "1.9",
-            "Location": "CANTIRLI BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "05:00:59",
-            "Latitude": "40.4435",
-            "Longitude": "29.2028",
-            "Depth": "6.8",
-            "ML": "1.3",
-            "Location": "CIHATLI GEMLIK BURSA"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "04:40:03",
-            "Latitude": "35.2240",
-            "Longitude": "25.3042",
-            "Depth": "9.4",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "02:45:17",
-            "Latitude": "37.8457",
-            "Longitude": "26.3270",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "02:17:09",
-            "Latitude": "37.8100",
-            "Longitude": "26.3425",
-            "Depth": "2.9",
-            "ML": "1.7",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
