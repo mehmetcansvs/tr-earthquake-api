@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2021.12.29",
+            "Time": "23:05:23",
+            "Latitude": "37.4588",
+            "Longitude": "30.3855",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "KUSBABA BUCAK BURDUR"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "22:58:14",
+            "Latitude": "36.8850",
+            "Longitude": "33.3197",
+            "Depth": "10.7",
+            "ML": "1.4",
+            "Location": "KAVAKOZU MUT MERSIN"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "22:54:30",
+            "Latitude": "40.1868",
+            "Longitude": "31.6807",
+            "Depth": "9.0",
+            "ML": "2.0",
+            "Location": "KARAKOY NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "22:29:02",
+            "Latitude": "35.1307",
+            "Longitude": "26.6695",
+            "Depth": "6.9",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "21:53:34",
+            "Latitude": "36.3860",
+            "Longitude": "36.0517",
+            "Depth": "12.0",
+            "ML": "1.2",
+            "Location": "KURTBAGI ARSUZ HATAY"
+        },
+        {
+            "Date": "2021.12.29",
             "Time": "20:13:33",
             "Latitude": "39.0388",
             "Longitude": "26.5358",
@@ -4418,51 +4463,6 @@
             "Depth": "8.9",
             "ML": "1.8",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "04:38:19",
-            "Latitude": "37.5213",
-            "Longitude": "36.2433",
-            "Depth": "5.8",
-            "ML": "1.9",
-            "Location": "GOZTASI KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "04:36:17",
-            "Latitude": "40.6180",
-            "Longitude": "35.3770",
-            "Depth": "1.2",
-            "ML": "2.2",
-            "Location": "ISIKLI MECITOZU CORUM"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "04:34:58",
-            "Latitude": "40.7950",
-            "Longitude": "28.1362",
-            "Depth": "8.9",
-            "ML": "2.0",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "03:28:45",
-            "Latitude": "40.6067",
-            "Longitude": "35.3902",
-            "Depth": "4.5",
-            "ML": "2.8",
-            "Location": "FIGANI MECITOZU CORUM"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "03:11:44",
-            "Latitude": "38.2915",
-            "Longitude": "38.6510",
-            "Depth": "4.0",
-            "ML": "2.3",
-            "Location": "ALHANUSAGI MALATYA"
         }
     ]
 }
