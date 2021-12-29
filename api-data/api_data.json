@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.29",
+            "Time": "08:08:08",
+            "Latitude": "34.8107",
+            "Longitude": "25.1173",
+            "Depth": "84.5",
+            "ML": "5.7",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.29",
+            "Time": "07:31:40",
+            "Latitude": "39.1958",
+            "Longitude": "32.9043",
+            "Depth": "6.8",
+            "ML": "2.1",
+            "Location": "DIPDEDE KULU KONYA"
+        },
+        {
+            "Date": "2021.12.29",
             "Time": "07:06:28",
             "Latitude": "37.9068",
             "Longitude": "27.6352",
@@ -4454,24 +4472,6 @@
             "Depth": "5.1",
             "ML": "1.3",
             "Location": "KIZILOREN MERAM KONYA"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "06:29:59",
-            "Latitude": "38.0432",
-            "Longitude": "38.1425",
-            "Depth": "2.3",
-            "ML": "1.5",
-            "Location": "PINARBASI CELIKHAN ADIYAMAN"
-        },
-        {
-            "Date": "2021.12.20",
-            "Time": "06:04:49",
-            "Latitude": "40.4448",
-            "Longitude": "29.2170",
-            "Depth": "7.5",
-            "ML": "1.4",
-            "Location": "CIHATLI GEMLIK BURSA"
         }
     ]
 }
