@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.30",
+            "Time": "16:05:41",
+            "Latitude": "39.1990",
+            "Longitude": "41.3710",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "LEYLEK VARTO MUS"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "15:48:19",
+            "Latitude": "37.0498",
+            "Longitude": "28.3528",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2021.12.30",
             "Time": "13:58:36",
             "Latitude": "36.8778",
             "Longitude": "27.9258",
@@ -4445,24 +4463,6 @@
             "Depth": "2.6",
             "ML": "3.2",
             "Location": "FADIL ORHANELI BURSA"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "04:52:55",
-            "Latitude": "35.1287",
-            "Longitude": "25.3010",
-            "Depth": "5.3",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "04:17:10",
-            "Latitude": "37.4727",
-            "Longitude": "27.4783",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "PINARCIK MILAS MUGLA"
         }
     ]
 }
