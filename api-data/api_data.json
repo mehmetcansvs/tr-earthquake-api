@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2021.12.30",
+            "Time": "23:04:02",
+            "Latitude": "41.4835",
+            "Longitude": "44.1350",
+            "Depth": "28.7",
+            "ML": "3.5",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "22:32:37",
+            "Latitude": "40.7548",
+            "Longitude": "31.4717",
+            "Depth": "7.6",
+            "ML": "1.6",
+            "Location": "ELMALIK BOLU"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "22:17:56",
+            "Latitude": "40.6583",
+            "Longitude": "29.0950",
+            "Depth": "10.4",
+            "ML": "1.1",
+            "Location": "CINARCIK YALOVA"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "21:51:26",
+            "Latitude": "37.8693",
+            "Longitude": "26.9555",
+            "Depth": "2.9",
+            "ML": "2.4",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "21:36:27",
+            "Latitude": "38.3327",
+            "Longitude": "38.9573",
+            "Depth": "10.7",
+            "ML": "1.6",
+            "Location": "TOPALUSAGI SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2021.12.30",
             "Time": "20:51:53",
             "Latitude": "38.3743",
             "Longitude": "39.1675",
@@ -4418,51 +4463,6 @@
             "Depth": "6.7",
             "ML": "2.2",
             "Location": "YARIMCA UGURLUDAG CORUM"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "10:02:58",
-            "Latitude": "39.3622",
-            "Longitude": "36.9673",
-            "Depth": "7.4",
-            "ML": "2.2",
-            "Location": "KAZANPINAR ULAS SIVAS"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "08:48:14",
-            "Latitude": "35.1470",
-            "Longitude": "25.2003",
-            "Depth": "1.8",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "08:41:12",
-            "Latitude": "37.8930",
-            "Longitude": "27.1608",
-            "Depth": "7.3",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "08:38:30",
-            "Latitude": "37.0680",
-            "Longitude": "28.3748",
-            "Depth": "6.8",
-            "ML": "1.6",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "08:09:11",
-            "Latitude": "38.2613",
-            "Longitude": "38.6672",
-            "Depth": "20.7",
-            "ML": "1.3",
-            "Location": "CAYKOY PUTURGE MALATYA"
         }
     ]
 }
