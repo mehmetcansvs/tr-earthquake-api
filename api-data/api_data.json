@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.30",
+            "Time": "17:47:18",
+            "Latitude": "37.9775",
+            "Longitude": "26.1875",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "17:32:00",
+            "Latitude": "37.8920",
+            "Longitude": "27.5552",
+            "Depth": "13.3",
+            "ML": "1.6",
+            "Location": "NESETIYE GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2021.12.30",
             "Time": "16:05:41",
             "Latitude": "39.1990",
             "Longitude": "41.3710",
@@ -4445,24 +4463,6 @@
             "Depth": "11.8",
             "ML": "2.4",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "05:48:57",
-            "Latitude": "37.7043",
-            "Longitude": "25.9793",
-            "Depth": "2.1",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "05:28:11",
-            "Latitude": "39.8323",
-            "Longitude": "29.1280",
-            "Depth": "2.6",
-            "ML": "3.2",
-            "Location": "FADIL ORHANELI BURSA"
         }
     ]
 }
