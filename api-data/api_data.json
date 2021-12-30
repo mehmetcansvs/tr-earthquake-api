@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.30",
+            "Time": "06:31:01",
+            "Latitude": "36.1712",
+            "Longitude": "28.9233",
+            "Depth": "13.7",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "06:29:00",
+            "Latitude": "36.9327",
+            "Longitude": "29.3715",
+            "Depth": "4.4",
+            "ML": "1.9",
+            "Location": "ELMALIYURT GOLHISAR BURDUR"
+        },
+        {
+            "Date": "2021.12.30",
             "Time": "02:43:33",
             "Latitude": "40.7940",
             "Longitude": "27.4608",
@@ -4445,24 +4463,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "13:32:30",
-            "Latitude": "40.1860",
-            "Longitude": "27.2277",
-            "Depth": "14.4",
-            "ML": "2.1",
-            "Location": "BAKACAKLICIFTLIGI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "13:06:27",
-            "Latitude": "37.9177",
-            "Longitude": "27.2320",
-            "Depth": "14.1",
-            "ML": "1.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
