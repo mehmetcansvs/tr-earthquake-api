@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.30",
+            "Time": "13:58:36",
+            "Latitude": "36.8778",
+            "Longitude": "27.9258",
+            "Depth": "17.1",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "13:24:56",
+            "Latitude": "35.3563",
+            "Longitude": "26.5828",
+            "Depth": "20.2",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "13:22:33",
+            "Latitude": "38.1847",
+            "Longitude": "38.4947",
+            "Depth": "2.9",
+            "ML": "1.5",
+            "Location": "ULUKOY MALATYA"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "12:28:16",
+            "Latitude": "41.0633",
+            "Longitude": "43.9072",
+            "Depth": "11.2",
+            "ML": "2.0",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2021.12.30",
             "Time": "12:06:50",
             "Latitude": "38.9968",
             "Longitude": "26.5053",
@@ -4427,42 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.2",
             "Location": "PINARCIK MILAS MUGLA"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "04:10:16",
-            "Latitude": "40.1415",
-            "Longitude": "41.9872",
-            "Depth": "5.2",
-            "ML": "1.1",
-            "Location": "MURATBAGI HORASAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "04:05:54",
-            "Latitude": "35.6168",
-            "Longitude": "27.8203",
-            "Depth": "7.9",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "04:03:59",
-            "Latitude": "37.3467",
-            "Longitude": "29.3797",
-            "Depth": "10.1",
-            "ML": "1.5",
-            "Location": "KOKE ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "03:15:52",
-            "Latitude": "35.1195",
-            "Longitude": "25.2370",
-            "Depth": "7.7",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
