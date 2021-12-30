@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.30",
+            "Time": "20:51:53",
+            "Latitude": "38.3743",
+            "Longitude": "39.1675",
+            "Depth": "22.1",
+            "ML": "1.6",
+            "Location": "USLU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "20:23:58",
+            "Latitude": "39.2788",
+            "Longitude": "28.2503",
+            "Depth": "7.4",
+            "ML": "3.3",
+            "Location": "YOLCUPINAR SINDIRGI BALIKESIR"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "19:18:15",
+            "Latitude": "39.5597",
+            "Longitude": "35.8972",
+            "Depth": "5.5",
+            "ML": "1.6",
+            "Location": "BASCATAK AKDAGMADENI YOZGAT"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "19:12:14",
+            "Latitude": "39.9422",
+            "Longitude": "39.7263",
+            "Depth": "11.8",
+            "ML": "1.8",
+            "Location": "OBALAR KELKIT GUMUSHANE"
+        },
+        {
+            "Date": "2021.12.30",
             "Time": "17:47:18",
             "Latitude": "37.9775",
             "Longitude": "26.1875",
@@ -4427,42 +4463,6 @@
             "Depth": "20.7",
             "ML": "1.3",
             "Location": "CAYKOY PUTURGE MALATYA"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "07:19:14",
-            "Latitude": "36.4555",
-            "Longitude": "27.1462",
-            "Depth": "9.7",
-            "ML": "1.7",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "06:50:10",
-            "Latitude": "38.5710",
-            "Longitude": "31.7178",
-            "Depth": "10.7",
-            "ML": "1.6",
-            "Location": "KORASI TUZLUKCU KONYA"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "06:41:53",
-            "Latitude": "38.3422",
-            "Longitude": "38.6152",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "MERDIVENLER MALATYA"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "06:03:14",
-            "Latitude": "36.0962",
-            "Longitude": "27.1627",
-            "Depth": "11.8",
-            "ML": "2.4",
-            "Location": "AKDENIZ"
         }
     ]
 }
