@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.30",
+            "Time": "10:22:41",
+            "Latitude": "38.5947",
+            "Longitude": "26.7867",
+            "Depth": "8.6",
+            "ML": "1.9",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "09:59:00",
+            "Latitude": "39.7280",
+            "Longitude": "41.8760",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "CULLU KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "09:37:41",
+            "Latitude": "39.1813",
+            "Longitude": "25.8338",
+            "Depth": "16.0",
+            "ML": "2.0",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "08:52:18",
+            "Latitude": "36.8912",
+            "Longitude": "27.6297",
+            "Depth": "5.1",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.30",
             "Time": "07:56:17",
             "Latitude": "36.3882",
             "Longitude": "27.0545",
@@ -1268,6 +1304,15 @@
             "Depth": "5.4",
             "ML": "2.5",
             "Location": "YESILYURT CAY AFYONKARAHISAR"
+        },
+        {
+            "Date": "2021.12.27",
+            "Time": "22:58:10",
+            "Latitude": "37.5092",
+            "Longitude": "30.3768",
+            "Depth": "16.2",
+            "ML": "1.6",
+            "Location": "BAGSARAY CELTIKCI BURDUR"
         },
         {
             "Date": "2021.12.27",
@@ -4418,51 +4463,6 @@
             "Depth": "102.8",
             "ML": "2.9",
             "Location": "ALANYA ACIKLARI ANTALYA AKDENIZ"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "20:14:48",
-            "Latitude": "38.5625",
-            "Longitude": "31.8093",
-            "Depth": "3.4",
-            "ML": "1.6",
-            "Location": "YESILOBA YUNAK KONYA"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "19:26:33",
-            "Latitude": "38.8468",
-            "Longitude": "43.6168",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "KELLE VAN"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "16:45:34",
-            "Latitude": "36.1870",
-            "Longitude": "33.5843",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "16:19:58",
-            "Latitude": "37.8242",
-            "Longitude": "27.2885",
-            "Depth": "5.3",
-            "ML": "1.4",
-            "Location": "KUSADASI AYDIN"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "15:53:44",
-            "Latitude": "38.5182",
-            "Longitude": "34.2377",
-            "Depth": "6.7",
-            "ML": "1.8",
-            "Location": "CAGLAYAN AKSARAY"
         }
     ]
 }
