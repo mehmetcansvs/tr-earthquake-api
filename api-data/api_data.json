@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2021.12.30",
+            "Time": "02:43:33",
+            "Latitude": "40.7940",
+            "Longitude": "27.4608",
+            "Depth": "8.9",
+            "ML": "1.6",
+            "Location": "YENIKOY TEKIRDAG"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "02:19:57",
+            "Latitude": "39.9968",
+            "Longitude": "40.0793",
+            "Depth": "18.9",
+            "ML": "1.9",
+            "Location": "YENIKOY OTLUKBELI ERZINCAN"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "02:06:37",
+            "Latitude": "35.0850",
+            "Longitude": "25.2088",
+            "Depth": "14.0",
+            "ML": "4.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "01:57:05",
+            "Latitude": "38.9825",
+            "Longitude": "26.5377",
+            "Depth": "17.2",
+            "ML": "1.7",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.30",
+            "Time": "01:09:35",
+            "Latitude": "38.9505",
+            "Longitude": "26.1208",
+            "Depth": "13.7",
+            "ML": "2.3",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.30",
             "Time": "00:45:48",
             "Latitude": "37.0687",
             "Longitude": "28.3890",
@@ -4418,51 +4463,6 @@
             "Depth": "14.1",
             "ML": "1.4",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "13:00:31",
-            "Latitude": "39.9868",
-            "Longitude": "30.6647",
-            "Depth": "4.0",
-            "ML": "2.2",
-            "Location": "DAGKUPLU SARICAKAYA ESKISEHIR"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "12:47:23",
-            "Latitude": "40.0352",
-            "Longitude": "30.6273",
-            "Depth": "4.8",
-            "ML": "1.8",
-            "Location": "SARICAKAYA ESKISEHIR"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "12:43:24",
-            "Latitude": "40.1922",
-            "Longitude": "30.7122",
-            "Depth": "26.4",
-            "ML": "1.4",
-            "Location": "YUKARIKINIK GOYNUK BOLU"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "12:35:22",
-            "Latitude": "39.9818",
-            "Longitude": "30.6228",
-            "Depth": "1.4",
-            "ML": "1.9",
-            "Location": "DAGKUPLU SARICAKAYA ESKISEHIR"
-        },
-        {
-            "Date": "2021.12.21",
-            "Time": "12:31:36",
-            "Latitude": "40.4920",
-            "Longitude": "26.1587",
-            "Depth": "6.4",
-            "ML": "1.4",
-            "Location": "SAROS KORFEZI EGE DENIZI"
         }
     ]
 }
