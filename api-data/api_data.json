@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2021.12.31",
+            "Time": "14:24:57",
+            "Latitude": "40.5887",
+            "Longitude": "42.3712",
+            "Depth": "12.6",
+            "ML": "1.6",
+            "Location": "IKIZPINAR SENKAYA ERZURUM"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "14:08:56",
+            "Latitude": "37.0677",
+            "Longitude": "28.3962",
+            "Depth": "2.6",
+            "ML": "2.2",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "13:43:22",
+            "Latitude": "40.7460",
+            "Longitude": "31.4997",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "YUMRUKAYA BOLU"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "13:04:53",
+            "Latitude": "37.6690",
+            "Longitude": "35.5763",
+            "Depth": "18.4",
+            "ML": "1.1",
+            "Location": "KOPRUCUK ALADAG ADANA"
+        },
+        {
+            "Date": "2021.12.31",
             "Time": "12:58:02",
             "Latitude": "37.6880",
             "Longitude": "35.5540",
@@ -4427,42 +4463,6 @@
             "Depth": "12.8",
             "ML": "2.0",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "16:57:54",
-            "Latitude": "37.3653",
-            "Longitude": "35.2848",
-            "Depth": "19.1",
-            "ML": "1.0",
-            "Location": "FILIKLI KARAISALI ADANA"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "16:53:48",
-            "Latitude": "36.1638",
-            "Longitude": "33.5733",
-            "Depth": "0.0",
-            "ML": "0.6",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "16:47:32",
-            "Latitude": "36.1380",
-            "Longitude": "33.5490",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "15:45:58",
-            "Latitude": "36.2768",
-            "Longitude": "33.7665",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "IMAMUSAGI SILIFKE MERSIN"
         }
     ]
 }
