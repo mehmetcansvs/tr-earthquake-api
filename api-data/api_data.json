@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.31",
+            "Time": "02:53:17",
+            "Latitude": "36.5617",
+            "Longitude": "25.7402",
+            "Depth": "1.7",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "02:24:02",
+            "Latitude": "40.7903",
+            "Longitude": "31.5227",
+            "Depth": "3.0",
+            "ML": "2.6",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2021.12.31",
             "Time": "00:55:02",
             "Latitude": "34.8608",
             "Longitude": "23.4808",
@@ -4445,24 +4463,6 @@
             "Depth": "2.3",
             "ML": "2.0",
             "Location": "HIRKATEPE BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "13:33:39",
-            "Latitude": "40.2542",
-            "Longitude": "35.1825",
-            "Depth": "2.5",
-            "ML": "1.9",
-            "Location": "KARAHACIP ORTAKOY CORUM"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "13:30:12",
-            "Latitude": "35.1818",
-            "Longitude": "25.2698",
-            "Depth": "6.9",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
