@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.31",
+            "Time": "15:54:08",
+            "Latitude": "36.9800",
+            "Longitude": "27.6017",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2021.12.31",
             "Time": "14:24:57",
             "Latitude": "40.5887",
             "Longitude": "42.3712",
@@ -4454,15 +4463,6 @@
             "Depth": "6.2",
             "ML": "1.9",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "17:09:41",
-            "Latitude": "38.9375",
-            "Longitude": "25.9755",
-            "Depth": "12.8",
-            "ML": "2.0",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         }
     ]
 }
