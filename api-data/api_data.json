@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2021.12.31",
+            "Time": "20:06:16",
+            "Latitude": "37.0803",
+            "Longitude": "28.3953",
+            "Depth": "5.2",
+            "ML": "2.3",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2021.12.31",
             "Time": "18:30:38",
             "Latitude": "37.0810",
             "Longitude": "28.4178",
@@ -4454,15 +4463,6 @@
             "Depth": "13.0",
             "ML": "2.2",
             "Location": "KAS ANTALYA"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "22:07:25",
-            "Latitude": "40.4863",
-            "Longitude": "34.2308",
-            "Depth": "1.6",
-            "ML": "2.4",
-            "Location": "SAGPAZAR BAYAT CORUM"
         }
     ]
 }
