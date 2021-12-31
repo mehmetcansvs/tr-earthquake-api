@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2021.12.31",
+            "Time": "12:58:02",
+            "Latitude": "37.6880",
+            "Longitude": "35.5540",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "ISIKKAYA KOZAN ADANA"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "12:51:06",
+            "Latitude": "40.2397",
+            "Longitude": "31.6775",
+            "Depth": "14.6",
+            "ML": "2.2",
+            "Location": "GOKCEOZ NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "12:42:50",
+            "Latitude": "38.3845",
+            "Longitude": "27.2768",
+            "Depth": "17.9",
+            "ML": "1.2",
+            "Location": "GOKDERE BORNOVA IZMIR"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "12:16:32",
+            "Latitude": "37.9082",
+            "Longitude": "29.2200",
+            "Depth": "25.5",
+            "ML": "1.5",
+            "Location": "IRLIGANLI DENIZLI"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "12:03:09",
+            "Latitude": "40.3798",
+            "Longitude": "41.5840",
+            "Depth": "2.5",
+            "ML": "2.4",
+            "Location": "DEMIRCILER TORTUM ERZURUM"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "11:21:27",
+            "Latitude": "39.7492",
+            "Longitude": "23.5435",
+            "Depth": "27.1",
+            "ML": "3.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2021.12.31",
             "Time": "09:22:56",
             "Latitude": "38.9652",
             "Longitude": "43.3853",
@@ -4409,60 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.0",
             "Location": "IMAMUSAGI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "15:42:46",
-            "Latitude": "36.0228",
-            "Longitude": "29.0823",
-            "Depth": "14.8",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "15:32:46",
-            "Latitude": "36.1388",
-            "Longitude": "33.5135",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "15:23:38",
-            "Latitude": "38.8298",
-            "Longitude": "35.8045",
-            "Depth": "2.2",
-            "ML": "1.5",
-            "Location": "BUNYAN KAYSERI"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "15:11:16",
-            "Latitude": "36.0083",
-            "Longitude": "29.0563",
-            "Depth": "8.9",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "15:02:25",
-            "Latitude": "37.6860",
-            "Longitude": "29.3953",
-            "Depth": "13.9",
-            "ML": "1.4",
-            "Location": "KARACAY HONAZ DENIZLI"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "14:21:20",
-            "Latitude": "34.8762",
-            "Longitude": "24.2015",
-            "Depth": "11.9",
-            "ML": "3.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
