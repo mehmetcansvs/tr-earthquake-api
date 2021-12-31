@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2021.12.31",
+            "Time": "08:48:35",
+            "Latitude": "39.3503",
+            "Longitude": "40.6930",
+            "Depth": "1.1",
+            "ML": "1.8",
+            "Location": "DINARBEY YEDISU BINGOL"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "07:51:54",
+            "Latitude": "38.0247",
+            "Longitude": "27.0798",
+            "Depth": "11.0",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2021.12.31",
             "Time": "02:53:17",
             "Latitude": "36.5617",
             "Longitude": "25.7402",
@@ -4445,24 +4463,6 @@
             "Depth": "11.7",
             "ML": "1.5",
             "Location": "KARAHIDIRLI BUNYAN KAYSERI"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "13:41:29",
-            "Latitude": "38.6943",
-            "Longitude": "34.8962",
-            "Depth": "6.7",
-            "ML": "1.4",
-            "Location": "AKTEPE AVANOS NEVSEHIR"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "13:41:15",
-            "Latitude": "40.1837",
-            "Longitude": "31.7720",
-            "Depth": "2.3",
-            "ML": "2.0",
-            "Location": "HIRKATEPE BEYPAZARI ANKARA"
         }
     ]
 }
