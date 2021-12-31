@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2021.12.31",
+            "Time": "18:30:38",
+            "Latitude": "37.0810",
+            "Longitude": "28.4178",
+            "Depth": "2.6",
+            "ML": "3.0",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "17:52:25",
+            "Latitude": "40.8407",
+            "Longitude": "36.3047",
+            "Depth": "8.6",
+            "ML": "2.3",
+            "Location": "GURSU TASOVA AMASYA"
+        },
+        {
+            "Date": "2021.12.31",
+            "Time": "17:17:10",
+            "Latitude": "37.2073",
+            "Longitude": "28.3067",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "AKCAOVA MUGLA"
+        },
+        {
+            "Date": "2021.12.31",
             "Time": "15:54:08",
             "Latitude": "36.9800",
             "Longitude": "27.6017",
@@ -4436,33 +4463,6 @@
             "Depth": "1.6",
             "ML": "2.4",
             "Location": "SAGPAZAR BAYAT CORUM"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "17:58:57",
-            "Latitude": "36.0835",
-            "Longitude": "27.0927",
-            "Depth": "10.0",
-            "ML": "2.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "17:58:42",
-            "Latitude": "37.8182",
-            "Longitude": "27.1153",
-            "Depth": "17.1",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.22",
-            "Time": "17:30:02",
-            "Latitude": "37.8762",
-            "Longitude": "26.9070",
-            "Depth": "6.2",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
