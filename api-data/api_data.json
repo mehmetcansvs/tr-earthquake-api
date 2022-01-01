@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.01",
+            "Time": "16:54:07",
+            "Latitude": "35.8173",
+            "Longitude": "33.7297",
+            "Depth": "20.3",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "16:06:04",
+            "Latitude": "37.8272",
+            "Longitude": "29.6535",
+            "Depth": "6.9",
+            "ML": "1.6",
+            "Location": "CARDAK DENIZLI"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "15:52:04",
+            "Latitude": "37.4562",
+            "Longitude": "38.8280",
+            "Depth": "20.3",
+            "ML": "1.4",
+            "Location": "CEMAL SANLIURFA"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "15:28:49",
+            "Latitude": "34.4260",
+            "Longitude": "26.6142",
+            "Depth": "7.9",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.01",
             "Time": "15:07:54",
             "Latitude": "34.8928",
             "Longitude": "23.4523",
@@ -4454,42 +4490,6 @@
             "Depth": "5.4",
             "ML": "1.5",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "20:26:46",
-            "Latitude": "37.6455",
-            "Longitude": "27.2445",
-            "Depth": "6.5",
-            "ML": "1.8",
-            "Location": "ATBURGAZI SOKE AYDIN"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "19:54:58",
-            "Latitude": "37.9492",
-            "Longitude": "35.6130",
-            "Depth": "25.4",
-            "ML": "1.2",
-            "Location": "CONDU FEKE ADANA"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "19:39:28",
-            "Latitude": "37.8175",
-            "Longitude": "26.9480",
-            "Depth": "6.3",
-            "ML": "2.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "18:48:21",
-            "Latitude": "39.8032",
-            "Longitude": "41.8482",
-            "Depth": "14.0",
-            "ML": "1.5",
-            "Location": "YEMLIK KOPRUKOY ERZURUM"
         }
     ]
 }
