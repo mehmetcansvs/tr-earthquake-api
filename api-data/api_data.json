@@ -1,6 +1,60 @@
 {
     "data": [
         {
+            "Date": "2022.01.02",
+            "Time": "00:23:50",
+            "Latitude": "37.9913",
+            "Longitude": "27.1580",
+            "Depth": "3.7",
+            "ML": "1.4",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "00:22:54",
+            "Latitude": "40.5522",
+            "Longitude": "42.3578",
+            "Depth": "16.5",
+            "ML": "1.2",
+            "Location": "SENKAYA ERZURUM"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "23:46:42",
+            "Latitude": "38.1808",
+            "Longitude": "38.6207",
+            "Depth": "2.4",
+            "ML": "1.5",
+            "Location": "SOGUTLU PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "23:15:59",
+            "Latitude": "40.5475",
+            "Longitude": "42.4062",
+            "Depth": "11.0",
+            "ML": "1.2",
+            "Location": "SENKAYA ERZURUM"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "23:15:16",
+            "Latitude": "40.5375",
+            "Longitude": "42.3598",
+            "Depth": "9.9",
+            "ML": "1.5",
+            "Location": "YESILKAYA SENKAYA ERZURUM"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "23:12:42",
+            "Latitude": "38.2033",
+            "Longitude": "38.6085",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "SOGUTLU PUTURGE MALATYA"
+        },
+        {
             "Date": "2022.01.01",
             "Time": "22:45:51",
             "Latitude": "39.1770",
@@ -4436,60 +4490,6 @@
             "Depth": "5.0",
             "ML": "3.2",
             "Location": "SURIYE"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:16:04",
-            "Latitude": "37.8043",
-            "Longitude": "29.7863",
-            "Depth": "7.4",
-            "ML": "1.6",
-            "Location": "GEMIS CARDAK DENIZLI"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:14:45",
-            "Latitude": "38.7405",
-            "Longitude": "43.4893",
-            "Depth": "2.3",
-            "ML": "2.2",
-            "Location": "AKCAOREN VAN"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:10:40",
-            "Latitude": "38.7893",
-            "Longitude": "43.7087",
-            "Depth": "22.9",
-            "ML": "1.4",
-            "Location": "SARIMEMET MURADIYE VAN"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:02:56",
-            "Latitude": "40.7862",
-            "Longitude": "31.5053",
-            "Depth": "4.1",
-            "ML": "1.4",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:00:22",
-            "Latitude": "38.7438",
-            "Longitude": "43.5113",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "AKCAOREN VAN"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "01:47:17",
-            "Latitude": "38.7773",
-            "Longitude": "43.5325",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "DEGIRMENOZU VAN"
         }
     ]
 }
