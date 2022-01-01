@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.01",
+            "Time": "12:57:33",
+            "Latitude": "36.0615",
+            "Longitude": "27.5762",
+            "Depth": "5.3",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "12:51:21",
+            "Latitude": "36.5317",
+            "Longitude": "26.4602",
+            "Depth": "128.3",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "11:31:10",
+            "Latitude": "38.5028",
+            "Longitude": "39.3285",
+            "Depth": "3.4",
+            "ML": "2.8",
+            "Location": "GUNEYKOY SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.01.01",
             "Time": "11:02:35",
             "Latitude": "37.8323",
             "Longitude": "26.9702",
@@ -4463,33 +4490,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "UZGORUR BULANIK MUS"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "13:31:15",
-            "Latitude": "40.2460",
-            "Longitude": "43.5463",
-            "Depth": "9.4",
-            "ML": "2.1",
-            "Location": "CATAK DIGOR KARS"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "13:19:16",
-            "Latitude": "39.1258",
-            "Longitude": "27.4558",
-            "Depth": "2.4",
-            "ML": "1.6",
-            "Location": "HAMZAHOCALI KINIK IZMIR"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "13:14:34",
-            "Latitude": "39.2317",
-            "Longitude": "34.0193",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "KARINCALI KIRSEHIR"
         }
     ]
 }
