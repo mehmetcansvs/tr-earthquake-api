@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.01",
+            "Time": "18:15:24",
+            "Latitude": "39.2233",
+            "Longitude": "41.4335",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "COBANDAGI VARTO MUS"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "18:02:43",
+            "Latitude": "40.7905",
+            "Longitude": "31.5120",
+            "Depth": "0.0",
+            "ML": "2.4",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "17:53:03",
+            "Latitude": "40.5353",
+            "Longitude": "42.2998",
+            "Depth": "9.5",
+            "ML": "1.9",
+            "Location": "TIMURKISLA SENKAYA ERZURUM"
+        },
+        {
+            "Date": "2022.01.01",
             "Time": "16:54:07",
             "Latitude": "35.8173",
             "Longitude": "33.7297",
@@ -224,6 +251,15 @@
             "Depth": "11.8",
             "ML": "1.9",
             "Location": "KAPAKLI DEMRE ANTALYA"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "07:18:08",
+            "Latitude": "38.9922",
+            "Longitude": "37.8825",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "KOYLUKOYU HEKIMHAN MALATYA"
         },
         {
             "Date": "2022.01.01",
@@ -4454,42 +4490,6 @@
             "Depth": "6.9",
             "ML": "2.4",
             "Location": "KAVAKKOY DELICE KIRIKKALE"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "22:43:52",
-            "Latitude": "37.1490",
-            "Longitude": "28.2453",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "ALGI MUGLA"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "22:32:26",
-            "Latitude": "35.8033",
-            "Longitude": "29.1278",
-            "Depth": "19.1",
-            "ML": "1.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "22:11:06",
-            "Latitude": "38.7522",
-            "Longitude": "33.5918",
-            "Depth": "2.6",
-            "ML": "1.8",
-            "Location": "CALOREN SEREFLIKOCHISAR ANKARA"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "22:08:37",
-            "Latitude": "37.9047",
-            "Longitude": "27.1350",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
