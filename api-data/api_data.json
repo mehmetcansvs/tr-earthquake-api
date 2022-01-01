@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.01",
+            "Time": "20:58:16",
+            "Latitude": "40.4122",
+            "Longitude": "28.4247",
+            "Depth": "4.2",
+            "ML": "2.1",
+            "Location": "BAYRAMDERE KARACABEY BURSA"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "20:57:36",
+            "Latitude": "40.3848",
+            "Longitude": "28.4087",
+            "Depth": "5.5",
+            "ML": "2.1",
+            "Location": "BAYRAMDERE KARACABEY BURSA"
+        },
+        {
+            "Date": "2022.01.01",
             "Time": "18:15:24",
             "Latitude": "39.2233",
             "Longitude": "41.4335",
@@ -4472,24 +4490,6 @@
             "Depth": "11.8",
             "ML": "3.0",
             "Location": "SAMANDAG HATAY ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "23:47:08",
-            "Latitude": "39.2860",
-            "Longitude": "33.2677",
-            "Depth": "5.8",
-            "ML": "1.1",
-            "Location": "EGRIBASAN BALA ANKARA"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "22:56:36",
-            "Latitude": "40.1930",
-            "Longitude": "33.9663",
-            "Depth": "6.9",
-            "ML": "2.4",
-            "Location": "KAVAKKOY DELICE KIRIKKALE"
         }
     ]
 }
