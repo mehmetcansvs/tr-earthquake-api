@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.01",
+            "Time": "11:02:35",
+            "Latitude": "37.8323",
+            "Longitude": "26.9702",
+            "Depth": "13.3",
+            "ML": "2.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "09:22:54",
+            "Latitude": "37.9505",
+            "Longitude": "37.1235",
+            "Depth": "12.6",
+            "ML": "2.6",
+            "Location": "AMBAR EKINOZU KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "09:14:32",
+            "Latitude": "38.7250",
+            "Longitude": "43.0733",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.01.01",
             "Time": "08:19:58",
             "Latitude": "37.0745",
             "Longitude": "27.7008",
@@ -4463,24 +4490,6 @@
             "Depth": "5.0",
             "ML": "1.2",
             "Location": "KARINCALI KIRSEHIR"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "13:06:53",
-            "Latitude": "38.4305",
-            "Longitude": "39.1993",
-            "Depth": "12.3",
-            "ML": "1.7",
-            "Location": "YEDIPINAR SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "12:35:25",
-            "Latitude": "37.2773",
-            "Longitude": "31.8173",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "DEGIRMENLIK AKSEKI ANTALYA REVIZE KARACAOREN SEHITKAMIL GAZIANTEP"
         }
     ]
 }
