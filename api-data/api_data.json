@@ -2,12 +2,75 @@
     "data": [
         {
             "Date": "2022.01.01",
+            "Time": "06:52:46",
+            "Latitude": "35.4508",
+            "Longitude": "27.3115",
+            "Depth": "7.5",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "06:42:48",
+            "Latitude": "39.1400",
+            "Longitude": "25.8395",
+            "Depth": "11.6",
+            "ML": "1.9",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "06:06:34",
+            "Latitude": "40.3577",
+            "Longitude": "28.3883",
+            "Depth": "12.4",
+            "ML": "2.2",
+            "Location": "BAYRAMDERE KARACABEY BURSA"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "06:04:19",
+            "Latitude": "40.3627",
+            "Longitude": "28.3932",
+            "Depth": "11.4",
+            "ML": "2.8",
+            "Location": "BAYRAMDERE KARACABEY BURSA"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "05:44:33",
+            "Latitude": "36.6460",
+            "Longitude": "26.9768",
+            "Depth": "16.5",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "05:37:28",
+            "Latitude": "37.8760",
+            "Longitude": "27.0278",
+            "Depth": "4.3",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.01",
             "Time": "05:21:56",
             "Latitude": "37.9667",
             "Longitude": "28.7967",
             "Depth": "3.1",
             "ML": "1.9",
             "Location": "KIZILDERE BUHARKENT AYDIN"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "05:20:28",
+            "Latitude": "37.8187",
+            "Longitude": "37.6772",
+            "Depth": "9.5",
+            "ML": "1.6",
+            "Location": "OZAN GOLBASI ADIYAMAN"
         },
         {
             "Date": "2022.01.01",
@@ -38,12 +101,39 @@
         },
         {
             "Date": "2022.01.01",
+            "Time": "04:10:51",
+            "Latitude": "40.5727",
+            "Longitude": "27.5145",
+            "Depth": "4.8",
+            "ML": "1.3",
+            "Location": "EKINLIK MARMARA BALIKESIR"
+        },
+        {
+            "Date": "2022.01.01",
             "Time": "03:36:13",
             "Latitude": "36.4727",
             "Longitude": "29.1723",
             "Depth": "5.5",
             "ML": "2.0",
             "Location": "KARAAGAC FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "03:33:32",
+            "Latitude": "36.2933",
+            "Longitude": "28.9453",
+            "Depth": "12.4",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "02:47:30",
+            "Latitude": "40.1965",
+            "Longitude": "31.7117",
+            "Depth": "10.4",
+            "ML": "1.9",
+            "Location": "SEKLI BEYPAZARI ANKARA"
         },
         {
             "Date": "2022.01.01",
@@ -4391,96 +4481,6 @@
             "Depth": "8.1",
             "ML": "2.4",
             "Location": "CEVRELI ADAKLI BINGOL"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "10:37:37",
-            "Latitude": "36.9510",
-            "Longitude": "39.2370",
-            "Depth": "29.5",
-            "ML": "2.6",
-            "Location": "AYRANCI SANLIURFA"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "09:40:57",
-            "Latitude": "36.5403",
-            "Longitude": "30.4588",
-            "Depth": "4.9",
-            "ML": "2.5",
-            "Location": "BEYCIK KEMER ANTALYA"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "09:22:03",
-            "Latitude": "37.8723",
-            "Longitude": "26.9548",
-            "Depth": "8.9",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "07:34:37",
-            "Latitude": "37.9143",
-            "Longitude": "27.1035",
-            "Depth": "7.1",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "07:30:11",
-            "Latitude": "38.9290",
-            "Longitude": "43.5722",
-            "Depth": "13.3",
-            "ML": "2.0",
-            "Location": "CAKIRBEY VAN"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "07:26:28",
-            "Latitude": "34.8543",
-            "Longitude": "24.3308",
-            "Depth": "6.5",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "07:18:33",
-            "Latitude": "38.0767",
-            "Longitude": "30.3983",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "ILEYDAGI ULUBORLU ISPARTA"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "06:47:26",
-            "Latitude": "36.5207",
-            "Longitude": "27.7932",
-            "Depth": "5.5",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "06:28:15",
-            "Latitude": "40.7972",
-            "Longitude": "29.2100",
-            "Depth": "8.3",
-            "ML": "1.1",
-            "Location": "TUZLA ISTANBUL"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "06:10:07",
-            "Latitude": "38.8945",
-            "Longitude": "43.5463",
-            "Depth": "9.7",
-            "ML": "1.6",
-            "Location": "COLPAN VAN"
         }
     ]
 }
