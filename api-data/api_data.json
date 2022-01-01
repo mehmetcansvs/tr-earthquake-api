@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.01",
+            "Time": "03:36:13",
+            "Latitude": "36.4727",
+            "Longitude": "29.1723",
+            "Depth": "5.5",
+            "ML": "2.0",
+            "Location": "KARAAGAC FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "01:55:34",
+            "Latitude": "36.4087",
+            "Longitude": "27.0398",
+            "Depth": "2.5",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.01",
             "Time": "00:06:22",
             "Latitude": "37.8858",
             "Longitude": "27.1123",
@@ -4463,24 +4481,6 @@
             "Depth": "5.0",
             "ML": "2.2",
             "Location": "GUMUSSU CIVRIL DENIZLI"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "05:12:12",
-            "Latitude": "37.8158",
-            "Longitude": "29.6205",
-            "Depth": "9.2",
-            "ML": "1.2",
-            "Location": "BOZKURT DENIZLI"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "05:11:22",
-            "Latitude": "35.1245",
-            "Longitude": "25.2085",
-            "Depth": "4.0",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
