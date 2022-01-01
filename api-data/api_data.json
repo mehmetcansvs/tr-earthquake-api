@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.01",
+            "Time": "08:19:58",
+            "Latitude": "37.0745",
+            "Longitude": "27.7008",
+            "Depth": "5.7",
+            "ML": "2.1",
+            "Location": "YENIKOY BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "07:42:18",
+            "Latitude": "39.2068",
+            "Longitude": "41.3842",
+            "Depth": "5.3",
+            "ML": "2.3",
+            "Location": "LEYLEK VARTO MUS"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "07:24:45",
+            "Latitude": "36.2302",
+            "Longitude": "29.8735",
+            "Depth": "11.8",
+            "ML": "1.9",
+            "Location": "KAPAKLI DEMRE ANTALYA"
+        },
+        {
+            "Date": "2022.01.01",
             "Time": "06:52:46",
             "Latitude": "35.4508",
             "Longitude": "27.3115",
@@ -134,6 +161,15 @@
             "Depth": "10.4",
             "ML": "1.9",
             "Location": "SEKLI BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.01.01",
+            "Time": "02:35:14",
+            "Latitude": "40.6857",
+            "Longitude": "31.5658",
+            "Depth": "13.0",
+            "ML": "1.2",
+            "Location": "SULTANBEY BOLU"
         },
         {
             "Date": "2022.01.01",
@@ -4445,42 +4481,6 @@
             "Depth": "0.0",
             "ML": "2.0",
             "Location": "DEGIRMENLIK AKSEKI ANTALYA REVIZE KARACAOREN SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "12:31:18",
-            "Latitude": "37.0777",
-            "Longitude": "28.4075",
-            "Depth": "4.7",
-            "ML": "2.1",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "11:49:37",
-            "Latitude": "37.2508",
-            "Longitude": "28.7463",
-            "Depth": "7.9",
-            "ML": "1.8",
-            "Location": "YORUKOGLU MUGLA"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "11:42:24",
-            "Latitude": "38.1045",
-            "Longitude": "28.2055",
-            "Depth": "13.8",
-            "ML": "0.8",
-            "Location": "MENDERES BEYDAG IZMIR"
-        },
-        {
-            "Date": "2021.12.23",
-            "Time": "11:02:39",
-            "Latitude": "39.2617",
-            "Longitude": "40.7050",
-            "Depth": "8.1",
-            "ML": "2.4",
-            "Location": "CEVRELI ADAKLI BINGOL"
         }
     ]
 }
