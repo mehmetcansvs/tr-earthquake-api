@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.01.02",
+            "Time": "03:24:49",
+            "Latitude": "39.0027",
+            "Longitude": "26.5438",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "03:13:05",
+            "Latitude": "40.1248",
+            "Longitude": "29.3132",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "ALACAM KESTEL BURSA"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "02:35:22",
+            "Latitude": "39.6595",
+            "Longitude": "26.0893",
+            "Depth": "6.9",
+            "ML": "1.8",
+            "Location": "TAVAKLI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "02:18:40",
+            "Latitude": "38.9255",
+            "Longitude": "43.6253",
+            "Depth": "9.4",
+            "ML": "1.4",
+            "Location": "OVAPINAR MURADIYE VAN"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "02:10:12",
+            "Latitude": "39.9847",
+            "Longitude": "28.1308",
+            "Depth": "4.9",
+            "ML": "1.7",
+            "Location": "YAGCI SUSURLUK BALIKESIR"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "01:41:05",
+            "Latitude": "38.9948",
+            "Longitude": "30.2098",
+            "Depth": "6.7",
+            "ML": "1.8",
+            "Location": "BESKARIS ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.01.02",
             "Time": "00:23:50",
             "Latitude": "37.9913",
             "Longitude": "27.1580",
@@ -4436,60 +4490,6 @@
             "Depth": "4.7",
             "ML": "1.5",
             "Location": "BOZKOY GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:40:50",
-            "Latitude": "37.9530",
-            "Longitude": "27.6403",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "BOZKOY GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:39:56",
-            "Latitude": "37.9223",
-            "Longitude": "27.6467",
-            "Depth": "1.6",
-            "ML": "2.2",
-            "Location": "BOZKOY GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:31:17",
-            "Latitude": "39.3593",
-            "Longitude": "33.2945",
-            "Depth": "5.4",
-            "ML": "1.1",
-            "Location": "YUKARIHACIBEKIR BALA ANKARA"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:30:25",
-            "Latitude": "38.7403",
-            "Longitude": "43.5885",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "ASAGIGOLALAN VAN"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:22:45",
-            "Latitude": "38.7463",
-            "Longitude": "43.5157",
-            "Depth": "8.6",
-            "ML": "1.6",
-            "Location": "AKCAOREN VAN"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:21:21",
-            "Latitude": "35.2930",
-            "Longitude": "38.9207",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "SURIYE"
         }
     ]
 }
