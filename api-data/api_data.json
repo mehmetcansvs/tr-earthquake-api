@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.02",
+            "Time": "06:38:52",
+            "Latitude": "40.1042",
+            "Longitude": "29.2538",
+            "Depth": "14.7",
+            "ML": "1.2",
+            "Location": "ALACAM KESTEL BURSA"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "06:08:16",
+            "Latitude": "45.5195",
+            "Longitude": "26.3417",
+            "Depth": "140.6",
+            "ML": "2.4",
+            "Location": "ROMANYA"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "05:41:16",
+            "Latitude": "39.5238",
+            "Longitude": "24.0138",
+            "Depth": "23.5",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.02",
             "Time": "03:24:49",
             "Latitude": "39.0027",
             "Longitude": "26.5438",
@@ -4463,33 +4490,6 @@
             "Depth": "5.0",
             "ML": "2.6",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "03:36:59",
-            "Latitude": "38.7815",
-            "Longitude": "43.7173",
-            "Depth": "18.3",
-            "ML": "1.7",
-            "Location": "SARIMEMET MURADIYE VAN"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:59:59",
-            "Latitude": "35.2033",
-            "Longitude": "25.2905",
-            "Depth": "7.4",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "02:43:44",
-            "Latitude": "37.9265",
-            "Longitude": "27.6430",
-            "Depth": "4.7",
-            "ML": "1.5",
-            "Location": "BOZKOY GERMENCIK AYDIN"
         }
     ]
 }
