@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.02",
+            "Time": "08:48:28",
+            "Latitude": "35.2315",
+            "Longitude": "25.2943",
+            "Depth": "12.8",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "07:42:40",
+            "Latitude": "36.8208",
+            "Longitude": "28.0275",
+            "Depth": "5.4",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "07:02:41",
+            "Latitude": "39.7672",
+            "Longitude": "41.8822",
+            "Depth": "7.0",
+            "ML": "1.6",
+            "Location": "SARITAS KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.01.02",
             "Time": "06:38:52",
             "Latitude": "40.1042",
             "Longitude": "29.2538",
@@ -4463,33 +4490,6 @@
             "Depth": "5.0",
             "ML": "4.0",
             "Location": "KARAGUNDUZ VAN"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "05:22:34",
-            "Latitude": "39.7853",
-            "Longitude": "41.8313",
-            "Depth": "4.8",
-            "ML": "1.0",
-            "Location": "YEMLIK KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "05:07:52",
-            "Latitude": "40.1350",
-            "Longitude": "42.1585",
-            "Depth": "18.6",
-            "ML": "1.3",
-            "Location": "ASAGIBADEMOZU HORASAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "04:35:19",
-            "Latitude": "35.1128",
-            "Longitude": "25.1440",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
