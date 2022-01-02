@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.02",
+            "Time": "11:05:11",
+            "Latitude": "36.4865",
+            "Longitude": "34.6840",
+            "Depth": "2.2",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "09:25:07",
+            "Latitude": "38.1838",
+            "Longitude": "38.5915",
+            "Depth": "2.0",
+            "ML": "1.8",
+            "Location": "SOGUTLU PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.01.02",
+            "Time": "09:23:57",
+            "Latitude": "36.4598",
+            "Longitude": "27.4837",
+            "Depth": "6.3",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.02",
             "Time": "08:48:28",
             "Latitude": "35.2315",
             "Longitude": "25.2943",
@@ -4463,33 +4490,6 @@
             "Depth": "81.5",
             "ML": "1.7",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "06:05:19",
-            "Latitude": "37.8362",
-            "Longitude": "26.8592",
-            "Depth": "4.1",
-            "ML": "1.6",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "05:59:35",
-            "Latitude": "38.6738",
-            "Longitude": "43.5765",
-            "Depth": "4.2",
-            "ML": "1.5",
-            "Location": "KOZLUCA VAN"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "05:26:38",
-            "Latitude": "38.7058",
-            "Longitude": "43.6217",
-            "Depth": "5.0",
-            "ML": "4.0",
-            "Location": "KARAGUNDUZ VAN"
         }
     ]
 }
