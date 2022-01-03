@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.03",
+            "Time": "05:23:06",
+            "Latitude": "36.7673",
+            "Longitude": "31.7582",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "CAMLITEPE MANAVGAT ANTALYA"
+        },
+        {
+            "Date": "2022.01.03",
             "Time": "04:46:34",
             "Latitude": "37.0260",
             "Longitude": "28.1435",
@@ -4472,15 +4481,6 @@
             "Depth": "24.6",
             "ML": "2.9",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "14:01:26",
-            "Latitude": "36.7162",
-            "Longitude": "34.6540",
-            "Depth": "1.2",
-            "ML": "2.6",
-            "Location": "MERSIN ACIKLARI MERSIN AKDENIZ"
         }
     ]
 }
