@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.03",
+            "Time": "04:46:34",
+            "Latitude": "37.0260",
+            "Longitude": "28.1435",
+            "Depth": "11.4",
+            "ML": "1.8",
+            "Location": "SARNICKOY MUGLA"
+        },
+        {
+            "Date": "2022.01.03",
             "Time": "03:11:45",
             "Latitude": "38.7592",
             "Longitude": "39.9732",
@@ -4472,15 +4481,6 @@
             "Depth": "1.2",
             "ML": "2.6",
             "Location": "MERSIN ACIKLARI MERSIN AKDENIZ"
-        },
-        {
-            "Date": "2021.12.24",
-            "Time": "13:50:39",
-            "Latitude": "36.1530",
-            "Longitude": "33.5620",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "BUYUKECELI GULNAR MERSIN"
         }
     ]
 }
