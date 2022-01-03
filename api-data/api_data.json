@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.03",
+            "Time": "20:10:58",
+            "Latitude": "39.0160",
+            "Longitude": "26.2927",
+            "Depth": "8.1",
+            "ML": "1.9",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.03",
+            "Time": "20:03:44",
+            "Latitude": "40.7920",
+            "Longitude": "31.4792",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.01.03",
+            "Time": "19:45:47",
+            "Latitude": "37.8425",
+            "Longitude": "29.7352",
+            "Depth": "17.7",
+            "ML": "1.1",
+            "Location": "DARICILAR DAZKIRI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.01.03",
+            "Time": "18:12:14",
+            "Latitude": "35.1315",
+            "Longitude": "25.1842",
+            "Depth": "9.7",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.03",
             "Time": "18:08:16",
             "Latitude": "38.1015",
             "Longitude": "30.0237",
@@ -4445,42 +4481,6 @@
             "Depth": "131.9",
             "ML": "3.7",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.25",
-            "Time": "15:10:47",
-            "Latitude": "37.8743",
-            "Longitude": "32.1460",
-            "Depth": "4.8",
-            "ML": "1.1",
-            "Location": "KIZILOREN MERAM KONYA"
-        },
-        {
-            "Date": "2021.12.25",
-            "Time": "13:16:31",
-            "Latitude": "36.8802",
-            "Longitude": "35.9603",
-            "Depth": "5.6",
-            "ML": "2.6",
-            "Location": "KURTPINAR CEYHAN ADANA"
-        },
-        {
-            "Date": "2021.12.25",
-            "Time": "13:06:10",
-            "Latitude": "37.8673",
-            "Longitude": "29.3453",
-            "Depth": "9.5",
-            "ML": "1.9",
-            "Location": "KARAPINAR CAL DENIZLI"
-        },
-        {
-            "Date": "2021.12.25",
-            "Time": "12:36:35",
-            "Latitude": "35.2758",
-            "Longitude": "25.2423",
-            "Depth": "2.6",
-            "ML": "1.7",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
