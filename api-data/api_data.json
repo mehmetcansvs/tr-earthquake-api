@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.03",
+            "Time": "18:08:16",
+            "Latitude": "38.1015",
+            "Longitude": "30.0237",
+            "Depth": "4.0",
+            "ML": "1.7",
+            "Location": "BELENPINAR DINAR AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.01.03",
+            "Time": "17:38:09",
+            "Latitude": "39.9785",
+            "Longitude": "26.9085",
+            "Depth": "14.0",
+            "ML": "2.5",
+            "Location": "ETILI CAN CANAKKALE"
+        },
+        {
+            "Date": "2022.01.03",
             "Time": "16:55:48",
             "Latitude": "38.1878",
             "Longitude": "35.1117",
@@ -4463,24 +4481,6 @@
             "Depth": "2.6",
             "ML": "1.7",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.25",
-            "Time": "12:15:19",
-            "Latitude": "36.2197",
-            "Longitude": "33.7075",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "ISIKLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2021.12.25",
-            "Time": "11:33:45",
-            "Latitude": "39.9400",
-            "Longitude": "30.4693",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "AVLAMIS TEPEBASI ESKISEHIR"
         }
     ]
 }
