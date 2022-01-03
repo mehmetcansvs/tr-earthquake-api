@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.03",
+            "Time": "12:25:58",
+            "Latitude": "39.0832",
+            "Longitude": "37.3585",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "KIRKPINAR KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.01.03",
+            "Time": "11:43:21",
+            "Latitude": "40.5503",
+            "Longitude": "32.8528",
+            "Depth": "8.6",
+            "ML": "2.2",
+            "Location": "INCECIK ORTA CANKIRI"
+        },
+        {
+            "Date": "2022.01.03",
             "Time": "09:28:11",
             "Latitude": "35.0930",
             "Longitude": "32.6975",
@@ -4463,24 +4481,6 @@
             "Depth": "4.6",
             "ML": "0.9",
             "Location": "CUKUROREN KOZAN ADANA"
-        },
-        {
-            "Date": "2021.12.25",
-            "Time": "03:46:26",
-            "Latitude": "36.4570",
-            "Longitude": "27.1115",
-            "Depth": "4.0",
-            "ML": "1.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.25",
-            "Time": "03:36:48",
-            "Latitude": "37.9028",
-            "Longitude": "27.0258",
-            "Depth": "17.8",
-            "ML": "1.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
