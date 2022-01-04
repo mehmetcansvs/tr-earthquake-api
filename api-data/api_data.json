@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.01.04",
+            "Time": "04:50:07",
+            "Latitude": "35.2027",
+            "Longitude": "25.2402",
+            "Depth": "9.2",
+            "ML": "3.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.04",
             "Time": "03:24:39",
             "Latitude": "36.6898",
             "Longitude": "28.2740",
             "Depth": "67.3",
             "ML": "1.9",
             "Location": "OSMANIYE MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.01.04",
+            "Time": "03:08:11",
+            "Latitude": "34.6902",
+            "Longitude": "24.9493",
+            "Depth": "10.5",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.01.04",
@@ -4463,24 +4481,6 @@
             "Depth": "17.6",
             "ML": "2.4",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.25",
-            "Time": "21:31:24",
-            "Latitude": "40.2073",
-            "Longitude": "31.6858",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "SEKLI BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2021.12.25",
-            "Time": "21:12:41",
-            "Latitude": "37.0965",
-            "Longitude": "29.0982",
-            "Depth": "7.7",
-            "ML": "1.6",
-            "Location": "SANDALCIK ACIPAYAM DENIZLI"
         }
     ]
 }
