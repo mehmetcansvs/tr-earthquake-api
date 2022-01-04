@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.04",
+            "Time": "22:57:58",
+            "Latitude": "39.4077",
+            "Longitude": "26.1797",
+            "Depth": "17.6",
+            "ML": "1.6",
+            "Location": "CANAKKALE MIDILLI ADASI ARASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.04",
+            "Time": "21:04:39",
+            "Latitude": "40.4543",
+            "Longitude": "28.9610",
+            "Depth": "14.2",
+            "ML": "1.4",
+            "Location": "KAPAKLI ARMUTLU YALOVA"
+        },
+        {
+            "Date": "2022.01.04",
             "Time": "20:20:11",
             "Latitude": "41.4042",
             "Longitude": "43.9765",
@@ -4454,24 +4472,6 @@
             "Depth": "5.0",
             "ML": "2.9",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "22:43:36",
-            "Latitude": "35.2132",
-            "Longitude": "26.8307",
-            "Depth": "3.7",
-            "ML": "3.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "22:40:07",
-            "Latitude": "35.1067",
-            "Longitude": "26.9725",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
