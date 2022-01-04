@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.01.04",
+            "Time": "14:31:17",
+            "Latitude": "37.0842",
+            "Longitude": "37.4930",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "SUBOGAZI SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.01.04",
+            "Time": "14:00:33",
+            "Latitude": "35.3778",
+            "Longitude": "25.2343",
+            "Depth": "9.3",
+            "ML": "1.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.04",
+            "Time": "13:34:52",
+            "Latitude": "35.1518",
+            "Longitude": "25.2185",
+            "Depth": "5.3",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.04",
+            "Time": "13:22:49",
+            "Latitude": "36.2368",
+            "Longitude": "33.7202",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "AKDERE SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.01.04",
+            "Time": "13:09:00",
+            "Latitude": "34.0073",
+            "Longitude": "25.9238",
+            "Depth": "8.3",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.04",
             "Time": "12:46:01",
             "Latitude": "40.3113",
             "Longitude": "30.0245",
@@ -4427,51 +4472,6 @@
             "Depth": "0.0",
             "ML": "2.1",
             "Location": "MADENLI SEYDISEHIR KONYA"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "12:40:06",
-            "Latitude": "39.2420",
-            "Longitude": "32.9597",
-            "Depth": "24.0",
-            "ML": "1.4",
-            "Location": "KOMUSINI KULU KONYA"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "12:32:47",
-            "Latitude": "39.8405",
-            "Longitude": "41.8098",
-            "Depth": "19.3",
-            "ML": "1.9",
-            "Location": "MARIFET KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "12:16:34",
-            "Latitude": "36.2515",
-            "Longitude": "33.6890",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "ISIKLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "11:08:51",
-            "Latitude": "39.4453",
-            "Longitude": "31.5908",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "11:05:22",
-            "Latitude": "41.1950",
-            "Longitude": "31.8247",
-            "Depth": "8.6",
-            "ML": "2.2",
-            "Location": "TELLIOGLU DEVREK ZONGULDAK"
         }
     ]
 }
