@@ -1,6 +1,87 @@
 {
     "data": [
         {
+            "Date": "2022.01.05",
+            "Time": "00:47:51",
+            "Latitude": "37.7230",
+            "Longitude": "26.8152",
+            "Depth": "10.1",
+            "ML": "1.3",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "00:41:36",
+            "Latitude": "37.8342",
+            "Longitude": "29.4800",
+            "Depth": "5.0",
+            "ML": "0.8",
+            "Location": "ALIKURT BOZKURT DENIZLI"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "00:30:12",
+            "Latitude": "36.4027",
+            "Longitude": "27.1243",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "00:28:34",
+            "Latitude": "37.0442",
+            "Longitude": "28.3850",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.04",
+            "Time": "23:53:32",
+            "Latitude": "39.5342",
+            "Longitude": "28.5662",
+            "Depth": "5.6",
+            "ML": "1.6",
+            "Location": "CATALCAM DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.01.04",
+            "Time": "23:52:26",
+            "Latitude": "36.7562",
+            "Longitude": "26.9282",
+            "Depth": "145.9",
+            "ML": "2.6",
+            "Location": "KOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.04",
+            "Time": "23:17:48",
+            "Latitude": "40.8167",
+            "Longitude": "34.8103",
+            "Depth": "8.5",
+            "ML": "1.6",
+            "Location": "BERKKOY DODURGA CORUM"
+        },
+        {
+            "Date": "2022.01.04",
+            "Time": "23:04:37",
+            "Latitude": "37.1597",
+            "Longitude": "28.6832",
+            "Depth": "8.0",
+            "ML": "2.5",
+            "Location": "TURGUT ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.04",
+            "Time": "23:01:38",
+            "Latitude": "36.4020",
+            "Longitude": "27.1183",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
             "Date": "2022.01.04",
             "Time": "22:57:58",
             "Latitude": "39.4077",
@@ -4391,87 +4472,6 @@
             "Depth": "2.3",
             "ML": "3.2",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "00:12:45",
-            "Latitude": "35.9625",
-            "Longitude": "27.2817",
-            "Depth": "9.2",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "00:01:27",
-            "Latitude": "37.8167",
-            "Longitude": "26.9567",
-            "Depth": "17.8",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "23:46:10",
-            "Latitude": "36.9162",
-            "Longitude": "27.2567",
-            "Depth": "6.4",
-            "ML": "3.1",
-            "Location": "KOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "23:36:09",
-            "Latitude": "35.1173",
-            "Longitude": "27.0377",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "23:30:45",
-            "Latitude": "35.1827",
-            "Longitude": "26.8475",
-            "Depth": "5.0",
-            "ML": "3.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "23:08:19",
-            "Latitude": "35.1138",
-            "Longitude": "27.0118",
-            "Depth": "1.2",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "23:04:00",
-            "Latitude": "35.2173",
-            "Longitude": "26.8313",
-            "Depth": "5.4",
-            "ML": "3.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "23:02:17",
-            "Latitude": "35.1177",
-            "Longitude": "26.9313",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.26",
-            "Time": "22:59:13",
-            "Latitude": "35.2573",
-            "Longitude": "26.8157",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
