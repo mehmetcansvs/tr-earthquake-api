@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.05",
+            "Time": "11:42:39",
+            "Latitude": "37.6443",
+            "Longitude": "29.2702",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "SERINHISAR DENIZLI"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "10:48:51",
+            "Latitude": "38.0203",
+            "Longitude": "32.7262",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "CENGILTI KARATAY KONYA"
+        },
+        {
+            "Date": "2022.01.05",
             "Time": "10:16:35",
             "Latitude": "38.7930",
             "Longitude": "27.1125",
@@ -4436,24 +4454,6 @@
             "Depth": "13.5",
             "ML": "2.3",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "03:50:56",
-            "Latitude": "35.4192",
-            "Longitude": "26.7142",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "03:49:13",
-            "Latitude": "40.1995",
-            "Longitude": "31.7300",
-            "Depth": "8.3",
-            "ML": "1.5",
-            "Location": "SEKLI BEYPAZARI ANKARA"
         }
     ]
 }
