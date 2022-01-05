@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.05",
+            "Time": "10:16:35",
+            "Latitude": "38.7930",
+            "Longitude": "27.1125",
+            "Depth": "8.5",
+            "ML": "2.0",
+            "Location": "UZUNHASANLAR ALIAGA IZMIR"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "09:20:54",
+            "Latitude": "39.2855",
+            "Longitude": "34.6045",
+            "Depth": "1.1",
+            "ML": "1.4",
+            "Location": "KUSAKLI MUCUR KIRSEHIR"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "09:19:12",
+            "Latitude": "38.5600",
+            "Longitude": "39.3292",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "IKITEPE ELAZIG"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "09:10:58",
+            "Latitude": "37.6370",
+            "Longitude": "29.5185",
+            "Depth": "21.4",
+            "ML": "1.4",
+            "Location": "SOGUTKOY CARDAK DENIZLI"
+        },
+        {
+            "Date": "2022.01.05",
             "Time": "08:17:44",
             "Latitude": "39.7290",
             "Longitude": "26.0785",
@@ -4418,42 +4454,6 @@
             "Depth": "8.3",
             "ML": "1.5",
             "Location": "SEKLI BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "03:41:56",
-            "Latitude": "39.5140",
-            "Longitude": "41.1543",
-            "Depth": "11.3",
-            "ML": "2.3",
-            "Location": "YIGITLER TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "03:11:59",
-            "Latitude": "35.2658",
-            "Longitude": "26.9130",
-            "Depth": "8.1",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "02:45:43",
-            "Latitude": "35.1582",
-            "Longitude": "26.8463",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "02:27:07",
-            "Latitude": "35.0920",
-            "Longitude": "27.0260",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
