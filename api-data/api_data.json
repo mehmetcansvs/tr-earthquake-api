@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.05",
+            "Time": "04:57:03",
+            "Latitude": "38.9708",
+            "Longitude": "42.0128",
+            "Depth": "5.2",
+            "ML": "3.2",
+            "Location": "GUNBATMAZ BULANIK MUS"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "04:32:35",
+            "Latitude": "39.1463",
+            "Longitude": "41.4115",
+            "Depth": "12.4",
+            "ML": "1.1",
+            "Location": "ASAGIALAGOZ VARTO MUS"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "04:12:04",
+            "Latitude": "37.6535",
+            "Longitude": "35.5317",
+            "Depth": "8.9",
+            "ML": "1.4",
+            "Location": "KOPRUCUK ALADAG ADANA"
+        },
+        {
+            "Date": "2022.01.05",
             "Time": "03:19:59",
             "Latitude": "38.4917",
             "Longitude": "39.5733",
@@ -17,6 +44,15 @@
             "Depth": "5.8",
             "ML": "1.8",
             "Location": "GUNBALI SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "02:07:54",
+            "Latitude": "38.0063",
+            "Longitude": "29.0518",
+            "Depth": "14.3",
+            "ML": "2.0",
+            "Location": "GOLEMEZLI AKKOY DENIZLI"
         },
         {
             "Date": "2022.01.05",
@@ -4435,42 +4471,6 @@
             "Longitude": "27.0187",
             "Depth": "5.0",
             "ML": "4.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "00:58:22",
-            "Latitude": "40.0582",
-            "Longitude": "31.0027",
-            "Depth": "8.9",
-            "ML": "1.9",
-            "Location": "EGRIKOY NALLIHAN ANKARA"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "00:48:46",
-            "Latitude": "36.9308",
-            "Longitude": "27.2757",
-            "Depth": "2.8",
-            "ML": "2.1",
-            "Location": "AKYARLAR BODRUM MUGLA"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "00:42:05",
-            "Latitude": "35.2750",
-            "Longitude": "27.0835",
-            "Depth": "10.2",
-            "ML": "3.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "00:31:46",
-            "Latitude": "35.1303",
-            "Longitude": "26.9947",
-            "Depth": "5.0",
-            "ML": "3.3",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
