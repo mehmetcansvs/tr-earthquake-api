@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.01.05",
+            "Time": "15:26:33",
+            "Latitude": "40.8740",
+            "Longitude": "34.1202",
+            "Depth": "14.9",
+            "ML": "1.9",
+            "Location": "CUKURKOY TOSYA KASTAMONU"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "15:12:55",
+            "Latitude": "39.0842",
+            "Longitude": "33.1690",
+            "Depth": "22.7",
+            "ML": "1.2",
+            "Location": "KULU KONYA"
+        },
+        {
+            "Date": "2022.01.05",
             "Time": "14:52:54",
             "Latitude": "39.9345",
             "Longitude": "39.8622",
             "Depth": "12.2",
             "ML": "2.2",
             "Location": "KUCUKGELENGEC CAYIRLI ERZINCAN"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "14:36:33",
+            "Latitude": "37.5380",
+            "Longitude": "36.4045",
+            "Depth": "5.9",
+            "ML": "2.4",
+            "Location": "ARIKLAR ANDIRIN KAHRAMANMARAS"
         },
         {
             "Date": "2022.01.05",
@@ -4427,33 +4454,6 @@
             "Depth": "11.8",
             "ML": "2.5",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "05:44:14",
-            "Latitude": "37.9105",
-            "Longitude": "32.0673",
-            "Depth": "1.7",
-            "ML": "1.5",
-            "Location": "KIZILOREN MERAM KONYA"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "05:14:47",
-            "Latitude": "35.1152",
-            "Longitude": "26.9095",
-            "Depth": "9.9",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "05:12:32",
-            "Latitude": "37.5705",
-            "Longitude": "29.5165",
-            "Depth": "5.4",
-            "ML": "2.3",
-            "Location": "DUDEN YESILOVA BURDUR"
         }
     ]
 }
