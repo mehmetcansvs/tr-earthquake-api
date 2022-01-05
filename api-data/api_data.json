@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.01.05",
+            "Time": "08:17:44",
+            "Latitude": "39.7290",
+            "Longitude": "26.0785",
+            "Depth": "6.7",
+            "ML": "2.0",
+            "Location": "DALYAN EZINE CANAKKALE"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "08:12:51",
+            "Latitude": "37.0690",
+            "Longitude": "28.2048",
+            "Depth": "9.6",
+            "ML": "0.9",
+            "Location": "KIRAN MUGLA"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "08:04:28",
+            "Latitude": "37.0868",
+            "Longitude": "28.4588",
+            "Depth": "3.3",
+            "ML": "0.8",
+            "Location": "CICEKLI ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "07:42:15",
+            "Latitude": "37.0437",
+            "Longitude": "28.3970",
+            "Depth": "2.3",
+            "ML": "1.0",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "07:20:32",
+            "Latitude": "38.5512",
+            "Longitude": "39.4563",
+            "Depth": "1.4",
+            "ML": "2.0",
+            "Location": "GOLARDI ELAZIG"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "07:02:11",
+            "Latitude": "36.8240",
+            "Longitude": "28.0217",
+            "Depth": "5.0",
+            "ML": "1.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.05",
             "Time": "06:21:15",
             "Latitude": "36.0663",
             "Longitude": "31.2102",
@@ -16,7 +70,16 @@
             "Longitude": "28.3902",
             "Depth": "5.3",
             "ML": "1.3",
-            "Location": "AZITEPE ALASEHIR MANISA REVIZE GUNBATMAZ BULANIK MUS"
+            "Location": "AZITEPE ALASEHIR MANISA REVIZE AKDENIZ"
+        },
+        {
+            "Date": "2022.01.05",
+            "Time": "04:57:03",
+            "Latitude": "38.9708",
+            "Longitude": "42.0128",
+            "Depth": "5.2",
+            "ML": "3.2",
+            "Location": "GUNBATMAZ BULANIK MUS"
         },
         {
             "Date": "2022.01.05",
@@ -4391,69 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.6",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "02:20:13",
-            "Latitude": "35.1133",
-            "Longitude": "26.8727",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "02:17:12",
-            "Latitude": "35.0890",
-            "Longitude": "27.0180",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "01:56:03",
-            "Latitude": "40.0122",
-            "Longitude": "41.0353",
-            "Depth": "5.6",
-            "ML": "2.9",
-            "Location": "PASAYURDU AZIZIYE ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "01:55:51",
-            "Latitude": "37.5203",
-            "Longitude": "35.9458",
-            "Depth": "7.0",
-            "ML": "2.1",
-            "Location": "ESKIMANTAS KOZAN ADANA"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "01:46:49",
-            "Latitude": "35.1293",
-            "Longitude": "26.9883",
-            "Depth": "5.0",
-            "ML": "3.9",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "01:41:21",
-            "Latitude": "37.6945",
-            "Longitude": "27.2200",
-            "Depth": "10.6",
-            "ML": "1.3",
-            "Location": "GUZELCAMLI KUSADASI AYDIN"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "01:38:45",
-            "Latitude": "35.1767",
-            "Longitude": "26.9523",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
