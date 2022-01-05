@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.05",
+            "Time": "17:46:55",
+            "Latitude": "38.2392",
+            "Longitude": "38.6813",
+            "Depth": "2.3",
+            "ML": "1.7",
+            "Location": "KOKPINAR PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.01.05",
             "Time": "15:26:33",
             "Latitude": "40.8740",
             "Longitude": "34.1202",
@@ -4445,15 +4454,6 @@
             "Depth": "1.4",
             "ML": "3.2",
             "Location": "KARLICA TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "05:45:47",
-            "Latitude": "35.1862",
-            "Longitude": "26.8967",
-            "Depth": "11.8",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
