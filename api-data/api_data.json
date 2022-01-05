@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.05",
+            "Time": "22:32:31",
+            "Latitude": "37.8707",
+            "Longitude": "26.8057",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.05",
             "Time": "19:15:47",
             "Latitude": "39.4017",
             "Longitude": "26.2155",
@@ -4444,15 +4453,6 @@
             "Longitude": "41.1602",
             "Depth": "2.9",
             "ML": "2.0",
-            "Location": "YIGITLER TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "05:49:48",
-            "Latitude": "39.5050",
-            "Longitude": "41.1917",
-            "Depth": "9.3",
-            "ML": "1.5",
             "Location": "YIGITLER TEKMAN ERZURUM"
         }
     ]
