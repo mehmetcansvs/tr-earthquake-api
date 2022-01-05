@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.05",
+            "Time": "19:15:47",
+            "Latitude": "39.4017",
+            "Longitude": "26.2155",
+            "Depth": "7.6",
+            "ML": "2.1",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.05",
             "Time": "17:46:55",
             "Latitude": "38.2392",
             "Longitude": "38.6813",
@@ -4445,15 +4454,6 @@
             "Depth": "9.3",
             "ML": "1.5",
             "Location": "YIGITLER TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "05:46:32",
-            "Latitude": "39.4985",
-            "Longitude": "41.2125",
-            "Depth": "1.4",
-            "ML": "3.2",
-            "Location": "KARLICA TEKMAN ERZURUM"
         }
     ]
 }
