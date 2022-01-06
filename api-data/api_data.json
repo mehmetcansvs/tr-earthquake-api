@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.01.06",
+            "Time": "09:22:12",
+            "Latitude": "40.6472",
+            "Longitude": "35.3947",
+            "Depth": "7.6",
+            "ML": "1.8",
+            "Location": "YAYLACIK MERZIFON AMASYA"
+        },
+        {
+            "Date": "2022.01.06",
             "Time": "09:01:57",
             "Latitude": "37.2848",
             "Longitude": "28.0470",
             "Depth": "0.0",
             "ML": "2.3",
             "Location": "CAZKIRLAR YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "08:46:45",
+            "Latitude": "38.8555",
+            "Longitude": "26.4805",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "08:40:26",
+            "Latitude": "37.9250",
+            "Longitude": "27.1140",
+            "Depth": "5.3",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
         },
         {
             "Date": "2022.01.06",
@@ -4427,33 +4454,6 @@
             "Depth": "17.7",
             "ML": "1.9",
             "Location": "HAMZALAR TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "15:30:02",
-            "Latitude": "39.5128",
-            "Longitude": "41.1995",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "AKDAMAR TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "15:25:27",
-            "Latitude": "40.5242",
-            "Longitude": "40.7792",
-            "Depth": "13.7",
-            "ML": "1.5",
-            "Location": "YIGITBASI PAZARYOLU ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "15:13:49",
-            "Latitude": "38.7162",
-            "Longitude": "28.9133",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BEYPINAR SELENDI MANISA"
         }
     ]
 }
