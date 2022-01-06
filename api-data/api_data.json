@@ -2,12 +2,66 @@
     "data": [
         {
             "Date": "2022.01.06",
+            "Time": "13:52:37",
+            "Latitude": "37.9767",
+            "Longitude": "34.7565",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "GUMUSLER NIGDE"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "13:43:14",
+            "Latitude": "36.1433",
+            "Longitude": "33.5548",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "13:32:34",
+            "Latitude": "36.1367",
+            "Longitude": "33.5602",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "BUYUKECELI GULNAR MERSIN REVIZE KEMERHISAR BOR NIGDE"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "13:14:00",
+            "Latitude": "38.6992",
+            "Longitude": "38.0885",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "YESILPINAR HEKIMHAN MALATYA"
+        },
+        {
+            "Date": "2022.01.06",
             "Time": "12:01:28",
             "Latitude": "37.0157",
             "Longitude": "35.7495",
             "Depth": "5.0",
             "ML": "1.2",
             "Location": "YILANKALE CEYHAN ADANA"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "11:31:58",
+            "Latitude": "39.8162",
+            "Longitude": "28.9508",
+            "Depth": "3.0",
+            "ML": "1.7",
+            "Location": "TEPECIK ORHANELI BURSA"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "11:18:00",
+            "Latitude": "38.9730",
+            "Longitude": "42.0302",
+            "Depth": "7.8",
+            "ML": "1.9",
+            "Location": "GUNBATMAZ BULANIK MUS"
         },
         {
             "Date": "2022.01.06",
@@ -4391,69 +4445,6 @@
             "Depth": "14.3",
             "ML": "3.9",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "17:39:18",
-            "Latitude": "38.6447",
-            "Longitude": "39.5593",
-            "Depth": "29.4",
-            "ML": "1.8",
-            "Location": "YUKARIBAG ELAZIG"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "17:30:34",
-            "Latitude": "35.1815",
-            "Longitude": "26.8513",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "17:19:06",
-            "Latitude": "35.0907",
-            "Longitude": "26.8970",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "17:18:42",
-            "Latitude": "38.4808",
-            "Longitude": "39.1645",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "KAVALLI SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "16:46:44",
-            "Latitude": "39.2885",
-            "Longitude": "41.0872",
-            "Depth": "20.1",
-            "ML": "1.4",
-            "Location": "SAKAOREN KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "16:26:01",
-            "Latitude": "36.3253",
-            "Longitude": "38.7918",
-            "Depth": "7.7",
-            "ML": "2.1",
-            "Location": "SURIYE"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "16:09:47",
-            "Latitude": "37.1373",
-            "Longitude": "37.3982",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "DULUK SEHITKAMIL GAZIANTEP"
         }
     ]
 }
