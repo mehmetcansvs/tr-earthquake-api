@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.06",
+            "Time": "20:44:50",
+            "Latitude": "37.6735",
+            "Longitude": "35.8775",
+            "Depth": "22.3",
+            "ML": "2.1",
+            "Location": "CULLUUSAGI KOZAN ADANA"
+        },
+        {
+            "Date": "2022.01.06",
             "Time": "18:59:43",
             "Latitude": "37.9052",
             "Longitude": "26.9532",
@@ -4436,15 +4445,6 @@
             "Depth": "17.1",
             "ML": "1.7",
             "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "20:33:15",
-            "Latitude": "37.0652",
-            "Longitude": "28.3757",
-            "Depth": "9.8",
-            "ML": "2.0",
-            "Location": "GOKOVA ULA MUGLA"
         }
     ]
 }
