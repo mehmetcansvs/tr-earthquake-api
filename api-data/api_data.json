@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.06",
+            "Time": "04:53:28",
+            "Latitude": "36.9117",
+            "Longitude": "27.2483",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "KOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "04:26:48",
+            "Latitude": "39.4002",
+            "Longitude": "33.9075",
+            "Depth": "5.5",
+            "ML": "1.7",
+            "Location": "ISAHOCALI KAMAN KIRSEHIR"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "03:56:47",
+            "Latitude": "37.0690",
+            "Longitude": "28.3880",
+            "Depth": "6.8",
+            "ML": "1.8",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "03:52:45",
+            "Latitude": "40.0472",
+            "Longitude": "32.0835",
+            "Depth": "3.2",
+            "ML": "2.3",
+            "Location": "AKKAYA AYAS ANKARA"
+        },
+        {
+            "Date": "2022.01.06",
             "Time": "03:40:41",
             "Latitude": "37.8550",
             "Longitude": "27.0585",
@@ -4417,42 +4453,6 @@
             "Longitude": "26.8463",
             "Depth": "5.0",
             "ML": "3.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "07:22:46",
-            "Latitude": "35.0932",
-            "Longitude": "26.9912",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "07:17:24",
-            "Latitude": "40.4542",
-            "Longitude": "34.8060",
-            "Depth": "9.4",
-            "ML": "2.0",
-            "Location": "SARIMBEY CORUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "07:16:24",
-            "Latitude": "37.8693",
-            "Longitude": "44.6018",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "ESENDERE YUKSEKOVA HAKKARI"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "06:43:48",
-            "Latitude": "35.1552",
-            "Longitude": "26.8340",
-            "Depth": "5.4",
-            "ML": "2.6",
             "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
