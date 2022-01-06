@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.06",
+            "Time": "12:01:28",
+            "Latitude": "37.0157",
+            "Longitude": "35.7495",
+            "Depth": "5.0",
+            "ML": "1.2",
+            "Location": "YILANKALE CEYHAN ADANA"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "11:15:21",
+            "Latitude": "36.6457",
+            "Longitude": "36.3082",
+            "Depth": "10.2",
+            "ML": "1.0",
+            "Location": "KALEDIBI ISKENDERUN HATAY"
+        },
+        {
+            "Date": "2022.01.06",
             "Time": "09:22:12",
             "Latitude": "40.6472",
             "Longitude": "35.3947",
@@ -4436,24 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.9",
             "Location": "DULUK SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "16:01:11",
-            "Latitude": "40.7738",
-            "Longitude": "30.6088",
-            "Depth": "0.0",
-            "ML": "2.2",
-            "Location": "YAGBASAN HENDEK SAKARYA"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "15:38:32",
-            "Latitude": "39.4782",
-            "Longitude": "41.2278",
-            "Depth": "17.7",
-            "ML": "1.9",
-            "Location": "HAMZALAR TEKMAN ERZURUM"
         }
     ]
 }
