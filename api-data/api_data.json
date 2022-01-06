@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.01.06",
+            "Time": "09:01:57",
+            "Latitude": "37.2848",
+            "Longitude": "28.0470",
+            "Depth": "0.0",
+            "ML": "2.3",
+            "Location": "CAZKIRLAR YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "08:22:13",
+            "Latitude": "37.8723",
+            "Longitude": "27.1212",
+            "Depth": "17.8",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "08:20:13",
+            "Latitude": "37.9082",
+            "Longitude": "27.1008",
+            "Depth": "9.6",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "08:10:55",
+            "Latitude": "37.8958",
+            "Longitude": "27.1357",
+            "Depth": "4.6",
+            "ML": "2.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "07:55:04",
+            "Latitude": "36.0158",
+            "Longitude": "28.7568",
+            "Depth": "9.2",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "07:32:53",
+            "Latitude": "38.2897",
+            "Longitude": "38.8438",
+            "Depth": "3.5",
+            "ML": "2.0",
+            "Location": "GUNDEGER PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "07:22:55",
+            "Latitude": "37.8447",
+            "Longitude": "26.7703",
+            "Depth": "4.9",
+            "ML": "1.9",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.06",
             "Time": "07:07:28",
             "Latitude": "37.9997",
             "Longitude": "35.5962",
@@ -4391,69 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "BEYPINAR SELENDI MANISA"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "15:04:08",
-            "Latitude": "39.6423",
-            "Longitude": "42.5070",
-            "Depth": "20.0",
-            "ML": "1.4",
-            "Location": "DORTPINAR KARAYAZI ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "14:56:28",
-            "Latitude": "36.4415",
-            "Longitude": "37.2575",
-            "Depth": "21.1",
-            "ML": "1.9",
-            "Location": "SURIYE"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "14:45:23",
-            "Latitude": "38.0073",
-            "Longitude": "29.4992",
-            "Depth": "31.9",
-            "ML": "1.5",
-            "Location": "ISABEY CAL DENIZLI"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "12:44:25",
-            "Latitude": "36.8507",
-            "Longitude": "28.1035",
-            "Depth": "13.9",
-            "ML": "1.7",
-            "Location": "HISARONU MARMARIS MUGLA"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "12:06:02",
-            "Latitude": "37.1730",
-            "Longitude": "37.1935",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "DURNALIK SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "11:47:26",
-            "Latitude": "36.1147",
-            "Longitude": "33.5660",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "11:17:34",
-            "Latitude": "36.0997",
-            "Longitude": "27.5565",
-            "Depth": "10.0",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
