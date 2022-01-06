@@ -2,12 +2,93 @@
     "data": [
         {
             "Date": "2022.01.06",
+            "Time": "03:40:41",
+            "Latitude": "37.8550",
+            "Longitude": "27.0585",
+            "Depth": "7.0",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "03:36:42",
+            "Latitude": "37.1900",
+            "Longitude": "28.0748",
+            "Depth": "8.3",
+            "ML": "1.1",
+            "Location": "CIRPI MUGLA"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "03:16:23",
+            "Latitude": "39.7942",
+            "Longitude": "41.8630",
+            "Depth": "11.0",
+            "ML": "0.8",
+            "Location": "SARITAS KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "02:44:20",
+            "Latitude": "37.0100",
+            "Longitude": "28.9777",
+            "Depth": "11.5",
+            "ML": "1.6",
+            "Location": "KARACAM KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "02:15:29",
+            "Latitude": "39.0093",
+            "Longitude": "29.7880",
+            "Depth": "5.3",
+            "ML": "2.4",
+            "Location": "SARAYCIK ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "02:04:15",
+            "Latitude": "40.6192",
+            "Longitude": "36.8215",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "BUZKOY NIKSAR TOKAT"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "01:56:38",
+            "Latitude": "37.0455",
+            "Longitude": "28.3850",
+            "Depth": "7.2",
+            "ML": "1.9",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "01:24:24",
+            "Latitude": "37.8085",
+            "Longitude": "26.7553",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.06",
             "Time": "00:33:43",
             "Latitude": "37.8830",
             "Longitude": "26.7970",
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "00:16:17",
+            "Latitude": "35.0415",
+            "Longitude": "27.0408",
+            "Depth": "2.3",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.01.05",
@@ -4373,87 +4454,6 @@
             "Depth": "5.4",
             "ML": "2.6",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "06:42:06",
-            "Latitude": "39.5085",
-            "Longitude": "41.1987",
-            "Depth": "9.1",
-            "ML": "1.9",
-            "Location": "AKDAMAR TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "06:38:38",
-            "Latitude": "40.0610",
-            "Longitude": "38.9045",
-            "Depth": "12.7",
-            "ML": "1.8",
-            "Location": "OREN REFAHIYE ERZINCAN"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "06:16:33",
-            "Latitude": "39.4685",
-            "Longitude": "41.1322",
-            "Depth": "12.0",
-            "ML": "1.8",
-            "Location": "CIMENOZU CAT ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "06:15:33",
-            "Latitude": "35.0183",
-            "Longitude": "26.9868",
-            "Depth": "1.6",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "06:09:28",
-            "Latitude": "35.3945",
-            "Longitude": "26.6483",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "06:05:13",
-            "Latitude": "38.9553",
-            "Longitude": "26.1205",
-            "Depth": "12.6",
-            "ML": "2.5",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "05:59:36",
-            "Latitude": "39.4965",
-            "Longitude": "41.2062",
-            "Depth": "1.3",
-            "ML": "3.8",
-            "Location": "YIGITLER TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "05:57:12",
-            "Latitude": "39.5022",
-            "Longitude": "41.1492",
-            "Depth": "11.0",
-            "ML": "2.0",
-            "Location": "YIGITLER TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "05:57:00",
-            "Latitude": "35.1540",
-            "Longitude": "26.9585",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
