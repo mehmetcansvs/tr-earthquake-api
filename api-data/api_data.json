@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.01.07",
+            "Time": "00:45:59",
+            "Latitude": "37.8105",
+            "Longitude": "26.9467",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "23:35:24",
+            "Latitude": "38.9787",
+            "Longitude": "42.0043",
+            "Depth": "1.7",
+            "ML": "3.7",
+            "Location": "GUNBATMAZ BULANIK MUS"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "23:24:37",
+            "Latitude": "39.0115",
+            "Longitude": "26.5252",
+            "Depth": "9.1",
+            "ML": "3.3",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
             "Date": "2022.01.06",
             "Time": "22:42:18",
             "Latitude": "39.0265",
@@ -4418,33 +4445,6 @@
             "Depth": "5.3",
             "ML": "2.2",
             "Location": "KIRKOY KALE DENIZLI"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "23:08:19",
-            "Latitude": "38.6507",
-            "Longitude": "31.0617",
-            "Depth": "5.4",
-            "ML": "2.5",
-            "Location": "YESILYURT CAY AFYONKARAHISAR"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "22:58:10",
-            "Latitude": "37.5092",
-            "Longitude": "30.3768",
-            "Depth": "16.2",
-            "ML": "1.6",
-            "Location": "BAGSARAY CELTIKCI BURDUR"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "22:17:22",
-            "Latitude": "37.9685",
-            "Longitude": "28.7927",
-            "Depth": "2.1",
-            "ML": "1.7",
-            "Location": "KIZILDERE BUHARKENT AYDIN"
         }
     ]
 }
