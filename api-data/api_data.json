@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.06",
+            "Time": "18:59:43",
+            "Latitude": "37.9052",
+            "Longitude": "26.9532",
+            "Depth": "2.2",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "18:16:31",
+            "Latitude": "38.9718",
+            "Longitude": "41.9903",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "OGLAKKAYA BULANIK MUS"
+        },
+        {
+            "Date": "2022.01.06",
+            "Time": "18:06:58",
+            "Latitude": "39.0827",
+            "Longitude": "28.9765",
+            "Depth": "9.4",
+            "ML": "2.1",
+            "Location": "SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.01.06",
             "Time": "15:22:51",
             "Latitude": "37.8955",
             "Longitude": "26.9158",
@@ -4418,33 +4445,6 @@
             "Depth": "9.8",
             "ML": "2.0",
             "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "20:30:35",
-            "Latitude": "35.0165",
-            "Longitude": "26.9145",
-            "Depth": "6.4",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "20:01:15",
-            "Latitude": "39.4197",
-            "Longitude": "40.2955",
-            "Depth": "7.0",
-            "ML": "1.7",
-            "Location": "SAMPASAKARADERBENDI PULUMUR TUNCELI"
-        },
-        {
-            "Date": "2021.12.27",
-            "Time": "18:57:57",
-            "Latitude": "34.9950",
-            "Longitude": "25.1070",
-            "Depth": "7.4",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
