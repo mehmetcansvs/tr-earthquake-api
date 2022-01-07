@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.07",
+            "Time": "04:00:23",
+            "Latitude": "37.6495",
+            "Longitude": "26.1035",
+            "Depth": "7.0",
+            "ML": "1.9",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.07",
+            "Time": "03:42:26",
+            "Latitude": "37.7068",
+            "Longitude": "35.8423",
+            "Depth": "15.0",
+            "ML": "1.4",
+            "Location": "CULLUUSAGI KOZAN ADANA"
+        },
+        {
+            "Date": "2022.01.07",
             "Time": "02:53:11",
             "Latitude": "38.0672",
             "Longitude": "29.5888",
@@ -4427,24 +4445,6 @@
             "Depth": "5.0",
             "ML": "3.5",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "02:06:46",
-            "Latitude": "39.4333",
-            "Longitude": "40.3772",
-            "Depth": "5.5",
-            "ML": "1.9",
-            "Location": "GELINPERTEK YEDISU BINGOL"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "01:16:22",
-            "Latitude": "38.8512",
-            "Longitude": "39.4592",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "YUKARIKAYABASI PERTEK TUNCELI"
         }
     ]
 }
