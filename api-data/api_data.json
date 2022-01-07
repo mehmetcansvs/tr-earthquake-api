@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.07",
+            "Time": "18:25:40",
+            "Latitude": "38.1883",
+            "Longitude": "34.2802",
+            "Depth": "7.5",
+            "ML": "2.3",
+            "Location": "YENIPINAR AKSARAY"
+        },
+        {
+            "Date": "2022.01.07",
+            "Time": "18:08:02",
+            "Latitude": "38.2037",
+            "Longitude": "38.5850",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "SOGUTLU PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.01.07",
+            "Time": "17:57:38",
+            "Latitude": "37.0733",
+            "Longitude": "28.3705",
+            "Depth": "12.0",
+            "ML": "1.6",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.07",
             "Time": "13:54:23",
             "Latitude": "39.4868",
             "Longitude": "41.1912",
@@ -4418,33 +4445,6 @@
             "Depth": "10.0",
             "ML": "2.6",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "06:59:00",
-            "Latitude": "39.7913",
-            "Longitude": "41.8173",
-            "Depth": "14.0",
-            "ML": "1.3",
-            "Location": "YEMLIK KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "06:27:05",
-            "Latitude": "38.3217",
-            "Longitude": "38.8420",
-            "Depth": "7.6",
-            "ML": "1.8",
-            "Location": "GUNDEGER PUTURGE MALATYA"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "05:51:34",
-            "Latitude": "37.0787",
-            "Longitude": "28.3717",
-            "Depth": "11.1",
-            "ML": "1.3",
-            "Location": "KIZILAGAC ULA MUGLA"
         }
     ]
 }
