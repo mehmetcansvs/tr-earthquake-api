@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.07",
+            "Time": "13:54:23",
+            "Latitude": "39.4868",
+            "Longitude": "41.1912",
+            "Depth": "7.8",
+            "ML": "2.3",
+            "Location": "YUVAKLI TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.01.07",
+            "Time": "12:50:22",
+            "Latitude": "38.1722",
+            "Longitude": "26.1642",
+            "Depth": "5.2",
+            "ML": "2.2",
+            "Location": "SAKIZ ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.07",
+            "Time": "11:50:02",
+            "Latitude": "37.8485",
+            "Longitude": "26.9765",
+            "Depth": "4.8",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.07",
             "Time": "09:28:49",
             "Latitude": "40.7397",
             "Longitude": "29.9658",
@@ -4418,33 +4445,6 @@
             "Depth": "11.1",
             "ML": "1.3",
             "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "05:35:58",
-            "Latitude": "35.1880",
-            "Longitude": "26.8202",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "03:29:55",
-            "Latitude": "37.6808",
-            "Longitude": "25.9283",
-            "Depth": "24.9",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "03:10:41",
-            "Latitude": "37.6662",
-            "Longitude": "26.0412",
-            "Depth": "6.7",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
