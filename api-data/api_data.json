@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.07",
+            "Time": "22:53:38",
+            "Latitude": "37.1607",
+            "Longitude": "36.3052",
+            "Depth": "15.5",
+            "ML": "2.3",
+            "Location": "TEHCI OSMANIYE"
+        },
+        {
+            "Date": "2022.01.07",
+            "Time": "22:34:18",
+            "Latitude": "37.5732",
+            "Longitude": "35.5637",
+            "Depth": "11.2",
+            "ML": "1.4",
+            "Location": "KISLAK ALADAG ADANA"
+        },
+        {
+            "Date": "2022.01.07",
+            "Time": "21:34:03",
+            "Latitude": "38.1915",
+            "Longitude": "34.2535",
+            "Depth": "3.9",
+            "ML": "2.5",
+            "Location": "YENIPINAR AKSARAY"
+        },
+        {
+            "Date": "2022.01.07",
             "Time": "20:31:50",
             "Latitude": "39.3643",
             "Longitude": "40.7847",
@@ -4418,33 +4445,6 @@
             "Depth": "8.6",
             "ML": "2.6",
             "Location": "ALANICI MENEMEN IZMIR"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "09:56:06",
-            "Latitude": "38.6347",
-            "Longitude": "39.5572",
-            "Depth": "3.8",
-            "ML": "1.6",
-            "Location": "ICME ELAZIG"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "09:44:58",
-            "Latitude": "40.3742",
-            "Longitude": "27.1752",
-            "Depth": "12.2",
-            "ML": "2.6",
-            "Location": "CAKIRLI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "09:16:29",
-            "Latitude": "39.7765",
-            "Longitude": "26.7960",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "EVCILER BAYRAMIC CANAKKALE"
         }
     ]
 }
