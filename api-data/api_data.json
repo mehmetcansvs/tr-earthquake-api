@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.07",
+            "Time": "05:53:55",
+            "Latitude": "37.9458",
+            "Longitude": "30.8632",
+            "Depth": "11.2",
+            "ML": "1.3",
+            "Location": "MAHMATLAR EGIRDIR ISPARTA"
+        },
+        {
+            "Date": "2022.01.07",
             "Time": "05:39:27",
             "Latitude": "39.0125",
             "Longitude": "42.0835",
@@ -4436,15 +4445,6 @@
             "Depth": "1.8",
             "ML": "2.8",
             "Location": "ESENDERE YUKSEKOVA HAKKARI"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "02:38:14",
-            "Latitude": "37.3613",
-            "Longitude": "29.3842",
-            "Depth": "13.1",
-            "ML": "1.3",
-            "Location": "KOKE ACIPAYAM DENIZLI"
         }
     ]
 }
