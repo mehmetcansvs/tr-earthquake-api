@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.07",
+            "Time": "20:31:50",
+            "Latitude": "39.3643",
+            "Longitude": "40.7847",
+            "Depth": "7.5",
+            "ML": "1.9",
+            "Location": "KAYNARPINAR KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.01.07",
             "Time": "18:25:40",
             "Latitude": "38.1883",
             "Longitude": "34.2802",
@@ -4436,15 +4445,6 @@
             "Depth": "5.4",
             "ML": "1.8",
             "Location": "EVCILER BAYRAMIC CANAKKALE"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "07:29:09",
-            "Latitude": "35.8285",
-            "Longitude": "27.3967",
-            "Depth": "10.0",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
         }
     ]
 }
