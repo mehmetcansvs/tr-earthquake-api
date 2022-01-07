@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.07",
+            "Time": "09:28:49",
+            "Latitude": "40.7397",
+            "Longitude": "29.9658",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "BASISKELE KOCAELI"
+        },
+        {
+            "Date": "2022.01.07",
+            "Time": "08:37:24",
+            "Latitude": "37.6808",
+            "Longitude": "37.7693",
+            "Depth": "8.4",
+            "ML": "0.9",
+            "Location": "BEREKETLI BESNI ADIYAMAN"
+        },
+        {
+            "Date": "2022.01.07",
             "Time": "05:53:55",
             "Latitude": "37.9458",
             "Longitude": "30.8632",
@@ -4427,24 +4445,6 @@
             "Depth": "6.7",
             "ML": "1.8",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "02:50:25",
-            "Latitude": "40.2215",
-            "Longitude": "31.8485",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "BASOREN BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "02:49:22",
-            "Latitude": "37.6877",
-            "Longitude": "44.7650",
-            "Depth": "1.8",
-            "ML": "2.8",
-            "Location": "ESENDERE YUKSEKOVA HAKKARI"
         }
     ]
 }
