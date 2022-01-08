@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.08",
+            "Time": "07:59:13",
+            "Latitude": "37.8985",
+            "Longitude": "26.8797",
+            "Depth": "13.2",
+            "ML": "1.4",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "07:35:03",
+            "Latitude": "37.0623",
+            "Longitude": "28.9705",
+            "Depth": "4.2",
+            "ML": "1.4",
+            "Location": "OTMANLAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "07:12:34",
+            "Latitude": "37.0257",
+            "Longitude": "27.6403",
+            "Depth": "7.2",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.08",
             "Time": "07:09:47",
             "Latitude": "37.9192",
             "Longitude": "27.1215",
@@ -4418,33 +4445,6 @@
             "Depth": "9.6",
             "ML": "2.0",
             "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "19:11:23",
-            "Latitude": "35.0570",
-            "Longitude": "26.8205",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "18:51:50",
-            "Latitude": "36.3055",
-            "Longitude": "27.1318",
-            "Depth": "5.6",
-            "ML": "1.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "18:46:28",
-            "Latitude": "40.6000",
-            "Longitude": "27.7793",
-            "Depth": "12.6",
-            "ML": "1.8",
-            "Location": "ASMALI MARMARA BALIKESIR"
         }
     ]
 }
