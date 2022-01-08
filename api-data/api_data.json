@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.08",
+            "Time": "14:20:59",
+            "Latitude": "39.2180",
+            "Longitude": "25.8378",
+            "Depth": "9.5",
+            "ML": "2.4",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "14:14:08",
+            "Latitude": "38.0503",
+            "Longitude": "32.4025",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "SIZMA SELCUKLU KONYA"
+        },
+        {
+            "Date": "2022.01.08",
             "Time": "12:26:04",
             "Latitude": "36.1893",
             "Longitude": "28.1663",
@@ -4427,24 +4445,6 @@
             "Depth": "17.3",
             "ML": "1.0",
             "Location": "CAMLIOVA KAS ANTALYA"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "22:47:55",
-            "Latitude": "39.3397",
-            "Longitude": "32.2687",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "SABANCA POLATLI ANKARA"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "21:36:09",
-            "Latitude": "38.2450",
-            "Longitude": "33.4392",
-            "Depth": "14.6",
-            "ML": "0.9",
-            "Location": "ESMEKAYA ESKIL AKSARAY"
         }
     ]
 }
