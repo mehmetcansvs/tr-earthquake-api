@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.01.09",
+            "Time": "00:46:37",
+            "Latitude": "37.7940",
+            "Longitude": "26.8792",
+            "Depth": "5.8",
+            "ML": "1.6",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "23:10:32",
+            "Latitude": "38.3233",
+            "Longitude": "38.9118",
+            "Depth": "20.3",
+            "ML": "2.1",
+            "Location": "UZUNHUSEYIN KALE MALATYA"
+        },
+        {
             "Date": "2022.01.08",
             "Time": "22:55:09",
             "Latitude": "34.8802",
@@ -4427,24 +4445,6 @@
             "Depth": "6.8",
             "ML": "2.1",
             "Location": "DIPDEDE KULU KONYA"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "07:06:28",
-            "Latitude": "37.9068",
-            "Longitude": "27.6352",
-            "Depth": "9.2",
-            "ML": "1.4",
-            "Location": "ALANGULLU GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "06:58:27",
-            "Latitude": "37.0732",
-            "Longitude": "28.3805",
-            "Depth": "3.1",
-            "ML": "2.5",
-            "Location": "KIZILAGAC ULA MUGLA"
         }
     ]
 }
