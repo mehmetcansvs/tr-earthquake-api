@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.08",
+            "Time": "03:05:57",
+            "Latitude": "38.2113",
+            "Longitude": "34.3047",
+            "Depth": "4.1",
+            "ML": "1.8",
+            "Location": "IHLARA GUZELYURT AKSARAY"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "02:31:12",
+            "Latitude": "37.2877",
+            "Longitude": "31.1593",
+            "Depth": "136.2",
+            "ML": "2.0",
+            "Location": "CALTEPE MANAVGAT ANTALYA"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "01:59:57",
+            "Latitude": "37.8465",
+            "Longitude": "30.1015",
+            "Depth": "15.7",
+            "ML": "1.5",
+            "Location": "OVACIK BASMAKCI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "01:06:00",
+            "Latitude": "37.6372",
+            "Longitude": "25.9917",
+            "Depth": "14.9",
+            "ML": "1.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.08",
             "Time": "00:44:16",
             "Latitude": "39.2403",
             "Longitude": "41.3660",
@@ -4409,42 +4445,6 @@
             "Depth": "0.0",
             "ML": "2.1",
             "Location": "MADENLI SEYDISEHIR KONYA"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "12:31:54",
-            "Latitude": "38.1402",
-            "Longitude": "32.6222",
-            "Depth": "13.9",
-            "ML": "1.3",
-            "Location": "CANDIR SELCUKLU KONYA"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "12:19:42",
-            "Latitude": "38.6818",
-            "Longitude": "40.8428",
-            "Depth": "27.1",
-            "ML": "2.1",
-            "Location": "BALGOZE GENC BINGOL"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "11:52:39",
-            "Latitude": "37.4008",
-            "Longitude": "38.6248",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "TATARHUYUK BOZOVA SANLIURFA"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "10:53:34",
-            "Latitude": "36.9922",
-            "Longitude": "28.6930",
-            "Depth": "12.9",
-            "ML": "1.8",
-            "Location": "YESILKOY KOYCEGIZ MUGLA"
         }
     ]
 }
