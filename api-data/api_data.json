@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.08",
+            "Time": "09:01:28",
+            "Latitude": "37.0852",
+            "Longitude": "28.9258",
+            "Depth": "7.7",
+            "ML": "2.1",
+            "Location": "OTMANLAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.01.08",
             "Time": "07:59:13",
             "Latitude": "37.8985",
             "Longitude": "26.8797",
@@ -4436,15 +4445,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "TASLIYURT PASINLER ERZURUM"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "20:00:09",
-            "Latitude": "37.8340",
-            "Longitude": "26.4738",
-            "Depth": "9.6",
-            "ML": "2.0",
-            "Location": "SISAM ADASI EGE DENIZI"
         }
     ]
 }
