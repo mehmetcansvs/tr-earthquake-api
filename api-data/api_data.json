@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.08",
+            "Time": "19:07:01",
+            "Latitude": "41.1330",
+            "Longitude": "28.8195",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "PIRINCCI EYUP ISTANBUL"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "17:10:58",
+            "Latitude": "37.7865",
+            "Longitude": "29.7772",
+            "Depth": "5.1",
+            "ML": "1.2",
+            "Location": "GEMIS CARDAK DENIZLI"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "17:08:15",
+            "Latitude": "37.8087",
+            "Longitude": "29.6520",
+            "Depth": "10.8",
+            "ML": "1.3",
+            "Location": "CARDAK DENIZLI"
+        },
+        {
+            "Date": "2022.01.08",
             "Time": "16:39:11",
             "Latitude": "40.4095",
             "Longitude": "26.0883",
@@ -4418,33 +4445,6 @@
             "Depth": "8.3",
             "ML": "1.3",
             "Location": "YUMRUTAS MENGEN BOLU"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "06:17:15",
-            "Latitude": "39.0600",
-            "Longitude": "27.1720",
-            "Depth": "9.9",
-            "ML": "1.5",
-            "Location": "ARMAGANLAR BERGAMA IZMIR"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "06:13:13",
-            "Latitude": "37.2213",
-            "Longitude": "28.0652",
-            "Depth": "16.6",
-            "ML": "1.4",
-            "Location": "CUKUROZ YATAGAN MUGLA"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "04:38:22",
-            "Latitude": "36.4538",
-            "Longitude": "28.9975",
-            "Depth": "13.6",
-            "ML": "1.3",
-            "Location": "OLUDENIZ ACIKLARI MUGLA AKDENIZ"
         }
     ]
 }
