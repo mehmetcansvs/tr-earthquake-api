@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.01.08",
+            "Time": "12:26:04",
+            "Latitude": "36.1893",
+            "Longitude": "28.1663",
+            "Depth": "57.9",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "11:28:00",
+            "Latitude": "39.1402",
+            "Longitude": "40.2898",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "CELEBI KARAKOCAN ELAZIG"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "10:32:53",
+            "Latitude": "37.1875",
+            "Longitude": "28.6567",
+            "Depth": "7.5",
+            "ML": "2.1",
+            "Location": "CAKMAK MUGLA"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "09:45:10",
+            "Latitude": "36.9530",
+            "Longitude": "27.3555",
+            "Depth": "5.3",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.08",
+            "Time": "09:11:41",
+            "Latitude": "37.1448",
+            "Longitude": "29.6010",
+            "Depth": "4.3",
+            "ML": "1.7",
+            "Location": "YAMADI GOLHISAR BURDUR"
+        },
+        {
+            "Date": "2022.01.08",
             "Time": "09:01:28",
             "Latitude": "37.0852",
             "Longitude": "28.9258",
@@ -4400,51 +4445,6 @@
             "Depth": "14.6",
             "ML": "0.9",
             "Location": "ESMEKAYA ESKIL AKSARAY"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "21:22:57",
-            "Latitude": "39.0075",
-            "Longitude": "27.8772",
-            "Depth": "10.0",
-            "ML": "1.6",
-            "Location": "DINGILLER AKHISAR MANISA"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "21:12:47",
-            "Latitude": "40.1080",
-            "Longitude": "40.8632",
-            "Depth": "10.5",
-            "ML": "2.2",
-            "Location": "YUKARICANOREN AZIZIYE ERZURUM"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "20:11:53",
-            "Latitude": "36.9875",
-            "Longitude": "35.4958",
-            "Depth": "20.0",
-            "ML": "1.2",
-            "Location": "HASANBEYLI SARICAM ADANA"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "20:05:17",
-            "Latitude": "37.0267",
-            "Longitude": "35.6335",
-            "Depth": "22.9",
-            "ML": "1.4",
-            "Location": "UNLUCE SARICAM ADANA"
-        },
-        {
-            "Date": "2021.12.28",
-            "Time": "20:02:53",
-            "Latitude": "39.8647",
-            "Longitude": "41.7868",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "TASLIYURT PASINLER ERZURUM"
         }
     ]
 }
