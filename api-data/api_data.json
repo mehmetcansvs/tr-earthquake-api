@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.01.09",
+            "Time": "03:12:52",
+            "Latitude": "39.8747",
+            "Longitude": "41.8552",
+            "Depth": "16.1",
+            "ML": "1.8",
+            "Location": "PEKECIK KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "03:04:32",
+            "Latitude": "38.6267",
+            "Longitude": "42.8762",
+            "Depth": "5.3",
+            "ML": "1.5",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "01:28:56",
+            "Latitude": "40.7385",
+            "Longitude": "31.6433",
+            "Depth": "1.5",
+            "ML": "1.9",
+            "Location": "OKCULAR BOLU"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "01:25:18",
+            "Latitude": "37.1507",
+            "Longitude": "28.5242",
+            "Depth": "6.4",
+            "ML": "2.3",
+            "Location": "GOLCUK ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "01:21:08",
+            "Latitude": "40.7728",
+            "Longitude": "31.5157",
+            "Depth": "10.1",
+            "ML": "1.1",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.01.09",
             "Time": "00:46:37",
             "Latitude": "37.7940",
             "Longitude": "26.8792",
@@ -4400,51 +4445,6 @@
             "Depth": "24.3",
             "ML": "1.8",
             "Location": "MUSADANISMAN ASKALE ERZURUM"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "09:55:42",
-            "Latitude": "39.0950",
-            "Longitude": "27.5398",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "DEREKOY SOMA MANISA"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "09:51:56",
-            "Latitude": "38.5888",
-            "Longitude": "39.6432",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "KUMYAZI MADEN ELAZIG"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "09:16:20",
-            "Latitude": "37.7847",
-            "Longitude": "43.5028",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "SICAKSU GURPINAR VAN"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "08:08:08",
-            "Latitude": "34.8107",
-            "Longitude": "25.1173",
-            "Depth": "84.5",
-            "ML": "5.7",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "07:31:40",
-            "Latitude": "39.1958",
-            "Longitude": "32.9043",
-            "Depth": "6.8",
-            "ML": "2.1",
-            "Location": "DIPDEDE KULU KONYA"
         }
     ]
 }
