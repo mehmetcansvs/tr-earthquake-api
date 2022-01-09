@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.09",
+            "Time": "07:09:22",
+            "Latitude": "37.8802",
+            "Longitude": "29.2590",
+            "Depth": "10.8",
+            "ML": "2.1",
+            "Location": "IRLIGANLI DENIZLI"
+        },
+        {
+            "Date": "2022.01.09",
             "Time": "04:38:33",
             "Latitude": "37.9107",
             "Longitude": "32.0610",
@@ -4436,15 +4445,6 @@
             "Depth": "5.3",
             "ML": "1.5",
             "Location": "KARAHAN CUKUROVA ADANA"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "12:03:03",
-            "Latitude": "39.0272",
-            "Longitude": "29.0387",
-            "Depth": "7.8",
-            "ML": "1.2",
-            "Location": "SAMAT SIMAV KUTAHYA"
         }
     ]
 }
