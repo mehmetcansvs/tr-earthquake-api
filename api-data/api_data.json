@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.01.10",
+            "Time": "00:14:53",
+            "Latitude": "37.0865",
+            "Longitude": "27.5150",
+            "Depth": "2.0",
+            "ML": "1.2",
+            "Location": "CAMLIK BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "23:48:14",
+            "Latitude": "40.7813",
+            "Longitude": "27.7972",
+            "Depth": "14.1",
+            "ML": "2.0",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "22:10:59",
+            "Latitude": "39.0040",
+            "Longitude": "42.0453",
+            "Depth": "6.3",
+            "ML": "2.0",
+            "Location": "ERENTEPE BULANIK MUS"
+        },
+        {
             "Date": "2022.01.09",
             "Time": "22:10:46",
             "Latitude": "38.0742",
@@ -8,6 +35,24 @@
             "Depth": "6.9",
             "ML": "1.9",
             "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "21:57:20",
+            "Latitude": "38.0900",
+            "Longitude": "30.1280",
+            "Depth": "3.6",
+            "ML": "1.4",
+            "Location": "CAKICI DINAR AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "21:04:05",
+            "Latitude": "38.9523",
+            "Longitude": "26.1278",
+            "Depth": "1.0",
+            "ML": "1.9",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         },
         {
             "Date": "2022.01.09",
@@ -4409,51 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "AKYAZI YAZIHAN MALATYA"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "19:04:27",
-            "Latitude": "37.5818",
-            "Longitude": "29.7958",
-            "Depth": "7.3",
-            "ML": "2.1",
-            "Location": "KAVAK YESILOVA BURDUR"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "18:35:46",
-            "Latitude": "34.9688",
-            "Longitude": "25.6402",
-            "Depth": "70.5",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "18:34:23",
-            "Latitude": "35.1667",
-            "Longitude": "25.2242",
-            "Depth": "5.4",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "18:32:26",
-            "Latitude": "37.6573",
-            "Longitude": "26.0413",
-            "Depth": "5.6",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "18:27:53",
-            "Latitude": "39.0198",
-            "Longitude": "26.5308",
-            "Depth": "8.9",
-            "ML": "3.1",
-            "Location": "MIDILLI ADASI EGE DENIZI"
         }
     ]
 }
