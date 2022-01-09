@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.09",
+            "Time": "10:39:06",
+            "Latitude": "36.9265",
+            "Longitude": "35.9210",
+            "Depth": "17.6",
+            "ML": "2.0",
+            "Location": "KURTPINAR CEYHAN ADANA"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "10:05:19",
+            "Latitude": "38.3488",
+            "Longitude": "34.0583",
+            "Depth": "23.2",
+            "ML": "1.8",
+            "Location": "AKSARAY"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "09:18:53",
+            "Latitude": "39.4212",
+            "Longitude": "28.0090",
+            "Depth": "6.1",
+            "ML": "1.8",
+            "Location": "ELYAPAN BIGADIC BALIKESIR"
+        },
+        {
+            "Date": "2022.01.09",
             "Time": "08:45:23",
             "Latitude": "38.9742",
             "Longitude": "30.0445",
@@ -4418,33 +4445,6 @@
             "Depth": "8.0",
             "ML": "1.2",
             "Location": "PINARBASI EZINE CANAKKALE"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "12:26:50",
-            "Latitude": "37.8822",
-            "Longitude": "29.8498",
-            "Depth": "18.5",
-            "ML": "1.7",
-            "Location": "ASAGIYENICE DAZKIRI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "12:21:42",
-            "Latitude": "37.7285",
-            "Longitude": "25.9932",
-            "Depth": "6.8",
-            "ML": "2.4",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "12:13:54",
-            "Latitude": "41.2828",
-            "Longitude": "43.9953",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "GURCISTAN"
         }
     ]
 }
