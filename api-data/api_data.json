@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.09",
+            "Time": "18:42:33",
+            "Latitude": "38.7815",
+            "Longitude": "27.4817",
+            "Depth": "6.1",
+            "ML": "2.7",
+            "Location": "KALEMLI MANISA"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "18:30:21",
+            "Latitude": "40.2292",
+            "Longitude": "31.8157",
+            "Depth": "7.6",
+            "ML": "1.7",
+            "Location": "KAPLAN BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.01.09",
             "Time": "15:56:52",
             "Latitude": "37.1392",
             "Longitude": "27.9568",
@@ -4436,24 +4454,6 @@
             "Depth": "13.9",
             "ML": "2.0",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "16:22:12",
-            "Latitude": "40.8150",
-            "Longitude": "31.7732",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "TOKMAKLAR BOLU"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "15:58:39",
-            "Latitude": "40.7942",
-            "Longitude": "31.6875",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "YAKABAYAT BOLU"
         }
     ]
 }
