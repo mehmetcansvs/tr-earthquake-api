@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.09",
+            "Time": "08:45:23",
+            "Latitude": "38.9742",
+            "Longitude": "30.0445",
+            "Depth": "9.6",
+            "ML": "1.6",
+            "Location": "EYIDEMIR DUMLUPINAR KUTAHYA"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "08:20:32",
+            "Latitude": "39.4700",
+            "Longitude": "39.6817",
+            "Depth": "17.5",
+            "ML": "1.1",
+            "Location": "KARAGOZ PULUMUR TUNCELI"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "07:47:08",
+            "Latitude": "39.4662",
+            "Longitude": "25.8687",
+            "Depth": "6.2",
+            "ML": "2.6",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.09",
             "Time": "07:09:22",
             "Latitude": "37.8802",
             "Longitude": "29.2590",
@@ -4418,33 +4445,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "12:08:06",
-            "Latitude": "37.1352",
-            "Longitude": "28.6707",
-            "Depth": "6.0",
-            "ML": "2.1",
-            "Location": "TURGUT ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "12:05:22",
-            "Latitude": "40.9208",
-            "Longitude": "33.8632",
-            "Depth": "13.4",
-            "ML": "1.6",
-            "Location": "YUKARIKAYI TOSYA KASTAMONU"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "12:05:15",
-            "Latitude": "37.0597",
-            "Longitude": "35.1663",
-            "Depth": "5.3",
-            "ML": "1.5",
-            "Location": "KARAHAN CUKUROVA ADANA"
         }
     ]
 }
