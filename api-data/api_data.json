@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.01.09",
+            "Time": "22:10:46",
+            "Latitude": "38.0742",
+            "Longitude": "26.2085",
+            "Depth": "6.9",
+            "ML": "1.9",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.09",
             "Time": "20:29:16",
             "Latitude": "38.4377",
             "Longitude": "39.2798",
             "Depth": "5.7",
             "ML": "1.7",
             "Location": "YEDIKARDES SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "20:23:19",
+            "Latitude": "40.3238",
+            "Longitude": "31.1018",
+            "Depth": "22.0",
+            "ML": "1.5",
+            "Location": "ULUHAN NALLIHAN ANKARA"
         },
         {
             "Date": "2022.01.09",
@@ -4436,24 +4454,6 @@
             "Depth": "8.9",
             "ML": "3.1",
             "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "18:20:20",
-            "Latitude": "41.7020",
-            "Longitude": "32.5298",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "SUKURLER AMASRA BARTIN"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "17:46:16",
-            "Latitude": "40.3945",
-            "Longitude": "27.6245",
-            "Depth": "14.3",
-            "ML": "3.3",
-            "Location": "ERDEK KORFEZI MARMARA DENIZI"
         }
     ]
 }
