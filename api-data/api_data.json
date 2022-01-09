@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.09",
+            "Time": "04:38:33",
+            "Latitude": "37.9107",
+            "Longitude": "32.0610",
+            "Depth": "13.0",
+            "ML": "0.6",
+            "Location": "KIZILOREN MERAM KONYA"
+        },
+        {
+            "Date": "2022.01.09",
             "Time": "03:12:52",
             "Latitude": "39.8747",
             "Longitude": "41.8552",
@@ -17,6 +26,15 @@
             "Depth": "5.3",
             "ML": "1.5",
             "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "02:45:57",
+            "Latitude": "38.5918",
+            "Longitude": "36.1680",
+            "Depth": "25.5",
+            "ML": "1.5",
+            "Location": "CINAHMET PINARBASI KAYSERI"
         },
         {
             "Date": "2022.01.09",
@@ -4427,24 +4445,6 @@
             "Depth": "7.8",
             "ML": "1.2",
             "Location": "SAMAT SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "11:39:15",
-            "Latitude": "39.0973",
-            "Longitude": "29.1548",
-            "Depth": "6.5",
-            "ML": "1.9",
-            "Location": "SENKOY SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "09:57:52",
-            "Latitude": "40.0425",
-            "Longitude": "40.6410",
-            "Depth": "24.3",
-            "ML": "1.8",
-            "Location": "MUSADANISMAN ASKALE ERZURUM"
         }
     ]
 }
