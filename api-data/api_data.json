@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.09",
+            "Time": "15:56:52",
+            "Latitude": "37.1392",
+            "Longitude": "27.9568",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "YOGUNOLUK MILAS MUGLA"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "15:37:01",
+            "Latitude": "38.9418",
+            "Longitude": "26.0090",
+            "Depth": "7.0",
+            "ML": "2.2",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.09",
+            "Time": "15:11:45",
+            "Latitude": "39.3805",
+            "Longitude": "27.7418",
+            "Depth": "8.4",
+            "ML": "2.3",
+            "Location": "DIKMELER SAVASTEPE BALIKESIR"
+        },
+        {
+            "Date": "2022.01.09",
             "Time": "14:37:00",
             "Latitude": "37.9483",
             "Longitude": "27.1787",
@@ -4427,33 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.7",
             "Location": "YAKABAYAT BOLU"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "15:29:48",
-            "Latitude": "40.4277",
-            "Longitude": "26.2890",
-            "Depth": "16.5",
-            "ML": "1.4",
-            "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "15:16:59",
-            "Latitude": "35.3320",
-            "Longitude": "25.2402",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "14:52:39",
-            "Latitude": "39.4900",
-            "Longitude": "33.1700",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "CATALOREN BALA ANKARA"
         }
     ]
 }
