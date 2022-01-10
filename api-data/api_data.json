@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.01.10",
+            "Time": "19:05:17",
+            "Latitude": "37.8728",
+            "Longitude": "27.0852",
+            "Depth": "4.1",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "18:55:11",
+            "Latitude": "37.5513",
+            "Longitude": "26.8837",
+            "Depth": "10.0",
+            "ML": "1.9",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "18:21:22",
+            "Latitude": "39.1595",
+            "Longitude": "40.5423",
+            "Depth": "8.4",
+            "ML": "2.0",
+            "Location": "ERLER ADAKLI BINGOL"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "18:00:57",
+            "Latitude": "39.1762",
+            "Longitude": "40.5677",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "ERLER ADAKLI BINGOL"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "17:32:05",
+            "Latitude": "39.0017",
+            "Longitude": "26.5362",
+            "Depth": "10.5",
+            "ML": "2.4",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "17:05:22",
+            "Latitude": "37.8867",
+            "Longitude": "26.5628",
+            "Depth": "1.5",
+            "ML": "2.2",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.10",
             "Time": "13:38:50",
             "Latitude": "37.8610",
             "Longitude": "29.3310",
@@ -4400,60 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.9",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "09:37:41",
-            "Latitude": "39.1813",
-            "Longitude": "25.8338",
-            "Depth": "16.0",
-            "ML": "2.0",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "08:52:18",
-            "Latitude": "36.8912",
-            "Longitude": "27.6297",
-            "Depth": "5.1",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "08:16:52",
-            "Latitude": "35.2097",
-            "Longitude": "26.8497",
-            "Depth": "5.0",
-            "ML": "3.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "07:56:17",
-            "Latitude": "36.3882",
-            "Longitude": "27.0545",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "07:54:33",
-            "Latitude": "37.4855",
-            "Longitude": "35.3780",
-            "Depth": "13.5",
-            "ML": "1.1",
-            "Location": "CERITLER ALADAG ADANA"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "07:19:34",
-            "Latitude": "37.9488",
-            "Longitude": "28.7708",
-            "Depth": "22.5",
-            "ML": "1.4",
-            "Location": "SAVCILI BUHARKENT AYDIN"
         }
     ]
 }
