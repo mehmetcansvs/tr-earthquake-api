@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.10",
+            "Time": "21:13:07",
+            "Latitude": "36.9710",
+            "Longitude": "27.3318",
+            "Depth": "10.9",
+            "ML": "1.7",
+            "Location": "AKYARLAR BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "20:48:21",
+            "Latitude": "39.5483",
+            "Longitude": "25.9778",
+            "Depth": "7.5",
+            "ML": "2.9",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "20:10:15",
+            "Latitude": "39.8642",
+            "Longitude": "40.2085",
+            "Depth": "13.9",
+            "ML": "2.6",
+            "Location": "CADIRKAYA TERCAN ERZINCAN"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "19:15:39",
+            "Latitude": "36.5933",
+            "Longitude": "25.2832",
+            "Depth": "10.6",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.10",
             "Time": "19:05:17",
             "Latitude": "37.8728",
             "Longitude": "27.0852",
@@ -4418,42 +4454,6 @@
             "Depth": "17.5",
             "ML": "1.4",
             "Location": "PARMAKSIZ CAT ERZURUM"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "10:22:41",
-            "Latitude": "38.5947",
-            "Longitude": "26.7867",
-            "Depth": "8.6",
-            "ML": "1.9",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "10:14:44",
-            "Latitude": "35.2148",
-            "Longitude": "25.2502",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "09:59:00",
-            "Latitude": "39.7280",
-            "Longitude": "41.8760",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "CULLU KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "09:58:28",
-            "Latitude": "35.2278",
-            "Longitude": "26.7422",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
