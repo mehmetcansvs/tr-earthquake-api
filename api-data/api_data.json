@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.10",
+            "Time": "13:38:50",
+            "Latitude": "37.8610",
+            "Longitude": "29.3310",
+            "Depth": "7.1",
+            "ML": "1.7",
+            "Location": "KARAPINAR CAL DENIZLI"
+        },
+        {
+            "Date": "2022.01.10",
             "Time": "10:19:13",
             "Latitude": "37.9462",
             "Longitude": "27.1767",
@@ -4445,15 +4454,6 @@
             "Depth": "22.5",
             "ML": "1.4",
             "Location": "SAVCILI BUHARKENT AYDIN"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "07:15:39",
-            "Latitude": "37.1050",
-            "Longitude": "28.3938",
-            "Depth": "9.9",
-            "ML": "1.7",
-            "Location": "ULA MUGLA"
         }
     ]
 }
