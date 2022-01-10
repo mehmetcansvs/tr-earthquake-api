@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.10",
+            "Time": "05:27:54",
+            "Latitude": "37.2607",
+            "Longitude": "27.7860",
+            "Depth": "11.0",
+            "ML": "1.5",
+            "Location": "BECIN MILAS MUGLA"
+        },
+        {
+            "Date": "2022.01.10",
             "Time": "03:17:14",
             "Latitude": "38.9605",
             "Longitude": "26.0512",
@@ -35,6 +44,33 @@
             "Depth": "5.4",
             "ML": "1.9",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "02:09:21",
+            "Latitude": "39.6425",
+            "Longitude": "41.7563",
+            "Depth": "2.4",
+            "ML": "1.5",
+            "Location": "KULLU TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "01:55:51",
+            "Latitude": "39.1385",
+            "Longitude": "29.0813",
+            "Depth": "9.7",
+            "ML": "2.0",
+            "Location": "SOGUT SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "01:05:58",
+            "Latitude": "37.8402",
+            "Longitude": "29.3637",
+            "Depth": "5.1",
+            "ML": "1.2",
+            "Location": "DERECIFTLIK HONAZ DENIZLI"
         },
         {
             "Date": "2022.01.10",
@@ -4418,42 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "KUSBABA BUCAK BURDUR"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "23:00:50",
-            "Latitude": "37.3933",
-            "Longitude": "36.0195",
-            "Depth": "17.8",
-            "ML": "1.1",
-            "Location": "AZAPLI KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "22:58:14",
-            "Latitude": "36.8850",
-            "Longitude": "33.3197",
-            "Depth": "10.7",
-            "ML": "1.4",
-            "Location": "KAVAKOZU MUT MERSIN"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "22:54:30",
-            "Latitude": "40.1868",
-            "Longitude": "31.6807",
-            "Depth": "9.0",
-            "ML": "2.0",
-            "Location": "KARAKOY NALLIHAN ANKARA"
-        },
-        {
-            "Date": "2021.12.29",
-            "Time": "22:29:02",
-            "Latitude": "35.1307",
-            "Longitude": "26.6695",
-            "Depth": "6.9",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
