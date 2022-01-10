@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.10",
+            "Time": "21:58:45",
+            "Latitude": "36.4422",
+            "Longitude": "27.0822",
+            "Depth": "5.7",
+            "ML": "2.6",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.10",
+            "Time": "21:29:44",
+            "Latitude": "36.5232",
+            "Longitude": "25.3012",
+            "Depth": "5.5",
+            "ML": "3.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.10",
             "Time": "21:13:07",
             "Latitude": "36.9710",
             "Longitude": "27.3318",
@@ -4436,24 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.7",
             "Location": "SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "11:04:08",
-            "Latitude": "42.8238",
-            "Longitude": "43.1167",
-            "Depth": "6.4",
-            "ML": "3.1",
-            "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "10:37:35",
-            "Latitude": "39.5587",
-            "Longitude": "40.9042",
-            "Depth": "17.5",
-            "ML": "1.4",
-            "Location": "PARMAKSIZ CAT ERZURUM"
         }
     ]
 }
