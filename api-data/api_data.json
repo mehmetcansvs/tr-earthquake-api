@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.10",
+            "Time": "23:25:46",
+            "Latitude": "39.1492",
+            "Longitude": "40.5567",
+            "Depth": "7.8",
+            "ML": "1.9",
+            "Location": "ERLER ADAKLI BINGOL"
+        },
+        {
+            "Date": "2022.01.10",
             "Time": "21:58:45",
             "Latitude": "36.4422",
             "Longitude": "27.0822",
@@ -4445,15 +4454,6 @@
             "Depth": "9.7",
             "ML": "2.1",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "11:28:36",
-            "Latitude": "39.4578",
-            "Longitude": "31.5168",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "SIVRIHISAR ESKISEHIR"
         }
     ]
 }
