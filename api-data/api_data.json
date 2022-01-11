@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.11",
+            "Time": "17:51:08",
+            "Latitude": "36.1453",
+            "Longitude": "33.5267",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "17:23:11",
+            "Latitude": "34.7290",
+            "Longitude": "25.3023",
+            "Depth": "16.2",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "17:15:26",
+            "Latitude": "39.9132",
+            "Longitude": "33.3210",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "EDIGE ELMADAG ANKARA"
+        },
+        {
+            "Date": "2022.01.11",
             "Time": "16:43:43",
             "Latitude": "38.7905",
             "Longitude": "31.4605",
@@ -4409,33 +4436,6 @@
             "Depth": "2.5",
             "ML": "2.4",
             "Location": "DEMIRCILER TORTUM ERZURUM"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "11:21:27",
-            "Latitude": "39.7492",
-            "Longitude": "23.5435",
-            "Depth": "27.1",
-            "ML": "3.5",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "09:22:56",
-            "Latitude": "38.9652",
-            "Longitude": "43.3853",
-            "Depth": "9.5",
-            "ML": "2.1",
-            "Location": "KASIMBAGI ERCIS VAN"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "08:56:30",
-            "Latitude": "38.0212",
-            "Longitude": "27.1073",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
