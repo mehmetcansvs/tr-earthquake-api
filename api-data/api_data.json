@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.11",
+            "Time": "06:08:17",
+            "Latitude": "35.3410",
+            "Longitude": "32.2273",
+            "Depth": "24.7",
+            "ML": "3.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "05:53:45",
+            "Latitude": "39.2837",
+            "Longitude": "33.2912",
+            "Depth": "7.4",
+            "ML": "1.9",
+            "Location": "TATARHUYUK BALA ANKARA"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "05:50:08",
+            "Latitude": "35.0892",
+            "Longitude": "32.0960",
+            "Depth": "13.1",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
             "Time": "05:27:40",
             "Latitude": "38.2757",
             "Longitude": "34.0180",
@@ -4418,33 +4445,6 @@
             "Depth": "11.8",
             "ML": "1.8",
             "Location": "OBALAR KELKIT GUMUSHANE"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "17:47:18",
-            "Latitude": "37.9775",
-            "Longitude": "26.1875",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "17:32:00",
-            "Latitude": "37.8920",
-            "Longitude": "27.5552",
-            "Depth": "13.3",
-            "ML": "1.6",
-            "Location": "NESETIYE GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "16:05:41",
-            "Latitude": "39.1990",
-            "Longitude": "41.3710",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "LEYLEK VARTO MUS"
         }
     ]
 }
