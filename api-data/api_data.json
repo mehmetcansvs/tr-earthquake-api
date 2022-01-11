@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.11",
+            "Time": "12:59:09",
+            "Latitude": "37.9145",
+            "Longitude": "29.5340",
+            "Depth": "10.0",
+            "ML": "1.5",
+            "Location": "CATALOBA BAKLAN DENIZLI"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "12:37:53",
+            "Latitude": "40.8650",
+            "Longitude": "31.4782",
+            "Depth": "12.6",
+            "ML": "1.8",
+            "Location": "HOCATMAN YIGILCA DUZCE"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "12:04:34",
+            "Latitude": "38.8832",
+            "Longitude": "41.4123",
+            "Depth": "17.4",
+            "ML": "1.9",
+            "Location": "NADASLIK MUS"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "11:45:12",
+            "Latitude": "37.3563",
+            "Longitude": "34.9665",
+            "Depth": "4.1",
+            "ML": "1.3",
+            "Location": "BELEMEDIK POZANTI ADANA"
+        },
+        {
+            "Date": "2022.01.11",
             "Time": "11:02:56",
             "Latitude": "37.0502",
             "Longitude": "28.4148",
@@ -4409,42 +4445,6 @@
             "Depth": "28.7",
             "ML": "3.5",
             "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "22:44:47",
-            "Latitude": "40.5908",
-            "Longitude": "28.1715",
-            "Depth": "3.3",
-            "ML": "1.8",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "22:39:53",
-            "Latitude": "40.0308",
-            "Longitude": "41.0213",
-            "Depth": "12.7",
-            "ML": "1.3",
-            "Location": "OCAK AZIZIYE ERZURUM"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "22:32:37",
-            "Latitude": "40.7548",
-            "Longitude": "31.4717",
-            "Depth": "7.6",
-            "ML": "1.6",
-            "Location": "ELMALIK BOLU"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "22:17:56",
-            "Latitude": "40.6583",
-            "Longitude": "29.0950",
-            "Depth": "10.4",
-            "ML": "1.1",
-            "Location": "CINARCIK YALOVA"
         }
     ]
 }
