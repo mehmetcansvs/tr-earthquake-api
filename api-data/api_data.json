@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.01.11",
-            "Time": "03:27:41",
-            "Latitude": "39.1110",
-            "Longitude": "37.8378",
-            "Depth": "5.7",
-            "ML": "2.0",
-            "Location": "TASLI KANGAL SIVAS"
+            "Time": "05:27:40",
+            "Latitude": "38.2757",
+            "Longitude": "34.0180",
+            "Depth": "18.3",
+            "ML": "1.2",
+            "Location": "SAGLIK AKSARAY"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "04:55:12",
+            "Latitude": "35.1755",
+            "Longitude": "32.1305",
+            "Depth": "87.6",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "04:46:51",
+            "Latitude": "36.4760",
+            "Longitude": "27.1135",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "04:07:51",
+            "Latitude": "35.2890",
+            "Longitude": "32.1068",
+            "Depth": "36.3",
+            "ML": "6.2",
+            "Location": "AKDENIZ REVIZE TASLI KANGAL SIVAS"
         },
         {
             "Date": "2022.01.11",
@@ -4418,42 +4445,6 @@
             "Depth": "5.0",
             "ML": "2.5",
             "Location": "LEYLEK VARTO MUS"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "15:48:19",
-            "Latitude": "37.0498",
-            "Longitude": "28.3528",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "13:58:36",
-            "Latitude": "36.8778",
-            "Longitude": "27.9258",
-            "Depth": "17.1",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "13:24:56",
-            "Latitude": "35.3563",
-            "Longitude": "26.5828",
-            "Depth": "20.2",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "13:22:33",
-            "Latitude": "38.1847",
-            "Longitude": "38.4947",
-            "Depth": "2.9",
-            "ML": "1.5",
-            "Location": "ULUKOY MALATYA"
         }
     ]
 }
