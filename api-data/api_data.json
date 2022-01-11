@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.11",
+            "Time": "20:29:12",
+            "Latitude": "36.6473",
+            "Longitude": "42.9257",
+            "Depth": "6.6",
+            "ML": "3.3",
+            "Location": "IRAK"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "19:44:42",
+            "Latitude": "34.9238",
+            "Longitude": "32.0050",
+            "Depth": "14.1",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "19:29:47",
+            "Latitude": "36.5722",
+            "Longitude": "25.4428",
+            "Depth": "18.4",
+            "ML": "3.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "19:21:30",
+            "Latitude": "36.9505",
+            "Longitude": "27.9908",
+            "Depth": "9.5",
+            "ML": "1.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
             "Time": "17:51:08",
             "Latitude": "36.1453",
             "Longitude": "33.5267",
@@ -4400,42 +4436,6 @@
             "Depth": "5.4",
             "ML": "1.9",
             "Location": "ISIKKAYA KOZAN ADANA"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "12:51:06",
-            "Latitude": "40.2397",
-            "Longitude": "31.6775",
-            "Depth": "14.6",
-            "ML": "2.2",
-            "Location": "GOKCEOZ NALLIHAN ANKARA"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "12:42:50",
-            "Latitude": "38.3845",
-            "Longitude": "27.2768",
-            "Depth": "17.9",
-            "ML": "1.2",
-            "Location": "GOKDERE BORNOVA IZMIR"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "12:16:32",
-            "Latitude": "37.9082",
-            "Longitude": "29.2200",
-            "Depth": "25.5",
-            "ML": "1.5",
-            "Location": "IRLIGANLI DENIZLI"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "12:03:09",
-            "Latitude": "40.3798",
-            "Longitude": "41.5840",
-            "Depth": "2.5",
-            "ML": "2.4",
-            "Location": "DEMIRCILER TORTUM ERZURUM"
         }
     ]
 }
