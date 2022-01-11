@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.01.11",
+            "Time": "03:27:41",
+            "Latitude": "39.1110",
+            "Longitude": "37.8378",
+            "Depth": "5.7",
+            "ML": "2.0",
+            "Location": "TASLI KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "01:47:21",
+            "Latitude": "37.3787",
+            "Longitude": "35.4480",
+            "Depth": "9.2",
+            "ML": "1.7",
+            "Location": "BOZTAHTA ALADAG ADANA"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "01:18:57",
+            "Latitude": "39.9773",
+            "Longitude": "39.5835",
+            "Depth": "6.5",
+            "ML": "1.8",
+            "Location": "ESKIYOL KELKIT GUMUSHANE"
+        },
+        {
             "Date": "2022.01.10",
             "Time": "23:25:46",
             "Latitude": "39.1492",
@@ -4427,33 +4454,6 @@
             "Depth": "2.9",
             "ML": "1.5",
             "Location": "ULUKOY MALATYA"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "12:28:16",
-            "Latitude": "41.0633",
-            "Longitude": "43.9072",
-            "Depth": "11.2",
-            "ML": "2.0",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "12:06:50",
-            "Latitude": "38.9968",
-            "Longitude": "26.5053",
-            "Depth": "12.7",
-            "ML": "2.8",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "11:56:56",
-            "Latitude": "37.7140",
-            "Longitude": "25.9172",
-            "Depth": "9.7",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
