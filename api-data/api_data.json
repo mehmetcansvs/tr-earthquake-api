@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.11",
+            "Time": "08:33:04",
+            "Latitude": "39.9803",
+            "Longitude": "27.7525",
+            "Depth": "12.0",
+            "ML": "2.5",
+            "Location": "CALICA GONEN BALIKESIR"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "08:16:14",
+            "Latitude": "40.5507",
+            "Longitude": "30.5550",
+            "Depth": "3.4",
+            "ML": "1.9",
+            "Location": "BELPINAR GEYVE SAKARYA"
+        },
+        {
+            "Date": "2022.01.11",
             "Time": "06:08:17",
             "Latitude": "35.3410",
             "Longitude": "32.2273",
@@ -4427,24 +4445,6 @@
             "Depth": "7.4",
             "ML": "3.3",
             "Location": "YOLCUPINAR SINDIRGI BALIKESIR"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "19:18:15",
-            "Latitude": "39.5597",
-            "Longitude": "35.8972",
-            "Depth": "5.5",
-            "ML": "1.6",
-            "Location": "BASCATAK AKDAGMADENI YOZGAT"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "19:12:14",
-            "Latitude": "39.9422",
-            "Longitude": "39.7263",
-            "Depth": "11.8",
-            "ML": "1.8",
-            "Location": "OBALAR KELKIT GUMUSHANE"
         }
     ]
 }
