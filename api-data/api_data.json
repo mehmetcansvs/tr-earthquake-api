@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.11",
+            "Time": "11:02:56",
+            "Latitude": "37.0502",
+            "Longitude": "28.4148",
+            "Depth": "1.0",
+            "ML": "1.8",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "10:16:23",
+            "Latitude": "40.0425",
+            "Longitude": "27.7078",
+            "Depth": "9.7",
+            "ML": "2.3",
+            "Location": "CIFTLIKALANI GONEN BALIKESIR"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "08:45:54",
+            "Latitude": "38.4567",
+            "Longitude": "26.6598",
+            "Depth": "12.0",
+            "ML": "1.5",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.11",
             "Time": "08:33:04",
             "Latitude": "39.9803",
             "Longitude": "27.7525",
@@ -17,6 +44,15 @@
             "Depth": "3.4",
             "ML": "1.9",
             "Location": "BELPINAR GEYVE SAKARYA"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "07:41:53",
+            "Latitude": "35.6005",
+            "Longitude": "23.5870",
+            "Depth": "7.2",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.01.11",
@@ -4409,42 +4445,6 @@
             "Depth": "10.4",
             "ML": "1.1",
             "Location": "CINARCIK YALOVA"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "21:51:26",
-            "Latitude": "37.8693",
-            "Longitude": "26.9555",
-            "Depth": "2.9",
-            "ML": "2.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "21:36:27",
-            "Latitude": "38.3327",
-            "Longitude": "38.9573",
-            "Depth": "10.7",
-            "ML": "1.6",
-            "Location": "TOPALUSAGI SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "20:51:53",
-            "Latitude": "38.3743",
-            "Longitude": "39.1675",
-            "Depth": "22.1",
-            "ML": "1.6",
-            "Location": "USLU SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "20:23:58",
-            "Latitude": "39.2788",
-            "Longitude": "28.2503",
-            "Depth": "7.4",
-            "ML": "3.3",
-            "Location": "YOLCUPINAR SINDIRGI BALIKESIR"
         }
     ]
 }
