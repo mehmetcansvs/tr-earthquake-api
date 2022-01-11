@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.01.11",
+            "Time": "16:43:43",
+            "Latitude": "38.7905",
+            "Longitude": "31.4605",
+            "Depth": "9.9",
+            "ML": "2.0",
+            "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "16:40:57",
+            "Latitude": "37.7500",
+            "Longitude": "27.0515",
+            "Depth": "7.9",
+            "ML": "2.6",
+            "Location": "SISAM ADASI EGE DENIZI REVIZE KARABURUN SORGUN YOZGAT"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "15:30:34",
+            "Latitude": "35.3500",
+            "Longitude": "32.1215",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "14:14:55",
+            "Latitude": "35.7227",
+            "Longitude": "25.7127",
+            "Depth": "8.1",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "14:13:37",
+            "Latitude": "34.7203",
+            "Longitude": "25.5053",
+            "Depth": "1.5",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "13:42:14",
+            "Latitude": "36.5092",
+            "Longitude": "25.2057",
+            "Depth": "1.8",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "13:39:35",
+            "Latitude": "36.6000",
+            "Longitude": "24.9758",
+            "Depth": "6.1",
+            "ML": "1.6",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.11",
             "Time": "12:59:09",
             "Latitude": "37.9145",
             "Longitude": "29.5340",
@@ -4373,78 +4436,6 @@
             "Depth": "5.0",
             "ML": "1.6",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "08:48:35",
-            "Latitude": "39.3503",
-            "Longitude": "40.6930",
-            "Depth": "1.1",
-            "ML": "1.8",
-            "Location": "DINARBEY YEDISU BINGOL"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "07:51:54",
-            "Latitude": "38.0247",
-            "Longitude": "27.0798",
-            "Depth": "11.0",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "02:53:17",
-            "Latitude": "36.5617",
-            "Longitude": "25.7402",
-            "Depth": "1.7",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "02:24:02",
-            "Latitude": "40.7903",
-            "Longitude": "31.5227",
-            "Depth": "3.0",
-            "ML": "2.6",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "00:55:02",
-            "Latitude": "34.8608",
-            "Longitude": "23.4808",
-            "Depth": "20.1",
-            "ML": "4.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "00:31:31",
-            "Latitude": "39.9477",
-            "Longitude": "45.3613",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2021.12.31",
-            "Time": "00:23:14",
-            "Latitude": "40.5645",
-            "Longitude": "42.3820",
-            "Depth": "17.3",
-            "ML": "1.3",
-            "Location": "SENKAYA ERZURUM"
-        },
-        {
-            "Date": "2021.12.30",
-            "Time": "23:04:02",
-            "Latitude": "41.4835",
-            "Longitude": "44.1350",
-            "Depth": "28.7",
-            "ML": "3.5",
-            "Location": "GURCISTAN"
         }
     ]
 }
