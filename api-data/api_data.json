@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.01.13",
+            "Time": "01:06:36",
+            "Latitude": "39.0902",
+            "Longitude": "39.9608",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "CAYAGZI YAYLADERE BINGOL"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "00:24:57",
+            "Latitude": "39.1705",
+            "Longitude": "41.2908",
+            "Depth": "11.5",
+            "ML": "1.6",
+            "Location": "CAYCATI VARTO MUS"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "23:56:29",
+            "Latitude": "39.3685",
+            "Longitude": "40.6863",
+            "Depth": "8.8",
+            "ML": "2.1",
+            "Location": "DINARBEY YEDISU BINGOL"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "23:19:27",
+            "Latitude": "36.8392",
+            "Longitude": "28.0470",
+            "Depth": "9.2",
+            "ML": "1.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "23:09:57",
+            "Latitude": "36.5670",
+            "Longitude": "26.3352",
+            "Depth": "5.6",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
             "Date": "2022.01.12",
             "Time": "23:01:00",
             "Latitude": "36.7235",
@@ -4373,51 +4418,6 @@
             "Depth": "6.7",
             "ML": "1.8",
             "Location": "BESKARIS ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "00:23:50",
-            "Latitude": "37.9913",
-            "Longitude": "27.1580",
-            "Depth": "3.7",
-            "ML": "1.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "00:22:54",
-            "Latitude": "40.5522",
-            "Longitude": "42.3578",
-            "Depth": "16.5",
-            "ML": "1.2",
-            "Location": "SENKAYA ERZURUM"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "23:46:42",
-            "Latitude": "38.1808",
-            "Longitude": "38.6207",
-            "Depth": "2.4",
-            "ML": "1.5",
-            "Location": "SOGUTLU PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "23:15:59",
-            "Latitude": "40.5475",
-            "Longitude": "42.4062",
-            "Depth": "11.0",
-            "ML": "1.2",
-            "Location": "SENKAYA ERZURUM"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "23:15:16",
-            "Latitude": "40.5375",
-            "Longitude": "42.3598",
-            "Depth": "9.9",
-            "ML": "1.5",
-            "Location": "YESILKAYA SENKAYA ERZURUM"
         }
     ]
 }
