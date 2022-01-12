@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.01.12",
+            "Time": "08:46:10",
+            "Latitude": "36.8448",
+            "Longitude": "28.0820",
+            "Depth": "14.2",
+            "ML": "1.6",
+            "Location": "HISARONU MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "08:33:02",
+            "Latitude": "36.8803",
+            "Longitude": "28.0713",
+            "Depth": "4.9",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "07:51:26",
+            "Latitude": "36.8967",
+            "Longitude": "28.0328",
+            "Depth": "13.7",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "07:28:24",
+            "Latitude": "35.2348",
+            "Longitude": "26.8998",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "07:27:24",
+            "Latitude": "36.8398",
+            "Longitude": "28.0293",
+            "Depth": "4.2",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.12",
             "Time": "07:05:46",
             "Latitude": "36.8063",
             "Longitude": "28.0275",
@@ -4382,51 +4427,6 @@
             "Depth": "11.6",
             "ML": "1.9",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "06:06:34",
-            "Latitude": "40.3577",
-            "Longitude": "28.3883",
-            "Depth": "12.4",
-            "ML": "2.2",
-            "Location": "BAYRAMDERE KARACABEY BURSA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "06:04:19",
-            "Latitude": "40.3627",
-            "Longitude": "28.3932",
-            "Depth": "11.4",
-            "ML": "2.8",
-            "Location": "BAYRAMDERE KARACABEY BURSA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "05:44:33",
-            "Latitude": "36.6460",
-            "Longitude": "26.9768",
-            "Depth": "16.5",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "05:37:28",
-            "Latitude": "37.8760",
-            "Longitude": "27.0278",
-            "Depth": "4.3",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "05:21:56",
-            "Latitude": "37.9667",
-            "Longitude": "28.7967",
-            "Depth": "3.1",
-            "ML": "1.9",
-            "Location": "KIZILDERE BUHARKENT AYDIN"
         }
     ]
 }
