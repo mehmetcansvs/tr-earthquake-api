@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.01.12",
+            "Time": "13:36:55",
+            "Latitude": "36.8650",
+            "Longitude": "28.0297",
+            "Depth": "10.8",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "13:34:22",
+            "Latitude": "36.8200",
+            "Longitude": "28.0168",
+            "Depth": "6.9",
+            "ML": "2.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "13:29:33",
+            "Latitude": "36.1395",
+            "Longitude": "33.5728",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "13:05:21",
+            "Latitude": "38.7995",
+            "Longitude": "43.4400",
+            "Depth": "16.0",
+            "ML": "2.2",
+            "Location": "GEDIKBULAK VAN"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "12:38:46",
+            "Latitude": "39.4472",
+            "Longitude": "33.4835",
+            "Depth": "2.7",
+            "ML": "1.8",
+            "Location": "HALILDEDE CELEBI KIRIKKALE"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "12:05:16",
+            "Latitude": "40.5503",
+            "Longitude": "43.2900",
+            "Depth": "29.9",
+            "ML": "1.2",
+            "Location": "OLCULU KARS"
+        },
+        {
+            "Date": "2022.01.12",
             "Time": "11:54:27",
             "Latitude": "38.7107",
             "Longitude": "40.0208",
@@ -4373,60 +4427,6 @@
             "Depth": "5.2",
             "ML": "2.1",
             "Location": "CIFTEVI ORTAKOY AKSARAY"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "13:07:23",
-            "Latitude": "38.9772",
-            "Longitude": "27.9608",
-            "Depth": "8.2",
-            "ML": "1.7",
-            "Location": "DOGANKAYA AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "13:04:57",
-            "Latitude": "38.8813",
-            "Longitude": "25.9225",
-            "Depth": "9.0",
-            "ML": "1.7",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "12:59:25",
-            "Latitude": "39.4590",
-            "Longitude": "26.2123",
-            "Depth": "11.7",
-            "ML": "2.4",
-            "Location": "KOYUNEVI AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "12:57:33",
-            "Latitude": "36.0615",
-            "Longitude": "27.5762",
-            "Depth": "5.3",
-            "ML": "2.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "12:51:21",
-            "Latitude": "36.5317",
-            "Longitude": "26.4602",
-            "Depth": "128.3",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "11:31:10",
-            "Latitude": "38.5028",
-            "Longitude": "39.3285",
-            "Depth": "3.4",
-            "ML": "2.8",
-            "Location": "GUNEYKOY SIVRICE ELAZIG"
         }
     ]
 }
