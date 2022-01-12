@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.12",
+            "Time": "09:18:20",
+            "Latitude": "36.8372",
+            "Longitude": "27.9977",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.12",
             "Time": "08:46:10",
             "Latitude": "36.8448",
             "Longitude": "28.0820",
@@ -317,6 +326,15 @@
         },
         {
             "Date": "2022.01.11",
+            "Time": "21:35:18",
+            "Latitude": "36.4890",
+            "Longitude": "25.6605",
+            "Depth": "8.1",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
             "Time": "21:19:08",
             "Latitude": "37.8585",
             "Longitude": "28.9873",
@@ -547,6 +565,15 @@
             "Longitude": "23.5870",
             "Depth": "7.2",
             "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "06:21:15",
+            "Latitude": "34.4303",
+            "Longitude": "23.6798",
+            "Depth": "18.0",
+            "ML": "2.3",
             "Location": "GIRIT ADASI AKDENIZ"
         },
         {
@@ -4400,33 +4427,6 @@
             "Depth": "11.8",
             "ML": "1.9",
             "Location": "KAPAKLI DEMRE ANTALYA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "07:18:08",
-            "Latitude": "38.9922",
-            "Longitude": "37.8825",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "KOYLUKOYU HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "06:52:46",
-            "Latitude": "35.4508",
-            "Longitude": "27.3115",
-            "Depth": "7.5",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "06:42:48",
-            "Latitude": "39.1400",
-            "Longitude": "25.8395",
-            "Depth": "11.6",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
         }
     ]
 }
