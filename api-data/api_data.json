@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.12",
+            "Time": "16:40:00",
+            "Latitude": "35.5773",
+            "Longitude": "36.5758",
+            "Depth": "7.4",
+            "ML": "3.3",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "16:32:26",
+            "Latitude": "35.3780",
+            "Longitude": "39.5397",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "16:13:50",
+            "Latitude": "37.5885",
+            "Longitude": "29.4667",
+            "Depth": "1.9",
+            "ML": "2.0",
+            "Location": "YESILYUVA ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "16:05:59",
+            "Latitude": "39.2735",
+            "Longitude": "40.7157",
+            "Depth": "11.8",
+            "ML": "1.7",
+            "Location": "CEVRELI ADAKLI BINGOL"
+        },
+        {
+            "Date": "2022.01.12",
             "Time": "13:36:55",
             "Latitude": "36.8650",
             "Longitude": "28.0297",
@@ -605,6 +641,15 @@
         },
         {
             "Date": "2022.01.11",
+            "Time": "12:23:19",
+            "Latitude": "37.2805",
+            "Longitude": "37.6005",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "CIMENLI YAVUZELI GAZIANTEP"
+        },
+        {
+            "Date": "2022.01.11",
             "Time": "12:04:34",
             "Latitude": "38.8832",
             "Longitude": "41.4123",
@@ -674,6 +719,15 @@
             "Depth": "7.2",
             "ML": "3.0",
             "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.11",
+            "Time": "06:42:07",
+            "Latitude": "38.3637",
+            "Longitude": "38.7498",
+            "Depth": "4.7",
+            "ML": "1.6",
+            "Location": "TEPEKOY KALE MALATYA"
         },
         {
             "Date": "2022.01.11",
@@ -4373,60 +4427,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "BELEMEDIK POZANTI ADANA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "14:18:50",
-            "Latitude": "37.8310",
-            "Longitude": "27.1088",
-            "Depth": "11.1",
-            "ML": "1.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "14:17:11",
-            "Latitude": "37.3623",
-            "Longitude": "35.0138",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "GILDIRLI KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "14:15:15",
-            "Latitude": "37.3512",
-            "Longitude": "34.9835",
-            "Depth": "9.5",
-            "ML": "1.2",
-            "Location": "KARAKILIC KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "14:12:47",
-            "Latitude": "37.3548",
-            "Longitude": "34.9713",
-            "Depth": "5.7",
-            "ML": "2.7",
-            "Location": "BELEMEDIK POZANTI ADANA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "13:35:28",
-            "Latitude": "37.7638",
-            "Longitude": "37.6262",
-            "Depth": "3.3",
-            "ML": "2.0",
-            "Location": "ORENLI GOLBASI ADIYAMAN"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "13:08:59",
-            "Latitude": "38.8470",
-            "Longitude": "34.0045",
-            "Depth": "5.2",
-            "ML": "2.1",
-            "Location": "CIFTEVI ORTAKOY AKSARAY"
         }
     ]
 }
