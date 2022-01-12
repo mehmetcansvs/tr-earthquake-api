@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.01.12",
+            "Time": "23:01:00",
+            "Latitude": "36.7235",
+            "Longitude": "34.4518",
+            "Depth": "10.9",
+            "ML": "1.3",
+            "Location": "DOGLU MEZITLI MERSIN REVIZE DOGLU MEZITLI MERSIN"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "22:40:22",
+            "Latitude": "38.2183",
+            "Longitude": "27.3060",
+            "Depth": "5.4",
+            "ML": "2.1",
+            "Location": "KAPLANCIK TORBALI IZMIR"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "22:21:37",
+            "Latitude": "36.8715",
+            "Longitude": "28.0602",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "21:57:06",
+            "Latitude": "36.8080",
+            "Longitude": "28.0747",
+            "Depth": "16.4",
+            "ML": "1.1",
+            "Location": "HISARONU MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "21:48:56",
+            "Latitude": "36.7480",
+            "Longitude": "28.1430",
+            "Depth": "56.5",
+            "ML": "2.3",
+            "Location": "ORHANIYE MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "21:15:41",
+            "Latitude": "37.4410",
+            "Longitude": "30.3745",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "KESTEL BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "21:12:51",
+            "Latitude": "39.5438",
+            "Longitude": "38.0110",
+            "Depth": "9.4",
+            "ML": "1.8",
+            "Location": "ERIKLI DIVRIGI SIVAS"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "21:06:25",
+            "Latitude": "36.7188",
+            "Longitude": "34.4550",
+            "Depth": "8.4",
+            "ML": "1.6",
+            "Location": "DOGLU MEZITLI MERSIN"
+        },
+        {
+            "Date": "2022.01.12",
             "Time": "20:57:45",
             "Latitude": "39.7698",
             "Longitude": "25.6318",
@@ -62,6 +134,15 @@
             "Depth": "5.0",
             "ML": "3.3",
             "Location": "SURIYE"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "16:16:19",
+            "Latitude": "35.0688",
+            "Longitude": "25.1863",
+            "Depth": "3.1",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.01.12",
@@ -4337,96 +4418,6 @@
             "Depth": "9.9",
             "ML": "1.5",
             "Location": "YESILKAYA SENKAYA ERZURUM"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "23:12:42",
-            "Latitude": "38.2033",
-            "Longitude": "38.6085",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "SOGUTLU PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "22:45:51",
-            "Latitude": "39.1770",
-            "Longitude": "40.2842",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "DARKOPRU KIGI BINGOL"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "21:22:21",
-            "Latitude": "37.0895",
-            "Longitude": "27.6912",
-            "Depth": "8.4",
-            "ML": "1.3",
-            "Location": "YENIKOY BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "21:08:21",
-            "Latitude": "36.8872",
-            "Longitude": "28.7343",
-            "Depth": "8.2",
-            "ML": "1.9",
-            "Location": "KAVAKARASI KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "20:58:16",
-            "Latitude": "40.4122",
-            "Longitude": "28.4247",
-            "Depth": "4.2",
-            "ML": "2.1",
-            "Location": "BAYRAMDERE KARACABEY BURSA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "20:57:36",
-            "Latitude": "40.3848",
-            "Longitude": "28.4087",
-            "Depth": "5.5",
-            "ML": "2.1",
-            "Location": "BAYRAMDERE KARACABEY BURSA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "18:15:24",
-            "Latitude": "39.2233",
-            "Longitude": "41.4335",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "COBANDAGI VARTO MUS"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "18:02:43",
-            "Latitude": "40.7905",
-            "Longitude": "31.5120",
-            "Depth": "0.0",
-            "ML": "2.4",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "17:53:03",
-            "Latitude": "40.5353",
-            "Longitude": "42.2998",
-            "Depth": "9.5",
-            "ML": "1.9",
-            "Location": "TIMURKISLA SENKAYA ERZURUM"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "16:54:07",
-            "Latitude": "35.8173",
-            "Longitude": "33.7297",
-            "Depth": "20.3",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
         }
     ]
 }
