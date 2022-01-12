@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.12",
+            "Time": "19:04:11",
+            "Latitude": "35.7158",
+            "Longitude": "36.7710",
+            "Depth": "1.8",
+            "ML": "2.6",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "17:48:25",
+            "Latitude": "40.4517",
+            "Longitude": "35.2698",
+            "Depth": "2.9",
+            "ML": "2.2",
+            "Location": "SIRCALI MECITOZU CORUM"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "17:07:01",
+            "Latitude": "38.7090",
+            "Longitude": "43.1802",
+            "Depth": "10.8",
+            "ML": "1.9",
+            "Location": "AGARTI VAN"
+        },
+        {
+            "Date": "2022.01.12",
             "Time": "16:40:00",
             "Latitude": "35.5773",
             "Longitude": "36.5758",
@@ -26,6 +53,15 @@
             "Depth": "1.9",
             "ML": "2.0",
             "Location": "YESILYUVA ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.01.12",
+            "Time": "16:09:18",
+            "Latitude": "38.9837",
+            "Longitude": "29.8663",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "OYSU ALTINTAS KUTAHYA"
         },
         {
             "Date": "2022.01.12",
@@ -4391,42 +4427,6 @@
             "Depth": "20.3",
             "ML": "1.4",
             "Location": "CEMAL SANLIURFA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "15:28:49",
-            "Latitude": "34.4260",
-            "Longitude": "26.6142",
-            "Depth": "7.9",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "15:07:54",
-            "Latitude": "34.8928",
-            "Longitude": "23.4523",
-            "Depth": "24.0",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "14:57:13",
-            "Latitude": "37.3607",
-            "Longitude": "35.0107",
-            "Depth": "7.0",
-            "ML": "1.1",
-            "Location": "GILDIRLI KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.01.01",
-            "Time": "14:35:31",
-            "Latitude": "37.3778",
-            "Longitude": "34.9805",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "BELEMEDIK POZANTI ADANA"
         }
     ]
 }
