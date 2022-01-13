@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.13",
+            "Time": "12:13:24",
+            "Latitude": "39.1260",
+            "Longitude": "29.0567",
+            "Depth": "5.5",
+            "ML": "2.7",
+            "Location": "KAPIKAYA SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.01.13",
             "Time": "09:45:01",
             "Latitude": "41.3650",
             "Longitude": "37.0988",
@@ -4409,15 +4418,6 @@
             "Depth": "5.4",
             "ML": "3.1",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "12:58:59",
-            "Latitude": "40.6738",
-            "Longitude": "29.1432",
-            "Depth": "5.1",
-            "ML": "2.2",
-            "Location": "KORU CINARCIK YALOVA"
         }
     ]
 }
