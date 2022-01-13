@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.13",
+            "Time": "08:34:05",
+            "Latitude": "37.6735",
+            "Longitude": "26.0488",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "08:08:48",
+            "Latitude": "35.0540",
+            "Longitude": "27.0472",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "07:47:53",
+            "Latitude": "37.7155",
+            "Longitude": "25.9828",
+            "Depth": "10.4",
+            "ML": "3.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.13",
             "Time": "06:18:17",
             "Latitude": "40.0255",
             "Longitude": "27.8967",
@@ -4391,33 +4418,6 @@
             "Depth": "2.2",
             "ML": "2.1",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "09:25:07",
-            "Latitude": "38.1838",
-            "Longitude": "38.5915",
-            "Depth": "2.0",
-            "ML": "1.8",
-            "Location": "SOGUTLU PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "09:23:57",
-            "Latitude": "36.4598",
-            "Longitude": "27.4837",
-            "Depth": "6.3",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "08:48:28",
-            "Latitude": "35.2315",
-            "Longitude": "25.2943",
-            "Depth": "12.8",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
