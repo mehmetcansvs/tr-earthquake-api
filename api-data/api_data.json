@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.13",
+            "Time": "06:18:17",
+            "Latitude": "40.0255",
+            "Longitude": "27.8967",
+            "Depth": "15.2",
+            "ML": "2.0",
+            "Location": "KUBAS MANYAS BALIKESIR"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "06:12:53",
+            "Latitude": "37.6663",
+            "Longitude": "26.0085",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "05:59:52",
+            "Latitude": "37.7073",
+            "Longitude": "25.9308",
+            "Depth": "13.1",
+            "ML": "2.4",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.13",
             "Time": "05:13:17",
             "Latitude": "38.4938",
             "Longitude": "39.1935",
@@ -4391,33 +4418,6 @@
             "Depth": "12.8",
             "ML": "2.7",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "07:42:40",
-            "Latitude": "36.8208",
-            "Longitude": "28.0275",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "07:02:41",
-            "Latitude": "39.7672",
-            "Longitude": "41.8822",
-            "Depth": "7.0",
-            "ML": "1.6",
-            "Location": "SARITAS KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "06:38:52",
-            "Latitude": "40.1042",
-            "Longitude": "29.2538",
-            "Depth": "14.7",
-            "ML": "1.2",
-            "Location": "ALACAM KESTEL BURSA"
         }
     ]
 }
