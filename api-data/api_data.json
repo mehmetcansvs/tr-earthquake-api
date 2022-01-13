@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.13",
+            "Time": "16:07:33",
+            "Latitude": "37.5385",
+            "Longitude": "36.3535",
+            "Depth": "9.4",
+            "ML": "2.3",
+            "Location": "ALINOLUK ANDIRIN KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "15:25:11",
+            "Latitude": "38.2442",
+            "Longitude": "38.9607",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "BAYIRKOY PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "14:52:34",
+            "Latitude": "36.9552",
+            "Longitude": "29.0363",
+            "Depth": "5.1",
+            "ML": "1.7",
+            "Location": "GURLEYIK DALAMAN MUGLA"
+        },
+        {
+            "Date": "2022.01.13",
             "Time": "14:10:38",
             "Latitude": "37.9123",
             "Longitude": "26.9843",
@@ -4400,33 +4427,6 @@
             "Depth": "5.0",
             "ML": "1.8",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "23:37:41",
-            "Latitude": "40.4450",
-            "Longitude": "42.4487",
-            "Depth": "13.9",
-            "ML": "1.3",
-            "Location": "KAYNAK SENKAYA ERZURUM"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "23:24:03",
-            "Latitude": "37.0245",
-            "Longitude": "34.6428",
-            "Depth": "5.3",
-            "ML": "2.2",
-            "Location": "DORAK TARSUS MERSIN"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "22:31:05",
-            "Latitude": "37.0273",
-            "Longitude": "28.1363",
-            "Depth": "12.9",
-            "ML": "1.4",
-            "Location": "SARNICKOY MUGLA"
         }
     ]
 }
