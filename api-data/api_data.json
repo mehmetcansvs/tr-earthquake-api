@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.13",
+            "Time": "05:13:17",
+            "Latitude": "38.4938",
+            "Longitude": "39.1935",
+            "Depth": "23.6",
+            "ML": "1.8",
+            "Location": "KAVAKTEPE ELAZIG"
+        },
+        {
+            "Date": "2022.01.13",
             "Time": "03:10:54",
             "Latitude": "38.6280",
             "Longitude": "43.1460",
@@ -4409,15 +4418,6 @@
             "Depth": "14.7",
             "ML": "1.2",
             "Location": "ALACAM KESTEL BURSA"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "06:08:16",
-            "Latitude": "45.5195",
-            "Longitude": "26.3417",
-            "Depth": "140.6",
-            "ML": "2.4",
-            "Location": "ROMANYA"
         }
     ]
 }
