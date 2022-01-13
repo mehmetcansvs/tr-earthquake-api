@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.13",
+            "Time": "18:52:21",
+            "Latitude": "37.1617",
+            "Longitude": "28.6630",
+            "Depth": "8.1",
+            "ML": "2.0",
+            "Location": "TURGUT ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "17:55:34",
+            "Latitude": "36.1557",
+            "Longitude": "33.5223",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "17:08:06",
+            "Latitude": "36.3537",
+            "Longitude": "29.5035",
+            "Depth": "5.1",
+            "ML": "1.4",
+            "Location": "CAMLIOVA KAS ANTALYA"
+        },
+        {
+            "Date": "2022.01.13",
             "Time": "16:07:33",
             "Latitude": "37.5385",
             "Longitude": "36.3535",
@@ -4400,33 +4427,6 @@
             "Depth": "6.9",
             "ML": "2.1",
             "Location": "AKCABUK ORHANELI BURSA"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "00:07:31",
-            "Latitude": "40.7958",
-            "Longitude": "31.4875",
-            "Depth": "8.9",
-            "ML": "1.8",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "23:51:49",
-            "Latitude": "35.2092",
-            "Longitude": "26.8962",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "23:43:51",
-            "Latitude": "36.5017",
-            "Longitude": "27.2452",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
