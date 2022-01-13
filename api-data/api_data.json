@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.01.13",
+            "Time": "09:45:01",
+            "Latitude": "41.3650",
+            "Longitude": "37.0988",
+            "Depth": "11.1",
+            "ML": "2.1",
+            "Location": "TERME ACIKLARI SAMSUN KARADENIZ"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "09:07:02",
+            "Latitude": "37.3093",
+            "Longitude": "32.9122",
+            "Depth": "10.9",
+            "ML": "1.6",
+            "Location": "SINCI KAZIMKARABEKIR KARAMAN"
+        },
+        {
+            "Date": "2022.01.13",
             "Time": "08:34:05",
             "Latitude": "37.6735",
             "Longitude": "26.0488",
             "Depth": "5.4",
             "ML": "2.2",
             "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "08:33:30",
+            "Latitude": "37.6007",
+            "Longitude": "29.3992",
+            "Depth": "3.5",
+            "ML": "1.4",
+            "Location": "YESILYUVA ACIPAYAM DENIZLI"
         },
         {
             "Date": "2022.01.13",
@@ -4391,33 +4418,6 @@
             "Depth": "5.1",
             "ML": "2.2",
             "Location": "KORU CINARCIK YALOVA"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "12:51:17",
-            "Latitude": "40.5093",
-            "Longitude": "34.6203",
-            "Depth": "7.2",
-            "ML": "2.6",
-            "Location": "SAHINKAYA CORUM"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "12:46:43",
-            "Latitude": "38.9875",
-            "Longitude": "26.5820",
-            "Depth": "13.2",
-            "ML": "1.8",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "11:05:11",
-            "Latitude": "36.4865",
-            "Longitude": "34.6840",
-            "Depth": "2.2",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
         }
     ]
 }
