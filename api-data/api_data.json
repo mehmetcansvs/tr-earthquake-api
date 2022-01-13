@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.01.13",
+            "Time": "03:10:54",
+            "Latitude": "38.6280",
+            "Longitude": "43.1460",
+            "Depth": "5.8",
+            "ML": "2.2",
+            "Location": "MOLLAKASIM VAN"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "03:00:50",
+            "Latitude": "38.6388",
+            "Longitude": "43.1493",
+            "Depth": "5.0",
+            "ML": "3.2",
+            "Location": "MOLLAKASIM VAN"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "02:46:27",
+            "Latitude": "37.7167",
+            "Longitude": "26.0112",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "02:45:33",
+            "Latitude": "39.3327",
+            "Longitude": "40.7937",
+            "Depth": "12.0",
+            "ML": "2.1",
+            "Location": "KAYNARPINAR KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "02:37:29",
+            "Latitude": "37.6895",
+            "Longitude": "26.0110",
+            "Depth": "3.6",
+            "ML": "2.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "02:33:00",
+            "Latitude": "37.6843",
+            "Longitude": "26.0255",
+            "Depth": "3.7",
+            "ML": "2.2",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "01:54:23",
+            "Latitude": "37.6963",
+            "Longitude": "25.9970",
+            "Depth": "5.0",
+            "ML": "4.3",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.13",
             "Time": "01:06:36",
             "Latitude": "39.0902",
             "Longitude": "39.9608",
@@ -4355,69 +4418,6 @@
             "Depth": "140.6",
             "ML": "2.4",
             "Location": "ROMANYA"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "05:41:16",
-            "Latitude": "39.5238",
-            "Longitude": "24.0138",
-            "Depth": "23.5",
-            "ML": "2.5",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "03:24:49",
-            "Latitude": "39.0027",
-            "Longitude": "26.5438",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "03:13:05",
-            "Latitude": "40.1248",
-            "Longitude": "29.3132",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "ALACAM KESTEL BURSA"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "02:35:22",
-            "Latitude": "39.6595",
-            "Longitude": "26.0893",
-            "Depth": "6.9",
-            "ML": "1.8",
-            "Location": "TAVAKLI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "02:18:40",
-            "Latitude": "38.9255",
-            "Longitude": "43.6253",
-            "Depth": "9.4",
-            "ML": "1.4",
-            "Location": "OVAPINAR MURADIYE VAN"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "02:10:12",
-            "Latitude": "39.9847",
-            "Longitude": "28.1308",
-            "Depth": "4.9",
-            "ML": "1.7",
-            "Location": "YAGCI SUSURLUK BALIKESIR"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "01:41:05",
-            "Latitude": "38.9948",
-            "Longitude": "30.2098",
-            "Depth": "6.7",
-            "ML": "1.8",
-            "Location": "BESKARIS ALTINTAS KUTAHYA"
         }
     ]
 }
