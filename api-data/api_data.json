@@ -2,12 +2,93 @@
     "data": [
         {
             "Date": "2022.01.13",
+            "Time": "14:10:38",
+            "Latitude": "37.9123",
+            "Longitude": "26.9843",
+            "Depth": "4.5",
+            "ML": "2.0",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "13:44:47",
+            "Latitude": "39.7563",
+            "Longitude": "38.9910",
+            "Depth": "8.2",
+            "ML": "1.8",
+            "Location": "DEDEOGLU KEMAH ERZINCAN"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "13:41:40",
+            "Latitude": "40.3257",
+            "Longitude": "35.9123",
+            "Depth": "9.0",
+            "ML": "1.5",
+            "Location": "BAYIRKOY ZILE TOKAT"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "13:18:19",
+            "Latitude": "37.9212",
+            "Longitude": "34.6952",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "NIGDE"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "13:12:33",
+            "Latitude": "37.9297",
+            "Longitude": "34.6848",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "NIGDE"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "12:43:14",
+            "Latitude": "35.5267",
+            "Longitude": "32.5595",
+            "Depth": "21.5",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "12:39:06",
+            "Latitude": "37.9183",
+            "Longitude": "29.1763",
+            "Depth": "21.8",
+            "ML": "1.3",
+            "Location": "KUCUKDERE DENIZLI"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "12:28:42",
+            "Latitude": "37.2573",
+            "Longitude": "32.8713",
+            "Depth": "14.4",
+            "ML": "1.7",
+            "Location": "OZYURT KAZIMKARABEKIR KARAMAN"
+        },
+        {
+            "Date": "2022.01.13",
             "Time": "12:13:24",
             "Latitude": "39.1260",
             "Longitude": "29.0567",
             "Depth": "5.5",
             "ML": "2.7",
             "Location": "KAPIKAYA SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.01.13",
+            "Time": "12:12:48",
+            "Latitude": "39.0963",
+            "Longitude": "29.0578",
+            "Depth": "5.7",
+            "ML": "2.7",
+            "Location": "KALKAN SIMAV KUTAHYA"
         },
         {
             "Date": "2022.01.13",
@@ -4346,78 +4427,6 @@
             "Depth": "12.9",
             "ML": "1.4",
             "Location": "SARNICKOY MUGLA"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "22:01:35",
-            "Latitude": "39.2947",
-            "Longitude": "25.8768",
-            "Depth": "7.1",
-            "ML": "1.9",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "21:51:52",
-            "Latitude": "37.0570",
-            "Longitude": "28.3503",
-            "Depth": "2.5",
-            "ML": "1.4",
-            "Location": "GOKOVA ULA MUGLA REVIZE EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "20:45:25",
-            "Latitude": "37.3383",
-            "Longitude": "34.9193",
-            "Depth": "5.3",
-            "ML": "1.3",
-            "Location": "BELEMEDIK POZANTI ADANA"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "19:49:18",
-            "Latitude": "40.5158",
-            "Longitude": "34.6318",
-            "Depth": "7.5",
-            "ML": "1.8",
-            "Location": "SAHINKAYA CORUM"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "18:26:56",
-            "Latitude": "37.1042",
-            "Longitude": "30.4097",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "KEMERAGZI KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "18:02:22",
-            "Latitude": "36.8278",
-            "Longitude": "29.1265",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "ARPACIK FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "17:15:32",
-            "Latitude": "39.9725",
-            "Longitude": "39.5775",
-            "Depth": "6.3",
-            "ML": "2.3",
-            "Location": "ESKIYOL KELKIT GUMUSHANE"
-        },
-        {
-            "Date": "2022.01.02",
-            "Time": "16:21:00",
-            "Latitude": "40.1735",
-            "Longitude": "25.1275",
-            "Depth": "5.4",
-            "ML": "3.1",
-            "Location": "EGE DENIZI"
         }
     ]
 }
