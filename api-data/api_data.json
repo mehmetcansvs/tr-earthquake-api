@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.01.14",
+            "Time": "15:49:41",
+            "Latitude": "38.9463",
+            "Longitude": "26.1487",
+            "Depth": "5.1",
+            "ML": "2.1",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "15:19:01",
+            "Latitude": "38.4877",
+            "Longitude": "39.2095",
+            "Depth": "2.6",
+            "ML": "2.4",
+            "Location": "DEDEYOLU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "15:17:34",
+            "Latitude": "37.6730",
+            "Longitude": "27.0468",
+            "Depth": "7.0",
+            "ML": "2.0",
+            "Location": "MILLI PARK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "15:14:54",
+            "Latitude": "38.5012",
+            "Longitude": "39.2708",
+            "Depth": "16.8",
+            "ML": "1.8",
+            "Location": "BEKCITEPE SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "14:40:54",
+            "Latitude": "38.2473",
+            "Longitude": "24.2075",
+            "Depth": "17.2",
+            "ML": "2.6",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "14:17:21",
+            "Latitude": "39.5907",
+            "Longitude": "35.3333",
+            "Depth": "25.9",
+            "ML": "1.4",
+            "Location": "INEVI SARIKAYA YOZGAT"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "13:50:41",
+            "Latitude": "37.8163",
+            "Longitude": "37.8950",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "TUT ADIYAMAN"
+        },
+        {
+            "Date": "2022.01.14",
             "Time": "13:34:43",
             "Latitude": "35.6975",
             "Longitude": "32.0635",
@@ -17,6 +80,15 @@
             "Depth": "21.0",
             "ML": "1.3",
             "Location": "KARAHUYUKAFSARI ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "13:20:11",
+            "Latitude": "40.6963",
+            "Longitude": "35.3775",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "CAYBASI MERZIFON AMASYA"
         },
         {
             "Date": "2022.01.14",
@@ -4346,78 +4418,6 @@
             "Depth": "17.0",
             "ML": "1.3",
             "Location": "KAYADIBI YESILHISAR KAYSERI"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "16:31:21",
-            "Latitude": "36.1433",
-            "Longitude": "33.5440",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "16:30:21",
-            "Latitude": "35.0883",
-            "Longitude": "26.8913",
-            "Depth": "4.7",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "16:25:08",
-            "Latitude": "37.9280",
-            "Longitude": "27.1097",
-            "Depth": "6.6",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "14:54:30",
-            "Latitude": "35.1827",
-            "Longitude": "25.2392",
-            "Depth": "14.3",
-            "ML": "1.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "14:49:51",
-            "Latitude": "38.4338",
-            "Longitude": "29.0105",
-            "Depth": "11.0",
-            "ML": "0.9",
-            "Location": "KOLANKAYA ESME USAK"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "14:35:39",
-            "Latitude": "38.6635",
-            "Longitude": "38.0855",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "ALICAN YAZIHAN MALATYA"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "13:57:11",
-            "Latitude": "40.6072",
-            "Longitude": "30.3688",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "MAKSUDIYE GEYVE SAKARYA"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "13:24:27",
-            "Latitude": "38.2463",
-            "Longitude": "28.9003",
-            "Depth": "16.2",
-            "ML": "0.8",
-            "Location": "AGABEY ESME USAK"
         }
     ]
 }
