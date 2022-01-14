@@ -1,6 +1,78 @@
 {
     "data": [
         {
+            "Date": "2022.01.15",
+            "Time": "00:33:30",
+            "Latitude": "38.9585",
+            "Longitude": "27.3443",
+            "Depth": "10.4",
+            "ML": "1.4",
+            "Location": "ORTULU KINIK IZMIR"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "00:27:16",
+            "Latitude": "39.4278",
+            "Longitude": "28.2407",
+            "Depth": "7.8",
+            "ML": "1.5",
+            "Location": "ILYASLAR BIGADIC BALIKESIR"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "23:45:30",
+            "Latitude": "38.3507",
+            "Longitude": "35.9780",
+            "Depth": "5.2",
+            "ML": "1.2",
+            "Location": "BUYUKCANLI TOMARZA KAYSERI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "23:40:18",
+            "Latitude": "37.6940",
+            "Longitude": "27.1165",
+            "Depth": "18.2",
+            "ML": "1.0",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "23:34:59",
+            "Latitude": "37.8272",
+            "Longitude": "26.9628",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "23:19:12",
+            "Latitude": "39.8432",
+            "Longitude": "27.2067",
+            "Depth": "17.8",
+            "ML": "1.6",
+            "Location": "RESADIYE YENICE CANAKKALE"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "23:17:18",
+            "Latitude": "34.9363",
+            "Longitude": "31.9853",
+            "Depth": "6.7",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "23:12:28",
+            "Latitude": "37.6860",
+            "Longitude": "26.0423",
+            "Depth": "9.5",
+            "ML": "1.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
             "Date": "2022.01.14",
             "Time": "23:04:08",
             "Latitude": "37.6553",
@@ -4337,78 +4409,6 @@
             "Depth": "73.5",
             "ML": "3.1",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "05:38:02",
-            "Latitude": "39.9747",
-            "Longitude": "39.5597",
-            "Depth": "5.6",
-            "ML": "1.8",
-            "Location": "YUKARIOZLUCE KELKIT GUMUSHANE"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "04:50:07",
-            "Latitude": "35.2027",
-            "Longitude": "25.2402",
-            "Depth": "9.2",
-            "ML": "3.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "03:24:39",
-            "Latitude": "36.6898",
-            "Longitude": "28.2740",
-            "Depth": "67.3",
-            "ML": "1.9",
-            "Location": "OSMANIYE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "03:08:11",
-            "Latitude": "34.6902",
-            "Longitude": "24.9493",
-            "Depth": "10.5",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "00:31:02",
-            "Latitude": "34.8218",
-            "Longitude": "25.0103",
-            "Depth": "8.4",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "00:16:36",
-            "Latitude": "37.4013",
-            "Longitude": "29.3247",
-            "Depth": "8.6",
-            "ML": "1.2",
-            "Location": "MEVLUTLER ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "00:08:36",
-            "Latitude": "38.3512",
-            "Longitude": "36.7738",
-            "Depth": "8.8",
-            "ML": "1.0",
-            "Location": "TURKCAYIRI AFSIN KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "23:52:55",
-            "Latitude": "37.2465",
-            "Longitude": "28.7672",
-            "Depth": "6.9",
-            "ML": "1.4",
-            "Location": "KARACAOREN MUGLA"
         }
     ]
 }
