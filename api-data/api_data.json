@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.01.14",
+            "Time": "11:01:20",
+            "Latitude": "37.6620",
+            "Longitude": "26.0058",
+            "Depth": "3.4",
+            "ML": "1.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "11:00:38",
+            "Latitude": "37.7132",
+            "Longitude": "25.9397",
+            "Depth": "51.3",
+            "ML": "1.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "10:56:15",
+            "Latitude": "37.7798",
+            "Longitude": "25.7388",
+            "Depth": "44.0",
+            "ML": "1.9",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "10:51:36",
+            "Latitude": "37.7142",
+            "Longitude": "25.9628",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "10:47:44",
+            "Latitude": "35.9198",
+            "Longitude": "31.8673",
+            "Depth": "8.8",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.14",
             "Time": "10:35:35",
             "Latitude": "40.8277",
             "Longitude": "31.0420",
@@ -4373,51 +4418,6 @@
             "Depth": "9.0",
             "ML": "2.8",
             "Location": "KIBRIS RUM KESIMI"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "09:18:04",
-            "Latitude": "38.7370",
-            "Longitude": "25.9435",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "09:08:42",
-            "Latitude": "39.0395",
-            "Longitude": "37.4227",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "ETYEMEZ KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "09:02:16",
-            "Latitude": "34.8103",
-            "Longitude": "24.8965",
-            "Depth": "24.7",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "08:28:20",
-            "Latitude": "39.2113",
-            "Longitude": "25.7700",
-            "Depth": "15.5",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "08:20:40",
-            "Latitude": "34.9458",
-            "Longitude": "24.3732",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
