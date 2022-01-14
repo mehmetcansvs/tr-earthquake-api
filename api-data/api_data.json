@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.14",
+            "Time": "18:45:29",
+            "Latitude": "39.0555",
+            "Longitude": "26.1407",
+            "Depth": "9.2",
+            "ML": "1.7",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "18:40:00",
+            "Latitude": "38.2588",
+            "Longitude": "38.7602",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "BALPINARI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "18:29:00",
+            "Latitude": "37.6565",
+            "Longitude": "27.0168",
+            "Depth": "7.2",
+            "ML": "1.8",
+            "Location": "MILLI PARK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "17:47:35",
+            "Latitude": "37.1255",
+            "Longitude": "28.0598",
+            "Depth": "3.1",
+            "ML": "2.3",
+            "Location": "DAGPINAR MUGLA"
+        },
+        {
+            "Date": "2022.01.14",
             "Time": "15:49:41",
             "Latitude": "38.9463",
             "Longitude": "26.1487",
@@ -4382,42 +4418,6 @@
             "Depth": "20.6",
             "ML": "1.6",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "18:12:14",
-            "Latitude": "35.1315",
-            "Longitude": "25.1842",
-            "Depth": "9.7",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "18:08:16",
-            "Latitude": "38.1015",
-            "Longitude": "30.0237",
-            "Depth": "4.0",
-            "ML": "1.7",
-            "Location": "BELENPINAR DINAR AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "17:38:09",
-            "Latitude": "39.9785",
-            "Longitude": "26.9085",
-            "Depth": "14.0",
-            "ML": "2.5",
-            "Location": "ETILI CAN CANAKKALE"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "16:55:48",
-            "Latitude": "38.1878",
-            "Longitude": "35.1117",
-            "Depth": "17.0",
-            "ML": "1.3",
-            "Location": "KAYADIBI YESILHISAR KAYSERI"
         }
     ]
 }
