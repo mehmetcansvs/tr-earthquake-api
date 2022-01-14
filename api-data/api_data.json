@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.14",
+            "Time": "06:23:42",
+            "Latitude": "37.0770",
+            "Longitude": "28.3625",
+            "Depth": "4.9",
+            "ML": "1.5",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.14",
             "Time": "01:46:32",
             "Latitude": "38.6033",
             "Longitude": "39.3432",
@@ -4418,15 +4427,6 @@
             "Depth": "17.6",
             "ML": "1.7",
             "Location": "MOLLAKENT BULANIK MUS"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "04:46:34",
-            "Latitude": "37.0260",
-            "Longitude": "28.1435",
-            "Depth": "11.4",
-            "ML": "1.8",
-            "Location": "SARNICKOY MUGLA"
         }
     ]
 }
