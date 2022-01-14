@@ -2,6 +2,105 @@
     "data": [
         {
             "Date": "2022.01.14",
+            "Time": "23:04:08",
+            "Latitude": "37.6553",
+            "Longitude": "26.9923",
+            "Depth": "2.5",
+            "ML": "2.0",
+            "Location": "MILLI PARK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "22:32:28",
+            "Latitude": "37.4047",
+            "Longitude": "29.4348",
+            "Depth": "2.3",
+            "ML": "1.7",
+            "Location": "YENIKOY ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "22:22:28",
+            "Latitude": "37.3263",
+            "Longitude": "29.2947",
+            "Depth": "11.0",
+            "ML": "1.5",
+            "Location": "OREN ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "22:17:41",
+            "Latitude": "37.7445",
+            "Longitude": "29.1717",
+            "Depth": "17.3",
+            "ML": "1.3",
+            "Location": "OVACIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "22:12:03",
+            "Latitude": "36.8262",
+            "Longitude": "27.9575",
+            "Depth": "6.9",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "22:04:19",
+            "Latitude": "37.7037",
+            "Longitude": "27.0227",
+            "Depth": "16.1",
+            "ML": "1.7",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "21:51:53",
+            "Latitude": "38.0477",
+            "Longitude": "29.3248",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "KAPLANLAR CAL DENIZLI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "21:46:46",
+            "Latitude": "38.0402",
+            "Longitude": "29.3140",
+            "Depth": "9.9",
+            "ML": "1.7",
+            "Location": "KAPLANLAR CAL DENIZLI REVIZE ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "21:22:46",
+            "Latitude": "37.3633",
+            "Longitude": "29.4012",
+            "Depth": "6.4",
+            "ML": "2.2",
+            "Location": "KOKE ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "21:22:04",
+            "Latitude": "37.7043",
+            "Longitude": "25.9928",
+            "Depth": "12.8",
+            "ML": "2.2",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.14",
+            "Time": "21:16:00",
+            "Latitude": "37.7138",
+            "Longitude": "25.9062",
+            "Depth": "6.6",
+            "ML": "2.9",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.14",
             "Time": "21:03:22",
             "Latitude": "37.5748",
             "Longitude": "29.5062",
@@ -4310,114 +4409,6 @@
             "Depth": "6.9",
             "ML": "1.4",
             "Location": "KARACAOREN MUGLA"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "23:34:44",
-            "Latitude": "36.4115",
-            "Longitude": "27.1493",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "23:30:52",
-            "Latitude": "35.3758",
-            "Longitude": "25.2220",
-            "Depth": "23.0",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "23:20:52",
-            "Latitude": "36.5817",
-            "Longitude": "27.4500",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "23:15:36",
-            "Latitude": "36.3848",
-            "Longitude": "27.0720",
-            "Depth": "1.7",
-            "ML": "2.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "22:55:20",
-            "Latitude": "35.0488",
-            "Longitude": "25.1553",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "22:50:26",
-            "Latitude": "36.5125",
-            "Longitude": "25.2517",
-            "Depth": "8.8",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "22:22:13",
-            "Latitude": "41.0345",
-            "Longitude": "33.5685",
-            "Depth": "8.8",
-            "ML": "2.1",
-            "Location": "OBRUK IHSANGAZI KASTAMONU"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "22:14:23",
-            "Latitude": "36.5847",
-            "Longitude": "25.3458",
-            "Depth": "19.1",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "21:45:10",
-            "Latitude": "38.2602",
-            "Longitude": "40.7182",
-            "Depth": "10.2",
-            "ML": "2.1",
-            "Location": "DADAS HAZRO DIYARBAKIR"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "21:34:04",
-            "Latitude": "36.6213",
-            "Longitude": "25.5302",
-            "Depth": "21.0",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "21:28:41",
-            "Latitude": "35.7965",
-            "Longitude": "28.2610",
-            "Depth": "7.3",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "21:25:37",
-            "Latitude": "40.7457",
-            "Longitude": "32.9085",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "YAKUPLAR CERKES CANKIRI"
         }
     ]
 }
