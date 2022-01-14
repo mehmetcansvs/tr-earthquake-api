@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.01.14",
+            "Time": "01:46:32",
+            "Latitude": "38.6033",
+            "Longitude": "39.3432",
+            "Depth": "14.9",
+            "ML": "2.1",
+            "Location": "YUNLUCE ELAZIG"
+        },
+        {
             "Date": "2022.01.13",
             "Time": "23:30:49",
             "Latitude": "40.6732",
@@ -4418,15 +4427,6 @@
             "Depth": "11.4",
             "ML": "1.8",
             "Location": "SARNICKOY MUGLA"
-        },
-        {
-            "Date": "2022.01.03",
-            "Time": "03:56:28",
-            "Latitude": "37.9010",
-            "Longitude": "27.5953",
-            "Depth": "10.2",
-            "ML": "1.4",
-            "Location": "HIDIRBEYLI GERMENCIK AYDIN"
         }
     ]
 }
