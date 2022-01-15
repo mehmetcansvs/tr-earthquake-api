@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.01.16",
+            "Time": "00:47:51",
+            "Latitude": "39.2900",
+            "Longitude": "26.7648",
+            "Depth": "2.4",
+            "ML": "2.2",
+            "Location": "MUTLU AYVALIK BALIKESIR"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "00:41:38",
+            "Latitude": "36.9108",
+            "Longitude": "34.5332",
+            "Depth": "5.9",
+            "ML": "2.0",
+            "Location": "KERIMLER TOROSLAR MERSIN"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "23:22:17",
+            "Latitude": "36.9895",
+            "Longitude": "27.6272",
+            "Depth": "12.4",
+            "ML": "1.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
             "Date": "2022.01.15",
             "Time": "22:59:36",
             "Latitude": "37.0580",
@@ -4373,33 +4400,6 @@
             "Depth": "16.8",
             "ML": "1.3",
             "Location": "GEZIN MADEN ELAZIG"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "03:14:38",
-            "Latitude": "38.4700",
-            "Longitude": "39.1430",
-            "Depth": "5.8",
-            "ML": "1.8",
-            "Location": "GUNBALI SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "02:13:56",
-            "Latitude": "35.3075",
-            "Longitude": "23.5110",
-            "Depth": "29.9",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "02:07:54",
-            "Latitude": "38.0063",
-            "Longitude": "29.0518",
-            "Depth": "14.3",
-            "ML": "2.0",
-            "Location": "GOLEMEZLI AKKOY DENIZLI"
         }
     ]
 }
