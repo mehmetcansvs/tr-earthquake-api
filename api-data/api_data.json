@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.15",
+            "Time": "10:43:15",
+            "Latitude": "38.7795",
+            "Longitude": "39.9817",
+            "Depth": "7.5",
+            "ML": "2.5",
+            "Location": "CAKIRKAS KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "09:11:48",
+            "Latitude": "37.6870",
+            "Longitude": "26.9798",
+            "Depth": "9.1",
+            "ML": "1.8",
+            "Location": "MILLI PARK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.01.15",
             "Time": "08:44:55",
             "Latitude": "37.0837",
             "Longitude": "28.4133",
@@ -4400,24 +4418,6 @@
             "Depth": "17.3",
             "ML": "1.4",
             "Location": "KAYNARPINAR KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "18:15:03",
-            "Latitude": "39.3455",
-            "Longitude": "40.7797",
-            "Depth": "3.5",
-            "ML": "1.4",
-            "Location": "KAYNARPINAR KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "17:58:32",
-            "Latitude": "37.0250",
-            "Longitude": "35.5807",
-            "Depth": "10.4",
-            "ML": "1.4",
-            "Location": "CIHADIYE SARICAM ADANA"
         }
     ]
 }
