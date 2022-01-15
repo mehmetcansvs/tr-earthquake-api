@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.15",
+            "Time": "22:59:36",
+            "Latitude": "37.0580",
+            "Longitude": "28.3518",
+            "Depth": "18.1",
+            "ML": "1.4",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "22:08:22",
+            "Latitude": "40.8798",
+            "Longitude": "31.1507",
+            "Depth": "10.8",
+            "ML": "1.8",
+            "Location": "KADIOGLU DUZCE"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "22:00:37",
+            "Latitude": "36.8590",
+            "Longitude": "28.0470",
+            "Depth": "8.3",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "20:37:48",
+            "Latitude": "38.4548",
+            "Longitude": "39.1855",
+            "Depth": "11.9",
+            "ML": "1.5",
+            "Location": "DEDEYOLU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.01.15",
             "Time": "19:07:07",
             "Latitude": "37.6683",
             "Longitude": "35.8722",
@@ -38,12 +74,12 @@
         },
         {
             "Date": "2022.01.15",
-            "Time": "16:03:06",
-            "Latitude": "38.0387",
-            "Longitude": "44.4435",
+            "Time": "16:03:07",
+            "Latitude": "38.0903",
+            "Longitude": "44.5907",
             "Depth": "5.0",
-            "ML": "4.0",
-            "Location": "KIZILCA BASKALE VAN"
+            "ML": "4.1",
+            "Location": "TURKIYE IRAN SINIR BOLGESI"
         },
         {
             "Date": "2022.01.15",
@@ -4364,42 +4400,6 @@
             "Depth": "14.3",
             "ML": "2.0",
             "Location": "GOLEMEZLI AKKOY DENIZLI"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "00:47:51",
-            "Latitude": "37.7230",
-            "Longitude": "26.8152",
-            "Depth": "10.1",
-            "ML": "1.3",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "00:41:36",
-            "Latitude": "37.8342",
-            "Longitude": "29.4800",
-            "Depth": "5.0",
-            "ML": "0.8",
-            "Location": "ALIKURT BOZKURT DENIZLI"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "00:30:12",
-            "Latitude": "36.4027",
-            "Longitude": "27.1243",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "00:28:34",
-            "Latitude": "37.0442",
-            "Longitude": "28.3850",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "ATAKOY ULA MUGLA"
         }
     ]
 }
