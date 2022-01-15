@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.01.15",
+            "Time": "05:21:19",
+            "Latitude": "36.7952",
+            "Longitude": "27.9958",
+            "Depth": "10.7",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "04:50:11",
+            "Latitude": "37.8505",
+            "Longitude": "26.8718",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "04:38:41",
+            "Latitude": "36.0492",
+            "Longitude": "30.2562",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "FINIKE ACIKLARI ANTALYA AKDENIZ"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "04:37:36",
+            "Latitude": "39.0588",
+            "Longitude": "43.0985",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "CIMEN ERCIS VAN"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "04:24:25",
+            "Latitude": "38.2778",
+            "Longitude": "27.3097",
+            "Depth": "5.4",
+            "ML": "1.2",
+            "Location": "DEMIRCI TORBALI IZMIR"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "04:02:24",
+            "Latitude": "38.6308",
+            "Longitude": "43.1440",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "MOLLAKASIM VAN"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "03:51:50",
+            "Latitude": "37.8893",
+            "Longitude": "26.9392",
+            "Depth": "6.4",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.15",
             "Time": "03:42:02",
             "Latitude": "37.7022",
             "Longitude": "27.0182",
@@ -4355,69 +4418,6 @@
             "Depth": "18.2",
             "ML": "1.6",
             "Location": "DARICILAR DAZKIRI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "14:31:17",
-            "Latitude": "37.0842",
-            "Longitude": "37.4930",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "SUBOGAZI SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "14:00:33",
-            "Latitude": "35.3778",
-            "Longitude": "25.2343",
-            "Depth": "9.3",
-            "ML": "1.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "13:34:52",
-            "Latitude": "35.1518",
-            "Longitude": "25.2185",
-            "Depth": "5.3",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "13:22:49",
-            "Latitude": "36.2368",
-            "Longitude": "33.7202",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "AKDERE SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "13:09:00",
-            "Latitude": "34.0073",
-            "Longitude": "25.9238",
-            "Depth": "8.3",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "12:46:01",
-            "Latitude": "40.3113",
-            "Longitude": "30.0245",
-            "Depth": "6.2",
-            "ML": "1.4",
-            "Location": "GUNUOREN OSMANELI BILECIK"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "11:55:17",
-            "Latitude": "35.6727",
-            "Longitude": "33.1908",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "AKDENIZ"
         }
     ]
 }
