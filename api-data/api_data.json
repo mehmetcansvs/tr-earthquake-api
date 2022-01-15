@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.15",
+            "Time": "19:07:07",
+            "Latitude": "37.6683",
+            "Longitude": "35.8722",
+            "Depth": "5.4",
+            "ML": "1.6",
+            "Location": "CULLUUSAGI KOZAN ADANA"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "18:27:48",
+            "Latitude": "37.0573",
+            "Longitude": "28.3955",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "17:43:28",
+            "Latitude": "36.3627",
+            "Longitude": "26.6920",
+            "Depth": "121.3",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.15",
             "Time": "16:06:47",
             "Latitude": "37.9492",
             "Longitude": "44.4473",
@@ -70,16 +97,7 @@
             "Longitude": "40.0203",
             "Depth": "6.1",
             "ML": "2.4",
-            "Location": "ORGULU PALU ELAZIG"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "11:51:30",
-            "Latitude": "37.0803",
-            "Longitude": "38.7122",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "KEBERLI SANLIURFA"
+            "Location": "ORGULU PALU ELAZIG REVIZE KEBERLI SANLIURFA"
         },
         {
             "Date": "2022.01.15",
@@ -92,12 +110,30 @@
         },
         {
             "Date": "2022.01.15",
+            "Time": "10:36:21",
+            "Latitude": "38.4185",
+            "Longitude": "26.6733",
+            "Depth": "12.2",
+            "ML": "1.9",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.15",
             "Time": "09:11:48",
             "Latitude": "37.6870",
             "Longitude": "26.9798",
             "Depth": "9.1",
             "ML": "1.8",
             "Location": "MILLI PARK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "08:46:45",
+            "Latitude": "37.9527",
+            "Longitude": "30.8467",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "MAHMATLAR EGIRDIR ISPARTA"
         },
         {
             "Date": "2022.01.15",
@@ -4364,51 +4400,6 @@
             "Depth": "5.0",
             "ML": "1.1",
             "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "23:53:32",
-            "Latitude": "39.5342",
-            "Longitude": "28.5662",
-            "Depth": "5.6",
-            "ML": "1.6",
-            "Location": "CATALCAM DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "23:52:26",
-            "Latitude": "36.7562",
-            "Longitude": "26.9282",
-            "Depth": "145.9",
-            "ML": "2.6",
-            "Location": "KOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "23:17:48",
-            "Latitude": "40.8167",
-            "Longitude": "34.8103",
-            "Depth": "8.5",
-            "ML": "1.6",
-            "Location": "BERKKOY DODURGA CORUM"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "23:04:37",
-            "Latitude": "37.1597",
-            "Longitude": "28.6832",
-            "Depth": "8.0",
-            "ML": "2.5",
-            "Location": "TURGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "23:01:38",
-            "Latitude": "36.4020",
-            "Longitude": "27.1183",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
