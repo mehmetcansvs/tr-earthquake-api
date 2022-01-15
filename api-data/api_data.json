@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.15",
+            "Time": "16:06:47",
+            "Latitude": "37.9492",
+            "Longitude": "44.4473",
+            "Depth": "9.0",
+            "ML": "3.0",
+            "Location": "TURKIYE IRAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.01.15",
+            "Time": "16:03:06",
+            "Latitude": "38.0387",
+            "Longitude": "44.4435",
+            "Depth": "5.0",
+            "ML": "4.0",
+            "Location": "KIZILCA BASKALE VAN"
+        },
+        {
+            "Date": "2022.01.15",
             "Time": "14:30:24",
             "Latitude": "37.7430",
             "Longitude": "26.0220",
@@ -4391,24 +4409,6 @@
             "Depth": "5.0",
             "ML": "2.1",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "22:57:58",
-            "Latitude": "39.4077",
-            "Longitude": "26.1797",
-            "Depth": "17.6",
-            "ML": "1.6",
-            "Location": "CANAKKALE MIDILLI ADASI ARASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.04",
-            "Time": "21:04:39",
-            "Latitude": "40.4543",
-            "Longitude": "28.9610",
-            "Depth": "14.2",
-            "ML": "1.4",
-            "Location": "KAPAKLI ARMUTLU YALOVA"
         }
     ]
 }
