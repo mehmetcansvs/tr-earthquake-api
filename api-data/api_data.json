@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.16",
+            "Time": "23:54:05",
+            "Latitude": "40.1378",
+            "Longitude": "24.3828",
+            "Depth": "10.9",
+            "ML": "3.1",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "23:29:15",
+            "Latitude": "35.2483",
+            "Longitude": "25.2920",
+            "Depth": "15.6",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "23:11:25",
+            "Latitude": "35.3568",
+            "Longitude": "25.3285",
+            "Depth": "17.7",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "23:09:40",
+            "Latitude": "35.1860",
+            "Longitude": "25.2998",
+            "Depth": "4.2",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.16",
             "Time": "22:56:48",
             "Latitude": "40.0155",
             "Longitude": "24.4213",
@@ -281,6 +317,15 @@
         },
         {
             "Date": "2022.01.16",
+            "Time": "15:52:59",
+            "Latitude": "39.8710",
+            "Longitude": "24.1453",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
             "Time": "15:26:18",
             "Latitude": "40.0428",
             "Longitude": "24.3863",
@@ -299,6 +344,15 @@
         },
         {
             "Date": "2022.01.16",
+            "Time": "15:11:19",
+            "Latitude": "39.9638",
+            "Longitude": "24.3232",
+            "Depth": "7.2",
+            "ML": "2.7",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
             "Time": "15:05:04",
             "Latitude": "39.8343",
             "Longitude": "24.2813",
@@ -312,6 +366,15 @@
             "Latitude": "39.9545",
             "Longitude": "24.2688",
             "Depth": "10.1",
+            "ML": "2.7",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "14:59:04",
+            "Latitude": "39.9893",
+            "Longitude": "24.3988",
+            "Depth": "9.1",
             "ML": "2.7",
             "Location": "YUNANISTAN"
         },
@@ -4355,69 +4418,6 @@
             "Depth": "7.6",
             "ML": "1.8",
             "Location": "YAYLACIK MERZIFON AMASYA"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "09:01:57",
-            "Latitude": "37.2848",
-            "Longitude": "28.0470",
-            "Depth": "0.0",
-            "ML": "2.3",
-            "Location": "CAZKIRLAR YATAGAN MUGLA"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "08:46:45",
-            "Latitude": "38.8555",
-            "Longitude": "26.4805",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "08:40:26",
-            "Latitude": "37.9250",
-            "Longitude": "27.1140",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "08:22:13",
-            "Latitude": "37.8723",
-            "Longitude": "27.1212",
-            "Depth": "17.8",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "08:20:13",
-            "Latitude": "37.9082",
-            "Longitude": "27.1008",
-            "Depth": "9.6",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "08:10:55",
-            "Latitude": "37.8958",
-            "Longitude": "27.1357",
-            "Depth": "4.6",
-            "ML": "2.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "07:55:04",
-            "Latitude": "36.0158",
-            "Longitude": "28.7568",
-            "Depth": "9.2",
-            "ML": "1.7",
-            "Location": "AKDENIZ"
         }
     ]
 }
