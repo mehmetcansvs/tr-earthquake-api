@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.16",
+            "Time": "10:59:38",
+            "Latitude": "39.2445",
+            "Longitude": "28.8225",
+            "Depth": "8.0",
+            "ML": "1.8",
+            "Location": "EFIR SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "10:30:49",
+            "Latitude": "39.2633",
+            "Longitude": "26.7638",
+            "Depth": "11.7",
+            "ML": "1.5",
+            "Location": "MUTLU AYVALIK BALIKESIR"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "09:50:06",
+            "Latitude": "40.1015",
+            "Longitude": "27.6217",
+            "Depth": "12.4",
+            "ML": "1.7",
+            "Location": "BAKIRLI GONEN BALIKESIR"
+        },
+        {
+            "Date": "2022.01.16",
             "Time": "09:01:16",
             "Latitude": "38.5925",
             "Longitude": "27.9993",
@@ -4391,33 +4418,6 @@
             "Depth": "9.6",
             "ML": "0.9",
             "Location": "KIRAN MUGLA"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "08:04:28",
-            "Latitude": "37.0868",
-            "Longitude": "28.4588",
-            "Depth": "3.3",
-            "ML": "0.8",
-            "Location": "CICEKLI ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "07:42:15",
-            "Latitude": "37.0437",
-            "Longitude": "28.3970",
-            "Depth": "2.3",
-            "ML": "1.0",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "07:20:32",
-            "Latitude": "38.5512",
-            "Longitude": "39.4563",
-            "Depth": "1.4",
-            "ML": "2.0",
-            "Location": "GOLARDI ELAZIG"
         }
     ]
 }
