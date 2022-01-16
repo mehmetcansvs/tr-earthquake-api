@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.16",
+            "Time": "09:01:16",
+            "Latitude": "38.5925",
+            "Longitude": "27.9993",
+            "Depth": "5.4",
+            "ML": "1.3",
+            "Location": "TEKELIOGLU SALIHLI MANISA"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "08:45:44",
+            "Latitude": "38.5873",
+            "Longitude": "27.9297",
+            "Depth": "5.2",
+            "ML": "0.7",
+            "Location": "KESTELLI AHMETLI MANISA"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "08:34:27",
+            "Latitude": "37.6618",
+            "Longitude": "26.0753",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "07:16:28",
+            "Latitude": "39.4983",
+            "Longitude": "27.6200",
+            "Depth": "9.7",
+            "ML": "2.9",
+            "Location": "EYERCI SAVASTEPE BALIKESIR"
+        },
+        {
+            "Date": "2022.01.16",
             "Time": "06:47:57",
             "Latitude": "36.8283",
             "Longitude": "28.0983",
@@ -4382,33 +4418,6 @@
             "Depth": "1.4",
             "ML": "2.0",
             "Location": "GOLARDI ELAZIG"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "07:02:11",
-            "Latitude": "36.8240",
-            "Longitude": "28.0217",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "06:21:15",
-            "Latitude": "36.0663",
-            "Longitude": "31.2102",
-            "Depth": "18.1",
-            "ML": "5.3",
-            "Location": "AKDENIZ REVIZE AKDENIZ"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "05:23:22",
-            "Latitude": "38.3177",
-            "Longitude": "28.3902",
-            "Depth": "5.3",
-            "ML": "1.3",
-            "Location": "AZITEPE ALASEHIR MANISA REVIZE"
         }
     ]
 }
