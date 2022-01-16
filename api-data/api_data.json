@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.16",
+            "Time": "14:48:05",
+            "Latitude": "40.0363",
+            "Longitude": "24.3413",
+            "Depth": "18.3",
+            "ML": "5.4",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "13:59:17",
+            "Latitude": "39.8752",
+            "Longitude": "41.8658",
+            "Depth": "16.1",
+            "ML": "2.0",
+            "Location": "PEKECIK KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "13:20:25",
+            "Latitude": "38.9412",
+            "Longitude": "26.1502",
+            "Depth": "8.5",
+            "ML": "2.0",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.16",
             "Time": "12:39:14",
             "Latitude": "37.1290",
             "Longitude": "28.3205",
@@ -4391,33 +4418,6 @@
             "Depth": "1.1",
             "ML": "1.4",
             "Location": "KUSAKLI MUCUR KIRSEHIR"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "09:19:12",
-            "Latitude": "38.5600",
-            "Longitude": "39.3292",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "IKITEPE ELAZIG"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "09:10:58",
-            "Latitude": "37.6370",
-            "Longitude": "29.5185",
-            "Depth": "21.4",
-            "ML": "1.4",
-            "Location": "SOGUTKOY CARDAK DENIZLI"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "08:17:44",
-            "Latitude": "39.7290",
-            "Longitude": "26.0785",
-            "Depth": "6.7",
-            "ML": "2.0",
-            "Location": "DALYAN EZINE CANAKKALE"
         }
     ]
 }
