@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.16",
+            "Time": "05:14:39",
+            "Latitude": "39.9285",
+            "Longitude": "41.8405",
+            "Depth": "17.1",
+            "ML": "1.4",
+            "Location": "EGIRMEZ KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.01.16",
             "Time": "03:08:50",
             "Latitude": "39.9070",
             "Longitude": "41.8755",
@@ -4391,15 +4400,6 @@
             "Depth": "5.2",
             "ML": "3.2",
             "Location": "GUNBATMAZ BULANIK MUS"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "04:32:35",
-            "Latitude": "39.1463",
-            "Longitude": "41.4115",
-            "Depth": "12.4",
-            "ML": "1.1",
-            "Location": "ASAGIALAGOZ VARTO MUS"
         }
     ]
 }
