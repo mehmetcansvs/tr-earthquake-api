@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.16",
+            "Time": "12:39:14",
+            "Latitude": "37.1290",
+            "Longitude": "28.3205",
+            "Depth": "3.4",
+            "ML": "1.4",
+            "Location": "YENICE MUGLA"
+        },
+        {
+            "Date": "2022.01.16",
             "Time": "10:59:38",
             "Latitude": "39.2445",
             "Longitude": "28.8225",
@@ -4409,15 +4418,6 @@
             "Depth": "6.7",
             "ML": "2.0",
             "Location": "DALYAN EZINE CANAKKALE"
-        },
-        {
-            "Date": "2022.01.05",
-            "Time": "08:12:51",
-            "Latitude": "37.0690",
-            "Longitude": "28.2048",
-            "Depth": "9.6",
-            "ML": "0.9",
-            "Location": "KIRAN MUGLA"
         }
     ]
 }
