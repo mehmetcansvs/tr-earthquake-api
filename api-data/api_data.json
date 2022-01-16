@@ -2,6 +2,96 @@
     "data": [
         {
             "Date": "2022.01.16",
+            "Time": "22:56:48",
+            "Latitude": "40.0155",
+            "Longitude": "24.4213",
+            "Depth": "3.2",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "22:55:07",
+            "Latitude": "40.0362",
+            "Longitude": "24.4263",
+            "Depth": "9.9",
+            "ML": "3.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "22:50:34",
+            "Latitude": "40.0262",
+            "Longitude": "24.3790",
+            "Depth": "11.0",
+            "ML": "3.1",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "22:45:06",
+            "Latitude": "40.0448",
+            "Longitude": "24.3558",
+            "Depth": "16.3",
+            "ML": "3.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "22:41:44",
+            "Latitude": "40.0342",
+            "Longitude": "24.3980",
+            "Depth": "9.8",
+            "ML": "3.7",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "22:11:40",
+            "Latitude": "39.1765",
+            "Longitude": "39.2350",
+            "Depth": "3.8",
+            "ML": "2.1",
+            "Location": "SARISALTIK HOZAT TUNCELI"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "21:44:36",
+            "Latitude": "40.0388",
+            "Longitude": "24.3960",
+            "Depth": "10.0",
+            "ML": "3.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "21:36:49",
+            "Latitude": "39.8380",
+            "Longitude": "41.8222",
+            "Depth": "11.2",
+            "ML": "1.7",
+            "Location": "MARIFET KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "21:29:27",
+            "Latitude": "40.0330",
+            "Longitude": "24.4198",
+            "Depth": "11.1",
+            "ML": "4.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "21:17:48",
+            "Latitude": "38.4705",
+            "Longitude": "39.1613",
+            "Depth": "1.1",
+            "ML": "3.3",
+            "Location": "KAVALLI SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.01.16",
             "Time": "21:06:35",
             "Latitude": "40.0843",
             "Longitude": "24.3443",
@@ -26,6 +116,15 @@
             "Depth": "5.4",
             "ML": "2.7",
             "Location": "CAMKALABAK AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.01.16",
+            "Time": "19:06:22",
+            "Latitude": "37.7138",
+            "Longitude": "26.9223",
+            "Depth": "13.7",
+            "ML": "1.8",
+            "Location": "SISAM ADASI EGE DENIZI"
         },
         {
             "Date": "2022.01.16",
@@ -4319,105 +4418,6 @@
             "Depth": "9.2",
             "ML": "1.7",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "07:32:53",
-            "Latitude": "38.2897",
-            "Longitude": "38.8438",
-            "Depth": "3.5",
-            "ML": "2.0",
-            "Location": "GUNDEGER PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "07:22:55",
-            "Latitude": "37.8447",
-            "Longitude": "26.7703",
-            "Depth": "4.9",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "07:07:28",
-            "Latitude": "37.9997",
-            "Longitude": "35.5962",
-            "Depth": "5.0",
-            "ML": "1.3",
-            "Location": "KARAKOY YAHYALI KAYSERI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "06:53:37",
-            "Latitude": "37.0630",
-            "Longitude": "28.3963",
-            "Depth": "4.5",
-            "ML": "1.4",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "06:44:46",
-            "Latitude": "40.4907",
-            "Longitude": "34.8005",
-            "Depth": "3.0",
-            "ML": "1.9",
-            "Location": "TATAR CORUM"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "06:29:23",
-            "Latitude": "37.0538",
-            "Longitude": "28.3163",
-            "Depth": "4.8",
-            "ML": "1.3",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "06:21:06",
-            "Latitude": "37.3242",
-            "Longitude": "36.0948",
-            "Depth": "7.5",
-            "ML": "1.7",
-            "Location": "MEZRETLI KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "04:53:28",
-            "Latitude": "36.9117",
-            "Longitude": "27.2483",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "KOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "04:26:48",
-            "Latitude": "39.4002",
-            "Longitude": "33.9075",
-            "Depth": "5.5",
-            "ML": "1.7",
-            "Location": "ISAHOCALI KAMAN KIRSEHIR"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "03:56:47",
-            "Latitude": "37.0690",
-            "Longitude": "28.3880",
-            "Depth": "6.8",
-            "ML": "1.8",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "03:52:45",
-            "Latitude": "40.0472",
-            "Longitude": "32.0835",
-            "Depth": "3.2",
-            "ML": "2.3",
-            "Location": "AKKAYA AYAS ANKARA"
         }
     ]
 }
