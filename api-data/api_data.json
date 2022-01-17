@@ -1,6 +1,96 @@
 {
     "data": [
         {
+            "Date": "2022.01.17",
+            "Time": "03:22:03",
+            "Latitude": "40.0065",
+            "Longitude": "23.8770",
+            "Depth": "55.6",
+            "ML": "2.1",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "03:12:05",
+            "Latitude": "40.7948",
+            "Longitude": "27.5422",
+            "Depth": "15.6",
+            "ML": "2.5",
+            "Location": "YENIKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "02:47:39",
+            "Latitude": "39.9827",
+            "Longitude": "24.3280",
+            "Depth": "9.2",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "02:29:26",
+            "Latitude": "38.3937",
+            "Longitude": "27.2047",
+            "Depth": "10.5",
+            "ML": "1.8",
+            "Location": "BUCA IZMIR"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "02:23:27",
+            "Latitude": "40.0253",
+            "Longitude": "24.4145",
+            "Depth": "6.2",
+            "ML": "2.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "02:15:25",
+            "Latitude": "37.0683",
+            "Longitude": "28.4333",
+            "Depth": "5.6",
+            "ML": "2.4",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "02:07:09",
+            "Latitude": "39.9817",
+            "Longitude": "24.3897",
+            "Depth": "8.1",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "01:45:05",
+            "Latitude": "39.9505",
+            "Longitude": "24.1868",
+            "Depth": "30.9",
+            "ML": "3.1",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "01:31:59",
+            "Latitude": "40.0135",
+            "Longitude": "24.4378",
+            "Depth": "8.2",
+            "ML": "4.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "01:16:17",
+            "Latitude": "36.3548",
+            "Longitude": "28.7910",
+            "Depth": "25.1",
+            "ML": "4.5",
+            "Location": "AKDENIZ"
+        },
+        {
             "Date": "2022.01.16",
             "Time": "23:54:05",
             "Latitude": "40.1378",
@@ -4337,87 +4427,6 @@
             "Depth": "6.7",
             "ML": "2.6",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "13:52:37",
-            "Latitude": "37.9767",
-            "Longitude": "34.7565",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "GUMUSLER NIGDE"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "13:43:14",
-            "Latitude": "36.1433",
-            "Longitude": "33.5548",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "13:32:34",
-            "Latitude": "36.1367",
-            "Longitude": "33.5602",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "BUYUKECELI GULNAR MERSIN REVIZE KEMERHISAR BOR NIGDE"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "13:14:00",
-            "Latitude": "38.6992",
-            "Longitude": "38.0885",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "YESILPINAR HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "12:01:28",
-            "Latitude": "37.0157",
-            "Longitude": "35.7495",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "YILANKALE CEYHAN ADANA"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "11:31:58",
-            "Latitude": "39.8162",
-            "Longitude": "28.9508",
-            "Depth": "3.0",
-            "ML": "1.7",
-            "Location": "TEPECIK ORHANELI BURSA"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "11:18:00",
-            "Latitude": "38.9730",
-            "Longitude": "42.0302",
-            "Depth": "7.8",
-            "ML": "1.9",
-            "Location": "GUNBATMAZ BULANIK MUS"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "11:15:21",
-            "Latitude": "36.6457",
-            "Longitude": "36.3082",
-            "Depth": "10.2",
-            "ML": "1.0",
-            "Location": "KALEDIBI ISKENDERUN HATAY"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "09:22:12",
-            "Latitude": "40.6472",
-            "Longitude": "35.3947",
-            "Depth": "7.6",
-            "ML": "1.8",
-            "Location": "YAYLACIK MERZIFON AMASYA"
         }
     ]
 }
