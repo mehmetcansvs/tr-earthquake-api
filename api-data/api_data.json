@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.01.17",
+            "Time": "10:51:59",
+            "Latitude": "37.5737",
+            "Longitude": "34.9702",
+            "Depth": "5.0",
+            "ML": "1.2",
+            "Location": "HAMIDIYE POZANTI ADANA"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "10:14:49",
+            "Latitude": "37.7183",
+            "Longitude": "35.1568",
+            "Depth": "6.8",
+            "ML": "1.9",
+            "Location": "ELEKGOLU CAMARDI NIGDE"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "09:50:39",
+            "Latitude": "40.8705",
+            "Longitude": "32.9995",
+            "Depth": "7.9",
+            "ML": "1.5",
+            "Location": "CALCIOREN CERKES CANKIRI"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "09:33:37",
+            "Latitude": "40.0022",
+            "Longitude": "24.2090",
+            "Depth": "21.4",
+            "ML": "3.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.17",
             "Time": "09:11:59",
             "Latitude": "38.1302",
             "Longitude": "34.3642",
             "Depth": "5.4",
             "ML": "1.6",
             "Location": "KITRELI CIFTLIK NIGDE"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "08:45:02",
+            "Latitude": "38.7010",
+            "Longitude": "40.0800",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "DAMLAPINARI PALU ELAZIG"
         },
         {
             "Date": "2022.01.17",
@@ -4382,51 +4427,6 @@
             "Depth": "1.9",
             "ML": "1.8",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.07",
-            "Time": "01:37:00",
-            "Latitude": "40.7902",
-            "Longitude": "27.7188",
-            "Depth": "5.6",
-            "ML": "2.3",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.01.07",
-            "Time": "01:08:26",
-            "Latitude": "35.5815",
-            "Longitude": "29.2210",
-            "Depth": "15.4",
-            "ML": "2.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.07",
-            "Time": "00:45:59",
-            "Latitude": "37.8105",
-            "Longitude": "26.9467",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "23:35:24",
-            "Latitude": "38.9787",
-            "Longitude": "42.0043",
-            "Depth": "1.7",
-            "ML": "3.7",
-            "Location": "GUNBATMAZ BULANIK MUS"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "23:24:37",
-            "Latitude": "39.0115",
-            "Longitude": "26.5252",
-            "Depth": "9.1",
-            "ML": "3.3",
-            "Location": "MIDILLI ADASI EGE DENIZI"
         }
     ]
 }
