@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.17",
+            "Time": "09:11:59",
+            "Latitude": "38.1302",
+            "Longitude": "34.3642",
+            "Depth": "5.4",
+            "ML": "1.6",
+            "Location": "KITRELI CIFTLIK NIGDE"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "07:26:16",
+            "Latitude": "40.0538",
+            "Longitude": "32.0763",
+            "Depth": "10.6",
+            "ML": "2.5",
+            "Location": "AKKAYA AYAS ANKARA"
+        },
+        {
+            "Date": "2022.01.17",
             "Time": "07:02:58",
             "Latitude": "38.7525",
             "Longitude": "31.2200",
@@ -4409,24 +4427,6 @@
             "Depth": "9.1",
             "ML": "3.3",
             "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "22:42:18",
-            "Latitude": "39.0265",
-            "Longitude": "26.5168",
-            "Depth": "10.1",
-            "ML": "2.1",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "22:21:37",
-            "Latitude": "38.9888",
-            "Longitude": "42.0673",
-            "Depth": "12.8",
-            "ML": "1.6",
-            "Location": "GUNBATMAZ BULANIK MUS"
         }
     ]
 }
