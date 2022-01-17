@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.17",
+            "Time": "16:52:44",
+            "Latitude": "35.3785",
+            "Longitude": "25.2863",
+            "Depth": "3.5",
+            "ML": "3.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "16:12:28",
+            "Latitude": "37.0657",
+            "Longitude": "27.3240",
+            "Depth": "5.1",
+            "ML": "1.4",
+            "Location": "YAKAKOY BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "15:47:14",
+            "Latitude": "35.2983",
+            "Longitude": "25.2895",
+            "Depth": "15.0",
+            "ML": "3.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "15:37:03",
+            "Latitude": "40.0213",
+            "Longitude": "24.3668",
+            "Depth": "13.2",
+            "ML": "3.3",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.17",
             "Time": "15:13:40",
             "Latitude": "37.1173",
             "Longitude": "28.4055",
@@ -4391,42 +4427,6 @@
             "Depth": "11.2",
             "ML": "1.4",
             "Location": "KISLAK ALADAG ADANA"
-        },
-        {
-            "Date": "2022.01.07",
-            "Time": "21:34:03",
-            "Latitude": "38.1915",
-            "Longitude": "34.2535",
-            "Depth": "3.9",
-            "ML": "2.5",
-            "Location": "YENIPINAR AKSARAY"
-        },
-        {
-            "Date": "2022.01.07",
-            "Time": "20:31:50",
-            "Latitude": "39.3643",
-            "Longitude": "40.7847",
-            "Depth": "7.5",
-            "ML": "1.9",
-            "Location": "KAYNARPINAR KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.01.07",
-            "Time": "18:25:40",
-            "Latitude": "38.1883",
-            "Longitude": "34.2802",
-            "Depth": "7.5",
-            "ML": "2.3",
-            "Location": "YENIPINAR AKSARAY"
-        },
-        {
-            "Date": "2022.01.07",
-            "Time": "18:08:02",
-            "Latitude": "38.2037",
-            "Longitude": "38.5850",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "SOGUTLU PUTURGE MALATYA"
         }
     ]
 }
