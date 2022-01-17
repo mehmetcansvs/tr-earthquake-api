@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.01.17",
+            "Time": "17:18:41",
+            "Latitude": "40.0827",
+            "Longitude": "24.5232",
+            "Depth": "10.5",
+            "ML": "2.4",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "17:14:20",
+            "Latitude": "35.2910",
+            "Longitude": "25.2168",
+            "Depth": "30.2",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "17:12:50",
+            "Latitude": "35.3605",
+            "Longitude": "25.2630",
+            "Depth": "29.3",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "17:08:53",
+            "Latitude": "35.3447",
+            "Longitude": "25.2708",
+            "Depth": "24.5",
+            "ML": "3.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "17:04:27",
+            "Latitude": "35.3532",
+            "Longitude": "25.1955",
+            "Depth": "39.2",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "17:03:24",
+            "Latitude": "35.2725",
+            "Longitude": "25.2552",
+            "Depth": "27.6",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.17",
             "Time": "16:52:44",
             "Latitude": "35.3785",
             "Longitude": "25.2863",
@@ -4373,60 +4427,6 @@
             "Depth": "14.9",
             "ML": "1.7",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.08",
-            "Time": "00:44:16",
-            "Latitude": "39.2403",
-            "Longitude": "41.3660",
-            "Depth": "12.8",
-            "ML": "1.1",
-            "Location": "ARMUTKASI VARTO MUS"
-        },
-        {
-            "Date": "2022.01.08",
-            "Time": "00:28:34",
-            "Latitude": "40.0363",
-            "Longitude": "40.9172",
-            "Depth": "10.6",
-            "ML": "1.5",
-            "Location": "GELINKAYA AZIZIYE ERZURUM"
-        },
-        {
-            "Date": "2022.01.08",
-            "Time": "00:06:57",
-            "Latitude": "36.8267",
-            "Longitude": "30.2967",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "DEREKOY KUMLUCA ANTALYA"
-        },
-        {
-            "Date": "2022.01.07",
-            "Time": "23:28:29",
-            "Latitude": "37.1445",
-            "Longitude": "36.2895",
-            "Depth": "13.6",
-            "ML": "1.9",
-            "Location": "DERVISLI OSMANIYE"
-        },
-        {
-            "Date": "2022.01.07",
-            "Time": "22:53:38",
-            "Latitude": "37.1607",
-            "Longitude": "36.3052",
-            "Depth": "15.5",
-            "ML": "2.3",
-            "Location": "TEHCI OSMANIYE"
-        },
-        {
-            "Date": "2022.01.07",
-            "Time": "22:34:18",
-            "Latitude": "37.5732",
-            "Longitude": "35.5637",
-            "Depth": "11.2",
-            "ML": "1.4",
-            "Location": "KISLAK ALADAG ADANA"
         }
     ]
 }
