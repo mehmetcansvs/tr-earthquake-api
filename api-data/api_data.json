@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.17",
+            "Time": "07:02:58",
+            "Latitude": "38.7525",
+            "Longitude": "31.2200",
+            "Depth": "5.3",
+            "ML": "2.1",
+            "Location": "BUYUKKARABAG BOLVADIN AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.01.17",
+            "Time": "06:48:36",
+            "Latitude": "37.6220",
+            "Longitude": "26.9272",
+            "Depth": "13.0",
+            "ML": "2.4",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.17",
             "Time": "04:29:51",
             "Latitude": "37.6992",
             "Longitude": "25.9898",
@@ -4409,24 +4427,6 @@
             "Depth": "12.8",
             "ML": "1.6",
             "Location": "GUNBATMAZ BULANIK MUS"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "21:21:13",
-            "Latitude": "38.8673",
-            "Longitude": "25.9783",
-            "Depth": "7.3",
-            "ML": "2.6",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.06",
-            "Time": "20:44:50",
-            "Latitude": "37.6735",
-            "Longitude": "35.8775",
-            "Depth": "22.3",
-            "ML": "2.1",
-            "Location": "CULLUUSAGI KOZAN ADANA"
         }
     ]
 }
