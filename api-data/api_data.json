@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.17",
+            "Time": "21:54:03",
+            "Latitude": "40.7675",
+            "Longitude": "31.4867",
+            "Depth": "10.4",
+            "ML": "1.9",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.01.17",
             "Time": "20:38:37",
             "Latitude": "35.2172",
             "Longitude": "25.2985",
@@ -4417,15 +4426,6 @@
             "Longitude": "27.0648",
             "Depth": "5.0",
             "ML": "1.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.08",
-            "Time": "06:47:58",
-            "Latitude": "37.9233",
-            "Longitude": "27.0897",
-            "Depth": "14.2",
-            "ML": "1.4",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
