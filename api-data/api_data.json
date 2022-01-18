@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.18",
+            "Time": "20:36:40",
+            "Latitude": "38.4215",
+            "Longitude": "42.7898",
+            "Depth": "1.0",
+            "ML": "2.2",
+            "Location": "TIMAR GEVAS VAN"
+        },
+        {
+            "Date": "2022.01.18",
             "Time": "18:49:30",
             "Latitude": "40.7312",
             "Longitude": "29.8650",
@@ -4400,15 +4409,6 @@
             "Depth": "5.4",
             "ML": "2.7",
             "Location": "KARAPINAR CAL DENIZLI"
-        },
-        {
-            "Date": "2022.01.09",
-            "Time": "13:00:15",
-            "Latitude": "40.1602",
-            "Longitude": "44.3615",
-            "Depth": "10.1",
-            "ML": "2.3",
-            "Location": "KOCKIRAN KARAKOYUNLU IGDIR"
         }
     ]
 }
