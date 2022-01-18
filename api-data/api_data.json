@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.01.18",
+            "Time": "15:46:09",
+            "Latitude": "37.6652",
+            "Longitude": "29.4098",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "KARACAY HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.01.18",
+            "Time": "15:41:20",
+            "Latitude": "37.6973",
+            "Longitude": "29.3355",
+            "Depth": "4.3",
+            "ML": "3.6",
+            "Location": "AYDINLAR HONAZ DENIZLI REVIZE KARACAY HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.01.18",
+            "Time": "15:20:43",
+            "Latitude": "35.2268",
+            "Longitude": "25.2932",
+            "Depth": "5.5",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.18",
             "Time": "15:07:25",
             "Latitude": "35.3990",
             "Longitude": "25.3287",
             "Depth": "19.1",
             "ML": "3.0",
             "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.18",
+            "Time": "14:37:18",
+            "Latitude": "37.2918",
+            "Longitude": "28.1937",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "YENIKARAKUYU YATAGAN MUGLA"
         },
         {
             "Date": "2022.01.18",
@@ -35,6 +71,15 @@
             "Depth": "5.4",
             "ML": "2.2",
             "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.18",
+            "Time": "13:25:41",
+            "Latitude": "38.5892",
+            "Longitude": "39.3173",
+            "Depth": "14.1",
+            "ML": "1.8",
+            "Location": "DOGANKUS ELAZIG"
         },
         {
             "Date": "2022.01.18",
@@ -4364,60 +4409,6 @@
             "Depth": "0.0",
             "ML": "1.3",
             "Location": "YESILOVACIK SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.01.09",
-            "Time": "12:01:25",
-            "Latitude": "36.9535",
-            "Longitude": "35.4310",
-            "Depth": "24.3",
-            "ML": "1.7",
-            "Location": "SARICAM ADANA"
-        },
-        {
-            "Date": "2022.01.09",
-            "Time": "10:39:06",
-            "Latitude": "36.9265",
-            "Longitude": "35.9210",
-            "Depth": "17.6",
-            "ML": "2.0",
-            "Location": "KURTPINAR CEYHAN ADANA"
-        },
-        {
-            "Date": "2022.01.09",
-            "Time": "10:05:19",
-            "Latitude": "38.3488",
-            "Longitude": "34.0583",
-            "Depth": "23.2",
-            "ML": "1.8",
-            "Location": "AKSARAY"
-        },
-        {
-            "Date": "2022.01.09",
-            "Time": "09:38:33",
-            "Latitude": "38.2753",
-            "Longitude": "38.8817",
-            "Depth": "23.6",
-            "ML": "2.2",
-            "Location": "TATLICAK PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.09",
-            "Time": "09:18:53",
-            "Latitude": "39.4212",
-            "Longitude": "28.0090",
-            "Depth": "6.1",
-            "ML": "1.8",
-            "Location": "ELYAPAN BIGADIC BALIKESIR"
-        },
-        {
-            "Date": "2022.01.09",
-            "Time": "08:45:23",
-            "Latitude": "38.9742",
-            "Longitude": "30.0445",
-            "Depth": "9.6",
-            "ML": "1.6",
-            "Location": "EYIDEMIR DUMLUPINAR KUTAHYA"
         }
     ]
 }
