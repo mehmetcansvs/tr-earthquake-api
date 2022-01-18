@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.18",
+            "Time": "15:07:25",
+            "Latitude": "35.3990",
+            "Longitude": "25.3287",
+            "Depth": "19.1",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.18",
+            "Time": "14:28:12",
+            "Latitude": "35.3407",
+            "Longitude": "25.3097",
+            "Depth": "16.2",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.18",
+            "Time": "14:19:36",
+            "Latitude": "36.1480",
+            "Longitude": "33.5935",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.01.18",
+            "Time": "14:05:33",
+            "Latitude": "35.2500",
+            "Longitude": "25.2998",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.18",
             "Time": "10:47:43",
             "Latitude": "40.0428",
             "Longitude": "27.0195",
@@ -4382,42 +4418,6 @@
             "Depth": "9.6",
             "ML": "1.6",
             "Location": "EYIDEMIR DUMLUPINAR KUTAHYA"
-        },
-        {
-            "Date": "2022.01.09",
-            "Time": "08:20:32",
-            "Latitude": "39.4700",
-            "Longitude": "39.6817",
-            "Depth": "17.5",
-            "ML": "1.1",
-            "Location": "KARAGOZ PULUMUR TUNCELI"
-        },
-        {
-            "Date": "2022.01.09",
-            "Time": "07:47:08",
-            "Latitude": "39.4662",
-            "Longitude": "25.8687",
-            "Depth": "6.2",
-            "ML": "2.6",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.09",
-            "Time": "07:09:22",
-            "Latitude": "37.8802",
-            "Longitude": "29.2590",
-            "Depth": "10.8",
-            "ML": "2.1",
-            "Location": "IRLIGANLI DENIZLI"
-        },
-        {
-            "Date": "2022.01.09",
-            "Time": "04:38:33",
-            "Latitude": "37.9107",
-            "Longitude": "32.0610",
-            "Depth": "13.0",
-            "ML": "0.6",
-            "Location": "KIZILOREN MERAM KONYA"
         }
     ]
 }
