@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.18",
+            "Time": "07:30:10",
+            "Latitude": "39.0165",
+            "Longitude": "26.5200",
+            "Depth": "7.5",
+            "ML": "3.5",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.18",
             "Time": "07:00:19",
             "Latitude": "37.8875",
             "Longitude": "26.8503",
@@ -4409,15 +4418,6 @@
             "Depth": "5.8",
             "ML": "1.6",
             "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.08",
-            "Time": "23:10:32",
-            "Latitude": "38.3233",
-            "Longitude": "38.9118",
-            "Depth": "20.3",
-            "ML": "2.1",
-            "Location": "UZUNHUSEYIN KALE MALATYA"
         }
     ]
 }
