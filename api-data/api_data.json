@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.19",
+            "Time": "09:46:15",
+            "Latitude": "40.3975",
+            "Longitude": "27.4750",
+            "Depth": "11.9",
+            "ML": "1.4",
+            "Location": "GUVEMALANI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "08:59:06",
+            "Latitude": "37.1958",
+            "Longitude": "35.9558",
+            "Depth": "5.0",
+            "ML": "3.8",
+            "Location": "CEYHANBEKIRLI CEYHAN ADANA"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "08:58:24",
+            "Latitude": "37.2383",
+            "Longitude": "36.0227",
+            "Depth": "9.8",
+            "ML": "3.3",
+            "Location": "TATARLI KADIRLI OSMANIYE"
+        },
+        {
+            "Date": "2022.01.19",
             "Time": "07:49:36",
             "Latitude": "40.4698",
             "Longitude": "29.2070",
@@ -407,6 +434,24 @@
         },
         {
             "Date": "2022.01.18",
+            "Time": "08:14:36",
+            "Latitude": "36.4422",
+            "Longitude": "28.7082",
+            "Depth": "18.0",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.18",
+            "Time": "07:40:12",
+            "Latitude": "40.1670",
+            "Longitude": "24.4643",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.18",
             "Time": "07:30:10",
             "Latitude": "39.0165",
             "Longitude": "26.5200",
@@ -425,6 +470,15 @@
         },
         {
             "Date": "2022.01.18",
+            "Time": "06:22:10",
+            "Latitude": "38.7660",
+            "Longitude": "35.7730",
+            "Depth": "8.0",
+            "ML": "1.1",
+            "Location": "AGIRNAS MELIKGAZI KAYSERI"
+        },
+        {
+            "Date": "2022.01.18",
             "Time": "06:20:46",
             "Latitude": "36.4895",
             "Longitude": "27.1487",
@@ -440,6 +494,15 @@
             "Depth": "4.5",
             "ML": "2.3",
             "Location": "ASAGIDEMIRCI KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.01.18",
+            "Time": "05:51:27",
+            "Latitude": "36.9705",
+            "Longitude": "28.0310",
+            "Depth": "24.2",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
         },
         {
             "Date": "2022.01.18",
@@ -506,6 +569,15 @@
         },
         {
             "Date": "2022.01.18",
+            "Time": "04:47:04",
+            "Latitude": "35.9240",
+            "Longitude": "29.4450",
+            "Depth": "13.7",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.18",
             "Time": "04:36:40",
             "Latitude": "39.0317",
             "Longitude": "35.9143",
@@ -521,6 +593,15 @@
             "Depth": "5.3",
             "ML": "1.8",
             "Location": "SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.01.18",
+            "Time": "04:21:32",
+            "Latitude": "36.6803",
+            "Longitude": "28.8047",
+            "Depth": "30.9",
+            "ML": "1.3",
+            "Location": "KAPIKARGIN DALAMAN MUGLA"
         },
         {
             "Date": "2022.01.18",
@@ -4328,87 +4409,6 @@
             "Depth": "21.5",
             "ML": "1.1",
             "Location": "DONERTAS VARTO MUS"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "06:27:27",
-            "Latitude": "37.2275",
-            "Longitude": "34.6447",
-            "Depth": "4.8",
-            "ML": "1.2",
-            "Location": "OLUKKOYAGI TARSUS MERSIN"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "06:24:18",
-            "Latitude": "36.4700",
-            "Longitude": "25.5657",
-            "Depth": "8.3",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "06:09:22",
-            "Latitude": "40.5238",
-            "Longitude": "34.5637",
-            "Depth": "18.8",
-            "ML": "1.5",
-            "Location": "HACIAHMETDERESI CORUM"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "05:27:54",
-            "Latitude": "37.2607",
-            "Longitude": "27.7860",
-            "Depth": "11.0",
-            "ML": "1.5",
-            "Location": "BECIN MILAS MUGLA"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "04:57:17",
-            "Latitude": "39.2113",
-            "Longitude": "39.3810",
-            "Depth": "4.7",
-            "ML": "1.4",
-            "Location": "EGRIYAMAC TUNCELI"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "03:58:41",
-            "Latitude": "37.5883",
-            "Longitude": "29.4415",
-            "Depth": "29.2",
-            "ML": "0.7",
-            "Location": "YESILYUVA ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "03:27:13",
-            "Latitude": "36.9812",
-            "Longitude": "30.3047",
-            "Depth": "76.7",
-            "ML": "2.0",
-            "Location": "YAZIR KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "03:17:14",
-            "Latitude": "38.9605",
-            "Longitude": "26.0512",
-            "Depth": "5.5",
-            "ML": "2.6",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "02:45:55",
-            "Latitude": "39.0757",
-            "Longitude": "27.5327",
-            "Depth": "5.9",
-            "ML": "1.1",
-            "Location": "EGNEZ SOMA MANISA"
         }
     ]
 }
