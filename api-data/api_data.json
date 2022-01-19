@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.19",
+            "Time": "14:37:54",
+            "Latitude": "38.9503",
+            "Longitude": "35.7613",
+            "Depth": "16.7",
+            "ML": "1.7",
+            "Location": "KARDESLER BUNYAN KAYSERI"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "13:06:42",
+            "Latitude": "40.6392",
+            "Longitude": "36.6920",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "AGCAALAN ERBAA TOKAT"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "13:03:12",
+            "Latitude": "37.4180",
+            "Longitude": "28.6773",
+            "Depth": "23.3",
+            "ML": "1.7",
+            "Location": "KUNAR KALE DENIZLI"
+        },
+        {
+            "Date": "2022.01.19",
             "Time": "12:59:22",
             "Latitude": "38.9950",
             "Longitude": "35.9595",
@@ -4382,33 +4409,6 @@
             "Depth": "5.7",
             "ML": "2.1",
             "Location": "KURUCAOVA DOGANSEHIR MALATYA"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "09:53:08",
-            "Latitude": "37.1428",
-            "Longitude": "34.8308",
-            "Depth": "6.9",
-            "ML": "2.4",
-            "Location": "CIFTLIKKOY TARSUS MERSIN"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "08:56:46",
-            "Latitude": "37.9528",
-            "Longitude": "27.2155",
-            "Depth": "17.0",
-            "ML": "1.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "08:52:45",
-            "Latitude": "37.8285",
-            "Longitude": "29.3570",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "DERECIFTLIK HONAZ DENIZLI"
         }
     ]
 }
