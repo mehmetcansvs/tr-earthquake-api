@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.19",
+            "Time": "22:26:06",
+            "Latitude": "40.7008",
+            "Longitude": "30.6332",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "YUVALIK AKYAZI SAKARYA"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "22:04:14",
+            "Latitude": "38.9443",
+            "Longitude": "26.1387",
+            "Depth": "10.5",
+            "ML": "2.2",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "21:35:18",
+            "Latitude": "40.6122",
+            "Longitude": "44.9290",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.01.19",
             "Time": "20:31:01",
             "Latitude": "37.0452",
             "Longitude": "28.3548",
@@ -4391,24 +4418,6 @@
             "Depth": "87.6",
             "ML": "2.3",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.11",
-            "Time": "04:46:51",
-            "Latitude": "36.4760",
-            "Longitude": "27.1135",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.11",
-            "Time": "04:07:51",
-            "Latitude": "35.2890",
-            "Longitude": "32.1068",
-            "Depth": "36.3",
-            "ML": "6.2",
-            "Location": "AKDENIZ REVIZE TASLI KANGAL SIVAS"
         }
     ]
 }
