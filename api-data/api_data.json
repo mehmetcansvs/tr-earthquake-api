@@ -2,12 +2,84 @@
     "data": [
         {
             "Date": "2022.01.19",
+            "Time": "16:43:25",
+            "Latitude": "40.9350",
+            "Longitude": "42.1070",
+            "Depth": "27.9",
+            "ML": "1.7",
+            "Location": "KARAKOCLAR OLUR ERZURUM"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "16:25:21",
+            "Latitude": "38.9955",
+            "Longitude": "36.0618",
+            "Depth": "13.2",
+            "ML": "1.5",
+            "Location": "ALEVKISLA AKKISLA KAYSERI"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "15:14:30",
+            "Latitude": "36.5778",
+            "Longitude": "28.8035",
+            "Depth": "25.7",
+            "ML": "1.6",
+            "Location": "DALAMAN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.01.19",
             "Time": "14:37:54",
             "Latitude": "38.9503",
             "Longitude": "35.7613",
             "Depth": "16.7",
             "ML": "1.7",
             "Location": "KARDESLER BUNYAN KAYSERI"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "14:30:07",
+            "Latitude": "39.2123",
+            "Longitude": "42.9263",
+            "Depth": "38.2",
+            "ML": "1.8",
+            "Location": "AKCAOREN PATNOS AGRI"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "14:25:42",
+            "Latitude": "39.1608",
+            "Longitude": "29.0415",
+            "Depth": "10.7",
+            "ML": "1.6",
+            "Location": "AHLATLICESME SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "14:14:32",
+            "Latitude": "39.0300",
+            "Longitude": "35.8640",
+            "Depth": "8.9",
+            "ML": "1.6",
+            "Location": "PALAS SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "13:53:43",
+            "Latitude": "39.0808",
+            "Longitude": "41.3393",
+            "Depth": "7.4",
+            "ML": "1.8",
+            "Location": "HAKSEVER VARTO MUS"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "13:41:20",
+            "Latitude": "37.7337",
+            "Longitude": "27.0443",
+            "Depth": "27.5",
+            "ML": "1.7",
+            "Location": "SISAM ADASI EGE DENIZI"
         },
         {
             "Date": "2022.01.19",
@@ -493,6 +565,15 @@
             "Longitude": "35.8938",
             "Depth": "5.3",
             "ML": "2.8",
+            "Location": "PALAS SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.01.18",
+            "Time": "09:20:44",
+            "Latitude": "39.0475",
+            "Longitude": "35.9202",
+            "Depth": "11.3",
+            "ML": "1.6",
             "Location": "PALAS SARIOGLAN KAYSERI"
         },
         {
@@ -4328,87 +4409,6 @@
             "Depth": "10.6",
             "ML": "2.3",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "19:05:17",
-            "Latitude": "37.8728",
-            "Longitude": "27.0852",
-            "Depth": "4.1",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "18:55:11",
-            "Latitude": "37.5513",
-            "Longitude": "26.8837",
-            "Depth": "10.0",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "18:21:22",
-            "Latitude": "39.1595",
-            "Longitude": "40.5423",
-            "Depth": "8.4",
-            "ML": "2.0",
-            "Location": "ERLER ADAKLI BINGOL"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "18:00:57",
-            "Latitude": "39.1762",
-            "Longitude": "40.5677",
-            "Depth": "5.0",
-            "ML": "3.3",
-            "Location": "ERLER ADAKLI BINGOL"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "17:32:05",
-            "Latitude": "39.0017",
-            "Longitude": "26.5362",
-            "Depth": "10.5",
-            "ML": "2.4",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "17:05:22",
-            "Latitude": "37.8867",
-            "Longitude": "26.5628",
-            "Depth": "1.5",
-            "ML": "2.2",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "13:38:50",
-            "Latitude": "37.8610",
-            "Longitude": "29.3310",
-            "Depth": "7.1",
-            "ML": "1.7",
-            "Location": "KARAPINAR CAL DENIZLI"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "10:19:13",
-            "Latitude": "37.9462",
-            "Longitude": "27.1767",
-            "Depth": "13.3",
-            "ML": "1.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "10:17:03",
-            "Latitude": "37.9942",
-            "Longitude": "38.0962",
-            "Depth": "5.7",
-            "ML": "2.1",
-            "Location": "KURUCAOVA DOGANSEHIR MALATYA"
         }
     ]
 }
