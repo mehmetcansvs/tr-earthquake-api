@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.19",
+            "Time": "18:48:46",
+            "Latitude": "40.0665",
+            "Longitude": "24.3143",
+            "Depth": "15.2",
+            "ML": "3.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "18:36:06",
+            "Latitude": "40.0605",
+            "Longitude": "24.3292",
+            "Depth": "15.8",
+            "ML": "2.6",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.19",
+            "Time": "16:50:34",
+            "Latitude": "39.6730",
+            "Longitude": "28.4122",
+            "Depth": "5.2",
+            "ML": "1.5",
+            "Location": "ERICEK DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.01.19",
             "Time": "16:43:25",
             "Latitude": "40.9350",
             "Longitude": "42.1070",
@@ -4382,33 +4409,6 @@
             "Depth": "10.9",
             "ML": "1.7",
             "Location": "AKYARLAR BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "20:48:21",
-            "Latitude": "39.5483",
-            "Longitude": "25.9778",
-            "Depth": "7.5",
-            "ML": "2.9",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "20:10:15",
-            "Latitude": "39.8642",
-            "Longitude": "40.2085",
-            "Depth": "13.9",
-            "ML": "2.6",
-            "Location": "CADIRKAYA TERCAN ERZINCAN"
-        },
-        {
-            "Date": "2022.01.10",
-            "Time": "19:15:39",
-            "Latitude": "36.5933",
-            "Longitude": "25.2832",
-            "Depth": "10.6",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
         }
     ]
 }
