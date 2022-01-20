@@ -1,6 +1,78 @@
 {
     "data": [
         {
+            "Date": "2022.01.21",
+            "Time": "00:35:29",
+            "Latitude": "37.1067",
+            "Longitude": "28.8807",
+            "Depth": "3.3",
+            "ML": "0.9",
+            "Location": "OTMANLAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "00:34:40",
+            "Latitude": "39.0838",
+            "Longitude": "27.8302",
+            "Depth": "6.4",
+            "ML": "1.5",
+            "Location": "ILYASLAR KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "00:23:23",
+            "Latitude": "37.5647",
+            "Longitude": "29.4812",
+            "Depth": "16.6",
+            "ML": "1.0",
+            "Location": "YESILYUVA ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "00:21:48",
+            "Latitude": "39.5068",
+            "Longitude": "44.8342",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "TURKIYE IRAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "23:48:32",
+            "Latitude": "42.1172",
+            "Longitude": "30.6753",
+            "Depth": "46.6",
+            "ML": "2.6",
+            "Location": "KARADENIZ"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "23:41:07",
+            "Latitude": "38.2405",
+            "Longitude": "30.8340",
+            "Depth": "10.0",
+            "ML": "1.2",
+            "Location": "TASEVI YALVAC ISPARTA"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "23:27:02",
+            "Latitude": "36.5572",
+            "Longitude": "28.7280",
+            "Depth": "23.2",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "23:23:46",
+            "Latitude": "38.1092",
+            "Longitude": "27.0502",
+            "Depth": "5.3",
+            "ML": "1.5",
+            "Location": "KELER MENDERES IZMIR"
+        },
+        {
             "Date": "2022.01.20",
             "Time": "22:54:17",
             "Latitude": "38.7107",
@@ -4355,78 +4427,6 @@
             "Depth": "29.9",
             "ML": "1.2",
             "Location": "OLCULU KARS"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "11:54:27",
-            "Latitude": "38.7107",
-            "Longitude": "40.0208",
-            "Depth": "9.3",
-            "ML": "2.1",
-            "Location": "ORGULU PALU ELAZIG"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "10:31:58",
-            "Latitude": "39.0182",
-            "Longitude": "43.8720",
-            "Depth": "9.1",
-            "ML": "1.9",
-            "Location": "SARIHARMAN CALDIRAN VAN"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "10:27:10",
-            "Latitude": "38.9905",
-            "Longitude": "37.3243",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "KARAOREN GURUN SIVAS"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "10:14:12",
-            "Latitude": "38.1275",
-            "Longitude": "32.6185",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "CANDIR SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "09:18:20",
-            "Latitude": "36.8372",
-            "Longitude": "27.9977",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "08:46:10",
-            "Latitude": "36.8448",
-            "Longitude": "28.0820",
-            "Depth": "14.2",
-            "ML": "1.6",
-            "Location": "HISARONU MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "08:33:02",
-            "Latitude": "36.8803",
-            "Longitude": "28.0713",
-            "Depth": "4.9",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "07:51:26",
-            "Latitude": "36.8967",
-            "Longitude": "28.0328",
-            "Depth": "13.7",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
