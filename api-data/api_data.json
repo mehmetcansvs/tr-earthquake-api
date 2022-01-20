@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.20",
+            "Time": "10:45:52",
+            "Latitude": "36.3813",
+            "Longitude": "28.4032",
+            "Depth": "29.1",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "10:39:20",
+            "Latitude": "37.8593",
+            "Longitude": "29.3067",
+            "Depth": "10.2",
+            "ML": "2.2",
+            "Location": "GURLEYIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "09:45:06",
+            "Latitude": "37.6462",
+            "Longitude": "27.2953",
+            "Depth": "7.3",
+            "ML": "2.5",
+            "Location": "GULLUBAHCE SOKE AYDIN"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "09:11:22",
+            "Latitude": "37.8748",
+            "Longitude": "27.2942",
+            "Depth": "16.8",
+            "ML": "1.0",
+            "Location": "KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.01.20",
             "Time": "08:27:57",
             "Latitude": "37.9437",
             "Longitude": "27.1903",
@@ -4391,42 +4427,6 @@
             "Depth": "6.6",
             "ML": "3.3",
             "Location": "IRAK"
-        },
-        {
-            "Date": "2022.01.11",
-            "Time": "19:44:42",
-            "Latitude": "34.9238",
-            "Longitude": "32.0050",
-            "Depth": "14.1",
-            "ML": "2.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.11",
-            "Time": "19:39:07",
-            "Latitude": "38.4625",
-            "Longitude": "31.8858",
-            "Depth": "5.1",
-            "ML": "1.4",
-            "Location": "GOLYAKA ILGIN KONYA"
-        },
-        {
-            "Date": "2022.01.11",
-            "Time": "19:29:47",
-            "Latitude": "36.5722",
-            "Longitude": "25.4428",
-            "Depth": "18.4",
-            "ML": "3.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.11",
-            "Time": "19:21:30",
-            "Latitude": "36.9505",
-            "Longitude": "27.9908",
-            "Depth": "9.5",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
