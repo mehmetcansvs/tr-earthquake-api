@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.20",
+            "Time": "11:04:57",
+            "Latitude": "38.3057",
+            "Longitude": "37.1543",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "DOGAN ELBISTAN KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "10:49:08",
+            "Latitude": "39.0527",
+            "Longitude": "37.5583",
+            "Depth": "6.3",
+            "ML": "1.5",
+            "Location": "MESCIT KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.01.20",
             "Time": "10:45:52",
             "Latitude": "36.3813",
             "Longitude": "28.4032",
@@ -4409,24 +4427,6 @@
             "Depth": "8.1",
             "ML": "1.8",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.11",
-            "Time": "21:19:08",
-            "Latitude": "37.8585",
-            "Longitude": "28.9873",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "BEYLERBEYI SARAYKOY DENIZLI"
-        },
-        {
-            "Date": "2022.01.11",
-            "Time": "20:29:12",
-            "Latitude": "36.6473",
-            "Longitude": "42.9257",
-            "Depth": "6.6",
-            "ML": "3.3",
-            "Location": "IRAK"
         }
     ]
 }
