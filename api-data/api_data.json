@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.01.20",
+            "Time": "20:26:18",
+            "Latitude": "37.0445",
+            "Longitude": "28.4052",
+            "Depth": "6.9",
+            "ML": "2.3",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "20:21:02",
+            "Latitude": "36.9745",
+            "Longitude": "27.6215",
+            "Depth": "6.9",
+            "ML": "2.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "20:16:23",
+            "Latitude": "40.0422",
+            "Longitude": "24.2502",
+            "Depth": "21.0",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "20:10:39",
+            "Latitude": "38.1028",
+            "Longitude": "28.2358",
+            "Depth": "11.5",
+            "ML": "1.2",
+            "Location": "YUKARIAKTEPE BEYDAG IZMIR"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "19:59:54",
+            "Latitude": "39.3820",
+            "Longitude": "27.7197",
+            "Depth": "8.4",
+            "ML": "2.1",
+            "Location": "ASAGIDANISMENT SAVASTEPE BALIKESIR"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "19:43:16",
+            "Latitude": "39.6310",
+            "Longitude": "38.7775",
+            "Depth": "8.5",
+            "ML": "2.2",
+            "Location": "DIKYAMAC KEMAH ERZINCAN"
+        },
+        {
+            "Date": "2022.01.20",
             "Time": "18:52:28",
             "Latitude": "39.8532",
             "Longitude": "24.2962",
@@ -4372,60 +4426,6 @@
             "Longitude": "28.0535",
             "Depth": "1.9",
             "ML": "2.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "06:01:46",
-            "Latitude": "36.8425",
-            "Longitude": "28.0177",
-            "Depth": "10.1",
-            "ML": "3.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "05:34:23",
-            "Latitude": "36.8270",
-            "Longitude": "28.0338",
-            "Depth": "13.0",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "05:23:18",
-            "Latitude": "36.8528",
-            "Longitude": "28.0628",
-            "Depth": "12.1",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "05:19:35",
-            "Latitude": "36.8458",
-            "Longitude": "28.0535",
-            "Depth": "13.5",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "04:38:14",
-            "Latitude": "37.0413",
-            "Longitude": "28.4985",
-            "Depth": "10.9",
-            "ML": "1.8",
-            "Location": "KARABOGURTLEN ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "04:36:33",
-            "Latitude": "36.8470",
-            "Longitude": "28.0557",
-            "Depth": "4.7",
-            "ML": "1.5",
             "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
