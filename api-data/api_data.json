@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.20",
+            "Time": "18:52:28",
+            "Latitude": "39.8532",
+            "Longitude": "24.2962",
+            "Depth": "10.0",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.20",
+            "Time": "17:59:23",
+            "Latitude": "38.9525",
+            "Longitude": "41.4627",
+            "Depth": "8.8",
+            "ML": "2.6",
+            "Location": "YUCETEPE MUS"
+        },
+        {
+            "Date": "2022.01.20",
             "Time": "16:22:36",
             "Latitude": "37.2978",
             "Longitude": "36.2503",
@@ -4409,24 +4427,6 @@
             "Depth": "4.7",
             "ML": "1.5",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "04:32:22",
-            "Latitude": "36.8363",
-            "Longitude": "28.0410",
-            "Depth": "15.0",
-            "ML": "2.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.12",
-            "Time": "03:57:49",
-            "Latitude": "37.1235",
-            "Longitude": "29.6605",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "UYLUPINAR GOLHISAR BURDUR"
         }
     ]
 }
