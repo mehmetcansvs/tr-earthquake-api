@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.21",
+            "Time": "10:16:57",
+            "Latitude": "37.6828",
+            "Longitude": "25.9220",
+            "Depth": "31.6",
+            "ML": "2.3",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "09:51:13",
+            "Latitude": "36.6042",
+            "Longitude": "28.7438",
+            "Depth": "14.1",
+            "ML": "1.7",
+            "Location": "DALAMAN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.01.21",
             "Time": "08:46:12",
             "Latitude": "39.3065",
             "Longitude": "40.2020",
@@ -4418,24 +4436,6 @@
             "Depth": "5.0",
             "ML": "4.3",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "01:06:36",
-            "Latitude": "39.0902",
-            "Longitude": "39.9608",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "CAYAGZI YAYLADERE BINGOL"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "00:24:57",
-            "Latitude": "39.1705",
-            "Longitude": "41.2908",
-            "Depth": "11.5",
-            "ML": "1.6",
-            "Location": "CAYCATI VARTO MUS"
         }
     ]
 }
