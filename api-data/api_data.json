@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.21",
+            "Time": "12:20:46",
+            "Latitude": "40.1210",
+            "Longitude": "27.1923",
+            "Depth": "12.6",
+            "ML": "2.1",
+            "Location": "KATRANCI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "11:42:05",
+            "Latitude": "37.9458",
+            "Longitude": "37.0755",
+            "Depth": "8.8",
+            "ML": "1.2",
+            "Location": "ATAKOY EKINOZU KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "11:41:58",
+            "Latitude": "36.9630",
+            "Longitude": "27.6580",
+            "Depth": "7.6",
+            "ML": "2.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.21",
             "Time": "10:16:57",
             "Latitude": "37.6828",
             "Longitude": "25.9220",
@@ -17,6 +44,15 @@
             "Depth": "14.1",
             "ML": "1.7",
             "Location": "DALAMAN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "09:16:08",
+            "Latitude": "38.5528",
+            "Longitude": "40.6138",
+            "Depth": "14.3",
+            "ML": "1.8",
+            "Location": "SAYDAMLI LICE DIYARBAKIR"
         },
         {
             "Date": "2022.01.21",
@@ -4399,42 +4435,6 @@
             "Longitude": "26.0112",
             "Depth": "5.0",
             "ML": "2.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "02:45:33",
-            "Latitude": "39.3327",
-            "Longitude": "40.7937",
-            "Depth": "12.0",
-            "ML": "2.1",
-            "Location": "KAYNARPINAR KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "02:37:29",
-            "Latitude": "37.6895",
-            "Longitude": "26.0110",
-            "Depth": "3.6",
-            "ML": "2.7",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "02:33:00",
-            "Latitude": "37.6843",
-            "Longitude": "26.0255",
-            "Depth": "3.7",
-            "ML": "2.2",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "01:54:23",
-            "Latitude": "37.6963",
-            "Longitude": "25.9970",
-            "Depth": "5.0",
-            "ML": "4.3",
             "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
