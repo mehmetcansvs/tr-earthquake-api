@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.01.22",
+            "Time": "00:45:04",
+            "Latitude": "40.2672",
+            "Longitude": "37.8387",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "ISKENDERSEYH KOYULHISAR SIVAS"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "23:28:37",
+            "Latitude": "39.4607",
+            "Longitude": "28.1065",
+            "Depth": "22.7",
+            "ML": "1.6",
+            "Location": "KADIKOY BIGADIC BALIKESIR"
+        },
+        {
             "Date": "2022.01.21",
             "Time": "21:21:30",
             "Latitude": "40.4735",
@@ -4418,24 +4436,6 @@
             "Depth": "10.9",
             "ML": "1.6",
             "Location": "SINCI KAZIMKARABEKIR KARAMAN"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "08:34:05",
-            "Latitude": "37.6735",
-            "Longitude": "26.0488",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "08:33:30",
-            "Latitude": "37.6007",
-            "Longitude": "29.3992",
-            "Depth": "3.5",
-            "ML": "1.4",
-            "Location": "YESILYUVA ACIPAYAM DENIZLI"
         }
     ]
 }
