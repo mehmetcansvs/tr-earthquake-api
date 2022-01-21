@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.01.21",
+            "Time": "16:09:08",
+            "Latitude": "35.3765",
+            "Longitude": "25.3138",
+            "Depth": "6.2",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.21",
             "Time": "15:03:54",
             "Latitude": "36.1478",
             "Longitude": "33.5093",
             "Depth": "0.0",
             "ML": "1.0",
             "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "15:02:02",
+            "Latitude": "38.7232",
+            "Longitude": "43.3383",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "GOLLU VAN"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "14:46:24",
+            "Latitude": "38.6132",
+            "Longitude": "31.2640",
+            "Depth": "7.8",
+            "ML": "2.0",
+            "Location": "TASKOPRU SULTANDAGI AFYONKARAHISAR"
         },
         {
             "Date": "2022.01.21",
@@ -4409,33 +4436,6 @@
             "Depth": "5.0",
             "ML": "2.1",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "05:59:52",
-            "Latitude": "37.7073",
-            "Longitude": "25.9308",
-            "Depth": "13.1",
-            "ML": "2.4",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "05:13:17",
-            "Latitude": "38.4938",
-            "Longitude": "39.1935",
-            "Depth": "23.6",
-            "ML": "1.8",
-            "Location": "KAVAKTEPE ELAZIG"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "03:10:54",
-            "Latitude": "38.6280",
-            "Longitude": "43.1460",
-            "Depth": "5.8",
-            "ML": "2.2",
-            "Location": "MOLLAKASIM VAN"
         }
     ]
 }
