@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.21",
+            "Time": "21:21:30",
+            "Latitude": "40.4735",
+            "Longitude": "29.1597",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "GEMLIK BURSA"
+        },
+        {
+            "Date": "2022.01.21",
             "Time": "20:02:08",
             "Latitude": "35.0747",
             "Longitude": "33.5863",
@@ -4427,15 +4436,6 @@
             "Depth": "3.5",
             "ML": "1.4",
             "Location": "YESILYUVA ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "08:08:48",
-            "Latitude": "35.0540",
-            "Longitude": "27.0472",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
