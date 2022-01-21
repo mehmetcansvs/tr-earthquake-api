@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.21",
+            "Time": "15:03:54",
+            "Latitude": "36.1478",
+            "Longitude": "33.5093",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "12:52:05",
+            "Latitude": "39.8162",
+            "Longitude": "38.8988",
+            "Depth": "6.7",
+            "ML": "1.9",
+            "Location": "KIRBULAK REFAHIYE ERZINCAN"
+        },
+        {
+            "Date": "2022.01.21",
             "Time": "12:20:46",
             "Latitude": "40.1210",
             "Longitude": "27.1923",
@@ -4418,24 +4436,6 @@
             "Depth": "5.8",
             "ML": "2.2",
             "Location": "MOLLAKASIM VAN"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "03:00:50",
-            "Latitude": "38.6388",
-            "Longitude": "43.1493",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "MOLLAKASIM VAN"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "02:46:27",
-            "Latitude": "37.7167",
-            "Longitude": "26.0112",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
