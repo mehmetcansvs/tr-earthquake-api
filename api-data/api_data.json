@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.21",
+            "Time": "18:46:41",
+            "Latitude": "36.3405",
+            "Longitude": "29.4087",
+            "Depth": "22.8",
+            "ML": "2.3",
+            "Location": "UZUMLU KAS ANTALYA"
+        },
+        {
+            "Date": "2022.01.21",
             "Time": "16:09:08",
             "Latitude": "35.3765",
             "Longitude": "25.3138",
@@ -4427,15 +4436,6 @@
             "Depth": "15.2",
             "ML": "2.0",
             "Location": "KUBAS MANYAS BALIKESIR"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "06:12:53",
-            "Latitude": "37.6663",
-            "Longitude": "26.0085",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
