@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.21",
+            "Time": "20:02:08",
+            "Latitude": "35.0747",
+            "Longitude": "33.5863",
+            "Depth": "40.3",
+            "ML": "3.4",
+            "Location": "KIBRIS DEGIRMENLIK"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "19:39:35",
+            "Latitude": "38.4623",
+            "Longitude": "39.1580",
+            "Depth": "1.6",
+            "ML": "3.5",
+            "Location": "KAVALLI SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.01.21",
             "Time": "18:46:41",
             "Latitude": "36.3405",
             "Longitude": "29.4087",
@@ -4418,24 +4436,6 @@
             "Depth": "5.0",
             "ML": "2.9",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "07:47:53",
-            "Latitude": "37.7155",
-            "Longitude": "25.9828",
-            "Depth": "10.4",
-            "ML": "3.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "06:18:17",
-            "Latitude": "40.0255",
-            "Longitude": "27.8967",
-            "Depth": "15.2",
-            "ML": "2.0",
-            "Location": "KUBAS MANYAS BALIKESIR"
         }
     ]
 }
