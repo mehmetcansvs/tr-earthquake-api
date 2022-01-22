@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.22",
+            "Time": "20:10:08",
+            "Latitude": "38.9748",
+            "Longitude": "42.0192",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "GUNBATMAZ BULANIK MUS"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "18:31:02",
+            "Latitude": "39.8588",
+            "Longitude": "41.2953",
+            "Depth": "6.0",
+            "ML": "1.9",
+            "Location": "PALANDOKEN ERZURUM"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "17:28:48",
+            "Latitude": "37.3428",
+            "Longitude": "36.1295",
+            "Depth": "22.8",
+            "ML": "1.6",
+            "Location": "MEZRETLI KADIRLI OSMANIYE"
+        },
+        {
+            "Date": "2022.01.22",
             "Time": "15:55:02",
             "Latitude": "37.0553",
             "Longitude": "28.5752",
@@ -4391,33 +4418,6 @@
             "Depth": "5.0",
             "ML": "2.2",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "10:03:17",
-            "Latitude": "37.7122",
-            "Longitude": "26.0160",
-            "Depth": "5.1",
-            "ML": "2.3",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "09:25:24",
-            "Latitude": "37.7105",
-            "Longitude": "26.0175",
-            "Depth": "15.0",
-            "ML": "3.9",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "09:18:55",
-            "Latitude": "38.9548",
-            "Longitude": "26.1235",
-            "Depth": "13.7",
-            "ML": "2.0",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         }
     ]
 }
