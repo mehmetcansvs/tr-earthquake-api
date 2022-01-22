@@ -20,6 +20,15 @@
         },
         {
             "Date": "2022.01.22",
+            "Time": "15:38:30",
+            "Latitude": "36.7975",
+            "Longitude": "28.2995",
+            "Depth": "10.9",
+            "ML": "1.4",
+            "Location": "ADAKOY MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.01.22",
             "Time": "15:31:09",
             "Latitude": "39.1773",
             "Longitude": "40.5130",
@@ -4409,15 +4418,6 @@
             "Depth": "13.7",
             "ML": "2.0",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "09:14:56",
-            "Latitude": "36.4770",
-            "Longitude": "27.1103",
-            "Depth": "2.5",
-            "ML": "2.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
