@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.22",
+            "Time": "15:55:02",
+            "Latitude": "37.0553",
+            "Longitude": "28.5752",
+            "Depth": "18.1",
+            "ML": "1.7",
+            "Location": "BALCILAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "15:46:34",
+            "Latitude": "36.4650",
+            "Longitude": "30.8477",
+            "Depth": "17.4",
+            "ML": "1.8",
+            "Location": "ANTALYA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "15:31:09",
+            "Latitude": "39.1773",
+            "Longitude": "40.5130",
+            "Depth": "19.3",
+            "ML": "1.7",
+            "Location": "KOZLU ADAKLI BINGOL"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "15:07:24",
+            "Latitude": "37.1630",
+            "Longitude": "35.7210",
+            "Depth": "15.4",
+            "ML": "1.1",
+            "Location": "DUMLU CEYHAN ADANA"
+        },
+        {
+            "Date": "2022.01.22",
             "Time": "14:28:47",
             "Latitude": "40.3250",
             "Longitude": "29.7697",
@@ -17,6 +53,15 @@
             "Depth": "6.6",
             "ML": "3.7",
             "Location": "AFSAR YENISEHIR BURSA"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "14:10:48",
+            "Latitude": "39.6398",
+            "Longitude": "29.2237",
+            "Depth": "4.4",
+            "ML": "1.9",
+            "Location": "BALATDANISMENT HARMANCIK BURSA"
         },
         {
             "Date": "2022.01.22",
@@ -4373,51 +4418,6 @@
             "Depth": "2.5",
             "ML": "2.8",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "09:14:40",
-            "Latitude": "38.8565",
-            "Longitude": "43.5573",
-            "Depth": "5.0",
-            "ML": "3.1",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "08:27:48",
-            "Latitude": "37.0370",
-            "Longitude": "29.4687",
-            "Depth": "22.6",
-            "ML": "1.6",
-            "Location": "ASMALI GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "07:06:34",
-            "Latitude": "37.3510",
-            "Longitude": "36.9728",
-            "Depth": "8.2",
-            "ML": "1.1",
-            "Location": "KADIOGLUCIFTLIGI TURKOGLU KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "06:23:42",
-            "Latitude": "37.0770",
-            "Longitude": "28.3625",
-            "Depth": "4.9",
-            "ML": "1.5",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "05:49:04",
-            "Latitude": "36.1575",
-            "Longitude": "27.7233",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "RODOS ADASI AKDENIZ"
         }
     ]
 }
