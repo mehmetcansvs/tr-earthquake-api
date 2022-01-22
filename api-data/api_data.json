@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.01.22",
+            "Time": "14:28:47",
+            "Latitude": "40.3250",
+            "Longitude": "29.7697",
+            "Depth": "19.0",
+            "ML": "1.8",
+            "Location": "TERZILER YENISEHIR BURSA"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "14:13:45",
+            "Latitude": "40.2995",
+            "Longitude": "29.6787",
+            "Depth": "6.6",
+            "ML": "3.7",
+            "Location": "AFSAR YENISEHIR BURSA"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "14:01:39",
+            "Latitude": "38.3935",
+            "Longitude": "39.0672",
+            "Depth": "8.9",
+            "ML": "1.7",
+            "Location": "KALABA SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "13:51:42",
+            "Latitude": "36.1323",
+            "Longitude": "33.5752",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "BUYUKECELI GULNAR MERSIN REVIZE YAYLALIOZU BALA ANKARA"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "13:10:56",
+            "Latitude": "38.0057",
+            "Longitude": "34.8113",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "GUMUSLER NIGDE"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "13:03:45",
+            "Latitude": "37.7590",
+            "Longitude": "34.4577",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "SESLIKAYA BOR NIGDE"
+        },
+        {
+            "Date": "2022.01.22",
             "Time": "12:50:03",
             "Latitude": "37.3035",
             "Longitude": "29.6120",
@@ -119,12 +173,12 @@
         },
         {
             "Date": "2022.01.22",
-            "Time": "03:32:49",
-            "Latitude": "35.3855",
-            "Longitude": "25.3323",
-            "Depth": "19.9",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
+            "Time": "05:27:11",
+            "Latitude": "38.5315",
+            "Longitude": "38.9595",
+            "Depth": "5.3",
+            "ML": "1.9",
+            "Location": "BULUTLU ELAZIG REVIZE GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.01.22",
@@ -4364,78 +4418,6 @@
             "Depth": "5.0",
             "ML": "1.8",
             "Location": "RODOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "05:40:35",
-            "Latitude": "38.5583",
-            "Longitude": "39.6107",
-            "Depth": "9.7",
-            "ML": "1.2",
-            "Location": "KARTALDERE MADEN ELAZIG"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "04:39:07",
-            "Latitude": "37.0720",
-            "Longitude": "29.1617",
-            "Depth": "25.8",
-            "ML": "1.5",
-            "Location": "SUCATI ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "01:46:32",
-            "Latitude": "38.6033",
-            "Longitude": "39.3432",
-            "Depth": "14.9",
-            "ML": "2.1",
-            "Location": "YUNLUCE ELAZIG"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "23:30:49",
-            "Latitude": "40.6732",
-            "Longitude": "29.1600",
-            "Depth": "16.0",
-            "ML": "1.6",
-            "Location": "KORU CINARCIK YALOVA"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "23:16:18",
-            "Latitude": "37.2318",
-            "Longitude": "30.4608",
-            "Depth": "2.8",
-            "ML": "2.4",
-            "Location": "BADEMAGACI DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "23:10:10",
-            "Latitude": "34.4225",
-            "Longitude": "33.1637",
-            "Depth": "13.8",
-            "ML": "2.4",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "22:56:42",
-            "Latitude": "36.4512",
-            "Longitude": "27.1003",
-            "Depth": "9.5",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "22:04:00",
-            "Latitude": "38.3475",
-            "Longitude": "28.3605",
-            "Depth": "12.0",
-            "ML": "1.4",
-            "Location": "HORZUMSAZDERE ALASEHIR MANISA"
         }
     ]
 }
