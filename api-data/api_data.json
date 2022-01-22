@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.22",
+            "Time": "22:42:01",
+            "Latitude": "39.5455",
+            "Longitude": "28.7607",
+            "Depth": "8.4",
+            "ML": "2.6",
+            "Location": "HONDULAR DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "22:31:43",
+            "Latitude": "39.5798",
+            "Longitude": "28.8107",
+            "Depth": "7.2",
+            "ML": "5.0",
+            "Location": "AYVACIK DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "22:12:16",
+            "Latitude": "39.0265",
+            "Longitude": "40.0285",
+            "Depth": "7.2",
+            "ML": "1.8",
+            "Location": "GUNDEGDI KARAKOCAN ELAZIG"
+        },
+        {
+            "Date": "2022.01.22",
             "Time": "20:10:08",
             "Latitude": "38.9748",
             "Longitude": "42.0192",
@@ -4400,24 +4427,6 @@
             "Depth": "9.7",
             "ML": "2.2",
             "Location": "UCYOL DUZCE"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "10:17:36",
-            "Latitude": "37.6788",
-            "Longitude": "26.0477",
-            "Depth": "4.2",
-            "ML": "3.3",
-            "Location": "ONIKI ADALAR AKDENIZ REVIZE ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "10:05:41",
-            "Latitude": "37.6898",
-            "Longitude": "26.0173",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
