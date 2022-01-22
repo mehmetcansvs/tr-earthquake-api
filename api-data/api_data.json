@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.01.22",
+            "Time": "06:26:03",
+            "Latitude": "39.3427",
+            "Longitude": "27.8520",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "KOZDEREGUVEN BALIKESIR"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "05:46:23",
+            "Latitude": "41.1655",
+            "Longitude": "43.9868",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "05:45:18",
+            "Latitude": "37.6890",
+            "Longitude": "26.0012",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "05:32:55",
+            "Latitude": "39.5273",
+            "Longitude": "24.1355",
+            "Depth": "28.8",
+            "ML": "4.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "03:32:49",
+            "Latitude": "35.3855",
+            "Longitude": "25.3323",
+            "Depth": "19.9",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.22",
             "Time": "03:09:39",
             "Latitude": "39.0823",
             "Longitude": "28.3548",
@@ -4391,51 +4436,6 @@
             "Depth": "9.4",
             "ML": "2.3",
             "Location": "ALINOLUK ANDIRIN KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "15:25:11",
-            "Latitude": "38.2442",
-            "Longitude": "38.9607",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "BAYIRKOY PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "14:52:34",
-            "Latitude": "36.9552",
-            "Longitude": "29.0363",
-            "Depth": "5.1",
-            "ML": "1.7",
-            "Location": "GURLEYIK DALAMAN MUGLA"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "14:10:38",
-            "Latitude": "37.9123",
-            "Longitude": "26.9843",
-            "Depth": "4.5",
-            "ML": "2.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "13:44:47",
-            "Latitude": "39.7563",
-            "Longitude": "38.9910",
-            "Depth": "8.2",
-            "ML": "1.8",
-            "Location": "DEDEOGLU KEMAH ERZINCAN"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "13:41:40",
-            "Latitude": "40.3257",
-            "Longitude": "35.9123",
-            "Depth": "9.0",
-            "ML": "1.5",
-            "Location": "BAYIRKOY ZILE TOKAT"
         }
     ]
 }
