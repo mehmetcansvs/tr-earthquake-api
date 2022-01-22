@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.22",
+            "Time": "10:40:18",
+            "Latitude": "39.3412",
+            "Longitude": "42.1800",
+            "Depth": "21.9",
+            "ML": "1.7",
+            "Location": "KARAGOZ KARACOBAN ERZURUM"
+        },
+        {
+            "Date": "2022.01.22",
             "Time": "08:13:07",
             "Latitude": "37.8618",
             "Longitude": "26.3702",
@@ -4427,15 +4436,6 @@
             "Depth": "7.5",
             "ML": "2.4",
             "Location": "TURKIYE IRAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "18:52:21",
-            "Latitude": "37.1617",
-            "Longitude": "28.6630",
-            "Depth": "8.1",
-            "ML": "2.0",
-            "Location": "TURGUT ULA MUGLA"
         }
     ]
 }
