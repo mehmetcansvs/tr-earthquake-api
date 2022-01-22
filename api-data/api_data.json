@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.01.22",
+            "Time": "08:13:07",
+            "Latitude": "37.8618",
+            "Longitude": "26.3702",
+            "Depth": "5.3",
+            "ML": "2.3",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "08:05:00",
+            "Latitude": "39.8450",
+            "Longitude": "41.0190",
+            "Depth": "16.2",
+            "ML": "1.9",
+            "Location": "DEREBOGAZ PALANDOKEN ERZURUM"
+        },
+        {
+            "Date": "2022.01.22",
             "Time": "06:26:03",
             "Latitude": "39.3427",
             "Longitude": "27.8520",
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "KOZDEREGUVEN BALIKESIR"
+        },
+        {
+            "Date": "2022.01.22",
+            "Time": "05:52:08",
+            "Latitude": "37.6702",
+            "Longitude": "26.0397",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
         },
         {
             "Date": "2022.01.22",
@@ -4409,33 +4436,6 @@
             "Depth": "8.1",
             "ML": "2.0",
             "Location": "TURGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "17:55:34",
-            "Latitude": "36.1557",
-            "Longitude": "33.5223",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "17:08:06",
-            "Latitude": "36.3537",
-            "Longitude": "29.5035",
-            "Depth": "5.1",
-            "ML": "1.4",
-            "Location": "CAMLIOVA KAS ANTALYA"
-        },
-        {
-            "Date": "2022.01.13",
-            "Time": "16:07:33",
-            "Latitude": "37.5385",
-            "Longitude": "36.3535",
-            "Depth": "9.4",
-            "ML": "2.3",
-            "Location": "ALINOLUK ANDIRIN KAHRAMANMARAS"
         }
     ]
 }
