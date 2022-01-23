@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.23",
+            "Time": "09:37:10",
+            "Latitude": "38.8782",
+            "Longitude": "27.9073",
+            "Depth": "7.3",
+            "ML": "2.2",
+            "Location": "SEGIRDIM AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.01.23",
             "Time": "08:30:38",
             "Latitude": "37.8540",
             "Longitude": "32.0233",
@@ -4418,15 +4427,6 @@
             "Depth": "17.2",
             "ML": "2.6",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "14:17:21",
-            "Latitude": "39.5907",
-            "Longitude": "35.3333",
-            "Depth": "25.9",
-            "ML": "1.4",
-            "Location": "INEVI SARIKAYA YOZGAT"
         }
     ]
 }
