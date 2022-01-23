@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.23",
+            "Time": "15:02:21",
+            "Latitude": "38.9852",
+            "Longitude": "42.0423",
+            "Depth": "11.3",
+            "ML": "2.6",
+            "Location": "GUNBATMAZ BULANIK MUS"
+        },
+        {
+            "Date": "2022.01.23",
+            "Time": "15:01:50",
+            "Latitude": "39.4150",
+            "Longitude": "26.2732",
+            "Depth": "14.8",
+            "ML": "2.2",
+            "Location": "EDREMIT KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.23",
             "Time": "09:37:10",
             "Latitude": "38.8782",
             "Longitude": "27.9073",
@@ -4409,24 +4427,6 @@
             "Depth": "7.0",
             "ML": "2.0",
             "Location": "MILLI PARK KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "15:14:54",
-            "Latitude": "38.5012",
-            "Longitude": "39.2708",
-            "Depth": "16.8",
-            "ML": "1.8",
-            "Location": "BEKCITEPE SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "14:40:54",
-            "Latitude": "38.2473",
-            "Longitude": "24.2075",
-            "Depth": "17.2",
-            "ML": "2.6",
-            "Location": "YUNANISTAN"
         }
     ]
 }
