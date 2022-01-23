@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.23",
+            "Time": "08:30:38",
+            "Latitude": "37.8540",
+            "Longitude": "32.0233",
+            "Depth": "8.7",
+            "ML": "1.8",
+            "Location": "SAGLIK MERAM KONYA"
+        },
+        {
+            "Date": "2022.01.23",
             "Time": "06:26:50",
             "Latitude": "36.9573",
             "Longitude": "28.3090",
@@ -4418,15 +4427,6 @@
             "Depth": "25.9",
             "ML": "1.4",
             "Location": "INEVI SARIKAYA YOZGAT"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "13:50:41",
-            "Latitude": "37.8163",
-            "Longitude": "37.8950",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "TUT ADIYAMAN"
         }
     ]
 }
