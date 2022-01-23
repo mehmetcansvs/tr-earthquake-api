@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.23",
+            "Time": "04:37:32",
+            "Latitude": "38.9505",
+            "Longitude": "41.4743",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "YESILOVA MUS"
+        },
+        {
+            "Date": "2022.01.23",
+            "Time": "04:29:13",
+            "Latitude": "39.9708",
+            "Longitude": "39.7798",
+            "Depth": "13.4",
+            "ML": "1.8",
+            "Location": "DAMLICA DEMIROZU BAYBURT"
+        },
+        {
+            "Date": "2022.01.23",
+            "Time": "03:45:20",
+            "Latitude": "34.5482",
+            "Longitude": "26.3205",
+            "Depth": "60.2",
+            "ML": "4.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.23",
+            "Time": "03:26:31",
+            "Latitude": "39.9510",
+            "Longitude": "25.5740",
+            "Depth": "7.7",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.23",
             "Time": "02:43:51",
             "Latitude": "37.0130",
             "Longitude": "28.6805",
@@ -4391,42 +4427,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "CAYBASI MERZIFON AMASYA"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "13:14:25",
-            "Latitude": "37.6755",
-            "Longitude": "26.0507",
-            "Depth": "5.3",
-            "ML": "3.3",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "13:09:05",
-            "Latitude": "37.6910",
-            "Longitude": "25.8830",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "12:15:04",
-            "Latitude": "35.7803",
-            "Longitude": "25.4042",
-            "Depth": "8.9",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "12:00:53",
-            "Latitude": "40.6413",
-            "Longitude": "32.7515",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "YAGCIHUSEYIN KIZILCAHAMAM ANKARA"
         }
     ]
 }
