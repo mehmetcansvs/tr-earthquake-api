@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.23",
+            "Time": "19:17:56",
+            "Latitude": "37.0463",
+            "Longitude": "28.3958",
+            "Depth": "14.0",
+            "ML": "1.5",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.23",
             "Time": "18:21:20",
             "Latitude": "37.8085",
             "Longitude": "29.6620",
@@ -4418,15 +4427,6 @@
             "Depth": "5.1",
             "ML": "2.1",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "15:19:01",
-            "Latitude": "38.4877",
-            "Longitude": "39.2095",
-            "Depth": "2.6",
-            "ML": "2.4",
-            "Location": "DEDEYOLU SIVRICE ELAZIG"
         }
     ]
 }
