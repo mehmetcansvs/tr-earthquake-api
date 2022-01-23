@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.01.24",
+            "Time": "00:32:55",
+            "Latitude": "39.3058",
+            "Longitude": "41.7988",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "YELPIZ HINIS ERZURUM"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "00:28:34",
+            "Latitude": "37.2520",
+            "Longitude": "30.7848",
+            "Depth": "17.4",
+            "ML": "1.5",
+            "Location": "KIZILSEKI BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.01.23",
+            "Time": "23:55:12",
+            "Latitude": "36.4958",
+            "Longitude": "27.1585",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.23",
+            "Time": "23:47:27",
+            "Latitude": "37.5560",
+            "Longitude": "36.1255",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "YESILYAYLA SUMBAS OSMANIYE"
+        },
+        {
+            "Date": "2022.01.23",
+            "Time": "23:07:04",
+            "Latitude": "37.7567",
+            "Longitude": "25.6907",
+            "Depth": "27.9",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
             "Date": "2022.01.23",
             "Time": "19:17:56",
             "Latitude": "37.0463",
@@ -4382,51 +4427,6 @@
             "Depth": "5.9",
             "ML": "2.4",
             "Location": "DOGAN MUGLA"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "18:45:29",
-            "Latitude": "39.0555",
-            "Longitude": "26.1407",
-            "Depth": "9.2",
-            "ML": "1.7",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "18:40:00",
-            "Latitude": "38.2588",
-            "Longitude": "38.7602",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "BALPINARI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "18:29:00",
-            "Latitude": "37.6565",
-            "Longitude": "27.0168",
-            "Depth": "7.2",
-            "ML": "1.8",
-            "Location": "MILLI PARK KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "17:47:35",
-            "Latitude": "37.1255",
-            "Longitude": "28.0598",
-            "Depth": "3.1",
-            "ML": "2.3",
-            "Location": "DAGPINAR MUGLA"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "15:49:41",
-            "Latitude": "38.9463",
-            "Longitude": "26.1487",
-            "Depth": "5.1",
-            "ML": "2.1",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         }
     ]
 }
