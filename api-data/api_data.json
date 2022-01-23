@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.23",
+            "Time": "06:26:50",
+            "Latitude": "36.9573",
+            "Longitude": "28.3090",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "CETIBELI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.01.23",
+            "Time": "06:22:17",
+            "Latitude": "36.9565",
+            "Longitude": "28.2733",
+            "Depth": "7.6",
+            "ML": "2.9",
+            "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.01.23",
+            "Time": "05:57:46",
+            "Latitude": "40.7227",
+            "Longitude": "31.3915",
+            "Depth": "8.9",
+            "ML": "1.6",
+            "Location": "YESILTEPE KAYNASLI DUZCE"
+        },
+        {
+            "Date": "2022.01.23",
             "Time": "04:37:32",
             "Latitude": "38.9505",
             "Longitude": "41.4743",
@@ -4400,33 +4427,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "TUT ADIYAMAN"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "13:34:43",
-            "Latitude": "35.6975",
-            "Longitude": "32.0635",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "13:29:59",
-            "Latitude": "37.5572",
-            "Longitude": "29.4795",
-            "Depth": "21.0",
-            "ML": "1.3",
-            "Location": "KARAHUYUKAFSARI ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "13:20:11",
-            "Latitude": "40.6963",
-            "Longitude": "35.3775",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "CAYBASI MERZIFON AMASYA"
         }
     ]
 }
