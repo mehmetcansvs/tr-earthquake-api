@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.24",
+            "Time": "09:36:14",
+            "Latitude": "39.3567",
+            "Longitude": "40.9247",
+            "Depth": "6.7",
+            "ML": "1.7",
+            "Location": "ILIPINAR KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "09:14:19",
+            "Latitude": "37.0200",
+            "Longitude": "37.6378",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "GUNBULUR SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "09:00:50",
+            "Latitude": "38.4545",
+            "Longitude": "36.7603",
+            "Depth": "3.6",
+            "ML": "1.4",
+            "Location": "DAGLICA AFSIN KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.01.24",
             "Time": "08:39:23",
             "Latitude": "38.3820",
             "Longitude": "38.7673",
@@ -890,6 +917,15 @@
             "Depth": "7.6",
             "ML": "2.8",
             "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "11:09:44",
+            "Latitude": "40.1993",
+            "Longitude": "31.8207",
+            "Depth": "9.0",
+            "ML": "2.2",
+            "Location": "CAKILOBA BEYPAZARI ANKARA"
         },
         {
             "Date": "2022.01.21",
@@ -4400,42 +4436,6 @@
             "Depth": "5.2",
             "ML": "1.2",
             "Location": "BUYUKCANLI TOMARZA KAYSERI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "23:40:18",
-            "Latitude": "37.6940",
-            "Longitude": "27.1165",
-            "Depth": "18.2",
-            "ML": "1.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "23:34:59",
-            "Latitude": "37.8272",
-            "Longitude": "26.9628",
-            "Depth": "5.4",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "23:19:12",
-            "Latitude": "39.8432",
-            "Longitude": "27.2067",
-            "Depth": "17.8",
-            "ML": "1.6",
-            "Location": "RESADIYE YENICE CANAKKALE"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "23:17:18",
-            "Latitude": "34.9363",
-            "Longitude": "31.9853",
-            "Depth": "6.7",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
         }
     ]
 }
