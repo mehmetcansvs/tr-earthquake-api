@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.24",
+            "Time": "16:42:27",
+            "Latitude": "35.2897",
+            "Longitude": "25.3145",
+            "Depth": "7.0",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "16:00:19",
+            "Latitude": "38.9590",
+            "Longitude": "41.0995",
+            "Depth": "9.7",
+            "ML": "1.9",
+            "Location": "ARAKONAK SOLHAN BINGOL"
+        },
+        {
+            "Date": "2022.01.24",
             "Time": "14:41:06",
             "Latitude": "37.6750",
             "Longitude": "25.9812",
@@ -4418,24 +4436,6 @@
             "Depth": "10.7",
             "ML": "1.6",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "04:50:11",
-            "Latitude": "37.8505",
-            "Longitude": "26.8718",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "04:38:41",
-            "Latitude": "36.0492",
-            "Longitude": "30.2562",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "FINIKE ACIKLARI ANTALYA AKDENIZ"
         }
     ]
 }
