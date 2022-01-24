@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.01.24",
+            "Time": "14:41:06",
+            "Latitude": "37.6750",
+            "Longitude": "25.9812",
+            "Depth": "1.2",
+            "ML": "2.5",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "13:30:21",
+            "Latitude": "39.8813",
+            "Longitude": "40.8007",
+            "Depth": "22.0",
+            "ML": "1.6",
+            "Location": "ABDALCIK ASKALE ERZURUM"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "13:12:51",
+            "Latitude": "36.4473",
+            "Longitude": "25.5113",
+            "Depth": "5.0",
+            "ML": "3.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "12:39:23",
+            "Latitude": "37.9210",
+            "Longitude": "29.8253",
+            "Depth": "10.5",
+            "ML": "1.8",
+            "Location": "YUKARIYENICE DAZKIRI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "12:26:45",
+            "Latitude": "36.4892",
+            "Longitude": "29.8225",
+            "Depth": "14.7",
+            "ML": "1.3",
+            "Location": "DOGANTAS KAS ANTALYA"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "12:21:37",
+            "Latitude": "37.0630",
+            "Longitude": "28.4593",
+            "Depth": "15.4",
+            "ML": "1.3",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.24",
             "Time": "09:49:44",
             "Latitude": "36.9897",
             "Longitude": "35.2997",
@@ -4382,60 +4436,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "FINIKE ACIKLARI ANTALYA AKDENIZ"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "04:37:36",
-            "Latitude": "39.0588",
-            "Longitude": "43.0985",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "CIMEN ERCIS VAN"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "04:24:25",
-            "Latitude": "38.2778",
-            "Longitude": "27.3097",
-            "Depth": "5.4",
-            "ML": "1.2",
-            "Location": "DEMIRCI TORBALI IZMIR"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "04:02:24",
-            "Latitude": "38.6308",
-            "Longitude": "43.1440",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "MOLLAKASIM VAN"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "03:51:50",
-            "Latitude": "37.8893",
-            "Longitude": "26.9392",
-            "Depth": "6.4",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "03:42:02",
-            "Latitude": "37.7022",
-            "Longitude": "27.0182",
-            "Depth": "16.9",
-            "ML": "1.5",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "03:19:57",
-            "Latitude": "37.7008",
-            "Longitude": "27.0103",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "SISAM ADASI EGE DENIZI"
         }
     ]
 }
