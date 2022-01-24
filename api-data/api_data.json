@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.24",
+            "Time": "05:54:04",
+            "Latitude": "36.1082",
+            "Longitude": "29.7610",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "SAHILKILINCLI KAS ANTALYA"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "05:24:54",
+            "Latitude": "41.2077",
+            "Longitude": "23.5943",
+            "Depth": "7.5",
+            "ML": "3.1",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "05:11:21",
+            "Latitude": "35.5983",
+            "Longitude": "26.6025",
+            "Depth": "24.4",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "03:26:52",
+            "Latitude": "37.7317",
+            "Longitude": "26.0978",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.24",
             "Time": "02:54:59",
             "Latitude": "38.5522",
             "Longitude": "39.4133",
@@ -26,6 +62,24 @@
             "Depth": "5.4",
             "ML": "1.2",
             "Location": "YUZOREN HORASAN ERZURUM"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "01:46:12",
+            "Latitude": "35.0938",
+            "Longitude": "25.1895",
+            "Depth": "15.0",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "01:42:23",
+            "Latitude": "40.1428",
+            "Longitude": "24.4138",
+            "Depth": "1.9",
+            "ML": "1.8",
+            "Location": "YUNANISTAN"
         },
         {
             "Date": "2022.01.24",
@@ -4382,51 +4436,6 @@
             "Depth": "6.9",
             "ML": "1.5",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "22:04:19",
-            "Latitude": "37.7037",
-            "Longitude": "27.0227",
-            "Depth": "16.1",
-            "ML": "1.7",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "21:51:53",
-            "Latitude": "38.0477",
-            "Longitude": "29.3248",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "KAPLANLAR CAL DENIZLI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "21:46:46",
-            "Latitude": "38.0402",
-            "Longitude": "29.3140",
-            "Depth": "9.9",
-            "ML": "1.7",
-            "Location": "KAPLANLAR CAL DENIZLI REVIZE ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "21:22:46",
-            "Latitude": "37.3633",
-            "Longitude": "29.4012",
-            "Depth": "6.4",
-            "ML": "2.2",
-            "Location": "KOKE ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "21:22:04",
-            "Latitude": "37.7043",
-            "Longitude": "25.9928",
-            "Depth": "12.8",
-            "ML": "2.2",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
