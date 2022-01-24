@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.24",
+            "Time": "09:49:44",
+            "Latitude": "36.9897",
+            "Longitude": "35.2997",
+            "Depth": "9.0",
+            "ML": "2.0",
+            "Location": "SEYHAN ADANA"
+        },
+        {
+            "Date": "2022.01.24",
             "Time": "09:36:14",
             "Latitude": "39.3567",
             "Longitude": "40.9247",
@@ -794,12 +803,30 @@
         },
         {
             "Date": "2022.01.22",
+            "Time": "00:48:48",
+            "Latitude": "40.2055",
+            "Longitude": "37.7170",
+            "Depth": "2.4",
+            "ML": "2.0",
+            "Location": "YIKILGAN ZARA SIVAS"
+        },
+        {
+            "Date": "2022.01.22",
             "Time": "00:45:04",
             "Latitude": "40.2672",
             "Longitude": "37.8387",
             "Depth": "5.0",
             "ML": "3.3",
             "Location": "ISKENDERSEYH KOYULHISAR SIVAS"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "23:59:41",
+            "Latitude": "35.1882",
+            "Longitude": "25.3252",
+            "Depth": "10.8",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.01.21",
@@ -818,6 +845,15 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "GEMLIK BURSA"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "20:43:30",
+            "Latitude": "35.3327",
+            "Longitude": "25.2427",
+            "Depth": "3.3",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.01.21",
@@ -845,6 +881,15 @@
             "Depth": "22.8",
             "ML": "2.3",
             "Location": "UZUMLU KAS ANTALYA"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "17:18:48",
+            "Latitude": "35.6037",
+            "Longitude": "26.1937",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.01.21",
@@ -1052,6 +1097,15 @@
             "Depth": "5.4",
             "ML": "1.3",
             "Location": "PALAS SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.01.21",
+            "Time": "04:18:49",
+            "Latitude": "35.1530",
+            "Longitude": "25.2975",
+            "Depth": "12.6",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.01.21",
@@ -4382,60 +4436,6 @@
             "Depth": "5.4",
             "ML": "1.8",
             "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "02:58:57",
-            "Latitude": "37.6232",
-            "Longitude": "29.4253",
-            "Depth": "5.0",
-            "ML": "1.3",
-            "Location": "YESILYUVA ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "02:32:55",
-            "Latitude": "37.7052",
-            "Longitude": "26.0455",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "02:15:27",
-            "Latitude": "39.0563",
-            "Longitude": "43.1037",
-            "Depth": "5.0",
-            "ML": "3.3",
-            "Location": "CIMEN ERCIS VAN"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "00:33:30",
-            "Latitude": "38.9585",
-            "Longitude": "27.3443",
-            "Depth": "10.4",
-            "ML": "1.4",
-            "Location": "ORTULU KINIK IZMIR"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "00:27:16",
-            "Latitude": "39.4278",
-            "Longitude": "28.2407",
-            "Depth": "7.8",
-            "ML": "1.5",
-            "Location": "ILYASLAR BIGADIC BALIKESIR"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "23:45:30",
-            "Latitude": "38.3507",
-            "Longitude": "35.9780",
-            "Depth": "5.2",
-            "ML": "1.2",
-            "Location": "BUYUKCANLI TOMARZA KAYSERI"
         }
     ]
 }
