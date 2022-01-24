@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.01.24",
+            "Time": "02:54:59",
+            "Latitude": "38.5522",
+            "Longitude": "39.4133",
+            "Depth": "4.8",
+            "ML": "1.2",
+            "Location": "KARASAZ ELAZIG"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "02:46:45",
+            "Latitude": "36.9035",
+            "Longitude": "28.2745",
+            "Depth": "53.8",
+            "ML": "1.7",
+            "Location": "BELDIBI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "02:32:22",
+            "Latitude": "39.9715",
+            "Longitude": "42.1005",
+            "Depth": "5.4",
+            "ML": "1.2",
+            "Location": "YUZOREN HORASAN ERZURUM"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "01:18:18",
+            "Latitude": "40.8100",
+            "Longitude": "31.8648",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "ULUMESCIT BOLU"
+        },
+        {
+            "Date": "2022.01.24",
+            "Time": "01:13:57",
+            "Latitude": "39.2832",
+            "Longitude": "40.2135",
+            "Depth": "11.9",
+            "ML": "1.7",
+            "Location": "SABIRTASI KIGI BINGOL"
+        },
+        {
+            "Date": "2022.01.24",
             "Time": "00:32:55",
             "Latitude": "39.3058",
             "Longitude": "41.7988",
@@ -4382,51 +4427,6 @@
             "Depth": "12.8",
             "ML": "2.2",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "21:16:00",
-            "Latitude": "37.7138",
-            "Longitude": "25.9062",
-            "Depth": "6.6",
-            "ML": "2.9",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "21:03:22",
-            "Latitude": "37.5748",
-            "Longitude": "29.5062",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "DUDEN YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "21:02:26",
-            "Latitude": "38.9278",
-            "Longitude": "25.4977",
-            "Depth": "7.4",
-            "ML": "2.1",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "20:50:16",
-            "Latitude": "38.9018",
-            "Longitude": "25.5593",
-            "Depth": "4.3",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.14",
-            "Time": "20:18:19",
-            "Latitude": "37.1245",
-            "Longitude": "28.3495",
-            "Depth": "5.9",
-            "ML": "2.4",
-            "Location": "DOGAN MUGLA"
         }
     ]
 }
