@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.25",
+            "Time": "11:14:59",
+            "Latitude": "39.2650",
+            "Longitude": "29.3267",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "SEYHCAKIR HISARCIK KUTAHYA"
+        },
+        {
+            "Date": "2022.01.25",
             "Time": "10:28:10",
             "Latitude": "37.5352",
             "Longitude": "29.4608",
@@ -4445,15 +4454,6 @@
             "Depth": "7.4",
             "ML": "1.8",
             "Location": "INCEYER CEYHAN ADANA"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "00:47:51",
-            "Latitude": "39.2900",
-            "Longitude": "26.7648",
-            "Depth": "2.4",
-            "ML": "2.2",
-            "Location": "MUTLU AYVALIK BALIKESIR"
         }
     ]
 }
