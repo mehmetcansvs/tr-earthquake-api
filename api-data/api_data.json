@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.01.25",
+            "Time": "19:12:44",
+            "Latitude": "40.4517",
+            "Longitude": "30.6517",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "GOKCESARAY GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "18:54:07",
+            "Latitude": "37.0587",
+            "Longitude": "28.4583",
+            "Depth": "9.7",
+            "ML": "1.2",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "17:54:10",
+            "Latitude": "40.2318",
+            "Longitude": "30.7915",
+            "Depth": "7.7",
+            "ML": "1.5",
+            "Location": "HIMMETOGLU GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "17:40:54",
+            "Latitude": "37.2682",
+            "Longitude": "29.5567",
+            "Depth": "11.5",
+            "ML": "1.7",
+            "Location": "CAMKOY GOLHISAR BURDUR"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "17:35:46",
+            "Latitude": "36.8708",
+            "Longitude": "28.0327",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "17:25:50",
+            "Latitude": "39.5645",
+            "Longitude": "28.8225",
+            "Depth": "3.1",
+            "ML": "1.7",
+            "Location": "AYVACIK DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "17:23:32",
+            "Latitude": "37.4397",
+            "Longitude": "28.7408",
+            "Depth": "28.5",
+            "ML": "1.2",
+            "Location": "BELENKOY KALE DENIZLI"
+        },
+        {
+            "Date": "2022.01.25",
             "Time": "16:26:24",
             "Latitude": "37.1022",
             "Longitude": "31.0798",
@@ -4391,69 +4454,6 @@
             "Depth": "16.1",
             "ML": "2.0",
             "Location": "PEKECIK KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "13:20:25",
-            "Latitude": "38.9412",
-            "Longitude": "26.1502",
-            "Depth": "8.5",
-            "ML": "2.0",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "12:39:14",
-            "Latitude": "37.1290",
-            "Longitude": "28.3205",
-            "Depth": "3.4",
-            "ML": "1.4",
-            "Location": "YENICE MUGLA"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "10:59:38",
-            "Latitude": "39.2445",
-            "Longitude": "28.8225",
-            "Depth": "8.0",
-            "ML": "1.8",
-            "Location": "EFIR SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "10:30:49",
-            "Latitude": "39.2633",
-            "Longitude": "26.7638",
-            "Depth": "11.7",
-            "ML": "1.5",
-            "Location": "MUTLU AYVALIK BALIKESIR"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "09:50:06",
-            "Latitude": "40.1015",
-            "Longitude": "27.6217",
-            "Depth": "12.4",
-            "ML": "1.7",
-            "Location": "BAKIRLI GONEN BALIKESIR"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "09:01:16",
-            "Latitude": "38.5925",
-            "Longitude": "27.9993",
-            "Depth": "5.4",
-            "ML": "1.3",
-            "Location": "TEKELIOGLU SALIHLI MANISA"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "08:45:44",
-            "Latitude": "38.5873",
-            "Longitude": "27.9297",
-            "Depth": "5.2",
-            "ML": "0.7",
-            "Location": "KESTELLI AHMETLI MANISA"
         }
     ]
 }
