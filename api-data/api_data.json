@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.25",
+            "Time": "10:28:10",
+            "Latitude": "37.5352",
+            "Longitude": "29.4608",
+            "Depth": "1.5",
+            "ML": "1.4",
+            "Location": "KARAHUYUKAFSARI ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "10:02:13",
+            "Latitude": "34.1257",
+            "Longitude": "33.7220",
+            "Depth": "11.3",
+            "ML": "2.7",
+            "Location": "KIBRIS ACIKLARI GUNEY AKDENIZ"
+        },
+        {
+            "Date": "2022.01.25",
             "Time": "08:45:12",
             "Latitude": "36.2130",
             "Longitude": "31.2220",
@@ -4436,24 +4454,6 @@
             "Depth": "2.4",
             "ML": "2.2",
             "Location": "MUTLU AYVALIK BALIKESIR"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "00:41:38",
-            "Latitude": "36.9108",
-            "Longitude": "34.5332",
-            "Depth": "5.9",
-            "ML": "2.0",
-            "Location": "KERIMLER TOROSLAR MERSIN"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "23:22:17",
-            "Latitude": "36.9895",
-            "Longitude": "27.6272",
-            "Depth": "12.4",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
