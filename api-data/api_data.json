@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.25",
+            "Time": "05:08:14",
+            "Latitude": "39.2873",
+            "Longitude": "40.2282",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "ACIKGUNEY KIGI BINGOL"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "04:46:47",
+            "Latitude": "38.3253",
+            "Longitude": "30.3990",
+            "Depth": "11.8",
+            "ML": "1.2",
+            "Location": "SOGUCAK SANDIKLI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "02:49:50",
+            "Latitude": "40.3597",
+            "Longitude": "24.1825",
+            "Depth": "6.2",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "02:33:18",
+            "Latitude": "37.8132",
+            "Longitude": "26.6928",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.25",
             "Time": "01:07:57",
             "Latitude": "38.6807",
             "Longitude": "39.7292",
@@ -4418,42 +4454,6 @@
             "Depth": "5.4",
             "ML": "1.8",
             "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "17:43:28",
-            "Latitude": "36.3627",
-            "Longitude": "26.6920",
-            "Depth": "121.3",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "16:06:47",
-            "Latitude": "37.9492",
-            "Longitude": "44.4473",
-            "Depth": "9.0",
-            "ML": "3.0",
-            "Location": "TURKIYE IRAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "16:03:07",
-            "Latitude": "38.0903",
-            "Longitude": "44.5907",
-            "Depth": "5.0",
-            "ML": "4.1",
-            "Location": "TURKIYE IRAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "14:30:24",
-            "Latitude": "37.7430",
-            "Longitude": "26.0220",
-            "Depth": "3.0",
-            "ML": "2.4",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
