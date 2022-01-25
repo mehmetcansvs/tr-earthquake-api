@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.25",
+            "Time": "06:24:59",
+            "Latitude": "36.8378",
+            "Longitude": "27.8802",
+            "Depth": "16.1",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "06:20:34",
+            "Latitude": "40.0368",
+            "Longitude": "41.8490",
+            "Depth": "20.2",
+            "ML": "1.4",
+            "Location": "SAVATLI KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "05:25:26",
+            "Latitude": "41.5513",
+            "Longitude": "23.9472",
+            "Depth": "5.0",
+            "ML": "3.6",
+            "Location": "BULGARISTAN"
+        },
+        {
+            "Date": "2022.01.25",
             "Time": "05:08:14",
             "Latitude": "39.2873",
             "Longitude": "40.2282",
@@ -4427,33 +4454,6 @@
             "Depth": "8.3",
             "ML": "1.7",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "20:37:48",
-            "Latitude": "38.4548",
-            "Longitude": "39.1855",
-            "Depth": "11.9",
-            "ML": "1.5",
-            "Location": "DEDEYOLU SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "19:07:07",
-            "Latitude": "37.6683",
-            "Longitude": "35.8722",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "CULLUUSAGI KOZAN ADANA"
-        },
-        {
-            "Date": "2022.01.15",
-            "Time": "18:27:48",
-            "Latitude": "37.0573",
-            "Longitude": "28.3955",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "ATAKOY ULA MUGLA"
         }
     ]
 }
