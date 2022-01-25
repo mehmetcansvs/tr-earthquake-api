@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.01.25",
+            "Time": "16:26:24",
+            "Latitude": "37.1022",
+            "Longitude": "31.0798",
+            "Depth": "101.5",
+            "ML": "2.8",
+            "Location": "GOKCEPINAR SERIK ANTALYA"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "16:10:31",
+            "Latitude": "39.6432",
+            "Longitude": "32.9530",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "BEYNAM BALA ANKARA"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "16:08:48",
+            "Latitude": "35.0600",
+            "Longitude": "26.1035",
+            "Depth": "2.9",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "15:32:59",
+            "Latitude": "36.1578",
+            "Longitude": "33.5612",
+            "Depth": "0.0",
+            "ML": "0.2",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "15:00:38",
+            "Latitude": "39.0487",
+            "Longitude": "28.0132",
+            "Depth": "2.8",
+            "ML": "1.8",
+            "Location": "BASLAMIS AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.01.25",
             "Time": "14:40:50",
             "Latitude": "40.8717",
             "Longitude": "36.0092",
@@ -4409,51 +4454,6 @@
             "Depth": "5.2",
             "ML": "0.7",
             "Location": "KESTELLI AHMETLI MANISA"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "08:34:27",
-            "Latitude": "37.6618",
-            "Longitude": "26.0753",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "07:16:28",
-            "Latitude": "39.4983",
-            "Longitude": "27.6200",
-            "Depth": "9.7",
-            "ML": "2.9",
-            "Location": "EYERCI SAVASTEPE BALIKESIR"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "06:47:57",
-            "Latitude": "36.8283",
-            "Longitude": "28.0983",
-            "Depth": "58.8",
-            "ML": "1.9",
-            "Location": "HISARONU MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "06:15:28",
-            "Latitude": "39.0562",
-            "Longitude": "26.7727",
-            "Depth": "14.5",
-            "ML": "2.4",
-            "Location": "DIKILI ACIKLARI IZMIR EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "05:14:39",
-            "Latitude": "39.9285",
-            "Longitude": "41.8405",
-            "Depth": "17.1",
-            "ML": "1.4",
-            "Location": "EGIRMEZ KOPRUKOY ERZURUM"
         }
     ]
 }
