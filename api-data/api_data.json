@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.25",
+            "Time": "22:45:14",
+            "Latitude": "37.7380",
+            "Longitude": "25.8330",
+            "Depth": "21.5",
+            "ML": "2.5",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "22:15:03",
+            "Latitude": "37.7187",
+            "Longitude": "25.8755",
+            "Depth": "26.3",
+            "ML": "3.2",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "20:09:03",
+            "Latitude": "40.3178",
+            "Longitude": "27.0935",
+            "Depth": "19.0",
+            "ML": "1.5",
+            "Location": "BALIKLICESME BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.01.25",
             "Time": "19:46:21",
             "Latitude": "37.8847",
             "Longitude": "27.5573",
@@ -4425,33 +4452,6 @@
             "Latitude": "39.9638",
             "Longitude": "24.3232",
             "Depth": "7.2",
-            "ML": "2.7",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "15:05:04",
-            "Latitude": "39.8343",
-            "Longitude": "24.2813",
-            "Depth": "7.5",
-            "ML": "2.8",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "15:03:03",
-            "Latitude": "39.9545",
-            "Longitude": "24.2688",
-            "Depth": "10.1",
-            "ML": "2.7",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "14:59:04",
-            "Latitude": "39.9893",
-            "Longitude": "24.3988",
-            "Depth": "9.1",
             "ML": "2.7",
             "Location": "YUNANISTAN"
         }
