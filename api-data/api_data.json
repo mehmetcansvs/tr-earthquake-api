@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "Date": "2022.01.26",
+            "Time": "00:36:58",
+            "Latitude": "36.1000",
+            "Longitude": "27.2750",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "00:32:24",
+            "Latitude": "37.8778",
+            "Longitude": "32.1125",
+            "Depth": "11.4",
+            "ML": "1.4",
+            "Location": "KIZILOREN MERAM KONYA"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "23:46:17",
+            "Latitude": "37.7805",
+            "Longitude": "37.4163",
+            "Depth": "5.6",
+            "ML": "2.2",
+            "Location": "DUZBAG CAGLAYANCERIT KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "23:28:25",
+            "Latitude": "34.9700",
+            "Longitude": "26.7432",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "23:19:18",
+            "Latitude": "36.5302",
+            "Longitude": "27.1923",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "23:13:40",
+            "Latitude": "37.1288",
+            "Longitude": "29.4730",
+            "Depth": "28.6",
+            "ML": "0.9",
+            "Location": "GOLHISAR BURDUR"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "23:12:10",
+            "Latitude": "37.1010",
+            "Longitude": "32.1032",
+            "Depth": "9.0",
+            "ML": "1.7",
+            "Location": "KARACAHISAR BOZKIR KONYA"
+        },
+        {
             "Date": "2022.01.25",
             "Time": "22:45:14",
             "Latitude": "37.7380",
@@ -4390,69 +4453,6 @@
             "Longitude": "24.3925",
             "Depth": "11.6",
             "ML": "2.9",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "16:06:37",
-            "Latitude": "39.9933",
-            "Longitude": "24.2633",
-            "Depth": "18.0",
-            "ML": "2.3",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "16:05:28",
-            "Latitude": "40.0160",
-            "Longitude": "24.3757",
-            "Depth": "11.1",
-            "ML": "2.7",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "16:00:23",
-            "Latitude": "39.9767",
-            "Longitude": "24.3362",
-            "Depth": "10.6",
-            "ML": "3.3",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "15:52:59",
-            "Latitude": "39.8710",
-            "Longitude": "24.1453",
-            "Depth": "5.4",
-            "ML": "2.5",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "15:26:18",
-            "Latitude": "40.0428",
-            "Longitude": "24.3863",
-            "Depth": "8.5",
-            "ML": "4.7",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "15:17:54",
-            "Latitude": "40.0308",
-            "Longitude": "24.3508",
-            "Depth": "11.8",
-            "ML": "3.1",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "15:11:19",
-            "Latitude": "39.9638",
-            "Longitude": "24.3232",
-            "Depth": "7.2",
-            "ML": "2.7",
             "Location": "YUNANISTAN"
         }
     ]
