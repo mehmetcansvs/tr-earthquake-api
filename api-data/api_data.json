@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.25",
+            "Time": "14:40:50",
+            "Latitude": "40.8717",
+            "Longitude": "36.0092",
+            "Depth": "23.7",
+            "ML": "1.6",
+            "Location": "SOGANLI LADIK SAMSUN"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "14:07:08",
+            "Latitude": "36.6447",
+            "Longitude": "36.1855",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "DENIZCILER ISKENDERUN HATAY"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "13:48:58",
+            "Latitude": "37.0585",
+            "Longitude": "28.4145",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.25",
             "Time": "11:14:59",
             "Latitude": "39.2650",
             "Longitude": "29.3267",
@@ -4427,33 +4454,6 @@
             "Depth": "17.1",
             "ML": "1.4",
             "Location": "EGIRMEZ KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "03:08:50",
-            "Latitude": "39.9070",
-            "Longitude": "41.8755",
-            "Depth": "20.5",
-            "ML": "1.6",
-            "Location": "PEKECIK KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "02:03:57",
-            "Latitude": "39.8708",
-            "Longitude": "41.8285",
-            "Depth": "16.0",
-            "ML": "1.7",
-            "Location": "MARIFET KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "01:33:29",
-            "Latitude": "37.1930",
-            "Longitude": "35.8787",
-            "Depth": "7.4",
-            "ML": "1.8",
-            "Location": "INCEYER CEYHAN ADANA"
         }
     ]
 }
