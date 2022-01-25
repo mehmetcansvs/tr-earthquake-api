@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.25",
+            "Time": "19:46:21",
+            "Latitude": "37.8847",
+            "Longitude": "27.5573",
+            "Depth": "5.7",
+            "ML": "2.4",
+            "Location": "KIZILCAPINAR GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "19:34:14",
+            "Latitude": "35.0652",
+            "Longitude": "24.3957",
+            "Depth": "15.7",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.25",
             "Time": "19:12:44",
             "Latitude": "40.4517",
             "Longitude": "30.6517",
@@ -17,6 +35,15 @@
             "Depth": "9.7",
             "ML": "1.2",
             "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.25",
+            "Time": "18:30:50",
+            "Latitude": "38.6112",
+            "Longitude": "27.1225",
+            "Depth": "18.9",
+            "ML": "1.8",
+            "Location": "YAHSELLI MENEMEN IZMIR"
         },
         {
             "Date": "2022.01.25",
@@ -4427,33 +4454,6 @@
             "Depth": "9.1",
             "ML": "2.7",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "14:51:32",
-            "Latitude": "40.0538",
-            "Longitude": "24.3995",
-            "Depth": "8.3",
-            "ML": "3.8",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "14:48:05",
-            "Latitude": "40.0363",
-            "Longitude": "24.3413",
-            "Depth": "18.3",
-            "ML": "5.4",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "13:59:17",
-            "Latitude": "39.8752",
-            "Longitude": "41.8658",
-            "Depth": "16.1",
-            "ML": "2.0",
-            "Location": "PEKECIK KOPRUKOY ERZURUM"
         }
     ]
 }
