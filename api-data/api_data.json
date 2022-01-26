@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.26",
+            "Time": "20:19:11",
+            "Latitude": "39.5832",
+            "Longitude": "28.7920",
+            "Depth": "7.3",
+            "ML": "2.0",
+            "Location": "KIZILCADERE DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "19:56:40",
+            "Latitude": "38.5875",
+            "Longitude": "27.9962",
+            "Depth": "6.0",
+            "ML": "2.7",
+            "Location": "TEKELIOGLU SALIHLI MANISA"
+        },
+        {
+            "Date": "2022.01.26",
             "Time": "15:07:51",
             "Latitude": "37.5522",
             "Longitude": "29.4590",
@@ -4435,24 +4453,6 @@
             "Longitude": "25.2920",
             "Depth": "15.6",
             "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "23:11:25",
-            "Latitude": "35.3568",
-            "Longitude": "25.3285",
-            "Depth": "17.7",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "23:09:40",
-            "Latitude": "35.1860",
-            "Longitude": "25.2998",
-            "Depth": "4.2",
-            "ML": "2.2",
             "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
