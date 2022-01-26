@@ -2,6 +2,105 @@
     "data": [
         {
             "Date": "2022.01.26",
+            "Time": "03:35:11",
+            "Latitude": "41.6723",
+            "Longitude": "25.3363",
+            "Depth": "5.4",
+            "ML": "2.7",
+            "Location": "BULGARISTAN"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "03:05:13",
+            "Latitude": "36.3313",
+            "Longitude": "28.5830",
+            "Depth": "7.7",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "02:45:43",
+            "Latitude": "37.3887",
+            "Longitude": "33.1490",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "UCKUYU KARAMAN"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "02:33:07",
+            "Latitude": "37.6407",
+            "Longitude": "36.1432",
+            "Depth": "15.5",
+            "ML": "1.5",
+            "Location": "ESENLI SUMBAS OSMANIYE"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "02:22:39",
+            "Latitude": "38.9572",
+            "Longitude": "43.7950",
+            "Depth": "8.1",
+            "ML": "1.6",
+            "Location": "YAKINCAK MURADIYE VAN"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "02:21:50",
+            "Latitude": "38.8372",
+            "Longitude": "43.4857",
+            "Depth": "4.6",
+            "ML": "1.7",
+            "Location": "KARAAGAC VAN"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "02:17:06",
+            "Latitude": "39.8037",
+            "Longitude": "26.4983",
+            "Depth": "6.4",
+            "ML": "2.0",
+            "Location": "AHMETCELI BAYRAMIC CANAKKALE"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "01:59:30",
+            "Latitude": "39.7798",
+            "Longitude": "41.2703",
+            "Depth": "6.9",
+            "ML": "1.0",
+            "Location": "BASKOY CAT ERZURUM"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "01:55:07",
+            "Latitude": "38.8733",
+            "Longitude": "43.5515",
+            "Depth": "5.0",
+            "ML": "3.6",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "01:32:59",
+            "Latitude": "39.7775",
+            "Longitude": "26.4540",
+            "Depth": "22.3",
+            "ML": "1.7",
+            "Location": "CAVUSKOY BAYRAMIC CANAKKALE"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "01:08:53",
+            "Latitude": "37.6970",
+            "Longitude": "26.4042",
+            "Depth": "3.7",
+            "ML": "1.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.01.26",
             "Time": "00:36:58",
             "Latitude": "36.1000",
             "Longitude": "27.2750",
@@ -4354,105 +4453,6 @@
             "Longitude": "24.3410",
             "Depth": "2.5",
             "ML": "2.5",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "18:24:42",
-            "Latitude": "40.0133",
-            "Longitude": "24.3823",
-            "Depth": "10.7",
-            "ML": "2.6",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "17:43:49",
-            "Latitude": "40.9750",
-            "Longitude": "43.8642",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "SUNGUDERESI AKYAKA KARS"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "17:42:07",
-            "Latitude": "39.8942",
-            "Longitude": "24.3275",
-            "Depth": "1.4",
-            "ML": "3.0",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "17:40:25",
-            "Latitude": "40.0527",
-            "Longitude": "24.4158",
-            "Depth": "12.8",
-            "ML": "3.0",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "17:16:09",
-            "Latitude": "40.7768",
-            "Longitude": "31.4893",
-            "Depth": "8.9",
-            "ML": "2.0",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "17:13:26",
-            "Latitude": "40.0325",
-            "Longitude": "24.4248",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "16:39:25",
-            "Latitude": "40.0488",
-            "Longitude": "24.3840",
-            "Depth": "10.4",
-            "ML": "3.6",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "16:36:56",
-            "Latitude": "39.9935",
-            "Longitude": "24.3237",
-            "Depth": "14.4",
-            "ML": "3.8",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "16:33:45",
-            "Latitude": "39.6397",
-            "Longitude": "27.8228",
-            "Depth": "8.5",
-            "ML": "2.2",
-            "Location": "ORTAMANDIRA BALIKESIR"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "16:27:00",
-            "Latitude": "38.7075",
-            "Longitude": "37.9713",
-            "Depth": "1.5",
-            "ML": "2.3",
-            "Location": "IPEKYOLU HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "16:08:44",
-            "Latitude": "40.0567",
-            "Longitude": "24.3925",
-            "Depth": "11.6",
-            "ML": "2.9",
             "Location": "YUNANISTAN"
         }
     ]
