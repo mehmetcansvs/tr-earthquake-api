@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.26",
+            "Time": "06:15:55",
+            "Latitude": "37.4618",
+            "Longitude": "30.3770",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "KUSBABA BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "05:23:16",
+            "Latitude": "37.0450",
+            "Longitude": "28.3715",
+            "Depth": "1.9",
+            "ML": "0.8",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.26",
             "Time": "05:09:03",
             "Latitude": "35.6368",
             "Longitude": "27.5730",
@@ -4436,24 +4454,6 @@
             "Depth": "23.1",
             "ML": "2.5",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "20:44:35",
-            "Latitude": "37.5553",
-            "Longitude": "29.5080",
-            "Depth": "12.3",
-            "ML": "1.6",
-            "Location": "PINARBASI ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "20:14:26",
-            "Latitude": "39.5078",
-            "Longitude": "26.1803",
-            "Depth": "5.4",
-            "ML": "2.7",
-            "Location": "CAMKALABAK AYVACIK CANAKKALE"
         }
     ]
 }
