@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.26",
+            "Time": "08:54:57",
+            "Latitude": "39.3865",
+            "Longitude": "27.7070",
+            "Depth": "5.1",
+            "ML": "1.9",
+            "Location": "ASAGIDANISMENT SAVASTEPE BALIKESIR"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "07:42:09",
+            "Latitude": "38.2872",
+            "Longitude": "42.7690",
+            "Depth": "11.0",
+            "ML": "1.1",
+            "Location": "ANAKOY GEVAS VAN"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "07:28:59",
+            "Latitude": "39.1133",
+            "Longitude": "40.4570",
+            "Depth": "3.5",
+            "ML": "1.1",
+            "Location": "TEPEBASI BINGOL"
+        },
+        {
+            "Date": "2022.01.26",
             "Time": "06:15:55",
             "Latitude": "37.4618",
             "Longitude": "30.3770",
@@ -4427,33 +4454,6 @@
             "Depth": "11.2",
             "ML": "1.7",
             "Location": "MARIFET KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "21:29:27",
-            "Latitude": "40.0330",
-            "Longitude": "24.4198",
-            "Depth": "11.1",
-            "ML": "4.0",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "21:17:48",
-            "Latitude": "38.4705",
-            "Longitude": "39.1613",
-            "Depth": "1.1",
-            "ML": "3.3",
-            "Location": "KAVALLI SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "21:06:35",
-            "Latitude": "40.0843",
-            "Longitude": "24.3443",
-            "Depth": "23.1",
-            "ML": "2.5",
-            "Location": "YUNANISTAN"
         }
     ]
 }
