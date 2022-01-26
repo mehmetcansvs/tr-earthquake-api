@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.26",
+            "Time": "12:54:20",
+            "Latitude": "38.7712",
+            "Longitude": "26.9890",
+            "Depth": "2.3",
+            "ML": "1.6",
+            "Location": "SAMURLU ALIAGA IZMIR"
+        },
+        {
+            "Date": "2022.01.26",
             "Time": "12:03:39",
             "Latitude": "39.7602",
             "Longitude": "25.6680",
@@ -4444,15 +4453,6 @@
             "Longitude": "24.4263",
             "Depth": "9.9",
             "ML": "3.0",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "22:50:34",
-            "Latitude": "40.0262",
-            "Longitude": "24.3790",
-            "Depth": "11.0",
-            "ML": "3.1",
             "Location": "YUNANISTAN"
         }
     ]
