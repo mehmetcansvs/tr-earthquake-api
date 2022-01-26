@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.26",
+            "Time": "12:03:39",
+            "Latitude": "39.7602",
+            "Longitude": "25.6680",
+            "Depth": "4.2",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "11:47:06",
+            "Latitude": "40.7657",
+            "Longitude": "31.4810",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.01.26",
             "Time": "10:43:27",
             "Latitude": "36.6118",
             "Longitude": "33.9732",
@@ -4435,24 +4453,6 @@
             "Longitude": "24.3790",
             "Depth": "11.0",
             "ML": "3.1",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "22:45:06",
-            "Latitude": "40.0448",
-            "Longitude": "24.3558",
-            "Depth": "16.3",
-            "ML": "3.2",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "22:41:44",
-            "Latitude": "40.0342",
-            "Longitude": "24.3980",
-            "Depth": "9.8",
-            "ML": "3.7",
             "Location": "YUNANISTAN"
         }
     ]
