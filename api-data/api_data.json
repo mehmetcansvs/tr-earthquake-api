@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.26",
+            "Time": "05:09:03",
+            "Latitude": "35.6368",
+            "Longitude": "27.5730",
+            "Depth": "5.5",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "04:22:35",
+            "Latitude": "37.7460",
+            "Longitude": "30.8238",
+            "Depth": "6.1",
+            "ML": "1.9",
+            "Location": "EYUPLER EGIRDIR ISPARTA"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "04:13:42",
+            "Latitude": "37.3922",
+            "Longitude": "33.2397",
+            "Depth": "8.2",
+            "ML": "1.7",
+            "Location": "DINEK KARAMAN"
+        },
+        {
+            "Date": "2022.01.26",
+            "Time": "04:00:02",
+            "Latitude": "34.6983",
+            "Longitude": "26.1230",
+            "Depth": "9.0",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.26",
             "Time": "03:35:11",
             "Latitude": "41.6723",
             "Longitude": "25.3363",
@@ -4418,42 +4454,6 @@
             "Depth": "5.4",
             "ML": "2.7",
             "Location": "CAMKALABAK AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "19:06:22",
-            "Latitude": "37.7138",
-            "Longitude": "26.9223",
-            "Depth": "13.7",
-            "ML": "1.8",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "19:03:33",
-            "Latitude": "37.0600",
-            "Longitude": "28.3690",
-            "Depth": "4.1",
-            "ML": "2.0",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "18:57:38",
-            "Latitude": "38.9632",
-            "Longitude": "26.1380",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.16",
-            "Time": "18:56:03",
-            "Latitude": "40.1505",
-            "Longitude": "24.3410",
-            "Depth": "2.5",
-            "ML": "2.5",
-            "Location": "YUNANISTAN"
         }
     ]
 }
