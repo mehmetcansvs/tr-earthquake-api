@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.01.27",
+            "Time": "07:54:53",
+            "Latitude": "40.7997",
+            "Longitude": "28.9798",
+            "Depth": "5.2",
+            "ML": "1.8",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.01.27",
+            "Time": "07:51:56",
+            "Latitude": "38.8785",
+            "Longitude": "27.0595",
+            "Depth": "6.7",
+            "ML": "1.6",
+            "Location": "YENISAKRAN ALIAGA IZMIR"
+        },
+        {
+            "Date": "2022.01.27",
+            "Time": "07:35:19",
+            "Latitude": "36.8382",
+            "Longitude": "28.0153",
+            "Depth": "8.0",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.27",
+            "Time": "07:08:21",
+            "Latitude": "40.7392",
+            "Longitude": "31.5393",
+            "Depth": "13.1",
+            "ML": "1.4",
+            "Location": "KURKCULER BOLU"
+        },
+        {
+            "Date": "2022.01.27",
+            "Time": "06:39:58",
+            "Latitude": "39.1453",
+            "Longitude": "41.9780",
+            "Depth": "24.6",
+            "ML": "1.1",
+            "Location": "AKCAKAYNAK BULANIK MUS"
+        },
+        {
+            "Date": "2022.01.27",
             "Time": "06:34:36",
             "Latitude": "37.1343",
             "Longitude": "28.4352",
@@ -4409,51 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "DAMLAPINARI PALU ELAZIG"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "07:26:16",
-            "Latitude": "40.0538",
-            "Longitude": "32.0763",
-            "Depth": "10.6",
-            "ML": "2.5",
-            "Location": "AKKAYA AYAS ANKARA"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "07:02:58",
-            "Latitude": "38.7525",
-            "Longitude": "31.2200",
-            "Depth": "5.3",
-            "ML": "2.1",
-            "Location": "BUYUKKARABAG BOLVADIN AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "06:48:36",
-            "Latitude": "37.6220",
-            "Longitude": "26.9272",
-            "Depth": "13.0",
-            "ML": "2.4",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "04:29:51",
-            "Latitude": "37.6992",
-            "Longitude": "25.9898",
-            "Depth": "6.3",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "04:23:48",
-            "Latitude": "40.0523",
-            "Longitude": "23.8095",
-            "Depth": "46.2",
-            "ML": "2.6",
-            "Location": "YUNANISTAN"
         }
     ]
 }
