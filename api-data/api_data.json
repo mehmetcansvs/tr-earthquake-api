@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.27",
+            "Time": "04:56:50",
+            "Latitude": "40.1672",
+            "Longitude": "24.5133",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.27",
+            "Time": "04:09:04",
+            "Latitude": "37.8735",
+            "Longitude": "30.5985",
+            "Depth": "13.6",
+            "ML": "1.7",
+            "Location": "KULEONU ISPARTA"
+        },
+        {
+            "Date": "2022.01.27",
             "Time": "03:09:05",
             "Latitude": "37.9105",
             "Longitude": "26.6745",
@@ -4435,24 +4453,6 @@
             "Longitude": "23.8770",
             "Depth": "55.6",
             "ML": "2.1",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "03:12:05",
-            "Latitude": "40.7948",
-            "Longitude": "27.5422",
-            "Depth": "15.6",
-            "ML": "2.5",
-            "Location": "YENIKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "02:47:39",
-            "Latitude": "39.9827",
-            "Longitude": "24.3280",
-            "Depth": "9.2",
-            "ML": "2.5",
             "Location": "YUNANISTAN"
         }
     ]
