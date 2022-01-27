@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.27",
+            "Time": "19:11:24",
+            "Latitude": "37.2618",
+            "Longitude": "34.9423",
+            "Depth": "9.0",
+            "ML": "1.6",
+            "Location": "KUSCULAR TARSUS MERSIN"
+        },
+        {
+            "Date": "2022.01.27",
             "Time": "16:39:36",
             "Latitude": "37.6687",
             "Longitude": "37.2543",
@@ -4444,15 +4453,6 @@
             "Longitude": "25.2552",
             "Depth": "27.6",
             "ML": "3.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "16:52:44",
-            "Latitude": "35.3785",
-            "Longitude": "25.2863",
-            "Depth": "3.5",
-            "ML": "3.3",
             "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
