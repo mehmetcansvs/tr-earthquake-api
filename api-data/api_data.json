@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.27",
+            "Time": "21:43:35",
+            "Latitude": "40.0082",
+            "Longitude": "28.2788",
+            "Depth": "13.7",
+            "ML": "1.9",
+            "Location": "KOSOVA MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.01.27",
             "Time": "19:11:24",
             "Latitude": "37.2618",
             "Longitude": "34.9423",
@@ -4444,15 +4453,6 @@
             "Longitude": "25.1955",
             "Depth": "39.2",
             "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "17:03:24",
-            "Latitude": "35.2725",
-            "Longitude": "25.2552",
-            "Depth": "27.6",
-            "ML": "3.1",
             "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
