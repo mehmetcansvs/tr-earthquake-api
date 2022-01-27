@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.27",
+            "Time": "03:09:05",
+            "Latitude": "37.9105",
+            "Longitude": "26.6745",
+            "Depth": "4.2",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.27",
+            "Time": "02:14:09",
+            "Latitude": "36.0293",
+            "Longitude": "30.2112",
+            "Depth": "25.5",
+            "ML": "2.5",
+            "Location": "FINIKE ACIKLARI ANTALYA AKDENIZ"
+        },
+        {
+            "Date": "2022.01.27",
+            "Time": "01:29:58",
+            "Latitude": "38.5900",
+            "Longitude": "28.0275",
+            "Depth": "3.0",
+            "ML": "1.5",
+            "Location": "TEKELIOGLU SALIHLI MANISA"
+        },
+        {
+            "Date": "2022.01.27",
+            "Time": "01:02:56",
+            "Latitude": "40.0822",
+            "Longitude": "41.8275",
+            "Depth": "4.8",
+            "ML": "1.3",
+            "Location": "KIZILOREN PASINLER ERZURUM"
+        },
+        {
+            "Date": "2022.01.27",
             "Time": "00:51:48",
             "Latitude": "40.0252",
             "Longitude": "41.8370",
@@ -4416,42 +4452,6 @@
             "Latitude": "39.9827",
             "Longitude": "24.3280",
             "Depth": "9.2",
-            "ML": "2.5",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "02:29:26",
-            "Latitude": "38.3937",
-            "Longitude": "27.2047",
-            "Depth": "10.5",
-            "ML": "1.8",
-            "Location": "BUCA IZMIR"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "02:23:27",
-            "Latitude": "40.0253",
-            "Longitude": "24.4145",
-            "Depth": "6.2",
-            "ML": "2.2",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "02:15:25",
-            "Latitude": "37.0683",
-            "Longitude": "28.4333",
-            "Depth": "5.6",
-            "ML": "2.4",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "02:07:09",
-            "Latitude": "39.9817",
-            "Longitude": "24.3897",
-            "Depth": "8.1",
             "ML": "2.5",
             "Location": "YUNANISTAN"
         }
