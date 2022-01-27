@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.01.28",
+            "Time": "00:58:31",
+            "Latitude": "37.2547",
+            "Longitude": "29.6032",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "KUCUKALAN CAVDIR BURDUR"
+        },
+        {
             "Date": "2022.01.27",
             "Time": "21:43:35",
             "Latitude": "40.0082",
@@ -4444,15 +4453,6 @@
             "Longitude": "25.2708",
             "Depth": "24.5",
             "ML": "3.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "17:04:27",
-            "Latitude": "35.3532",
-            "Longitude": "25.1955",
-            "Depth": "39.2",
-            "ML": "3.0",
             "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
