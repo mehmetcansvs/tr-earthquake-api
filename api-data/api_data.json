@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.28",
+            "Time": "06:57:44",
+            "Latitude": "35.1863",
+            "Longitude": "32.0568",
+            "Depth": "6.5",
+            "ML": "4.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "06:37:53",
+            "Latitude": "35.8345",
+            "Longitude": "33.3318",
+            "Depth": "10.4",
+            "ML": "2.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.28",
             "Time": "05:04:07",
             "Latitude": "36.0982",
             "Longitude": "29.7022",
@@ -4445,24 +4463,6 @@
             "Depth": "18.3",
             "ML": "1.2",
             "Location": "YUKARIKOTANLI SELIM KARS"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "18:45:10",
-            "Latitude": "38.8672",
-            "Longitude": "26.8568",
-            "Depth": "6.8",
-            "ML": "1.4",
-            "Location": "CANDARLI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "18:34:02",
-            "Latitude": "35.2097",
-            "Longitude": "25.2535",
-            "Depth": "6.2",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ REVIZE"
         }
     ]
 }
