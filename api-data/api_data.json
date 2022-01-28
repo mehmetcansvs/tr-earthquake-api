@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.28",
+            "Time": "16:22:28",
+            "Latitude": "35.9915",
+            "Longitude": "26.8465",
+            "Depth": "10.2",
+            "ML": "3.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "15:51:40",
+            "Latitude": "38.2727",
+            "Longitude": "30.9457",
+            "Depth": "11.6",
+            "ML": "1.7",
+            "Location": "YUKARITIRTAR YALVAC ISPARTA"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "15:48:32",
+            "Latitude": "36.1608",
+            "Longitude": "33.5543",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "15:42:16",
+            "Latitude": "35.8855",
+            "Longitude": "28.2525",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.28",
             "Time": "14:35:11",
             "Latitude": "39.1123",
             "Longitude": "25.7837",
@@ -4435,42 +4471,6 @@
             "Longitude": "35.8767",
             "Depth": "5.0",
             "ML": "1.4",
-            "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "03:31:39",
-            "Latitude": "40.0082",
-            "Longitude": "23.9910",
-            "Depth": "62.3",
-            "ML": "2.6",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "03:30:30",
-            "Latitude": "39.0720",
-            "Longitude": "35.9242",
-            "Depth": "8.4",
-            "ML": "1.9",
-            "Location": "SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "03:19:03",
-            "Latitude": "39.0310",
-            "Longitude": "35.9337",
-            "Depth": "2.6",
-            "ML": "1.6",
-            "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "03:12:54",
-            "Latitude": "39.0383",
-            "Longitude": "35.8488",
-            "Depth": "4.3",
-            "ML": "1.7",
             "Location": "PALAS SARIOGLAN KAYSERI"
         }
     ]
