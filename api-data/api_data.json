@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.28",
+            "Time": "17:08:54",
+            "Latitude": "40.4647",
+            "Longitude": "33.1580",
+            "Depth": "15.4",
+            "ML": "1.6",
+            "Location": "KOSRELIK CUBUK ANKARA"
+        },
+        {
+            "Date": "2022.01.28",
             "Time": "16:22:28",
             "Latitude": "35.9915",
             "Longitude": "26.8465",
@@ -4463,15 +4472,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "03:32:01",
-            "Latitude": "39.0588",
-            "Longitude": "35.8767",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "PALAS SARIOGLAN KAYSERI"
         }
     ]
 }
