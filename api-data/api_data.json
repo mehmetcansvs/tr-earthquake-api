@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.28",
+            "Time": "07:56:53",
+            "Latitude": "37.0480",
+            "Longitude": "28.3312",
+            "Depth": "4.6",
+            "ML": "1.4",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.28",
             "Time": "06:57:44",
             "Latitude": "35.1863",
             "Longitude": "32.0568",
@@ -4454,15 +4463,6 @@
             "Depth": "28.7",
             "ML": "2.0",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "18:55:34",
-            "Latitude": "40.4590",
-            "Longitude": "42.8653",
-            "Depth": "18.3",
-            "ML": "1.2",
-            "Location": "YUKARIKOTANLI SELIM KARS"
         }
     ]
 }
