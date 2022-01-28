@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.28",
+            "Time": "21:00:48",
+            "Latitude": "38.8183",
+            "Longitude": "26.6268",
+            "Depth": "6.7",
+            "ML": "2.2",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.28",
             "Time": "17:08:54",
             "Latitude": "40.4647",
             "Longitude": "33.1580",
@@ -4463,15 +4472,6 @@
             "Depth": "6.7",
             "ML": "1.2",
             "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "03:35:43",
-            "Latitude": "39.0742",
-            "Longitude": "35.9520",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "SARIOGLAN KAYSERI"
         }
     ]
 }
