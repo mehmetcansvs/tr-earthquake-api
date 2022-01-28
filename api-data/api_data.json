@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.01.28",
+            "Time": "11:59:39",
+            "Latitude": "38.3480",
+            "Longitude": "40.2853",
+            "Depth": "4.5",
+            "ML": "1.5",
+            "Location": "BADEMLI DICLE DIYARBAKIR"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "11:53:47",
+            "Latitude": "36.9300",
+            "Longitude": "28.2867",
+            "Depth": "3.0",
+            "ML": "1.6",
+            "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "11:51:10",
+            "Latitude": "36.9403",
+            "Longitude": "28.2020",
+            "Depth": "9.2",
+            "ML": "1.4",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "11:50:54",
+            "Latitude": "36.9392",
+            "Longitude": "28.2733",
+            "Depth": "2.6",
+            "ML": "1.7",
+            "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "11:38:57",
+            "Latitude": "36.6425",
+            "Longitude": "36.2363",
+            "Depth": "8.7",
+            "ML": "1.2",
+            "Location": "KAVAKLIOLUK ISKENDERUN HATAY"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "11:23:50",
+            "Latitude": "39.1055",
+            "Longitude": "27.5535",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "DEREKOY SOMA MANISA"
+        },
+        {
+            "Date": "2022.01.28",
             "Time": "11:02:39",
             "Latitude": "37.3237",
             "Longitude": "32.9235",
@@ -4409,60 +4463,6 @@
             "Depth": "7.7",
             "ML": "3.5",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "23:42:11",
-            "Latitude": "38.9222",
-            "Longitude": "26.1168",
-            "Depth": "8.5",
-            "ML": "1.9",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "23:16:27",
-            "Latitude": "39.9103",
-            "Longitude": "33.0653",
-            "Depth": "9.1",
-            "ML": "1.5",
-            "Location": "MAMAK ANKARA"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "23:14:39",
-            "Latitude": "38.8685",
-            "Longitude": "43.5657",
-            "Depth": "1.7",
-            "ML": "2.1",
-            "Location": "AKCIFT VAN"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "21:54:03",
-            "Latitude": "40.7675",
-            "Longitude": "31.4867",
-            "Depth": "10.4",
-            "ML": "1.9",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "20:38:37",
-            "Latitude": "35.2172",
-            "Longitude": "25.2985",
-            "Depth": "14.3",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "20:20:43",
-            "Latitude": "38.9953",
-            "Longitude": "27.8658",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "KARABORKLU AKHISAR MANISA"
         }
     ]
 }
