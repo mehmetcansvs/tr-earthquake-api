@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.01.28",
+            "Time": "14:35:11",
+            "Latitude": "39.1123",
+            "Longitude": "25.7837",
+            "Depth": "6.4",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "14:14:21",
+            "Latitude": "35.8142",
+            "Longitude": "28.2420",
+            "Depth": "8.8",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "14:06:13",
+            "Latitude": "36.1810",
+            "Longitude": "33.5360",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "KOCASLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "13:58:30",
+            "Latitude": "37.8862",
+            "Longitude": "26.8633",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "13:57:23",
+            "Latitude": "39.9505",
+            "Longitude": "33.1498",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "ELMADAG ANKARA"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "12:59:28",
+            "Latitude": "38.4745",
+            "Longitude": "29.1740",
+            "Depth": "11.1",
+            "ML": "1.3",
+            "Location": "GUMUSKOL ULUBEY USAK"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "12:15:12",
+            "Latitude": "39.8518",
+            "Longitude": "32.9998",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "MAMAK ANKARA"
+        },
+        {
+            "Date": "2022.01.28",
             "Time": "11:59:39",
             "Latitude": "38.3480",
             "Longitude": "40.2853",
@@ -4409,60 +4472,6 @@
             "Depth": "4.3",
             "ML": "1.7",
             "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "02:57:00",
-            "Latitude": "39.0318",
-            "Longitude": "35.8785",
-            "Depth": "5.9",
-            "ML": "1.5",
-            "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "02:47:23",
-            "Latitude": "39.0420",
-            "Longitude": "35.9210",
-            "Depth": "4.5",
-            "ML": "2.0",
-            "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "02:34:14",
-            "Latitude": "39.0430",
-            "Longitude": "35.9077",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "02:28:55",
-            "Latitude": "39.0475",
-            "Longitude": "35.9318",
-            "Depth": "5.0",
-            "ML": "5.1",
-            "Location": "SARIOGLAN KAYSERI REVIZE YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "01:50:11",
-            "Latitude": "37.0537",
-            "Longitude": "27.8028",
-            "Depth": "13.6",
-            "ML": "1.6",
-            "Location": "FESLEGEN MILAS MUGLA"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "01:28:08",
-            "Latitude": "34.8398",
-            "Longitude": "27.0973",
-            "Depth": "7.7",
-            "ML": "3.5",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
