@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.01.28",
+            "Time": "11:02:39",
+            "Latitude": "37.3237",
+            "Longitude": "32.9235",
+            "Depth": "1.1",
+            "ML": "2.0",
+            "Location": "SINCI KAZIMKARABEKIR KARAMAN"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "10:35:01",
+            "Latitude": "35.9627",
+            "Longitude": "28.3530",
+            "Depth": "3.2",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "10:28:48",
+            "Latitude": "37.9598",
+            "Longitude": "26.9980",
+            "Depth": "19.8",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "10:12:24",
+            "Latitude": "38.2267",
+            "Longitude": "32.3283",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "BUYUKZENGI SARAYONU KONYA"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "10:05:01",
+            "Latitude": "38.7933",
+            "Longitude": "26.6035",
+            "Depth": "9.4",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.28",
+            "Time": "09:31:29",
+            "Latitude": "37.1487",
+            "Longitude": "28.5695",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "YAYLASOGUT ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.28",
             "Time": "07:56:53",
             "Latitude": "37.0480",
             "Longitude": "28.3312",
@@ -4409,60 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.6",
             "Location": "KARABORKLU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "20:04:46",
-            "Latitude": "35.3698",
-            "Longitude": "25.3285",
-            "Depth": "17.9",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "19:54:34",
-            "Latitude": "35.2022",
-            "Longitude": "25.3017",
-            "Depth": "4.6",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "19:53:07",
-            "Latitude": "37.7997",
-            "Longitude": "27.0900",
-            "Depth": "14.0",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "19:26:43",
-            "Latitude": "38.3072",
-            "Longitude": "41.4702",
-            "Depth": "11.2",
-            "ML": "2.2",
-            "Location": "GECITALTI KOZLUK BATMAN"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "19:01:18",
-            "Latitude": "37.1607",
-            "Longitude": "28.6403",
-            "Depth": "20.3",
-            "ML": "1.2",
-            "Location": "CAKMAK MUGLA"
-        },
-        {
-            "Date": "2022.01.17",
-            "Time": "18:59:32",
-            "Latitude": "35.1070",
-            "Longitude": "25.2315",
-            "Depth": "28.7",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
