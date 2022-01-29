@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.01.29",
+            "Time": "16:50:28",
+            "Latitude": "37.9062",
+            "Longitude": "30.5617",
+            "Depth": "5.4",
+            "ML": "2.6",
+            "Location": "SENIRCE GONEN ISPARTA"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "15:49:56",
+            "Latitude": "36.2815",
+            "Longitude": "33.6530",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "DEDELER GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "15:37:40",
+            "Latitude": "40.8737",
+            "Longitude": "29.4900",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "MOLLAFENERI GEBZE KOCAELI"
+        },
+        {
+            "Date": "2022.01.29",
             "Time": "14:32:04",
             "Latitude": "38.2723",
             "Longitude": "38.6788",
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "CAYKOY PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "14:20:15",
+            "Latitude": "40.0053",
+            "Longitude": "42.2755",
+            "Depth": "29.8",
+            "ML": "2.2",
+            "Location": "ARAS HORASAN ERZURUM"
         },
         {
             "Date": "2022.01.29",
@@ -4435,42 +4471,6 @@
             "Longitude": "25.3287",
             "Depth": "19.1",
             "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "14:37:18",
-            "Latitude": "37.2918",
-            "Longitude": "28.1937",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "YENIKARAKUYU YATAGAN MUGLA"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "14:28:12",
-            "Latitude": "35.3407",
-            "Longitude": "25.3097",
-            "Depth": "16.2",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "14:19:36",
-            "Latitude": "36.1480",
-            "Longitude": "33.5935",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "14:05:33",
-            "Latitude": "35.2500",
-            "Longitude": "25.2998",
-            "Depth": "5.4",
-            "ML": "2.2",
             "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
