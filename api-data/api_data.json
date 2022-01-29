@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.29",
+            "Time": "05:14:04",
+            "Latitude": "36.2777",
+            "Longitude": "30.6827",
+            "Depth": "21.5",
+            "ML": "2.9",
+            "Location": "ANTALYA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "04:50:53",
+            "Latitude": "36.2417",
+            "Longitude": "30.6993",
+            "Depth": "21.1",
+            "ML": "3.4",
+            "Location": "ANTALYA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.29",
             "Time": "03:10:53",
             "Latitude": "37.8457",
             "Longitude": "29.3952",
@@ -4454,24 +4472,6 @@
             "Depth": "5.0",
             "ML": "1.8",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "05:55:28",
-            "Latitude": "38.8598",
-            "Longitude": "40.1485",
-            "Depth": "4.5",
-            "ML": "2.3",
-            "Location": "ASAGIDEMIRCI KOVANCILAR ELAZIG"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "05:51:27",
-            "Latitude": "36.9705",
-            "Longitude": "28.0310",
-            "Depth": "24.2",
-            "ML": "1.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
