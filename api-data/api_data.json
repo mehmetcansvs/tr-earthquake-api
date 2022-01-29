@@ -1,6 +1,78 @@
 {
     "data": [
         {
+            "Date": "2022.01.29",
+            "Time": "03:10:53",
+            "Latitude": "37.8457",
+            "Longitude": "29.3952",
+            "Depth": "8.5",
+            "ML": "2.4",
+            "Location": "KAKLIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "03:06:47",
+            "Latitude": "37.8270",
+            "Longitude": "29.4043",
+            "Depth": "7.8",
+            "ML": "2.3",
+            "Location": "KAKLIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "03:04:49",
+            "Latitude": "36.5173",
+            "Longitude": "27.6145",
+            "Depth": "85.8",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "02:48:30",
+            "Latitude": "36.2513",
+            "Longitude": "29.0002",
+            "Depth": "35.5",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "02:18:54",
+            "Latitude": "38.2138",
+            "Longitude": "32.3397",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "LADIK SARAYONU KONYA"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "02:05:21",
+            "Latitude": "38.2203",
+            "Longitude": "32.3170",
+            "Depth": "5.8",
+            "ML": "1.5",
+            "Location": "BUYUKZENGI SARAYONU KONYA"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "01:36:23",
+            "Latitude": "38.9787",
+            "Longitude": "42.0143",
+            "Depth": "10.7",
+            "ML": "1.9",
+            "Location": "GUNBATMAZ BULANIK MUS"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "00:53:18",
+            "Latitude": "37.8642",
+            "Longitude": "26.9875",
+            "Depth": "5.2",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
             "Date": "2022.01.28",
             "Time": "22:57:08",
             "Latitude": "36.6992",
@@ -4400,78 +4472,6 @@
             "Depth": "24.2",
             "ML": "1.1",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "05:36:17",
-            "Latitude": "37.9295",
-            "Longitude": "27.1570",
-            "Depth": "7.5",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "05:34:01",
-            "Latitude": "37.1525",
-            "Longitude": "27.8392",
-            "Depth": "22.4",
-            "ML": "1.1",
-            "Location": "BAGDAMLARI MILAS MUGLA"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "05:27:04",
-            "Latitude": "40.6670",
-            "Longitude": "27.8008",
-            "Depth": "11.9",
-            "ML": "2.1",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "05:22:59",
-            "Latitude": "39.0473",
-            "Longitude": "35.9015",
-            "Depth": "18.2",
-            "ML": "1.5",
-            "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "05:13:23",
-            "Latitude": "39.0397",
-            "Longitude": "35.9320",
-            "Depth": "7.6",
-            "ML": "1.5",
-            "Location": "SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "04:56:36",
-            "Latitude": "38.2217",
-            "Longitude": "38.7592",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "PAZARCIK PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "04:48:22",
-            "Latitude": "39.0242",
-            "Longitude": "35.9632",
-            "Depth": "7.9",
-            "ML": "2.0",
-            "Location": "YILDIRIM SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "04:47:04",
-            "Latitude": "35.9240",
-            "Longitude": "29.4450",
-            "Depth": "13.7",
-            "ML": "1.7",
-            "Location": "AKDENIZ"
         }
     ]
 }
