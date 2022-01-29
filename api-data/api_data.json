@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.29",
+            "Time": "14:32:04",
+            "Latitude": "38.2723",
+            "Longitude": "38.6788",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "CAYKOY PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.01.29",
             "Time": "12:46:28",
             "Latitude": "39.1110",
             "Longitude": "27.5847",
@@ -44,6 +53,15 @@
             "Depth": "5.0",
             "ML": "0.9",
             "Location": "GOZLER DENIZLI"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "09:04:13",
+            "Latitude": "41.0632",
+            "Longitude": "43.8068",
+            "Depth": "11.7",
+            "ML": "2.4",
+            "Location": "ERMENISTAN"
         },
         {
             "Date": "2022.01.29",
@@ -4454,24 +4472,6 @@
             "Depth": "5.4",
             "ML": "2.2",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "13:25:41",
-            "Latitude": "38.5892",
-            "Longitude": "39.3173",
-            "Depth": "14.1",
-            "ML": "1.8",
-            "Location": "DOGANKUS ELAZIG"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "10:47:43",
-            "Latitude": "40.0428",
-            "Longitude": "27.0195",
-            "Depth": "4.5",
-            "ML": "1.3",
-            "Location": "MALLI CAN CANAKKALE"
         }
     ]
 }
