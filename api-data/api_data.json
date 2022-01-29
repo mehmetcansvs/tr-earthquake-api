@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.29",
+            "Time": "21:28:57",
+            "Latitude": "37.2690",
+            "Longitude": "29.5375",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "CAMKOY GOLHISAR BURDUR"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "20:57:00",
+            "Latitude": "40.3895",
+            "Longitude": "41.9988",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "TUZTASI NARMAN ERZURUM"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "20:52:54",
+            "Latitude": "37.2067",
+            "Longitude": "28.7188",
+            "Depth": "29.6",
+            "ML": "1.1",
+            "Location": "KARACAOREN MUGLA"
+        },
+        {
+            "Date": "2022.01.29",
             "Time": "20:35:10",
             "Latitude": "37.2408",
             "Longitude": "29.5757",
@@ -11,12 +38,39 @@
         },
         {
             "Date": "2022.01.29",
+            "Time": "19:56:43",
+            "Latitude": "39.2282",
+            "Longitude": "28.5085",
+            "Depth": "11.5",
+            "ML": "1.0",
+            "Location": "CILBIRCI SINDIRGI BALIKESIR"
+        },
+        {
+            "Date": "2022.01.29",
             "Time": "19:46:10",
             "Latitude": "38.1377",
             "Longitude": "27.1847",
             "Depth": "12.2",
             "ML": "1.9",
             "Location": "CILEME MENDERES IZMIR"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "19:31:22",
+            "Latitude": "39.1007",
+            "Longitude": "27.6172",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "ADIL SOMA MANISA"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "19:02:17",
+            "Latitude": "37.8358",
+            "Longitude": "37.4568",
+            "Depth": "7.8",
+            "ML": "1.8",
+            "Location": "DUZBAG CAGLAYANCERIT KAHRAMANMARAS"
         },
         {
             "Date": "2022.01.29",
@@ -4427,60 +4481,6 @@
             "Depth": "19.6",
             "ML": "2.5",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "21:37:15",
-            "Latitude": "39.9945",
-            "Longitude": "24.1128",
-            "Depth": "16.6",
-            "ML": "2.1",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "21:33:13",
-            "Latitude": "40.0548",
-            "Longitude": "24.2657",
-            "Depth": "22.4",
-            "ML": "3.4",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "20:36:40",
-            "Latitude": "38.4215",
-            "Longitude": "42.7898",
-            "Depth": "1.0",
-            "ML": "2.2",
-            "Location": "TIMAR GEVAS VAN"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "19:42:06",
-            "Latitude": "40.0667",
-            "Longitude": "24.4135",
-            "Depth": "10.4",
-            "ML": "2.1",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "18:49:30",
-            "Latitude": "40.7312",
-            "Longitude": "29.8650",
-            "Depth": "9.8",
-            "ML": "1.7",
-            "Location": "IZMIT KORFEZI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "17:29:16",
-            "Latitude": "39.8635",
-            "Longitude": "39.1653",
-            "Depth": "6.7",
-            "ML": "2.1",
-            "Location": "KOCYATAGI ERZINCAN"
         }
     ]
 }
