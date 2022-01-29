@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.29",
+            "Time": "18:05:06",
+            "Latitude": "39.3740",
+            "Longitude": "28.0538",
+            "Depth": "12.8",
+            "ML": "1.2",
+            "Location": "CEKIRDEKLI BIGADIC BALIKESIR"
+        },
+        {
+            "Date": "2022.01.29",
+            "Time": "17:19:46",
+            "Latitude": "40.5918",
+            "Longitude": "35.4783",
+            "Depth": "10.0",
+            "ML": "1.9",
+            "Location": "BEKE AMASYA"
+        },
+        {
+            "Date": "2022.01.29",
             "Time": "16:50:28",
             "Latitude": "37.9062",
             "Longitude": "30.5617",
@@ -4454,24 +4472,6 @@
             "Depth": "4.3",
             "ML": "3.6",
             "Location": "AYDINLAR HONAZ DENIZLI REVIZE KARACAY HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "15:20:43",
-            "Latitude": "35.2268",
-            "Longitude": "25.2932",
-            "Depth": "5.5",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.18",
-            "Time": "15:07:25",
-            "Latitude": "35.3990",
-            "Longitude": "25.3287",
-            "Depth": "19.1",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
