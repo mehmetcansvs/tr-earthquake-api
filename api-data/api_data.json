@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.30",
+            "Time": "14:18:08",
+            "Latitude": "39.5903",
+            "Longitude": "26.4150",
+            "Depth": "15.6",
+            "ML": "2.0",
+            "Location": "AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.01.30",
             "Time": "12:43:44",
             "Latitude": "38.9735",
             "Longitude": "26.0002",
@@ -26,6 +35,15 @@
             "Depth": "5.4",
             "ML": "1.9",
             "Location": "YESILKOY YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.01.30",
+            "Time": "11:46:41",
+            "Latitude": "40.9308",
+            "Longitude": "32.4667",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "BUYUKYAYALAR ESKIPAZAR KARABUK"
         },
         {
             "Date": "2022.01.30",
@@ -4463,24 +4481,6 @@
             "Depth": "11.9",
             "ML": "1.4",
             "Location": "GUVEMALANI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "08:59:06",
-            "Latitude": "37.1958",
-            "Longitude": "35.9558",
-            "Depth": "5.0",
-            "ML": "3.8",
-            "Location": "CEYHANBEKIRLI CEYHAN ADANA"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "08:58:24",
-            "Latitude": "37.2383",
-            "Longitude": "36.0227",
-            "Depth": "9.8",
-            "ML": "3.3",
-            "Location": "TATARLI KADIRLI OSMANIYE"
         }
     ]
 }
