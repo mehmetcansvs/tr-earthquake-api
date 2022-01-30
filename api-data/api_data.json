@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.01.30",
+            "Time": "12:43:44",
+            "Latitude": "38.9735",
+            "Longitude": "26.0002",
+            "Depth": "5.6",
+            "ML": "2.2",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.30",
+            "Time": "12:33:47",
+            "Latitude": "37.7125",
+            "Longitude": "27.1092",
+            "Depth": "4.2",
+            "ML": "1.4",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.30",
+            "Time": "12:16:53",
+            "Latitude": "37.2998",
+            "Longitude": "28.0670",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "YESILKOY YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.01.30",
+            "Time": "11:37:03",
+            "Latitude": "35.3880",
+            "Longitude": "29.0293",
+            "Depth": "86.8",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.30",
+            "Time": "11:34:45",
+            "Latitude": "38.8447",
+            "Longitude": "43.5162",
+            "Depth": "1.5",
+            "ML": "2.4",
+            "Location": "BAGDASAN VAN"
+        },
+        {
+            "Date": "2022.01.30",
+            "Time": "11:22:17",
+            "Latitude": "32.7502",
+            "Longitude": "31.5007",
+            "Depth": "25.5",
+            "ML": "4.4",
+            "Location": "AKDEN Z"
+        },
+        {
+            "Date": "2022.01.30",
             "Time": "08:18:16",
             "Latitude": "38.9988",
             "Longitude": "26.1568",
@@ -4427,60 +4481,6 @@
             "Depth": "9.8",
             "ML": "3.3",
             "Location": "TATARLI KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "08:30:05",
-            "Latitude": "37.7148",
-            "Longitude": "27.0608",
-            "Depth": "16.0",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "07:49:36",
-            "Latitude": "40.4698",
-            "Longitude": "29.2070",
-            "Depth": "8.8",
-            "ML": "1.8",
-            "Location": "SAHINYURDU GEMLIK BURSA"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "07:37:15",
-            "Latitude": "40.5097",
-            "Longitude": "29.1828",
-            "Depth": "5.1",
-            "ML": "1.1",
-            "Location": "HAYDARIYE GEMLIK BURSA"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "07:25:56",
-            "Latitude": "34.9550",
-            "Longitude": "26.3443",
-            "Depth": "14.9",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "07:01:45",
-            "Latitude": "40.0633",
-            "Longitude": "33.2282",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "AHMETADIL AKYURT ANKARA"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "06:56:12",
-            "Latitude": "38.9583",
-            "Longitude": "42.5725",
-            "Depth": "13.8",
-            "ML": "1.5",
-            "Location": "ADAKSU MALAZGIRT MUS"
         }
     ]
 }
