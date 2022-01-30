@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.30",
+            "Time": "22:17:23",
+            "Latitude": "36.8712",
+            "Longitude": "28.0333",
+            "Depth": "2.0",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.30",
+            "Time": "21:28:53",
+            "Latitude": "37.9728",
+            "Longitude": "30.6177",
+            "Depth": "7.0",
+            "ML": "1.6",
+            "Location": "ATABEY ISPARTA"
+        },
+        {
+            "Date": "2022.01.30",
+            "Time": "21:16:51",
+            "Latitude": "37.8920",
+            "Longitude": "30.6117",
+            "Depth": "9.4",
+            "ML": "2.1",
+            "Location": "BAYAT ATABEY ISPARTA"
+        },
+        {
+            "Date": "2022.01.30",
+            "Time": "21:00:17",
+            "Latitude": "36.8492",
+            "Longitude": "28.0547",
+            "Depth": "12.5",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.01.30",
             "Time": "20:35:13",
             "Latitude": "38.9432",
             "Longitude": "26.6988",
@@ -4445,42 +4481,6 @@
             "Depth": "38.2",
             "ML": "1.8",
             "Location": "AKCAOREN PATNOS AGRI"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "14:25:42",
-            "Latitude": "39.1608",
-            "Longitude": "29.0415",
-            "Depth": "10.7",
-            "ML": "1.6",
-            "Location": "AHLATLICESME SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "14:14:32",
-            "Latitude": "39.0300",
-            "Longitude": "35.8640",
-            "Depth": "8.9",
-            "ML": "1.6",
-            "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "13:53:43",
-            "Latitude": "39.0808",
-            "Longitude": "41.3393",
-            "Depth": "7.4",
-            "ML": "1.8",
-            "Location": "HAKSEVER VARTO MUS"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "13:41:20",
-            "Latitude": "37.7337",
-            "Longitude": "27.0443",
-            "Depth": "27.5",
-            "ML": "1.7",
-            "Location": "SISAM ADASI EGE DENIZI"
         }
     ]
 }
