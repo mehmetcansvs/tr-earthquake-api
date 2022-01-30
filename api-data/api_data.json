@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.30",
+            "Time": "08:18:16",
+            "Latitude": "38.9988",
+            "Longitude": "26.1568",
+            "Depth": "5.5",
+            "ML": "1.8",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.30",
+            "Time": "08:16:56",
+            "Latitude": "39.0065",
+            "Longitude": "26.6417",
+            "Depth": "3.0",
+            "ML": "1.7",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.30",
             "Time": "07:56:42",
             "Latitude": "38.9405",
             "Longitude": "26.1327",
@@ -4463,24 +4481,6 @@
             "Depth": "13.8",
             "ML": "1.5",
             "Location": "ADAKSU MALAZGIRT MUS"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "06:34:15",
-            "Latitude": "40.4663",
-            "Longitude": "29.1935",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "SAHINYURDU GEMLIK BURSA"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "06:18:30",
-            "Latitude": "37.6885",
-            "Longitude": "26.9275",
-            "Depth": "11.3",
-            "ML": "1.7",
-            "Location": "SISAM ADASI EGE DENIZI"
         }
     ]
 }
