@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.01.31",
+            "Time": "16:20:56",
+            "Latitude": "36.6052",
+            "Longitude": "28.3370",
+            "Depth": "4.2",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.01.31",
             "Time": "14:44:47",
             "Latitude": "38.2277",
             "Longitude": "38.4203",
@@ -4463,15 +4472,6 @@
             "Depth": "1.6",
             "ML": "1.5",
             "Location": "KAS ACIKLARI ANTALYA AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "06:30:46",
-            "Latitude": "39.9752",
-            "Longitude": "24.3427",
-            "Depth": "5.1",
-            "ML": "2.9",
-            "Location": "YUNANISTAN"
         }
     ]
 }
