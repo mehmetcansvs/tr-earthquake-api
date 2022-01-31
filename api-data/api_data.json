@@ -2,6 +2,87 @@
     "data": [
         {
             "Date": "2022.01.31",
+            "Time": "14:44:47",
+            "Latitude": "38.2277",
+            "Longitude": "38.4203",
+            "Depth": "5.0",
+            "ML": "3.2",
+            "Location": "UCGOZE YESILYURT MALATYA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "14:20:47",
+            "Latitude": "37.8823",
+            "Longitude": "32.1140",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "KIZILOREN MERAM KONYA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "14:13:58",
+            "Latitude": "37.8673",
+            "Longitude": "32.0933",
+            "Depth": "4.9",
+            "ML": "1.7",
+            "Location": "KIZILOREN MERAM KONYA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "13:42:20",
+            "Latitude": "39.1938",
+            "Longitude": "41.5618",
+            "Depth": "2.7",
+            "ML": "2.4",
+            "Location": "CAYIRYOLU VARTO MUS"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "13:32:47",
+            "Latitude": "37.8783",
+            "Longitude": "32.0765",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "KIZILOREN MERAM KONYA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "13:23:19",
+            "Latitude": "37.8762",
+            "Longitude": "32.0787",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "KIZILOREN MERAM KONYA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "13:18:50",
+            "Latitude": "37.0797",
+            "Longitude": "28.4205",
+            "Depth": "7.7",
+            "ML": "2.3",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "13:05:02",
+            "Latitude": "37.8685",
+            "Longitude": "32.0852",
+            "Depth": "4.0",
+            "ML": "1.9",
+            "Location": "KIZILOREN MERAM KONYA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "12:45:27",
+            "Latitude": "37.8492",
+            "Longitude": "32.1398",
+            "Depth": "5.1",
+            "ML": "1.0",
+            "Location": "KIZILOREN MERAM KONYA"
+        },
+        {
+            "Date": "2022.01.31",
             "Time": "12:30:34",
             "Latitude": "37.8968",
             "Longitude": "32.0955",
@@ -17,6 +98,15 @@
             "Depth": "13.4",
             "ML": "3.0",
             "Location": "DEMIRKONAK GOLOVA SIVAS"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "10:39:26",
+            "Latitude": "39.1023",
+            "Longitude": "40.0690",
+            "Depth": "1.0",
+            "ML": "1.7",
+            "Location": "CALIKAYA KARAKOCAN ELAZIG"
         },
         {
             "Date": "2022.01.31",
@@ -4382,96 +4472,6 @@
             "Depth": "5.1",
             "ML": "2.9",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "06:02:53",
-            "Latitude": "39.0197",
-            "Longitude": "35.9135",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "05:49:02",
-            "Latitude": "39.0412",
-            "Longitude": "35.9090",
-            "Depth": "3.9",
-            "ML": "2.7",
-            "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "05:09:44",
-            "Latitude": "35.8018",
-            "Longitude": "27.0707",
-            "Depth": "7.5",
-            "ML": "2.4",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "04:58:54",
-            "Latitude": "37.8718",
-            "Longitude": "29.6253",
-            "Depth": "15.3",
-            "ML": "1.1",
-            "Location": "TUTLUCA BOZKURT DENIZLI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "04:27:12",
-            "Latitude": "40.7270",
-            "Longitude": "27.4125",
-            "Depth": "4.0",
-            "ML": "2.2",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "03:54:34",
-            "Latitude": "36.9162",
-            "Longitude": "27.4638",
-            "Depth": "16.3",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "03:50:09",
-            "Latitude": "37.2263",
-            "Longitude": "36.0035",
-            "Depth": "6.9",
-            "ML": "2.8",
-            "Location": "KESIKKELI KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "03:30:45",
-            "Latitude": "35.1387",
-            "Longitude": "25.2940",
-            "Depth": "1.9",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "02:19:45",
-            "Latitude": "37.7248",
-            "Longitude": "26.4602",
-            "Depth": "12.9",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "02:11:29",
-            "Latitude": "39.0528",
-            "Longitude": "28.3488",
-            "Depth": "1.8",
-            "ML": "1.7",
-            "Location": "DARGIL GORDES MANISA"
         }
     ]
 }
