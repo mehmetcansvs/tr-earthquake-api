@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.31",
+            "Time": "18:51:01",
+            "Latitude": "37.1233",
+            "Longitude": "28.9857",
+            "Depth": "1.7",
+            "ML": "3.3",
+            "Location": "SANDALCIK ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "18:11:51",
+            "Latitude": "37.4627",
+            "Longitude": "38.7593",
+            "Depth": "7.4",
+            "ML": "1.8",
+            "Location": "ESTAGFIRULLAH SANLIURFA"
+        },
+        {
+            "Date": "2022.01.31",
             "Time": "16:20:56",
             "Latitude": "36.6052",
             "Longitude": "28.3370",
@@ -4454,24 +4472,6 @@
             "Depth": "24.7",
             "ML": "3.0",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "07:02:02",
-            "Latitude": "36.3867",
-            "Longitude": "27.1218",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "06:38:53",
-            "Latitude": "36.0713",
-            "Longitude": "29.7397",
-            "Depth": "1.6",
-            "ML": "1.5",
-            "Location": "KAS ACIKLARI ANTALYA AKDENIZ"
         }
     ]
 }
