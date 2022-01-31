@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.31",
+            "Time": "04:06:41",
+            "Latitude": "39.0873",
+            "Longitude": "40.0598",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "CALIKAYA KARAKOCAN ELAZIG"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "04:00:04",
+            "Latitude": "38.2262",
+            "Longitude": "38.7625",
+            "Depth": "8.9",
+            "ML": "2.8",
+            "Location": "ORMANICI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "03:49:53",
+            "Latitude": "39.0768",
+            "Longitude": "40.0415",
+            "Depth": "5.0",
+            "ML": "4.8",
+            "Location": "OKCULAR KARAKOCAN ELAZIG"
+        },
+        {
+            "Date": "2022.01.31",
             "Time": "01:51:05",
             "Latitude": "37.8522",
             "Longitude": "26.9977",
@@ -4454,33 +4481,6 @@
             "Depth": "23.4",
             "ML": "1.8",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "22:04:14",
-            "Latitude": "38.9443",
-            "Longitude": "26.1387",
-            "Depth": "10.5",
-            "ML": "2.2",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "21:35:18",
-            "Latitude": "40.6122",
-            "Longitude": "44.9290",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.01.19",
-            "Time": "20:31:01",
-            "Latitude": "37.0452",
-            "Longitude": "28.3548",
-            "Depth": "15.1",
-            "ML": "0.9",
-            "Location": "GOKOVA ULA MUGLA"
         }
     ]
 }
