@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.01.31",
+            "Time": "22:18:35",
+            "Latitude": "37.6615",
+            "Longitude": "26.7753",
+            "Depth": "8.4",
+            "ML": "2.4",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "22:08:26",
+            "Latitude": "38.3693",
+            "Longitude": "23.3163",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "22:03:06",
+            "Latitude": "37.0788",
+            "Longitude": "28.3907",
+            "Depth": "5.5",
+            "ML": "2.1",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "21:18:48",
+            "Latitude": "37.0785",
+            "Longitude": "28.3640",
+            "Depth": "5.1",
+            "ML": "2.1",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.01.31",
             "Time": "21:10:48",
             "Latitude": "36.9012",
             "Longitude": "27.7333",
@@ -4427,42 +4463,6 @@
             "Depth": "6.7",
             "ML": "1.8",
             "Location": "YEGINLER GEDIZ KUTAHYA"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "09:45:06",
-            "Latitude": "37.6462",
-            "Longitude": "27.2953",
-            "Depth": "7.3",
-            "ML": "2.5",
-            "Location": "GULLUBAHCE SOKE AYDIN"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "09:34:21",
-            "Latitude": "39.8540",
-            "Longitude": "29.3218",
-            "Depth": "4.9",
-            "ML": "1.6",
-            "Location": "SORGUN KELES BURSA"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "09:19:07",
-            "Latitude": "36.3705",
-            "Longitude": "27.0777",
-            "Depth": "8.2",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "09:11:22",
-            "Latitude": "37.8748",
-            "Longitude": "27.2942",
-            "Depth": "16.8",
-            "ML": "1.0",
-            "Location": "KUSADASI AYDIN"
         }
     ]
 }
