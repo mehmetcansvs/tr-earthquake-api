@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.31",
+            "Time": "23:54:25",
+            "Latitude": "40.4882",
+            "Longitude": "35.7918",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "AKSALUR AMASYA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "23:19:25",
+            "Latitude": "38.1962",
+            "Longitude": "29.6887",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "KIZILCAYER CIVRIL DENIZLI"
+        },
+        {
+            "Date": "2022.01.31",
             "Time": "22:18:35",
             "Latitude": "37.6615",
             "Longitude": "26.7753",
@@ -4445,24 +4463,6 @@
             "Depth": "6.1",
             "ML": "1.8",
             "Location": "FAKILAR CAMLIYAYLA MERSIN"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "10:39:20",
-            "Latitude": "37.8593",
-            "Longitude": "29.3067",
-            "Depth": "10.2",
-            "ML": "2.2",
-            "Location": "GURLEYIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "10:26:33",
-            "Latitude": "39.0970",
-            "Longitude": "29.5907",
-            "Depth": "6.7",
-            "ML": "1.8",
-            "Location": "YEGINLER GEDIZ KUTAHYA"
         }
     ]
 }
