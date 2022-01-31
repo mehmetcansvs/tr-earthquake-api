@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.01.31",
+            "Time": "12:30:34",
+            "Latitude": "37.8968",
+            "Longitude": "32.0955",
+            "Depth": "5.0",
+            "ML": "4.1",
+            "Location": "KIZILOREN MERAM KONYA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "12:01:17",
+            "Latitude": "40.0195",
+            "Longitude": "38.6583",
+            "Depth": "13.4",
+            "ML": "3.0",
+            "Location": "DEMIRKONAK GOLOVA SIVAS"
+        },
+        {
+            "Date": "2022.01.31",
             "Time": "10:23:40",
             "Latitude": "39.8332",
             "Longitude": "27.8473",
@@ -4454,24 +4472,6 @@
             "Depth": "1.8",
             "ML": "1.7",
             "Location": "DARGIL GORDES MANISA"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "01:39:25",
-            "Latitude": "37.2543",
-            "Longitude": "29.5515",
-            "Depth": "13.2",
-            "ML": "1.6",
-            "Location": "CAMKOY GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "01:20:49",
-            "Latitude": "37.0592",
-            "Longitude": "28.4143",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
