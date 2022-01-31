@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.01.31",
+            "Time": "21:10:48",
+            "Latitude": "36.9012",
+            "Longitude": "27.7333",
+            "Depth": "12.8",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ REVIZE SAGLIK MERAM KONYA"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "20:35:51",
+            "Latitude": "39.7868",
+            "Longitude": "41.8452",
+            "Depth": "19.2",
+            "ML": "1.5",
+            "Location": "YEMLIK KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "19:39:29",
+            "Latitude": "37.7633",
+            "Longitude": "29.0883",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "DENIZLI"
+        },
+        {
+            "Date": "2022.01.31",
             "Time": "18:51:01",
             "Latitude": "37.1233",
             "Longitude": "28.9857",
@@ -4436,42 +4463,6 @@
             "Depth": "16.8",
             "ML": "1.0",
             "Location": "KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "08:27:57",
-            "Latitude": "37.9437",
-            "Longitude": "27.1903",
-            "Depth": "14.6",
-            "ML": "1.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "07:24:08",
-            "Latitude": "36.0243",
-            "Longitude": "32.5653",
-            "Depth": "22.7",
-            "ML": "2.8",
-            "Location": "ANAMUR ACIKLARI MERSIN AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "07:18:22",
-            "Latitude": "39.6620",
-            "Longitude": "36.1445",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "FARASDERESI SARKISLA SIVAS"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "07:02:47",
-            "Latitude": "39.9687",
-            "Longitude": "24.0448",
-            "Depth": "24.7",
-            "ML": "3.0",
-            "Location": "YUNANISTAN"
         }
     ]
 }
