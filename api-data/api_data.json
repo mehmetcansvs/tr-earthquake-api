@@ -2,21 +2,30 @@
     "data": [
         {
             "Date": "2022.01.31",
-            "Time": "09:06:58",
-            "Latitude": "39.1087",
-            "Longitude": "40.1098",
-            "Depth": "5.0",
-            "ML": "4.0",
-            "Location": "HAMURKESEN KARAKOCAN ELAZIG"
+            "Time": "10:23:40",
+            "Latitude": "39.8332",
+            "Longitude": "27.8473",
+            "Depth": "15.8",
+            "ML": "1.1",
+            "Location": "SAMLI BALIKESIR"
         },
         {
             "Date": "2022.01.31",
-            "Time": "08:20:37",
-            "Latitude": "38.3145",
-            "Longitude": "38.8658",
-            "Depth": "4.4",
-            "ML": "2.2",
-            "Location": "CIGIRLI PUTURGE MALATYA"
+            "Time": "09:46:10",
+            "Latitude": "38.0985",
+            "Longitude": "38.5615",
+            "Depth": "5.3",
+            "ML": "2.1",
+            "Location": "ARIKONAK SINCIK ADIYAMAN"
+        },
+        {
+            "Date": "2022.01.31",
+            "Time": "09:06:58",
+            "Latitude": "39.1198",
+            "Longitude": "40.0622",
+            "Depth": "5.0",
+            "ML": "3.8",
+            "Location": "OZLUCE KARAKOCAN ELAZIG REVIZE CIGIRLI PUTURGE MALATYA"
         },
         {
             "Date": "2022.01.31",
@@ -4463,24 +4472,6 @@
             "Depth": "5.0",
             "ML": "1.1",
             "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "01:17:25",
-            "Latitude": "39.2257",
-            "Longitude": "29.4517",
-            "Depth": "7.9",
-            "ML": "1.6",
-            "Location": "DUSECEK EMET KUTAHYA"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "01:04:44",
-            "Latitude": "39.0575",
-            "Longitude": "35.9045",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "PALAS SARIOGLAN KAYSERI"
         }
     ]
 }
