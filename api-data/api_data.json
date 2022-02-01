@@ -2,21 +2,12 @@
     "data": [
         {
             "Date": "2022.02.01",
-            "Time": "20:04:30",
-            "Latitude": "36.3430",
-            "Longitude": "27.8060",
-            "Depth": "61.3",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "18:45:19",
-            "Latitude": "39.4598",
-            "Longitude": "43.2908",
-            "Depth": "8.6",
-            "ML": "2.3",
-            "Location": "GUNDOGDU TASLICAY AGRI"
+            "Time": "23:04:58",
+            "Latitude": "39.6055",
+            "Longitude": "34.4047",
+            "Depth": "2.5",
+            "ML": "2.1",
+            "Location": "HARMANPINAR CICEKDAGI KIRSEHIR REVIZE AKDENIZ"
         },
         {
             "Date": "2022.02.01",
