@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.02.01",
+            "Time": "03:17:11",
+            "Latitude": "37.9215",
+            "Longitude": "27.6000",
+            "Depth": "4.9",
+            "ML": "1.4",
+            "Location": "DAGKARAAGAC GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.02.01",
+            "Time": "01:39:28",
+            "Latitude": "38.8533",
+            "Longitude": "43.5170",
+            "Depth": "5.2",
+            "ML": "2.8",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.02.01",
+            "Time": "00:31:13",
+            "Latitude": "37.8142",
+            "Longitude": "26.7340",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
+        },
+        {
             "Date": "2022.01.31",
             "Time": "23:54:25",
             "Latitude": "40.4882",
@@ -4436,33 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "DOGAN ELBISTAN KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "10:49:08",
-            "Latitude": "39.0527",
-            "Longitude": "37.5583",
-            "Depth": "6.3",
-            "ML": "1.5",
-            "Location": "MESCIT KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "10:45:52",
-            "Latitude": "36.3813",
-            "Longitude": "28.4032",
-            "Depth": "29.1",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "10:42:15",
-            "Latitude": "37.1762",
-            "Longitude": "34.6535",
-            "Depth": "6.1",
-            "ML": "1.8",
-            "Location": "FAKILAR CAMLIYAYLA MERSIN"
         }
     ]
 }
