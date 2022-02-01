@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.01",
+            "Time": "08:18:43",
+            "Latitude": "39.3913",
+            "Longitude": "27.9393",
+            "Depth": "1.7",
+            "ML": "2.8",
+            "Location": "DEDEBURNU BALIKESIR"
+        },
+        {
+            "Date": "2022.02.01",
+            "Time": "08:04:53",
+            "Latitude": "39.0345",
+            "Longitude": "40.7178",
+            "Depth": "11.6",
+            "ML": "1.4",
+            "Location": "ELMALI BINGOL"
+        },
+        {
+            "Date": "2022.02.01",
             "Time": "05:25:37",
             "Latitude": "38.8885",
             "Longitude": "43.5590",
@@ -4445,24 +4463,6 @@
             "Depth": "12.3",
             "ML": "2.3",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "13:42:49",
-            "Latitude": "36.1530",
-            "Longitude": "33.5553",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "13:08:05",
-            "Latitude": "39.5310",
-            "Longitude": "33.5762",
-            "Depth": "2.6",
-            "ML": "1.3",
-            "Location": "ARMUTLU KESKIN KIRIKKALE"
         }
     ]
 }
