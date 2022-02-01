@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.01",
+            "Time": "15:50:46",
+            "Latitude": "39.4545",
+            "Longitude": "26.0720",
+            "Depth": "4.0",
+            "ML": "1.9",
+            "Location": "BABAKALE AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.02.01",
             "Time": "14:55:33",
             "Latitude": "36.1272",
             "Longitude": "33.5803",
@@ -4454,15 +4463,6 @@
             "Depth": "21.0",
             "ML": "2.5",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "20:10:39",
-            "Latitude": "38.1028",
-            "Longitude": "28.2358",
-            "Depth": "11.5",
-            "ML": "1.2",
-            "Location": "YUKARIAKTEPE BEYDAG IZMIR"
         }
     ]
 }
