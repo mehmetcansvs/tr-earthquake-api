@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.01",
+            "Time": "04:54:11",
+            "Latitude": "38.9370",
+            "Longitude": "43.6270",
+            "Depth": "5.0",
+            "ML": "3.8",
+            "Location": "KARAHAN MURADIYE VAN"
+        },
+        {
+            "Date": "2022.02.01",
             "Time": "03:17:11",
             "Latitude": "37.9215",
             "Longitude": "27.6000",
@@ -4454,15 +4463,6 @@
             "Depth": "14.7",
             "ML": "1.4",
             "Location": "BAKLANCAKIRLAR CAL DENIZLI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "11:04:57",
-            "Latitude": "38.3057",
-            "Longitude": "37.1543",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "DOGAN ELBISTAN KAHRAMANMARAS"
         }
     ]
 }
