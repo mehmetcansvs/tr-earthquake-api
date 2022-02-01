@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.02.01",
+            "Time": "20:04:30",
+            "Latitude": "36.3430",
+            "Longitude": "27.8060",
+            "Depth": "61.3",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.01",
             "Time": "18:45:19",
             "Latitude": "39.4598",
             "Longitude": "43.2908",
             "Depth": "8.6",
             "ML": "2.3",
             "Location": "GUNDOGDU TASLICAY AGRI"
+        },
+        {
+            "Date": "2022.02.01",
+            "Time": "18:42:07",
+            "Latitude": "37.0030",
+            "Longitude": "26.1690",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.02.01",
@@ -4445,24 +4463,6 @@
             "Depth": "13.9",
             "ML": "1.1",
             "Location": "YESILYUVA ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "21:16:31",
-            "Latitude": "37.5478",
-            "Longitude": "29.5513",
-            "Depth": "8.0",
-            "ML": "1.2",
-            "Location": "PINARBASI ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "20:26:18",
-            "Latitude": "37.0445",
-            "Longitude": "28.4052",
-            "Depth": "6.9",
-            "ML": "2.3",
-            "Location": "ATAKOY ULA MUGLA"
         }
     ]
 }
