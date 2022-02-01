@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.01",
+            "Time": "12:50:46",
+            "Latitude": "39.7745",
+            "Longitude": "40.0252",
+            "Depth": "19.8",
+            "ML": "1.4",
+            "Location": "CAYONU CAYIRLI ERZINCAN"
+        },
+        {
+            "Date": "2022.02.01",
+            "Time": "12:38:46",
+            "Latitude": "40.7767",
+            "Longitude": "31.4680",
+            "Depth": "3.4",
+            "ML": "2.0",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.02.01",
             "Time": "10:22:28",
             "Latitude": "40.4523",
             "Longitude": "26.1317",
@@ -4445,24 +4463,6 @@
             "Depth": "26.4",
             "ML": "1.5",
             "Location": "SEVKETIYE LAPSEKI CANAKKALE"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "14:10:48",
-            "Latitude": "36.1527",
-            "Longitude": "33.5267",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "14:03:56",
-            "Latitude": "37.4215",
-            "Longitude": "36.8272",
-            "Depth": "11.2",
-            "ML": "1.5",
-            "Location": "YENIPINAR TURKOGLU KAHRAMANMARAS"
         }
     ]
 }
