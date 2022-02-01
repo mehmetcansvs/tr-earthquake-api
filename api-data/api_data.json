@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.01",
+            "Time": "18:45:19",
+            "Latitude": "39.4598",
+            "Longitude": "43.2908",
+            "Depth": "8.6",
+            "ML": "2.3",
+            "Location": "GUNDOGDU TASLICAY AGRI"
+        },
+        {
+            "Date": "2022.02.01",
+            "Time": "17:47:28",
+            "Latitude": "41.7853",
+            "Longitude": "26.0092",
+            "Depth": "5.5",
+            "ML": "2.2",
+            "Location": "BULGARISTAN"
+        },
+        {
+            "Date": "2022.02.01",
             "Time": "15:50:46",
             "Latitude": "39.4545",
             "Longitude": "26.0720",
@@ -4445,24 +4463,6 @@
             "Depth": "6.9",
             "ML": "2.3",
             "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "20:21:02",
-            "Latitude": "36.9745",
-            "Longitude": "27.6215",
-            "Depth": "6.9",
-            "ML": "2.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "20:16:23",
-            "Latitude": "40.0422",
-            "Longitude": "24.2502",
-            "Depth": "21.0",
-            "ML": "2.5",
-            "Location": "YUNANISTAN"
         }
     ]
 }
