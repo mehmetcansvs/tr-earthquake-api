@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.02",
+            "Time": "14:08:10",
+            "Latitude": "35.6343",
+            "Longitude": "28.1940",
+            "Depth": "10.6",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.02",
             "Time": "10:47:16",
             "Latitude": "37.8540",
             "Longitude": "27.0412",
@@ -4445,15 +4454,6 @@
             "Depth": "9.0",
             "ML": "1.3",
             "Location": "BEYLER GOLMARMARA MANISA"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "22:43:40",
-            "Latitude": "39.0512",
-            "Longitude": "35.8952",
-            "Depth": "2.5",
-            "ML": "1.6",
-            "Location": "PALAS SARIOGLAN KAYSERI"
         }
     ]
 }
