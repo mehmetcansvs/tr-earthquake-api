@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.02.02",
+            "Time": "05:50:24",
+            "Latitude": "40.6512",
+            "Longitude": "36.4457",
+            "Depth": "19.2",
+            "ML": "2.7",
+            "Location": "CIBRIL ERBAA TOKAT"
+        },
+        {
+            "Date": "2022.02.02",
+            "Time": "04:55:09",
+            "Latitude": "37.1802",
+            "Longitude": "28.5275",
+            "Depth": "12.3",
+            "ML": "1.9",
+            "Location": "YAYLASOGUT ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.02",
+            "Time": "02:29:28",
+            "Latitude": "37.6688",
+            "Longitude": "26.0283",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.02.02",
+            "Time": "02:14:46",
+            "Latitude": "37.6947",
+            "Longitude": "25.9917",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
             "Date": "2022.02.01",
             "Time": "23:04:58",
             "Latitude": "39.6055",
@@ -4418,42 +4454,6 @@
             "Depth": "1.9",
             "ML": "1.2",
             "Location": "DUDEN YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "21:41:24",
-            "Latitude": "41.1177",
-            "Longitude": "24.5072",
-            "Depth": "5.5",
-            "ML": "2.9",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "21:37:27",
-            "Latitude": "36.9828",
-            "Longitude": "30.4908",
-            "Depth": "5.3",
-            "ML": "1.6",
-            "Location": "BAYATBADEMLERI KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "21:19:57",
-            "Latitude": "37.5848",
-            "Longitude": "29.4888",
-            "Depth": "5.3",
-            "ML": "1.6",
-            "Location": "YESILYUVA ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "21:19:14",
-            "Latitude": "37.6012",
-            "Longitude": "29.4440",
-            "Depth": "13.9",
-            "ML": "1.1",
-            "Location": "YESILYUVA ACIPAYAM DENIZLI"
         }
     ]
 }
