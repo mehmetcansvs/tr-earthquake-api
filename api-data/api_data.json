@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.02",
+            "Time": "10:47:16",
+            "Latitude": "37.8540",
+            "Longitude": "27.0412",
+            "Depth": "9.0",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.02",
             "Time": "05:50:24",
             "Latitude": "40.6512",
             "Longitude": "36.4457",
@@ -233,6 +242,15 @@
             "Depth": "11.6",
             "ML": "1.4",
             "Location": "ELMALI BINGOL"
+        },
+        {
+            "Date": "2022.02.01",
+            "Time": "05:28:22",
+            "Latitude": "38.9100",
+            "Longitude": "43.6105",
+            "Depth": "17.0",
+            "ML": "2.4",
+            "Location": "SAGLAMTAS VAN"
         },
         {
             "Date": "2022.02.01",
@@ -4436,24 +4454,6 @@
             "Depth": "2.5",
             "ML": "1.6",
             "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "22:34:06",
-            "Latitude": "41.1117",
-            "Longitude": "24.5012",
-            "Depth": "6.5",
-            "ML": "2.7",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "22:09:31",
-            "Latitude": "37.6007",
-            "Longitude": "29.5183",
-            "Depth": "1.9",
-            "ML": "1.2",
-            "Location": "DUDEN YESILOVA BURDUR"
         }
     ]
 }
