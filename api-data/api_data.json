@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.02",
+            "Time": "15:36:36",
+            "Latitude": "36.1870",
+            "Longitude": "33.7270",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "YESILOVACIK SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.02.02",
             "Time": "14:08:10",
             "Latitude": "35.6343",
             "Longitude": "28.1940",
@@ -4445,15 +4454,6 @@
             "Depth": "5.3",
             "ML": "1.5",
             "Location": "KELER MENDERES IZMIR"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "22:54:17",
-            "Latitude": "38.7107",
-            "Longitude": "27.9722",
-            "Depth": "9.0",
-            "ML": "1.3",
-            "Location": "BEYLER GOLMARMARA MANISA"
         }
     ]
 }
