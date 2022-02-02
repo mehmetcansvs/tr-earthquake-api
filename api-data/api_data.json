@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.02",
+            "Time": "19:45:19",
+            "Latitude": "37.8510",
+            "Longitude": "27.0085",
+            "Depth": "2.7",
+            "ML": "2.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.02",
+            "Time": "19:29:30",
+            "Latitude": "37.8370",
+            "Longitude": "26.9140",
+            "Depth": "15.0",
+            "ML": "2.1",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.02",
+            "Time": "19:23:55",
+            "Latitude": "35.8113",
+            "Longitude": "28.3908",
+            "Depth": "61.2",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.02",
+            "Time": "19:23:48",
+            "Latitude": "40.2988",
+            "Longitude": "41.6633",
+            "Depth": "13.7",
+            "ML": "1.5",
+            "Location": "KARAPINAR NARMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.02",
+            "Time": "19:21:32",
+            "Latitude": "40.3282",
+            "Longitude": "41.4277",
+            "Depth": "12.8",
+            "ML": "1.6",
+            "Location": "ESENDURAK TORTUM ERZURUM"
+        },
+        {
+            "Date": "2022.02.02",
             "Time": "15:36:36",
             "Latitude": "36.1870",
             "Longitude": "33.7270",
@@ -4409,51 +4454,6 @@
             "Depth": "16.6",
             "ML": "1.0",
             "Location": "YESILYUVA ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "00:21:48",
-            "Latitude": "39.5068",
-            "Longitude": "44.8342",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "TURKIYE IRAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "23:48:32",
-            "Latitude": "42.1172",
-            "Longitude": "30.6753",
-            "Depth": "46.6",
-            "ML": "2.6",
-            "Location": "KARADENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "23:41:07",
-            "Latitude": "38.2405",
-            "Longitude": "30.8340",
-            "Depth": "10.0",
-            "ML": "1.2",
-            "Location": "TASEVI YALVAC ISPARTA"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "23:27:02",
-            "Latitude": "36.5572",
-            "Longitude": "28.7280",
-            "Depth": "23.2",
-            "ML": "2.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.20",
-            "Time": "23:23:46",
-            "Latitude": "38.1092",
-            "Longitude": "27.0502",
-            "Depth": "5.3",
-            "ML": "1.5",
-            "Location": "KELER MENDERES IZMIR"
         }
     ]
 }
