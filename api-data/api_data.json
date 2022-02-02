@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.02",
+            "Time": "22:12:23",
+            "Latitude": "39.3303",
+            "Longitude": "27.8895",
+            "Depth": "17.5",
+            "ML": "1.4",
+            "Location": "KOCAISKAN KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.02.02",
+            "Time": "21:44:17",
+            "Latitude": "38.3988",
+            "Longitude": "28.3875",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "YENIKOY ALASEHIR MANISA"
+        },
+        {
+            "Date": "2022.02.02",
+            "Time": "20:57:01",
+            "Latitude": "39.9077",
+            "Longitude": "39.6270",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "KUSLUK KELKIT GUMUSHANE"
+        },
+        {
+            "Date": "2022.02.02",
             "Time": "19:45:19",
             "Latitude": "37.8510",
             "Longitude": "27.0085",
@@ -4427,33 +4454,6 @@
             "Depth": "7.8",
             "ML": "1.7",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "00:35:29",
-            "Latitude": "37.1067",
-            "Longitude": "28.8807",
-            "Depth": "3.3",
-            "ML": "0.9",
-            "Location": "OTMANLAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "00:34:40",
-            "Latitude": "39.0838",
-            "Longitude": "27.8302",
-            "Depth": "6.4",
-            "ML": "1.5",
-            "Location": "ILYASLAR KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "00:23:23",
-            "Latitude": "37.5647",
-            "Longitude": "29.4812",
-            "Depth": "16.6",
-            "ML": "1.0",
-            "Location": "YESILYUVA ACIPAYAM DENIZLI"
         }
     ]
 }
