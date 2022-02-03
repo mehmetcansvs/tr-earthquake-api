@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.03",
+            "Time": "16:56:17",
+            "Latitude": "39.8302",
+            "Longitude": "43.4250",
+            "Depth": "10.2",
+            "ML": "2.0",
+            "Location": "TUTAK TUZLUCA IGDIR"
+        },
+        {
+            "Date": "2022.02.03",
+            "Time": "16:33:17",
+            "Latitude": "39.0318",
+            "Longitude": "26.0300",
+            "Depth": "7.0",
+            "ML": "2.4",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.03",
+            "Time": "15:46:55",
+            "Latitude": "37.1107",
+            "Longitude": "29.2353",
+            "Depth": "15.4",
+            "ML": "1.8",
+            "Location": "KOCAOVA CAMELI DENIZLI"
+        },
+        {
+            "Date": "2022.02.03",
+            "Time": "15:45:56",
+            "Latitude": "37.3903",
+            "Longitude": "29.2735",
+            "Depth": "12.2",
+            "ML": "1.2",
+            "Location": "MEVLUTLER ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.02.03",
             "Time": "14:01:20",
             "Latitude": "38.8588",
             "Longitude": "43.5555",
@@ -4418,42 +4454,6 @@
             "Depth": "12.6",
             "ML": "2.5",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "03:56:18",
-            "Latitude": "36.6392",
-            "Longitude": "29.9562",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "YAKACIFTLIK ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "03:23:42",
-            "Latitude": "36.6387",
-            "Longitude": "29.9077",
-            "Depth": "13.4",
-            "ML": "1.1",
-            "Location": "YAKACIFTLIK ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "03:21:39",
-            "Latitude": "39.3523",
-            "Longitude": "43.7370",
-            "Depth": "12.6",
-            "ML": "1.2",
-            "Location": "ATADAMI DIYADIN AGRI"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "03:19:57",
-            "Latitude": "37.0237",
-            "Longitude": "28.4760",
-            "Depth": "13.4",
-            "ML": "0.8",
-            "Location": "SARAYYANI ULA MUGLA"
         }
     ]
 }
