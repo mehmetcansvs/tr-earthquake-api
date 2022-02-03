@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.03",
+            "Time": "02:15:43",
+            "Latitude": "39.8830",
+            "Longitude": "43.3378",
+            "Depth": "7.6",
+            "ML": "2.2",
+            "Location": "KOCBASI AGRI"
+        },
+        {
+            "Date": "2022.02.03",
+            "Time": "01:56:42",
+            "Latitude": "40.1557",
+            "Longitude": "41.2455",
+            "Depth": "7.5",
+            "ML": "2.2",
+            "Location": "GUNGORMEZ YAKUTIYE ERZURUM"
+        },
+        {
+            "Date": "2022.02.03",
+            "Time": "01:11:14",
+            "Latitude": "39.8612",
+            "Longitude": "43.3802",
+            "Depth": "10.5",
+            "ML": "1.8",
+            "Location": "KANDILLI TUZLUCA IGDIR"
+        },
+        {
+            "Date": "2022.02.03",
             "Time": "00:03:47",
             "Latitude": "35.1603",
             "Longitude": "32.0237",
@@ -4427,33 +4454,6 @@
             "Depth": "15.2",
             "ML": "1.9",
             "Location": "KOBAKLAR GORDES MANISA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "01:19:51",
-            "Latitude": "39.0972",
-            "Longitude": "28.3320",
-            "Depth": "10.6",
-            "ML": "2.0",
-            "Location": "KOBAKLAR GORDES MANISA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "01:04:37",
-            "Latitude": "39.0233",
-            "Longitude": "26.5512",
-            "Depth": "7.8",
-            "ML": "2.3",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "01:02:05",
-            "Latitude": "39.3663",
-            "Longitude": "39.4413",
-            "Depth": "18.1",
-            "ML": "1.4",
-            "Location": "YONCALI OVACIK TUNCELI"
         }
     ]
 }
