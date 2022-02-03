@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.03",
+            "Time": "06:46:15",
+            "Latitude": "37.9022",
+            "Longitude": "27.7312",
+            "Depth": "1.5",
+            "ML": "2.0",
+            "Location": "IKIZDERE INCIRLIOVA AYDIN"
+        },
+        {
+            "Date": "2022.02.03",
+            "Time": "06:45:24",
+            "Latitude": "37.9077",
+            "Longitude": "30.6370",
+            "Depth": "4.7",
+            "ML": "1.9",
+            "Location": "BAYAT ATABEY ISPARTA"
+        },
+        {
+            "Date": "2022.02.03",
+            "Time": "06:31:30",
+            "Latitude": "36.0107",
+            "Longitude": "27.5703",
+            "Depth": "8.9",
+            "ML": "3.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.03",
             "Time": "02:15:43",
             "Latitude": "39.8830",
             "Longitude": "43.3378",
@@ -4427,33 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "02:37:17",
-            "Latitude": "37.0365",
-            "Longitude": "28.4132",
-            "Depth": "4.8",
-            "ML": "1.1",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "02:13:26",
-            "Latitude": "36.6872",
-            "Longitude": "29.7903",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "KUZUKOY ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "01:29:05",
-            "Latitude": "39.0718",
-            "Longitude": "28.3377",
-            "Depth": "15.2",
-            "ML": "1.9",
-            "Location": "KOBAKLAR GORDES MANISA"
         }
     ]
 }
