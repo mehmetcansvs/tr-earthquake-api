@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.03",
+            "Time": "14:01:20",
+            "Latitude": "38.8588",
+            "Longitude": "43.5555",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "BAGDASAN VAN"
+        },
+        {
+            "Date": "2022.02.03",
+            "Time": "13:43:53",
+            "Latitude": "37.0570",
+            "Longitude": "28.3977",
+            "Depth": "2.0",
+            "ML": "2.4",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.03",
+            "Time": "13:17:59",
+            "Latitude": "35.9402",
+            "Longitude": "32.1780",
+            "Depth": "77.8",
+            "ML": "2.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.03",
             "Time": "11:16:00",
             "Latitude": "37.7940",
             "Longitude": "36.0770",
@@ -4427,33 +4454,6 @@
             "Depth": "13.4",
             "ML": "0.8",
             "Location": "SARAYYANI ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "03:12:31",
-            "Latitude": "39.1032",
-            "Longitude": "28.3580",
-            "Depth": "8.1",
-            "ML": "1.8",
-            "Location": "KOBAKLAR GORDES MANISA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "03:06:42",
-            "Latitude": "37.8520",
-            "Longitude": "28.9755",
-            "Depth": "25.8",
-            "ML": "1.2",
-            "Location": "ALTINTEPE SARAYKOY DENIZLI"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "02:59:10",
-            "Latitude": "40.7292",
-            "Longitude": "27.4380",
-            "Depth": "6.9",
-            "ML": "2.6",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
         }
     ]
 }
