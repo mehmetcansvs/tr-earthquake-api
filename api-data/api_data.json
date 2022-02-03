@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.02.04",
+            "Time": "00:31:00",
+            "Latitude": "39.3903",
+            "Longitude": "40.6955",
+            "Depth": "16.1",
+            "ML": "1.4",
+            "Location": "DINARBEY YEDISU BINGOL"
+        },
+        {
             "Date": "2022.02.03",
             "Time": "22:35:29",
             "Latitude": "39.8687",
@@ -4445,15 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.5",
             "Location": "SABIRTASI KIGI BINGOL"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "08:17:07",
-            "Latitude": "37.1243",
-            "Longitude": "29.0532",
-            "Depth": "23.5",
-            "ML": "1.3",
-            "Location": "SANDALCIK ACIPAYAM DENIZLI"
         }
     ]
 }
