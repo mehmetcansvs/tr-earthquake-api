@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.02.04",
+            "Time": "16:46:03",
+            "Latitude": "36.2798",
+            "Longitude": "35.4727",
+            "Depth": "12.3",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.04",
+            "Time": "16:29:08",
+            "Latitude": "38.9795",
+            "Longitude": "26.0707",
+            "Depth": "1.8",
+            "ML": "2.9",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.04",
+            "Time": "15:50:34",
+            "Latitude": "40.5060",
+            "Longitude": "41.7802",
+            "Depth": "8.8",
+            "ML": "1.6",
+            "Location": "CAMLIBEL OLTU ERZURUM"
+        },
+        {
+            "Date": "2022.02.04",
+            "Time": "15:41:42",
+            "Latitude": "38.5522",
+            "Longitude": "43.1048",
+            "Depth": "16.2",
+            "ML": "1.8",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.02.04",
+            "Time": "15:18:22",
+            "Latitude": "36.1495",
+            "Longitude": "33.5580",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.02.04",
+            "Time": "15:17:06",
+            "Latitude": "37.8883",
+            "Longitude": "34.6485",
+            "Depth": "4.5",
+            "ML": "1.3",
+            "Location": "SAZLICA NIGDE"
+        },
+        {
+            "Date": "2022.02.04",
             "Time": "13:57:54",
             "Latitude": "38.3778",
             "Longitude": "26.9010",
@@ -4400,60 +4454,6 @@
             "Depth": "5.0",
             "ML": "3.3",
             "Location": "ISKENDERSEYH KOYULHISAR SIVAS"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "23:59:41",
-            "Latitude": "35.1882",
-            "Longitude": "25.3252",
-            "Depth": "10.8",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "23:28:37",
-            "Latitude": "39.4607",
-            "Longitude": "28.1065",
-            "Depth": "22.7",
-            "ML": "1.6",
-            "Location": "KADIKOY BIGADIC BALIKESIR"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "21:21:30",
-            "Latitude": "40.4735",
-            "Longitude": "29.1597",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "GEMLIK BURSA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "20:43:30",
-            "Latitude": "35.3327",
-            "Longitude": "25.2427",
-            "Depth": "3.3",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "20:02:08",
-            "Latitude": "35.0747",
-            "Longitude": "33.5863",
-            "Depth": "40.3",
-            "ML": "3.4",
-            "Location": "KIBRIS DEGIRMENLIK"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "19:39:35",
-            "Latitude": "38.4623",
-            "Longitude": "39.1580",
-            "Depth": "1.6",
-            "ML": "3.5",
-            "Location": "KAVALLI SIVRICE ELAZIG"
         }
     ]
 }
