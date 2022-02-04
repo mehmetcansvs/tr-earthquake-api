@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.02.05",
+            "Time": "00:46:46",
+            "Latitude": "37.2080",
+            "Longitude": "30.4287",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "KARAKUYU KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "00:28:40",
+            "Latitude": "38.5032",
+            "Longitude": "39.3158",
+            "Depth": "3.3",
+            "ML": "3.3",
+            "Location": "GUNEYKOY SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.04",
+            "Time": "23:14:54",
+            "Latitude": "40.0705",
+            "Longitude": "40.5823",
+            "Depth": "3.9",
+            "ML": "2.1",
+            "Location": "KAPIKALE ASKALE ERZURUM"
+        },
+        {
             "Date": "2022.02.04",
             "Time": "21:23:02",
             "Latitude": "38.5438",
@@ -4427,33 +4454,6 @@
             "Depth": "9.0",
             "ML": "2.5",
             "Location": "KOBAKLAR GORDES MANISA"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "02:54:00",
-            "Latitude": "39.0550",
-            "Longitude": "27.4973",
-            "Depth": "11.4",
-            "ML": "1.7",
-            "Location": "KALEMKOY KINIK IZMIR"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "02:51:20",
-            "Latitude": "39.0375",
-            "Longitude": "35.8783",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "02:50:29",
-            "Latitude": "39.0145",
-            "Longitude": "35.9282",
-            "Depth": "7.5",
-            "ML": "2.5",
-            "Location": "KARACAOREN BUNYAN KAYSERI"
         }
     ]
 }
