@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.04",
+            "Time": "19:25:46",
+            "Latitude": "37.0738",
+            "Longitude": "28.3313",
+            "Depth": "4.8",
+            "ML": "1.7",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.04",
             "Time": "18:57:32",
             "Latitude": "38.8018",
             "Longitude": "31.5527",
@@ -4445,15 +4454,6 @@
             "Depth": "11.5",
             "ML": "1.9",
             "Location": "BELEKLER ILGIN KONYA"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "02:18:02",
-            "Latitude": "35.4310",
-            "Longitude": "26.5073",
-            "Depth": "6.4",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
