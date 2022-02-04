@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.04",
+            "Time": "04:12:26",
+            "Latitude": "40.3260",
+            "Longitude": "29.8740",
+            "Depth": "2.9",
+            "ML": "2.2",
+            "Location": "ORHANIYE OSMANELI BILECIK"
+        },
+        {
+            "Date": "2022.02.04",
             "Time": "00:31:00",
             "Latitude": "39.3903",
             "Longitude": "40.6955",
@@ -4445,15 +4454,6 @@
             "Depth": "14.3",
             "ML": "1.8",
             "Location": "SAYDAMLI LICE DIYARBAKIR"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "08:46:12",
-            "Latitude": "39.3065",
-            "Longitude": "40.2020",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "SABIRTASI KIGI BINGOL"
         }
     ]
 }
