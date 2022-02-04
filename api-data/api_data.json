@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.04",
+            "Time": "07:01:39",
+            "Latitude": "38.3993",
+            "Longitude": "39.3410",
+            "Depth": "60.7",
+            "ML": "2.4",
+            "Location": "BASKAYNAK SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.04",
+            "Time": "05:50:23",
+            "Latitude": "38.4872",
+            "Longitude": "39.4318",
+            "Depth": "11.8",
+            "ML": "1.9",
+            "Location": "YONCAPINAR MADEN ELAZIG"
+        },
+        {
+            "Date": "2022.02.04",
             "Time": "04:12:26",
             "Latitude": "40.3260",
             "Longitude": "29.8740",
@@ -4436,24 +4454,6 @@
             "Depth": "31.6",
             "ML": "2.3",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "09:51:13",
-            "Latitude": "36.6042",
-            "Longitude": "28.7438",
-            "Depth": "14.1",
-            "ML": "1.7",
-            "Location": "DALAMAN ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "09:16:08",
-            "Latitude": "38.5528",
-            "Longitude": "40.6138",
-            "Depth": "14.3",
-            "ML": "1.8",
-            "Location": "SAYDAMLI LICE DIYARBAKIR"
         }
     ]
 }
