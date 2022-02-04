@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.04",
+            "Time": "08:53:29",
+            "Latitude": "38.4292",
+            "Longitude": "39.2560",
+            "Depth": "2.2",
+            "ML": "1.9",
+            "Location": "DUZBAHCE SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.04",
+            "Time": "08:01:58",
+            "Latitude": "40.7847",
+            "Longitude": "31.5240",
+            "Depth": "9.7",
+            "ML": "1.7",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.02.04",
             "Time": "07:01:39",
             "Latitude": "38.3993",
             "Longitude": "39.3410",
@@ -4436,24 +4454,6 @@
             "Depth": "7.6",
             "ML": "2.8",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "11:09:44",
-            "Latitude": "40.1993",
-            "Longitude": "31.8207",
-            "Depth": "9.0",
-            "ML": "2.2",
-            "Location": "CAKILOBA BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "10:16:57",
-            "Latitude": "37.6828",
-            "Longitude": "25.9220",
-            "Depth": "31.6",
-            "ML": "2.3",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
