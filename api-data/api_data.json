@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.04",
+            "Time": "11:03:46",
+            "Latitude": "39.7285",
+            "Longitude": "27.7707",
+            "Depth": "9.1",
+            "ML": "1.2",
+            "Location": "AKTARMA BALIKESIR"
+        },
+        {
+            "Date": "2022.02.04",
+            "Time": "09:08:52",
+            "Latitude": "40.6668",
+            "Longitude": "29.1745",
+            "Depth": "5.4",
+            "ML": "2.6",
+            "Location": "KORU CINARCIK YALOVA"
+        },
+        {
+            "Date": "2022.02.04",
+            "Time": "09:08:24",
+            "Latitude": "34.8402",
+            "Longitude": "25.0148",
+            "Depth": "16.5",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.04",
             "Time": "08:53:29",
             "Latitude": "38.4292",
             "Longitude": "39.2560",
@@ -4427,33 +4454,6 @@
             "Depth": "6.7",
             "ML": "1.9",
             "Location": "KIRBULAK REFAHIYE ERZINCAN"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "12:20:46",
-            "Latitude": "40.1210",
-            "Longitude": "27.1923",
-            "Depth": "12.6",
-            "ML": "2.1",
-            "Location": "KATRANCI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "11:42:05",
-            "Latitude": "37.9458",
-            "Longitude": "37.0755",
-            "Depth": "8.8",
-            "ML": "1.2",
-            "Location": "ATAKOY EKINOZU KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "11:41:58",
-            "Latitude": "36.9630",
-            "Longitude": "27.6580",
-            "Depth": "7.6",
-            "ML": "2.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
