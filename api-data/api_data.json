@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.04",
+            "Time": "13:57:54",
+            "Latitude": "38.3778",
+            "Longitude": "26.9010",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "GUZELBAHCE IZMIR"
+        },
+        {
+            "Date": "2022.02.04",
+            "Time": "13:44:14",
+            "Latitude": "36.7818",
+            "Longitude": "28.2927",
+            "Depth": "39.3",
+            "ML": "1.6",
+            "Location": "TURUNC MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.02.04",
             "Time": "12:46:57",
             "Latitude": "40.8380",
             "Longitude": "31.6450",
@@ -4436,24 +4454,6 @@
             "Depth": "1.6",
             "ML": "3.5",
             "Location": "KAVALLI SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "18:46:41",
-            "Latitude": "36.3405",
-            "Longitude": "29.4087",
-            "Depth": "22.8",
-            "ML": "2.3",
-            "Location": "UZUMLU KAS ANTALYA"
-        },
-        {
-            "Date": "2022.01.21",
-            "Time": "17:18:48",
-            "Latitude": "35.6037",
-            "Longitude": "26.1937",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "AKDENIZ"
         }
     ]
 }
