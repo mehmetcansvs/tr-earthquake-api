@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.05",
+            "Time": "13:44:31",
+            "Latitude": "36.6583",
+            "Longitude": "28.1578",
+            "Depth": "77.7",
+            "ML": "2.0",
+            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "13:11:35",
+            "Latitude": "37.2318",
+            "Longitude": "34.5227",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "CAMLIYAYLA MERSIN"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "13:10:14",
+            "Latitude": "40.7893",
+            "Longitude": "25.6633",
+            "Depth": "7.1",
+            "ML": "1.9",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.05",
             "Time": "12:38:53",
             "Latitude": "39.3348",
             "Longitude": "25.7700",
@@ -4436,33 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "BUYUKECELI GULNAR MERSIN REVIZE YAYLALIOZU BALA ANKARA"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "13:10:56",
-            "Latitude": "38.0057",
-            "Longitude": "34.8113",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "GUMUSLER NIGDE"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "13:03:45",
-            "Latitude": "37.7590",
-            "Longitude": "34.4577",
-            "Depth": "5.3",
-            "ML": "1.4",
-            "Location": "SESLIKAYA BOR NIGDE"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "12:50:03",
-            "Latitude": "37.3035",
-            "Longitude": "29.6120",
-            "Depth": "19.0",
-            "ML": "2.1",
-            "Location": "BELKAYA TEFENNI BURDUR"
         }
     ]
 }
