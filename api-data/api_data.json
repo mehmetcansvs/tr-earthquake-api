@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.05",
+            "Time": "08:53:12",
+            "Latitude": "37.1117",
+            "Longitude": "28.8897",
+            "Depth": "9.2",
+            "ML": "1.9",
+            "Location": "OTMANLAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "08:34:16",
+            "Latitude": "38.3902",
+            "Longitude": "31.9693",
+            "Depth": "7.0",
+            "ML": "1.5",
+            "Location": "COBANKAYA ILGIN KONYA"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "07:56:31",
+            "Latitude": "37.7063",
+            "Longitude": "36.1705",
+            "Depth": "12.4",
+            "ML": "2.1",
+            "Location": "HALILBEYLI SAIMBEYLI ADANA"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "07:38:58",
+            "Latitude": "37.5897",
+            "Longitude": "29.4498",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "YESILYUVA ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.02.05",
             "Time": "05:24:18",
             "Latitude": "40.3883",
             "Longitude": "33.3613",
@@ -4427,42 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "KOZDEREGUVEN BALIKESIR"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "05:52:08",
-            "Latitude": "37.6702",
-            "Longitude": "26.0397",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "05:46:23",
-            "Latitude": "41.1655",
-            "Longitude": "43.9868",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "05:45:18",
-            "Latitude": "37.6890",
-            "Longitude": "26.0012",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "05:32:55",
-            "Latitude": "39.5273",
-            "Longitude": "24.1355",
-            "Depth": "28.8",
-            "ML": "4.2",
-            "Location": "YUNANISTAN"
         }
     ]
 }
