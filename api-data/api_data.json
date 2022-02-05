@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.05",
+            "Time": "03:37:31",
+            "Latitude": "37.9690",
+            "Longitude": "26.1805",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "01:23:04",
+            "Latitude": "38.4988",
+            "Longitude": "31.7088",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "COGURLU TUZLUKCU KONYA"
+        },
+        {
+            "Date": "2022.02.05",
             "Time": "00:46:46",
             "Latitude": "37.2080",
             "Longitude": "30.4287",
@@ -4436,24 +4454,6 @@
             "Depth": "5.3",
             "ML": "1.9",
             "Location": "BULUTLU ELAZIG REVIZE GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "03:09:39",
-            "Latitude": "39.0823",
-            "Longitude": "28.3548",
-            "Depth": "8.2",
-            "ML": "2.4",
-            "Location": "KOBAKLAR GORDES MANISA"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "03:08:04",
-            "Latitude": "39.0805",
-            "Longitude": "28.3758",
-            "Depth": "9.0",
-            "ML": "2.5",
-            "Location": "KOBAKLAR GORDES MANISA"
         }
     ]
 }
