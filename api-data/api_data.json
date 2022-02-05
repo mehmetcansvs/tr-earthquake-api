@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.05",
+            "Time": "09:45:17",
+            "Latitude": "38.8657",
+            "Longitude": "40.8327",
+            "Depth": "3.3",
+            "ML": "1.4",
+            "Location": "KUSBURNU BINGOL"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "09:30:31",
+            "Latitude": "36.7257",
+            "Longitude": "31.0868",
+            "Depth": "116.1",
+            "ML": "3.3",
+            "Location": "BELEK ACIKLARI ANTALYA AKDENIZ"
+        },
+        {
+            "Date": "2022.02.05",
             "Time": "08:53:12",
             "Latitude": "37.1117",
             "Longitude": "28.8897",
@@ -4445,24 +4463,6 @@
             "Depth": "5.3",
             "ML": "2.3",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "08:05:00",
-            "Latitude": "39.8450",
-            "Longitude": "41.0190",
-            "Depth": "16.2",
-            "ML": "1.9",
-            "Location": "DEREBOGAZ PALANDOKEN ERZURUM"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "06:26:03",
-            "Latitude": "39.3427",
-            "Longitude": "27.8520",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "KOZDEREGUVEN BALIKESIR"
         }
     ]
 }
