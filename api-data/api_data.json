@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.02.05",
+            "Time": "23:01:25",
+            "Latitude": "40.5273",
+            "Longitude": "35.7448",
+            "Depth": "2.1",
+            "ML": "3.3",
+            "Location": "OVASARAY AMASYA"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "22:58:44",
+            "Latitude": "39.6073",
+            "Longitude": "25.8957",
+            "Depth": "8.0",
+            "ML": "1.9",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "22:45:56",
+            "Latitude": "38.8915",
+            "Longitude": "43.5103",
+            "Depth": "4.9",
+            "ML": "2.3",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "22:18:01",
+            "Latitude": "39.4222",
+            "Longitude": "39.9352",
+            "Depth": "18.0",
+            "ML": "1.5",
+            "Location": "CAGLAYAN PULUMUR TUNCELI"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "21:48:58",
+            "Latitude": "40.7775",
+            "Longitude": "31.4852",
+            "Depth": "6.1",
+            "ML": "1.5",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "21:21:53",
+            "Latitude": "37.0717",
+            "Longitude": "28.4033",
+            "Depth": "11.5",
+            "ML": "1.0",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "21:05:33",
+            "Latitude": "38.9763",
+            "Longitude": "27.8632",
+            "Depth": "13.9",
+            "ML": "2.5",
+            "Location": "KARABORKLU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.02.05",
             "Time": "19:17:10",
             "Latitude": "39.5610",
             "Longitude": "40.9342",
@@ -4409,69 +4472,6 @@
             "Depth": "22.8",
             "ML": "1.6",
             "Location": "MEZRETLI KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "15:55:02",
-            "Latitude": "37.0553",
-            "Longitude": "28.5752",
-            "Depth": "18.1",
-            "ML": "1.7",
-            "Location": "BALCILAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "15:46:34",
-            "Latitude": "36.4650",
-            "Longitude": "30.8477",
-            "Depth": "17.4",
-            "ML": "1.8",
-            "Location": "ANTALYA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "15:38:30",
-            "Latitude": "36.7975",
-            "Longitude": "28.2995",
-            "Depth": "10.9",
-            "ML": "1.4",
-            "Location": "ADAKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "15:31:09",
-            "Latitude": "39.1773",
-            "Longitude": "40.5130",
-            "Depth": "19.3",
-            "ML": "1.7",
-            "Location": "KOZLU ADAKLI BINGOL"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "15:07:24",
-            "Latitude": "37.1630",
-            "Longitude": "35.7210",
-            "Depth": "15.4",
-            "ML": "1.1",
-            "Location": "DUMLU CEYHAN ADANA"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "14:28:47",
-            "Latitude": "40.3250",
-            "Longitude": "29.7697",
-            "Depth": "19.0",
-            "ML": "1.8",
-            "Location": "TERZILER YENISEHIR BURSA"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "14:13:45",
-            "Latitude": "40.2995",
-            "Longitude": "29.6787",
-            "Depth": "6.6",
-            "ML": "3.7",
-            "Location": "AFSAR YENISEHIR BURSA"
         }
     ]
 }
