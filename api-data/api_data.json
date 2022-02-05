@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.05",
+            "Time": "18:03:16",
+            "Latitude": "40.6412",
+            "Longitude": "32.8112",
+            "Depth": "4.7",
+            "ML": "1.5",
+            "Location": "YAGCIHUSEYIN KIZILCAHAMAM ANKARA"
+        },
+        {
+            "Date": "2022.02.05",
             "Time": "16:31:13",
             "Latitude": "38.5077",
             "Longitude": "39.2960",
@@ -4463,15 +4472,6 @@
             "Depth": "4.4",
             "ML": "1.9",
             "Location": "BALATDANISMENT HARMANCIK BURSA"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "14:01:39",
-            "Latitude": "38.3935",
-            "Longitude": "39.0672",
-            "Depth": "8.9",
-            "ML": "1.7",
-            "Location": "KALABA SIVRICE ELAZIG"
         }
     ]
 }
