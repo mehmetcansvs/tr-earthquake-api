@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.05",
+            "Time": "16:31:13",
+            "Latitude": "38.5077",
+            "Longitude": "39.2960",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "BEKCITEPE SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "16:13:18",
+            "Latitude": "40.4650",
+            "Longitude": "27.0760",
+            "Depth": "9.4",
+            "ML": "1.2",
+            "Location": "DEGIRMENCIK BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.02.05",
             "Time": "13:44:31",
             "Latitude": "36.6583",
             "Longitude": "28.1578",
@@ -4454,15 +4472,6 @@
             "Depth": "8.9",
             "ML": "1.7",
             "Location": "KALABA SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "13:51:42",
-            "Latitude": "36.1323",
-            "Longitude": "33.5752",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "BUYUKECELI GULNAR MERSIN REVIZE YAYLALIOZU BALA ANKARA"
         }
     ]
 }
