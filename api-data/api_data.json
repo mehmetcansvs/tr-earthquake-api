@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.05",
+            "Time": "19:17:10",
+            "Latitude": "39.5610",
+            "Longitude": "40.9342",
+            "Depth": "6.3",
+            "ML": "1.2",
+            "Location": "KOSELER CAT ERZURUM"
+        },
+        {
+            "Date": "2022.02.05",
             "Time": "18:03:16",
             "Latitude": "40.6412",
             "Longitude": "32.8112",
@@ -4463,15 +4472,6 @@
             "Depth": "6.6",
             "ML": "3.7",
             "Location": "AFSAR YENISEHIR BURSA"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "14:10:48",
-            "Latitude": "39.6398",
-            "Longitude": "29.2237",
-            "Depth": "4.4",
-            "ML": "1.9",
-            "Location": "BALATDANISMENT HARMANCIK BURSA"
         }
     ]
 }
