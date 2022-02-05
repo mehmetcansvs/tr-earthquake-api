@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.05",
+            "Time": "05:24:18",
+            "Latitude": "40.3883",
+            "Longitude": "33.3613",
+            "Depth": "6.8",
+            "ML": "2.0",
+            "Location": "KINIK KALECIK ANKARA"
+        },
+        {
+            "Date": "2022.02.05",
             "Time": "04:51:36",
             "Latitude": "37.0695",
             "Longitude": "28.2938",
@@ -4454,15 +4463,6 @@
             "Depth": "28.8",
             "ML": "4.2",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "05:27:11",
-            "Latitude": "38.5315",
-            "Longitude": "38.9595",
-            "Depth": "5.3",
-            "ML": "1.9",
-            "Location": "BULUTLU ELAZIG REVIZE"
         }
     ]
 }
