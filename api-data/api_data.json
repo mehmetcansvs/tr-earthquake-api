@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.06",
+            "Time": "10:22:24",
+            "Latitude": "38.9557",
+            "Longitude": "42.0085",
+            "Depth": "4.1",
+            "ML": "2.8",
+            "Location": "OGLAKKAYA BULANIK MUS"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "09:45:48",
+            "Latitude": "40.1590",
+            "Longitude": "41.3132",
+            "Depth": "14.8",
+            "ML": "1.8",
+            "Location": "GUNGORMEZ YAKUTIYE ERZURUM"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "08:33:11",
+            "Latitude": "38.8100",
+            "Longitude": "42.4368",
+            "Depth": "8.0",
+            "ML": "1.8",
+            "Location": "CATALAGZI AHLAT BITLIS"
+        },
+        {
+            "Date": "2022.02.06",
             "Time": "07:06:44",
             "Latitude": "36.8435",
             "Longitude": "28.0357",
@@ -4445,33 +4472,6 @@
             "Depth": "14.0",
             "ML": "1.5",
             "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "18:21:20",
-            "Latitude": "37.8085",
-            "Longitude": "29.6620",
-            "Depth": "11.0",
-            "ML": "1.8",
-            "Location": "CARDAK DENIZLI"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "15:02:21",
-            "Latitude": "38.9852",
-            "Longitude": "42.0423",
-            "Depth": "11.3",
-            "ML": "2.6",
-            "Location": "GUNBATMAZ BULANIK MUS"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "15:01:50",
-            "Latitude": "39.4150",
-            "Longitude": "26.2732",
-            "Depth": "14.8",
-            "ML": "2.2",
-            "Location": "EDREMIT KORFEZI EGE DENIZI"
         }
     ]
 }
