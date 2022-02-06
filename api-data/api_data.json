@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.06",
+            "Time": "23:34:30",
+            "Latitude": "38.0708",
+            "Longitude": "27.4868",
+            "Depth": "9.6",
+            "ML": "1.7",
+            "Location": "HASANCAVUSLAR TIRE IZMIR"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "23:30:11",
+            "Latitude": "37.3878",
+            "Longitude": "35.4745",
+            "Depth": "18.3",
+            "ML": "1.8",
+            "Location": "UCTEPE IMAMOGLU ADANA"
+        },
+        {
+            "Date": "2022.02.06",
             "Time": "22:43:27",
             "Latitude": "35.2810",
             "Longitude": "27.2300",
@@ -4454,24 +4472,6 @@
             "Depth": "4.8",
             "ML": "1.2",
             "Location": "KARASAZ ELAZIG"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "02:46:45",
-            "Latitude": "36.9035",
-            "Longitude": "28.2745",
-            "Depth": "53.8",
-            "ML": "1.7",
-            "Location": "BELDIBI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "02:32:22",
-            "Latitude": "39.9715",
-            "Longitude": "42.1005",
-            "Depth": "5.4",
-            "ML": "1.2",
-            "Location": "YUZOREN HORASAN ERZURUM"
         }
     ]
 }
