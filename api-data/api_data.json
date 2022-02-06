@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.02.06",
+            "Time": "07:06:44",
+            "Latitude": "36.8435",
+            "Longitude": "28.0357",
+            "Depth": "6.5",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "06:53:35",
+            "Latitude": "38.0618",
+            "Longitude": "27.4838",
+            "Depth": "5.1",
+            "ML": "2.0",
+            "Location": "HASANCAVUSLAR TIRE IZMIR"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "06:45:54",
+            "Latitude": "37.6997",
+            "Longitude": "26.0282",
+            "Depth": "4.9",
+            "ML": "2.5",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "06:30:48",
+            "Latitude": "38.8882",
+            "Longitude": "43.5238",
+            "Depth": "7.0",
+            "ML": "1.8",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "06:19:33",
+            "Latitude": "38.3112",
+            "Longitude": "42.3853",
+            "Depth": "5.3",
+            "ML": "1.5",
+            "Location": "ALADANA HIZAN BITLIS"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "06:12:16",
+            "Latitude": "37.7002",
+            "Longitude": "25.9883",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "06:05:41",
+            "Latitude": "38.0748",
+            "Longitude": "27.4793",
+            "Depth": "8.8",
+            "ML": "2.5",
+            "Location": "HASANCAVUSLAR TIRE IZMIR"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "06:05:06",
+            "Latitude": "39.4853",
+            "Longitude": "27.9513",
+            "Depth": "3.7",
+            "ML": "1.6",
+            "Location": "INKAYA BALIKESIR"
+        },
+        {
+            "Date": "2022.02.06",
             "Time": "05:13:09",
             "Latitude": "37.7572",
             "Longitude": "25.8855",
@@ -44,6 +116,15 @@
             "Depth": "5.0",
             "ML": "3.0",
             "Location": "MARIFET KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "03:53:21",
+            "Latitude": "38.9912",
+            "Longitude": "42.0757",
+            "Depth": "7.5",
+            "ML": "1.3",
+            "Location": "YEMISEN BULANIK MUS"
         },
         {
             "Date": "2022.02.06",
@@ -4391,87 +4472,6 @@
             "Depth": "14.8",
             "ML": "2.2",
             "Location": "EDREMIT KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "09:37:10",
-            "Latitude": "38.8782",
-            "Longitude": "27.9073",
-            "Depth": "7.3",
-            "ML": "2.2",
-            "Location": "SEGIRDIM AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "08:30:38",
-            "Latitude": "37.8540",
-            "Longitude": "32.0233",
-            "Depth": "8.7",
-            "ML": "1.8",
-            "Location": "SAGLIK MERAM KONYA"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "06:26:50",
-            "Latitude": "36.9573",
-            "Longitude": "28.3090",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "CETIBELI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "06:22:17",
-            "Latitude": "36.9565",
-            "Longitude": "28.2733",
-            "Depth": "7.6",
-            "ML": "2.9",
-            "Location": "CAMLI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "05:57:46",
-            "Latitude": "40.7227",
-            "Longitude": "31.3915",
-            "Depth": "8.9",
-            "ML": "1.6",
-            "Location": "YESILTEPE KAYNASLI DUZCE"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "04:37:32",
-            "Latitude": "38.9505",
-            "Longitude": "41.4743",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "YESILOVA MUS"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "04:29:13",
-            "Latitude": "39.9708",
-            "Longitude": "39.7798",
-            "Depth": "13.4",
-            "ML": "1.8",
-            "Location": "DAMLICA DEMIROZU BAYBURT"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "03:45:20",
-            "Latitude": "34.5482",
-            "Longitude": "26.3205",
-            "Depth": "60.2",
-            "ML": "4.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "03:26:31",
-            "Latitude": "39.9510",
-            "Longitude": "25.5740",
-            "Depth": "7.7",
-            "ML": "2.1",
-            "Location": "EGE DENIZI"
         }
     ]
 }
