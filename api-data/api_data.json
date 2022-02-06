@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.06",
+            "Time": "03:55:34",
+            "Latitude": "39.8183",
+            "Longitude": "41.8435",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "MARIFET KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.02.06",
             "Time": "03:50:56",
             "Latitude": "38.5473",
             "Longitude": "31.6065",
@@ -4463,15 +4472,6 @@
             "Depth": "7.1",
             "ML": "2.0",
             "Location": "KIZILCADERE DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "00:36:53",
-            "Latitude": "32.6397",
-            "Longitude": "35.4660",
-            "Depth": "7.6",
-            "ML": "4.2",
-            "Location": "DOGU AKDENIZ"
         }
     ]
 }
