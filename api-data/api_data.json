@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.06",
+            "Time": "16:00:39",
+            "Latitude": "38.4543",
+            "Longitude": "25.7173",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "15:57:12",
+            "Latitude": "38.4287",
+            "Longitude": "25.7818",
+            "Depth": "8.8",
+            "ML": "3.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "15:31:10",
+            "Latitude": "36.7385",
+            "Longitude": "30.5003",
+            "Depth": "7.0",
+            "ML": "2.0",
+            "Location": "HISARCANDIR KONYAALTI ANTALYA"
+        },
+        {
+            "Date": "2022.02.06",
             "Time": "15:07:52",
             "Latitude": "40.4570",
             "Longitude": "28.9952",
@@ -4445,33 +4472,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "ULUMESCIT BOLU"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "01:13:57",
-            "Latitude": "39.2832",
-            "Longitude": "40.2135",
-            "Depth": "11.9",
-            "ML": "1.7",
-            "Location": "SABIRTASI KIGI BINGOL"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "00:32:55",
-            "Latitude": "39.3058",
-            "Longitude": "41.7988",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "YELPIZ HINIS ERZURUM"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "00:28:34",
-            "Latitude": "37.2520",
-            "Longitude": "30.7848",
-            "Depth": "17.4",
-            "ML": "1.5",
-            "Location": "KIZILSEKI BUCAK BURDUR"
         }
     ]
 }
