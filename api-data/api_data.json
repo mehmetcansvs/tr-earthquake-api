@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.06",
+            "Time": "22:43:27",
+            "Latitude": "35.2810",
+            "Longitude": "27.2300",
+            "Depth": "12.8",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.06",
             "Time": "20:21:35",
             "Latitude": "39.8753",
             "Longitude": "40.0688",
@@ -4463,15 +4472,6 @@
             "Depth": "5.4",
             "ML": "1.2",
             "Location": "YUZOREN HORASAN ERZURUM"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "01:46:12",
-            "Latitude": "35.0938",
-            "Longitude": "25.1895",
-            "Depth": "15.0",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
