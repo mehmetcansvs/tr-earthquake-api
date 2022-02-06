@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.06",
+            "Time": "20:21:35",
+            "Latitude": "39.8753",
+            "Longitude": "40.0688",
+            "Depth": "4.4",
+            "ML": "3.2",
+            "Location": "BOZAGA CAYIRLI ERZINCAN"
+        },
+        {
+            "Date": "2022.02.06",
             "Time": "18:42:59",
             "Latitude": "39.3597",
             "Longitude": "26.0005",
@@ -4463,15 +4472,6 @@
             "Depth": "15.0",
             "ML": "2.1",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "01:42:23",
-            "Latitude": "40.1428",
-            "Longitude": "24.4138",
-            "Depth": "1.9",
-            "ML": "1.8",
-            "Location": "YUNANISTAN"
         }
     ]
 }
