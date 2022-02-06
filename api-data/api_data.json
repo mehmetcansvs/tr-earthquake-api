@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.06",
+            "Time": "05:13:09",
+            "Latitude": "37.7572",
+            "Longitude": "25.8855",
+            "Depth": "29.5",
+            "ML": "2.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "05:09:05",
+            "Latitude": "37.2173",
+            "Longitude": "34.6240",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "FAKILAR CAMLIYAYLA MERSIN"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "04:40:34",
+            "Latitude": "36.0403",
+            "Longitude": "29.1558",
+            "Depth": "16.0",
+            "ML": "1.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "04:39:00",
+            "Latitude": "36.8513",
+            "Longitude": "27.9792",
+            "Depth": "7.6",
+            "ML": "1.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.06",
             "Time": "03:55:34",
             "Latitude": "39.8183",
             "Longitude": "41.8435",
@@ -4436,42 +4472,6 @@
             "Depth": "7.7",
             "ML": "2.1",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "02:43:51",
-            "Latitude": "37.0130",
-            "Longitude": "28.6805",
-            "Depth": "15.4",
-            "ML": "1.8",
-            "Location": "TOPARLAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "02:40:42",
-            "Latitude": "39.0658",
-            "Longitude": "36.0063",
-            "Depth": "8.1",
-            "ML": "2.0",
-            "Location": "SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "02:33:22",
-            "Latitude": "39.0802",
-            "Longitude": "35.9648",
-            "Depth": "4.4",
-            "ML": "3.2",
-            "Location": "SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "01:09:50",
-            "Latitude": "39.5708",
-            "Longitude": "28.7783",
-            "Depth": "7.1",
-            "ML": "2.0",
-            "Location": "KIZILCADERE DURSUNBEY BALIKESIR"
         }
     ]
 }
