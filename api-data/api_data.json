@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.06",
+            "Time": "18:42:59",
+            "Latitude": "39.3597",
+            "Longitude": "26.0005",
+            "Depth": "9.4",
+            "ML": "2.6",
+            "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.06",
             "Time": "16:00:39",
             "Latitude": "38.4543",
             "Longitude": "25.7173",
@@ -4463,15 +4472,6 @@
             "Depth": "1.9",
             "ML": "1.8",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "01:18:18",
-            "Latitude": "40.8100",
-            "Longitude": "31.8648",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "ULUMESCIT BOLU"
         }
     ]
 }
