@@ -1,6 +1,96 @@
 {
     "data": [
         {
+            "Date": "2022.02.06",
+            "Time": "03:50:56",
+            "Latitude": "38.5473",
+            "Longitude": "31.6065",
+            "Depth": "5.5",
+            "ML": "1.4",
+            "Location": "PAZARKAYA TUZLUKCU KONYA"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "02:54:30",
+            "Latitude": "36.1230",
+            "Longitude": "29.1755",
+            "Depth": "8.8",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "01:25:41",
+            "Latitude": "40.6688",
+            "Longitude": "27.2035",
+            "Depth": "11.5",
+            "ML": "1.1",
+            "Location": "YUKARIKALAMIS SARKOY TEKIRDAG"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "00:36:54",
+            "Latitude": "41.0607",
+            "Longitude": "44.3423",
+            "Depth": "3.2",
+            "ML": "2.2",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "00:31:42",
+            "Latitude": "38.5403",
+            "Longitude": "31.6283",
+            "Depth": "15.8",
+            "ML": "2.0",
+            "Location": "MEVLUTLU TUZLUKCU KONYA"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "00:04:34",
+            "Latitude": "37.0815",
+            "Longitude": "28.3917",
+            "Depth": "6.1",
+            "ML": "2.2",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "23:38:16",
+            "Latitude": "35.7233",
+            "Longitude": "32.1673",
+            "Depth": "24.7",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "23:37:04",
+            "Latitude": "39.0775",
+            "Longitude": "26.8477",
+            "Depth": "7.1",
+            "ML": "0.8",
+            "Location": "DIKILI IZMIR"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "23:18:37",
+            "Latitude": "38.3467",
+            "Longitude": "38.9683",
+            "Depth": "5.0",
+            "ML": "1.3",
+            "Location": "TOPALUSAGI SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.05",
+            "Time": "23:17:58",
+            "Latitude": "38.9177",
+            "Longitude": "43.5702",
+            "Depth": "5.5",
+            "ML": "2.1",
+            "Location": "CAKIRBEY VAN"
+        },
+        {
             "Date": "2022.02.05",
             "Time": "23:01:25",
             "Latitude": "40.5273",
@@ -4382,96 +4472,6 @@
             "Depth": "7.6",
             "ML": "4.2",
             "Location": "DOGU AKDENIZ"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "23:52:39",
-            "Latitude": "39.5460",
-            "Longitude": "28.7163",
-            "Depth": "11.1",
-            "ML": "1.5",
-            "Location": "BEYEL DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "23:51:45",
-            "Latitude": "38.3668",
-            "Longitude": "38.7228",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "IKIZPINAR KALE MALATYA"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "22:56:45",
-            "Latitude": "39.5225",
-            "Longitude": "28.7298",
-            "Depth": "11.3",
-            "ML": "1.4",
-            "Location": "TAFAK DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "22:42:01",
-            "Latitude": "39.5455",
-            "Longitude": "28.7607",
-            "Depth": "8.4",
-            "ML": "2.6",
-            "Location": "HONDULAR DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "22:31:43",
-            "Latitude": "39.5798",
-            "Longitude": "28.8107",
-            "Depth": "7.2",
-            "ML": "5.0",
-            "Location": "AYVACIK DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "22:12:16",
-            "Latitude": "39.0265",
-            "Longitude": "40.0285",
-            "Depth": "7.2",
-            "ML": "1.8",
-            "Location": "GUNDEGDI KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "20:46:02",
-            "Latitude": "38.0532",
-            "Longitude": "26.2935",
-            "Depth": "7.4",
-            "ML": "1.7",
-            "Location": "CESME ACIKLARI IZMIR EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "20:10:08",
-            "Latitude": "38.9748",
-            "Longitude": "42.0192",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "GUNBATMAZ BULANIK MUS"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "18:31:02",
-            "Latitude": "39.8588",
-            "Longitude": "41.2953",
-            "Depth": "6.0",
-            "ML": "1.9",
-            "Location": "PALANDOKEN ERZURUM"
-        },
-        {
-            "Date": "2022.01.22",
-            "Time": "17:28:48",
-            "Latitude": "37.3428",
-            "Longitude": "36.1295",
-            "Depth": "22.8",
-            "ML": "1.6",
-            "Location": "MEZRETLI KADIRLI OSMANIYE"
         }
     ]
 }
