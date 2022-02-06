@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.06",
+            "Time": "15:07:52",
+            "Latitude": "40.4570",
+            "Longitude": "28.9952",
+            "Depth": "2.8",
+            "ML": "4.1",
+            "Location": "KAPAKLI ARMUTLU YALOVA"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "14:25:30",
+            "Latitude": "36.7108",
+            "Longitude": "30.5418",
+            "Depth": "16.1",
+            "ML": "1.4",
+            "Location": "GOYNUK KEMER ANTALYA"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "12:53:43",
+            "Latitude": "38.0730",
+            "Longitude": "27.4773",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "HASANCAVUSLAR TIRE IZMIR"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "12:06:16",
+            "Latitude": "34.2995",
+            "Longitude": "23.8898",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.06",
             "Time": "10:22:24",
             "Latitude": "38.9557",
             "Longitude": "42.0085",
@@ -4436,42 +4472,6 @@
             "Depth": "17.4",
             "ML": "1.5",
             "Location": "KIZILSEKI BUCAK BURDUR"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "23:55:12",
-            "Latitude": "36.4958",
-            "Longitude": "27.1585",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "23:47:27",
-            "Latitude": "37.5560",
-            "Longitude": "36.1255",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "YESILYAYLA SUMBAS OSMANIYE"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "23:07:04",
-            "Latitude": "37.7567",
-            "Longitude": "25.6907",
-            "Depth": "27.9",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.23",
-            "Time": "19:17:56",
-            "Latitude": "37.0463",
-            "Longitude": "28.3958",
-            "Depth": "14.0",
-            "ML": "1.5",
-            "Location": "ATAKOY ULA MUGLA"
         }
     ]
 }
