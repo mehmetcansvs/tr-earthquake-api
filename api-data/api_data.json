@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.07",
+            "Time": "20:54:18",
+            "Latitude": "37.0768",
+            "Longitude": "28.4082",
+            "Depth": "3.8",
+            "ML": "2.3",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.07",
+            "Time": "20:43:59",
+            "Latitude": "38.9367",
+            "Longitude": "26.7277",
+            "Depth": "8.0",
+            "ML": "2.6",
+            "Location": "DENIZKOY DIKILI IZMIR"
+        },
+        {
+            "Date": "2022.02.07",
             "Time": "17:06:26",
             "Latitude": "37.9482",
             "Longitude": "28.7535",
@@ -4454,24 +4472,6 @@
             "Depth": "1.2",
             "ML": "2.5",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "13:30:21",
-            "Latitude": "39.8813",
-            "Longitude": "40.8007",
-            "Depth": "22.0",
-            "ML": "1.6",
-            "Location": "ABDALCIK ASKALE ERZURUM"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "13:12:51",
-            "Latitude": "36.4473",
-            "Longitude": "25.5113",
-            "Depth": "5.0",
-            "ML": "3.6",
-            "Location": "AKDENIZ"
         }
     ]
 }
