@@ -20,6 +20,15 @@
         },
         {
             "Date": "2022.02.07",
+            "Time": "19:33:32",
+            "Latitude": "38.8942",
+            "Longitude": "43.4120",
+            "Depth": "7.7",
+            "ML": "2.3",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.02.07",
             "Time": "17:06:26",
             "Latitude": "37.9482",
             "Longitude": "28.7535",
@@ -4463,15 +4472,6 @@
             "Depth": "9.7",
             "ML": "1.9",
             "Location": "ARAKONAK SOLHAN BINGOL"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "14:41:06",
-            "Latitude": "37.6750",
-            "Longitude": "25.9812",
-            "Depth": "1.2",
-            "ML": "2.5",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
