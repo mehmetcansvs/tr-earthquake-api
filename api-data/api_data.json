@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.02.07",
+            "Time": "02:29:42",
+            "Latitude": "39.3172",
+            "Longitude": "41.0633",
+            "Depth": "15.9",
+            "ML": "1.9",
+            "Location": "YONCALIK KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.02.07",
+            "Time": "01:27:48",
+            "Latitude": "39.1197",
+            "Longitude": "40.0778",
+            "Depth": "4.0",
+            "ML": "1.9",
+            "Location": "OZLUCE KARAKOCAN ELAZIG"
+        },
+        {
             "Date": "2022.02.06",
             "Time": "23:34:30",
             "Latitude": "38.0708",
@@ -4454,24 +4472,6 @@
             "Depth": "24.4",
             "ML": "1.9",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "03:26:52",
-            "Latitude": "37.7317",
-            "Longitude": "26.0978",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "02:54:59",
-            "Latitude": "38.5522",
-            "Longitude": "39.4133",
-            "Depth": "4.8",
-            "ML": "1.2",
-            "Location": "KARASAZ ELAZIG"
         }
     ]
 }
