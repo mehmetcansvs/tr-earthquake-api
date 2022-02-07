@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.07",
+            "Time": "08:54:51",
+            "Latitude": "39.5653",
+            "Longitude": "28.8272",
+            "Depth": "5.8",
+            "ML": "2.4",
+            "Location": "AYVACIK DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.02.07",
             "Time": "05:35:05",
             "Latitude": "37.8418",
             "Longitude": "29.7432",
@@ -4461,15 +4470,6 @@
             "Latitude": "40.3383",
             "Longitude": "27.0085",
             "Depth": "15.2",
-            "ML": "2.1",
-            "Location": "DISBUDAK LAPSEKI CANAKKALE"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "08:08:47",
-            "Latitude": "40.3407",
-            "Longitude": "27.0108",
-            "Depth": "11.4",
             "ML": "2.1",
             "Location": "DISBUDAK LAPSEKI CANAKKALE"
         }
