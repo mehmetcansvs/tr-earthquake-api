@@ -1316,6 +1316,15 @@
         },
         {
             "Date": "2022.02.02",
+            "Time": "10:54:27",
+            "Latitude": "37.9342",
+            "Longitude": "32.5707",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "SELCUKLU KONYA"
+        },
+        {
+            "Date": "2022.02.02",
             "Time": "10:47:16",
             "Latitude": "37.8540",
             "Longitude": "27.0412",
@@ -4463,15 +4472,6 @@
             "Depth": "12.3",
             "ML": "2.2",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "08:09:42",
-            "Latitude": "40.3383",
-            "Longitude": "27.0085",
-            "Depth": "15.2",
-            "ML": "2.1",
-            "Location": "DISBUDAK LAPSEKI CANAKKALE"
         }
     ]
 }
