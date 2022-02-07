@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.07",
+            "Time": "16:39:42",
+            "Latitude": "37.8838",
+            "Longitude": "25.3453",
+            "Depth": "5.5",
+            "ML": "2.6",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.07",
             "Time": "14:01:37",
             "Latitude": "38.0663",
             "Longitude": "37.9605",
@@ -4463,15 +4472,6 @@
             "Depth": "10.5",
             "ML": "1.8",
             "Location": "YUKARIYENICE DAZKIRI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "12:26:45",
-            "Latitude": "36.4892",
-            "Longitude": "29.8225",
-            "Depth": "14.7",
-            "ML": "1.3",
-            "Location": "DOGANTAS KAS ANTALYA"
         }
     ]
 }
