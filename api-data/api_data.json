@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.07",
+            "Time": "14:01:37",
+            "Latitude": "38.0663",
+            "Longitude": "37.9605",
+            "Depth": "23.2",
+            "ML": "1.9",
+            "Location": "GUROBASI DOGANSEHIR MALATYA"
+        },
+        {
+            "Date": "2022.02.07",
+            "Time": "13:56:56",
+            "Latitude": "38.1053",
+            "Longitude": "37.9315",
+            "Depth": "13.6",
+            "ML": "2.4",
+            "Location": "SATIROBASI DOGANSEHIR MALATYA"
+        },
+        {
+            "Date": "2022.02.07",
             "Time": "13:08:03",
             "Latitude": "40.2478",
             "Longitude": "30.8005",
@@ -11,12 +29,30 @@
         },
         {
             "Date": "2022.02.07",
+            "Time": "12:57:57",
+            "Latitude": "36.8212",
+            "Longitude": "29.1587",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "ARPACIK FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.02.07",
             "Time": "12:45:38",
             "Latitude": "39.5467",
             "Longitude": "25.5187",
             "Depth": "16.3",
             "ML": "2.1",
             "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.07",
+            "Time": "12:32:33",
+            "Latitude": "39.7500",
+            "Longitude": "38.9153",
+            "Depth": "12.5",
+            "ML": "1.5",
+            "Location": "AGACSARAY KEMAH ERZINCAN"
         },
         {
             "Date": "2022.02.07",
@@ -4436,42 +4472,6 @@
             "Depth": "14.7",
             "ML": "1.3",
             "Location": "DOGANTAS KAS ANTALYA"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "12:21:37",
-            "Latitude": "37.0630",
-            "Longitude": "28.4593",
-            "Depth": "15.4",
-            "ML": "1.3",
-            "Location": "ELMALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "09:49:44",
-            "Latitude": "36.9897",
-            "Longitude": "35.2997",
-            "Depth": "9.0",
-            "ML": "2.0",
-            "Location": "SEYHAN ADANA"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "09:36:14",
-            "Latitude": "39.3567",
-            "Longitude": "40.9247",
-            "Depth": "6.7",
-            "ML": "1.7",
-            "Location": "ILIPINAR KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "09:14:19",
-            "Latitude": "37.0200",
-            "Longitude": "37.6378",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "GUNBULUR SEHITKAMIL GAZIANTEP"
         }
     ]
 }
