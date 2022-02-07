@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.07",
+            "Time": "05:35:05",
+            "Latitude": "37.8418",
+            "Longitude": "29.7432",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "DARICILAR DAZKIRI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.02.07",
             "Time": "04:57:19",
             "Latitude": "36.0888",
             "Longitude": "28.9235",
@@ -4463,15 +4472,6 @@
             "Depth": "11.4",
             "ML": "2.1",
             "Location": "DISBUDAK LAPSEKI CANAKKALE"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "07:39:13",
-            "Latitude": "35.1480",
-            "Longitude": "25.3407",
-            "Depth": "11.7",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
