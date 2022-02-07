@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.07",
+            "Time": "13:08:03",
+            "Latitude": "40.2478",
+            "Longitude": "30.8005",
+            "Depth": "7.1",
+            "ML": "1.8",
+            "Location": "HIMMETOGLU GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.02.07",
+            "Time": "12:45:38",
+            "Latitude": "39.5467",
+            "Longitude": "25.5187",
+            "Depth": "16.3",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.07",
             "Time": "08:54:51",
             "Latitude": "39.5653",
             "Longitude": "28.8272",
@@ -1331,6 +1349,15 @@
             "Depth": "9.0",
             "ML": "1.5",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.02",
+            "Time": "10:16:08",
+            "Latitude": "39.7512",
+            "Longitude": "27.8195",
+            "Depth": "6.0",
+            "ML": "1.5",
+            "Location": "ORTACA BALIKESIR"
         },
         {
             "Date": "2022.02.02",
@@ -4445,33 +4472,6 @@
             "Depth": "0.0",
             "ML": "1.7",
             "Location": "GUNBULUR SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "09:00:50",
-            "Latitude": "38.4545",
-            "Longitude": "36.7603",
-            "Depth": "3.6",
-            "ML": "1.4",
-            "Location": "DAGLICA AFSIN KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "08:39:23",
-            "Latitude": "38.3820",
-            "Longitude": "38.7673",
-            "Depth": "4.4",
-            "ML": "1.9",
-            "Location": "TEPEKOY KALE MALATYA"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "08:14:38",
-            "Latitude": "35.6868",
-            "Longitude": "26.3790",
-            "Depth": "12.3",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
         }
     ]
 }
