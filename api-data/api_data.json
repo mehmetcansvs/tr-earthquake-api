@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.02.08",
-            "Time": "19:13:31",
-            "Latitude": "37.7937",
-            "Longitude": "27.6208",
-            "Depth": "6.4",
-            "ML": "2.6",
-            "Location": "GUDUSLU KOCARLI AYDIN"
+            "Time": "20:27:51",
+            "Latitude": "35.6062",
+            "Longitude": "36.2375",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "20:26:12",
+            "Latitude": "38.3905",
+            "Longitude": "39.2097",
+            "Depth": "18.3",
+            "ML": "2.2",
+            "Location": "DORTBOLUK SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "19:25:15",
+            "Latitude": "37.0610",
+            "Longitude": "28.3688",
+            "Depth": "12.3",
+            "ML": "1.5",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "19:24:10",
+            "Latitude": "39.4015",
+            "Longitude": "40.3532",
+            "Depth": "1.5",
+            "ML": "2.0",
+            "Location": "GELINPERTEK YEDISU BINGOL REVIZE GUDUSLU KOCARLI AYDIN"
         },
         {
             "Date": "2022.02.08",
@@ -4436,42 +4463,6 @@
             "Depth": "12.9",
             "ML": "2.0",
             "Location": "BUZLUGOZE VARTO MUS"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "06:24:59",
-            "Latitude": "36.8378",
-            "Longitude": "27.8802",
-            "Depth": "16.1",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "06:20:34",
-            "Latitude": "40.0368",
-            "Longitude": "41.8490",
-            "Depth": "20.2",
-            "ML": "1.4",
-            "Location": "SAVATLI KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "05:27:35",
-            "Latitude": "39.9625",
-            "Longitude": "41.8048",
-            "Depth": "12.6",
-            "ML": "1.2",
-            "Location": "CAKIRTAS PASINLER ERZURUM"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "05:25:26",
-            "Latitude": "41.5513",
-            "Longitude": "23.9472",
-            "Depth": "5.0",
-            "ML": "3.6",
-            "Location": "BULGARISTAN"
         }
     ]
 }
