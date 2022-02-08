@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.08",
+            "Time": "19:13:31",
+            "Latitude": "37.7937",
+            "Longitude": "27.6208",
+            "Depth": "6.4",
+            "ML": "2.6",
+            "Location": "GUDUSLU KOCARLI AYDIN"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "18:38:04",
+            "Latitude": "36.9790",
+            "Longitude": "36.0887",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "YUKARIBURNAZ ERZIN HATAY"
+        },
+        {
+            "Date": "2022.02.08",
             "Time": "15:33:16",
             "Latitude": "37.1187",
             "Longitude": "28.4590",
@@ -4454,24 +4472,6 @@
             "Depth": "5.0",
             "ML": "3.6",
             "Location": "BULGARISTAN"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "05:08:14",
-            "Latitude": "39.2873",
-            "Longitude": "40.2282",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "ACIKGUNEY KIGI BINGOL"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "04:46:47",
-            "Latitude": "38.3253",
-            "Longitude": "30.3990",
-            "Depth": "11.8",
-            "ML": "1.2",
-            "Location": "SOGUCAK SANDIKLI AFYONKARAHISAR"
         }
     ]
 }
