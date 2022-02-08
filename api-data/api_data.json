@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.08",
+            "Time": "15:33:16",
+            "Latitude": "37.1187",
+            "Longitude": "28.4590",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "15:24:44",
+            "Latitude": "37.6357",
+            "Longitude": "26.7553",
+            "Depth": "4.7",
+            "ML": "2.4",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "13:51:03",
+            "Latitude": "35.0868",
+            "Longitude": "25.2058",
+            "Depth": "5.0",
+            "ML": "3.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.08",
             "Time": "13:34:59",
             "Latitude": "38.2703",
             "Longitude": "26.2488",
@@ -44,6 +71,15 @@
             "Depth": "22.4",
             "ML": "1.6",
             "Location": "HIMMETOGLU GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "12:51:25",
+            "Latitude": "39.1007",
+            "Longitude": "27.5393",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "DEREKOY SOMA MANISA"
         },
         {
             "Date": "2022.02.08",
@@ -4436,42 +4472,6 @@
             "Depth": "11.8",
             "ML": "1.2",
             "Location": "SOGUCAK SANDIKLI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "02:49:50",
-            "Latitude": "40.3597",
-            "Longitude": "24.1825",
-            "Depth": "6.2",
-            "ML": "2.5",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "02:33:18",
-            "Latitude": "37.8132",
-            "Longitude": "26.6928",
-            "Depth": "5.4",
-            "ML": "1.9",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "01:07:57",
-            "Latitude": "38.6807",
-            "Longitude": "39.7292",
-            "Depth": "22.3",
-            "ML": "1.2",
-            "Location": "HACISAM KOVANCILAR ELAZIG"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "01:04:43",
-            "Latitude": "34.8778",
-            "Longitude": "25.3032",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
