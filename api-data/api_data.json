@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.08",
+            "Time": "12:21:46",
+            "Latitude": "38.3718",
+            "Longitude": "26.7122",
+            "Depth": "14.3",
+            "ML": "3.7",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.08",
             "Time": "08:59:23",
             "Latitude": "35.0193",
             "Longitude": "26.5480",
@@ -107,6 +116,15 @@
             "Depth": "3.3",
             "ML": "2.0",
             "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.07",
+            "Time": "22:44:07",
+            "Latitude": "39.6607",
+            "Longitude": "23.5222",
+            "Depth": "21.0",
+            "ML": "3.3",
+            "Location": "YUNANISTAN"
         },
         {
             "Date": "2022.02.07",
@@ -4454,24 +4472,6 @@
             "Depth": "3.5",
             "ML": "2.2",
             "Location": "EGERLIBASKOY KIZILCAHAMAM ANKARA"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "22:46:43",
-            "Latitude": "38.4318",
-            "Longitude": "39.2298",
-            "Depth": "5.2",
-            "ML": "2.9",
-            "Location": "KURKKOY SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "22:39:51",
-            "Latitude": "40.8372",
-            "Longitude": "28.4853",
-            "Depth": "8.3",
-            "ML": "2.0",
-            "Location": "GURPINAR ACIKLARI ISTANBUL MARMARA DENIZI"
         }
     ]
 }
