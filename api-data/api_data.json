@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.02.08",
+            "Time": "02:38:29",
+            "Latitude": "40.5820",
+            "Longitude": "32.9942",
+            "Depth": "7.7",
+            "ML": "1.3",
+            "Location": "DEREBAYINDIR ORTA CANKIRI"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "02:03:00",
+            "Latitude": "40.5695",
+            "Longitude": "32.9502",
+            "Depth": "8.9",
+            "ML": "2.1",
+            "Location": "KAYIOREN ORTA CANKIRI"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "01:54:53",
+            "Latitude": "40.5632",
+            "Longitude": "33.0605",
+            "Depth": "5.0",
+            "ML": "3.6",
+            "Location": "GOKCEOREN ORTA CANKIRI"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "01:34:43",
+            "Latitude": "36.4745",
+            "Longitude": "28.7315",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "01:32:14",
+            "Latitude": "37.0692",
+            "Longitude": "28.3955",
+            "Depth": "3.3",
+            "ML": "2.0",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
             "Date": "2022.02.07",
             "Time": "20:54:18",
             "Latitude": "37.0768",
@@ -4427,51 +4472,6 @@
             "Depth": "9.2",
             "ML": "1.9",
             "Location": "SUDURAGI KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "17:35:32",
-            "Latitude": "36.1437",
-            "Longitude": "33.5502",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "17:04:36",
-            "Latitude": "40.6742",
-            "Longitude": "32.8198",
-            "Depth": "8.3",
-            "ML": "1.5",
-            "Location": "KISAC CERKES CANKIRI"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "16:57:39",
-            "Latitude": "36.1648",
-            "Longitude": "33.5578",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "16:42:27",
-            "Latitude": "35.2897",
-            "Longitude": "25.3145",
-            "Depth": "7.0",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "16:00:19",
-            "Latitude": "38.9590",
-            "Longitude": "41.0995",
-            "Depth": "9.7",
-            "ML": "1.9",
-            "Location": "ARAKONAK SOLHAN BINGOL"
         }
     ]
 }
