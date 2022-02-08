@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.08",
+            "Time": "07:04:12",
+            "Latitude": "40.1600",
+            "Longitude": "24.3788",
+            "Depth": "8.3",
+            "ML": "3.3",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "06:41:03",
+            "Latitude": "39.9442",
+            "Longitude": "24.5540",
+            "Depth": "12.2",
+            "ML": "3.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "06:19:31",
+            "Latitude": "39.1772",
+            "Longitude": "40.2445",
+            "Depth": "8.3",
+            "ML": "1.8",
+            "Location": "KUSBAYIRI KARAKOCAN ELAZIG"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "04:10:50",
+            "Latitude": "39.8653",
+            "Longitude": "32.3785",
+            "Depth": "3.8",
+            "ML": "1.3",
+            "Location": "HIDIRSEYH POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.02.08",
             "Time": "02:38:29",
             "Latitude": "40.5820",
             "Longitude": "32.9942",
@@ -4436,42 +4472,6 @@
             "Depth": "103.9",
             "ML": "2.5",
             "Location": "HACIOSMANLAR SERIK ANTALYA"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "21:49:58",
-            "Latitude": "39.9855",
-            "Longitude": "41.8095",
-            "Depth": "12.1",
-            "ML": "1.6",
-            "Location": "CAKIRTAS PASINLER ERZURUM"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "21:16:16",
-            "Latitude": "37.1590",
-            "Longitude": "28.4667",
-            "Depth": "7.1",
-            "ML": "1.4",
-            "Location": "YARAS MUGLA"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "19:11:11",
-            "Latitude": "38.5045",
-            "Longitude": "39.2085",
-            "Depth": "13.4",
-            "ML": "1.3",
-            "Location": "KAVAKTEPE ELAZIG"
-        },
-        {
-            "Date": "2022.01.24",
-            "Time": "18:28:35",
-            "Latitude": "39.9957",
-            "Longitude": "40.9330",
-            "Depth": "12.8",
-            "ML": "1.0",
-            "Location": "GELINKAYA AZIZIYE ERZURUM"
         }
     ]
 }
