@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.08",
+            "Time": "22:40:53",
+            "Latitude": "38.9860",
+            "Longitude": "42.0437",
+            "Depth": "10.1",
+            "ML": "2.1",
+            "Location": "GUNBATMAZ BULANIK MUS"
+        },
+        {
+            "Date": "2022.02.08",
             "Time": "20:27:51",
             "Latitude": "35.6062",
             "Longitude": "36.2375",
@@ -4454,15 +4463,6 @@
             "Depth": "25.1",
             "ML": "2.7",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "07:47:34",
-            "Latitude": "39.1285",
-            "Longitude": "41.2900",
-            "Depth": "12.9",
-            "ML": "2.0",
-            "Location": "BUZLUGOZE VARTO MUS"
         }
     ]
 }
