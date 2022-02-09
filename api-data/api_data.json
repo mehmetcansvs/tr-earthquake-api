@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.09",
+            "Time": "12:00:12",
+            "Latitude": "41.2810",
+            "Longitude": "42.5048",
+            "Depth": "15.7",
+            "ML": "2.0",
+            "Location": "ASAGIKOYUNLU SAVSAT ARTVIN"
+        },
+        {
+            "Date": "2022.02.09",
+            "Time": "11:11:14",
+            "Latitude": "39.8308",
+            "Longitude": "40.6377",
+            "Depth": "23.2",
+            "ML": "1.6",
+            "Location": "EYUPOGLU ASKALE ERZURUM"
+        },
+        {
+            "Date": "2022.02.09",
             "Time": "10:54:56",
             "Latitude": "37.6993",
             "Longitude": "27.3855",
@@ -4445,24 +4463,6 @@
             "Depth": "2.9",
             "ML": "3.0",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "15:32:59",
-            "Latitude": "36.1578",
-            "Longitude": "33.5612",
-            "Depth": "0.0",
-            "ML": "0.2",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "15:00:38",
-            "Latitude": "39.0487",
-            "Longitude": "28.0132",
-            "Depth": "2.8",
-            "ML": "1.8",
-            "Location": "BASLAMIS AKHISAR MANISA"
         }
     ]
 }
