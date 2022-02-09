@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.09",
+            "Time": "22:23:40",
+            "Latitude": "37.4040",
+            "Longitude": "30.7667",
+            "Depth": "1.5",
+            "ML": "2.6",
+            "Location": "COBANPINARI BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.02.09",
+            "Time": "22:17:33",
+            "Latitude": "36.8978",
+            "Longitude": "27.9855",
+            "Depth": "4.6",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.09",
             "Time": "20:45:11",
             "Latitude": "40.8337",
             "Longitude": "28.7123",
@@ -4445,24 +4463,6 @@
             "Depth": "19.0",
             "ML": "1.5",
             "Location": "BALIKLICESME BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "19:46:21",
-            "Latitude": "37.8847",
-            "Longitude": "27.5573",
-            "Depth": "5.7",
-            "ML": "2.4",
-            "Location": "KIZILCAPINAR GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "19:34:14",
-            "Latitude": "35.0652",
-            "Longitude": "24.3957",
-            "Depth": "15.7",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
