@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.09",
+            "Time": "05:00:27",
+            "Latitude": "36.9520",
+            "Longitude": "27.9223",
+            "Depth": "9.2",
+            "ML": "2.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.09",
             "Time": "03:46:14",
             "Latitude": "36.9617",
             "Longitude": "27.9393",
@@ -4454,15 +4463,6 @@
             "Depth": "5.4",
             "ML": "1.5",
             "Location": "DENIZCILER ISKENDERUN HATAY"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "13:48:58",
-            "Latitude": "37.0585",
-            "Longitude": "28.4145",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
