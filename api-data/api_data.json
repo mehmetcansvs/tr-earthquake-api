@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.09",
+            "Time": "16:16:18",
+            "Latitude": "36.8110",
+            "Longitude": "28.2467",
+            "Depth": "62.8",
+            "ML": "2.9",
+            "Location": "ICMELER MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.02.09",
+            "Time": "15:37:56",
+            "Latitude": "39.0377",
+            "Longitude": "26.2350",
+            "Depth": "21.8",
+            "ML": "1.8",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.09",
+            "Time": "15:26:30",
+            "Latitude": "43.0398",
+            "Longitude": "44.2203",
+            "Depth": "7.5",
+            "ML": "4.2",
+            "Location": "RUSYA"
+        },
+        {
+            "Date": "2022.02.09",
             "Time": "15:05:31",
             "Latitude": "36.6420",
             "Longitude": "38.3518",
@@ -4436,33 +4463,6 @@
             "Depth": "9.7",
             "ML": "1.2",
             "Location": "ELMALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "18:30:50",
-            "Latitude": "38.6112",
-            "Longitude": "27.1225",
-            "Depth": "18.9",
-            "ML": "1.8",
-            "Location": "YAHSELLI MENEMEN IZMIR"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "17:54:10",
-            "Latitude": "40.2318",
-            "Longitude": "30.7915",
-            "Depth": "7.7",
-            "ML": "1.5",
-            "Location": "HIMMETOGLU GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "17:40:54",
-            "Latitude": "37.2682",
-            "Longitude": "29.5567",
-            "Depth": "11.5",
-            "ML": "1.7",
-            "Location": "CAMKOY GOLHISAR BURDUR"
         }
     ]
 }
