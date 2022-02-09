@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.09",
+            "Time": "17:10:03",
+            "Latitude": "38.9772",
+            "Longitude": "26.0992",
+            "Depth": "8.6",
+            "ML": "2.2",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.09",
             "Time": "16:16:18",
             "Latitude": "36.8110",
             "Longitude": "28.2467",
@@ -4454,15 +4463,6 @@
             "Depth": "5.4",
             "ML": "1.5",
             "Location": "GOKCESARAY GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "18:54:07",
-            "Latitude": "37.0587",
-            "Longitude": "28.4583",
-            "Depth": "9.7",
-            "ML": "1.2",
-            "Location": "ELMALI ULA MUGLA"
         }
     ]
 }
