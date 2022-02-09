@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.09",
+            "Time": "15:05:31",
+            "Latitude": "36.6420",
+            "Longitude": "38.3518",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2022.02.09",
+            "Time": "15:02:22",
+            "Latitude": "38.0560",
+            "Longitude": "27.4870",
+            "Depth": "4.2",
+            "ML": "2.6",
+            "Location": "HASANCAVUSLAR TIRE IZMIR"
+        },
+        {
+            "Date": "2022.02.09",
+            "Time": "14:16:30",
+            "Latitude": "39.1513",
+            "Longitude": "27.5597",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "KOZANLI SOMA MANISA"
+        },
+        {
+            "Date": "2022.02.09",
+            "Time": "13:08:39",
+            "Latitude": "36.7757",
+            "Longitude": "36.0947",
+            "Depth": "18.6",
+            "ML": "1.5",
+            "Location": "PAYAS DORTYOL HATAY"
+        },
+        {
+            "Date": "2022.02.09",
             "Time": "12:00:12",
             "Latitude": "41.2810",
             "Longitude": "42.5048",
@@ -659,6 +695,15 @@
         },
         {
             "Date": "2022.02.06",
+            "Time": "07:29:44",
+            "Latitude": "34.2250",
+            "Longitude": "25.9223",
+            "Depth": "21.0",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.06",
             "Time": "07:06:44",
             "Latitude": "36.8435",
             "Longitude": "28.0357",
@@ -746,6 +791,15 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "FAKILAR CAMLIYAYLA MERSIN"
+        },
+        {
+            "Date": "2022.02.06",
+            "Time": "04:43:56",
+            "Latitude": "34.8297",
+            "Longitude": "24.9523",
+            "Depth": "15.4",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.02.06",
@@ -4409,60 +4463,6 @@
             "Depth": "11.5",
             "ML": "1.7",
             "Location": "CAMKOY GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "17:35:46",
-            "Latitude": "36.8708",
-            "Longitude": "28.0327",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "17:25:50",
-            "Latitude": "39.5645",
-            "Longitude": "28.8225",
-            "Depth": "3.1",
-            "ML": "1.7",
-            "Location": "AYVACIK DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "17:23:32",
-            "Latitude": "37.4397",
-            "Longitude": "28.7408",
-            "Depth": "28.5",
-            "ML": "1.2",
-            "Location": "BELENKOY KALE DENIZLI"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "16:26:24",
-            "Latitude": "37.1022",
-            "Longitude": "31.0798",
-            "Depth": "101.5",
-            "ML": "2.8",
-            "Location": "GOKCEPINAR SERIK ANTALYA"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "16:10:31",
-            "Latitude": "39.6432",
-            "Longitude": "32.9530",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "BEYNAM BALA ANKARA"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "16:08:48",
-            "Latitude": "35.0600",
-            "Longitude": "26.1035",
-            "Depth": "2.9",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
