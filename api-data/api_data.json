@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.09",
+            "Time": "10:54:56",
+            "Latitude": "37.6993",
+            "Longitude": "27.3855",
+            "Depth": "7.6",
+            "ML": "2.0",
+            "Location": "AKCAKONAK SOKE AYDIN"
+        },
+        {
+            "Date": "2022.02.09",
+            "Time": "09:05:21",
+            "Latitude": "37.0757",
+            "Longitude": "28.4217",
+            "Depth": "6.3",
+            "ML": "2.1",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.09",
             "Time": "05:00:27",
             "Latitude": "36.9520",
             "Longitude": "27.9223",
@@ -4445,24 +4463,6 @@
             "Depth": "2.8",
             "ML": "1.8",
             "Location": "BASLAMIS AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "14:40:50",
-            "Latitude": "40.8717",
-            "Longitude": "36.0092",
-            "Depth": "23.7",
-            "ML": "1.6",
-            "Location": "SOGANLI LADIK SAMSUN"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "14:07:08",
-            "Latitude": "36.6447",
-            "Longitude": "36.1855",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "DENIZCILER ISKENDERUN HATAY"
         }
     ]
 }
