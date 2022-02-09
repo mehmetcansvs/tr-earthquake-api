@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.09",
+            "Time": "20:45:11",
+            "Latitude": "40.8337",
+            "Longitude": "28.7123",
+            "Depth": "14.8",
+            "ML": "2.6",
+            "Location": "AVCILAR ACIKLARI ISTANBUL MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.09",
             "Time": "17:10:03",
             "Latitude": "38.9772",
             "Longitude": "26.0992",
@@ -4454,15 +4463,6 @@
             "Depth": "15.7",
             "ML": "2.7",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "19:12:44",
-            "Latitude": "40.4517",
-            "Longitude": "30.6517",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "GOKCESARAY GOYNUK BOLU"
         }
     ]
 }
