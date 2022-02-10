@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.10",
+            "Time": "11:00:06",
+            "Latitude": "38.4617",
+            "Longitude": "31.8150",
+            "Depth": "20.5",
+            "ML": "1.7",
+            "Location": "KUNDULLU TUZLUKCU KONYA"
+        },
+        {
+            "Date": "2022.02.10",
             "Time": "10:25:40",
             "Latitude": "38.9270",
             "Longitude": "42.3373",
@@ -35,6 +44,15 @@
             "Depth": "5.0",
             "ML": "2.8",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "01:54:15",
+            "Latitude": "37.5310",
+            "Longitude": "29.7360",
+            "Depth": "22.0",
+            "ML": "1.4",
+            "Location": "KAYADIBI YESILOVA BURDUR"
         },
         {
             "Date": "2022.02.10",
@@ -4445,24 +4463,6 @@
             "Depth": "22.3",
             "ML": "1.7",
             "Location": "CAVUSKOY BAYRAMIC CANAKKALE"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "01:08:53",
-            "Latitude": "37.6970",
-            "Longitude": "26.4042",
-            "Depth": "3.7",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "00:36:58",
-            "Latitude": "36.1000",
-            "Longitude": "27.2750",
-            "Depth": "5.4",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
