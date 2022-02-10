@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.10",
+            "Time": "22:56:05",
+            "Latitude": "40.2785",
+            "Longitude": "26.1607",
+            "Depth": "13.8",
+            "ML": "2.0",
+            "Location": "KEMALYERI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.10",
             "Time": "20:23:28",
             "Latitude": "39.8932",
             "Longitude": "40.0348",
@@ -4454,15 +4463,6 @@
             "Depth": "5.5",
             "ML": "2.1",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "04:22:35",
-            "Latitude": "37.7460",
-            "Longitude": "30.8238",
-            "Depth": "6.1",
-            "ML": "1.9",
-            "Location": "EYUPLER EGIRDIR ISPARTA"
         }
     ]
 }
