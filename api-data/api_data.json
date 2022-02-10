@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.10",
+            "Time": "14:24:43",
+            "Latitude": "38.7593",
+            "Longitude": "40.5635",
+            "Depth": "5.3",
+            "ML": "1.9",
+            "Location": "GENC BINGOL"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "12:05:55",
+            "Latitude": "36.5423",
+            "Longitude": "27.6090",
+            "Depth": "21.4",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.10",
             "Time": "11:00:06",
             "Latitude": "38.4617",
             "Longitude": "31.8150",
@@ -4445,24 +4463,6 @@
             "Depth": "6.9",
             "ML": "1.0",
             "Location": "BASKOY CAT ERZURUM"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "01:55:07",
-            "Latitude": "38.8733",
-            "Longitude": "43.5515",
-            "Depth": "5.0",
-            "ML": "3.6",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "01:32:59",
-            "Latitude": "39.7775",
-            "Longitude": "26.4540",
-            "Depth": "22.3",
-            "ML": "1.7",
-            "Location": "CAVUSKOY BAYRAMIC CANAKKALE"
         }
     ]
 }
