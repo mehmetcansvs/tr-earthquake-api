@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.02.10",
+            "Time": "03:03:09",
+            "Latitude": "36.1688",
+            "Longitude": "27.5623",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "01:35:33",
+            "Latitude": "41.0912",
+            "Longitude": "39.7258",
+            "Depth": "11.5",
+            "ML": "2.4",
+            "Location": "TRABZON TRABZON"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "01:17:48",
+            "Latitude": "37.0512",
+            "Longitude": "28.4757",
+            "Depth": "1.7",
+            "ML": "2.3",
+            "Location": "PORTAKALLIK ULA MUGLA"
+        },
+        {
             "Date": "2022.02.09",
             "Time": "23:59:11",
             "Latitude": "40.4383",
@@ -4436,33 +4463,6 @@
             "Depth": "5.0",
             "ML": "3.0",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "23:19:18",
-            "Latitude": "36.5302",
-            "Longitude": "27.1923",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "23:13:40",
-            "Latitude": "37.1288",
-            "Longitude": "29.4730",
-            "Depth": "28.6",
-            "ML": "0.9",
-            "Location": "GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "23:12:10",
-            "Latitude": "37.1010",
-            "Longitude": "32.1032",
-            "Depth": "9.0",
-            "ML": "1.7",
-            "Location": "KARACAHISAR BOZKIR KONYA"
         }
     ]
 }
