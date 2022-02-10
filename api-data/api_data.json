@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.10",
+            "Time": "16:50:20",
+            "Latitude": "36.9850",
+            "Longitude": "27.9118",
+            "Depth": "5.1",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.10",
             "Time": "16:46:39",
             "Latitude": "36.8970",
             "Longitude": "27.8395",
@@ -4454,15 +4463,6 @@
             "Depth": "5.4",
             "ML": "1.8",
             "Location": "UCKUYU KARAMAN"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "02:33:07",
-            "Latitude": "37.6407",
-            "Longitude": "36.1432",
-            "Depth": "15.5",
-            "ML": "1.5",
-            "Location": "ESENLI SUMBAS OSMANIYE"
         }
     ]
 }
