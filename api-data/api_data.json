@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.02.11",
+            "Time": "00:11:58",
+            "Latitude": "40.7553",
+            "Longitude": "29.1763",
+            "Depth": "7.9",
+            "ML": "1.7",
+            "Location": "YALOVA ACIKLARI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "23:10:29",
+            "Latitude": "36.4888",
+            "Longitude": "28.7445",
+            "Depth": "5.9",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
             "Date": "2022.02.10",
             "Time": "22:56:05",
             "Latitude": "40.2785",
@@ -4445,24 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.8",
             "Location": "KUSBABA BUCAK BURDUR"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "05:23:16",
-            "Latitude": "37.0450",
-            "Longitude": "28.3715",
-            "Depth": "1.9",
-            "ML": "0.8",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "05:09:03",
-            "Latitude": "35.6368",
-            "Longitude": "27.5730",
-            "Depth": "5.5",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
         }
     ]
 }
