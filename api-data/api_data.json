@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.10",
+            "Time": "08:37:07",
+            "Latitude": "36.8323",
+            "Longitude": "27.6992",
+            "Depth": "6.4",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.10",
             "Time": "03:03:09",
             "Latitude": "36.1688",
             "Longitude": "27.5623",
@@ -4454,15 +4463,6 @@
             "Depth": "5.6",
             "ML": "2.2",
             "Location": "DUZBAG CAGLAYANCERIT KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.01.25",
-            "Time": "23:28:25",
-            "Latitude": "34.9700",
-            "Longitude": "26.7432",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
