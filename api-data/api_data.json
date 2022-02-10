@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.10",
+            "Time": "20:23:28",
+            "Latitude": "39.8932",
+            "Longitude": "40.0348",
+            "Depth": "4.6",
+            "ML": "2.8",
+            "Location": "BOLUKOVA CAYIRLI ERZINCAN"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "19:47:04",
+            "Latitude": "39.6810",
+            "Longitude": "26.4427",
+            "Depth": "9.0",
+            "ML": "1.9",
+            "Location": "MISVAK AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "19:41:48",
+            "Latitude": "37.0458",
+            "Longitude": "28.3935",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "19:19:46",
+            "Latitude": "40.7537",
+            "Longitude": "27.4585",
+            "Depth": "15.1",
+            "ML": "1.5",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "17:43:09",
+            "Latitude": "38.6605",
+            "Longitude": "41.3747",
+            "Depth": "21.8",
+            "ML": "1.8",
+            "Location": "UCEVLER MUS"
+        },
+        {
+            "Date": "2022.02.10",
             "Time": "16:50:20",
             "Latitude": "36.9850",
             "Longitude": "27.9118",
@@ -4418,51 +4463,6 @@
             "Depth": "6.1",
             "ML": "1.9",
             "Location": "EYUPLER EGIRDIR ISPARTA"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "04:13:42",
-            "Latitude": "37.3922",
-            "Longitude": "33.2397",
-            "Depth": "8.2",
-            "ML": "1.7",
-            "Location": "DINEK KARAMAN"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "04:00:02",
-            "Latitude": "34.6983",
-            "Longitude": "26.1230",
-            "Depth": "9.0",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "03:35:11",
-            "Latitude": "41.6723",
-            "Longitude": "25.3363",
-            "Depth": "5.4",
-            "ML": "2.7",
-            "Location": "BULGARISTAN"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "03:05:13",
-            "Latitude": "36.3313",
-            "Longitude": "28.5830",
-            "Depth": "7.7",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "02:45:43",
-            "Latitude": "37.3887",
-            "Longitude": "33.1490",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "UCKUYU KARAMAN"
         }
     ]
 }
