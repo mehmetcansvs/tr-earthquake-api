@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.10",
+            "Time": "16:46:39",
+            "Latitude": "36.8970",
+            "Longitude": "27.8395",
+            "Depth": "2.7",
+            "ML": "2.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "16:43:57",
+            "Latitude": "36.3570",
+            "Longitude": "33.4787",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "KAYRAK GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "16:17:31",
+            "Latitude": "36.1875",
+            "Longitude": "33.5282",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "KOCASLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "15:29:49",
+            "Latitude": "39.0585",
+            "Longitude": "29.0932",
+            "Depth": "6.4",
+            "ML": "1.8",
+            "Location": "TASLIK SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.02.10",
             "Time": "14:24:43",
             "Latitude": "38.7593",
             "Longitude": "40.5635",
@@ -4427,42 +4463,6 @@
             "Depth": "15.5",
             "ML": "1.5",
             "Location": "ESENLI SUMBAS OSMANIYE"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "02:22:39",
-            "Latitude": "38.9572",
-            "Longitude": "43.7950",
-            "Depth": "8.1",
-            "ML": "1.6",
-            "Location": "YAKINCAK MURADIYE VAN"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "02:21:50",
-            "Latitude": "38.8372",
-            "Longitude": "43.4857",
-            "Depth": "4.6",
-            "ML": "1.7",
-            "Location": "KARAAGAC VAN"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "02:17:06",
-            "Latitude": "39.8037",
-            "Longitude": "26.4983",
-            "Depth": "6.4",
-            "ML": "2.0",
-            "Location": "AHMETCELI BAYRAMIC CANAKKALE"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "01:59:30",
-            "Latitude": "39.7798",
-            "Longitude": "41.2703",
-            "Depth": "6.9",
-            "ML": "1.0",
-            "Location": "BASKOY CAT ERZURUM"
         }
     ]
 }
