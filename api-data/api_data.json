@@ -1,6 +1,60 @@
 {
     "data": [
         {
+            "Date": "2022.02.12",
+            "Time": "00:30:16",
+            "Latitude": "37.3873",
+            "Longitude": "38.6140",
+            "Depth": "26.0",
+            "ML": "1.7",
+            "Location": "YALINTAS BOZOVA SANLIURFA"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "00:12:05",
+            "Latitude": "40.4632",
+            "Longitude": "28.9125",
+            "Depth": "12.0",
+            "ML": "1.4",
+            "Location": "FISTIKLI ARMUTLU YALOVA"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "00:10:53",
+            "Latitude": "34.9722",
+            "Longitude": "25.7473",
+            "Depth": "2.1",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "22:39:07",
+            "Latitude": "38.9302",
+            "Longitude": "25.4978",
+            "Depth": "2.5",
+            "ML": "1.7",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "22:23:37",
+            "Latitude": "38.7377",
+            "Longitude": "25.4127",
+            "Depth": "12.7",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "21:11:47",
+            "Latitude": "37.8272",
+            "Longitude": "26.9483",
+            "Depth": "13.6",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
             "Date": "2022.02.11",
             "Time": "21:00:42",
             "Latitude": "37.0777",
@@ -4382,60 +4436,6 @@
             "Depth": "18.4",
             "ML": "2.4",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "15:38:19",
-            "Latitude": "37.9395",
-            "Longitude": "27.3150",
-            "Depth": "11.7",
-            "ML": "1.8",
-            "Location": "SELCUK IZMIR"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "15:35:18",
-            "Latitude": "37.3340",
-            "Longitude": "29.1508",
-            "Depth": "16.6",
-            "ML": "1.1",
-            "Location": "BAHCEKOY TAVAS DENIZLI"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "15:30:56",
-            "Latitude": "39.0350",
-            "Longitude": "40.5462",
-            "Depth": "8.2",
-            "ML": "1.7",
-            "Location": "ORTACANAK BINGOL"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "15:23:42",
-            "Latitude": "38.3032",
-            "Longitude": "38.7880",
-            "Depth": "19.2",
-            "ML": "2.0",
-            "Location": "BOLUKKAYA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "15:23:01",
-            "Latitude": "36.1502",
-            "Longitude": "33.5587",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "15:07:37",
-            "Latitude": "37.6428",
-            "Longitude": "36.2348",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "DEGIRMENDERE KADIRLI OSMANIYE"
         }
     ]
 }
