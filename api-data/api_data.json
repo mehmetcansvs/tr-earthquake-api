@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.11",
+            "Time": "05:43:36",
+            "Latitude": "40.8172",
+            "Longitude": "28.8435",
+            "Depth": "6.5",
+            "ML": "2.3",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "05:36:54",
+            "Latitude": "38.2432",
+            "Longitude": "37.9877",
+            "Depth": "17.3",
+            "ML": "2.4",
+            "Location": "DEDEKOY AKCADAG MALATYA"
+        },
+        {
+            "Date": "2022.02.11",
             "Time": "04:01:55",
             "Latitude": "40.5668",
             "Longitude": "27.2735",
@@ -4445,24 +4463,6 @@
             "Depth": "2.6",
             "ML": "2.2",
             "Location": "SARIDAYI PAZARYERI BILECIK"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "08:54:57",
-            "Latitude": "39.3865",
-            "Longitude": "27.7070",
-            "Depth": "5.1",
-            "ML": "1.9",
-            "Location": "ASAGIDANISMENT SAVASTEPE BALIKESIR"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "07:42:09",
-            "Latitude": "38.2872",
-            "Longitude": "42.7690",
-            "Depth": "11.0",
-            "ML": "1.1",
-            "Location": "ANAKOY GEVAS VAN"
         }
     ]
 }
