@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.11",
+            "Time": "04:01:55",
+            "Latitude": "40.5668",
+            "Longitude": "27.2735",
+            "Depth": "15.2",
+            "ML": "2.2",
+            "Location": "KARABIGA ACIKLARI CANAKKALE MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.11",
             "Time": "01:54:09",
             "Latitude": "38.0403",
             "Longitude": "42.7235",
@@ -4454,15 +4463,6 @@
             "Depth": "11.0",
             "ML": "1.1",
             "Location": "ANAKOY GEVAS VAN"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "07:28:59",
-            "Latitude": "39.1133",
-            "Longitude": "40.4570",
-            "Depth": "3.5",
-            "ML": "1.1",
-            "Location": "TEPEBASI BINGOL"
         }
     ]
 }
