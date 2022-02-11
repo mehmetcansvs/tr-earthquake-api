@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.11",
+            "Time": "15:13:59",
+            "Latitude": "38.6807",
+            "Longitude": "27.9997",
+            "Depth": "1.5",
+            "ML": "1.2",
+            "Location": "KILCANLAR GOLMARMARA MANISA"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "15:00:05",
+            "Latitude": "39.8797",
+            "Longitude": "25.9203",
+            "Depth": "20.5",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.11",
             "Time": "14:57:30",
             "Latitude": "39.3603",
             "Longitude": "25.6587",
@@ -4418,24 +4436,6 @@
             "Depth": "0.0",
             "ML": "1.3",
             "Location": "ARPASEKI KINIK IZMIR"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "10:23:04",
-            "Latitude": "37.8172",
-            "Longitude": "30.8435",
-            "Depth": "5.9",
-            "ML": "1.9",
-            "Location": "BALKIRI EGIRDIR ISPARTA"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "10:08:15",
-            "Latitude": "37.7735",
-            "Longitude": "36.2968",
-            "Depth": "10.3",
-            "ML": "1.3",
-            "Location": "CIGSAR ANDIRIN KAHRAMANMARAS"
         }
     ]
 }
