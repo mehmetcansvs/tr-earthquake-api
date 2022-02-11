@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.02.11",
-            "Time": "07:16:13",
-            "Latitude": "39.5753",
-            "Longitude": "28.8328",
-            "Depth": "7.8",
-            "ML": "2.3",
-            "Location": "AYVACIK DURSUNBEY BALIKESIR"
+            "Time": "10:36:17",
+            "Latitude": "39.2645",
+            "Longitude": "26.6840",
+            "Depth": "5.3",
+            "ML": "3.2",
+            "Location": "KUCUKKOY AYVALIK BALIKESIR"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "09:22:28",
+            "Latitude": "39.1217",
+            "Longitude": "27.5572",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "DEREKOY SOMA MANISA"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "09:07:46",
+            "Latitude": "39.1227",
+            "Longitude": "40.7867",
+            "Depth": "4.1",
+            "ML": "1.5",
+            "Location": "KIZILAGAC KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "09:07:09",
+            "Latitude": "37.1162",
+            "Longitude": "28.7215",
+            "Depth": "4.7",
+            "ML": "1.9",
+            "Location": "TURGUT ULA MUGLA REVIZE AYVACIK DURSUNBEY BALIKESIR"
         },
         {
             "Date": "2022.02.11",
@@ -614,6 +641,15 @@
         },
         {
             "Date": "2022.02.08",
+            "Time": "08:07:34",
+            "Latitude": "36.2967",
+            "Longitude": "27.8513",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.08",
             "Time": "07:04:12",
             "Latitude": "40.1600",
             "Longitude": "24.3788",
@@ -659,12 +695,57 @@
         },
         {
             "Date": "2022.02.08",
+            "Time": "04:46:04",
+            "Latitude": "40.5880",
+            "Longitude": "32.9950",
+            "Depth": "5.1",
+            "ML": "1.2",
+            "Location": "DEREBAYINDIR ORTA CANKIRI"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "04:36:47",
+            "Latitude": "40.5690",
+            "Longitude": "32.9960",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "ORTABAYINDIR ORTA CANKIRI"
+        },
+        {
+            "Date": "2022.02.08",
             "Time": "04:10:50",
             "Latitude": "39.8653",
             "Longitude": "32.3785",
             "Depth": "3.8",
             "ML": "1.3",
             "Location": "HIDIRSEYH POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "04:02:50",
+            "Latitude": "37.0813",
+            "Longitude": "28.4003",
+            "Depth": "8.5",
+            "ML": "1.5",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "03:42:30",
+            "Latitude": "39.0177",
+            "Longitude": "27.7842",
+            "Depth": "5.4",
+            "ML": "1.4",
+            "Location": "TUTENLI AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.02.08",
+            "Time": "03:35:49",
+            "Latitude": "37.8400",
+            "Longitude": "29.6738",
+            "Depth": "1.7",
+            "ML": "1.5",
+            "Location": "CARDAK DENIZLI"
         },
         {
             "Date": "2022.02.08",
@@ -4364,96 +4445,6 @@
             "Depth": "10.3",
             "ML": "1.7",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "23:31:57",
-            "Latitude": "39.7793",
-            "Longitude": "41.8503",
-            "Depth": "13.3",
-            "ML": "1.8",
-            "Location": "SARITAS KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "23:30:10",
-            "Latitude": "39.9723",
-            "Longitude": "39.6610",
-            "Depth": "7.7",
-            "ML": "2.3",
-            "Location": "OGUZ KELKIT GUMUSHANE"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "20:19:11",
-            "Latitude": "39.5832",
-            "Longitude": "28.7920",
-            "Depth": "7.3",
-            "ML": "2.0",
-            "Location": "KIZILCADERE DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "19:56:40",
-            "Latitude": "38.5875",
-            "Longitude": "27.9962",
-            "Depth": "6.0",
-            "ML": "2.7",
-            "Location": "TEKELIOGLU SALIHLI MANISA"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "15:07:51",
-            "Latitude": "37.5522",
-            "Longitude": "29.4590",
-            "Depth": "8.6",
-            "ML": "1.3",
-            "Location": "KARAHUYUKAFSARI ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "13:19:07",
-            "Latitude": "35.3360",
-            "Longitude": "25.2712",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "12:54:20",
-            "Latitude": "38.7712",
-            "Longitude": "26.9890",
-            "Depth": "2.3",
-            "ML": "1.6",
-            "Location": "SAMURLU ALIAGA IZMIR"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "12:03:39",
-            "Latitude": "39.7602",
-            "Longitude": "25.6680",
-            "Depth": "4.2",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "11:47:06",
-            "Latitude": "40.7657",
-            "Longitude": "31.4810",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "10:43:27",
-            "Latitude": "36.6118",
-            "Longitude": "33.9732",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "YEGENLI SILIFKE MERSIN"
         }
     ]
 }
