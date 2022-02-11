@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.02.11",
+            "Time": "21:00:42",
+            "Latitude": "37.0777",
+            "Longitude": "28.3933",
+            "Depth": "9.5",
+            "ML": "1.8",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "20:51:32",
+            "Latitude": "36.9627",
+            "Longitude": "27.6195",
+            "Depth": "8.1",
+            "ML": "2.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "20:23:38",
+            "Latitude": "36.9957",
+            "Longitude": "27.5103",
+            "Depth": "28.6",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "19:47:39",
+            "Latitude": "36.3993",
+            "Longitude": "27.1197",
+            "Depth": "9.0",
+            "ML": "2.4",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "19:46:43",
+            "Latitude": "36.9600",
+            "Longitude": "27.6307",
+            "Depth": "8.3",
+            "ML": "2.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "19:42:18",
+            "Latitude": "39.6008",
+            "Longitude": "26.4843",
+            "Depth": "9.2",
+            "ML": "1.3",
+            "Location": "DIBEKLI AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "19:28:57",
+            "Latitude": "36.9737",
+            "Longitude": "27.6420",
+            "Depth": "5.7",
+            "ML": "2.0",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "19:18:07",
+            "Latitude": "36.9642",
+            "Longitude": "27.6658",
+            "Depth": "7.7",
+            "ML": "4.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.11",
             "Time": "15:13:59",
             "Latitude": "38.6807",
             "Longitude": "27.9997",
@@ -4364,78 +4436,6 @@
             "Depth": "5.4",
             "ML": "1.7",
             "Location": "DEGIRMENDERE KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "13:59:31",
-            "Latitude": "37.8557",
-            "Longitude": "26.9272",
-            "Depth": "7.3",
-            "ML": "2.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "12:59:10",
-            "Latitude": "41.1290",
-            "Longitude": "26.5032",
-            "Depth": "5.0",
-            "ML": "1.3",
-            "Location": "BALABANKORU UZUNKOPRU EDIRNE"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "12:47:20",
-            "Latitude": "39.1520",
-            "Longitude": "27.6110",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "DARKALE SOMA MANISA"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "12:42:16",
-            "Latitude": "37.0123",
-            "Longitude": "30.2482",
-            "Depth": "1.2",
-            "ML": "2.1",
-            "Location": "TATKOY KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "12:38:31",
-            "Latitude": "38.7262",
-            "Longitude": "43.2372",
-            "Depth": "4.0",
-            "ML": "2.4",
-            "Location": "OZYURT VAN"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "12:12:08",
-            "Latitude": "39.8558",
-            "Longitude": "26.2712",
-            "Depth": "6.2",
-            "ML": "1.3",
-            "Location": "BOZALAN EZINE CANAKKALE"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "11:10:13",
-            "Latitude": "38.7857",
-            "Longitude": "27.0162",
-            "Depth": "7.2",
-            "ML": "2.0",
-            "Location": "GUZELHISAR ALIAGA IZMIR"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "10:38:05",
-            "Latitude": "39.1050",
-            "Longitude": "27.5018",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "ARPASEKI KINIK IZMIR"
         }
     ]
 }
