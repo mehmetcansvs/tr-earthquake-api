@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.11",
+            "Time": "01:54:09",
+            "Latitude": "38.0403",
+            "Longitude": "42.7235",
+            "Depth": "11.5",
+            "ML": "2.2",
+            "Location": "ALTINTAS BAHCESARAY VAN"
+        },
+        {
+            "Date": "2022.02.11",
             "Time": "00:11:58",
             "Latitude": "40.7553",
             "Longitude": "29.1763",
@@ -4454,15 +4463,6 @@
             "Depth": "3.5",
             "ML": "1.1",
             "Location": "TEPEBASI BINGOL"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "06:15:55",
-            "Latitude": "37.4618",
-            "Longitude": "30.3770",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "KUSBABA BUCAK BURDUR"
         }
     ]
 }
