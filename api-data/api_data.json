@@ -2,12 +2,21 @@
     "data": [
         {
             "Date": "2022.02.11",
-            "Time": "05:43:36",
-            "Latitude": "40.8172",
-            "Longitude": "28.8435",
-            "Depth": "6.5",
+            "Time": "07:16:13",
+            "Latitude": "39.5753",
+            "Longitude": "28.8328",
+            "Depth": "7.8",
             "ML": "2.3",
-            "Location": "MARMARA DENIZI"
+            "Location": "AYVACIK DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.02.11",
+            "Time": "07:08:54",
+            "Latitude": "38.0517",
+            "Longitude": "27.4813",
+            "Depth": "15.8",
+            "ML": "1.7",
+            "Location": "HASANCAVUSLAR TIRE IZMIR REVIZE MARMARA DENIZI"
         },
         {
             "Date": "2022.02.11",
@@ -4445,24 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.0",
             "Location": "YEGENLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "10:13:14",
-            "Latitude": "37.0045",
-            "Longitude": "29.1488",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "AKPINAR CAMELI DENIZLI"
-        },
-        {
-            "Date": "2022.01.26",
-            "Time": "10:02:26",
-            "Latitude": "39.9517",
-            "Longitude": "29.8242",
-            "Depth": "2.6",
-            "ML": "2.2",
-            "Location": "SARIDAYI PAZARYERI BILECIK"
         }
     ]
 }
