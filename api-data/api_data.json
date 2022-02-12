@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.12",
+            "Time": "03:57:24",
+            "Latitude": "40.4770",
+            "Longitude": "28.9433",
+            "Depth": "13.6",
+            "ML": "1.6",
+            "Location": "KAPAKLI ARMUTLU YALOVA"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "03:41:09",
+            "Latitude": "37.0140",
+            "Longitude": "27.6252",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.12",
             "Time": "03:02:24",
             "Latitude": "36.9713",
             "Longitude": "27.6620",
@@ -4409,24 +4427,6 @@
             "Depth": "8.1",
             "ML": "1.9",
             "Location": "DUDEN YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "01:14:38",
-            "Latitude": "37.5780",
-            "Longitude": "29.4820",
-            "Depth": "15.4",
-            "ML": "1.4",
-            "Location": "YESILYUVA ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "00:58:31",
-            "Latitude": "37.2547",
-            "Longitude": "29.6032",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "KUCUKALAN CAVDIR BURDUR"
         }
     ]
 }
