@@ -1,6 +1,78 @@
 {
     "data": [
         {
+            "Date": "2022.02.13",
+            "Time": "00:25:03",
+            "Latitude": "38.8527",
+            "Longitude": "42.4860",
+            "Depth": "4.3",
+            "ML": "1.5",
+            "Location": "YUVADAMI AHLAT BITLIS"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "23:53:05",
+            "Latitude": "37.2810",
+            "Longitude": "30.5995",
+            "Depth": "15.5",
+            "ML": "1.1",
+            "Location": "KARAOT BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "23:50:08",
+            "Latitude": "36.7818",
+            "Longitude": "28.2825",
+            "Depth": "5.3",
+            "ML": "1.0",
+            "Location": "TURUNC MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "23:48:26",
+            "Latitude": "36.7602",
+            "Longitude": "28.2495",
+            "Depth": "9.4",
+            "ML": "1.2",
+            "Location": "TURUNC MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "23:17:16",
+            "Latitude": "39.1375",
+            "Longitude": "40.1285",
+            "Depth": "9.8",
+            "ML": "1.8",
+            "Location": "KORUDIBI KARAKOCAN ELAZIG"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "23:07:47",
+            "Latitude": "34.5717",
+            "Longitude": "26.6998",
+            "Depth": "6.5",
+            "ML": "3.5",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "23:03:07",
+            "Latitude": "36.2753",
+            "Longitude": "35.8515",
+            "Depth": "11.0",
+            "ML": "1.5",
+            "Location": "KALE ARSUZ HATAY"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "23:01:06",
+            "Latitude": "36.3248",
+            "Longitude": "35.8713",
+            "Depth": "13.5",
+            "ML": "1.6",
+            "Location": "TULEK ARSUZ HATAY"
+        },
+        {
             "Date": "2022.02.12",
             "Time": "22:29:06",
             "Latitude": "36.6697",
@@ -4355,78 +4427,6 @@
             "Depth": "5.2",
             "ML": "1.5",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "22:57:08",
-            "Latitude": "36.6992",
-            "Longitude": "27.9867",
-            "Depth": "27.6",
-            "ML": "1.6",
-            "Location": "BOZBURUN MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "22:53:12",
-            "Latitude": "38.9238",
-            "Longitude": "26.1477",
-            "Depth": "11.2",
-            "ML": "3.2",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "22:30:59",
-            "Latitude": "37.8818",
-            "Longitude": "26.9615",
-            "Depth": "9.2",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "21:43:04",
-            "Latitude": "38.0417",
-            "Longitude": "29.0568",
-            "Depth": "16.2",
-            "ML": "2.4",
-            "Location": "BELENARDIC AKKOY DENIZLI"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "21:00:48",
-            "Latitude": "38.8183",
-            "Longitude": "26.6268",
-            "Depth": "6.7",
-            "ML": "2.2",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "17:08:54",
-            "Latitude": "40.4647",
-            "Longitude": "33.1580",
-            "Depth": "15.4",
-            "ML": "1.6",
-            "Location": "KOSRELIK CUBUK ANKARA"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "16:22:28",
-            "Latitude": "35.9915",
-            "Longitude": "26.8465",
-            "Depth": "10.2",
-            "ML": "3.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "15:51:40",
-            "Latitude": "38.2727",
-            "Longitude": "30.9457",
-            "Depth": "11.6",
-            "ML": "1.7",
-            "Location": "YUKARITIRTAR YALVAC ISPARTA"
         }
     ]
 }
