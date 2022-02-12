@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.12",
+            "Time": "11:42:52",
+            "Latitude": "38.7115",
+            "Longitude": "43.1943",
+            "Depth": "13.5",
+            "ML": "2.2",
+            "Location": "AGARTI VAN"
+        },
+        {
+            "Date": "2022.02.12",
             "Time": "10:48:04",
             "Latitude": "40.5145",
             "Longitude": "29.1963",
@@ -4418,15 +4427,6 @@
             "Depth": "27.4",
             "ML": "1.3",
             "Location": "BAYINDIR KAS ANTALYA"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "04:55:22",
-            "Latitude": "37.5550",
-            "Longitude": "29.4320",
-            "Depth": "16.1",
-            "ML": "1.0",
-            "Location": "YESILYUVA ACIPAYAM DENIZLI"
         }
     ]
 }
