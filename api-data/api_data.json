@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.12",
+            "Time": "03:02:24",
+            "Latitude": "36.9713",
+            "Longitude": "27.6620",
+            "Depth": "2.5",
+            "ML": "3.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ REVIZE UZUNTEPE SAMSAT ADIYAMAN"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "01:26:26",
+            "Latitude": "37.3787",
+            "Longitude": "26.9895",
+            "Depth": "11.0",
+            "ML": "1.7",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "01:21:05",
+            "Latitude": "37.0275",
+            "Longitude": "27.6165",
+            "Depth": "4.2",
+            "ML": "1.7",
+            "Location": "PINARLIBELEN BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "01:19:24",
+            "Latitude": "38.6687",
+            "Longitude": "27.0163",
+            "Depth": "14.3",
+            "ML": "1.5",
+            "Location": "HATUNDERE MENEMEN IZMIR"
+        },
+        {
+            "Date": "2022.02.12",
             "Time": "00:30:16",
             "Latitude": "37.3873",
             "Longitude": "38.6140",
@@ -4391,51 +4427,6 @@
             "Depth": "5.0",
             "ML": "2.5",
             "Location": "KUCUKALAN CAVDIR BURDUR"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "21:43:35",
-            "Latitude": "40.0082",
-            "Longitude": "28.2788",
-            "Depth": "13.7",
-            "ML": "1.9",
-            "Location": "KOSOVA MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "19:11:24",
-            "Latitude": "37.2618",
-            "Longitude": "34.9423",
-            "Depth": "9.0",
-            "ML": "1.6",
-            "Location": "KUSCULAR TARSUS MERSIN"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "16:39:36",
-            "Latitude": "37.6687",
-            "Longitude": "37.2543",
-            "Depth": "9.2",
-            "ML": "3.2",
-            "Location": "BESENLI KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "16:08:46",
-            "Latitude": "36.1470",
-            "Longitude": "33.5350",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.27",
-            "Time": "15:53:29",
-            "Latitude": "40.1143",
-            "Longitude": "24.3970",
-            "Depth": "18.4",
-            "ML": "2.4",
-            "Location": "YUNANISTAN"
         }
     ]
 }
