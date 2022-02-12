@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.02.12",
+            "Time": "17:03:20",
+            "Latitude": "35.3193",
+            "Longitude": "25.3105",
+            "Depth": "8.3",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "16:57:39",
+            "Latitude": "36.9678",
+            "Longitude": "29.7007",
+            "Depth": "16.9",
+            "ML": "1.6",
+            "Location": "COBANISA FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "16:21:18",
+            "Latitude": "39.3130",
+            "Longitude": "27.6807",
+            "Depth": "5.5",
+            "ML": "2.0",
+            "Location": "GOKTAS SOMA MANISA"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "16:07:44",
+            "Latitude": "36.9782",
+            "Longitude": "35.0093",
+            "Depth": "12.6",
+            "ML": "1.8",
+            "Location": "TEKELIOREN TARSUS MERSIN"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "15:16:25",
+            "Latitude": "36.9643",
+            "Longitude": "27.6233",
+            "Depth": "7.3",
+            "ML": "2.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "14:27:52",
+            "Latitude": "36.6387",
+            "Longitude": "36.2145",
+            "Depth": "5.7",
+            "ML": "1.3",
+            "Location": "DENIZCILER ISKENDERUN HATAY"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "13:13:46",
+            "Latitude": "39.8085",
+            "Longitude": "33.0152",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "CANKAYA ANKARA"
+        },
+        {
+            "Date": "2022.02.12",
             "Time": "12:56:12",
             "Latitude": "39.5060",
             "Longitude": "33.1563",
@@ -17,6 +80,15 @@
             "Depth": "0.0",
             "ML": "1.3",
             "Location": "ISIKLI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "12:04:06",
+            "Latitude": "38.1280",
+            "Longitude": "37.7955",
+            "Depth": "2.7",
+            "ML": "1.2",
+            "Location": "FINDIKKOY DOGANSEHIR MALATYA"
         },
         {
             "Date": "2022.02.12",
@@ -4355,78 +4427,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "DEREKOY SOMA MANISA"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "11:02:39",
-            "Latitude": "37.3237",
-            "Longitude": "32.9235",
-            "Depth": "1.1",
-            "ML": "2.0",
-            "Location": "SINCI KAZIMKARABEKIR KARAMAN"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "10:35:01",
-            "Latitude": "35.9627",
-            "Longitude": "28.3530",
-            "Depth": "3.2",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "10:28:48",
-            "Latitude": "37.9598",
-            "Longitude": "26.9980",
-            "Depth": "19.8",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "10:12:24",
-            "Latitude": "38.2267",
-            "Longitude": "32.3283",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "BUYUKZENGI SARAYONU KONYA"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "10:05:01",
-            "Latitude": "38.7933",
-            "Longitude": "26.6035",
-            "Depth": "9.4",
-            "ML": "1.8",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "09:31:29",
-            "Latitude": "37.1487",
-            "Longitude": "28.5695",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "YAYLASOGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "07:56:53",
-            "Latitude": "37.0480",
-            "Longitude": "28.3312",
-            "Depth": "4.6",
-            "ML": "1.4",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "06:57:44",
-            "Latitude": "35.1863",
-            "Longitude": "32.0568",
-            "Depth": "6.5",
-            "ML": "4.2",
-            "Location": "AKDENIZ"
         }
     ]
 }
