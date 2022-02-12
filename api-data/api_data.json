@@ -2,6 +2,87 @@
     "data": [
         {
             "Date": "2022.02.12",
+            "Time": "22:29:06",
+            "Latitude": "36.6697",
+            "Longitude": "25.5132",
+            "Depth": "18.3",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "22:08:16",
+            "Latitude": "35.2773",
+            "Longitude": "23.3045",
+            "Depth": "22.4",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "22:02:41",
+            "Latitude": "37.9153",
+            "Longitude": "28.4943",
+            "Depth": "5.7",
+            "ML": "1.4",
+            "Location": "COBANISA KUYUCAK AYDIN"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "21:57:11",
+            "Latitude": "40.7572",
+            "Longitude": "30.9858",
+            "Depth": "10.6",
+            "ML": "1.5",
+            "Location": "TASLIK GOLYAKA DUZCE"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "21:57:00",
+            "Latitude": "39.0273",
+            "Longitude": "27.8648",
+            "Depth": "7.7",
+            "ML": "1.2",
+            "Location": "MUSALAR AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "21:40:35",
+            "Latitude": "39.0697",
+            "Longitude": "40.7012",
+            "Depth": "5.0",
+            "ML": "1.3",
+            "Location": "ALATEPE BINGOL"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "21:29:49",
+            "Latitude": "36.9133",
+            "Longitude": "29.3643",
+            "Depth": "7.6",
+            "ML": "1.7",
+            "Location": "ELMALIYURT GOLHISAR BURDUR"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "21:23:57",
+            "Latitude": "36.9340",
+            "Longitude": "29.3828",
+            "Depth": "6.7",
+            "ML": "1.5",
+            "Location": "ELMALIYURT GOLHISAR BURDUR"
+        },
+        {
+            "Date": "2022.02.12",
+            "Time": "21:03:29",
+            "Latitude": "35.1428",
+            "Longitude": "25.1848",
+            "Depth": "4.5",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.12",
             "Time": "20:43:47",
             "Latitude": "37.0722",
             "Longitude": "28.3653",
@@ -4346,87 +4427,6 @@
             "Depth": "11.6",
             "ML": "1.7",
             "Location": "YUKARITIRTAR YALVAC ISPARTA"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "15:48:32",
-            "Latitude": "36.1608",
-            "Longitude": "33.5543",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "15:42:16",
-            "Latitude": "35.8855",
-            "Longitude": "28.2525",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "14:35:11",
-            "Latitude": "39.1123",
-            "Longitude": "25.7837",
-            "Depth": "6.4",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "14:14:21",
-            "Latitude": "35.8142",
-            "Longitude": "28.2420",
-            "Depth": "8.8",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "14:06:13",
-            "Latitude": "36.1810",
-            "Longitude": "33.5360",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "KOCASLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "13:58:30",
-            "Latitude": "37.8862",
-            "Longitude": "26.8633",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "13:57:23",
-            "Latitude": "39.9505",
-            "Longitude": "33.1498",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "ELMADAG ANKARA"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "12:59:28",
-            "Latitude": "38.4745",
-            "Longitude": "29.1740",
-            "Depth": "11.1",
-            "ML": "1.3",
-            "Location": "GUMUSKOL ULUBEY USAK"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "12:15:12",
-            "Latitude": "39.8518",
-            "Longitude": "32.9998",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "MAMAK ANKARA"
         }
     ]
 }
