@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.12",
+            "Time": "05:42:47",
+            "Latitude": "39.2478",
+            "Longitude": "27.7982",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "BADEMLI KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.02.12",
             "Time": "03:57:24",
             "Latitude": "40.4770",
             "Longitude": "28.9433",
@@ -4418,15 +4427,6 @@
             "Depth": "49.1",
             "ML": "1.8",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.28",
-            "Time": "01:57:27",
-            "Latitude": "37.5848",
-            "Longitude": "29.5067",
-            "Depth": "8.1",
-            "ML": "1.9",
-            "Location": "DUDEN YESILOVA BURDUR"
         }
     ]
 }
