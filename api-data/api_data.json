@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.13",
+            "Time": "02:35:35",
+            "Latitude": "39.6650",
+            "Longitude": "32.3662",
+            "Depth": "11.3",
+            "ML": "1.5",
+            "Location": "OLUKPINAR POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "02:27:46",
+            "Latitude": "38.7498",
+            "Longitude": "43.4762",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "YEMLICE VAN"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "02:20:27",
+            "Latitude": "42.2337",
+            "Longitude": "23.5877",
+            "Depth": "9.5",
+            "ML": "3.3",
+            "Location": "BULGARISTAN"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "00:58:39",
+            "Latitude": "34.8972",
+            "Longitude": "24.2352",
+            "Depth": "17.6",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "00:57:51",
+            "Latitude": "37.1038",
+            "Longitude": "28.6050",
+            "Depth": "10.8",
+            "ML": "1.5",
+            "Location": "ARICILAR ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.13",
             "Time": "00:25:03",
             "Latitude": "38.8527",
             "Longitude": "42.4860",
@@ -4382,51 +4427,6 @@
             "Depth": "85.8",
             "ML": "2.9",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "02:48:30",
-            "Latitude": "36.2513",
-            "Longitude": "29.0002",
-            "Depth": "35.5",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "02:18:54",
-            "Latitude": "38.2138",
-            "Longitude": "32.3397",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "LADIK SARAYONU KONYA"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "02:05:21",
-            "Latitude": "38.2203",
-            "Longitude": "32.3170",
-            "Depth": "5.8",
-            "ML": "1.5",
-            "Location": "BUYUKZENGI SARAYONU KONYA"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "01:36:23",
-            "Latitude": "38.9787",
-            "Longitude": "42.0143",
-            "Depth": "10.7",
-            "ML": "1.9",
-            "Location": "GUNBATMAZ BULANIK MUS"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "00:53:18",
-            "Latitude": "37.8642",
-            "Longitude": "26.9875",
-            "Depth": "5.2",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
