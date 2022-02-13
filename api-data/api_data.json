@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.13",
+            "Time": "05:07:58",
+            "Latitude": "36.0797",
+            "Longitude": "29.7402",
+            "Depth": "1.5",
+            "ML": "1.1",
+            "Location": "KAS ACIKLARI ANTALYA AKDENIZ"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "04:42:25",
+            "Latitude": "37.9162",
+            "Longitude": "26.7097",
+            "Depth": "11.0",
+            "ML": "2.7",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "04:03:24",
+            "Latitude": "34.7678",
+            "Longitude": "24.9138",
+            "Depth": "16.0",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "03:58:18",
+            "Latitude": "36.5870",
+            "Longitude": "31.4777",
+            "Depth": "100.7",
+            "ML": "2.8",
+            "Location": "ANTALYA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.13",
             "Time": "02:35:35",
             "Latitude": "39.6650",
             "Longitude": "32.3662",
@@ -4391,42 +4427,6 @@
             "Depth": "21.5",
             "ML": "2.9",
             "Location": "ANTALYA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "04:50:53",
-            "Latitude": "36.2417",
-            "Longitude": "30.6993",
-            "Depth": "21.1",
-            "ML": "3.4",
-            "Location": "ANTALYA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "03:10:53",
-            "Latitude": "37.8457",
-            "Longitude": "29.3952",
-            "Depth": "8.5",
-            "ML": "2.4",
-            "Location": "KAKLIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "03:06:47",
-            "Latitude": "37.8270",
-            "Longitude": "29.4043",
-            "Depth": "7.8",
-            "ML": "2.3",
-            "Location": "KAKLIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "03:04:49",
-            "Latitude": "36.5173",
-            "Longitude": "27.6145",
-            "Depth": "85.8",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
