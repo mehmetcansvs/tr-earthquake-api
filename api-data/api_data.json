@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.13",
+            "Time": "19:02:03",
+            "Latitude": "36.1762",
+            "Longitude": "26.9978",
+            "Depth": "7.9",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "19:00:37",
+            "Latitude": "36.4898",
+            "Longitude": "28.8140",
+            "Depth": "20.5",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "17:48:40",
+            "Latitude": "37.8687",
+            "Longitude": "26.8980",
+            "Depth": "6.5",
+            "ML": "2.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.13",
             "Time": "15:28:00",
             "Latitude": "36.4117",
             "Longitude": "28.9782",
@@ -4400,33 +4427,6 @@
             "Depth": "5.4",
             "ML": "2.6",
             "Location": "SENIRCE GONEN ISPARTA"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "15:49:56",
-            "Latitude": "36.2815",
-            "Longitude": "33.6530",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "DEDELER GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "15:37:40",
-            "Latitude": "40.8737",
-            "Longitude": "29.4900",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "MOLLAFENERI GEBZE KOCAELI"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "14:32:04",
-            "Latitude": "38.2723",
-            "Longitude": "38.6788",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "CAYKOY PUTURGE MALATYA"
         }
     ]
 }
