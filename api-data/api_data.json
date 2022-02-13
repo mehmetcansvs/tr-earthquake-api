@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.13",
+            "Time": "08:56:42",
+            "Latitude": "36.9453",
+            "Longitude": "27.6340",
+            "Depth": "2.9",
+            "ML": "2.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "08:18:25",
+            "Latitude": "38.7350",
+            "Longitude": "43.4073",
+            "Depth": "9.4",
+            "ML": "1.5",
+            "Location": "OCAKLI VAN"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "07:56:02",
+            "Latitude": "37.0865",
+            "Longitude": "28.3828",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.13",
             "Time": "06:31:22",
             "Latitude": "38.8930",
             "Longitude": "43.4313",
@@ -4400,33 +4427,6 @@
             "Depth": "25.9",
             "ML": "1.5",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "08:27:03",
-            "Latitude": "37.9252",
-            "Longitude": "27.1665",
-            "Depth": "5.2",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "07:34:33",
-            "Latitude": "37.5435",
-            "Longitude": "38.7492",
-            "Depth": "4.5",
-            "ML": "1.7",
-            "Location": "GULALDI HILVAN SANLIURFA"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "07:33:56",
-            "Latitude": "37.4323",
-            "Longitude": "36.1913",
-            "Depth": "17.2",
-            "ML": "1.7",
-            "Location": "KAYASUYU KADIRLI OSMANIYE"
         }
     ]
 }
