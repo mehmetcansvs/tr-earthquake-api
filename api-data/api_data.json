@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.13",
+            "Time": "15:09:38",
+            "Latitude": "38.8692",
+            "Longitude": "43.5123",
+            "Depth": "1.6",
+            "ML": "2.8",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "14:24:44",
+            "Latitude": "37.1283",
+            "Longitude": "28.5622",
+            "Depth": "10.5",
+            "ML": "1.7",
+            "Location": "GOLCUK ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "13:20:32",
+            "Latitude": "39.5467",
+            "Longitude": "33.2552",
+            "Depth": "4.4",
+            "ML": "1.7",
+            "Location": "UCEM BALA ANKARA"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "13:18:53",
+            "Latitude": "37.0967",
+            "Longitude": "28.4155",
+            "Depth": "6.6",
+            "ML": "1.6",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.13",
             "Time": "10:34:00",
             "Latitude": "37.9402",
             "Longitude": "27.1112",
@@ -4391,42 +4427,6 @@
             "Depth": "23.2",
             "ML": "1.6",
             "Location": "KOCAPINAR SERINHISAR DENIZLI"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "11:54:09",
-            "Latitude": "39.3745",
-            "Longitude": "40.7085",
-            "Depth": "20.2",
-            "ML": "2.3",
-            "Location": "DINARBEY YEDISU BINGOL"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "11:02:11",
-            "Latitude": "36.9327",
-            "Longitude": "27.4610",
-            "Depth": "3.6",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "09:39:47",
-            "Latitude": "38.0912",
-            "Longitude": "29.1200",
-            "Depth": "5.0",
-            "ML": "0.9",
-            "Location": "GOZLER DENIZLI"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "09:04:13",
-            "Latitude": "41.0632",
-            "Longitude": "43.8068",
-            "Depth": "11.7",
-            "ML": "2.4",
-            "Location": "ERMENISTAN"
         }
     ]
 }
