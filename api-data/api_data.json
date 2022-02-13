@@ -1,6 +1,132 @@
 {
     "data": [
         {
+            "Date": "2022.02.14",
+            "Time": "00:46:10",
+            "Latitude": "36.6767",
+            "Longitude": "28.0495",
+            "Depth": "9.7",
+            "ML": "2.0",
+            "Location": "BOZBURUN MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "00:26:24",
+            "Latitude": "37.3643",
+            "Longitude": "34.3942",
+            "Depth": "10.4",
+            "ML": "1.4",
+            "Location": "DELIMAHMUTLU HALKAPINAR KONYA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "00:06:22",
+            "Latitude": "38.4177",
+            "Longitude": "34.2712",
+            "Depth": "10.9",
+            "ML": "1.5",
+            "Location": "PINARBASI GULAGAC AKSARAY"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "00:05:36",
+            "Latitude": "34.8057",
+            "Longitude": "32.0188",
+            "Depth": "78.9",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "23:56:03",
+            "Latitude": "41.1257",
+            "Longitude": "43.9180",
+            "Depth": "4.1",
+            "ML": "2.0",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "23:41:18",
+            "Latitude": "41.1415",
+            "Longitude": "43.9537",
+            "Depth": "9.0",
+            "ML": "1.8",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "23:39:15",
+            "Latitude": "41.1628",
+            "Longitude": "43.9187",
+            "Depth": "3.5",
+            "ML": "2.1",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "23:36:52",
+            "Latitude": "36.4215",
+            "Longitude": "26.4713",
+            "Depth": "112.1",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "23:34:47",
+            "Latitude": "38.1223",
+            "Longitude": "39.0597",
+            "Depth": "12.3",
+            "ML": "1.7",
+            "Location": "DEMIRTAS GERGER ADIYAMAN"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "23:31:03",
+            "Latitude": "41.1315",
+            "Longitude": "43.8977",
+            "Depth": "7.7",
+            "ML": "2.1",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "23:26:09",
+            "Latitude": "41.0793",
+            "Longitude": "43.9180",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "23:20:47",
+            "Latitude": "41.1147",
+            "Longitude": "43.9135",
+            "Depth": "7.0",
+            "ML": "2.3",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "23:15:49",
+            "Latitude": "39.2230",
+            "Longitude": "41.7027",
+            "Depth": "4.3",
+            "ML": "1.8",
+            "Location": "AKGELIN HINIS ERZURUM"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "23:14:37",
+            "Latitude": "41.1212",
+            "Longitude": "43.9420",
+            "Depth": "4.5",
+            "ML": "2.7",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
             "Date": "2022.02.13",
             "Time": "22:12:16",
             "Latitude": "41.1032",
@@ -4292,132 +4418,6 @@
             "Depth": "86.8",
             "ML": "2.7",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "11:34:45",
-            "Latitude": "38.8447",
-            "Longitude": "43.5162",
-            "Depth": "1.5",
-            "ML": "2.4",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "11:22:17",
-            "Latitude": "32.7502",
-            "Longitude": "31.5007",
-            "Depth": "25.5",
-            "ML": "4.4",
-            "Location": "AKDEN Z"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "08:18:16",
-            "Latitude": "38.9988",
-            "Longitude": "26.1568",
-            "Depth": "5.5",
-            "ML": "1.8",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "08:16:56",
-            "Latitude": "39.0065",
-            "Longitude": "26.6417",
-            "Depth": "3.0",
-            "ML": "1.7",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "07:56:42",
-            "Latitude": "38.9405",
-            "Longitude": "26.1327",
-            "Depth": "7.1",
-            "ML": "2.3",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "07:36:32",
-            "Latitude": "41.7242",
-            "Longitude": "23.7382",
-            "Depth": "23.2",
-            "ML": "3.4",
-            "Location": "BULGARISTAN"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "07:33:56",
-            "Latitude": "38.9063",
-            "Longitude": "26.7148",
-            "Depth": "9.2",
-            "ML": "2.2",
-            "Location": "CANDARLI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "04:12:33",
-            "Latitude": "38.7382",
-            "Longitude": "28.9598",
-            "Depth": "8.0",
-            "ML": "3.2",
-            "Location": "DUMANLAR SELENDI MANISA"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "04:00:53",
-            "Latitude": "37.7008",
-            "Longitude": "26.7667",
-            "Depth": "9.8",
-            "ML": "2.0",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "03:39:39",
-            "Latitude": "38.6657",
-            "Longitude": "26.5938",
-            "Depth": "14.2",
-            "ML": "2.2",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "02:48:05",
-            "Latitude": "39.2273",
-            "Longitude": "42.0547",
-            "Depth": "1.7",
-            "ML": "2.5",
-            "Location": "ESKIYOL BULANIK MUS"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "02:38:41",
-            "Latitude": "38.3177",
-            "Longitude": "30.6192",
-            "Depth": "8.5",
-            "ML": "1.5",
-            "Location": "KARAADILLI SUHUT AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "02:29:13",
-            "Latitude": "38.3858",
-            "Longitude": "30.6555",
-            "Depth": "8.4",
-            "ML": "1.8",
-            "Location": "UZUNPINAR SUHUT AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "00:22:10",
-            "Latitude": "37.0727",
-            "Longitude": "28.2910",
-            "Depth": "14.5",
-            "ML": "0.9",
-            "Location": "KUYUCAK MUGLA"
         }
     ]
 }
