@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.13",
+            "Time": "15:28:00",
+            "Latitude": "36.4117",
+            "Longitude": "28.9782",
+            "Depth": "20.2",
+            "ML": "3.2",
+            "Location": "OLUDENIZ ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.02.13",
+            "Time": "15:25:23",
+            "Latitude": "38.8605",
+            "Longitude": "43.3690",
+            "Depth": "2.1",
+            "ML": "2.1",
+            "Location": "KUMLUCA VAN"
+        },
+        {
+            "Date": "2022.02.13",
             "Time": "15:09:38",
             "Latitude": "38.8692",
             "Longitude": "43.5123",
@@ -935,6 +953,15 @@
             "Depth": "13.8",
             "ML": "2.0",
             "Location": "KEMALYERI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.10",
+            "Time": "20:26:35",
+            "Latitude": "37.7797",
+            "Longitude": "44.2385",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "OGULVEREN BASKALE VAN"
         },
         {
             "Date": "2022.02.10",
@@ -4400,33 +4427,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "CAYKOY PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "14:20:15",
-            "Latitude": "40.0053",
-            "Longitude": "42.2755",
-            "Depth": "29.8",
-            "ML": "2.2",
-            "Location": "ARAS HORASAN ERZURUM"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "12:46:28",
-            "Latitude": "39.1110",
-            "Longitude": "27.5847",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "ADIL SOMA MANISA"
-        },
-        {
-            "Date": "2022.01.29",
-            "Time": "12:20:11",
-            "Latitude": "37.6853",
-            "Longitude": "29.3500",
-            "Depth": "23.2",
-            "ML": "1.6",
-            "Location": "KOCAPINAR SERINHISAR DENIZLI"
         }
     ]
 }
