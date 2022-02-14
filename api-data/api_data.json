@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.14",
+            "Time": "20:34:47",
+            "Latitude": "36.4537",
+            "Longitude": "29.1278",
+            "Depth": "20.2",
+            "ML": "1.5",
+            "Location": "KARAAGAC FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "20:26:03",
+            "Latitude": "36.6698",
+            "Longitude": "33.5713",
+            "Depth": "19.1",
+            "ML": "2.5",
+            "Location": "HACIAHMETLI MUT MERSIN"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "20:18:12",
+            "Latitude": "37.4132",
+            "Longitude": "32.8163",
+            "Depth": "9.7",
+            "ML": "2.0",
+            "Location": "KUZUCU CUMRA KONYA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "20:16:01",
+            "Latitude": "37.1540",
+            "Longitude": "28.8340",
+            "Depth": "13.0",
+            "ML": "1.6",
+            "Location": "KARACAOREN MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "20:03:10",
+            "Latitude": "41.1243",
+            "Longitude": "43.9057",
+            "Depth": "2.2",
+            "ML": "3.0",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.02.14",
             "Time": "19:02:09",
             "Latitude": "37.1315",
             "Longitude": "31.1323",
@@ -4382,51 +4427,6 @@
             "Depth": "5.0",
             "ML": "4.1",
             "Location": "KIZILOREN MERAM KONYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "12:01:17",
-            "Latitude": "40.0195",
-            "Longitude": "38.6583",
-            "Depth": "13.4",
-            "ML": "3.0",
-            "Location": "DEMIRKONAK GOLOVA SIVAS"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "10:39:26",
-            "Latitude": "39.1023",
-            "Longitude": "40.0690",
-            "Depth": "1.0",
-            "ML": "1.7",
-            "Location": "CALIKAYA KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "10:23:40",
-            "Latitude": "39.8332",
-            "Longitude": "27.8473",
-            "Depth": "15.8",
-            "ML": "1.1",
-            "Location": "SAMLI BALIKESIR"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "09:46:10",
-            "Latitude": "38.0985",
-            "Longitude": "38.5615",
-            "Depth": "5.3",
-            "ML": "2.1",
-            "Location": "ARIKONAK SINCIK ADIYAMAN"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "09:06:58",
-            "Latitude": "39.1198",
-            "Longitude": "40.0622",
-            "Depth": "5.0",
-            "ML": "4.0",
-            "Location": "OZLUCE KARAKOCAN ELAZIG REVIZE"
         }
     ]
 }
