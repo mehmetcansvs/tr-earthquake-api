@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.14",
+            "Time": "12:32:58",
+            "Latitude": "38.0900",
+            "Longitude": "32.6643",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "KARAOMERLER SELCUKLU KONYA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "11:33:28",
+            "Latitude": "38.4163",
+            "Longitude": "44.2483",
+            "Depth": "7.8",
+            "ML": "1.5",
+            "Location": "KOCBASI SARAY VAN"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "11:28:02",
+            "Latitude": "37.0667",
+            "Longitude": "28.4670",
+            "Depth": "5.1",
+            "ML": "1.4",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "11:23:11",
+            "Latitude": "37.0807",
+            "Longitude": "28.3607",
+            "Depth": "6.1",
+            "ML": "2.0",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "11:11:59",
+            "Latitude": "38.8615",
+            "Longitude": "26.9185",
+            "Depth": "9.9",
+            "ML": "1.6",
+            "Location": "CANDARLI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.14",
             "Time": "10:59:04",
             "Latitude": "36.6262",
             "Longitude": "36.3163",
@@ -1781,6 +1826,15 @@
             "Depth": "4.6",
             "ML": "1.5",
             "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.09",
+            "Time": "22:14:37",
+            "Latitude": "38.4120",
+            "Longitude": "39.0745",
+            "Depth": "4.7",
+            "ML": "2.6",
+            "Location": "GOZELI SIVRICE ELAZIG"
         },
         {
             "Date": "2022.02.09",
@@ -4364,60 +4418,6 @@
             "Depth": "5.0",
             "ML": "4.8",
             "Location": "OKCULAR KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "01:51:05",
-            "Latitude": "37.8522",
-            "Longitude": "26.9977",
-            "Depth": "6.6",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "01:46:56",
-            "Latitude": "38.2162",
-            "Longitude": "35.2255",
-            "Depth": "19.7",
-            "ML": "1.6",
-            "Location": "YESILOVA YESILHISAR KAYSERI"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "01:42:06",
-            "Latitude": "38.1183",
-            "Longitude": "27.4010",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "SAGLIK TORBALI IZMIR"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "01:05:18",
-            "Latitude": "38.9317",
-            "Longitude": "26.1275",
-            "Depth": "8.8",
-            "ML": "2.3",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "00:13:57",
-            "Latitude": "38.9585",
-            "Longitude": "26.7110",
-            "Depth": "8.7",
-            "ML": "1.9",
-            "Location": "DENIZKOY DIKILI IZMIR"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "00:04:07",
-            "Latitude": "34.7398",
-            "Longitude": "25.0508",
-            "Depth": "12.9",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
