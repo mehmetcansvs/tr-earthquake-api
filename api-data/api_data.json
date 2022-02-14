@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.14",
+            "Time": "16:47:37",
+            "Latitude": "37.2288",
+            "Longitude": "36.0153",
+            "Depth": "7.6",
+            "ML": "3.1",
+            "Location": "TATARLI KADIRLI OSMANIYE"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "16:41:01",
+            "Latitude": "41.1408",
+            "Longitude": "44.0080",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "16:34:54",
+            "Latitude": "40.3180",
+            "Longitude": "29.2462",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "ERICEK GURSU BURSA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "15:36:32",
+            "Latitude": "40.4688",
+            "Longitude": "29.2000",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "SAHINYURDU GEMLIK BURSA"
+        },
+        {
+            "Date": "2022.02.14",
             "Time": "12:32:58",
             "Latitude": "38.0900",
             "Longitude": "32.6643",
@@ -4382,42 +4418,6 @@
             "Depth": "5.0",
             "ML": "2.0",
             "Location": "BADEMAGACI DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "04:39:28",
-            "Latitude": "37.6965",
-            "Longitude": "25.9440",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "04:06:41",
-            "Latitude": "39.0873",
-            "Longitude": "40.0598",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "CALIKAYA KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "04:00:04",
-            "Latitude": "38.2262",
-            "Longitude": "38.7625",
-            "Depth": "8.9",
-            "ML": "2.8",
-            "Location": "ORMANICI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "03:49:53",
-            "Latitude": "39.0768",
-            "Longitude": "40.0415",
-            "Depth": "5.0",
-            "ML": "4.8",
-            "Location": "OKCULAR KARAKOCAN ELAZIG"
         }
     ]
 }
