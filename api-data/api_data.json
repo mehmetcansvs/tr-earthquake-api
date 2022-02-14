@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.14",
+            "Time": "04:40:12",
+            "Latitude": "38.5998",
+            "Longitude": "26.6168",
+            "Depth": "4.8",
+            "ML": "1.4",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.14",
             "Time": "03:24:38",
             "Latitude": "36.6925",
             "Longitude": "33.5907",
@@ -4409,15 +4418,6 @@
             "Depth": "7.9",
             "ML": "2.0",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "17:05:26",
-            "Latitude": "34.7907",
-            "Longitude": "25.4717",
-            "Depth": "17.9",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
