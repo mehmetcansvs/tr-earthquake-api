@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.02.14",
+            "Time": "03:24:38",
+            "Latitude": "36.6925",
+            "Longitude": "33.5907",
+            "Depth": "14.7",
+            "ML": "1.8",
+            "Location": "CUKURBAG MUT MERSIN"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "03:00:53",
+            "Latitude": "36.3810",
+            "Longitude": "28.3840",
+            "Depth": "29.7",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "02:54:26",
+            "Latitude": "41.1868",
+            "Longitude": "43.9485",
+            "Depth": "2.4",
+            "ML": "2.0",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "02:35:11",
+            "Latitude": "41.1358",
+            "Longitude": "43.9462",
+            "Depth": "4.4",
+            "ML": "2.8",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "01:48:34",
+            "Latitude": "37.0762",
+            "Longitude": "28.4072",
+            "Depth": "3.5",
+            "ML": "2.7",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "01:47:12",
+            "Latitude": "39.4000",
+            "Longitude": "28.5978",
+            "Depth": "9.1",
+            "ML": "1.9",
+            "Location": "MEYVALI BIGADIC BALIKESIR"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "01:41:31",
+            "Latitude": "35.2855",
+            "Longitude": "33.7873",
+            "Depth": "13.1",
+            "ML": "1.6",
+            "Location": "KIBRIS ISKELE"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "01:23:47",
+            "Latitude": "38.5693",
+            "Longitude": "39.6575",
+            "Depth": "13.4",
+            "ML": "1.6",
+            "Location": "KUMYAZI MADEN ELAZIG"
+        },
+        {
+            "Date": "2022.02.14",
             "Time": "00:46:10",
             "Latitude": "36.6767",
             "Longitude": "28.0495",
@@ -4346,78 +4418,6 @@
             "Depth": "17.9",
             "ML": "2.2",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "15:31:15",
-            "Latitude": "35.3133",
-            "Longitude": "25.3055",
-            "Depth": "24.7",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "14:31:56",
-            "Latitude": "38.9345",
-            "Longitude": "27.8845",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "HASKOY AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "14:18:08",
-            "Latitude": "39.5903",
-            "Longitude": "26.4150",
-            "Depth": "15.6",
-            "ML": "2.0",
-            "Location": "AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "12:43:44",
-            "Latitude": "38.9735",
-            "Longitude": "26.0002",
-            "Depth": "5.6",
-            "ML": "2.2",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "12:33:47",
-            "Latitude": "37.7125",
-            "Longitude": "27.1092",
-            "Depth": "4.2",
-            "ML": "1.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "12:16:53",
-            "Latitude": "37.2998",
-            "Longitude": "28.0670",
-            "Depth": "5.4",
-            "ML": "1.9",
-            "Location": "YESILKOY YATAGAN MUGLA"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "11:46:41",
-            "Latitude": "40.9308",
-            "Longitude": "32.4667",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "BUYUKYAYALAR ESKIPAZAR KARABUK"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "11:37:03",
-            "Latitude": "35.3880",
-            "Longitude": "29.0293",
-            "Depth": "86.8",
-            "ML": "2.7",
-            "Location": "AKDENIZ"
         }
     ]
 }
