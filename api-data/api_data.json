@@ -1,6 +1,114 @@
 {
     "data": [
         {
+            "Date": "2022.02.15",
+            "Time": "00:17:35",
+            "Latitude": "38.0745",
+            "Longitude": "37.9345",
+            "Depth": "5.4",
+            "ML": "2.3",
+            "Location": "COMLEKOBA DOGANSEHIR MALATYA"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "00:06:24",
+            "Latitude": "40.8263",
+            "Longitude": "34.2470",
+            "Depth": "12.0",
+            "ML": "1.3",
+            "Location": "SORKUN ISKILIP CORUM"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "23:59:17",
+            "Latitude": "37.0593",
+            "Longitude": "28.3542",
+            "Depth": "7.5",
+            "ML": "1.0",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "23:48:26",
+            "Latitude": "36.4965",
+            "Longitude": "27.5845",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "23:48:06",
+            "Latitude": "38.1155",
+            "Longitude": "37.8665",
+            "Depth": "4.4",
+            "ML": "1.3",
+            "Location": "YOLKURU DOGANSEHIR MALATYA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "23:45:49",
+            "Latitude": "36.7820",
+            "Longitude": "28.2735",
+            "Depth": "4.5",
+            "ML": "1.1",
+            "Location": "TURUNC MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "23:40:52",
+            "Latitude": "36.6068",
+            "Longitude": "28.8332",
+            "Depth": "11.2",
+            "ML": "1.3",
+            "Location": "FETHIYE KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "23:38:35",
+            "Latitude": "40.8148",
+            "Longitude": "34.2215",
+            "Depth": "6.4",
+            "ML": "2.4",
+            "Location": "SORKUN ISKILIP CORUM"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "23:23:41",
+            "Latitude": "36.0103",
+            "Longitude": "27.6353",
+            "Depth": "7.9",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "23:16:43",
+            "Latitude": "38.3580",
+            "Longitude": "26.7512",
+            "Depth": "3.2",
+            "ML": "1.1",
+            "Location": "URLA IZMIR"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "23:12:41",
+            "Latitude": "37.1500",
+            "Longitude": "28.6347",
+            "Depth": "12.0",
+            "ML": "1.1",
+            "Location": "CAKMAK MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "23:09:23",
+            "Latitude": "39.7300",
+            "Longitude": "39.6342",
+            "Depth": "4.2",
+            "ML": "2.5",
+            "Location": "GUNEBAKAN ERZINCAN"
+        },
+        {
             "Date": "2022.02.14",
             "Time": "22:58:04",
             "Latitude": "37.1610",
@@ -4328,105 +4436,6 @@
             "Depth": "5.0",
             "ML": "3.4",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "22:03:06",
-            "Latitude": "37.0788",
-            "Longitude": "28.3907",
-            "Depth": "5.5",
-            "ML": "2.1",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "21:18:48",
-            "Latitude": "37.0785",
-            "Longitude": "28.3640",
-            "Depth": "5.1",
-            "ML": "2.1",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "21:10:48",
-            "Latitude": "36.9012",
-            "Longitude": "27.7333",
-            "Depth": "12.8",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ REVIZE SAGLIK MERAM KONYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "20:35:51",
-            "Latitude": "39.7868",
-            "Longitude": "41.8452",
-            "Depth": "19.2",
-            "ML": "1.5",
-            "Location": "YEMLIK KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "19:39:29",
-            "Latitude": "37.7633",
-            "Longitude": "29.0883",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "DENIZLI"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "18:51:01",
-            "Latitude": "37.1233",
-            "Longitude": "28.9857",
-            "Depth": "1.7",
-            "ML": "3.3",
-            "Location": "SANDALCIK ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "18:11:51",
-            "Latitude": "37.4627",
-            "Longitude": "38.7593",
-            "Depth": "7.4",
-            "ML": "1.8",
-            "Location": "ESTAGFIRULLAH SANLIURFA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "16:20:56",
-            "Latitude": "36.6052",
-            "Longitude": "28.3370",
-            "Depth": "4.2",
-            "ML": "1.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "14:44:47",
-            "Latitude": "38.2277",
-            "Longitude": "38.4203",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "UCGOZE YESILYURT MALATYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "14:20:47",
-            "Latitude": "37.8823",
-            "Longitude": "32.1140",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "KIZILOREN MERAM KONYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "14:13:58",
-            "Latitude": "37.8673",
-            "Longitude": "32.0933",
-            "Depth": "4.9",
-            "ML": "1.7",
-            "Location": "KIZILOREN MERAM KONYA"
         }
     ]
 }
