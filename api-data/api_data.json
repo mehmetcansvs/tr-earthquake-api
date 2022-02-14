@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.02.14",
+            "Time": "22:58:04",
+            "Latitude": "37.1610",
+            "Longitude": "27.9180",
+            "Depth": "5.1",
+            "ML": "1.7",
+            "Location": "KARACAAGAC MILAS MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "22:52:26",
+            "Latitude": "38.2355",
+            "Longitude": "37.9217",
+            "Depth": "23.2",
+            "ML": "1.5",
+            "Location": "OREN AKCADAG MALATYA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "22:45:38",
+            "Latitude": "38.1763",
+            "Longitude": "31.0112",
+            "Depth": "5.4",
+            "ML": "1.4",
+            "Location": "KOKE GELENDOST ISPARTA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "22:42:45",
+            "Latitude": "38.2048",
+            "Longitude": "30.9797",
+            "Depth": "3.1",
+            "ML": "1.3",
+            "Location": "CALTI GELENDOST ISPARTA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "22:03:53",
+            "Latitude": "37.0617",
+            "Longitude": "30.2878",
+            "Depth": "2.8",
+            "ML": "1.5",
+            "Location": "BAYAT KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "21:59:42",
+            "Latitude": "38.8465",
+            "Longitude": "26.4418",
+            "Depth": "7.6",
+            "ML": "2.3",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "21:52:29",
+            "Latitude": "37.1323",
+            "Longitude": "27.8970",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "SEKKOY MILAS MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
             "Time": "20:34:47",
             "Latitude": "36.4537",
             "Longitude": "29.1278",
@@ -4363,69 +4426,6 @@
             "Longitude": "32.0933",
             "Depth": "4.9",
             "ML": "1.7",
-            "Location": "KIZILOREN MERAM KONYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "13:42:20",
-            "Latitude": "39.1938",
-            "Longitude": "41.5618",
-            "Depth": "2.7",
-            "ML": "2.4",
-            "Location": "CAYIRYOLU VARTO MUS"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "13:32:47",
-            "Latitude": "37.8783",
-            "Longitude": "32.0765",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "KIZILOREN MERAM KONYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "13:23:19",
-            "Latitude": "37.8762",
-            "Longitude": "32.0787",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "KIZILOREN MERAM KONYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "13:18:50",
-            "Latitude": "37.0797",
-            "Longitude": "28.4205",
-            "Depth": "7.7",
-            "ML": "2.3",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "13:05:02",
-            "Latitude": "37.8685",
-            "Longitude": "32.0852",
-            "Depth": "4.0",
-            "ML": "1.9",
-            "Location": "KIZILOREN MERAM KONYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "12:45:27",
-            "Latitude": "37.8492",
-            "Longitude": "32.1398",
-            "Depth": "5.1",
-            "ML": "1.0",
-            "Location": "KIZILOREN MERAM KONYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "12:30:34",
-            "Latitude": "37.8968",
-            "Longitude": "32.0955",
-            "Depth": "5.0",
-            "ML": "4.1",
             "Location": "KIZILOREN MERAM KONYA"
         }
     ]
