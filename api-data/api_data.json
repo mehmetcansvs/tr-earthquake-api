@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.02.14",
+            "Time": "19:02:09",
+            "Latitude": "37.1315",
+            "Longitude": "31.1323",
+            "Depth": "97.7",
+            "ML": "2.2",
+            "Location": "KARABUK MANAVGAT ANTALYA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "18:54:20",
+            "Latitude": "38.3503",
+            "Longitude": "39.0010",
+            "Depth": "22.3",
+            "ML": "1.5",
+            "Location": "GORGULU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "18:46:34",
+            "Latitude": "41.1228",
+            "Longitude": "43.8813",
+            "Depth": "7.3",
+            "ML": "2.2",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "17:58:09",
+            "Latitude": "41.2123",
+            "Longitude": "43.8767",
+            "Depth": "5.3",
+            "ML": "1.9",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "17:51:58",
+            "Latitude": "38.4785",
+            "Longitude": "25.8012",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "SAKIZ ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "17:18:36",
+            "Latitude": "38.8608",
+            "Longitude": "25.9140",
+            "Depth": "5.5",
+            "ML": "2.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "17:13:33",
+            "Latitude": "41.1128",
+            "Longitude": "43.9482",
+            "Depth": "5.0",
+            "ML": "3.2",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.02.14",
             "Time": "16:47:37",
             "Latitude": "37.2288",
             "Longitude": "36.0153",
@@ -4362,62 +4425,8 @@
             "Latitude": "39.1198",
             "Longitude": "40.0622",
             "Depth": "5.0",
-            "ML": "3.8",
-            "Location": "OZLUCE KARAKOCAN ELAZIG REVIZE CIGIRLI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "08:14:55",
-            "Latitude": "40.0022",
-            "Longitude": "42.0857",
-            "Depth": "12.7",
-            "ML": "1.5",
-            "Location": "CAMURLU HORASAN ERZURUM"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "07:44:26",
-            "Latitude": "36.8313",
-            "Longitude": "28.0293",
-            "Depth": "8.0",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "07:39:25",
-            "Latitude": "36.9788",
-            "Longitude": "27.6548",
-            "Depth": "8.8",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "06:42:38",
-            "Latitude": "39.0967",
-            "Longitude": "40.1092",
-            "Depth": "6.2",
-            "ML": "2.4",
-            "Location": "HAMURKESEN KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "06:10:56",
-            "Latitude": "36.5838",
-            "Longitude": "30.1925",
-            "Depth": "73.8",
-            "ML": "3.2",
-            "Location": "KARACAOREN KUMLUCA ANTALYA"
-        },
-        {
-            "Date": "2022.01.31",
-            "Time": "05:55:38",
-            "Latitude": "37.2208",
-            "Longitude": "30.4633",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "BADEMAGACI DOSEMEALTI ANTALYA"
+            "ML": "4.0",
+            "Location": "OZLUCE KARAKOCAN ELAZIG REVIZE"
         }
     ]
 }
