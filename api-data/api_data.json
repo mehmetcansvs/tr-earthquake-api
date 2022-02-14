@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.14",
+            "Time": "10:59:04",
+            "Latitude": "36.6262",
+            "Longitude": "36.3163",
+            "Depth": "7.1",
+            "ML": "1.1",
+            "Location": "KALEDIBI ISKENDERUN HATAY"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "10:28:58",
+            "Latitude": "39.2433",
+            "Longitude": "27.7360",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "TEKELI ISIKLAR SOMA MANISA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "10:18:09",
+            "Latitude": "37.0732",
+            "Longitude": "28.3220",
+            "Depth": "3.6",
+            "ML": "1.4",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.14",
+            "Time": "09:20:49",
+            "Latitude": "39.0288",
+            "Longitude": "27.0428",
+            "Depth": "7.0",
+            "ML": "2.3",
+            "Location": "ASAGIKIRIKLAR BERGAMA IZMIR"
+        },
+        {
+            "Date": "2022.02.14",
             "Time": "08:17:12",
             "Latitude": "40.2047",
             "Longitude": "28.9228",
@@ -4382,42 +4418,6 @@
             "Depth": "12.9",
             "ML": "2.2",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "23:46:11",
-            "Latitude": "38.9370",
-            "Longitude": "26.7097",
-            "Depth": "9.3",
-            "ML": "1.9",
-            "Location": "DENIZKOY DIKILI IZMIR"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "23:42:31",
-            "Latitude": "40.4090",
-            "Longitude": "26.2238",
-            "Depth": "13.6",
-            "ML": "2.1",
-            "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "23:09:24",
-            "Latitude": "38.9577",
-            "Longitude": "26.7047",
-            "Depth": "8.4",
-            "ML": "3.8",
-            "Location": "DENIZKOY DIKILI IZMIR"
-        },
-        {
-            "Date": "2022.01.30",
-            "Time": "23:04:42",
-            "Latitude": "36.1355",
-            "Longitude": "27.8028",
-            "Depth": "22.1",
-            "ML": "2.4",
-            "Location": "RODOS ADASI AKDENIZ"
         }
     ]
 }
