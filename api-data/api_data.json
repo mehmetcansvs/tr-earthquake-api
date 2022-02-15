@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.15",
+            "Time": "16:09:00",
+            "Latitude": "37.7275",
+            "Longitude": "25.9852",
+            "Depth": "4.5",
+            "ML": "2.1",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "15:51:11",
+            "Latitude": "38.4658",
+            "Longitude": "25.7940",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "SAKIZ ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "15:48:16",
+            "Latitude": "39.6743",
+            "Longitude": "35.5162",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "SARAYKENT YOZGAT"
+        },
+        {
+            "Date": "2022.02.15",
             "Time": "14:27:15",
             "Latitude": "37.7032",
             "Longitude": "25.9477",
@@ -4418,33 +4445,6 @@
             "Depth": "6.0",
             "ML": "1.5",
             "Location": "ORTACA BALIKESIR"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "05:50:24",
-            "Latitude": "40.6512",
-            "Longitude": "36.4457",
-            "Depth": "19.2",
-            "ML": "2.7",
-            "Location": "CIBRIL ERBAA TOKAT"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "04:55:09",
-            "Latitude": "37.1802",
-            "Longitude": "28.5275",
-            "Depth": "12.3",
-            "ML": "1.9",
-            "Location": "YAYLASOGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "02:29:28",
-            "Latitude": "37.6688",
-            "Longitude": "26.0283",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
