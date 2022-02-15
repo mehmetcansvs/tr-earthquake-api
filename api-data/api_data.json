@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.15",
+            "Time": "06:24:43",
+            "Latitude": "40.3290",
+            "Longitude": "27.4847",
+            "Depth": "6.6",
+            "ML": "1.9",
+            "Location": "GUVEMALANI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "06:12:59",
+            "Latitude": "36.9412",
+            "Longitude": "27.4320",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "05:55:52",
+            "Latitude": "41.1572",
+            "Longitude": "43.9670",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "05:38:06",
+            "Latitude": "40.5657",
+            "Longitude": "27.2933",
+            "Depth": "10.0",
+            "ML": "1.3",
+            "Location": "KARABIGA ACIKLARI CANAKKALE MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "03:57:48",
+            "Latitude": "37.2238",
+            "Longitude": "36.0320",
+            "Depth": "15.1",
+            "ML": "2.5",
+            "Location": "KOCYURDU OSMANIYE"
+        },
+        {
+            "Date": "2022.02.15",
             "Time": "02:49:57",
             "Latitude": "38.3147",
             "Longitude": "27.8432",
@@ -4391,51 +4436,6 @@
             "Depth": "4.3",
             "ML": "1.4",
             "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "09:00:53",
-            "Latitude": "35.6857",
-            "Longitude": "32.5715",
-            "Depth": "5.4",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "08:18:43",
-            "Latitude": "39.3913",
-            "Longitude": "27.9393",
-            "Depth": "1.7",
-            "ML": "2.8",
-            "Location": "DEDEBURNU BALIKESIR"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "08:04:53",
-            "Latitude": "39.0345",
-            "Longitude": "40.7178",
-            "Depth": "11.6",
-            "ML": "1.4",
-            "Location": "ELMALI BINGOL"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "05:28:22",
-            "Latitude": "38.9100",
-            "Longitude": "43.6105",
-            "Depth": "17.0",
-            "ML": "2.4",
-            "Location": "SAGLAMTAS VAN"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "05:25:37",
-            "Latitude": "38.8885",
-            "Longitude": "43.5590",
-            "Depth": "4.9",
-            "ML": "3.5",
-            "Location": "COLPAN VAN"
         }
     ]
 }
