@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.15",
+            "Time": "14:27:15",
+            "Latitude": "37.7032",
+            "Longitude": "25.9477",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "13:20:29",
+            "Latitude": "40.1835",
+            "Longitude": "42.2883",
+            "Depth": "9.1",
+            "ML": "1.5",
+            "Location": "BULGURLU HORASAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "13:14:17",
+            "Latitude": "39.5747",
+            "Longitude": "40.9228",
+            "Depth": "7.8",
+            "ML": "1.8",
+            "Location": "PARMAKSIZ CAT ERZURUM"
+        },
+        {
+            "Date": "2022.02.15",
             "Time": "12:57:14",
             "Latitude": "39.2085",
             "Longitude": "32.0828",
@@ -4418,24 +4445,6 @@
             "Depth": "5.0",
             "ML": "2.8",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "02:14:46",
-            "Latitude": "37.6947",
-            "Longitude": "25.9917",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "23:04:58",
-            "Latitude": "39.6055",
-            "Longitude": "34.4047",
-            "Depth": "2.5",
-            "ML": "2.1",
-            "Location": "HARMANPINAR CICEKDAGI KIRSEHIR REVIZE AKDENIZ"
         }
     ]
 }
