@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.15",
+            "Time": "07:12:54",
+            "Latitude": "40.3905",
+            "Longitude": "27.4890",
+            "Depth": "10.0",
+            "ML": "1.2",
+            "Location": "ERDEK KORFEZI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.15",
             "Time": "06:24:43",
             "Latitude": "40.3290",
             "Longitude": "27.4847",
@@ -4427,15 +4436,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "DUTLUCA INONU ESKISEHIR"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "10:22:28",
-            "Latitude": "40.4523",
-            "Longitude": "26.1317",
-            "Depth": "4.3",
-            "ML": "1.4",
-            "Location": "SAROS KORFEZI EGE DENIZI"
         }
     ]
 }
