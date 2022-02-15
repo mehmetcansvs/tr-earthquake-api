@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.02.15",
+            "Time": "12:57:14",
+            "Latitude": "39.2085",
+            "Longitude": "32.0828",
+            "Depth": "10.1",
+            "ML": "2.4",
+            "Location": "OZYURT POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "12:54:39",
+            "Latitude": "36.2795",
+            "Longitude": "33.7088",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "KIRTIL SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "12:13:15",
+            "Latitude": "39.2167",
+            "Longitude": "32.0467",
+            "Depth": "4.2",
+            "ML": "1.6",
+            "Location": "OZYURT POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "12:03:38",
+            "Latitude": "38.3980",
+            "Longitude": "44.0142",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "CAKMAKKOY SARAY VAN"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "11:38:33",
+            "Latitude": "40.0710",
+            "Longitude": "24.1315",
+            "Depth": "23.3",
+            "ML": "3.1",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "11:27:16",
+            "Latitude": "40.8027",
+            "Longitude": "31.5120",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "11:12:13",
+            "Latitude": "37.1037",
+            "Longitude": "28.3772",
+            "Depth": "5.2",
+            "ML": "1.7",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "11:00:37",
+            "Latitude": "39.2103",
+            "Longitude": "32.1122",
+            "Depth": "3.8",
+            "ML": "1.5",
+            "Location": "OZYURT POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.02.15",
             "Time": "10:37:10",
             "Latitude": "37.1207",
             "Longitude": "28.4413",
@@ -4364,78 +4436,6 @@
             "Depth": "2.5",
             "ML": "2.1",
             "Location": "HARMANPINAR CICEKDAGI KIRSEHIR REVIZE AKDENIZ"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "18:42:07",
-            "Latitude": "37.0030",
-            "Longitude": "26.1690",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "17:47:28",
-            "Latitude": "41.7853",
-            "Longitude": "26.0092",
-            "Depth": "5.5",
-            "ML": "2.2",
-            "Location": "BULGARISTAN"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "15:50:46",
-            "Latitude": "39.4545",
-            "Longitude": "26.0720",
-            "Depth": "4.0",
-            "ML": "1.9",
-            "Location": "BABAKALE AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "14:55:33",
-            "Latitude": "36.1272",
-            "Longitude": "33.5803",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "14:33:14",
-            "Latitude": "36.5135",
-            "Longitude": "34.2730",
-            "Depth": "3.8",
-            "ML": "1.5",
-            "Location": "LIMONLU ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "14:29:43",
-            "Latitude": "36.2187",
-            "Longitude": "36.6842",
-            "Depth": "3.8",
-            "ML": "1.7",
-            "Location": "CILVEGOZU REYHANLI HATAY"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "14:07:55",
-            "Latitude": "38.8627",
-            "Longitude": "43.5680",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "AKCIFT VAN"
-        },
-        {
-            "Date": "2022.02.01",
-            "Time": "13:39:09",
-            "Latitude": "40.1787",
-            "Longitude": "30.7747",
-            "Depth": "1.3",
-            "ML": "1.8",
-            "Location": "ASAGIKINIK GOYNUK BOLU"
         }
     ]
 }
