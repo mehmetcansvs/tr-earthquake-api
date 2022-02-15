@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.15",
+            "Time": "23:07:11",
+            "Latitude": "40.8013",
+            "Longitude": "31.4860",
+            "Depth": "7.0",
+            "ML": "2.1",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.02.15",
             "Time": "20:57:27",
             "Latitude": "39.4372",
             "Longitude": "33.0445",
@@ -4436,15 +4445,6 @@
             "Depth": "12.8",
             "ML": "1.6",
             "Location": "ESENDURAK TORTUM ERZURUM"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "15:36:36",
-            "Latitude": "36.1870",
-            "Longitude": "33.7270",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "YESILOVACIK SILIFKE MERSIN"
         }
     ]
 }
