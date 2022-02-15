@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.15",
+            "Time": "20:57:27",
+            "Latitude": "39.4372",
+            "Longitude": "33.0445",
+            "Depth": "10.5",
+            "ML": "2.2",
+            "Location": "AFSAR BALA ANKARA"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "19:24:35",
+            "Latitude": "38.5643",
+            "Longitude": "39.5357",
+            "Depth": "11.8",
+            "ML": "2.3",
+            "Location": "KUCUKOVA MADEN ELAZIG"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "19:23:38",
+            "Latitude": "38.9550",
+            "Longitude": "26.1403",
+            "Depth": "10.2",
+            "ML": "2.2",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "19:19:24",
+            "Latitude": "40.3370",
+            "Longitude": "27.4773",
+            "Depth": "2.2",
+            "ML": "1.9",
+            "Location": "GUVEMALANI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.02.15",
             "Time": "16:09:00",
             "Latitude": "37.7275",
             "Longitude": "25.9852",
@@ -4409,42 +4445,6 @@
             "Depth": "0.0",
             "ML": "1.0",
             "Location": "YESILOVACIK SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "14:08:10",
-            "Latitude": "35.6343",
-            "Longitude": "28.1940",
-            "Depth": "10.6",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "10:54:27",
-            "Latitude": "37.9342",
-            "Longitude": "32.5707",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "10:47:16",
-            "Latitude": "37.8540",
-            "Longitude": "27.0412",
-            "Depth": "9.0",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "10:16:08",
-            "Latitude": "39.7512",
-            "Longitude": "27.8195",
-            "Depth": "6.0",
-            "ML": "1.5",
-            "Location": "ORTACA BALIKESIR"
         }
     ]
 }
