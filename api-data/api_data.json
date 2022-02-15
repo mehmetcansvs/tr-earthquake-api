@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.02.16",
+            "Time": "00:12:58",
+            "Latitude": "35.8160",
+            "Longitude": "29.1435",
+            "Depth": "9.3",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "00:08:00",
+            "Latitude": "36.9653",
+            "Longitude": "27.6375",
+            "Depth": "14.4",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.15",
+            "Time": "23:56:54",
+            "Latitude": "38.7292",
+            "Longitude": "43.4278",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "OCAKLI VAN"
+        },
+        {
             "Date": "2022.02.15",
             "Time": "23:07:11",
             "Latitude": "40.8013",
@@ -4418,33 +4445,6 @@
             "Depth": "15.0",
             "ML": "2.1",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "19:23:55",
-            "Latitude": "35.8113",
-            "Longitude": "28.3908",
-            "Depth": "61.2",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "19:23:48",
-            "Latitude": "40.2988",
-            "Longitude": "41.6633",
-            "Depth": "13.7",
-            "ML": "1.5",
-            "Location": "KARAPINAR NARMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "19:21:32",
-            "Latitude": "40.3282",
-            "Longitude": "41.4277",
-            "Depth": "12.8",
-            "ML": "1.6",
-            "Location": "ESENDURAK TORTUM ERZURUM"
         }
     ]
 }
