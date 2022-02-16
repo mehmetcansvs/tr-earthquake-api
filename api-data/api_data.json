@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.16",
+            "Time": "21:06:18",
+            "Latitude": "37.8235",
+            "Longitude": "27.0172",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.16",
             "Time": "17:12:14",
             "Latitude": "38.4828",
             "Longitude": "39.2187",
@@ -4427,15 +4436,6 @@
             "Depth": "16.0",
             "ML": "1.6",
             "Location": "BAGOZU BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "20:22:29",
-            "Latitude": "40.1530",
-            "Longitude": "31.6348",
-            "Depth": "7.5",
-            "ML": "1.8",
-            "Location": "ULUKOY NALLIHAN ANKARA"
         }
     ]
 }
