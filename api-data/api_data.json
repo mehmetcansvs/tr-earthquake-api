@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.16",
+            "Time": "17:12:14",
+            "Latitude": "38.4828",
+            "Longitude": "39.2187",
+            "Depth": "6.8",
+            "ML": "2.3",
+            "Location": "DEDEYOLU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.16",
             "Time": "16:37:34",
             "Latitude": "37.3255",
             "Longitude": "37.4235",
@@ -4427,15 +4436,6 @@
             "Depth": "7.5",
             "ML": "1.8",
             "Location": "ULUKOY NALLIHAN ANKARA"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "19:58:30",
-            "Latitude": "37.0768",
-            "Longitude": "28.3497",
-            "Depth": "14.2",
-            "ML": "1.3",
-            "Location": "KIZILAGAC ULA MUGLA"
         }
     ]
 }
