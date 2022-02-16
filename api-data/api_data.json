@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.16",
+            "Time": "05:58:05",
+            "Latitude": "36.3818",
+            "Longitude": "29.5430",
+            "Depth": "14.5",
+            "ML": "1.1",
+            "Location": "CAMLIOVA KAS ANTALYA"
+        },
+        {
+            "Date": "2022.02.16",
             "Time": "05:16:57",
             "Latitude": "38.2905",
             "Longitude": "38.9287",
@@ -4436,15 +4445,6 @@
             "Depth": "7.6",
             "ML": "2.2",
             "Location": "KOCBASI AGRI"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "01:56:42",
-            "Latitude": "40.1557",
-            "Longitude": "41.2455",
-            "Depth": "7.5",
-            "ML": "2.2",
-            "Location": "GUNGORMEZ YAKUTIYE ERZURUM"
         }
     ]
 }
