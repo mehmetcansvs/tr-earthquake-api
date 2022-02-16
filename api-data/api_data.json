@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.02.16",
+            "Time": "08:20:34",
+            "Latitude": "40.8937",
+            "Longitude": "31.7922",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "MERKESLER BOLU"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "08:19:44",
+            "Latitude": "37.1483",
+            "Longitude": "28.4600",
+            "Depth": "7.4",
+            "ML": "1.6",
+            "Location": "YARAS MUGLA"
+        },
+        {
+            "Date": "2022.02.16",
             "Time": "05:58:05",
             "Latitude": "36.3818",
             "Longitude": "29.5430",
             "Depth": "14.5",
             "ML": "1.1",
             "Location": "CAMLIOVA KAS ANTALYA"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "05:33:52",
+            "Latitude": "41.1142",
+            "Longitude": "43.9462",
+            "Depth": "9.8",
+            "ML": "1.9",
+            "Location": "ERMENISTAN"
         },
         {
             "Date": "2022.02.16",
@@ -4418,33 +4445,6 @@
             "Depth": "4.7",
             "ML": "1.9",
             "Location": "BAYAT ATABEY ISPARTA"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "06:31:30",
-            "Latitude": "36.0107",
-            "Longitude": "27.5703",
-            "Depth": "8.9",
-            "ML": "3.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "04:17:49",
-            "Latitude": "38.9895",
-            "Longitude": "30.2528",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "AYDINLAR ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "02:15:43",
-            "Latitude": "39.8830",
-            "Longitude": "43.3378",
-            "Depth": "7.6",
-            "ML": "2.2",
-            "Location": "KOCBASI AGRI"
         }
     ]
 }
