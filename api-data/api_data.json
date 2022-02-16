@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.16",
+            "Time": "23:43:05",
+            "Latitude": "36.7320",
+            "Longitude": "27.1138",
+            "Depth": "9.3",
+            "ML": "2.3",
+            "Location": "KOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.16",
             "Time": "21:06:18",
             "Latitude": "37.8235",
             "Longitude": "27.0172",
@@ -4427,15 +4436,6 @@
             "Depth": "10.5",
             "ML": "1.3",
             "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "20:26:46",
-            "Latitude": "40.1837",
-            "Longitude": "31.8395",
-            "Depth": "16.0",
-            "ML": "1.6",
-            "Location": "BAGOZU BEYPAZARI ANKARA"
         }
     ]
 }
