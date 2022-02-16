@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.16",
+            "Time": "05:16:57",
+            "Latitude": "38.2905",
+            "Longitude": "38.9287",
+            "Depth": "20.4",
+            "ML": "2.1",
+            "Location": "TOSUNLU PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "04:56:11",
+            "Latitude": "40.4927",
+            "Longitude": "29.1858",
+            "Depth": "5.2",
+            "ML": "1.0",
+            "Location": "SAHINYURDU GEMLIK BURSA"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "04:47:12",
+            "Latitude": "37.0963",
+            "Longitude": "28.3642",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.16",
             "Time": "03:36:16",
             "Latitude": "37.1125",
             "Longitude": "28.3708",
@@ -4418,33 +4445,6 @@
             "Depth": "7.5",
             "ML": "2.2",
             "Location": "GUNGORMEZ YAKUTIYE ERZURUM"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "01:11:14",
-            "Latitude": "39.8612",
-            "Longitude": "43.3802",
-            "Depth": "10.5",
-            "ML": "1.8",
-            "Location": "KANDILLI TUZLUCA IGDIR"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "00:23:47",
-            "Latitude": "40.7630",
-            "Longitude": "32.8448",
-            "Depth": "18.5",
-            "ML": "1.3",
-            "Location": "TURBASI CERKES CANKIRI"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "00:03:47",
-            "Latitude": "35.1603",
-            "Longitude": "32.0237",
-            "Depth": "5.0",
-            "ML": "5.1",
-            "Location": "AKDENIZ"
         }
     ]
 }
