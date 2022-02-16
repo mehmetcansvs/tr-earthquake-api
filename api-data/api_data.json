@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.16",
+            "Time": "03:36:16",
+            "Latitude": "37.1125",
+            "Longitude": "28.3708",
+            "Depth": "3.9",
+            "ML": "1.6",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "03:34:51",
+            "Latitude": "39.0830",
+            "Longitude": "35.9792",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "02:59:19",
+            "Latitude": "37.0978",
+            "Longitude": "28.4037",
+            "Depth": "5.0",
+            "ML": "1.0",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "01:23:38",
+            "Latitude": "37.8530",
+            "Longitude": "27.2433",
+            "Depth": "6.1",
+            "ML": "2.3",
+            "Location": "KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "01:19:38",
+            "Latitude": "37.8620",
+            "Longitude": "27.2488",
+            "Depth": "5.4",
+            "ML": "3.3",
+            "Location": "KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.02.16",
             "Time": "00:12:58",
             "Latitude": "35.8160",
             "Longitude": "29.1435",
@@ -4400,51 +4445,6 @@
             "Depth": "5.0",
             "ML": "5.1",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "22:12:23",
-            "Latitude": "39.3303",
-            "Longitude": "27.8895",
-            "Depth": "17.5",
-            "ML": "1.4",
-            "Location": "KOCAISKAN KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "21:44:17",
-            "Latitude": "38.3988",
-            "Longitude": "28.3875",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "YENIKOY ALASEHIR MANISA"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "20:57:01",
-            "Latitude": "39.9077",
-            "Longitude": "39.6270",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "KUSLUK KELKIT GUMUSHANE"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "19:45:19",
-            "Latitude": "37.8510",
-            "Longitude": "27.0085",
-            "Depth": "2.7",
-            "ML": "2.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.02",
-            "Time": "19:29:30",
-            "Latitude": "37.8370",
-            "Longitude": "26.9140",
-            "Depth": "15.0",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
