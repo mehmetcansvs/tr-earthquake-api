@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.16",
+            "Time": "13:48:07",
+            "Latitude": "35.5173",
+            "Longitude": "32.1663",
+            "Depth": "8.7",
+            "ML": "2.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "13:16:43",
+            "Latitude": "37.9507",
+            "Longitude": "26.9705",
+            "Depth": "9.5",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "13:04:23",
+            "Latitude": "39.2982",
+            "Longitude": "25.8570",
+            "Depth": "6.2",
+            "ML": "1.9",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "13:03:48",
+            "Latitude": "36.1798",
+            "Longitude": "33.7897",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "AKDERE SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.02.16",
+            "Time": "12:31:05",
+            "Latitude": "38.1790",
+            "Longitude": "26.5652",
+            "Depth": "3.0",
+            "ML": "1.8",
+            "Location": "ZEYTINELI URLA IZMIR"
+        },
+        {
+            "Date": "2022.02.16",
             "Time": "12:28:52",
             "Latitude": "38.1843",
             "Longitude": "26.5645",
@@ -4391,51 +4436,6 @@
             "Depth": "10.2",
             "ML": "2.0",
             "Location": "TUTAK TUZLUCA IGDIR"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "16:33:17",
-            "Latitude": "39.0318",
-            "Longitude": "26.0300",
-            "Depth": "7.0",
-            "ML": "2.4",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "15:46:55",
-            "Latitude": "37.1107",
-            "Longitude": "29.2353",
-            "Depth": "15.4",
-            "ML": "1.8",
-            "Location": "KOCAOVA CAMELI DENIZLI"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "15:45:56",
-            "Latitude": "37.3903",
-            "Longitude": "29.2735",
-            "Depth": "12.2",
-            "ML": "1.2",
-            "Location": "MEVLUTLER ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "14:01:20",
-            "Latitude": "38.8588",
-            "Longitude": "43.5555",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "13:43:53",
-            "Latitude": "37.0570",
-            "Longitude": "28.3977",
-            "Depth": "2.0",
-            "ML": "2.4",
-            "Location": "ATAKOY ULA MUGLA"
         }
     ]
 }
