@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.17",
+            "Time": "08:31:29",
+            "Latitude": "40.4053",
+            "Longitude": "26.3418",
+            "Depth": "13.2",
+            "ML": "1.5",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "07:42:19",
+            "Latitude": "38.4597",
+            "Longitude": "43.2395",
+            "Depth": "13.5",
+            "ML": "1.4",
+            "Location": "EDREMIT VAN"
+        },
+        {
+            "Date": "2022.02.17",
             "Time": "06:48:35",
             "Latitude": "36.4980",
             "Longitude": "25.2993",
@@ -4418,24 +4436,6 @@
             "Depth": "9.1",
             "ML": "1.2",
             "Location": "AKTARMA BALIKESIR"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "10:21:34",
-            "Latitude": "39.3445",
-            "Longitude": "40.6478",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "DINARBEY YEDISU BINGOL"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "09:08:52",
-            "Latitude": "40.6668",
-            "Longitude": "29.1745",
-            "Depth": "5.4",
-            "ML": "2.6",
-            "Location": "KORU CINARCIK YALOVA"
         }
     ]
 }
