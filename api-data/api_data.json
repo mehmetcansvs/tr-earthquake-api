@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.17",
+            "Time": "04:25:42",
+            "Latitude": "36.9478",
+            "Longitude": "27.6188",
+            "Depth": "2.5",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.17",
             "Time": "03:22:35",
             "Latitude": "40.3212",
             "Longitude": "35.3838",
@@ -4427,15 +4436,6 @@
             "Depth": "11.8",
             "ML": "1.9",
             "Location": "YONCAPINAR MADEN ELAZIG"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "04:12:26",
-            "Latitude": "40.3260",
-            "Longitude": "29.8740",
-            "Depth": "2.9",
-            "ML": "2.2",
-            "Location": "ORHANIYE OSMANELI BILECIK"
         }
     ]
 }
