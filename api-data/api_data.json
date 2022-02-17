@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.17",
+            "Time": "06:48:35",
+            "Latitude": "36.4980",
+            "Longitude": "25.2993",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "06:37:30",
+            "Latitude": "36.8035",
+            "Longitude": "31.2958",
+            "Depth": "5.9",
+            "ML": "2.4",
+            "Location": "COLAKLI MANAVGAT ANTALYA"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "06:05:31",
+            "Latitude": "38.0325",
+            "Longitude": "28.9927",
+            "Depth": "8.9",
+            "ML": "1.9",
+            "Location": "MAHMUTLU BULDAN DENIZLI"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "05:25:01",
+            "Latitude": "41.2698",
+            "Longitude": "43.8838",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "05:24:54",
+            "Latitude": "39.8900",
+            "Longitude": "39.3375",
+            "Depth": "26.0",
+            "ML": "2.0",
+            "Location": "AHMETLI ERZINCAN"
+        },
+        {
+            "Date": "2022.02.17",
             "Time": "04:25:42",
             "Latitude": "36.9478",
             "Longitude": "27.6188",
@@ -4391,51 +4436,6 @@
             "Depth": "5.4",
             "ML": "2.6",
             "Location": "KORU CINARCIK YALOVA"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "09:08:24",
-            "Latitude": "34.8402",
-            "Longitude": "25.0148",
-            "Depth": "16.5",
-            "ML": "3.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "08:53:29",
-            "Latitude": "38.4292",
-            "Longitude": "39.2560",
-            "Depth": "2.2",
-            "ML": "1.9",
-            "Location": "DUZBAHCE SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "08:01:58",
-            "Latitude": "40.7847",
-            "Longitude": "31.5240",
-            "Depth": "9.7",
-            "ML": "1.7",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "07:01:39",
-            "Latitude": "38.3993",
-            "Longitude": "39.3410",
-            "Depth": "60.7",
-            "ML": "2.4",
-            "Location": "BASKAYNAK SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "05:50:23",
-            "Latitude": "38.4872",
-            "Longitude": "39.4318",
-            "Depth": "11.8",
-            "ML": "1.9",
-            "Location": "YONCAPINAR MADEN ELAZIG"
         }
     ]
 }
