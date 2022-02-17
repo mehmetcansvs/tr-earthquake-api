@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.02.18",
+            "Time": "00:20:14",
+            "Latitude": "37.1953",
+            "Longitude": "28.5570",
+            "Depth": "7.6",
+            "ML": "1.6",
+            "Location": "YAYLASOGUT ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "00:19:07",
+            "Latitude": "39.4615",
+            "Longitude": "40.5512",
+            "Depth": "12.9",
+            "ML": "1.9",
+            "Location": "YAGMURPINARI YEDISU BINGOL"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "22:56:14",
+            "Latitude": "40.8803",
+            "Longitude": "26.2630",
+            "Depth": "10.8",
+            "ML": "1.5",
+            "Location": "PASAKOY IPSALA EDIRNE"
+        },
+        {
             "Date": "2022.02.17",
             "Time": "19:05:14",
             "Latitude": "36.8135",
@@ -4400,33 +4427,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "COGURLU TUZLUKCU KONYA"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "00:46:46",
-            "Latitude": "37.2080",
-            "Longitude": "30.4287",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "KARAKUYU KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "00:28:40",
-            "Latitude": "38.5032",
-            "Longitude": "39.3158",
-            "Depth": "3.3",
-            "ML": "3.3",
-            "Location": "GUNEYKOY SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "23:14:54",
-            "Latitude": "40.0705",
-            "Longitude": "40.5823",
-            "Depth": "3.9",
-            "ML": "2.1",
-            "Location": "KAPIKALE ASKALE ERZURUM"
         }
     ]
 }
