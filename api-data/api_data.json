@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.02.17",
+            "Time": "03:22:35",
+            "Latitude": "40.3212",
+            "Longitude": "35.3838",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "SENEMOGLU ORTAKOY CORUM"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "02:48:20",
+            "Latitude": "38.5578",
+            "Longitude": "39.4313",
+            "Depth": "2.8",
+            "ML": "1.9",
+            "Location": "GOLARDI ELAZIG"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "02:30:08",
+            "Latitude": "41.1633",
+            "Longitude": "43.9543",
+            "Depth": "4.8",
+            "ML": "1.9",
+            "Location": "ERMENISTAN"
+        },
+        {
             "Date": "2022.02.16",
             "Time": "23:43:05",
             "Latitude": "36.7320",
@@ -4409,33 +4436,6 @@
             "Depth": "2.9",
             "ML": "2.2",
             "Location": "ORHANIYE OSMANELI BILECIK"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "00:31:00",
-            "Latitude": "39.3903",
-            "Longitude": "40.6955",
-            "Depth": "16.1",
-            "ML": "1.4",
-            "Location": "DINARBEY YEDISU BINGOL"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "22:35:29",
-            "Latitude": "39.8687",
-            "Longitude": "43.3582",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "KOVANCIK AGRI"
-        },
-        {
-            "Date": "2022.02.03",
-            "Time": "22:24:07",
-            "Latitude": "37.0720",
-            "Longitude": "28.3405",
-            "Depth": "10.5",
-            "ML": "1.3",
-            "Location": "AKYAKA ULA MUGLA"
         }
     ]
 }
