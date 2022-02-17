@@ -2,12 +2,75 @@
     "data": [
         {
             "Date": "2022.02.17",
+            "Time": "16:39:34",
+            "Latitude": "38.7927",
+            "Longitude": "39.3813",
+            "Depth": "22.6",
+            "ML": "1.9",
+            "Location": "BEYDALI ELAZIG"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "16:23:10",
+            "Latitude": "39.4183",
+            "Longitude": "41.2195",
+            "Depth": "3.4",
+            "ML": "1.4",
+            "Location": "YUVAKLI TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "16:13:09",
+            "Latitude": "38.8172",
+            "Longitude": "38.4187",
+            "Depth": "5.4",
+            "ML": "1.6",
+            "Location": "MESELI ARAPGIR MALATYA"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "15:58:32",
+            "Latitude": "36.5225",
+            "Longitude": "36.8680",
+            "Depth": "22.0",
+            "ML": "1.9",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "15:30:17",
+            "Latitude": "37.7463",
+            "Longitude": "38.4150",
+            "Depth": "9.9",
+            "ML": "2.2",
+            "Location": "KUSTEPE ADIYAMAN"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "14:52:53",
+            "Latitude": "36.5113",
+            "Longitude": "28.8137",
+            "Depth": "7.7",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.17",
             "Time": "14:42:31",
             "Latitude": "40.4153",
             "Longitude": "28.4672",
             "Depth": "5.5",
             "ML": "2.2",
             "Location": "BOGAZ KARACABEY BURSA"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "13:53:35",
+            "Latitude": "38.4993",
+            "Longitude": "31.3820",
+            "Depth": "6.5",
+            "ML": "1.4",
+            "Location": "GOLCAYIR AKSEHIR KONYA"
         },
         {
             "Date": "2022.02.17",
@@ -4373,69 +4436,6 @@
             "Depth": "11.0",
             "ML": "1.5",
             "Location": "ACIPAYAM ELAZIG"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "19:25:46",
-            "Latitude": "37.0738",
-            "Longitude": "28.3313",
-            "Depth": "4.8",
-            "ML": "1.7",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "18:57:32",
-            "Latitude": "38.8018",
-            "Longitude": "31.5527",
-            "Depth": "13.3",
-            "ML": "1.6",
-            "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "18:12:58",
-            "Latitude": "39.5448",
-            "Longitude": "27.5100",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "YUKARIKALEOBA IVRINDI BALIKESIR"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "17:54:43",
-            "Latitude": "37.9112",
-            "Longitude": "29.2093",
-            "Depth": "14.8",
-            "ML": "1.1",
-            "Location": "IRLIGANLI DENIZLI"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "16:46:03",
-            "Latitude": "36.2798",
-            "Longitude": "35.4727",
-            "Depth": "12.3",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "16:29:08",
-            "Latitude": "38.9795",
-            "Longitude": "26.0707",
-            "Depth": "1.8",
-            "ML": "2.9",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "15:50:34",
-            "Latitude": "40.5060",
-            "Longitude": "41.7802",
-            "Depth": "8.8",
-            "ML": "1.6",
-            "Location": "CAMLIBEL OLTU ERZURUM"
         }
     ]
 }
