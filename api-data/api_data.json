@@ -2,12 +2,12 @@
     "data": [
         {
             "Date": "2022.02.17",
-            "Time": "16:39:34",
-            "Latitude": "38.7927",
-            "Longitude": "39.3813",
-            "Depth": "22.6",
-            "ML": "1.9",
-            "Location": "BEYDALI ELAZIG"
+            "Time": "19:05:14",
+            "Latitude": "36.8135",
+            "Longitude": "31.8895",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "KARABUL GUNDOGMUS ANTALYA REVIZE BEYDALI ELAZIG"
         },
         {
             "Date": "2022.02.17",
@@ -4427,15 +4427,6 @@
             "Depth": "3.9",
             "ML": "2.1",
             "Location": "KAPIKALE ASKALE ERZURUM"
-        },
-        {
-            "Date": "2022.02.04",
-            "Time": "21:23:02",
-            "Latitude": "38.5438",
-            "Longitude": "39.2907",
-            "Depth": "11.0",
-            "ML": "1.5",
-            "Location": "ACIPAYAM ELAZIG"
         }
     ]
 }
