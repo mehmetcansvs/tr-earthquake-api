@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.02.18",
+            "Time": "15:59:50",
+            "Latitude": "38.5610",
+            "Longitude": "42.2152",
+            "Depth": "12.8",
+            "ML": "1.3",
+            "Location": "BENEKLI TATVAN BITLIS"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "15:30:38",
+            "Latitude": "40.4022",
+            "Longitude": "28.4482",
+            "Depth": "6.8",
+            "ML": "1.9",
+            "Location": "BOGAZ KARACABEY BURSA"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "15:12:28",
+            "Latitude": "35.8073",
+            "Longitude": "30.3400",
+            "Depth": "10.8",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "15:04:07",
+            "Latitude": "36.0033",
+            "Longitude": "29.7473",
+            "Depth": "9.7",
+            "ML": "2.0",
+            "Location": "KAS ACIKLARI ANTALYA AKDENIZ"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "15:01:31",
+            "Latitude": "39.4672",
+            "Longitude": "26.3465",
+            "Depth": "8.1",
+            "ML": "2.0",
+            "Location": "EDREMIT KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "14:45:36",
+            "Latitude": "40.9337",
+            "Longitude": "39.8743",
+            "Depth": "21.1",
+            "ML": "2.0",
+            "Location": "YOKUSLU YOMRA TRABZON"
+        },
+        {
+            "Date": "2022.02.18",
             "Time": "14:17:42",
             "Latitude": "37.9242",
             "Longitude": "27.1868",
@@ -35,6 +89,15 @@
             "Depth": "17.9",
             "ML": "1.3",
             "Location": "GUMUSKOL ULUBEY USAK"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "12:02:06",
+            "Latitude": "40.6847",
+            "Longitude": "39.6277",
+            "Depth": "26.5",
+            "ML": "1.6",
+            "Location": "ALTINDERE MACKA TRABZON"
         },
         {
             "Date": "2022.02.18",
@@ -251,6 +314,15 @@
             "Depth": "10.8",
             "ML": "1.5",
             "Location": "PASAKOY IPSALA EDIRNE"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "22:25:58",
+            "Latitude": "38.4890",
+            "Longitude": "42.6032",
+            "Depth": "8.9",
+            "ML": "1.8",
+            "Location": "HARMANLI TATVAN BITLIS"
         },
         {
             "Date": "2022.02.17",
@@ -4337,78 +4409,6 @@
             "Depth": "29.5",
             "ML": "2.8",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "05:09:05",
-            "Latitude": "37.2173",
-            "Longitude": "34.6240",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "FAKILAR CAMLIYAYLA MERSIN"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "04:43:56",
-            "Latitude": "34.8297",
-            "Longitude": "24.9523",
-            "Depth": "15.4",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "04:40:34",
-            "Latitude": "36.0403",
-            "Longitude": "29.1558",
-            "Depth": "16.0",
-            "ML": "1.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "04:39:00",
-            "Latitude": "36.8513",
-            "Longitude": "27.9792",
-            "Depth": "7.6",
-            "ML": "1.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "03:55:34",
-            "Latitude": "39.8183",
-            "Longitude": "41.8435",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "MARIFET KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "03:53:21",
-            "Latitude": "38.9912",
-            "Longitude": "42.0757",
-            "Depth": "7.5",
-            "ML": "1.3",
-            "Location": "YEMISEN BULANIK MUS"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "03:50:56",
-            "Latitude": "38.5473",
-            "Longitude": "31.6065",
-            "Depth": "5.5",
-            "ML": "1.4",
-            "Location": "PAZARKAYA TUZLUKCU KONYA"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "02:54:30",
-            "Latitude": "36.1230",
-            "Longitude": "29.1755",
-            "Depth": "8.8",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
         }
     ]
 }
