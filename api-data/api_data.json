@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.18",
+            "Time": "09:00:18",
+            "Latitude": "37.7807",
+            "Longitude": "27.7670",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "CAKMAR KOCARLI AYDIN"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "08:35:33",
+            "Latitude": "37.8382",
+            "Longitude": "27.0247",
+            "Depth": "7.7",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "07:17:35",
+            "Latitude": "36.9700",
+            "Longitude": "28.3177",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "CETIBELI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.02.18",
             "Time": "05:48:42",
             "Latitude": "39.1683",
             "Longitude": "40.1177",
@@ -4400,33 +4427,6 @@
             "Depth": "3.3",
             "ML": "1.4",
             "Location": "KUSBURNU BINGOL"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "09:30:31",
-            "Latitude": "36.7257",
-            "Longitude": "31.0868",
-            "Depth": "116.1",
-            "ML": "3.3",
-            "Location": "BELEK ACIKLARI ANTALYA AKDENIZ"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "08:53:12",
-            "Latitude": "37.1117",
-            "Longitude": "28.8897",
-            "Depth": "9.2",
-            "ML": "1.9",
-            "Location": "OTMANLAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "08:34:16",
-            "Latitude": "38.3902",
-            "Longitude": "31.9693",
-            "Depth": "7.0",
-            "ML": "1.5",
-            "Location": "COBANKAYA ILGIN KONYA"
         }
     ]
 }
