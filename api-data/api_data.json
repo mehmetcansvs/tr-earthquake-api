@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.18",
+            "Time": "11:56:19",
+            "Latitude": "36.2127",
+            "Longitude": "33.5458",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "TEPE GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.02.18",
             "Time": "10:15:13",
             "Latitude": "35.2095",
             "Longitude": "25.2575",
@@ -146,6 +155,15 @@
         },
         {
             "Date": "2022.02.17",
+            "Time": "23:08:08",
+            "Latitude": "36.2345",
+            "Longitude": "27.0117",
+            "Depth": "5.3",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.17",
             "Time": "22:56:14",
             "Latitude": "40.8803",
             "Longitude": "26.2630",
@@ -155,12 +173,57 @@
         },
         {
             "Date": "2022.02.17",
+            "Time": "21:26:52",
+            "Latitude": "41.1137",
+            "Longitude": "43.7178",
+            "Depth": "4.9",
+            "ML": "1.8",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "19:43:01",
+            "Latitude": "37.1785",
+            "Longitude": "30.3670",
+            "Depth": "92.0",
+            "ML": "1.4",
+            "Location": "CAYKENARI KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "19:16:13",
+            "Latitude": "36.9675",
+            "Longitude": "27.8498",
+            "Depth": "10.9",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.17",
             "Time": "19:05:14",
             "Latitude": "36.8135",
             "Longitude": "31.8895",
             "Depth": "5.0",
             "ML": "3.3",
-            "Location": "KARABUL GUNDOGMUS ANTALYA REVIZE GIRIT ADASI AKDENIZ"
+            "Location": "KARABUL GUNDOGMUS ANTALYA REVIZE MARMARA BALIKESIR"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "18:53:57",
+            "Latitude": "35.1350",
+            "Longitude": "25.2202",
+            "Depth": "5.4",
+            "ML": "3.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "18:12:19",
+            "Latitude": "37.0692",
+            "Longitude": "28.8273",
+            "Depth": "5.0",
+            "ML": "1.3",
+            "Location": "YAYLA KOYCEGIZ MUGLA"
         },
         {
             "Date": "2022.02.17",
@@ -317,6 +380,15 @@
         },
         {
             "Date": "2022.02.17",
+            "Time": "07:21:52",
+            "Latitude": "37.2532",
+            "Longitude": "28.5458",
+            "Depth": "4.5",
+            "ML": "1.1",
+            "Location": "OZLUCE MUGLA"
+        },
+        {
+            "Date": "2022.02.17",
             "Time": "06:48:35",
             "Latitude": "36.4980",
             "Longitude": "25.2993",
@@ -368,6 +440,15 @@
             "Depth": "6.5",
             "ML": "2.0",
             "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.17",
+            "Time": "04:53:17",
+            "Latitude": "37.1740",
+            "Longitude": "28.0848",
+            "Depth": "1.5",
+            "ML": "1.4",
+            "Location": "CIRPI MUGLA"
         },
         {
             "Date": "2022.02.17",
@@ -4328,87 +4409,6 @@
             "Depth": "18.0",
             "ML": "1.5",
             "Location": "CAGLAYAN PULUMUR TUNCELI"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "21:48:58",
-            "Latitude": "40.7775",
-            "Longitude": "31.4852",
-            "Depth": "6.1",
-            "ML": "1.5",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "21:21:53",
-            "Latitude": "37.0717",
-            "Longitude": "28.4033",
-            "Depth": "11.5",
-            "ML": "1.0",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "21:05:33",
-            "Latitude": "38.9763",
-            "Longitude": "27.8632",
-            "Depth": "13.9",
-            "ML": "2.5",
-            "Location": "KARABORKLU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "19:17:10",
-            "Latitude": "39.5610",
-            "Longitude": "40.9342",
-            "Depth": "6.3",
-            "ML": "1.2",
-            "Location": "KOSELER CAT ERZURUM"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "18:03:16",
-            "Latitude": "40.6412",
-            "Longitude": "32.8112",
-            "Depth": "4.7",
-            "ML": "1.5",
-            "Location": "YAGCIHUSEYIN KIZILCAHAMAM ANKARA"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "16:31:13",
-            "Latitude": "38.5077",
-            "Longitude": "39.2960",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "BEKCITEPE SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "16:13:18",
-            "Latitude": "40.4650",
-            "Longitude": "27.0760",
-            "Depth": "9.4",
-            "ML": "1.2",
-            "Location": "DEGIRMENCIK BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "13:44:31",
-            "Latitude": "36.6583",
-            "Longitude": "28.1578",
-            "Depth": "77.7",
-            "ML": "2.0",
-            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "13:11:35",
-            "Latitude": "37.2318",
-            "Longitude": "34.5227",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "CAMLIYAYLA MERSIN"
         }
     ]
 }
