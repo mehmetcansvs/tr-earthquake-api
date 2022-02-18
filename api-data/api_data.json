@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.18",
+            "Time": "20:57:24",
+            "Latitude": "39.0555",
+            "Longitude": "33.3523",
+            "Depth": "2.9",
+            "ML": "2.8",
+            "Location": "BOZAN KULU KONYA"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "19:46:46",
+            "Latitude": "38.8550",
+            "Longitude": "43.3177",
+            "Depth": "15.6",
+            "ML": "2.6",
+            "Location": "HALKALI VAN"
+        },
+        {
+            "Date": "2022.02.18",
             "Time": "15:59:50",
             "Latitude": "38.5610",
             "Longitude": "42.2152",
@@ -4391,24 +4409,6 @@
             "Depth": "8.8",
             "ML": "2.5",
             "Location": "HASANCAVUSLAR TIRE IZMIR"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "06:05:06",
-            "Latitude": "39.4853",
-            "Longitude": "27.9513",
-            "Depth": "3.7",
-            "ML": "1.6",
-            "Location": "INKAYA BALIKESIR"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "05:13:09",
-            "Latitude": "37.7572",
-            "Longitude": "25.8855",
-            "Depth": "29.5",
-            "ML": "2.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
