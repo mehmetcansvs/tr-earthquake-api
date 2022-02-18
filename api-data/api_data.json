@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.18",
+            "Time": "04:36:51",
+            "Latitude": "36.3033",
+            "Longitude": "29.5953",
+            "Depth": "7.2",
+            "ML": "1.6",
+            "Location": "SINNELI KAS ANTALYA"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "04:18:25",
+            "Latitude": "36.2868",
+            "Longitude": "26.9575",
+            "Depth": "6.2",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.18",
             "Time": "03:26:51",
             "Latitude": "39.3632",
             "Longitude": "40.3297",
@@ -4409,24 +4427,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "YESILYUVA ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "05:24:18",
-            "Latitude": "40.3883",
-            "Longitude": "33.3613",
-            "Depth": "6.8",
-            "ML": "2.0",
-            "Location": "KINIK KALECIK ANKARA"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "04:51:36",
-            "Latitude": "37.0695",
-            "Longitude": "28.2938",
-            "Depth": "6.6",
-            "ML": "1.7",
-            "Location": "KUYUCAK MUGLA"
         }
     ]
 }
