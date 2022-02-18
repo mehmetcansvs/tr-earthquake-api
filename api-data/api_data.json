@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.18",
+            "Time": "03:26:51",
+            "Latitude": "39.3632",
+            "Longitude": "40.3297",
+            "Depth": "4.3",
+            "ML": "2.1",
+            "Location": "KIGI BINGOL"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "01:19:13",
+            "Latitude": "37.3915",
+            "Longitude": "35.9205",
+            "Depth": "8.6",
+            "ML": "1.5",
+            "Location": "CAYGECIT KADIRLI OSMANIYE"
+        },
+        {
+            "Date": "2022.02.18",
             "Time": "00:20:14",
             "Latitude": "37.1953",
             "Longitude": "28.5570",
@@ -4409,24 +4427,6 @@
             "Depth": "6.6",
             "ML": "1.7",
             "Location": "KUYUCAK MUGLA"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "03:37:31",
-            "Latitude": "37.9690",
-            "Longitude": "26.1805",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "01:23:04",
-            "Latitude": "38.4988",
-            "Longitude": "31.7088",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "COGURLU TUZLUKCU KONYA"
         }
     ]
 }
