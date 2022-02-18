@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.18",
+            "Time": "22:18:20",
+            "Latitude": "40.6052",
+            "Longitude": "36.8020",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "GUNLUCE NIKSAR TOKAT"
+        },
+        {
+            "Date": "2022.02.18",
             "Time": "20:57:24",
             "Latitude": "39.0555",
             "Longitude": "33.3523",
@@ -4400,15 +4409,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "06:05:41",
-            "Latitude": "38.0748",
-            "Longitude": "27.4793",
-            "Depth": "8.8",
-            "ML": "2.5",
-            "Location": "HASANCAVUSLAR TIRE IZMIR"
         }
     ]
 }
