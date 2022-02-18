@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.18",
+            "Time": "05:48:42",
+            "Latitude": "39.1683",
+            "Longitude": "40.1177",
+            "Depth": "12.1",
+            "ML": "2.1",
+            "Location": "YAYLABAG YAYLADERE BINGOL"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "05:29:05",
+            "Latitude": "39.9785",
+            "Longitude": "24.1895",
+            "Depth": "12.0",
+            "ML": "2.4",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.02.18",
             "Time": "04:36:51",
             "Latitude": "36.3033",
             "Longitude": "29.5953",
@@ -4409,24 +4427,6 @@
             "Depth": "7.0",
             "ML": "1.5",
             "Location": "COBANKAYA ILGIN KONYA"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "07:56:31",
-            "Latitude": "37.7063",
-            "Longitude": "36.1705",
-            "Depth": "12.4",
-            "ML": "2.1",
-            "Location": "HALILBEYLI SAIMBEYLI ADANA"
-        },
-        {
-            "Date": "2022.02.05",
-            "Time": "07:38:58",
-            "Latitude": "37.5897",
-            "Longitude": "29.4498",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "YESILYUVA ACIPAYAM DENIZLI"
         }
     ]
 }
