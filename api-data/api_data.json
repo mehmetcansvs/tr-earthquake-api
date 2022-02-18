@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.02.19",
+            "Time": "00:49:22",
+            "Latitude": "37.0445",
+            "Longitude": "28.3720",
+            "Depth": "2.8",
+            "ML": "1.4",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "00:39:25",
+            "Latitude": "38.5053",
+            "Longitude": "26.7232",
+            "Depth": "3.2",
+            "ML": "1.8",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "00:27:46",
+            "Latitude": "38.4968",
+            "Longitude": "26.7058",
+            "Depth": "7.1",
+            "ML": "2.6",
+            "Location": "MORDOGAN KARABURUN IZMIR"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "23:52:09",
+            "Latitude": "37.9365",
+            "Longitude": "35.0330",
+            "Depth": "12.7",
+            "ML": "1.7",
+            "Location": "EYNELLI CAMARDI NIGDE"
+        },
+        {
+            "Date": "2022.02.18",
+            "Time": "23:34:56",
+            "Latitude": "39.9848",
+            "Longitude": "38.9660",
+            "Depth": "6.2",
+            "ML": "2.4",
+            "Location": "BALOGLU REFAHIYE ERZINCAN"
+        },
+        {
             "Date": "2022.02.18",
             "Time": "22:18:20",
             "Latitude": "40.6052",
@@ -4364,51 +4409,6 @@
             "Depth": "6.5",
             "ML": "1.7",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "06:53:35",
-            "Latitude": "38.0618",
-            "Longitude": "27.4838",
-            "Depth": "5.1",
-            "ML": "2.0",
-            "Location": "HASANCAVUSLAR TIRE IZMIR"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "06:45:54",
-            "Latitude": "37.6997",
-            "Longitude": "26.0282",
-            "Depth": "4.9",
-            "ML": "2.5",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "06:30:48",
-            "Latitude": "38.8882",
-            "Longitude": "43.5238",
-            "Depth": "7.0",
-            "ML": "1.8",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "06:19:33",
-            "Latitude": "38.3112",
-            "Longitude": "42.3853",
-            "Depth": "5.3",
-            "ML": "1.5",
-            "Location": "ALADANA HIZAN BITLIS"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "06:12:16",
-            "Latitude": "37.7002",
-            "Longitude": "25.9883",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
