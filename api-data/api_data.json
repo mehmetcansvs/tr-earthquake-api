@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.19",
+            "Time": "12:24:49",
+            "Latitude": "38.3980",
+            "Longitude": "38.6458",
+            "Depth": "4.8",
+            "ML": "1.8",
+            "Location": "KIYICAK KALE MALATYA"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "12:18:54",
+            "Latitude": "40.2055",
+            "Longitude": "42.0990",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "DONERTAS HORASAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "11:24:21",
+            "Latitude": "35.8255",
+            "Longitude": "32.0275",
+            "Depth": "30.6",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "11:24:19",
+            "Latitude": "35.8273",
+            "Longitude": "31.8727",
+            "Depth": "29.0",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "11:00:09",
             "Latitude": "36.0903",
             "Longitude": "36.2483",
@@ -4364,42 +4400,6 @@
             "Depth": "9.6",
             "ML": "1.7",
             "Location": "HASANCAVUSLAR TIRE IZMIR"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "23:30:11",
-            "Latitude": "37.3878",
-            "Longitude": "35.4745",
-            "Depth": "18.3",
-            "ML": "1.8",
-            "Location": "UCTEPE IMAMOGLU ADANA"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "22:43:27",
-            "Latitude": "35.2810",
-            "Longitude": "27.2300",
-            "Depth": "12.8",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "20:21:35",
-            "Latitude": "39.8753",
-            "Longitude": "40.0688",
-            "Depth": "4.4",
-            "ML": "3.2",
-            "Location": "BOZAGA CAYIRLI ERZINCAN"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "18:42:59",
-            "Latitude": "39.3597",
-            "Longitude": "26.0005",
-            "Depth": "9.4",
-            "ML": "2.6",
-            "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
         }
     ]
 }
