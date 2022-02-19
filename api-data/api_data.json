@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.19",
+            "Time": "07:21:05",
+            "Latitude": "38.4328",
+            "Longitude": "40.7225",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "SIGINAK LICE DIYARBAKIR"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "05:46:23",
             "Latitude": "38.4527",
             "Longitude": "39.2318",
@@ -4400,15 +4409,6 @@
             "Depth": "5.0",
             "ML": "2.8",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "10:22:24",
-            "Latitude": "38.9557",
-            "Longitude": "42.0085",
-            "Depth": "4.1",
-            "ML": "2.8",
-            "Location": "OGLAKKAYA BULANIK MUS"
         }
     ]
 }
