@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.02.20",
+            "Time": "00:00:18",
+            "Latitude": "40.2138",
+            "Longitude": "32.4148",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "ORENCIK KIZILCAHAMAM ANKARA"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "23:16:25",
+            "Latitude": "37.8842",
+            "Longitude": "27.3842",
+            "Depth": "5.3",
+            "ML": "2.6",
+            "Location": "CAMLIK SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "21:54:16",
+            "Latitude": "35.4300",
+            "Longitude": "27.2772",
+            "Depth": "8.7",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
             "Date": "2022.02.19",
             "Time": "21:31:41",
             "Latitude": "35.1815",
@@ -4373,33 +4400,6 @@
             "Depth": "5.4",
             "ML": "2.4",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "20:54:18",
-            "Latitude": "37.0768",
-            "Longitude": "28.4082",
-            "Depth": "3.8",
-            "ML": "2.3",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "20:43:59",
-            "Latitude": "38.9367",
-            "Longitude": "26.7277",
-            "Depth": "8.0",
-            "ML": "2.6",
-            "Location": "DENIZKOY DIKILI IZMIR"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "19:33:32",
-            "Latitude": "38.8942",
-            "Longitude": "43.4120",
-            "Depth": "7.7",
-            "ML": "2.3",
-            "Location": "VAN GOLU"
         }
     ]
 }
