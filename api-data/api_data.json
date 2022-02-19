@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.19",
+            "Time": "21:31:41",
+            "Latitude": "35.1815",
+            "Longitude": "27.1813",
+            "Depth": "5.0",
+            "ML": "3.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "20:19:00",
             "Latitude": "41.1067",
             "Longitude": "43.9517",
@@ -4391,15 +4400,6 @@
             "Depth": "7.7",
             "ML": "2.3",
             "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "17:06:26",
-            "Latitude": "37.9482",
-            "Longitude": "28.7535",
-            "Depth": "17.1",
-            "ML": "2.1",
-            "Location": "KABAAGAC SARAYKOY DENIZLI"
         }
     ]
 }
