@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.02.19",
+            "Time": "11:00:09",
+            "Latitude": "36.0903",
+            "Longitude": "36.2483",
+            "Depth": "7.4",
+            "ML": "1.6",
+            "Location": "AKAMBER ALTINOZU HATAY"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "10:40:35",
+            "Latitude": "39.2738",
+            "Longitude": "40.7825",
+            "Depth": "14.1",
+            "ML": "1.8",
+            "Location": "KARLICA KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "10:29:38",
+            "Latitude": "35.5998",
+            "Longitude": "26.2097",
+            "Depth": "5.6",
+            "ML": "3.6",
+            "Location": "AKDENIZ REVIZE BOZAN KULU KONYA"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "10:02:29",
+            "Latitude": "39.9233",
+            "Longitude": "29.0657",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "DAGGUNEY ORHANELI BURSA"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "09:33:16",
+            "Latitude": "38.4472",
+            "Longitude": "39.2303",
+            "Depth": "11.9",
+            "ML": "1.7",
+            "Location": "ALINCIK SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "09:20:36",
+            "Latitude": "39.6013",
+            "Longitude": "29.9767",
+            "Depth": "4.1",
+            "ML": "1.1",
+            "Location": "SIROREN KUTAHYA"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "07:21:05",
             "Latitude": "38.4328",
             "Longitude": "40.7225",
@@ -4346,69 +4400,6 @@
             "Depth": "9.4",
             "ML": "2.6",
             "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "16:00:39",
-            "Latitude": "38.4543",
-            "Longitude": "25.7173",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "15:57:12",
-            "Latitude": "38.4287",
-            "Longitude": "25.7818",
-            "Depth": "8.8",
-            "ML": "3.1",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "15:31:10",
-            "Latitude": "36.7385",
-            "Longitude": "30.5003",
-            "Depth": "7.0",
-            "ML": "2.0",
-            "Location": "HISARCANDIR KONYAALTI ANTALYA"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "15:07:52",
-            "Latitude": "40.4570",
-            "Longitude": "28.9952",
-            "Depth": "2.8",
-            "ML": "4.1",
-            "Location": "KAPAKLI ARMUTLU YALOVA"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "14:25:30",
-            "Latitude": "36.7108",
-            "Longitude": "30.5418",
-            "Depth": "16.1",
-            "ML": "1.4",
-            "Location": "GOYNUK KEMER ANTALYA"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "12:53:43",
-            "Latitude": "38.0730",
-            "Longitude": "27.4773",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "HASANCAVUSLAR TIRE IZMIR"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "12:06:16",
-            "Latitude": "34.2995",
-            "Longitude": "23.8898",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
