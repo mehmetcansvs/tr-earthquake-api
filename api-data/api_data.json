@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.19",
+            "Time": "17:40:56",
+            "Latitude": "40.7858",
+            "Longitude": "31.5088",
+            "Depth": "7.9",
+            "ML": "2.5",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "15:29:43",
             "Latitude": "40.6602",
             "Longitude": "29.1148",
@@ -4391,15 +4400,6 @@
             "Depth": "13.6",
             "ML": "2.4",
             "Location": "SATIROBASI DOGANSEHIR MALATYA"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "13:08:03",
-            "Latitude": "40.2478",
-            "Longitude": "30.8005",
-            "Depth": "7.1",
-            "ML": "1.8",
-            "Location": "HIMMETOGLU GOYNUK BOLU"
         }
     ]
 }
