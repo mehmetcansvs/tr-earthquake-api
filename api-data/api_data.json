@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.02.19",
+            "Time": "20:19:00",
+            "Latitude": "41.1067",
+            "Longitude": "43.9517",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "17:40:56",
             "Latitude": "40.7858",
             "Longitude": "31.5088",
             "Depth": "7.9",
             "ML": "2.5",
             "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "16:50:10",
+            "Latitude": "38.5812",
+            "Longitude": "43.1662",
+            "Depth": "17.5",
+            "ML": "1.6",
+            "Location": "VAN GOLU"
         },
         {
             "Date": "2022.02.19",
@@ -233,6 +251,15 @@
             "Depth": "5.2",
             "ML": "1.7",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "03:19:29",
+            "Latitude": "36.3955",
+            "Longitude": "26.6008",
+            "Depth": "124.4",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.02.19",
@@ -4373,33 +4400,6 @@
             "Depth": "17.1",
             "ML": "2.1",
             "Location": "KABAAGAC SARAYKOY DENIZLI"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "16:39:42",
-            "Latitude": "37.8838",
-            "Longitude": "25.3453",
-            "Depth": "5.5",
-            "ML": "2.6",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "14:01:37",
-            "Latitude": "38.0663",
-            "Longitude": "37.9605",
-            "Depth": "23.2",
-            "ML": "1.9",
-            "Location": "GUROBASI DOGANSEHIR MALATYA"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "13:56:56",
-            "Latitude": "38.1053",
-            "Longitude": "37.9315",
-            "Depth": "13.6",
-            "ML": "2.4",
-            "Location": "SATIROBASI DOGANSEHIR MALATYA"
         }
     ]
 }
