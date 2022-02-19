@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.19",
+            "Time": "13:57:50",
+            "Latitude": "39.0767",
+            "Longitude": "35.9697",
+            "Depth": "4.2",
+            "ML": "1.7",
+            "Location": "SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "13:56:33",
+            "Latitude": "39.0608",
+            "Longitude": "35.9342",
+            "Depth": "5.9",
+            "ML": "1.7",
+            "Location": "SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "13:44:52",
+            "Latitude": "34.3672",
+            "Longitude": "33.7492",
+            "Depth": "7.3",
+            "ML": "2.3",
+            "Location": "KIBRIS ACIKLARI GUNEY AKDENIZ"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "12:32:00",
+            "Latitude": "39.2573",
+            "Longitude": "27.6073",
+            "Depth": "7.6",
+            "ML": "1.7",
+            "Location": "BEYCE SOMA MANISA"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "12:24:49",
             "Latitude": "38.3980",
             "Longitude": "38.6458",
@@ -20,6 +56,24 @@
         },
         {
             "Date": "2022.02.19",
+            "Time": "12:18:13",
+            "Latitude": "39.8143",
+            "Longitude": "26.2430",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "MECIDIYE EZINE CANAKKALE"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "11:41:05",
+            "Latitude": "39.2900",
+            "Longitude": "34.7800",
+            "Depth": "6.3",
+            "ML": "1.8",
+            "Location": "KARAHASANLI KOZAKLI NEVSEHIR"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "11:24:21",
             "Latitude": "35.8255",
             "Longitude": "32.0275",
@@ -35,6 +89,15 @@
             "Depth": "29.0",
             "ML": "2.3",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "11:13:00",
+            "Latitude": "39.0048",
+            "Longitude": "28.6960",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "KERPICLIK DEMIRCI MANISA"
         },
         {
             "Date": "2022.02.19",
@@ -61,7 +124,16 @@
             "Longitude": "26.2097",
             "Depth": "5.6",
             "ML": "3.6",
-            "Location": "AKDENIZ REVIZE BOZAN KULU KONYA"
+            "Location": "AKDENIZ REVIZE KIZILKOLTUK SAPHANE KUTAHYA"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "10:11:01",
+            "Latitude": "39.0527",
+            "Longitude": "33.3460",
+            "Depth": "5.1",
+            "ML": "2.0",
+            "Location": "BOZAN KULU KONYA"
         },
         {
             "Date": "2022.02.19",
@@ -71,6 +143,15 @@
             "Depth": "0.0",
             "ML": "1.9",
             "Location": "DAGGUNEY ORHANELI BURSA"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "09:53:53",
+            "Latitude": "37.0715",
+            "Longitude": "28.4175",
+            "Depth": "7.6",
+            "ML": "1.9",
+            "Location": "YESILOVA ULA MUGLA"
         },
         {
             "Date": "2022.02.19",
@@ -4319,87 +4400,6 @@
             "Depth": "12.5",
             "ML": "1.5",
             "Location": "AGACSARAY KEMAH ERZINCAN"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "08:54:51",
-            "Latitude": "39.5653",
-            "Longitude": "28.8272",
-            "Depth": "5.8",
-            "ML": "2.4",
-            "Location": "AYVACIK DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "05:35:05",
-            "Latitude": "37.8418",
-            "Longitude": "29.7432",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "DARICILAR DAZKIRI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "04:57:19",
-            "Latitude": "36.0888",
-            "Longitude": "28.9235",
-            "Depth": "28.0",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "04:03:22",
-            "Latitude": "37.8630",
-            "Longitude": "26.8207",
-            "Depth": "13.6",
-            "ML": "1.8",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "03:40:15",
-            "Latitude": "39.6132",
-            "Longitude": "40.0298",
-            "Depth": "7.6",
-            "ML": "1.2",
-            "Location": "CAMLICA UZUMLU ERZINCAN"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "02:31:00",
-            "Latitude": "38.4580",
-            "Longitude": "25.7907",
-            "Depth": "3.1",
-            "ML": "1.5",
-            "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "02:29:42",
-            "Latitude": "39.3172",
-            "Longitude": "41.0633",
-            "Depth": "15.9",
-            "ML": "1.9",
-            "Location": "YONCALIK KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "01:27:48",
-            "Latitude": "39.1197",
-            "Longitude": "40.0778",
-            "Depth": "4.0",
-            "ML": "1.9",
-            "Location": "OZLUCE KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "23:34:30",
-            "Latitude": "38.0708",
-            "Longitude": "27.4868",
-            "Depth": "9.6",
-            "ML": "1.7",
-            "Location": "HASANCAVUSLAR TIRE IZMIR"
         }
     ]
 }
