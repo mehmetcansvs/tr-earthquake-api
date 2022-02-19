@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.19",
+            "Time": "15:29:43",
+            "Latitude": "40.6602",
+            "Longitude": "29.1148",
+            "Depth": "6.1",
+            "ML": "1.8",
+            "Location": "CINARCIK YALOVA"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "14:32:20",
+            "Latitude": "39.2517",
+            "Longitude": "36.8432",
+            "Depth": "19.1",
+            "ML": "1.4",
+            "Location": "MUTUBEY ALTINYAYLA SIVAS"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "14:03:52",
+            "Latitude": "41.1435",
+            "Longitude": "43.7778",
+            "Depth": "1.1",
+            "ML": "1.7",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "13:57:50",
             "Latitude": "39.0767",
             "Longitude": "35.9697",
@@ -4373,33 +4400,6 @@
             "Depth": "7.1",
             "ML": "1.8",
             "Location": "HIMMETOGLU GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "12:57:57",
-            "Latitude": "36.8212",
-            "Longitude": "29.1587",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "ARPACIK FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "12:45:38",
-            "Latitude": "39.5467",
-            "Longitude": "25.5187",
-            "Depth": "16.3",
-            "ML": "2.1",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.07",
-            "Time": "12:32:33",
-            "Latitude": "39.7500",
-            "Longitude": "38.9153",
-            "Depth": "12.5",
-            "ML": "1.5",
-            "Location": "AGACSARAY KEMAH ERZINCAN"
         }
     ]
 }
