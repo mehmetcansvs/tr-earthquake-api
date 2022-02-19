@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.19",
+            "Time": "02:37:25",
+            "Latitude": "40.6657",
+            "Longitude": "29.1762",
+            "Depth": "10.7",
+            "ML": "1.7",
+            "Location": "KORU CINARCIK YALOVA"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "02:15:04",
+            "Latitude": "37.7600",
+            "Longitude": "29.4198",
+            "Depth": "12.2",
+            "ML": "1.8",
+            "Location": "AKBAS HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "00:49:22",
             "Latitude": "37.0445",
             "Longitude": "28.3720",
@@ -4391,24 +4409,6 @@
             "Depth": "8.0",
             "ML": "1.8",
             "Location": "CATALAGZI AHLAT BITLIS"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "07:29:44",
-            "Latitude": "34.2250",
-            "Longitude": "25.9223",
-            "Depth": "21.0",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "07:06:44",
-            "Latitude": "36.8435",
-            "Longitude": "28.0357",
-            "Depth": "6.5",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
