@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.19",
+            "Time": "05:46:23",
+            "Latitude": "38.4527",
+            "Longitude": "39.2318",
+            "Depth": "9.6",
+            "ML": "2.2",
+            "Location": "ALINCIK SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "04:49:29",
             "Latitude": "37.8747",
             "Longitude": "26.9015",
@@ -4400,15 +4409,6 @@
             "Depth": "4.1",
             "ML": "2.8",
             "Location": "OGLAKKAYA BULANIK MUS"
-        },
-        {
-            "Date": "2022.02.06",
-            "Time": "09:45:48",
-            "Latitude": "40.1590",
-            "Longitude": "41.3132",
-            "Depth": "14.8",
-            "ML": "1.8",
-            "Location": "GUNGORMEZ YAKUTIYE ERZURUM"
         }
     ]
 }
