@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.20",
+            "Time": "18:09:57",
+            "Latitude": "37.1190",
+            "Longitude": "38.6653",
+            "Depth": "0.0",
+            "ML": "2.2",
+            "Location": "KOCOREN SANLIURFA"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "17:58:43",
+            "Latitude": "40.8005",
+            "Longitude": "31.5197",
+            "Depth": "7.2",
+            "ML": "1.9",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.02.20",
             "Time": "16:12:04",
             "Latitude": "35.9998",
             "Longitude": "29.0753",
@@ -56,6 +74,15 @@
         },
         {
             "Date": "2022.02.20",
+            "Time": "14:14:58",
+            "Latitude": "40.0130",
+            "Longitude": "27.0043",
+            "Depth": "4.4",
+            "ML": "1.6",
+            "Location": "DURALI CAN CANAKKALE"
+        },
+        {
+            "Date": "2022.02.20",
             "Time": "13:51:55",
             "Latitude": "39.9743",
             "Longitude": "42.5992",
@@ -74,12 +101,30 @@
         },
         {
             "Date": "2022.02.20",
+            "Time": "12:27:04",
+            "Latitude": "40.3210",
+            "Longitude": "26.7942",
+            "Depth": "3.7",
+            "ML": "1.3",
+            "Location": "SAHINLI LAPSEKI CANAKKALE"
+        },
+        {
+            "Date": "2022.02.20",
             "Time": "12:23:30",
             "Latitude": "38.8913",
             "Longitude": "26.3997",
             "Depth": "6.0",
             "ML": "2.0",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "11:29:18",
+            "Latitude": "39.7838",
+            "Longitude": "41.6142",
+            "Depth": "26.2",
+            "ML": "1.6",
+            "Location": "YUKARIHANBEYI TEKMAN ERZURUM"
         },
         {
             "Date": "2022.02.20",
@@ -4355,51 +4400,6 @@
             "Depth": "8.4",
             "ML": "1.9",
             "Location": "KAYALIDERE GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "22:57:03",
-            "Latitude": "37.0327",
-            "Longitude": "28.3947",
-            "Depth": "5.0",
-            "ML": "1.3",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "22:40:53",
-            "Latitude": "38.9860",
-            "Longitude": "42.0437",
-            "Depth": "10.1",
-            "ML": "2.1",
-            "Location": "GUNBATMAZ BULANIK MUS"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "22:24:04",
-            "Latitude": "40.2998",
-            "Longitude": "31.7330",
-            "Depth": "11.3",
-            "ML": "2.0",
-            "Location": "YILDIZ BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "20:27:51",
-            "Latitude": "35.6062",
-            "Longitude": "36.2375",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "SURIYE"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "20:26:12",
-            "Latitude": "38.3905",
-            "Longitude": "39.2097",
-            "Depth": "18.3",
-            "ML": "2.2",
-            "Location": "DORTBOLUK SIVRICE ELAZIG"
         }
     ]
 }
