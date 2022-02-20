@@ -119,6 +119,24 @@
         },
         {
             "Date": "2022.02.20",
+            "Time": "02:10:54",
+            "Latitude": "35.2602",
+            "Longitude": "25.2203",
+            "Depth": "12.8",
+            "ML": "1.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "01:23:10",
+            "Latitude": "35.1473",
+            "Longitude": "25.2062",
+            "Depth": "5.3",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.20",
             "Time": "00:40:46",
             "Latitude": "37.4082",
             "Longitude": "29.4365",
@@ -155,6 +173,24 @@
         },
         {
             "Date": "2022.02.19",
+            "Time": "21:53:13",
+            "Latitude": "39.2845",
+            "Longitude": "25.5910",
+            "Depth": "8.1",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "21:41:28",
+            "Latitude": "38.6253",
+            "Longitude": "43.1755",
+            "Depth": "19.2",
+            "ML": "1.4",
+            "Location": "ARISU VAN"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "21:31:41",
             "Latitude": "35.1815",
             "Longitude": "27.1813",
@@ -170,6 +206,15 @@
             "Depth": "5.0",
             "ML": "2.8",
             "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "18:04:54",
+            "Latitude": "38.3883",
+            "Longitude": "25.4962",
+            "Depth": "16.1",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
         },
         {
             "Date": "2022.02.19",
@@ -4355,51 +4400,6 @@
             "Depth": "4.0",
             "ML": "3.3",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "08:07:34",
-            "Latitude": "36.2967",
-            "Longitude": "27.8513",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "07:04:12",
-            "Latitude": "40.1600",
-            "Longitude": "24.3788",
-            "Depth": "8.3",
-            "ML": "3.3",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "06:41:03",
-            "Latitude": "39.9442",
-            "Longitude": "24.5540",
-            "Depth": "12.2",
-            "ML": "3.2",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "06:19:31",
-            "Latitude": "39.1772",
-            "Longitude": "40.2445",
-            "Depth": "8.3",
-            "ML": "1.8",
-            "Location": "KUSBAYIRI KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "05:36:05",
-            "Latitude": "38.6975",
-            "Longitude": "26.0725",
-            "Depth": "5.0",
-            "ML": "1.3",
-            "Location": "EGE DENIZI"
         }
     ]
 }
