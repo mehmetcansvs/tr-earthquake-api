@@ -2,12 +2,21 @@
     "data": [
         {
             "Date": "2022.02.20",
-            "Time": "09:01:57",
-            "Latitude": "36.3723",
-            "Longitude": "29.2325",
+            "Time": "10:32:54",
+            "Latitude": "38.4858",
+            "Longitude": "39.2887",
             "Depth": "5.0",
             "ML": "2.3",
-            "Location": "DODURGA FETHIYE MUGLA"
+            "Location": "BEKCITEPE SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "09:26:22",
+            "Latitude": "38.4617",
+            "Longitude": "39.3142",
+            "Depth": "11.6",
+            "ML": "3.0",
+            "Location": "SIVRICE ELAZIG REVIZE DODURGA FETHIYE MUGLA"
         },
         {
             "Date": "2022.02.20",
@@ -4382,24 +4391,6 @@
             "Depth": "5.0",
             "ML": "1.8",
             "Location": "OVACIK CESME IZMIR"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "13:30:21",
-            "Latitude": "37.1080",
-            "Longitude": "28.9975",
-            "Depth": "6.6",
-            "ML": "3.2",
-            "Location": "SANDALCIK ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "13:16:57",
-            "Latitude": "37.1157",
-            "Longitude": "28.9855",
-            "Depth": "8.7",
-            "ML": "3.3",
-            "Location": "OTMANLAR KOYCEGIZ MUGLA"
         }
     ]
 }
