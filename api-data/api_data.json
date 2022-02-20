@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.20",
+            "Time": "16:12:04",
+            "Latitude": "35.9998",
+            "Longitude": "29.0753",
+            "Depth": "15.3",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "16:07:01",
+            "Latitude": "37.8872",
+            "Longitude": "25.2762",
+            "Depth": "11.5",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "16:02:21",
+            "Latitude": "35.9913",
+            "Longitude": "29.0525",
+            "Depth": "11.7",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "15:58:06",
+            "Latitude": "35.9382",
+            "Longitude": "28.9968",
+            "Depth": "13.4",
+            "ML": "1.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.20",
             "Time": "15:02:46",
             "Latitude": "37.0567",
             "Longitude": "28.3913",
@@ -4364,33 +4400,6 @@
             "Depth": "18.3",
             "ML": "2.2",
             "Location": "DORTBOLUK SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "20:19:55",
-            "Latitude": "34.6055",
-            "Longitude": "25.1125",
-            "Depth": "2.0",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "19:25:15",
-            "Latitude": "37.0610",
-            "Longitude": "28.3688",
-            "Depth": "12.3",
-            "ML": "1.5",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "19:24:10",
-            "Latitude": "39.4015",
-            "Longitude": "40.3532",
-            "Depth": "1.5",
-            "ML": "2.0",
-            "Location": "GELINPERTEK YEDISU BINGOL REVIZE GUDUSLU KOCARLI AYDIN"
         }
     ]
 }
