@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.20",
+            "Time": "12:23:30",
+            "Latitude": "38.8913",
+            "Longitude": "26.3997",
+            "Depth": "6.0",
+            "ML": "2.0",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "10:34:07",
+            "Latitude": "36.1932",
+            "Longitude": "27.0403",
+            "Depth": "7.8",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.20",
             "Time": "10:32:54",
             "Latitude": "38.4858",
             "Longitude": "39.2887",
@@ -4373,24 +4391,6 @@
             "Depth": "4.7",
             "ML": "2.4",
             "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "13:51:03",
-            "Latitude": "35.0868",
-            "Longitude": "25.2058",
-            "Depth": "5.0",
-            "ML": "3.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "13:34:59",
-            "Latitude": "38.2703",
-            "Longitude": "26.2488",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "OVACIK CESME IZMIR"
         }
     ]
 }
