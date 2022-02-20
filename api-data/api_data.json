@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.20",
+            "Time": "15:02:46",
+            "Latitude": "37.0567",
+            "Longitude": "28.3913",
+            "Depth": "6.6",
+            "ML": "1.8",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "14:27:05",
+            "Latitude": "40.4578",
+            "Longitude": "29.1127",
+            "Depth": "9.3",
+            "ML": "1.5",
+            "Location": "BUYUKKUMLA GEMLIK BURSA"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "13:51:55",
+            "Latitude": "39.9743",
+            "Longitude": "42.5992",
+            "Depth": "18.7",
+            "ML": "1.9",
+            "Location": "ORTAKKALE SARIKAMIS KARS"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "13:22:34",
+            "Latitude": "39.1613",
+            "Longitude": "28.9600",
+            "Depth": "13.4",
+            "ML": "1.8",
+            "Location": "NASA SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.02.20",
             "Time": "12:23:30",
             "Latitude": "38.8913",
             "Longitude": "26.3997",
@@ -4355,42 +4391,6 @@
             "Depth": "1.5",
             "ML": "2.0",
             "Location": "GELINPERTEK YEDISU BINGOL REVIZE GUDUSLU KOCARLI AYDIN"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "18:38:04",
-            "Latitude": "36.9790",
-            "Longitude": "36.0887",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "YUKARIBURNAZ ERZIN HATAY"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "15:45:54",
-            "Latitude": "38.9980",
-            "Longitude": "29.8288",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "SARAYCIK ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "15:33:16",
-            "Latitude": "37.1187",
-            "Longitude": "28.4590",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "15:24:44",
-            "Latitude": "37.6357",
-            "Longitude": "26.7553",
-            "Depth": "4.7",
-            "ML": "2.4",
-            "Location": "SISAM ADASI EGE DENIZI"
         }
     ]
 }
