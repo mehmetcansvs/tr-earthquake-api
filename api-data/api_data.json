@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.20",
+            "Time": "09:01:57",
+            "Latitude": "36.3723",
+            "Longitude": "29.2325",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "DODURGA FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "08:50:00",
+            "Latitude": "38.6472",
+            "Longitude": "43.1540",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "MOLLAKASIM VAN"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "08:09:20",
+            "Latitude": "40.7930",
+            "Longitude": "32.9617",
+            "Depth": "1.1",
+            "ML": "2.0",
+            "Location": "KARAMUSTAFA CERKES CANKIRI"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "07:56:48",
+            "Latitude": "39.9915",
+            "Longitude": "24.3492",
+            "Depth": "13.4",
+            "ML": "2.4",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.02.20",
+            "Time": "07:22:02",
+            "Latitude": "35.2325",
+            "Longitude": "26.5068",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.20",
             "Time": "04:21:21",
             "Latitude": "36.9517",
             "Longitude": "28.2870",
@@ -4355,51 +4400,6 @@
             "Depth": "8.7",
             "ML": "3.3",
             "Location": "OTMANLAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "13:13:33",
-            "Latitude": "40.2123",
-            "Longitude": "30.7883",
-            "Depth": "2.8",
-            "ML": "1.5",
-            "Location": "HIMMETOGLU GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "13:07:27",
-            "Latitude": "40.2472",
-            "Longitude": "30.7967",
-            "Depth": "22.4",
-            "ML": "1.6",
-            "Location": "HIMMETOGLU GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "12:51:25",
-            "Latitude": "39.1007",
-            "Longitude": "27.5393",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "DEREKOY SOMA MANISA"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "12:21:46",
-            "Latitude": "38.3718",
-            "Longitude": "26.7122",
-            "Depth": "14.3",
-            "ML": "3.7",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.08",
-            "Time": "08:59:23",
-            "Latitude": "35.0193",
-            "Longitude": "26.5480",
-            "Depth": "4.0",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
