@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.02.21",
+            "Time": "04:59:13",
+            "Latitude": "40.7337",
+            "Longitude": "27.4030",
+            "Depth": "11.2",
+            "ML": "2.4",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "04:50:02",
+            "Latitude": "37.8453",
+            "Longitude": "27.0028",
+            "Depth": "16.7",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "04:47:35",
+            "Latitude": "37.5602",
+            "Longitude": "29.5533",
+            "Depth": "8.6",
+            "ML": "1.9",
+            "Location": "DUDEN YESILOVA BURDUR"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "04:35:38",
+            "Latitude": "39.1683",
+            "Longitude": "40.2430",
+            "Depth": "28.1",
+            "ML": "1.2",
+            "Location": "KUSBAYIRI KARAKOCAN ELAZIG"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "04:34:29",
+            "Latitude": "39.0952",
+            "Longitude": "40.0882",
+            "Depth": "8.7",
+            "ML": "1.9",
+            "Location": "ALABAL KARAKOCAN ELAZIG"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "04:23:45",
+            "Latitude": "37.6807",
+            "Longitude": "30.4877",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "YESILBASKOY AGLASUN BURDUR"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "04:14:58",
+            "Latitude": "40.7362",
+            "Longitude": "27.3932",
+            "Depth": "12.2",
+            "ML": "1.9",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "04:12:34",
+            "Latitude": "40.7282",
+            "Longitude": "27.3950",
+            "Depth": "13.6",
+            "ML": "1.6",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.21",
             "Time": "02:26:01",
             "Latitude": "37.8068",
             "Longitude": "26.8997",
@@ -4328,78 +4400,6 @@
             "Depth": "5.0",
             "ML": "2.0",
             "Location": "IBECIK GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "08:37:07",
-            "Latitude": "36.8323",
-            "Longitude": "27.6992",
-            "Depth": "6.4",
-            "ML": "2.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "06:02:08",
-            "Latitude": "39.3323",
-            "Longitude": "43.7780",
-            "Depth": "3.8",
-            "ML": "1.8",
-            "Location": "ATADAMI DIYADIN AGRI"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "05:58:20",
-            "Latitude": "39.3355",
-            "Longitude": "43.8472",
-            "Depth": "3.2",
-            "ML": "1.7",
-            "Location": "ATADAMI DIYADIN AGRI"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "05:37:31",
-            "Latitude": "40.8513",
-            "Longitude": "37.6010",
-            "Depth": "8.2",
-            "ML": "1.5",
-            "Location": "TUZLA GURGENTEPE ORDU"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "03:03:09",
-            "Latitude": "36.1688",
-            "Longitude": "27.5623",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "01:54:15",
-            "Latitude": "37.5310",
-            "Longitude": "29.7360",
-            "Depth": "22.0",
-            "ML": "1.4",
-            "Location": "KAYADIBI YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "01:35:33",
-            "Latitude": "41.0912",
-            "Longitude": "39.7258",
-            "Depth": "11.5",
-            "ML": "2.4",
-            "Location": "TRABZON TRABZON"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "01:17:48",
-            "Latitude": "37.0512",
-            "Longitude": "28.4757",
-            "Depth": "1.7",
-            "ML": "2.3",
-            "Location": "PORTAKALLIK ULA MUGLA"
         }
     ]
 }
