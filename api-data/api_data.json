@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.21",
+            "Time": "16:54:09",
+            "Latitude": "40.7583",
+            "Longitude": "27.3155",
+            "Depth": "18.6",
+            "ML": "2.3",
+            "Location": "GAZIKOY SARKOY TEKIRDAG"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "16:38:32",
+            "Latitude": "41.1107",
+            "Longitude": "43.9290",
+            "Depth": "9.3",
+            "ML": "2.5",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "15:41:34",
+            "Latitude": "40.7512",
+            "Longitude": "43.7148",
+            "Depth": "27.0",
+            "ML": "1.8",
+            "Location": "ESENYAYLA AKYAKA KARS"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "15:17:21",
+            "Latitude": "41.1612",
+            "Longitude": "43.8858",
+            "Depth": "8.2",
+            "ML": "2.7",
+            "Location": "GURCISTAN REVIZE YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.21",
             "Time": "14:33:20",
             "Latitude": "37.6703",
             "Longitude": "25.9907",
@@ -4355,51 +4391,6 @@
             "Depth": "5.0",
             "ML": "3.0",
             "Location": "OGULVEREN BASKALE VAN"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "20:23:28",
-            "Latitude": "39.8932",
-            "Longitude": "40.0348",
-            "Depth": "4.6",
-            "ML": "2.8",
-            "Location": "BOLUKOVA CAYIRLI ERZINCAN"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "19:47:04",
-            "Latitude": "39.6810",
-            "Longitude": "26.4427",
-            "Depth": "9.0",
-            "ML": "1.9",
-            "Location": "MISVAK AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "19:41:48",
-            "Latitude": "37.0458",
-            "Longitude": "28.3935",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "19:19:46",
-            "Latitude": "40.7537",
-            "Longitude": "27.4585",
-            "Depth": "15.1",
-            "ML": "1.5",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "17:43:09",
-            "Latitude": "38.6605",
-            "Longitude": "41.3747",
-            "Depth": "21.8",
-            "ML": "1.8",
-            "Location": "UCEVLER MUS"
         }
     ]
 }
