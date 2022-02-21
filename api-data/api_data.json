@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.21",
+            "Time": "14:33:20",
+            "Latitude": "37.6703",
+            "Longitude": "25.9907",
+            "Depth": "8.8",
+            "ML": "2.5",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "14:10:56",
+            "Latitude": "36.1485",
+            "Longitude": "33.5173",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "13:08:16",
+            "Latitude": "39.7873",
+            "Longitude": "41.9487",
+            "Depth": "9.6",
+            "ML": "1.6",
+            "Location": "TOPCU KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "12:57:59",
+            "Latitude": "36.2533",
+            "Longitude": "33.7108",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "ISIKLI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.02.21",
             "Time": "12:07:42",
             "Latitude": "37.0193",
             "Longitude": "28.4258",
@@ -4364,42 +4400,6 @@
             "Depth": "21.8",
             "ML": "1.8",
             "Location": "UCEVLER MUS"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "16:50:20",
-            "Latitude": "36.9850",
-            "Longitude": "27.9118",
-            "Depth": "5.1",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "16:46:39",
-            "Latitude": "36.8970",
-            "Longitude": "27.8395",
-            "Depth": "2.7",
-            "ML": "2.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "16:43:57",
-            "Latitude": "36.3570",
-            "Longitude": "33.4787",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "KAYRAK GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "16:17:31",
-            "Latitude": "36.1875",
-            "Longitude": "33.5282",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "KOCASLI GULNAR MERSIN"
         }
     ]
 }
