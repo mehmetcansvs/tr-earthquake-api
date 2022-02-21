@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.21",
+            "Time": "12:07:42",
+            "Latitude": "37.0193",
+            "Longitude": "28.4258",
+            "Depth": "25.7",
+            "ML": "0.9",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "11:53:10",
+            "Latitude": "39.8308",
+            "Longitude": "26.2918",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "CAMKOY EZINE CANAKKALE"
+        },
+        {
+            "Date": "2022.02.21",
             "Time": "11:07:25",
             "Latitude": "36.6087",
             "Longitude": "36.2997",
@@ -4382,24 +4400,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "KOCASLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "15:29:49",
-            "Latitude": "39.0585",
-            "Longitude": "29.0932",
-            "Depth": "6.4",
-            "ML": "1.8",
-            "Location": "TASLIK SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "14:24:43",
-            "Latitude": "38.7593",
-            "Longitude": "40.5635",
-            "Depth": "5.3",
-            "ML": "1.9",
-            "Location": "GENC BINGOL"
         }
     ]
 }
