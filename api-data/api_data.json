@@ -2,12 +2,66 @@
     "data": [
         {
             "Date": "2022.02.21",
+            "Time": "20:44:36",
+            "Latitude": "37.8422",
+            "Longitude": "26.9517",
+            "Depth": "10.6",
+            "ML": "2.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "20:37:37",
+            "Latitude": "41.1047",
+            "Longitude": "43.8458",
+            "Depth": "7.7",
+            "ML": "1.7",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "20:36:08",
+            "Latitude": "37.9978",
+            "Longitude": "28.8488",
+            "Depth": "8.2",
+            "ML": "1.6",
+            "Location": "BOSTANYERI BULDAN DENIZLI"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "19:18:54",
+            "Latitude": "37.0963",
+            "Longitude": "36.8395",
+            "Depth": "8.0",
+            "ML": "2.0",
+            "Location": "DURMUSLAR NURDAGI GAZIANTEP"
+        },
+        {
+            "Date": "2022.02.21",
             "Time": "18:58:23",
             "Latitude": "37.4205",
             "Longitude": "38.6337",
             "Depth": "14.0",
             "ML": "1.6",
             "Location": "BUGDAYHUYUK SANLIURFA"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "17:55:56",
+            "Latitude": "37.9415",
+            "Longitude": "27.0093",
+            "Depth": "8.0",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "17:40:26",
+            "Latitude": "36.0207",
+            "Longitude": "27.4942",
+            "Depth": "9.1",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.02.21",
@@ -4345,52 +4399,7 @@
             "Longitude": "27.4813",
             "Depth": "15.8",
             "ML": "1.7",
-            "Location": "HASANCAVUSLAR TIRE IZMIR REVIZE MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "05:36:54",
-            "Latitude": "38.2432",
-            "Longitude": "37.9877",
-            "Depth": "17.3",
-            "ML": "2.4",
-            "Location": "DEDEKOY AKCADAG MALATYA"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "04:01:55",
-            "Latitude": "40.5668",
-            "Longitude": "27.2735",
-            "Depth": "15.2",
-            "ML": "2.2",
-            "Location": "KARABIGA ACIKLARI CANAKKALE MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "01:54:09",
-            "Latitude": "38.0403",
-            "Longitude": "42.7235",
-            "Depth": "11.5",
-            "ML": "2.2",
-            "Location": "ALTINTAS BAHCESARAY VAN"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "00:11:58",
-            "Latitude": "40.7553",
-            "Longitude": "29.1763",
-            "Depth": "7.9",
-            "ML": "1.7",
-            "Location": "YALOVA ACIKLARI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "23:10:29",
-            "Latitude": "36.4888",
-            "Longitude": "28.7445",
-            "Depth": "5.9",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
+            "Location": "HASANCAVUSLAR TIRE IZMIR REVIZE"
         }
     ]
 }
