@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.21",
+            "Time": "18:58:23",
+            "Latitude": "37.4205",
+            "Longitude": "38.6337",
+            "Depth": "14.0",
+            "ML": "1.6",
+            "Location": "BUGDAYHUYUK SANLIURFA"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "17:12:27",
+            "Latitude": "37.8793",
+            "Longitude": "25.2798",
+            "Depth": "5.2",
+            "ML": "3.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.21",
             "Time": "16:54:09",
             "Latitude": "40.7583",
             "Longitude": "27.3155",
@@ -4373,24 +4391,6 @@
             "Depth": "5.9",
             "ML": "2.3",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "22:56:05",
-            "Latitude": "40.2785",
-            "Longitude": "26.1607",
-            "Depth": "13.8",
-            "ML": "2.0",
-            "Location": "KEMALYERI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "20:26:35",
-            "Latitude": "37.7797",
-            "Longitude": "44.2385",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "OGULVEREN BASKALE VAN"
         }
     ]
 }
