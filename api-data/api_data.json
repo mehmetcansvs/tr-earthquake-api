@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.21",
+            "Time": "06:54:02",
+            "Latitude": "40.7030",
+            "Longitude": "31.5163",
+            "Depth": "9.0",
+            "ML": "2.8",
+            "Location": "GOLKOY BOLU"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "06:30:09",
+            "Latitude": "37.2195",
+            "Longitude": "36.0967",
+            "Depth": "3.8",
+            "ML": "2.0",
+            "Location": "ORHANIYE OSMANIYE"
+        },
+        {
+            "Date": "2022.02.21",
             "Time": "04:59:13",
             "Latitude": "40.7337",
             "Longitude": "27.4030",
@@ -4382,24 +4400,6 @@
             "Depth": "20.5",
             "ML": "1.7",
             "Location": "KUNDULLU TUZLUKCU KONYA"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "10:25:40",
-            "Latitude": "38.9270",
-            "Longitude": "42.3373",
-            "Depth": "29.1",
-            "ML": "1.7",
-            "Location": "KIRIKKAYA AHLAT BITLIS"
-        },
-        {
-            "Date": "2022.02.10",
-            "Time": "09:10:30",
-            "Latitude": "36.9828",
-            "Longitude": "29.3962",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "IBECIK GOLHISAR BURDUR"
         }
     ]
 }
