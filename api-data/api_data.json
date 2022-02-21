@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.02.22",
+            "Time": "00:29:09",
+            "Latitude": "37.8430",
+            "Longitude": "27.0920",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
             "Date": "2022.02.21",
             "Time": "22:05:29",
             "Latitude": "38.9655",
@@ -71,6 +80,15 @@
             "Depth": "14.0",
             "ML": "1.6",
             "Location": "BUGDAYHUYUK SANLIURFA"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "18:53:58",
+            "Latitude": "37.8468",
+            "Longitude": "25.4097",
+            "Depth": "2.6",
+            "ML": "2.5",
+            "Location": "EGE DENIZI"
         },
         {
             "Date": "2022.02.21",
@@ -4391,24 +4409,6 @@
             "Depth": "5.3",
             "ML": "3.2",
             "Location": "KUCUKKOY AYVALIK BALIKESIR"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "09:22:28",
-            "Latitude": "39.1217",
-            "Longitude": "27.5572",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "DEREKOY SOMA MANISA"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "09:07:46",
-            "Latitude": "39.1227",
-            "Longitude": "40.7867",
-            "Depth": "4.1",
-            "ML": "1.5",
-            "Location": "KIZILAGAC KARLIOVA BINGOL"
         }
     ]
 }
