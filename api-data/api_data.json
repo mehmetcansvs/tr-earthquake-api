@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.21",
+            "Time": "22:05:29",
+            "Latitude": "38.9655",
+            "Longitude": "40.8525",
+            "Depth": "18.5",
+            "ML": "1.8",
+            "Location": "HAZARSAH SOLHAN BINGOL"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "21:57:22",
+            "Latitude": "36.8745",
+            "Longitude": "28.2208",
+            "Depth": "59.4",
+            "ML": "2.8",
+            "Location": "YESILBELDE MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.02.21",
+            "Time": "21:22:30",
+            "Latitude": "41.7235",
+            "Longitude": "41.8240",
+            "Depth": "4.4",
+            "ML": "3.3",
+            "Location": "TURKIYE GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.02.21",
             "Time": "20:44:36",
             "Latitude": "37.8422",
             "Longitude": "26.9517",
@@ -4382,24 +4409,6 @@
             "Depth": "4.1",
             "ML": "1.5",
             "Location": "KIZILAGAC KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "09:07:09",
-            "Latitude": "37.1162",
-            "Longitude": "28.7215",
-            "Depth": "4.7",
-            "ML": "1.9",
-            "Location": "TURGUT ULA MUGLA REVIZE AYVACIK DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "07:08:54",
-            "Latitude": "38.0517",
-            "Longitude": "27.4813",
-            "Depth": "15.8",
-            "ML": "1.7",
-            "Location": "HASANCAVUSLAR TIRE IZMIR REVIZE"
         }
     ]
 }
