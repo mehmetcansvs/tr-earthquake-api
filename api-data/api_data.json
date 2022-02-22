@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.02.22",
-            "Time": "05:21:14",
-            "Latitude": "38.5717",
-            "Longitude": "31.3203",
-            "Depth": "11.7",
+            "Time": "07:02:14",
+            "Latitude": "37.3383",
+            "Longitude": "28.0072",
+            "Depth": "17.0",
             "ML": "2.3",
-            "Location": "TASKOPRU SULTANDAGI AFYONKARAHISAR"
+            "Location": "YESILBAGCILAR YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.02.22",
+            "Time": "05:47:52",
+            "Latitude": "40.7230",
+            "Longitude": "27.4120",
+            "Depth": "11.7",
+            "ML": "1.8",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.22",
+            "Time": "05:31:26",
+            "Latitude": "41.1525",
+            "Longitude": "34.4027",
+            "Depth": "8.2",
+            "ML": "3.4",
+            "Location": "DEREKOY KARGI CORUM REVIZE TASKOPRU SULTANDAGI AFYONKARAHISAR"
         },
         {
             "Date": "2022.02.22",
@@ -4391,24 +4409,6 @@
             "Depth": "5.0",
             "ML": "1.6",
             "Location": "GOKBELEN HANONU KASTAMONU"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "12:32:15",
-            "Latitude": "38.5188",
-            "Longitude": "44.2833",
-            "Depth": "7.3",
-            "ML": "2.5",
-            "Location": "KAPIKOY SARAY VAN REVIZE HISARKOY SARAYKOY DENIZLI"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "12:16:01",
-            "Latitude": "38.8747",
-            "Longitude": "25.9793",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
         }
     ]
 }
