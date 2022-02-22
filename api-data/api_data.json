@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.22",
+            "Time": "05:21:14",
+            "Latitude": "38.5717",
+            "Longitude": "31.3203",
+            "Depth": "11.7",
+            "ML": "2.3",
+            "Location": "TASKOPRU SULTANDAGI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.02.22",
             "Time": "03:13:24",
             "Latitude": "40.5872",
             "Longitude": "28.9047",
@@ -4400,15 +4409,6 @@
             "Depth": "5.4",
             "ML": "2.0",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "11:41:14",
-            "Latitude": "37.4000",
-            "Longitude": "37.1205",
-            "Depth": "11.2",
-            "ML": "1.3",
-            "Location": "NARLI PAZARCIK KAHRAMANMARAS"
         }
     ]
 }
