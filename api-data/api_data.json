@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.22",
+            "Time": "10:24:28",
+            "Latitude": "37.9115",
+            "Longitude": "26.9050",
+            "Depth": "7.5",
+            "ML": "2.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.22",
+            "Time": "09:46:39",
+            "Latitude": "39.1550",
+            "Longitude": "27.5917",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "DARKALE SOMA MANISA"
+        },
+        {
+            "Date": "2022.02.22",
+            "Time": "09:16:33",
+            "Latitude": "39.3105",
+            "Longitude": "40.9708",
+            "Depth": "4.4",
+            "ML": "1.3",
+            "Location": "TASLICAY KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.02.22",
             "Time": "07:13:54",
             "Latitude": "39.5813",
             "Longitude": "28.8133",
@@ -4382,33 +4409,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "CUKUROREN BOLU"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "13:59:29",
-            "Latitude": "40.6737",
-            "Longitude": "30.7773",
-            "Depth": "7.1",
-            "ML": "1.3",
-            "Location": "YENIYAYLA HENDEK SAKARYA"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "13:42:37",
-            "Latitude": "39.8278",
-            "Longitude": "27.9057",
-            "Depth": "5.4",
-            "ML": "0.6",
-            "Location": "HALKAPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "13:39:59",
-            "Latitude": "40.5553",
-            "Longitude": "27.2472",
-            "Depth": "10.8",
-            "ML": "2.7",
-            "Location": "KARABIGA ACIKLARI CANAKKALE MARMARA DENIZI"
         }
     ]
 }
