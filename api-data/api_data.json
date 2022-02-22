@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.22",
+            "Time": "07:13:54",
+            "Latitude": "39.5813",
+            "Longitude": "28.8133",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "AYVACIK DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.02.22",
             "Time": "07:02:14",
             "Latitude": "37.3383",
             "Longitude": "28.0072",
@@ -4400,15 +4409,6 @@
             "Depth": "10.8",
             "ML": "2.7",
             "Location": "KARABIGA ACIKLARI CANAKKALE MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.11",
-            "Time": "12:58:59",
-            "Latitude": "41.5645",
-            "Longitude": "34.5223",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "GOKBELEN HANONU KASTAMONU"
         }
     ]
 }
