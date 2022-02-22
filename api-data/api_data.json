@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.02.22",
+            "Time": "18:18:57",
+            "Latitude": "37.7853",
+            "Longitude": "37.7948",
+            "Depth": "22.8",
+            "ML": "2.4",
+            "Location": "AKCABEL GOLBASI ADIYAMAN"
+        },
+        {
+            "Date": "2022.02.22",
+            "Time": "18:05:33",
+            "Latitude": "40.2538",
+            "Longitude": "31.9668",
+            "Depth": "4.9",
+            "ML": "1.4",
+            "Location": "KARACAOREN BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.02.22",
+            "Time": "17:34:23",
+            "Latitude": "41.1207",
+            "Longitude": "34.4530",
+            "Depth": "16.9",
+            "ML": "2.0",
+            "Location": "AKKESE KARGI CORUM"
+        },
+        {
+            "Date": "2022.02.22",
+            "Time": "17:33:54",
+            "Latitude": "38.7015",
+            "Longitude": "43.1632",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "MOLLAKASIM VAN"
+        },
+        {
+            "Date": "2022.02.22",
+            "Time": "17:33:09",
+            "Latitude": "36.3847",
+            "Longitude": "30.4095",
+            "Depth": "83.8",
+            "ML": "2.4",
+            "Location": "KUMLUCAYAZARI KUMLUCA ANTALYA"
+        },
+        {
+            "Date": "2022.02.22",
+            "Time": "17:08:01",
+            "Latitude": "40.0793",
+            "Longitude": "36.0863",
+            "Depth": "5.2",
+            "ML": "1.5",
+            "Location": "DEVECIKARGIN ARTOVA TOKAT"
+        },
+        {
+            "Date": "2022.02.22",
             "Time": "16:22:01",
             "Latitude": "41.0595",
             "Longitude": "39.6312",
@@ -4364,51 +4418,6 @@
             "Depth": "0.0",
             "ML": "1.0",
             "Location": "SAHINYURDU GEMLIK BURSA"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "09:07:07",
-            "Latitude": "38.3373",
-            "Longitude": "25.2390",
-            "Depth": "7.7",
-            "ML": "2.6",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "05:42:47",
-            "Latitude": "39.2478",
-            "Longitude": "27.7982",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "BADEMLI KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "03:57:24",
-            "Latitude": "40.4770",
-            "Longitude": "28.9433",
-            "Depth": "13.6",
-            "ML": "1.6",
-            "Location": "KAPAKLI ARMUTLU YALOVA"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "03:41:09",
-            "Latitude": "37.0140",
-            "Longitude": "27.6252",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "03:02:24",
-            "Latitude": "36.9713",
-            "Longitude": "27.6620",
-            "Depth": "2.5",
-            "ML": "3.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ REVIZE UZUNTEPE SAMSAT ADIYAMAN"
         }
     ]
 }
