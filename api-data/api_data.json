@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.23",
+            "Time": "20:11:35",
+            "Latitude": "37.0948",
+            "Longitude": "34.4497",
+            "Depth": "5.4",
+            "ML": "1.6",
+            "Location": "ATLILAR TOROSLAR MERSIN"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "19:35:51",
+            "Latitude": "37.7132",
+            "Longitude": "27.1905",
+            "Depth": "6.9",
+            "ML": "1.5",
+            "Location": "GUZELCAMLI KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "19:21:48",
+            "Latitude": "39.1970",
+            "Longitude": "29.3603",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "SEYHLER HISARCIK KUTAHYA"
+        },
+        {
+            "Date": "2022.02.23",
             "Time": "17:45:07",
             "Latitude": "41.1603",
             "Longitude": "43.9428",
@@ -4391,33 +4418,6 @@
             "Depth": "2.1",
             "ML": "2.1",
             "Location": "KUMLUCA VAN"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "15:09:38",
-            "Latitude": "38.8692",
-            "Longitude": "43.5123",
-            "Depth": "1.6",
-            "ML": "2.8",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "14:24:44",
-            "Latitude": "37.1283",
-            "Longitude": "28.5622",
-            "Depth": "10.5",
-            "ML": "1.7",
-            "Location": "GOLCUK ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "13:20:32",
-            "Latitude": "39.5467",
-            "Longitude": "33.2552",
-            "Depth": "4.4",
-            "ML": "1.7",
-            "Location": "UCEM BALA ANKARA"
         }
     ]
 }
