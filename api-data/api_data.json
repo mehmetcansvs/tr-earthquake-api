@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.23",
+            "Time": "04:28:12",
+            "Latitude": "39.1100",
+            "Longitude": "29.0478",
+            "Depth": "15.3",
+            "ML": "1.3",
+            "Location": "GOKCELER SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "04:09:45",
+            "Latitude": "39.1497",
+            "Longitude": "29.0507",
+            "Depth": "9.2",
+            "ML": "2.0",
+            "Location": "AHLATLICESME SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "04:07:12",
+            "Latitude": "39.3870",
+            "Longitude": "25.9585",
+            "Depth": "10.4",
+            "ML": "1.8",
+            "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.23",
             "Time": "03:06:48",
             "Latitude": "39.0090",
             "Longitude": "29.8635",
@@ -4391,33 +4418,6 @@
             "Depth": "5.0",
             "ML": "1.3",
             "Location": "ALATEPE BINGOL"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "21:29:49",
-            "Latitude": "36.9133",
-            "Longitude": "29.3643",
-            "Depth": "7.6",
-            "ML": "1.7",
-            "Location": "ELMALIYURT GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "21:23:57",
-            "Latitude": "36.9340",
-            "Longitude": "29.3828",
-            "Depth": "6.7",
-            "ML": "1.5",
-            "Location": "ELMALIYURT GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "21:03:29",
-            "Latitude": "35.1428",
-            "Longitude": "25.1848",
-            "Depth": "4.5",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
