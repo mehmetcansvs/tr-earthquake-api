@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.23",
+            "Time": "08:46:26",
+            "Latitude": "38.5067",
+            "Longitude": "40.6183",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "HEDIK LICE DIYARBAKIR"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "08:40:19",
+            "Latitude": "36.9973",
+            "Longitude": "28.2622",
+            "Depth": "5.0",
+            "ML": "0.9",
+            "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "07:56:20",
+            "Latitude": "39.3640",
+            "Longitude": "26.0198",
+            "Depth": "8.8",
+            "ML": "2.3",
+            "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "07:38:27",
+            "Latitude": "36.8140",
+            "Longitude": "31.1892",
+            "Depth": "70.6",
+            "ML": "2.5",
+            "Location": "DENIZKENT MANAVGAT ANTALYA"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "07:23:12",
+            "Latitude": "39.5483",
+            "Longitude": "26.1147",
+            "Depth": "12.5",
+            "ML": "2.1",
+            "Location": "GULPINAR AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.02.23",
             "Time": "06:44:12",
             "Latitude": "36.6573",
             "Longitude": "28.0945",
@@ -1505,12 +1550,39 @@
         },
         {
             "Date": "2022.02.19",
+            "Time": "15:40:22",
+            "Latitude": "38.9192",
+            "Longitude": "25.9463",
+            "Depth": "19.8",
+            "ML": "1.8",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "15:29:43",
             "Latitude": "40.6602",
             "Longitude": "29.1148",
             "Depth": "6.1",
             "ML": "1.8",
             "Location": "CINARCIK YALOVA"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "15:18:15",
+            "Latitude": "38.6593",
+            "Longitude": "37.5962",
+            "Depth": "23.5",
+            "ML": "1.6",
+            "Location": "KARABACAK DARENDE MALATYA"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "14:44:18",
+            "Latitude": "40.0450",
+            "Longitude": "26.9495",
+            "Depth": "5.0",
+            "ML": "1.2",
+            "Location": "KARLI CAN CANAKKALE"
         },
         {
             "Date": "2022.02.19",
@@ -4346,78 +4418,6 @@
             "Depth": "9.4",
             "ML": "1.2",
             "Location": "TURUNC MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "23:17:16",
-            "Latitude": "39.1375",
-            "Longitude": "40.1285",
-            "Depth": "9.8",
-            "ML": "1.8",
-            "Location": "KORUDIBI KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "23:07:47",
-            "Latitude": "34.5717",
-            "Longitude": "26.6998",
-            "Depth": "6.5",
-            "ML": "3.5",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "23:03:07",
-            "Latitude": "36.2753",
-            "Longitude": "35.8515",
-            "Depth": "11.0",
-            "ML": "1.5",
-            "Location": "KALE ARSUZ HATAY"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "23:01:06",
-            "Latitude": "36.3248",
-            "Longitude": "35.8713",
-            "Depth": "13.5",
-            "ML": "1.6",
-            "Location": "TULEK ARSUZ HATAY"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "22:29:06",
-            "Latitude": "36.6697",
-            "Longitude": "25.5132",
-            "Depth": "18.3",
-            "ML": "2.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "22:08:16",
-            "Latitude": "35.2773",
-            "Longitude": "23.3045",
-            "Depth": "22.4",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "22:02:41",
-            "Latitude": "37.9153",
-            "Longitude": "28.4943",
-            "Depth": "5.7",
-            "ML": "1.4",
-            "Location": "COBANISA KUYUCAK AYDIN"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "21:57:11",
-            "Latitude": "40.7572",
-            "Longitude": "30.9858",
-            "Depth": "10.6",
-            "ML": "1.5",
-            "Location": "TASLIK GOLYAKA DUZCE"
         }
     ]
 }
