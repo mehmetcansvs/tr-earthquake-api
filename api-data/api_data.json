@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.23",
+            "Time": "09:37:52",
+            "Latitude": "39.1812",
+            "Longitude": "27.5455",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "KOZANLI SOMA MANISA"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "09:33:26",
+            "Latitude": "38.0733",
+            "Longitude": "38.0570",
+            "Depth": "8.2",
+            "ML": "1.6",
+            "Location": "ESKIKOY DOGANSEHIR MALATYA"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "09:12:30",
+            "Latitude": "36.5050",
+            "Longitude": "27.0692",
+            "Depth": "5.3",
+            "ML": "1.9",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.02.23",
             "Time": "08:46:26",
             "Latitude": "38.5067",
             "Longitude": "40.6183",
@@ -1523,6 +1550,15 @@
         },
         {
             "Date": "2022.02.19",
+            "Time": "18:28:22",
+            "Latitude": "41.1500",
+            "Longitude": "43.9637",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.02.19",
             "Time": "18:04:54",
             "Latitude": "38.3883",
             "Longitude": "25.4962",
@@ -1583,6 +1619,15 @@
             "Depth": "5.0",
             "ML": "1.2",
             "Location": "KARLI CAN CANAKKALE"
+        },
+        {
+            "Date": "2022.02.19",
+            "Time": "14:38:35",
+            "Latitude": "39.0112",
+            "Longitude": "41.6823",
+            "Depth": "11.3",
+            "ML": "1.3",
+            "Location": "MESCITLI MUS"
         },
         {
             "Date": "2022.02.19",
@@ -4373,51 +4418,6 @@
             "Depth": "17.6",
             "ML": "2.6",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "00:57:51",
-            "Latitude": "37.1038",
-            "Longitude": "28.6050",
-            "Depth": "10.8",
-            "ML": "1.5",
-            "Location": "ARICILAR ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "00:25:03",
-            "Latitude": "38.8527",
-            "Longitude": "42.4860",
-            "Depth": "4.3",
-            "ML": "1.5",
-            "Location": "YUVADAMI AHLAT BITLIS"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "23:53:05",
-            "Latitude": "37.2810",
-            "Longitude": "30.5995",
-            "Depth": "15.5",
-            "ML": "1.1",
-            "Location": "KARAOT BUCAK BURDUR"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "23:50:08",
-            "Latitude": "36.7818",
-            "Longitude": "28.2825",
-            "Depth": "5.3",
-            "ML": "1.0",
-            "Location": "TURUNC MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "23:48:26",
-            "Latitude": "36.7602",
-            "Longitude": "28.2495",
-            "Depth": "9.4",
-            "ML": "1.2",
-            "Location": "TURUNC MARMARIS MUGLA"
         }
     ]
 }
