@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.23",
+            "Time": "15:33:17",
+            "Latitude": "37.7873",
+            "Longitude": "32.2007",
+            "Depth": "8.2",
+            "ML": "1.7",
+            "Location": "ERENKAYA MERAM KONYA"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "14:52:31",
+            "Latitude": "38.8695",
+            "Longitude": "37.4222",
+            "Depth": "7.6",
+            "ML": "1.8",
+            "Location": "DAYAKPINAR GURUN SIVAS"
+        },
+        {
+            "Date": "2022.02.23",
             "Time": "14:20:26",
             "Latitude": "36.1990",
             "Longitude": "33.5783",
@@ -17,6 +35,15 @@
             "Depth": "6.6",
             "ML": "2.1",
             "Location": "ARSLANYAZI YAYLADAGI HATAY"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "13:23:16",
+            "Latitude": "37.8947",
+            "Longitude": "29.2112",
+            "Depth": "10.4",
+            "ML": "1.2",
+            "Location": "IRLIGANLI DENIZLI"
         },
         {
             "Date": "2022.02.23",
@@ -4391,33 +4418,6 @@
             "Depth": "6.6",
             "ML": "1.6",
             "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "10:34:00",
-            "Latitude": "37.9402",
-            "Longitude": "27.1112",
-            "Depth": "2.0",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "08:56:42",
-            "Latitude": "36.9453",
-            "Longitude": "27.6340",
-            "Depth": "2.9",
-            "ML": "2.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "08:18:25",
-            "Latitude": "38.7350",
-            "Longitude": "43.4073",
-            "Depth": "9.4",
-            "ML": "1.5",
-            "Location": "OCAKLI VAN"
         }
     ]
 }
