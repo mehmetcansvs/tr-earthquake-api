@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.23",
+            "Time": "22:48:01",
+            "Latitude": "36.2572",
+            "Longitude": "27.6797",
+            "Depth": "8.4",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "22:22:24",
+            "Latitude": "38.6065",
+            "Longitude": "31.1677",
+            "Depth": "7.8",
+            "ML": "3.2",
+            "Location": "EBER CAY AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "21:26:18",
+            "Latitude": "39.8618",
+            "Longitude": "26.7535",
+            "Depth": "5.3",
+            "ML": "1.8",
+            "Location": "YAYLACIK BAYRAMIC CANAKKALE"
+        },
+        {
+            "Date": "2022.02.23",
             "Time": "20:11:35",
             "Latitude": "37.0948",
             "Longitude": "34.4497",
@@ -4391,33 +4418,6 @@
             "Depth": "20.5",
             "ML": "1.7",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "17:48:40",
-            "Latitude": "37.8687",
-            "Longitude": "26.8980",
-            "Depth": "6.5",
-            "ML": "2.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "15:28:00",
-            "Latitude": "36.4117",
-            "Longitude": "28.9782",
-            "Depth": "20.2",
-            "ML": "3.2",
-            "Location": "OLUDENIZ ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "15:25:23",
-            "Latitude": "38.8605",
-            "Longitude": "43.3690",
-            "Depth": "2.1",
-            "ML": "2.1",
-            "Location": "KUMLUCA VAN"
         }
     ]
 }
