@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.23",
+            "Time": "03:06:48",
+            "Latitude": "39.0090",
+            "Longitude": "29.8635",
+            "Depth": "6.1",
+            "ML": "3.3",
+            "Location": "SARAYCIK ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "01:29:00",
+            "Latitude": "37.9233",
+            "Longitude": "27.1033",
+            "Depth": "17.2",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.23",
+            "Time": "01:25:12",
+            "Latitude": "39.4043",
+            "Longitude": "27.8767",
+            "Depth": "7.7",
+            "ML": "1.7",
+            "Location": "YESILLER BALIKESIR"
+        },
+        {
+            "Date": "2022.02.23",
             "Time": "01:03:31",
             "Latitude": "38.0783",
             "Longitude": "42.8687",
@@ -4391,33 +4418,6 @@
             "Depth": "4.5",
             "ML": "2.1",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "20:43:47",
-            "Latitude": "37.0722",
-            "Longitude": "28.3653",
-            "Depth": "10.2",
-            "ML": "1.3",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "20:25:40",
-            "Latitude": "37.3157",
-            "Longitude": "28.0452",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "ESKIHISAR YATAGAN MUGLA"
-        },
-        {
-            "Date": "2022.02.12",
-            "Time": "19:30:22",
-            "Latitude": "40.6617",
-            "Longitude": "36.7112",
-            "Depth": "2.8",
-            "ML": "1.1",
-            "Location": "DOGANYURT ERBAA TOKAT"
         }
     ]
 }
