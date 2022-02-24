@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.24",
+            "Time": "22:49:26",
+            "Latitude": "37.0747",
+            "Longitude": "28.3545",
+            "Depth": "13.8",
+            "ML": "1.1",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "20:40:31",
+            "Latitude": "41.1065",
+            "Longitude": "34.5473",
+            "Depth": "12.1",
+            "ML": "1.6",
+            "Location": "KARABOYA KARGI CORUM"
+        },
+        {
+            "Date": "2022.02.24",
             "Time": "20:27:34",
             "Latitude": "39.5587",
             "Longitude": "26.4112",
@@ -4408,24 +4426,6 @@
             "Longitude": "33.0277",
             "Depth": "15.4",
             "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "06:52:02",
-            "Latitude": "40.8000",
-            "Longitude": "31.0763",
-            "Depth": "4.5",
-            "ML": "1.4",
-            "Location": "KUSACMASI DUZCE"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "06:19:22",
-            "Latitude": "36.0293",
-            "Longitude": "28.2785",
-            "Depth": "1.8",
-            "ML": "2.3",
             "Location": "AKDENIZ"
         }
     ]
