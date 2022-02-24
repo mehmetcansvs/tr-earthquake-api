@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.24",
+            "Time": "14:05:20",
+            "Latitude": "41.1537",
+            "Longitude": "34.4495",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "KARAKESE KARGI CORUM"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "13:08:35",
+            "Latitude": "38.8705",
+            "Longitude": "37.4402",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "ESKIHAMAL GURUN SIVAS"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "12:53:54",
+            "Latitude": "41.2023",
+            "Longitude": "34.4237",
+            "Depth": "5.4",
+            "ML": "2.3",
+            "Location": "HACIVELI KARGI CORUM"
+        },
+        {
+            "Date": "2022.02.24",
             "Time": "12:51:32",
             "Latitude": "41.1450",
             "Longitude": "34.4360",
@@ -4400,33 +4427,6 @@
             "Depth": "78.9",
             "ML": "2.8",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "23:56:03",
-            "Latitude": "41.1257",
-            "Longitude": "43.9180",
-            "Depth": "4.1",
-            "ML": "2.0",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "23:41:18",
-            "Latitude": "41.1415",
-            "Longitude": "43.9537",
-            "Depth": "9.0",
-            "ML": "1.8",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "23:39:15",
-            "Latitude": "41.1628",
-            "Longitude": "43.9187",
-            "Depth": "3.5",
-            "ML": "2.1",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
         }
     ]
 }
