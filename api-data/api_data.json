@@ -1,6 +1,60 @@
 {
     "data": [
         {
+            "Date": "2022.02.25",
+            "Time": "00:45:34",
+            "Latitude": "37.0652",
+            "Longitude": "28.3808",
+            "Depth": "4.4",
+            "ML": "2.1",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "00:38:14",
+            "Latitude": "37.8442",
+            "Longitude": "29.2330",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "KOCADERE DENIZLI"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "23:59:53",
+            "Latitude": "36.5220",
+            "Longitude": "27.2027",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "23:57:28",
+            "Latitude": "38.0022",
+            "Longitude": "43.5048",
+            "Depth": "10.2",
+            "ML": "1.7",
+            "Location": "GEZIYURT GURPINAR VAN"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "23:49:01",
+            "Latitude": "37.0722",
+            "Longitude": "28.3803",
+            "Depth": "5.9",
+            "ML": "2.1",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "23:19:27",
+            "Latitude": "36.8675",
+            "Longitude": "27.4258",
+            "Depth": "7.9",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
             "Date": "2022.02.24",
             "Time": "22:49:26",
             "Latitude": "37.0747",
@@ -4373,60 +4427,6 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "TEKELI ISIKLAR SOMA MANISA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "10:18:09",
-            "Latitude": "37.0732",
-            "Longitude": "28.3220",
-            "Depth": "3.6",
-            "ML": "1.4",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "09:20:49",
-            "Latitude": "39.0288",
-            "Longitude": "27.0428",
-            "Depth": "7.0",
-            "ML": "2.3",
-            "Location": "ASAGIKIRIKLAR BERGAMA IZMIR"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "08:17:12",
-            "Latitude": "40.2047",
-            "Longitude": "28.9228",
-            "Depth": "5.7",
-            "ML": "1.9",
-            "Location": "YAYLACIK NILUFER BURSA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "07:55:34",
-            "Latitude": "39.2335",
-            "Longitude": "39.9030",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "AYRANLI NAZIMIYE TUNCELI"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "07:27:41",
-            "Latitude": "34.3593",
-            "Longitude": "26.4453",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "07:13:34",
-            "Latitude": "35.5442",
-            "Longitude": "33.0277",
-            "Depth": "15.4",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
         }
     ]
 }
