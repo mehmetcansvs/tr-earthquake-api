@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.02.24",
+            "Time": "10:24:31",
+            "Latitude": "38.3198",
+            "Longitude": "38.5850",
+            "Depth": "9.7",
+            "ML": "2.1",
+            "Location": "HISARTEPE MALATYA"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "09:52:40",
+            "Latitude": "38.3408",
+            "Longitude": "27.8343",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "KARAKOY TURGUTLU MANISA"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "09:34:13",
+            "Latitude": "37.1162",
+            "Longitude": "30.4587",
+            "Depth": "82.0",
+            "ML": "2.4",
+            "Location": "AKKOC DOSEMEALTI ANTALYA"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "09:31:03",
+            "Latitude": "37.0888",
+            "Longitude": "28.3690",
+            "Depth": "5.5",
+            "ML": "2.2",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "09:12:54",
+            "Latitude": "37.0453",
+            "Longitude": "28.3375",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "09:00:47",
+            "Latitude": "39.5307",
+            "Longitude": "25.8710",
+            "Depth": "8.6",
+            "ML": "1.9",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.24",
             "Time": "07:41:38",
             "Latitude": "39.5645",
             "Longitude": "26.1307",
@@ -4372,60 +4426,6 @@
             "Longitude": "43.8977",
             "Depth": "7.7",
             "ML": "2.1",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "23:26:09",
-            "Latitude": "41.0793",
-            "Longitude": "43.9180",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "23:20:47",
-            "Latitude": "41.1147",
-            "Longitude": "43.9135",
-            "Depth": "7.0",
-            "ML": "2.3",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "23:15:49",
-            "Latitude": "39.2230",
-            "Longitude": "41.7027",
-            "Depth": "4.3",
-            "ML": "1.8",
-            "Location": "AKGELIN HINIS ERZURUM"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "23:14:37",
-            "Latitude": "41.1212",
-            "Longitude": "43.9420",
-            "Depth": "4.5",
-            "ML": "2.7",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "22:12:16",
-            "Latitude": "41.1032",
-            "Longitude": "43.9282",
-            "Depth": "9.2",
-            "ML": "2.1",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "22:11:20",
-            "Latitude": "41.1390",
-            "Longitude": "43.9412",
-            "Depth": "9.4",
-            "ML": "2.3",
             "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
         }
     ]
