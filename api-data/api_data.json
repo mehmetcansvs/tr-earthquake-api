@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.24",
+            "Time": "04:54:26",
+            "Latitude": "37.8657",
+            "Longitude": "29.4825",
+            "Depth": "3.6",
+            "ML": "3.1",
+            "Location": "ALIKURT BOZKURT DENIZLI"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "04:41:14",
+            "Latitude": "38.4490",
+            "Longitude": "39.2475",
+            "Depth": "8.2",
+            "ML": "1.7",
+            "Location": "ALINCIK SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "04:35:08",
+            "Latitude": "37.9342",
+            "Longitude": "26.9415",
+            "Depth": "4.4",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "04:18:50",
+            "Latitude": "35.8638",
+            "Longitude": "29.7765",
+            "Depth": "14.5",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.24",
             "Time": "03:25:52",
             "Latitude": "38.5143",
             "Longitude": "23.6285",
@@ -4382,42 +4418,6 @@
             "Depth": "5.0",
             "ML": "3.1",
             "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "21:28:46",
-            "Latitude": "41.1278",
-            "Longitude": "43.9107",
-            "Depth": "3.6",
-            "ML": "4.0",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "21:25:54",
-            "Latitude": "41.1763",
-            "Longitude": "43.9798",
-            "Depth": "5.6",
-            "ML": "5.6",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "21:20:01",
-            "Latitude": "40.7040",
-            "Longitude": "32.9288",
-            "Depth": "6.7",
-            "ML": "1.9",
-            "Location": "HACILAR CERKES CANKIRI"
-        },
-        {
-            "Date": "2022.02.13",
-            "Time": "20:58:17",
-            "Latitude": "37.9007",
-            "Longitude": "27.2408",
-            "Depth": "6.0",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
