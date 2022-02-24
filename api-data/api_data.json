@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.24",
+            "Time": "15:36:25",
+            "Latitude": "36.1850",
+            "Longitude": "33.5292",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "KOCASLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "15:23:24",
+            "Latitude": "41.1637",
+            "Longitude": "34.4370",
+            "Depth": "5.2",
+            "ML": "3.0",
+            "Location": "DEREKOY KARGI CORUM"
+        },
+        {
+            "Date": "2022.02.24",
+            "Time": "15:05:52",
+            "Latitude": "35.9223",
+            "Longitude": "28.2625",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.24",
             "Time": "14:05:20",
             "Latitude": "41.1537",
             "Longitude": "34.4495",
@@ -4400,33 +4427,6 @@
             "Depth": "9.7",
             "ML": "2.0",
             "Location": "BOZBURUN MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "00:26:24",
-            "Latitude": "37.3643",
-            "Longitude": "34.3942",
-            "Depth": "10.4",
-            "ML": "1.4",
-            "Location": "DELIMAHMUTLU HALKAPINAR KONYA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "00:06:22",
-            "Latitude": "38.4177",
-            "Longitude": "34.2712",
-            "Depth": "10.9",
-            "ML": "1.5",
-            "Location": "PINARBASI GULAGAC AKSARAY"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "00:05:36",
-            "Latitude": "34.8057",
-            "Longitude": "32.0188",
-            "Depth": "78.9",
-            "ML": "2.8",
-            "Location": "AKDENIZ"
         }
     ]
 }
