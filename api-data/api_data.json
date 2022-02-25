@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.25",
+            "Time": "18:42:23",
+            "Latitude": "39.5672",
+            "Longitude": "41.1853",
+            "Depth": "11.9",
+            "ML": "1.9",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "18:23:23",
+            "Latitude": "37.8133",
+            "Longitude": "29.5210",
+            "Depth": "2.6",
+            "ML": "1.8",
+            "Location": "YENIBAGLAR BOZKURT DENIZLI"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "17:02:26",
+            "Latitude": "40.5107",
+            "Longitude": "35.2548",
+            "Depth": "7.6",
+            "ML": "1.7",
+            "Location": "KOPRUBASI MECITOZU CORUM"
+        },
+        {
+            "Date": "2022.02.25",
             "Time": "16:44:35",
             "Latitude": "38.9655",
             "Longitude": "42.0240",
@@ -4400,33 +4427,6 @@
             "Depth": "3.4",
             "ML": "1.5",
             "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "10:21:24",
-            "Latitude": "38.8053",
-            "Longitude": "37.3163",
-            "Depth": "10.7",
-            "ML": "1.6",
-            "Location": "CAMLICA GURUN SIVAS"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "10:19:49",
-            "Latitude": "40.5437",
-            "Longitude": "29.2098",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "KURTKOY YALOVA"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "10:07:00",
-            "Latitude": "38.3828",
-            "Longitude": "39.0873",
-            "Depth": "10.0",
-            "ML": "1.7",
-            "Location": "KALABA SIVRICE ELAZIG"
         }
     ]
 }
