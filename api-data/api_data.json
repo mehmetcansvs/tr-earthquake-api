@@ -2,6 +2,105 @@
     "data": [
         {
             "Date": "2022.02.25",
+            "Time": "06:37:09",
+            "Latitude": "37.0535",
+            "Longitude": "28.5675",
+            "Depth": "11.2",
+            "ML": "1.7",
+            "Location": "BALCILAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "06:32:20",
+            "Latitude": "37.0667",
+            "Longitude": "28.5722",
+            "Depth": "11.4",
+            "ML": "1.4",
+            "Location": "BALCILAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "06:28:16",
+            "Latitude": "37.0500",
+            "Longitude": "28.6010",
+            "Depth": "15.3",
+            "ML": "1.2",
+            "Location": "BALCILAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "06:26:58",
+            "Latitude": "37.0542",
+            "Longitude": "28.5618",
+            "Depth": "11.2",
+            "ML": "1.7",
+            "Location": "BALCILAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "06:15:36",
+            "Latitude": "39.9803",
+            "Longitude": "42.5663",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "KOZAN SARIKAMIS KARS"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "06:12:25",
+            "Latitude": "39.9615",
+            "Longitude": "42.5737",
+            "Depth": "5.0",
+            "ML": "3.2",
+            "Location": "KAYALIBOGAZ SARIKAMIS KARS"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "06:08:36",
+            "Latitude": "38.0608",
+            "Longitude": "38.2008",
+            "Depth": "11.0",
+            "ML": "2.3",
+            "Location": "GOLBAGI CELIKHAN ADIYAMAN"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "05:51:52",
+            "Latitude": "37.0580",
+            "Longitude": "28.5662",
+            "Depth": "18.4",
+            "ML": "1.3",
+            "Location": "BALCILAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "05:48:36",
+            "Latitude": "37.0830",
+            "Longitude": "28.5648",
+            "Depth": "1.3",
+            "ML": "1.6",
+            "Location": "BALCILAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "05:36:55",
+            "Latitude": "40.8160",
+            "Longitude": "28.0733",
+            "Depth": "5.2",
+            "ML": "2.5",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "05:34:35",
+            "Latitude": "37.0828",
+            "Longitude": "28.5645",
+            "Depth": "7.9",
+            "ML": "2.2",
+            "Location": "BALCILAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
             "Time": "04:54:20",
             "Latitude": "37.0673",
             "Longitude": "28.5533",
@@ -4328,105 +4427,6 @@
             "Depth": "23.2",
             "ML": "1.5",
             "Location": "OREN AKCADAG MALATYA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "22:45:38",
-            "Latitude": "38.1763",
-            "Longitude": "31.0112",
-            "Depth": "5.4",
-            "ML": "1.4",
-            "Location": "KOKE GELENDOST ISPARTA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "22:42:45",
-            "Latitude": "38.2048",
-            "Longitude": "30.9797",
-            "Depth": "3.1",
-            "ML": "1.3",
-            "Location": "CALTI GELENDOST ISPARTA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "22:03:53",
-            "Latitude": "37.0617",
-            "Longitude": "30.2878",
-            "Depth": "2.8",
-            "ML": "1.5",
-            "Location": "BAYAT KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "21:59:42",
-            "Latitude": "38.8465",
-            "Longitude": "26.4418",
-            "Depth": "7.6",
-            "ML": "2.3",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "21:52:29",
-            "Latitude": "37.1323",
-            "Longitude": "27.8970",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "SEKKOY MILAS MUGLA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "20:34:47",
-            "Latitude": "36.4537",
-            "Longitude": "29.1278",
-            "Depth": "20.2",
-            "ML": "1.5",
-            "Location": "KARAAGAC FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "20:26:03",
-            "Latitude": "36.6698",
-            "Longitude": "33.5713",
-            "Depth": "19.1",
-            "ML": "2.5",
-            "Location": "HACIAHMETLI MUT MERSIN"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "20:18:12",
-            "Latitude": "37.4132",
-            "Longitude": "32.8163",
-            "Depth": "9.7",
-            "ML": "2.0",
-            "Location": "KUZUCU CUMRA KONYA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "20:16:01",
-            "Latitude": "37.1540",
-            "Longitude": "28.8340",
-            "Depth": "13.0",
-            "ML": "1.6",
-            "Location": "KARACAOREN MUGLA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "20:03:10",
-            "Latitude": "41.1243",
-            "Longitude": "43.9057",
-            "Depth": "2.2",
-            "ML": "3.0",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "19:02:09",
-            "Latitude": "37.1315",
-            "Longitude": "31.1323",
-            "Depth": "97.7",
-            "ML": "2.2",
-            "Location": "KARABUK MANAVGAT ANTALYA"
         }
     ]
 }
