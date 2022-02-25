@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.25",
+            "Time": "20:12:30",
+            "Latitude": "37.0560",
+            "Longitude": "28.3580",
+            "Depth": "2.9",
+            "ML": "1.8",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "19:33:43",
+            "Latitude": "39.6365",
+            "Longitude": "41.0425",
+            "Depth": "5.5",
+            "ML": "1.6",
+            "Location": "YUKARICAT CAT ERZURUM"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "19:13:46",
+            "Latitude": "37.0863",
+            "Longitude": "28.4558",
+            "Depth": "7.8",
+            "ML": "1.9",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
             "Time": "18:42:23",
             "Latitude": "39.5672",
             "Longitude": "41.1853",
@@ -4400,33 +4427,6 @@
             "Depth": "5.0",
             "ML": "1.6",
             "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "10:35:44",
-            "Latitude": "40.8352",
-            "Longitude": "28.7197",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "AVCILAR ACIKLARI ISTANBUL MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "10:23:44",
-            "Latitude": "40.3503",
-            "Longitude": "27.4960",
-            "Depth": "6.1",
-            "ML": "1.8",
-            "Location": "GUVEMALANI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "10:21:33",
-            "Latitude": "37.0727",
-            "Longitude": "28.4147",
-            "Depth": "3.4",
-            "ML": "1.5",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
