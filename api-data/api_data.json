@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.02.25",
+            "Time": "12:50:11",
+            "Latitude": "40.7648",
+            "Longitude": "31.5023",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "12:19:46",
+            "Latitude": "36.2435",
+            "Longitude": "33.6980",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "ISIKLI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "12:10:19",
+            "Latitude": "37.2445",
+            "Longitude": "37.9198",
+            "Depth": "9.0",
+            "ML": "1.7",
+            "Location": "DURAK HALFETI SANLIURFA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "12:02:45",
+            "Latitude": "37.0378",
+            "Longitude": "28.3683",
+            "Depth": "2.6",
+            "ML": "1.6",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "11:51:47",
+            "Latitude": "40.7743",
+            "Longitude": "31.5155",
+            "Depth": "11.4",
+            "ML": "1.8",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "11:33:53",
+            "Latitude": "39.2977",
+            "Longitude": "27.6735",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "GOKTAS SOMA MANISA"
+        },
+        {
+            "Date": "2022.02.25",
             "Time": "10:17:16",
             "Latitude": "37.2708",
             "Longitude": "35.5372",
@@ -4373,60 +4427,6 @@
             "Depth": "5.4",
             "ML": "2.3",
             "Location": "COMLEKOBA DOGANSEHIR MALATYA"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "00:06:24",
-            "Latitude": "40.8263",
-            "Longitude": "34.2470",
-            "Depth": "12.0",
-            "ML": "1.3",
-            "Location": "SORKUN ISKILIP CORUM"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "23:59:17",
-            "Latitude": "37.0593",
-            "Longitude": "28.3542",
-            "Depth": "7.5",
-            "ML": "1.0",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "23:48:26",
-            "Latitude": "36.4965",
-            "Longitude": "27.5845",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "23:48:06",
-            "Latitude": "38.1155",
-            "Longitude": "37.8665",
-            "Depth": "4.4",
-            "ML": "1.3",
-            "Location": "YOLKURU DOGANSEHIR MALATYA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "23:45:49",
-            "Latitude": "36.7820",
-            "Longitude": "28.2735",
-            "Depth": "4.5",
-            "ML": "1.1",
-            "Location": "TURUNC MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.02.14",
-            "Time": "23:40:52",
-            "Latitude": "36.6068",
-            "Longitude": "28.8332",
-            "Depth": "11.2",
-            "ML": "1.3",
-            "Location": "FETHIYE KORFEZI AKDENIZ"
         }
     ]
 }
