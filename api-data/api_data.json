@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.25",
+            "Time": "23:07:04",
+            "Latitude": "37.0873",
+            "Longitude": "28.3230",
+            "Depth": "19.7",
+            "ML": "1.4",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "23:05:45",
+            "Latitude": "40.6693",
+            "Longitude": "30.6343",
+            "Depth": "17.5",
+            "ML": "1.5",
+            "Location": "ALAAGAC AKYAZI SAKARYA"
+        },
+        {
+            "Date": "2022.02.25",
             "Time": "22:53:56",
             "Latitude": "38.4272",
             "Longitude": "26.8197",
@@ -4408,24 +4426,6 @@
             "Longitude": "32.0828",
             "Depth": "10.1",
             "ML": "2.4",
-            "Location": "OZYURT POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "12:54:39",
-            "Latitude": "36.2795",
-            "Longitude": "33.7088",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "KIRTIL SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "12:13:15",
-            "Latitude": "39.2167",
-            "Longitude": "32.0467",
-            "Depth": "4.2",
-            "ML": "1.6",
             "Location": "OZYURT POLATLI ANKARA"
         }
     ]
