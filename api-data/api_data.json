@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.02.25",
+            "Time": "22:53:56",
+            "Latitude": "38.4272",
+            "Longitude": "26.8197",
+            "Depth": "3.5",
+            "ML": "2.3",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "22:12:22",
+            "Latitude": "37.0812",
+            "Longitude": "28.3670",
+            "Depth": "6.4",
+            "ML": "2.8",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "21:10:17",
+            "Latitude": "40.4515",
+            "Longitude": "28.7340",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "GEMLIK KORFEZI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "20:51:06",
+            "Latitude": "37.0057",
+            "Longitude": "28.3237",
+            "Depth": "5.0",
+            "ML": "1.3",
+            "Location": "CETIBELI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "20:37:51",
+            "Latitude": "37.0673",
+            "Longitude": "27.7913",
+            "Depth": "12.1",
+            "ML": "1.8",
+            "Location": "FESLEGEN MILAS MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "20:33:26",
+            "Latitude": "37.0037",
+            "Longitude": "27.7428",
+            "Depth": "8.7",
+            "ML": "1.7",
+            "Location": "MAZIKOY BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.02.25",
             "Time": "20:12:30",
             "Latitude": "37.0560",
             "Longitude": "28.3580",
@@ -4373,60 +4427,6 @@
             "Depth": "4.2",
             "ML": "1.6",
             "Location": "OZYURT POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "12:03:38",
-            "Latitude": "38.3980",
-            "Longitude": "44.0142",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "CAKMAKKOY SARAY VAN"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "11:38:33",
-            "Latitude": "40.0710",
-            "Longitude": "24.1315",
-            "Depth": "23.3",
-            "ML": "3.1",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "11:27:16",
-            "Latitude": "40.8027",
-            "Longitude": "31.5120",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "11:12:13",
-            "Latitude": "37.1037",
-            "Longitude": "28.3772",
-            "Depth": "5.2",
-            "ML": "1.7",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "11:00:37",
-            "Latitude": "39.2103",
-            "Longitude": "32.1122",
-            "Depth": "3.8",
-            "ML": "1.5",
-            "Location": "OZYURT POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "10:37:10",
-            "Latitude": "37.1207",
-            "Longitude": "28.4413",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "ULA MUGLA"
         }
     ]
 }
