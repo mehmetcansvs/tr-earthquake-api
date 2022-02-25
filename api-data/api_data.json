@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.02.25",
+            "Time": "16:44:35",
+            "Latitude": "38.9655",
+            "Longitude": "42.0240",
+            "Depth": "9.9",
+            "ML": "1.6",
+            "Location": "GUNBATMAZ BULANIK MUS"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "16:31:06",
+            "Latitude": "40.4055",
+            "Longitude": "35.2868",
+            "Depth": "7.1",
+            "ML": "1.8",
+            "Location": "EMIRBAGI MECITOZU CORUM"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "16:30:38",
+            "Latitude": "38.1470",
+            "Longitude": "28.2847",
+            "Depth": "19.6",
+            "ML": "0.9",
+            "Location": "MERSINLIDERE KIRAZ IZMIR"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "16:19:08",
+            "Latitude": "36.3070",
+            "Longitude": "33.8918",
+            "Depth": "0.0",
+            "ML": "0.7",
+            "Location": "TASUCU SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.02.25",
+            "Time": "16:09:59",
+            "Latitude": "36.0962",
+            "Longitude": "33.5458",
+            "Depth": "4.7",
+            "ML": "1.7",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.02.25",
             "Time": "14:45:46",
             "Latitude": "37.0740",
             "Longitude": "28.3645",
@@ -4382,51 +4427,6 @@
             "Depth": "10.0",
             "ML": "1.7",
             "Location": "KALABA SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "09:56:51",
-            "Latitude": "39.8907",
-            "Longitude": "27.8557",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "HISARALAN BALIKESIR"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "09:38:42",
-            "Latitude": "38.7180",
-            "Longitude": "39.7878",
-            "Depth": "5.1",
-            "ML": "1.9",
-            "Location": "TASOREN KOVANCILAR ELAZIG"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "07:12:54",
-            "Latitude": "40.3905",
-            "Longitude": "27.4890",
-            "Depth": "10.0",
-            "ML": "1.2",
-            "Location": "ERDEK KORFEZI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "06:24:43",
-            "Latitude": "40.3290",
-            "Longitude": "27.4847",
-            "Depth": "6.6",
-            "ML": "1.9",
-            "Location": "GUVEMALANI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "06:12:59",
-            "Latitude": "36.9412",
-            "Longitude": "27.4320",
-            "Depth": "5.4",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
