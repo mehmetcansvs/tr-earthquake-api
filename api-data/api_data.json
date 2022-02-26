@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.26",
+            "Time": "09:02:09",
+            "Latitude": "36.2697",
+            "Longitude": "28.9077",
+            "Depth": "21.0",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "08:12:10",
+            "Latitude": "36.4895",
+            "Longitude": "27.2400",
+            "Depth": "12.3",
+            "ML": "1.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "07:54:44",
+            "Latitude": "37.2645",
+            "Longitude": "28.4803",
+            "Depth": "26.9",
+            "ML": "1.7",
+            "Location": "OZLUCE MUGLA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "07:08:44",
+            "Latitude": "34.8745",
+            "Longitude": "26.6680",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.26",
             "Time": "06:36:07",
             "Latitude": "37.1247",
             "Longitude": "28.5653",
@@ -26,6 +62,15 @@
             "Depth": "11.6",
             "ML": "1.7",
             "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "03:55:15",
+            "Latitude": "36.1445",
+            "Longitude": "35.5387",
+            "Depth": "14.7",
+            "ML": "1.4",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.02.26",
@@ -4382,51 +4427,6 @@
             "Depth": "6.1",
             "ML": "2.3",
             "Location": "KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "01:19:38",
-            "Latitude": "37.8620",
-            "Longitude": "27.2488",
-            "Depth": "5.4",
-            "ML": "3.3",
-            "Location": "KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "00:12:58",
-            "Latitude": "35.8160",
-            "Longitude": "29.1435",
-            "Depth": "9.3",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "00:08:00",
-            "Latitude": "36.9653",
-            "Longitude": "27.6375",
-            "Depth": "14.4",
-            "ML": "2.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "23:56:54",
-            "Latitude": "38.7292",
-            "Longitude": "43.4278",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "OCAKLI VAN"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "23:07:11",
-            "Latitude": "40.8013",
-            "Longitude": "31.4860",
-            "Depth": "7.0",
-            "ML": "2.1",
-            "Location": "KIZILAGIL BOLU"
         }
     ]
 }
