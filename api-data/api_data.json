@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.02.26",
+            "Time": "22:53:44",
+            "Latitude": "37.9957",
+            "Longitude": "32.5147",
+            "Depth": "7.1",
+            "ML": "1.6",
+            "Location": "SELCUKLU KONYA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "22:28:22",
+            "Latitude": "37.7040",
+            "Longitude": "33.0283",
+            "Depth": "1.7",
+            "ML": "1.7",
+            "Location": "ISMIL KARATAY KONYA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "22:22:08",
+            "Latitude": "37.8693",
+            "Longitude": "26.9108",
+            "Depth": "7.0",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "21:37:23",
+            "Latitude": "39.5610",
+            "Longitude": "41.1880",
+            "Depth": "11.3",
+            "ML": "1.4",
+            "Location": "ALABAYIR TEKMAN ERZURUM REVIZE CETIBELI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.02.26",
             "Time": "20:49:58",
             "Latitude": "37.7130",
             "Longitude": "33.0577",
             "Depth": "3.7",
             "ML": "2.1",
             "Location": "ISMIL KARATAY KONYA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "20:43:31",
+            "Latitude": "36.8852",
+            "Longitude": "27.2980",
+            "Depth": "2.1",
+            "ML": "1.6",
+            "Location": "KOS ADASI AKDENIZ"
         },
         {
             "Date": "2022.02.26",
@@ -4373,60 +4418,6 @@
             "Depth": "0.0",
             "ML": "1.6",
             "Location": "YESILCE SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "11:02:40",
-            "Latitude": "41.1797",
-            "Longitude": "43.9433",
-            "Depth": "3.6",
-            "ML": "2.4",
-            "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "10:37:21",
-            "Latitude": "41.1190",
-            "Longitude": "43.9328",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "09:57:17",
-            "Latitude": "41.2218",
-            "Longitude": "43.9808",
-            "Depth": "5.4",
-            "ML": "2.1",
-            "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "09:34:47",
-            "Latitude": "38.9683",
-            "Longitude": "26.7062",
-            "Depth": "7.4",
-            "ML": "2.9",
-            "Location": "DENIZKOY DIKILI IZMIR"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "09:24:56",
-            "Latitude": "38.9187",
-            "Longitude": "27.8975",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "HASKOY AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "08:20:34",
-            "Latitude": "40.8937",
-            "Longitude": "31.7922",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "MERKESLER BOLU"
         }
     ]
 }
