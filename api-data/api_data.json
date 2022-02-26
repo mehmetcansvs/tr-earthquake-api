@@ -1,6 +1,78 @@
 {
     "data": [
         {
+            "Date": "2022.02.26",
+            "Time": "03:22:44",
+            "Latitude": "37.8748",
+            "Longitude": "26.7025",
+            "Depth": "7.8",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "03:13:50",
+            "Latitude": "37.0622",
+            "Longitude": "28.3623",
+            "Depth": "3.6",
+            "ML": "1.7",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "02:06:56",
+            "Latitude": "37.7433",
+            "Longitude": "27.0267",
+            "Depth": "4.4",
+            "ML": "1.8",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "01:29:42",
+            "Latitude": "37.0495",
+            "Longitude": "28.4000",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "01:27:59",
+            "Latitude": "37.0790",
+            "Longitude": "28.4193",
+            "Depth": "10.5",
+            "ML": "1.9",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "01:25:25",
+            "Latitude": "37.0622",
+            "Longitude": "28.3432",
+            "Depth": "3.8",
+            "ML": "1.6",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "01:12:58",
+            "Latitude": "39.5922",
+            "Longitude": "41.0888",
+            "Depth": "11.5",
+            "ML": "1.9",
+            "Location": "BUDAKLAR CAT ERZURUM"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "01:00:16",
+            "Latitude": "37.6358",
+            "Longitude": "26.9247",
+            "Depth": "11.9",
+            "ML": "1.6",
+            "Location": "EGE DENIZI"
+        },
+        {
             "Date": "2022.02.25",
             "Time": "23:07:04",
             "Latitude": "37.0873",
@@ -4355,78 +4427,6 @@
             "Depth": "10.2",
             "ML": "2.2",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "19:19:24",
-            "Latitude": "40.3370",
-            "Longitude": "27.4773",
-            "Depth": "2.2",
-            "ML": "1.9",
-            "Location": "GUVEMALANI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "16:09:00",
-            "Latitude": "37.7275",
-            "Longitude": "25.9852",
-            "Depth": "4.5",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "15:51:11",
-            "Latitude": "38.4658",
-            "Longitude": "25.7940",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "15:48:16",
-            "Latitude": "39.6743",
-            "Longitude": "35.5162",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "SARAYKENT YOZGAT"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "14:27:15",
-            "Latitude": "37.7032",
-            "Longitude": "25.9477",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "13:20:29",
-            "Latitude": "40.1835",
-            "Longitude": "42.2883",
-            "Depth": "9.1",
-            "ML": "1.5",
-            "Location": "BULGURLU HORASAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "13:14:17",
-            "Latitude": "39.5747",
-            "Longitude": "40.9228",
-            "Depth": "7.8",
-            "ML": "1.8",
-            "Location": "PARMAKSIZ CAT ERZURUM"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "12:57:14",
-            "Latitude": "39.2085",
-            "Longitude": "32.0828",
-            "Depth": "10.1",
-            "ML": "2.4",
-            "Location": "OZYURT POLATLI ANKARA"
         }
     ]
 }
