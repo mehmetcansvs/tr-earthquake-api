@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.26",
+            "Time": "10:06:34",
+            "Latitude": "39.5530",
+            "Longitude": "41.1798",
+            "Depth": "12.1",
+            "ML": "2.0",
+            "Location": "ALABAYIR TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.26",
             "Time": "09:02:09",
             "Latitude": "36.2697",
             "Longitude": "28.9077",
@@ -4418,15 +4427,6 @@
             "Depth": "5.0",
             "ML": "1.0",
             "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "01:23:38",
-            "Latitude": "37.8530",
-            "Longitude": "27.2433",
-            "Depth": "6.1",
-            "ML": "2.3",
-            "Location": "KUSADASI AYDIN"
         }
     ]
 }
