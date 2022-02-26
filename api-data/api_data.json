@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.02.26",
+            "Time": "06:36:07",
+            "Latitude": "37.1247",
+            "Longitude": "28.5653",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "KIYRA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "05:22:38",
+            "Latitude": "35.7548",
+            "Longitude": "27.0307",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.26",
             "Time": "05:03:14",
             "Latitude": "37.0070",
             "Longitude": "28.3880",
@@ -4409,24 +4427,6 @@
             "Depth": "7.0",
             "ML": "2.1",
             "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "20:57:27",
-            "Latitude": "39.4372",
-            "Longitude": "33.0445",
-            "Depth": "10.5",
-            "ML": "2.2",
-            "Location": "AFSAR BALA ANKARA"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "19:24:35",
-            "Latitude": "38.5643",
-            "Longitude": "39.5357",
-            "Depth": "11.8",
-            "ML": "2.3",
-            "Location": "KUCUKOVA MADEN ELAZIG"
         }
     ]
 }
