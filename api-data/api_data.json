@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.26",
+            "Time": "05:03:14",
+            "Latitude": "37.0070",
+            "Longitude": "28.3880",
+            "Depth": "11.6",
+            "ML": "1.7",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.26",
             "Time": "03:22:44",
             "Latitude": "37.8748",
             "Longitude": "26.7025",
@@ -4418,15 +4427,6 @@
             "Depth": "11.8",
             "ML": "2.3",
             "Location": "KUCUKOVA MADEN ELAZIG"
-        },
-        {
-            "Date": "2022.02.15",
-            "Time": "19:23:38",
-            "Latitude": "38.9550",
-            "Longitude": "26.1403",
-            "Depth": "10.2",
-            "ML": "2.2",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         }
     ]
 }
