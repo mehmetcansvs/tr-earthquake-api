@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.02.26",
+            "Time": "14:58:37",
+            "Latitude": "37.3787",
+            "Longitude": "37.4342",
+            "Depth": "5.8",
+            "ML": "1.9",
+            "Location": "HURRIYET PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "14:24:56",
+            "Latitude": "36.1932",
+            "Longitude": "33.6747",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "YESILOVACIK SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "13:44:56",
+            "Latitude": "36.2440",
+            "Longitude": "33.7292",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "AKDERE SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "13:39:29",
+            "Latitude": "37.0875",
+            "Longitude": "28.3523",
+            "Depth": "5.4",
+            "ML": "2.1",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.26",
             "Time": "12:53:04",
             "Latitude": "37.0648",
             "Longitude": "28.3407",
@@ -4391,42 +4427,6 @@
             "Depth": "20.4",
             "ML": "2.1",
             "Location": "TOSUNLU PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "04:56:11",
-            "Latitude": "40.4927",
-            "Longitude": "29.1858",
-            "Depth": "5.2",
-            "ML": "1.0",
-            "Location": "SAHINYURDU GEMLIK BURSA"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "04:47:12",
-            "Latitude": "37.0963",
-            "Longitude": "28.3642",
-            "Depth": "5.3",
-            "ML": "1.4",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "03:36:16",
-            "Latitude": "37.1125",
-            "Longitude": "28.3708",
-            "Depth": "3.9",
-            "ML": "1.6",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "03:34:51",
-            "Latitude": "39.0830",
-            "Longitude": "35.9792",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "SARIOGLAN KAYSERI"
         }
     ]
 }
