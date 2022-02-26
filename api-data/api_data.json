@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.26",
+            "Time": "20:49:58",
+            "Latitude": "37.7130",
+            "Longitude": "33.0577",
+            "Depth": "3.7",
+            "ML": "2.1",
+            "Location": "ISMIL KARATAY KONYA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "20:18:11",
+            "Latitude": "37.7413",
+            "Longitude": "33.0558",
+            "Depth": "8.9",
+            "ML": "1.6",
+            "Location": "ISMIL KARATAY KONYA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "20:15:27",
+            "Latitude": "37.7108",
+            "Longitude": "33.0732",
+            "Depth": "9.1",
+            "ML": "1.6",
+            "Location": "ISMIL KARATAY KONYA"
+        },
+        {
+            "Date": "2022.02.26",
             "Time": "15:44:18",
             "Latitude": "34.9940",
             "Longitude": "26.9180",
@@ -4400,33 +4427,6 @@
             "Depth": "5.4",
             "ML": "2.2",
             "Location": "MERKESLER BOLU"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "08:19:44",
-            "Latitude": "37.1483",
-            "Longitude": "28.4600",
-            "Depth": "7.4",
-            "ML": "1.6",
-            "Location": "YARAS MUGLA"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "05:58:05",
-            "Latitude": "36.3818",
-            "Longitude": "29.5430",
-            "Depth": "14.5",
-            "ML": "1.1",
-            "Location": "CAMLIOVA KAS ANTALYA"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "05:33:52",
-            "Latitude": "41.1142",
-            "Longitude": "43.9462",
-            "Depth": "9.8",
-            "ML": "1.9",
-            "Location": "ERMENISTAN"
         }
     ]
 }
