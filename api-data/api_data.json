@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.26",
+            "Time": "12:53:04",
+            "Latitude": "37.0648",
+            "Longitude": "28.3407",
+            "Depth": "12.7",
+            "ML": "2.0",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.26",
             "Time": "10:06:34",
             "Latitude": "39.5530",
             "Longitude": "41.1798",
@@ -4418,15 +4427,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "02:59:19",
-            "Latitude": "37.0978",
-            "Longitude": "28.4037",
-            "Depth": "5.0",
-            "ML": "1.0",
-            "Location": "ULA MUGLA"
         }
     ]
 }
