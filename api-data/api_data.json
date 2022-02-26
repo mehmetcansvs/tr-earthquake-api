@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.26",
+            "Time": "15:44:18",
+            "Latitude": "34.9940",
+            "Longitude": "26.9180",
+            "Depth": "5.0",
+            "ML": "3.6",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.26",
             "Time": "14:58:37",
             "Latitude": "37.3787",
             "Longitude": "37.4342",
@@ -4418,15 +4427,6 @@
             "Depth": "9.8",
             "ML": "1.9",
             "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "05:16:57",
-            "Latitude": "38.2905",
-            "Longitude": "38.9287",
-            "Depth": "20.4",
-            "ML": "2.1",
-            "Location": "TOSUNLU PUTURGE MALATYA"
         }
     ]
 }
