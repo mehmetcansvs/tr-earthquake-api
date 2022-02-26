@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.26",
+            "Time": "23:04:06",
+            "Latitude": "36.7693",
+            "Longitude": "27.1563",
+            "Depth": "135.5",
+            "ML": "2.5",
+            "Location": "KOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.26",
             "Time": "22:53:44",
             "Latitude": "37.9957",
             "Longitude": "32.5147",
@@ -4409,15 +4418,6 @@
             "Depth": "6.1",
             "ML": "2.9",
             "Location": "ZEYTINELI URLA IZMIR REVIZE ORHANGAZI ISKENDERUN HATAY"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "11:10:46",
-            "Latitude": "37.1470",
-            "Longitude": "37.2147",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "YESILCE SEHITKAMIL GAZIANTEP"
         }
     ]
 }
