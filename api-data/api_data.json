@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.02.27",
+            "Time": "05:12:01",
+            "Latitude": "39.5823",
+            "Longitude": "41.1475",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "04:28:36",
+            "Latitude": "39.8153",
+            "Longitude": "41.1147",
+            "Depth": "2.9",
+            "ML": "1.6",
+            "Location": "GUZELYURT PALANDOKEN ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "04:02:50",
+            "Latitude": "37.9958",
+            "Longitude": "28.8278",
+            "Depth": "3.7",
+            "ML": "1.6",
+            "Location": "BOSTANYERI BULDAN DENIZLI"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "03:32:46",
+            "Latitude": "36.9210",
+            "Longitude": "28.0323",
+            "Depth": "20.1",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "03:30:48",
+            "Latitude": "38.2887",
+            "Longitude": "31.0292",
+            "Depth": "4.8",
+            "ML": "1.9",
+            "Location": "EYUPLER YALVAC ISPARTA"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "03:17:29",
+            "Latitude": "37.1397",
+            "Longitude": "28.5415",
+            "Depth": "1.7",
+            "ML": "1.6",
+            "Location": "GOLCUK ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.27",
             "Time": "03:12:56",
             "Latitude": "36.9873",
             "Longitude": "28.1883",
@@ -16,6 +70,15 @@
             "Longitude": "41.1600",
             "Depth": "11.7",
             "ML": "2.3",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "02:41:04",
+            "Latitude": "39.5847",
+            "Longitude": "41.1560",
+            "Depth": "15.4",
+            "ML": "1.7",
             "Location": "TURNAGOL TEKMAN ERZURUM"
         },
         {
@@ -47,6 +110,15 @@
         },
         {
             "Date": "2022.02.27",
+            "Time": "01:21:29",
+            "Latitude": "37.1475",
+            "Longitude": "28.5298",
+            "Depth": "4.9",
+            "ML": "1.9",
+            "Location": "GOLCUK ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.27",
             "Time": "01:12:34",
             "Latitude": "40.8017",
             "Longitude": "28.8695",
@@ -71,6 +143,15 @@
             "Depth": "7.1",
             "ML": "1.6",
             "Location": "SELCUKLU KONYA"
+        },
+        {
+            "Date": "2022.02.26",
+            "Time": "22:34:36",
+            "Latitude": "36.8210",
+            "Longitude": "28.0607",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
         },
         {
             "Date": "2022.02.26",
@@ -4346,87 +4427,6 @@
             "Depth": "4.8",
             "ML": "1.9",
             "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "23:43:05",
-            "Latitude": "36.7320",
-            "Longitude": "27.1138",
-            "Depth": "9.3",
-            "ML": "2.3",
-            "Location": "KOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "21:06:18",
-            "Latitude": "37.8235",
-            "Longitude": "27.0172",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "17:12:14",
-            "Latitude": "38.4828",
-            "Longitude": "39.2187",
-            "Depth": "6.8",
-            "ML": "2.3",
-            "Location": "DEDEYOLU SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "16:37:34",
-            "Latitude": "37.3255",
-            "Longitude": "37.4235",
-            "Depth": "7.7",
-            "ML": "1.7",
-            "Location": "KOCLU SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "15:46:13",
-            "Latitude": "40.0862",
-            "Longitude": "42.0725",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "AZAP HORASAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "14:44:16",
-            "Latitude": "40.9878",
-            "Longitude": "39.8940",
-            "Depth": "19.4",
-            "ML": "1.6",
-            "Location": "YOMRA TRABZON"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "14:26:38",
-            "Latitude": "39.3770",
-            "Longitude": "31.6235",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "ISTIKLALBAGI SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "13:48:07",
-            "Latitude": "35.5173",
-            "Longitude": "32.1663",
-            "Depth": "8.7",
-            "ML": "2.4",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "13:16:43",
-            "Latitude": "37.9507",
-            "Longitude": "26.9705",
-            "Depth": "9.5",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
