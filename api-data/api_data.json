@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "Date": "2022.02.28",
+            "Time": "00:57:40",
+            "Latitude": "39.5763",
+            "Longitude": "41.1303",
+            "Depth": "13.8",
+            "ML": "2.3",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "00:55:22",
+            "Latitude": "40.1917",
+            "Longitude": "31.7202",
+            "Depth": "16.1",
+            "ML": "2.0",
+            "Location": "SEKLI BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "00:29:06",
+            "Latitude": "35.6345",
+            "Longitude": "27.1388",
+            "Depth": "9.1",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "00:19:56",
+            "Latitude": "39.6007",
+            "Longitude": "41.1490",
+            "Depth": "9.0",
+            "ML": "1.7",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "23:53:29",
+            "Latitude": "37.9167",
+            "Longitude": "27.2020",
+            "Depth": "7.7",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "23:39:08",
+            "Latitude": "37.0712",
+            "Longitude": "28.5525",
+            "Depth": "10.5",
+            "ML": "2.2",
+            "Location": "BALCILAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "23:16:58",
+            "Latitude": "36.6658",
+            "Longitude": "31.2753",
+            "Depth": "28.0",
+            "ML": "2.1",
+            "Location": "ANTALYA KORFEZI AKDENIZ"
+        },
+        {
             "Date": "2022.02.27",
             "Time": "22:50:31",
             "Latitude": "40.1642",
@@ -4391,60 +4454,6 @@
             "Depth": "9.4",
             "ML": "1.7",
             "Location": "SOGUT DOGANSEHIR MALATYA"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "09:34:29",
-            "Latitude": "41.4240",
-            "Longitude": "43.5588",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "GURCISTAN REVIZE YESILCELE BOLU"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "09:10:50",
-            "Latitude": "38.9215",
-            "Longitude": "27.5955",
-            "Depth": "5.8",
-            "ML": "2.1",
-            "Location": "SAKARKAYA AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "09:00:18",
-            "Latitude": "37.7807",
-            "Longitude": "27.7670",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "CAKMAR KOCARLI AYDIN"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "08:35:33",
-            "Latitude": "37.8382",
-            "Longitude": "27.0247",
-            "Depth": "7.7",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "07:17:35",
-            "Latitude": "36.9700",
-            "Longitude": "28.3177",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "CETIBELI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "05:48:42",
-            "Latitude": "39.1683",
-            "Longitude": "40.1177",
-            "Depth": "12.1",
-            "ML": "2.1",
-            "Location": "YAYLABAG YAYLADERE BINGOL"
         }
     ]
 }
