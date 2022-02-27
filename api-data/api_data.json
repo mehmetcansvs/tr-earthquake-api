@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.02.27",
+            "Time": "22:50:31",
+            "Latitude": "40.1642",
+            "Longitude": "41.4133",
+            "Depth": "4.8",
+            "ML": "3.1",
+            "Location": "KARAGOBEK YAKUTIYE ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "22:20:03",
+            "Latitude": "39.5300",
+            "Longitude": "41.2033",
+            "Depth": "3.9",
+            "ML": "1.4",
+            "Location": "KARLICA TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "21:35:39",
+            "Latitude": "36.1328",
+            "Longitude": "29.0353",
+            "Depth": "7.8",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "21:29:47",
+            "Latitude": "37.1343",
+            "Longitude": "28.4958",
+            "Depth": "8.1",
+            "ML": "1.5",
+            "Location": "ARMUTCUK ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "21:06:53",
+            "Latitude": "38.5965",
+            "Longitude": "43.6260",
+            "Depth": "1.8",
+            "ML": "2.2",
+            "Location": "IRGAT VAN"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "20:53:44",
+            "Latitude": "36.1255",
+            "Longitude": "27.9258",
+            "Depth": "80.8",
+            "ML": "2.0",
+            "Location": "RODOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "20:21:53",
+            "Latitude": "40.5010",
+            "Longitude": "28.8578",
+            "Depth": "8.4",
+            "ML": "1.6",
+            "Location": "ARMUTLU YALOVA"
+        },
+        {
+            "Date": "2022.02.27",
             "Time": "19:59:17",
             "Latitude": "40.5413",
             "Longitude": "28.9155",
@@ -4382,69 +4445,6 @@
             "Depth": "12.1",
             "ML": "2.1",
             "Location": "YAYLABAG YAYLADERE BINGOL"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "05:29:05",
-            "Latitude": "39.9785",
-            "Longitude": "24.1895",
-            "Depth": "12.0",
-            "ML": "2.4",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "04:36:51",
-            "Latitude": "36.3033",
-            "Longitude": "29.5953",
-            "Depth": "7.2",
-            "ML": "1.6",
-            "Location": "SINNELI KAS ANTALYA"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "04:18:25",
-            "Latitude": "36.2868",
-            "Longitude": "26.9575",
-            "Depth": "6.2",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "03:26:51",
-            "Latitude": "39.3632",
-            "Longitude": "40.3297",
-            "Depth": "4.3",
-            "ML": "2.1",
-            "Location": "KIGI BINGOL"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "01:19:13",
-            "Latitude": "37.3915",
-            "Longitude": "35.9205",
-            "Depth": "8.6",
-            "ML": "1.5",
-            "Location": "CAYGECIT KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "00:20:14",
-            "Latitude": "37.1953",
-            "Longitude": "28.5570",
-            "Depth": "7.6",
-            "ML": "1.6",
-            "Location": "YAYLASOGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "00:19:07",
-            "Latitude": "39.4615",
-            "Longitude": "40.5512",
-            "Depth": "12.9",
-            "ML": "1.9",
-            "Location": "YAGMURPINARI YEDISU BINGOL"
         }
     ]
 }
