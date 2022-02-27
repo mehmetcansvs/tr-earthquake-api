@@ -1,6 +1,60 @@
 {
     "data": [
         {
+            "Date": "2022.02.27",
+            "Time": "03:12:56",
+            "Latitude": "36.9873",
+            "Longitude": "28.1883",
+            "Depth": "8.3",
+            "ML": "2.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "02:51:41",
+            "Latitude": "39.5745",
+            "Longitude": "41.1600",
+            "Depth": "11.7",
+            "ML": "2.3",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "02:38:32",
+            "Latitude": "39.5923",
+            "Longitude": "41.1225",
+            "Depth": "11.7",
+            "ML": "2.2",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "02:03:47",
+            "Latitude": "38.7800",
+            "Longitude": "26.5797",
+            "Depth": "9.6",
+            "ML": "3.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "02:01:04",
+            "Latitude": "38.3910",
+            "Longitude": "38.8033",
+            "Depth": "5.2",
+            "ML": "1.6",
+            "Location": "KOZLUK KALE MALATYA"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "01:12:34",
+            "Latitude": "40.8017",
+            "Longitude": "28.8695",
+            "Depth": "6.8",
+            "ML": "2.1",
+            "Location": "MARMARA DENIZI"
+        },
+        {
             "Date": "2022.02.26",
             "Time": "23:04:06",
             "Latitude": "36.7693",
@@ -4373,51 +4427,6 @@
             "Depth": "9.5",
             "ML": "1.5",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "13:04:23",
-            "Latitude": "39.2982",
-            "Longitude": "25.8570",
-            "Depth": "6.2",
-            "ML": "1.9",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "13:03:48",
-            "Latitude": "36.1798",
-            "Longitude": "33.7897",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "AKDERE SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "12:51:36",
-            "Latitude": "40.8358",
-            "Longitude": "30.9728",
-            "Depth": "23.9",
-            "ML": "1.3",
-            "Location": "ELMACIK GUMUSOVA DUZCE"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "12:31:05",
-            "Latitude": "38.1790",
-            "Longitude": "26.5652",
-            "Depth": "3.0",
-            "ML": "1.8",
-            "Location": "ZEYTINELI URLA IZMIR"
-        },
-        {
-            "Date": "2022.02.16",
-            "Time": "12:28:52",
-            "Latitude": "38.1843",
-            "Longitude": "26.5645",
-            "Depth": "6.1",
-            "ML": "2.9",
-            "Location": "ZEYTINELI URLA IZMIR REVIZE ORHANGAZI ISKENDERUN HATAY"
         }
     ]
 }
