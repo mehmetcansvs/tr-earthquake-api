@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.02.27",
+            "Time": "12:32:41",
+            "Latitude": "40.6203",
+            "Longitude": "29.5685",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "IHSANIYE KARAMURSEL KOCAELI"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "12:30:42",
+            "Latitude": "38.3588",
+            "Longitude": "38.8972",
+            "Depth": "2.3",
+            "ML": "2.8",
+            "Location": "KARAHUSEYIN KALE MALATYA"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "12:22:11",
+            "Latitude": "39.5677",
+            "Longitude": "41.1693",
+            "Depth": "8.8",
+            "ML": "1.6",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "11:53:26",
+            "Latitude": "40.7515",
+            "Longitude": "32.6772",
+            "Depth": "5.4",
+            "ML": "1.6",
+            "Location": "YUMAKLI CERKES CANKIRI"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "11:31:11",
+            "Latitude": "35.1358",
+            "Longitude": "25.2720",
+            "Depth": "5.1",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "11:18:48",
+            "Latitude": "39.2912",
+            "Longitude": "29.2458",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "IGDEKOY EMET KUTAHYA"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "11:16:47",
+            "Latitude": "39.7247",
+            "Longitude": "41.3535",
+            "Depth": "1.9",
+            "ML": "1.3",
+            "Location": "GECITKOY TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
             "Time": "10:49:24",
             "Latitude": "37.2517",
             "Longitude": "35.9205",
@@ -4373,69 +4436,6 @@
             "Depth": "22.6",
             "ML": "1.9",
             "Location": "BEYDALI ELAZIG"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "16:23:10",
-            "Latitude": "39.4183",
-            "Longitude": "41.2195",
-            "Depth": "3.4",
-            "ML": "1.4",
-            "Location": "YUVAKLI TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "16:13:09",
-            "Latitude": "38.8172",
-            "Longitude": "38.4187",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "MESELI ARAPGIR MALATYA"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "15:58:32",
-            "Latitude": "36.5225",
-            "Longitude": "36.8680",
-            "Depth": "22.0",
-            "ML": "1.9",
-            "Location": "SURIYE"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "15:30:17",
-            "Latitude": "37.7463",
-            "Longitude": "38.4150",
-            "Depth": "9.9",
-            "ML": "2.2",
-            "Location": "KUSTEPE ADIYAMAN"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "14:52:53",
-            "Latitude": "36.5113",
-            "Longitude": "28.8137",
-            "Depth": "7.7",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "14:42:31",
-            "Latitude": "40.4153",
-            "Longitude": "28.4672",
-            "Depth": "5.5",
-            "ML": "2.2",
-            "Location": "BOGAZ KARACABEY BURSA"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "13:53:35",
-            "Latitude": "38.4993",
-            "Longitude": "31.3820",
-            "Depth": "6.5",
-            "ML": "1.4",
-            "Location": "GOLCAYIR AKSEHIR KONYA"
         }
     ]
 }
