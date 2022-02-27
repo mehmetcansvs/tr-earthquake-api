@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.27",
+            "Time": "10:49:24",
+            "Latitude": "37.2517",
+            "Longitude": "35.9205",
+            "Depth": "9.1",
+            "ML": "1.9",
+            "Location": "TOZLU KADIRLI OSMANIYE"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "09:25:51",
+            "Latitude": "39.7120",
+            "Longitude": "41.2963",
+            "Depth": "8.7",
+            "ML": "1.5",
+            "Location": "YALINCA TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "09:14:14",
+            "Latitude": "39.5808",
+            "Longitude": "41.1305",
+            "Depth": "17.7",
+            "ML": "2.0",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.27",
             "Time": "09:09:44",
             "Latitude": "37.5788",
             "Longitude": "29.4465",
@@ -44,6 +71,15 @@
             "Depth": "5.5",
             "ML": "1.9",
             "Location": "YESILKOY TORBALI IZMIR"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "08:16:15",
+            "Latitude": "37.8128",
+            "Longitude": "25.7132",
+            "Depth": "28.4",
+            "ML": "2.1",
+            "Location": "ONIKI ADALAR AKDENIZ"
         },
         {
             "Date": "2022.02.27",
@@ -4400,33 +4436,6 @@
             "Depth": "6.5",
             "ML": "1.4",
             "Location": "GOLCAYIR AKSEHIR KONYA"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "13:14:39",
-            "Latitude": "37.0602",
-            "Longitude": "29.0295",
-            "Depth": "11.8",
-            "ML": "2.0",
-            "Location": "KARACAM KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "13:11:39",
-            "Latitude": "35.1167",
-            "Longitude": "23.8608",
-            "Depth": "8.4",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI AKDENIZ REVIZE TASLICA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "11:58:25",
-            "Latitude": "41.4990",
-            "Longitude": "44.1878",
-            "Depth": "1.5",
-            "ML": "2.3",
-            "Location": "GURCISTAN"
         }
     ]
 }
