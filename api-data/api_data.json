@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.02.27",
+            "Time": "19:59:17",
+            "Latitude": "40.5413",
+            "Longitude": "28.9155",
+            "Depth": "5.3",
+            "ML": "1.7",
+            "Location": "MECIDIYE ARMUTLU YALOVA"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "19:46:16",
+            "Latitude": "37.4797",
+            "Longitude": "38.0015",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "HACIHALIL BESNI ADIYAMAN"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "19:09:56",
+            "Latitude": "35.1405",
+            "Longitude": "23.8650",
+            "Depth": "19.0",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "18:52:15",
+            "Latitude": "41.1408",
+            "Longitude": "43.9547",
+            "Depth": "6.9",
+            "ML": "2.2",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "18:38:12",
+            "Latitude": "41.1553",
+            "Longitude": "43.9498",
+            "Depth": "4.0",
+            "ML": "2.4",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.02.27",
+            "Time": "18:17:46",
+            "Latitude": "36.2487",
+            "Longitude": "27.0247",
+            "Depth": "9.2",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.27",
             "Time": "16:31:06",
             "Latitude": "35.5758",
             "Longitude": "26.2997",
@@ -4391,60 +4445,6 @@
             "Depth": "12.9",
             "ML": "1.9",
             "Location": "YAGMURPINARI YEDISU BINGOL"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "23:58:39",
-            "Latitude": "34.7390",
-            "Longitude": "25.0837",
-            "Depth": "19.1",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "23:08:08",
-            "Latitude": "36.2345",
-            "Longitude": "27.0117",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "22:56:14",
-            "Latitude": "40.8803",
-            "Longitude": "26.2630",
-            "Depth": "10.8",
-            "ML": "1.5",
-            "Location": "PASAKOY IPSALA EDIRNE"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "22:25:58",
-            "Latitude": "38.4890",
-            "Longitude": "42.6032",
-            "Depth": "8.9",
-            "ML": "1.8",
-            "Location": "HARMANLI TATVAN BITLIS"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "21:26:52",
-            "Latitude": "41.1137",
-            "Longitude": "43.7178",
-            "Depth": "4.9",
-            "ML": "1.8",
-            "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2022.02.17",
-            "Time": "19:43:01",
-            "Latitude": "37.1785",
-            "Longitude": "30.3670",
-            "Depth": "92.0",
-            "ML": "1.4",
-            "Location": "CAYKENARI KORKUTELI ANTALYA"
         }
     ]
 }
