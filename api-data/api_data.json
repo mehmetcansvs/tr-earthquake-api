@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.02.28",
+            "Time": "06:51:52",
+            "Latitude": "39.3328",
+            "Longitude": "27.6590",
+            "Depth": "10.3",
+            "ML": "1.7",
+            "Location": "YAGCILI SOMA MANISA"
+        },
+        {
+            "Date": "2022.02.28",
             "Time": "04:51:26",
             "Latitude": "39.5690",
             "Longitude": "41.1647",
@@ -4445,15 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "GUNLUCE NIKSAR TOKAT"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "20:57:24",
-            "Latitude": "39.0555",
-            "Longitude": "33.3523",
-            "Depth": "2.9",
-            "ML": "2.8",
-            "Location": "BOZAN KULU KONYA"
         }
     ]
 }
