@@ -2,6 +2,123 @@
     "data": [
         {
             "Date": "2022.02.28",
+            "Time": "03:26:40",
+            "Latitude": "36.9915",
+            "Longitude": "30.4173",
+            "Depth": "3.9",
+            "ML": "3.1",
+            "Location": "SOGUTCUK KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "02:39:34",
+            "Latitude": "39.5757",
+            "Longitude": "41.1467",
+            "Depth": "14.6",
+            "ML": "1.8",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "02:29:46",
+            "Latitude": "39.5848",
+            "Longitude": "41.1340",
+            "Depth": "19.9",
+            "ML": "1.3",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "02:15:04",
+            "Latitude": "39.5862",
+            "Longitude": "41.1392",
+            "Depth": "9.9",
+            "ML": "1.8",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "02:13:30",
+            "Latitude": "37.0595",
+            "Longitude": "28.3965",
+            "Depth": "2.1",
+            "ML": "1.4",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "01:57:03",
+            "Latitude": "39.5800",
+            "Longitude": "41.1423",
+            "Depth": "13.4",
+            "ML": "1.1",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "01:55:27",
+            "Latitude": "39.9497",
+            "Longitude": "24.5870",
+            "Depth": "16.5",
+            "ML": "2.3",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "01:49:54",
+            "Latitude": "39.5918",
+            "Longitude": "41.1378",
+            "Depth": "16.0",
+            "ML": "1.6",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "01:48:20",
+            "Latitude": "39.5812",
+            "Longitude": "41.1113",
+            "Depth": "16.9",
+            "ML": "2.0",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "01:31:27",
+            "Latitude": "39.6058",
+            "Longitude": "41.2133",
+            "Depth": "10.2",
+            "ML": "1.3",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "01:27:20",
+            "Latitude": "39.5287",
+            "Longitude": "41.1680",
+            "Depth": "4.0",
+            "ML": "1.2",
+            "Location": "AKDAMAR TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "01:25:53",
+            "Latitude": "39.5567",
+            "Longitude": "41.2532",
+            "Depth": "8.1",
+            "ML": "1.5",
+            "Location": "GOKOGLAN TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "01:19:12",
+            "Latitude": "37.0327",
+            "Longitude": "28.4078",
+            "Depth": "10.8",
+            "ML": "1.4",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.02.28",
             "Time": "00:57:40",
             "Latitude": "39.5763",
             "Longitude": "41.1303",
@@ -4337,123 +4454,6 @@
             "Depth": "21.1",
             "ML": "2.0",
             "Location": "YOKUSLU YOMRA TRABZON"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "14:17:42",
-            "Latitude": "37.9242",
-            "Longitude": "27.1868",
-            "Depth": "14.2",
-            "ML": "1.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "13:04:06",
-            "Latitude": "37.8203",
-            "Longitude": "26.8275",
-            "Depth": "17.2",
-            "ML": "1.4",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "12:59:28",
-            "Latitude": "38.4758",
-            "Longitude": "29.1727",
-            "Depth": "21.1",
-            "ML": "1.4",
-            "Location": "GUMUSKOL ULUBEY USAK"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "12:56:26",
-            "Latitude": "38.4670",
-            "Longitude": "29.1453",
-            "Depth": "17.9",
-            "ML": "1.3",
-            "Location": "GUMUSKOL ULUBEY USAK"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "12:02:06",
-            "Latitude": "40.6847",
-            "Longitude": "39.6277",
-            "Depth": "26.5",
-            "ML": "1.6",
-            "Location": "ALTINDERE MACKA TRABZON"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "11:56:19",
-            "Latitude": "36.2127",
-            "Longitude": "33.5458",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "TEPE GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "11:18:23",
-            "Latitude": "37.5735",
-            "Longitude": "27.4715",
-            "Depth": "17.6",
-            "ML": "1.2",
-            "Location": "YESILKOY SOKE AYDIN"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "11:10:14",
-            "Latitude": "39.0163",
-            "Longitude": "26.8155",
-            "Depth": "20.2",
-            "ML": "1.9",
-            "Location": "BADEMLI DIKILI IZMIR"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "10:47:52",
-            "Latitude": "36.5838",
-            "Longitude": "25.5278",
-            "Depth": "2.2",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "10:42:01",
-            "Latitude": "36.7907",
-            "Longitude": "34.2275",
-            "Depth": "6.3",
-            "ML": "1.9",
-            "Location": "CAMLI ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "10:37:12",
-            "Latitude": "37.7177",
-            "Longitude": "29.3405",
-            "Depth": "2.8",
-            "ML": "1.4",
-            "Location": "AYDINLAR HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "10:15:13",
-            "Latitude": "35.2095",
-            "Longitude": "25.2575",
-            "Depth": "1.4",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "09:54:45",
-            "Latitude": "38.0708",
-            "Longitude": "37.7780",
-            "Depth": "9.4",
-            "ML": "1.7",
-            "Location": "SOGUT DOGANSEHIR MALATYA"
         }
     ]
 }
