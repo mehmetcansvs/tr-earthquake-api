@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.02.28",
+            "Time": "20:40:43",
+            "Latitude": "37.3540",
+            "Longitude": "34.2537",
+            "Depth": "5.4",
+            "ML": "2.3",
+            "Location": "KAYASARAY HALKAPINAR KONYA"
+        },
+        {
+            "Date": "2022.02.28",
             "Time": "18:30:08",
             "Latitude": "38.8035",
             "Longitude": "36.4975",
             "Depth": "5.0",
             "ML": "3.3",
             "Location": "HALITBEYOREN PINARBASI KAYSERI"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "18:29:39",
+            "Latitude": "37.7997",
+            "Longitude": "26.7080",
+            "Depth": "8.2",
+            "ML": "2.3",
+            "Location": "SISAM ADASI EGE DENIZI"
         },
         {
             "Date": "2022.02.28",
@@ -20,12 +38,30 @@
         },
         {
             "Date": "2022.02.28",
+            "Time": "17:51:58",
+            "Latitude": "39.4742",
+            "Longitude": "30.4443",
+            "Depth": "5.3",
+            "ML": "1.6",
+            "Location": "KAYACIK ODUNPAZARI ESKISEHIR"
+        },
+        {
+            "Date": "2022.02.28",
             "Time": "17:45:36",
             "Latitude": "41.1252",
             "Longitude": "40.8070",
             "Depth": "10.0",
             "ML": "1.6",
             "Location": "KUZAYCA PAZAR RIZE"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "17:12:52",
+            "Latitude": "35.2112",
+            "Longitude": "26.8783",
+            "Depth": "2.4",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.02.28",
@@ -4409,42 +4445,6 @@
             "Depth": "23.5",
             "ML": "1.6",
             "Location": "KARABACAK DARENDE MALATYA"
-        },
-        {
-            "Date": "2022.02.19",
-            "Time": "14:44:18",
-            "Latitude": "40.0450",
-            "Longitude": "26.9495",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "KARLI CAN CANAKKALE"
-        },
-        {
-            "Date": "2022.02.19",
-            "Time": "14:38:35",
-            "Latitude": "39.0112",
-            "Longitude": "41.6823",
-            "Depth": "11.3",
-            "ML": "1.3",
-            "Location": "MESCITLI MUS"
-        },
-        {
-            "Date": "2022.02.19",
-            "Time": "14:32:20",
-            "Latitude": "39.2517",
-            "Longitude": "36.8432",
-            "Depth": "19.1",
-            "ML": "1.4",
-            "Location": "MUTUBEY ALTINYAYLA SIVAS"
-        },
-        {
-            "Date": "2022.02.19",
-            "Time": "14:03:52",
-            "Latitude": "41.1435",
-            "Longitude": "43.7778",
-            "Depth": "1.1",
-            "ML": "1.7",
-            "Location": "GURCISTAN"
         }
     ]
 }
