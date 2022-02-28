@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.28",
+            "Time": "22:11:03",
+            "Latitude": "35.2627",
+            "Longitude": "32.3648",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "21:30:35",
+            "Latitude": "36.3880",
+            "Longitude": "29.2580",
+            "Depth": "17.4",
+            "ML": "1.9",
+            "Location": "GOLBENT FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "21:25:07",
+            "Latitude": "39.6337",
+            "Longitude": "41.4367",
+            "Depth": "8.1",
+            "ML": "1.0",
+            "Location": "ERENCE TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
             "Time": "20:40:43",
             "Latitude": "37.3540",
             "Longitude": "34.2537",
@@ -4418,33 +4445,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "GEDELEK ORHANGAZI BURSA"
-        },
-        {
-            "Date": "2022.02.19",
-            "Time": "15:40:22",
-            "Latitude": "38.9192",
-            "Longitude": "25.9463",
-            "Depth": "19.8",
-            "ML": "1.8",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.19",
-            "Time": "15:29:43",
-            "Latitude": "40.6602",
-            "Longitude": "29.1148",
-            "Depth": "6.1",
-            "ML": "1.8",
-            "Location": "CINARCIK YALOVA"
-        },
-        {
-            "Date": "2022.02.19",
-            "Time": "15:18:15",
-            "Latitude": "38.6593",
-            "Longitude": "37.5962",
-            "Depth": "23.5",
-            "ML": "1.6",
-            "Location": "KARABACAK DARENDE MALATYA"
         }
     ]
 }
