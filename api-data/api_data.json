@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.02.28",
+            "Time": "04:51:26",
+            "Latitude": "39.5690",
+            "Longitude": "41.1647",
+            "Depth": "18.3",
+            "ML": "1.4",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "04:33:54",
+            "Latitude": "39.5647",
+            "Longitude": "41.1725",
+            "Depth": "15.3",
+            "ML": "1.4",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "04:27:34",
+            "Latitude": "39.5325",
+            "Longitude": "41.1958",
+            "Depth": "6.6",
+            "ML": "1.3",
+            "Location": "ALABAYIR TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "04:20:41",
+            "Latitude": "39.1163",
+            "Longitude": "40.3898",
+            "Depth": "9.2",
+            "ML": "1.5",
+            "Location": "SANCAK BINGOL"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "03:58:46",
+            "Latitude": "39.5820",
+            "Longitude": "41.0695",
+            "Depth": "14.4",
+            "ML": "1.1",
+            "Location": "BUDAKLAR CAT ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "03:55:49",
+            "Latitude": "39.6023",
+            "Longitude": "41.1640",
+            "Depth": "18.1",
+            "ML": "1.1",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "03:54:48",
+            "Latitude": "39.5757",
+            "Longitude": "41.1712",
+            "Depth": "24.3",
+            "ML": "1.1",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
             "Time": "03:26:40",
             "Latitude": "36.9915",
             "Longitude": "30.4173",
@@ -4391,69 +4454,6 @@
             "Depth": "2.9",
             "ML": "2.8",
             "Location": "BOZAN KULU KONYA"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "19:46:46",
-            "Latitude": "38.8550",
-            "Longitude": "43.3177",
-            "Depth": "15.6",
-            "ML": "2.6",
-            "Location": "HALKALI VAN"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "15:59:50",
-            "Latitude": "38.5610",
-            "Longitude": "42.2152",
-            "Depth": "12.8",
-            "ML": "1.3",
-            "Location": "BENEKLI TATVAN BITLIS"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "15:30:38",
-            "Latitude": "40.4022",
-            "Longitude": "28.4482",
-            "Depth": "6.8",
-            "ML": "1.9",
-            "Location": "BOGAZ KARACABEY BURSA"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "15:12:28",
-            "Latitude": "35.8073",
-            "Longitude": "30.3400",
-            "Depth": "10.8",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "15:04:07",
-            "Latitude": "36.0033",
-            "Longitude": "29.7473",
-            "Depth": "9.7",
-            "ML": "2.0",
-            "Location": "KAS ACIKLARI ANTALYA AKDENIZ"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "15:01:31",
-            "Latitude": "39.4672",
-            "Longitude": "26.3465",
-            "Depth": "8.1",
-            "ML": "2.0",
-            "Location": "EDREMIT KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "14:45:36",
-            "Latitude": "40.9337",
-            "Longitude": "39.8743",
-            "Depth": "21.1",
-            "ML": "2.0",
-            "Location": "YOKUSLU YOMRA TRABZON"
         }
     ]
 }
