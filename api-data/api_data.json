@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.02.28",
+            "Time": "10:37:02",
+            "Latitude": "37.2353",
+            "Longitude": "37.3663",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "DUNDARLI SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "10:30:23",
+            "Latitude": "39.3888",
+            "Longitude": "25.5123",
+            "Depth": "2.5",
+            "ML": "3.6",
+            "Location": "EGE DENIZI REVIZE TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.02.28",
+            "Time": "09:48:49",
+            "Latitude": "39.1757",
+            "Longitude": "26.0352",
+            "Depth": "6.3",
+            "ML": "1.8",
+            "Location": "MIDILLI ADASI EGE DENIZI REVIZE AKDENIZ"
+        },
+        {
+            "Date": "2022.02.28",
             "Time": "08:11:40",
             "Latitude": "35.5957",
             "Longitude": "26.2710",
@@ -4409,51 +4436,6 @@
             "Depth": "10.7",
             "ML": "1.7",
             "Location": "KORU CINARCIK YALOVA"
-        },
-        {
-            "Date": "2022.02.19",
-            "Time": "02:15:04",
-            "Latitude": "37.7600",
-            "Longitude": "29.4198",
-            "Depth": "12.2",
-            "ML": "1.8",
-            "Location": "AKBAS HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.02.19",
-            "Time": "00:49:22",
-            "Latitude": "37.0445",
-            "Longitude": "28.3720",
-            "Depth": "2.8",
-            "ML": "1.4",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.19",
-            "Time": "00:39:25",
-            "Latitude": "38.5053",
-            "Longitude": "26.7232",
-            "Depth": "3.2",
-            "ML": "1.8",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.19",
-            "Time": "00:27:46",
-            "Latitude": "38.4968",
-            "Longitude": "26.7058",
-            "Depth": "7.1",
-            "ML": "2.6",
-            "Location": "MORDOGAN KARABURUN IZMIR"
-        },
-        {
-            "Date": "2022.02.18",
-            "Time": "23:52:09",
-            "Latitude": "37.9365",
-            "Longitude": "35.0330",
-            "Depth": "12.7",
-            "ML": "1.7",
-            "Location": "EYNELLI CAMARDI NIGDE"
         }
     ]
 }
