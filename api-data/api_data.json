@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.01",
+            "Time": "14:02:06",
+            "Latitude": "39.1210",
+            "Longitude": "41.9333",
+            "Depth": "7.4",
+            "ML": "2.2",
+            "Location": "KOYUNAGILI BULANIK MUS"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "13:50:31",
+            "Latitude": "39.8492",
+            "Longitude": "33.2247",
+            "Depth": "27.7",
+            "ML": "1.3",
+            "Location": "KARACAHASAN ELMADAG ANKARA"
+        },
+        {
+            "Date": "2022.03.01",
             "Time": "12:54:58",
             "Latitude": "35.8573",
             "Longitude": "29.6315",
@@ -4426,24 +4444,6 @@
             "Longitude": "26.2933",
             "Depth": "4.0",
             "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "18:09:57",
-            "Latitude": "37.1190",
-            "Longitude": "38.6653",
-            "Depth": "0.0",
-            "ML": "2.2",
-            "Location": "KOCOREN SANLIURFA"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "18:05:44",
-            "Latitude": "35.5505",
-            "Longitude": "26.1915",
-            "Depth": "15.0",
-            "ML": "2.1",
             "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
