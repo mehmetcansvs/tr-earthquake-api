@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.03.02",
+            "Time": "00:34:07",
+            "Latitude": "35.9788",
+            "Longitude": "24.3547",
+            "Depth": "13.0",
+            "ML": "3.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "23:56:05",
+            "Latitude": "35.1375",
+            "Longitude": "25.2222",
+            "Depth": "18.9",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "23:34:25",
+            "Latitude": "35.2467",
+            "Longitude": "25.2352",
+            "Depth": "21.4",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "22:04:04",
+            "Latitude": "34.6038",
+            "Longitude": "25.9138",
+            "Depth": "85.5",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
             "Date": "2022.03.01",
             "Time": "22:01:29",
             "Latitude": "35.8333",
@@ -4399,42 +4435,6 @@
             "Longitude": "27.3950",
             "Depth": "13.6",
             "ML": "1.6",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "02:26:01",
-            "Latitude": "37.8068",
-            "Longitude": "26.8997",
-            "Depth": "12.1",
-            "ML": "2.0",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "02:22:29",
-            "Latitude": "40.7100",
-            "Longitude": "27.4030",
-            "Depth": "11.9",
-            "ML": "2.0",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "02:12:48",
-            "Latitude": "37.2680",
-            "Longitude": "29.8828",
-            "Depth": "10.2",
-            "ML": "1.7",
-            "Location": "HASANPASA TEFENNI BURDUR"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "01:45:38",
-            "Latitude": "40.7322",
-            "Longitude": "27.3968",
-            "Depth": "14.9",
-            "ML": "1.5",
             "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
         }
     ]
