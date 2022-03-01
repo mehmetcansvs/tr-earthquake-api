@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.01",
+            "Time": "07:12:05",
+            "Latitude": "38.1070",
+            "Longitude": "27.2058",
+            "Depth": "2.8",
+            "ML": "1.9",
+            "Location": "ATAKOY MENDERES IZMIR"
+        },
+        {
+            "Date": "2022.03.01",
             "Time": "05:29:35",
             "Latitude": "37.1097",
             "Longitude": "28.5910",
@@ -4436,15 +4445,6 @@
             "Depth": "1.1",
             "ML": "2.0",
             "Location": "KARAMUSTAFA CERKES CANKIRI"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "07:56:48",
-            "Latitude": "39.9915",
-            "Longitude": "24.3492",
-            "Depth": "13.4",
-            "ML": "2.4",
-            "Location": "YUNANISTAN"
         }
     ]
 }
