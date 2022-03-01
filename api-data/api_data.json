@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.01",
+            "Time": "05:29:35",
+            "Latitude": "37.1097",
+            "Longitude": "28.5910",
+            "Depth": "17.1",
+            "ML": "1.6",
+            "Location": "ARICILAR ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "05:24:55",
+            "Latitude": "38.4152",
+            "Longitude": "38.5665",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "SISMAN BATTALGAZI MALATYA"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "04:09:13",
+            "Latitude": "37.9358",
+            "Longitude": "26.9765",
+            "Depth": "6.5",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.01",
             "Time": "03:39:06",
             "Latitude": "40.7287",
             "Longitude": "31.5165",
@@ -4418,33 +4445,6 @@
             "Depth": "13.4",
             "ML": "2.4",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "07:22:02",
-            "Latitude": "35.2325",
-            "Longitude": "26.5068",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "04:21:21",
-            "Latitude": "36.9517",
-            "Longitude": "28.2870",
-            "Depth": "5.0",
-            "ML": "1.0",
-            "Location": "CAMLI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "04:18:20",
-            "Latitude": "37.9268",
-            "Longitude": "26.9627",
-            "Depth": "3.7",
-            "ML": "2.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
