@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.01",
+            "Time": "16:27:05",
+            "Latitude": "36.8257",
+            "Longitude": "27.9770",
+            "Depth": "65.8",
+            "ML": "2.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "16:25:39",
+            "Latitude": "37.9702",
+            "Longitude": "29.0127",
+            "Depth": "12.3",
+            "ML": "1.8",
+            "Location": "ADAKOY SARAYKOY DENIZLI REVIZE KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "15:40:12",
+            "Latitude": "36.1000",
+            "Longitude": "33.5182",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "15:38:18",
+            "Latitude": "37.0962",
+            "Longitude": "27.3417",
+            "Depth": "2.5",
+            "ML": "1.4",
+            "Location": "DAGBELEN BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.03.01",
             "Time": "14:02:06",
             "Latitude": "39.1210",
             "Longitude": "41.9333",
@@ -4400,51 +4436,6 @@
             "Depth": "9.5",
             "ML": "3.9",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "21:16:13",
-            "Latitude": "37.8553",
-            "Longitude": "28.4932",
-            "Depth": "17.7",
-            "ML": "1.4",
-            "Location": "KARAPINAR KUYUCAK AYDIN"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "21:04:24",
-            "Latitude": "39.4425",
-            "Longitude": "37.3472",
-            "Depth": "7.8",
-            "ML": "2.1",
-            "Location": "KERTMEKARACAOREN ULAS SIVAS"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "20:49:50",
-            "Latitude": "37.5730",
-            "Longitude": "29.5605",
-            "Depth": "4.5",
-            "ML": "1.5",
-            "Location": "DUDEN YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "19:38:35",
-            "Latitude": "36.4452",
-            "Longitude": "28.9412",
-            "Depth": "18.5",
-            "ML": "1.9",
-            "Location": "OLUDENIZ ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "18:35:35",
-            "Latitude": "35.5730",
-            "Longitude": "26.2933",
-            "Depth": "4.0",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
