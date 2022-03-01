@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.01",
+            "Time": "22:01:29",
+            "Latitude": "35.8333",
+            "Longitude": "23.2753",
+            "Depth": "6.8",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "21:42:31",
+            "Latitude": "35.1970",
+            "Longitude": "26.9123",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "21:37:39",
+            "Latitude": "40.2093",
+            "Longitude": "41.4378",
+            "Depth": "3.6",
+            "ML": "1.1",
+            "Location": "GUZELYAYLA YAKUTIYE ERZURUM"
+        },
+        {
+            "Date": "2022.03.01",
             "Time": "20:48:30",
             "Latitude": "36.3462",
             "Longitude": "29.6183",
@@ -17,6 +44,15 @@
             "Depth": "7.9",
             "ML": "2.0",
             "Location": "YAYLASOGUT ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "20:08:59",
+            "Latitude": "36.0790",
+            "Longitude": "26.9982",
+            "Depth": "22.6",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.03.01",
@@ -4399,42 +4435,6 @@
             "Longitude": "27.3968",
             "Depth": "14.9",
             "ML": "1.5",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "01:34:36",
-            "Latitude": "40.7168",
-            "Longitude": "27.4698",
-            "Depth": "2.9",
-            "ML": "1.9",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "01:33:37",
-            "Latitude": "40.7355",
-            "Longitude": "27.4085",
-            "Depth": "11.1",
-            "ML": "3.0",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "01:30:03",
-            "Latitude": "37.9123",
-            "Longitude": "29.2600",
-            "Depth": "13.7",
-            "ML": "1.5",
-            "Location": "BAKLANCAKIRLAR CAL DENIZLI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "00:00:34",
-            "Latitude": "40.7340",
-            "Longitude": "27.3933",
-            "Depth": "14.8",
-            "ML": "1.1",
             "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
         }
     ]
