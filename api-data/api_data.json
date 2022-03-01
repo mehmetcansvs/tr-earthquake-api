@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.01",
+            "Time": "08:18:52",
+            "Latitude": "39.6597",
+            "Longitude": "35.4033",
+            "Depth": "5.8",
+            "ML": "1.6",
+            "Location": "KARACALAR SARIKAYA YOZGAT"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "08:15:04",
+            "Latitude": "39.6000",
+            "Longitude": "35.4770",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "KARAELLI SARIKAYA YOZGAT"
+        },
+        {
+            "Date": "2022.03.01",
             "Time": "07:12:05",
             "Latitude": "38.1070",
             "Longitude": "27.2058",
@@ -65,6 +83,15 @@
         },
         {
             "Date": "2022.03.01",
+            "Time": "02:23:57",
+            "Latitude": "35.0893",
+            "Longitude": "26.7903",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.01",
             "Time": "02:01:28",
             "Latitude": "39.2987",
             "Longitude": "41.4427",
@@ -80,6 +107,24 @@
             "Depth": "12.3",
             "ML": "2.4",
             "Location": "BALCILAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "01:33:05",
+            "Latitude": "35.0058",
+            "Longitude": "26.6633",
+            "Depth": "31.0",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "01:11:05",
+            "Latitude": "40.7345",
+            "Longitude": "31.5392",
+            "Depth": "22.6",
+            "ML": "1.4",
+            "Location": "KARAKOY BOLU"
         },
         {
             "Date": "2022.03.01",
@@ -134,6 +179,15 @@
             "Depth": "13.1",
             "ML": "1.6",
             "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "00:41:53",
+            "Latitude": "40.5953",
+            "Longitude": "36.8377",
+            "Depth": "4.9",
+            "ML": "0.9",
+            "Location": "SARIYAZI NIKSAR TOKAT"
         },
         {
             "Date": "2022.03.01",
@@ -4400,51 +4454,6 @@
             "Depth": "26.2",
             "ML": "1.6",
             "Location": "YUKARIHANBEYI TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "10:34:07",
-            "Latitude": "36.1932",
-            "Longitude": "27.0403",
-            "Depth": "7.8",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "10:32:54",
-            "Latitude": "38.4858",
-            "Longitude": "39.2887",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "BEKCITEPE SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "09:26:22",
-            "Latitude": "38.4617",
-            "Longitude": "39.3142",
-            "Depth": "11.6",
-            "ML": "3.0",
-            "Location": "SIVRICE ELAZIG REVIZE DODURGA FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "08:50:00",
-            "Latitude": "38.6472",
-            "Longitude": "43.1540",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "MOLLAKASIM VAN"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "08:09:20",
-            "Latitude": "40.7930",
-            "Longitude": "32.9617",
-            "Depth": "1.1",
-            "ML": "2.0",
-            "Location": "KARAMUSTAFA CERKES CANKIRI"
         }
     ]
 }
