@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.03.01",
+            "Time": "12:54:58",
+            "Latitude": "35.8573",
+            "Longitude": "29.6315",
+            "Depth": "62.7",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "12:46:02",
+            "Latitude": "39.0187",
+            "Longitude": "29.7903",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "SARAYCIK ALTINTAS KUTAHYA REVIZE GURLEYIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "11:57:34",
+            "Latitude": "36.6392",
+            "Longitude": "36.3228",
+            "Depth": "19.6",
+            "ML": "1.7",
+            "Location": "KALEDIBI ISKENDERUN HATAY"
+        },
+        {
+            "Date": "2022.03.01",
             "Time": "11:11:37",
             "Latitude": "36.4247",
             "Longitude": "27.1492",
             "Depth": "6.8",
             "ML": "1.9",
             "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "11:11:27",
+            "Latitude": "39.2863",
+            "Longitude": "40.7487",
+            "Depth": "9.4",
+            "ML": "1.7",
+            "Location": "KARLICA KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.03.01",
+            "Time": "10:57:03",
+            "Latitude": "37.5010",
+            "Longitude": "38.0395",
+            "Depth": "10.8",
+            "ML": "1.5",
+            "Location": "YENIKOY BESNI ADIYAMAN"
         },
         {
             "Date": "2022.03.01",
@@ -4400,60 +4445,6 @@
             "Depth": "15.0",
             "ML": "2.1",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "17:58:43",
-            "Latitude": "40.8005",
-            "Longitude": "31.5197",
-            "Depth": "7.2",
-            "ML": "1.9",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "16:12:04",
-            "Latitude": "35.9998",
-            "Longitude": "29.0753",
-            "Depth": "15.3",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "16:07:01",
-            "Latitude": "37.8872",
-            "Longitude": "25.2762",
-            "Depth": "11.5",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "16:02:21",
-            "Latitude": "35.9913",
-            "Longitude": "29.0525",
-            "Depth": "11.7",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "15:58:06",
-            "Latitude": "35.9382",
-            "Longitude": "28.9968",
-            "Depth": "13.4",
-            "ML": "1.4",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.20",
-            "Time": "15:02:46",
-            "Latitude": "37.0567",
-            "Longitude": "28.3913",
-            "Depth": "6.6",
-            "ML": "1.8",
-            "Location": "ATAKOY ULA MUGLA"
         }
     ]
 }
