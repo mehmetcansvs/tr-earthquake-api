@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.03.02",
-            "Time": "11:17:35",
-            "Latitude": "37.6783",
-            "Longitude": "29.1865",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "KARATAS DENIZLI"
+            "Time": "12:42:11",
+            "Latitude": "38.9940",
+            "Longitude": "35.8208",
+            "Depth": "5.8",
+            "ML": "3.1",
+            "Location": "OMURLU SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "12:38:38",
+            "Latitude": "38.9953",
+            "Longitude": "35.8488",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "PALAS SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "12:32:14",
+            "Latitude": "38.9962",
+            "Longitude": "35.8458",
+            "Depth": "5.3",
+            "ML": "1.5",
+            "Location": "PALAS SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "12:31:05",
+            "Latitude": "38.9845",
+            "Longitude": "35.8435",
+            "Depth": "3.7",
+            "ML": "1.5",
+            "Location": "BUYUKTUZHISAR BUNYAN KAYSERI"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "11:38:05",
+            "Latitude": "38.8915",
+            "Longitude": "35.9508",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "KOSEHACILI BUNYAN KAYSERI REVIZE KARATAS DENIZLI"
         },
         {
             "Date": "2022.03.02",
@@ -47,6 +83,15 @@
         },
         {
             "Date": "2022.03.02",
+            "Time": "08:57:39",
+            "Latitude": "39.6392",
+            "Longitude": "28.4907",
+            "Depth": "2.1",
+            "ML": "1.6",
+            "Location": "VELILER DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.03.02",
             "Time": "08:57:07",
             "Latitude": "37.0352",
             "Longitude": "28.3518",
@@ -71,6 +116,15 @@
             "Depth": "4.8",
             "ML": "0.9",
             "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "08:25:26",
+            "Latitude": "39.2587",
+            "Longitude": "26.2037",
+            "Depth": "5.2",
+            "ML": "2.1",
+            "Location": "MIDILLI ADASI EGE DENIZI"
         },
         {
             "Date": "2022.03.02",
@@ -4382,60 +4436,6 @@
             "Depth": "9.3",
             "ML": "2.5",
             "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "15:41:34",
-            "Latitude": "40.7512",
-            "Longitude": "43.7148",
-            "Depth": "27.0",
-            "ML": "1.8",
-            "Location": "ESENYAYLA AKYAKA KARS"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "15:17:21",
-            "Latitude": "41.1612",
-            "Longitude": "43.8858",
-            "Depth": "8.2",
-            "ML": "2.7",
-            "Location": "GURCISTAN REVIZE YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "14:33:20",
-            "Latitude": "37.6703",
-            "Longitude": "25.9907",
-            "Depth": "8.8",
-            "ML": "2.5",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "14:10:56",
-            "Latitude": "36.1485",
-            "Longitude": "33.5173",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "13:08:16",
-            "Latitude": "39.7873",
-            "Longitude": "41.9487",
-            "Depth": "9.6",
-            "ML": "1.6",
-            "Location": "TOPCU KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "12:57:59",
-            "Latitude": "36.2533",
-            "Longitude": "33.7108",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "ISIKLI SILIFKE MERSIN"
         }
     ]
 }
