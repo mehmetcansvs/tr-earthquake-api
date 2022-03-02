@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.02",
+            "Time": "22:58:36",
+            "Latitude": "39.0172",
+            "Longitude": "35.8602",
+            "Depth": "8.3",
+            "ML": "1.6",
+            "Location": "PALAS SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.03.02",
             "Time": "20:46:24",
             "Latitude": "40.4542",
             "Longitude": "28.5170",
@@ -4427,15 +4436,6 @@
             "Depth": "8.2",
             "ML": "3.4",
             "Location": "DEREKOY KARGI CORUM REVIZE TASKOPRU SULTANDAGI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "03:13:24",
-            "Latitude": "40.5872",
-            "Longitude": "28.9047",
-            "Depth": "9.8",
-            "ML": "1.7",
-            "Location": "ESENKOY CINARCIK YALOVA"
         }
     ]
 }
