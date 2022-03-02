@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.02",
+            "Time": "05:12:14",
+            "Latitude": "41.5395",
+            "Longitude": "32.3955",
+            "Depth": "10.9",
+            "ML": "2.5",
+            "Location": "MEKECLER BARTIN"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "04:52:08",
+            "Latitude": "37.7655",
+            "Longitude": "27.2365",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "04:17:27",
+            "Latitude": "40.7312",
+            "Longitude": "27.4795",
+            "Depth": "19.2",
+            "ML": "2.0",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.02",
             "Time": "02:34:51",
             "Latitude": "39.9855",
             "Longitude": "24.1643",
@@ -4409,33 +4436,6 @@
             "Depth": "8.6",
             "ML": "1.9",
             "Location": "DUDEN YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "04:35:38",
-            "Latitude": "39.1683",
-            "Longitude": "40.2430",
-            "Depth": "28.1",
-            "ML": "1.2",
-            "Location": "KUSBAYIRI KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "04:34:29",
-            "Latitude": "39.0952",
-            "Longitude": "40.0882",
-            "Depth": "8.7",
-            "ML": "1.9",
-            "Location": "ALABAL KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "04:23:45",
-            "Latitude": "37.6807",
-            "Longitude": "30.4877",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "YESILBASKOY AGLASUN BURDUR"
         }
     ]
 }
