@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.03.02",
+            "Time": "20:46:24",
+            "Latitude": "40.4542",
+            "Longitude": "28.5170",
+            "Depth": "8.7",
+            "ML": "1.6",
+            "Location": "ESENCE ACIKLARI BURSA MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "20:35:47",
+            "Latitude": "40.3318",
+            "Longitude": "27.7570",
+            "Depth": "10.5",
+            "ML": "1.8",
+            "Location": "ERDEK KORFEZI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "20:33:29",
+            "Latitude": "38.5753",
+            "Longitude": "40.8188",
+            "Depth": "2.4",
+            "ML": "2.0",
+            "Location": "GULDIKEN LICE DIYARBAKIR"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "20:12:17",
+            "Latitude": "36.7402",
+            "Longitude": "28.1318",
+            "Depth": "10.4",
+            "ML": "1.2",
+            "Location": "TURGUTKOY MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "20:04:18",
+            "Latitude": "35.4040",
+            "Longitude": "25.3388",
+            "Depth": "12.3",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "20:01:48",
+            "Latitude": "36.7360",
+            "Longitude": "28.1420",
+            "Depth": "8.9",
+            "ML": "1.6",
+            "Location": "ORHANIYE MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "19:57:47",
+            "Latitude": "35.1858",
+            "Longitude": "25.3012",
+            "Depth": "4.3",
+            "ML": "3.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "19:54:47",
+            "Latitude": "36.7827",
+            "Longitude": "28.1383",
+            "Depth": "10.3",
+            "ML": "1.4",
+            "Location": "HISARONU MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.03.02",
             "Time": "19:08:01",
             "Latitude": "37.8307",
             "Longitude": "26.5147",
@@ -4364,78 +4436,6 @@
             "Depth": "9.8",
             "ML": "1.7",
             "Location": "ESENKOY CINARCIK YALOVA"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "02:58:16",
-            "Latitude": "40.7708",
-            "Longitude": "27.6703",
-            "Depth": "2.9",
-            "ML": "2.1",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "00:58:39",
-            "Latitude": "37.0915",
-            "Longitude": "28.3883",
-            "Depth": "9.2",
-            "ML": "2.1",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "00:29:09",
-            "Latitude": "37.8430",
-            "Longitude": "27.0920",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "22:05:29",
-            "Latitude": "38.9655",
-            "Longitude": "40.8525",
-            "Depth": "18.5",
-            "ML": "1.8",
-            "Location": "HAZARSAH SOLHAN BINGOL"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "21:57:22",
-            "Latitude": "36.8745",
-            "Longitude": "28.2208",
-            "Depth": "59.4",
-            "ML": "2.8",
-            "Location": "YESILBELDE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "21:22:30",
-            "Latitude": "41.7235",
-            "Longitude": "41.8240",
-            "Depth": "4.4",
-            "ML": "3.3",
-            "Location": "TURKIYE GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "20:44:36",
-            "Latitude": "37.8422",
-            "Longitude": "26.9517",
-            "Depth": "10.6",
-            "ML": "2.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "20:37:37",
-            "Latitude": "41.1047",
-            "Longitude": "43.8458",
-            "Depth": "7.7",
-            "ML": "1.7",
-            "Location": "ERMENISTAN"
         }
     ]
 }
