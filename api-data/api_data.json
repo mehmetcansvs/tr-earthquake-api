@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.03.03",
+            "Time": "00:52:09",
+            "Latitude": "37.0618",
+            "Longitude": "28.3752",
+            "Depth": "4.5",
+            "ML": "1.6",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "00:28:51",
+            "Latitude": "39.1395",
+            "Longitude": "28.3070",
+            "Depth": "9.3",
+            "ML": "1.7",
+            "Location": "YUREGIL SINDIRGI BALIKESIR"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "00:01:13",
+            "Latitude": "34.4933",
+            "Longitude": "23.8968",
+            "Depth": "17.2",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "23:04:53",
+            "Latitude": "40.6378",
+            "Longitude": "27.7898",
+            "Depth": "11.5",
+            "ML": "2.3",
+            "Location": "ASMALI MARMARA BALIKESIR MARNARA DENIZI"
+        },
+        {
             "Date": "2022.03.02",
             "Time": "22:58:36",
             "Latitude": "39.0172",
@@ -8,6 +44,15 @@
             "Depth": "8.3",
             "ML": "1.6",
             "Location": "PALAS SARIOGLAN KAYSERI"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "22:55:58",
+            "Latitude": "43.4797",
+            "Longitude": "39.4380",
+            "Depth": "3.7",
+            "ML": "3.3",
+            "Location": "GURCISTAN ACIKLARI KARADENIZ"
         },
         {
             "Date": "2022.03.02",
@@ -4400,42 +4445,6 @@
             "Depth": "4.4",
             "ML": "1.3",
             "Location": "TASLICAY KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "07:13:54",
-            "Latitude": "39.5813",
-            "Longitude": "28.8133",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "AYVACIK DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "07:02:14",
-            "Latitude": "37.3383",
-            "Longitude": "28.0072",
-            "Depth": "17.0",
-            "ML": "2.3",
-            "Location": "YESILBAGCILAR YATAGAN MUGLA"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "05:47:52",
-            "Latitude": "40.7230",
-            "Longitude": "27.4120",
-            "Depth": "11.7",
-            "ML": "1.8",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "05:31:26",
-            "Latitude": "41.1525",
-            "Longitude": "34.4027",
-            "Depth": "8.2",
-            "ML": "3.4",
-            "Location": "DEREKOY KARGI CORUM REVIZE TASKOPRU SULTANDAGI AFYONKARAHISAR"
         }
     ]
 }
