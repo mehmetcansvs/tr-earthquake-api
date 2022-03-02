@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.02",
+            "Time": "06:45:42",
+            "Latitude": "36.6785",
+            "Longitude": "33.6098",
+            "Depth": "27.5",
+            "ML": "1.9",
+            "Location": "CUKURBAG MUT MERSIN"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "06:28:10",
+            "Latitude": "35.8737",
+            "Longitude": "28.6982",
+            "Depth": "10.9",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "05:40:12",
+            "Latitude": "39.6750",
+            "Longitude": "28.5427",
+            "Depth": "6.7",
+            "ML": "3.4",
+            "Location": "UMURLAR DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.03.02",
             "Time": "05:12:14",
             "Latitude": "41.5395",
             "Longitude": "32.3955",
@@ -4409,33 +4436,6 @@
             "Depth": "3.8",
             "ML": "2.0",
             "Location": "ORHANIYE OSMANIYE"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "04:59:13",
-            "Latitude": "40.7337",
-            "Longitude": "27.4030",
-            "Depth": "11.2",
-            "ML": "2.4",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "04:50:02",
-            "Latitude": "37.8453",
-            "Longitude": "27.0028",
-            "Depth": "16.7",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "04:47:35",
-            "Latitude": "37.5602",
-            "Longitude": "29.5533",
-            "Depth": "8.6",
-            "ML": "1.9",
-            "Location": "DUDEN YESILOVA BURDUR"
         }
     ]
 }
