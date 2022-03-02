@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.02",
+            "Time": "15:26:57",
+            "Latitude": "39.9995",
+            "Longitude": "24.1330",
+            "Depth": "24.3",
+            "ML": "3.6",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.03.02",
             "Time": "14:21:26",
             "Latitude": "36.5135",
             "Longitude": "27.2688",
@@ -4427,15 +4436,6 @@
             "Depth": "8.0",
             "ML": "1.9",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "17:40:26",
-            "Latitude": "36.0207",
-            "Longitude": "27.4942",
-            "Depth": "9.1",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
