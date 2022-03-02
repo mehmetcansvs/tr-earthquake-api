@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.02",
+            "Time": "19:08:01",
+            "Latitude": "37.8307",
+            "Longitude": "26.5147",
+            "Depth": "8.0",
+            "ML": "2.9",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "18:09:31",
+            "Latitude": "40.7268",
+            "Longitude": "27.4178",
+            "Depth": "10.8",
+            "ML": "2.6",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "17:59:10",
+            "Latitude": "39.0408",
+            "Longitude": "29.8565",
+            "Depth": "8.7",
+            "ML": "1.6",
+            "Location": "ISIKLAR ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "17:54:27",
+            "Latitude": "41.0712",
+            "Longitude": "40.8305",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "YAVUZLAR CAYELI RIZE"
+        },
+        {
+            "Date": "2022.03.02",
+            "Time": "17:36:03",
+            "Latitude": "40.7123",
+            "Longitude": "29.2933",
+            "Depth": "5.3",
+            "ML": "1.7",
+            "Location": "YALOVA ACIKLARI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.02",
             "Time": "15:26:57",
             "Latitude": "39.9995",
             "Longitude": "24.1330",
@@ -4391,51 +4436,6 @@
             "Depth": "7.7",
             "ML": "1.7",
             "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "20:36:08",
-            "Latitude": "37.9978",
-            "Longitude": "28.8488",
-            "Depth": "8.2",
-            "ML": "1.6",
-            "Location": "BOSTANYERI BULDAN DENIZLI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "19:18:54",
-            "Latitude": "37.0963",
-            "Longitude": "36.8395",
-            "Depth": "8.0",
-            "ML": "2.0",
-            "Location": "DURMUSLAR NURDAGI GAZIANTEP"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "18:58:23",
-            "Latitude": "37.4205",
-            "Longitude": "38.6337",
-            "Depth": "14.0",
-            "ML": "1.6",
-            "Location": "BUGDAYHUYUK SANLIURFA"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "18:53:58",
-            "Latitude": "37.8468",
-            "Longitude": "25.4097",
-            "Depth": "2.6",
-            "ML": "2.5",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.21",
-            "Time": "17:55:56",
-            "Latitude": "37.9415",
-            "Longitude": "27.0093",
-            "Depth": "8.0",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
