@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.03",
+            "Time": "20:15:04",
+            "Latitude": "37.0198",
+            "Longitude": "28.4023",
+            "Depth": "8.7",
+            "ML": "1.6",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "20:07:58",
+            "Latitude": "37.3983",
+            "Longitude": "29.4168",
+            "Depth": "6.6",
+            "ML": "1.4",
+            "Location": "YENIKOY ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "19:36:21",
+            "Latitude": "37.0915",
+            "Longitude": "28.2035",
+            "Depth": "15.7",
+            "ML": "0.9",
+            "Location": "DENIZOVA MUGLA"
+        },
+        {
+            "Date": "2022.03.03",
             "Time": "18:47:28",
             "Latitude": "39.6158",
             "Longitude": "41.1533",
@@ -4418,33 +4445,6 @@
             "Depth": "2.6",
             "ML": "1.5",
             "Location": "CAYARASI KAGIZMAN KARS"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "15:28:11",
-            "Latitude": "41.1852",
-            "Longitude": "28.4763",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "GOKCEALI CATALCA ISTANBUL"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "14:45:34",
-            "Latitude": "37.6228",
-            "Longitude": "29.5868",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "DUDEN YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "14:22:53",
-            "Latitude": "37.3110",
-            "Longitude": "35.8942",
-            "Depth": "22.7",
-            "ML": "1.3",
-            "Location": "HACIBEYLI KOZAN ADANA"
         }
     ]
 }
