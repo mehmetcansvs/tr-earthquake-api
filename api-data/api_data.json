@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.03",
+            "Time": "15:56:37",
+            "Latitude": "37.0133",
+            "Longitude": "28.3818",
+            "Depth": "6.7",
+            "ML": "3.1",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.03",
             "Time": "13:32:06",
             "Latitude": "37.3930",
             "Longitude": "30.4587",
@@ -4436,15 +4445,6 @@
             "Depth": "12.1",
             "ML": "2.0",
             "Location": "ORTACA BALIKESIR"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "12:33:41",
-            "Latitude": "42.0670",
-            "Longitude": "26.4687",
-            "Depth": "7.5",
-            "ML": "2.0",
-            "Location": "BULGARISTAN"
         }
     ]
 }
