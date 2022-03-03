@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.03.03",
+            "Time": "18:47:28",
+            "Latitude": "39.6158",
+            "Longitude": "41.1533",
+            "Depth": "12.5",
+            "ML": "1.3",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "18:30:35",
+            "Latitude": "38.1735",
+            "Longitude": "38.8412",
+            "Depth": "11.6",
+            "ML": "2.0",
+            "Location": "TASMIS PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "17:50:20",
+            "Latitude": "38.1962",
+            "Longitude": "38.7910",
+            "Depth": "4.8",
+            "ML": "1.6",
+            "Location": "ORMANICI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.03",
             "Time": "15:56:37",
             "Latitude": "37.0133",
             "Longitude": "28.3818",
             "Depth": "6.7",
             "ML": "3.1",
             "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "15:11:59",
+            "Latitude": "39.8570",
+            "Longitude": "33.0577",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "KARACAHASAN ELMADAG ANKARA"
         },
         {
             "Date": "2022.03.03",
@@ -4409,42 +4445,6 @@
             "Depth": "22.7",
             "ML": "1.3",
             "Location": "HACIBEYLI KOZAN ADANA"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "13:18:06",
-            "Latitude": "37.5935",
-            "Longitude": "29.2192",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "SARIABAT TAVAS DENIZLI"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "13:09:46",
-            "Latitude": "38.4950",
-            "Longitude": "39.3643",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "GUNEYKOY SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "12:54:40",
-            "Latitude": "37.8855",
-            "Longitude": "42.0297",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "KOCLU SIIRT"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "12:53:48",
-            "Latitude": "39.7543",
-            "Longitude": "27.8187",
-            "Depth": "12.1",
-            "ML": "2.0",
-            "Location": "ORTACA BALIKESIR"
         }
     ]
 }
