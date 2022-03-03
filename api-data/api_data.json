@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.03",
+            "Time": "09:46:25",
+            "Latitude": "39.5633",
+            "Longitude": "41.1852",
+            "Depth": "8.4",
+            "ML": "2.2",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.03.03",
             "Time": "08:17:52",
             "Latitude": "39.6530",
             "Longitude": "26.0825",
@@ -4436,15 +4445,6 @@
             "Depth": "5.4",
             "ML": "1.9",
             "Location": "KARAKESE KARGI CORUM"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "11:52:34",
-            "Latitude": "37.9327",
-            "Longitude": "26.9075",
-            "Depth": "22.5",
-            "ML": "1.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
