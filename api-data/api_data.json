@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "Date": "2022.03.04",
+            "Time": "00:51:38",
+            "Latitude": "37.0432",
+            "Longitude": "28.2647",
+            "Depth": "5.0",
+            "ML": "1.0",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "00:10:29",
+            "Latitude": "37.8207",
+            "Longitude": "30.9198",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "CAYKOY EGIRDIR ISPARTA"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "23:46:42",
+            "Latitude": "39.6040",
+            "Longitude": "41.1152",
+            "Depth": "15.8",
+            "ML": "2.1",
+            "Location": "BUDAKLAR CAT ERZURUM"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "23:32:10",
+            "Latitude": "35.0057",
+            "Longitude": "26.7743",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "23:27:15",
+            "Latitude": "39.8773",
+            "Longitude": "28.7992",
+            "Depth": "5.3",
+            "ML": "1.6",
+            "Location": "YENIDANISMENT ORHANELI BURSA"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "23:15:17",
+            "Latitude": "38.7937",
+            "Longitude": "31.3410",
+            "Depth": "11.7",
+            "ML": "1.5",
+            "Location": "BUYUKKARABAG BOLVADIN AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "23:13:34",
+            "Latitude": "37.1943",
+            "Longitude": "28.3283",
+            "Depth": "8.5",
+            "ML": "1.0",
+            "Location": "AKKAYA MUGLA"
+        },
+        {
             "Date": "2022.03.03",
             "Time": "22:41:40",
             "Latitude": "36.8045",
@@ -4382,69 +4445,6 @@
             "Depth": "2.4",
             "ML": "1.1",
             "Location": "YENICE BANDIRMA BALIKESIR"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "20:31:43",
-            "Latitude": "37.9007",
-            "Longitude": "42.0402",
-            "Depth": "12.1",
-            "ML": "2.5",
-            "Location": "KOCLU SIIRT"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "20:15:17",
-            "Latitude": "38.5797",
-            "Longitude": "31.4315",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "UCKUYU SULTANDAGI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "19:40:27",
-            "Latitude": "37.0257",
-            "Longitude": "28.4078",
-            "Depth": "14.1",
-            "ML": "1.7",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "19:17:38",
-            "Latitude": "37.8743",
-            "Longitude": "42.0535",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "COL SIIRT"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "19:14:44",
-            "Latitude": "39.1355",
-            "Longitude": "29.0740",
-            "Depth": "10.8",
-            "ML": "1.9",
-            "Location": "SOGUT SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "18:18:57",
-            "Latitude": "37.7853",
-            "Longitude": "37.7948",
-            "Depth": "22.8",
-            "ML": "2.4",
-            "Location": "AKCABEL GOLBASI ADIYAMAN"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "18:05:33",
-            "Latitude": "40.2538",
-            "Longitude": "31.9668",
-            "Depth": "4.9",
-            "ML": "1.4",
-            "Location": "KARACAOREN BEYPAZARI ANKARA"
         }
     ]
 }
