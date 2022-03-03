@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.03",
+            "Time": "05:58:04",
+            "Latitude": "39.5610",
+            "Longitude": "26.2142",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "CAMKOY AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "05:42:56",
+            "Latitude": "37.7778",
+            "Longitude": "26.7903",
+            "Depth": "1.2",
+            "ML": "2.0",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.03",
             "Time": "05:19:47",
             "Latitude": "37.6852",
             "Longitude": "29.3147",
@@ -4427,24 +4445,6 @@
             "Depth": "18.2",
             "ML": "1.7",
             "Location": "GOZEN TUNCELI"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "11:42:12",
-            "Latitude": "41.1817",
-            "Longitude": "34.4688",
-            "Depth": "3.7",
-            "ML": "3.2",
-            "Location": "KARAKESE KARGI CORUM"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "11:40:03",
-            "Latitude": "37.2013",
-            "Longitude": "37.2238",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "UCGOZE SEHITKAMIL GAZIANTEP"
         }
     ]
 }
