@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.03.03",
+            "Time": "13:32:06",
+            "Latitude": "37.3930",
+            "Longitude": "30.4587",
+            "Depth": "1.9",
+            "ML": "1.5",
+            "Location": "KARAALILER BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "13:08:18",
+            "Latitude": "40.5820",
+            "Longitude": "35.8525",
+            "Depth": "9.4",
+            "ML": "2.1",
+            "Location": "MAHMATLAR AMASYA"
+        },
+        {
+            "Date": "2022.03.03",
             "Time": "12:58:48",
             "Latitude": "36.9777",
             "Longitude": "27.6833",
             "Depth": "14.1",
             "ML": "2.0",
             "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "12:52:29",
+            "Latitude": "39.1245",
+            "Longitude": "27.5367",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "DEREKOY SOMA MANISA"
         },
         {
             "Date": "2022.03.03",
@@ -4418,33 +4445,6 @@
             "Depth": "7.5",
             "ML": "2.0",
             "Location": "BULGARISTAN"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "12:33:09",
-            "Latitude": "37.7760",
-            "Longitude": "35.4727",
-            "Depth": "2.4",
-            "ML": "1.0",
-            "Location": "CUBUKHARMANI YAHYALI KAYSERI"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "12:25:36",
-            "Latitude": "37.2063",
-            "Longitude": "37.4698",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "GUNGURGE SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "12:21:03",
-            "Latitude": "37.7687",
-            "Longitude": "27.3962",
-            "Depth": "23.1",
-            "ML": "1.3",
-            "Location": "SOKE AYDIN"
         }
     ]
 }
