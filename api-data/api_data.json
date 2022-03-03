@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.03",
+            "Time": "05:19:47",
+            "Latitude": "37.6852",
+            "Longitude": "29.3147",
+            "Depth": "1.4",
+            "ML": "1.9",
+            "Location": "KOCAPINAR SERINHISAR DENIZLI"
+        },
+        {
+            "Date": "2022.03.03",
+            "Time": "04:44:54",
+            "Latitude": "37.8388",
+            "Longitude": "30.8433",
+            "Depth": "2.5",
+            "ML": "2.8",
+            "Location": "AKPINAR EGIRDIR ISPARTA"
+        },
+        {
+            "Date": "2022.03.03",
             "Time": "03:12:01",
             "Latitude": "38.9143",
             "Longitude": "40.4622",
@@ -4427,24 +4445,6 @@
             "Depth": "0.0",
             "ML": "1.9",
             "Location": "UCGOZE SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "11:31:13",
-            "Latitude": "39.1473",
-            "Longitude": "29.0757",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "SOGUT SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "11:12:57",
-            "Latitude": "39.1535",
-            "Longitude": "29.0723",
-            "Depth": "6.4",
-            "ML": "1.7",
-            "Location": "SOGUT SIMAV KUTAHYA"
         }
     ]
 }
