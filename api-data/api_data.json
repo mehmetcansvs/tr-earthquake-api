@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.04",
+            "Time": "05:30:25",
+            "Latitude": "40.3358",
+            "Longitude": "26.0118",
+            "Depth": "6.5",
+            "ML": "2.1",
+            "Location": "KEMALYERI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.04",
             "Time": "03:40:13",
             "Latitude": "40.3865",
             "Longitude": "34.4475",
@@ -4436,15 +4445,6 @@
             "Depth": "5.0",
             "ML": "2.0",
             "Location": "AYDINLAR SIIRT"
-        },
-        {
-            "Date": "2022.02.22",
-            "Time": "23:44:30",
-            "Latitude": "39.6817",
-            "Longitude": "28.4075",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "ERICEK DURSUNBEY BALIKESIR"
         }
     ]
 }
