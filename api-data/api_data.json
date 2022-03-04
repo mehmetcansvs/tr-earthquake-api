@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.04",
+            "Time": "17:39:11",
+            "Latitude": "37.1010",
+            "Longitude": "29.3333",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "CAMELI DENIZLI"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "17:19:28",
+            "Latitude": "37.0738",
+            "Longitude": "29.3613",
+            "Depth": "12.9",
+            "ML": "2.0",
+            "Location": "CAMELI DENIZLI"
+        },
+        {
+            "Date": "2022.03.04",
             "Time": "16:23:33",
             "Latitude": "36.7507",
             "Longitude": "37.3638",
@@ -4427,24 +4445,6 @@
             "Depth": "17.1",
             "ML": "1.6",
             "Location": "ALANCIK CINAR DIYARBAKIR"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "11:13:42",
-            "Latitude": "38.5482",
-            "Longitude": "31.2910",
-            "Depth": "9.2",
-            "ML": "2.0",
-            "Location": "TASKOPRU SULTANDAGI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "11:00:26",
-            "Latitude": "38.3265",
-            "Longitude": "38.8065",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "BOLUKKAYA PUTURGE MALATYA"
         }
     ]
 }
