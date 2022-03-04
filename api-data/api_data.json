@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.03.04",
+            "Time": "14:21:49",
+            "Latitude": "36.1488",
+            "Longitude": "33.5127",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "13:58:30",
+            "Latitude": "36.9683",
+            "Longitude": "27.6628",
+            "Depth": "7.6",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "13:53:01",
+            "Latitude": "40.4348",
+            "Longitude": "33.2277",
+            "Depth": "5.0",
+            "ML": "1.3",
+            "Location": "GUMERDIGIN SABANOZU CANKIRI"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "13:27:51",
+            "Latitude": "40.3395",
+            "Longitude": "26.0518",
+            "Depth": "12.7",
+            "ML": "2.1",
+            "Location": "KEMALYERI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "13:20:16",
+            "Latitude": "40.3065",
+            "Longitude": "34.4943",
+            "Depth": "12.6",
+            "ML": "1.9",
+            "Location": "ESME SUNGURLU CORUM"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "13:10:56",
+            "Latitude": "39.5797",
+            "Longitude": "33.1408",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "ASIKOGLU BALA ANKARA"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "12:52:32",
+            "Latitude": "39.1005",
+            "Longitude": "27.3690",
+            "Depth": "2.1",
+            "ML": "1.3",
+            "Location": "POYRACIK KINIK IZMIR"
+        },
+        {
+            "Date": "2022.03.04",
             "Time": "11:31:54",
             "Latitude": "37.3763",
             "Longitude": "34.9633",
@@ -4382,69 +4445,6 @@
             "Depth": "7.3",
             "ML": "2.0",
             "Location": "KAVAKKOY SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "10:19:19",
-            "Latitude": "40.8163",
-            "Longitude": "31.3613",
-            "Depth": "5.3",
-            "ML": "1.4",
-            "Location": "DARIYERIHASANBEY KAYNASLI DUZCE"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "09:37:52",
-            "Latitude": "39.1812",
-            "Longitude": "27.5455",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "KOZANLI SOMA MANISA"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "09:33:26",
-            "Latitude": "38.0733",
-            "Longitude": "38.0570",
-            "Depth": "8.2",
-            "ML": "1.6",
-            "Location": "ESKIKOY DOGANSEHIR MALATYA"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "09:12:30",
-            "Latitude": "36.5050",
-            "Longitude": "27.0692",
-            "Depth": "5.3",
-            "ML": "1.9",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "08:46:26",
-            "Latitude": "38.5067",
-            "Longitude": "40.6183",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "HEDIK LICE DIYARBAKIR"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "08:40:19",
-            "Latitude": "36.9973",
-            "Longitude": "28.2622",
-            "Depth": "5.0",
-            "ML": "0.9",
-            "Location": "CAMLI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "07:56:20",
-            "Latitude": "39.3640",
-            "Longitude": "26.0198",
-            "Depth": "8.8",
-            "ML": "2.3",
-            "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
         }
     ]
 }
