@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.04",
+            "Time": "16:23:33",
+            "Latitude": "36.7507",
+            "Longitude": "37.3638",
+            "Depth": "19.0",
+            "ML": "2.0",
+            "Location": "YIGMATEPE SAHINBEY GAZIANTEP"
+        },
+        {
+            "Date": "2022.03.04",
             "Time": "14:21:49",
             "Latitude": "36.1488",
             "Longitude": "33.5127",
@@ -4436,15 +4445,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "BOLUKKAYA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "10:22:43",
-            "Latitude": "38.4130",
-            "Longitude": "39.1657",
-            "Depth": "7.3",
-            "ML": "2.0",
-            "Location": "KAVAKKOY SIVRICE ELAZIG"
         }
     ]
 }
