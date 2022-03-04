@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.04",
+            "Time": "06:50:50",
+            "Latitude": "40.0885",
+            "Longitude": "41.4558",
+            "Depth": "11.8",
+            "ML": "1.5",
+            "Location": "KOSKKOY YAKUTIYE ERZURUM"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "06:19:09",
+            "Latitude": "37.2217",
+            "Longitude": "31.1895",
+            "Depth": "132.4",
+            "ML": "2.3",
+            "Location": "GAZILER MANAVGAT ANTALYA"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "06:00:31",
+            "Latitude": "36.2600",
+            "Longitude": "39.0520",
+            "Depth": "4.8",
+            "ML": "2.7",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "05:55:45",
+            "Latitude": "39.0448",
+            "Longitude": "29.6353",
+            "Depth": "3.1",
+            "ML": "1.4",
+            "Location": "CEBRAIL GEDIZ KUTAHYA"
+        },
+        {
+            "Date": "2022.03.04",
             "Time": "05:30:25",
             "Latitude": "40.3358",
             "Longitude": "26.0118",
@@ -4409,42 +4445,6 @@
             "Depth": "5.0",
             "ML": "2.3",
             "Location": "ALTINDERE BAHCESARAY VAN"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "00:24:34",
-            "Latitude": "37.0128",
-            "Longitude": "28.3007",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "CETIBELI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "00:20:38",
-            "Latitude": "37.9715",
-            "Longitude": "42.0157",
-            "Depth": "13.2",
-            "ML": "1.3",
-            "Location": "DEREYAMAC AYDINLAR SIIRT"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "00:16:13",
-            "Latitude": "35.9897",
-            "Longitude": "26.7223",
-            "Depth": "71.9",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "00:03:02",
-            "Latitude": "37.9483",
-            "Longitude": "42.0135",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "AYDINLAR SIIRT"
         }
     ]
 }
