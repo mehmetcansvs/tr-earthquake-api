@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.04",
+            "Time": "11:31:54",
+            "Latitude": "37.3763",
+            "Longitude": "34.9633",
+            "Depth": "7.0",
+            "ML": "1.5",
+            "Location": "BELEMEDIK POZANTI ADANA"
+        },
+        {
+            "Date": "2022.03.04",
             "Time": "10:58:55",
             "Latitude": "38.1060",
             "Longitude": "38.5293",
@@ -17,6 +26,15 @@
             "Depth": "9.7",
             "ML": "2.6",
             "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "10:32:09",
+            "Latitude": "39.5543",
+            "Longitude": "41.2123",
+            "Depth": "14.6",
+            "ML": "1.8",
+            "Location": "KARLICA TEKMAN ERZURUM"
         },
         {
             "Date": "2022.03.04",
@@ -4427,24 +4445,6 @@
             "Depth": "8.8",
             "ML": "2.3",
             "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "07:38:27",
-            "Latitude": "36.8140",
-            "Longitude": "31.1892",
-            "Depth": "70.6",
-            "ML": "2.5",
-            "Location": "DENIZKENT MANAVGAT ANTALYA"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "07:23:12",
-            "Latitude": "39.5483",
-            "Longitude": "26.1147",
-            "Depth": "12.5",
-            "ML": "2.1",
-            "Location": "GULPINAR AYVACIK CANAKKALE"
         }
     ]
 }
