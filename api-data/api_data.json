@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.04",
+            "Time": "22:53:00",
+            "Latitude": "37.0848",
+            "Longitude": "28.3248",
+            "Depth": "23.7",
+            "ML": "0.8",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.04",
             "Time": "20:08:47",
             "Latitude": "37.9417",
             "Longitude": "28.4698",
@@ -4436,15 +4445,6 @@
             "Depth": "9.2",
             "ML": "1.5",
             "Location": "ATCA SULTANHISAR AYDIN"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "12:20:20",
-            "Latitude": "37.4217",
-            "Longitude": "35.8910",
-            "Depth": "20.1",
-            "ML": "2.0",
-            "Location": "COBANPINARI KOZAN ADANA"
         }
     ]
 }
