@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.03.05",
+            "Time": "00:08:40",
+            "Latitude": "39.1432",
+            "Longitude": "29.0523",
+            "Depth": "18.3",
+            "ML": "1.5",
+            "Location": "AHLATLICESME SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "23:43:59",
+            "Latitude": "37.0820",
+            "Longitude": "28.3732",
+            "Depth": "4.6",
+            "ML": "1.4",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "23:17:01",
+            "Latitude": "36.4028",
+            "Longitude": "28.0848",
+            "Depth": "48.5",
+            "ML": "1.5",
+            "Location": "RODOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "22:57:46",
+            "Latitude": "37.0667",
+            "Longitude": "28.4098",
+            "Depth": "18.2",
+            "ML": "0.6",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
             "Date": "2022.03.04",
             "Time": "22:53:00",
             "Latitude": "37.0848",
@@ -4409,42 +4445,6 @@
             "Depth": "6.6",
             "ML": "2.1",
             "Location": "ARSLANYAZI YAYLADAGI HATAY"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "13:23:16",
-            "Latitude": "37.8947",
-            "Longitude": "29.2112",
-            "Depth": "10.4",
-            "ML": "1.2",
-            "Location": "IRLIGANLI DENIZLI"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "12:45:19",
-            "Latitude": "38.9990",
-            "Longitude": "29.2478",
-            "Depth": "21.2",
-            "ML": "1.1",
-            "Location": "KARAMUSTAFALAR SAPHANE KUTAHYA"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "12:44:11",
-            "Latitude": "39.1537",
-            "Longitude": "29.2875",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "ORENKOY HISARCIK KUTAHYA"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "12:20:53",
-            "Latitude": "37.8742",
-            "Longitude": "28.2342",
-            "Depth": "9.2",
-            "ML": "1.5",
-            "Location": "ATCA SULTANHISAR AYDIN"
         }
     ]
 }
