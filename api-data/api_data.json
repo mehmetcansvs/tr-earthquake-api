@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.04",
+            "Time": "08:42:49",
+            "Latitude": "37.4957",
+            "Longitude": "26.9352",
+            "Depth": "9.1",
+            "ML": "1.9",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "08:33:58",
+            "Latitude": "38.9608",
+            "Longitude": "27.8667",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "CAMONU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "07:09:49",
+            "Latitude": "40.6915",
+            "Longitude": "31.4153",
+            "Depth": "9.1",
+            "ML": "1.7",
+            "Location": "AKCAALAN BOLU"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "06:54:34",
+            "Latitude": "39.1323",
+            "Longitude": "29.3693",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "YESILOVA GEDIZ KUTAHYA"
+        },
+        {
+            "Date": "2022.03.04",
             "Time": "06:50:50",
             "Latitude": "40.0885",
             "Longitude": "41.4558",
@@ -4409,42 +4445,6 @@
             "Depth": "10.4",
             "ML": "1.8",
             "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "03:06:48",
-            "Latitude": "39.0090",
-            "Longitude": "29.8635",
-            "Depth": "6.1",
-            "ML": "3.3",
-            "Location": "SARAYCIK ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "01:29:00",
-            "Latitude": "37.9233",
-            "Longitude": "27.1033",
-            "Depth": "17.2",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "01:25:12",
-            "Latitude": "39.4043",
-            "Longitude": "27.8767",
-            "Depth": "7.7",
-            "ML": "1.7",
-            "Location": "YESILLER BALIKESIR"
-        },
-        {
-            "Date": "2022.02.23",
-            "Time": "01:03:31",
-            "Latitude": "38.0783",
-            "Longitude": "42.8687",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "ALTINDERE BAHCESARAY VAN"
         }
     ]
 }
