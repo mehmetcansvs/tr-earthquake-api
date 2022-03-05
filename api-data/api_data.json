@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.05",
+            "Time": "11:09:38",
+            "Latitude": "35.3225",
+            "Longitude": "26.3377",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "11:02:01",
+            "Latitude": "37.3885",
+            "Longitude": "27.0818",
+            "Depth": "21.9",
+            "ML": "1.9",
+            "Location": "YENIHISAR ACIKLARI AYDIN EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "09:33:32",
+            "Latitude": "36.6435",
+            "Longitude": "37.7127",
+            "Depth": "13.2",
+            "ML": "3.1",
+            "Location": "SUR YE"
+        },
+        {
+            "Date": "2022.03.05",
             "Time": "08:22:42",
             "Latitude": "35.1005",
             "Longitude": "33.7098",
@@ -4418,33 +4445,6 @@
             "Depth": "117.3",
             "ML": "1.7",
             "Location": "YESILVADI SERIK ANTALYA"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "05:22:01",
-            "Latitude": "39.2177",
-            "Longitude": "39.5612",
-            "Depth": "7.2",
-            "ML": "2.1",
-            "Location": "CIRALI TUNCELI"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "04:54:26",
-            "Latitude": "37.8657",
-            "Longitude": "29.4825",
-            "Depth": "3.6",
-            "ML": "3.1",
-            "Location": "ALIKURT BOZKURT DENIZLI"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "04:41:14",
-            "Latitude": "38.4490",
-            "Longitude": "39.2475",
-            "Depth": "8.2",
-            "ML": "1.7",
-            "Location": "ALINCIK SIVRICE ELAZIG"
         }
     ]
 }
