@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.05",
+            "Time": "08:22:42",
+            "Latitude": "35.1005",
+            "Longitude": "33.7098",
+            "Depth": "8.8",
+            "ML": "2.3",
+            "Location": "KIBRIS TUZLA"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "07:37:17",
+            "Latitude": "36.9873",
+            "Longitude": "27.6570",
+            "Depth": "7.9",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.05",
             "Time": "06:44:10",
             "Latitude": "39.8332",
             "Longitude": "40.1950",
@@ -26,6 +44,15 @@
             "Depth": "14.8",
             "ML": "1.5",
             "Location": "HASBEY PALU ELAZIG"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "06:08:51",
+            "Latitude": "40.3710",
+            "Longitude": "29.4477",
+            "Depth": "1.6",
+            "ML": "1.0",
+            "Location": "PASAPINAR ORHANGAZI BURSA"
         },
         {
             "Date": "2022.03.05",
@@ -4418,33 +4445,6 @@
             "Depth": "8.2",
             "ML": "1.7",
             "Location": "ALINCIK SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "04:35:08",
-            "Latitude": "37.9342",
-            "Longitude": "26.9415",
-            "Depth": "4.4",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "04:18:50",
-            "Latitude": "35.8638",
-            "Longitude": "29.7765",
-            "Depth": "14.5",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "03:25:52",
-            "Latitude": "38.5143",
-            "Longitude": "23.6285",
-            "Depth": "28.4",
-            "ML": "2.6",
-            "Location": "YUNANISTAN"
         }
     ]
 }
