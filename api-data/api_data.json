@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.05",
+            "Time": "23:27:38",
+            "Latitude": "38.2845",
+            "Longitude": "38.8122",
+            "Depth": "7.9",
+            "ML": "2.3",
+            "Location": "AKTARLI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.05",
             "Time": "22:40:24",
             "Latitude": "40.1747",
             "Longitude": "31.8188",
@@ -4427,15 +4436,6 @@
             "Depth": "3.2",
             "ML": "3.8",
             "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "17:03:06",
-            "Latitude": "37.8450",
-            "Longitude": "27.2288",
-            "Depth": "8.8",
-            "ML": "1.4",
-            "Location": "KUSADASI AYDIN"
         }
     ]
 }
