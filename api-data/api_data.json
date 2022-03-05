@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.05",
+            "Time": "12:35:04",
+            "Latitude": "38.0893",
+            "Longitude": "32.6397",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "SARICALAR SELCUKLU KONYA"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "11:36:47",
+            "Latitude": "39.1372",
+            "Longitude": "40.1705",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "PILAVTEPE KARAKOCAN ELAZIG"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "11:31:56",
+            "Latitude": "39.3937",
+            "Longitude": "40.6808",
+            "Depth": "17.0",
+            "ML": "2.0",
+            "Location": "DINARBEY YEDISU BINGOL"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "11:31:09",
+            "Latitude": "37.1260",
+            "Longitude": "34.4382",
+            "Depth": "17.8",
+            "ML": "1.4",
+            "Location": "ATLILAR TOROSLAR MERSIN"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "11:13:52",
+            "Latitude": "39.6833",
+            "Longitude": "30.7497",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "IMISEHIR ODUNPAZARI ESKISEHIR"
+        },
+        {
+            "Date": "2022.03.05",
             "Time": "11:09:38",
             "Latitude": "35.3225",
             "Longitude": "26.3377",
@@ -26,6 +71,15 @@
             "Depth": "13.2",
             "ML": "3.1",
             "Location": "SUR YE"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "09:12:41",
+            "Latitude": "39.1073",
+            "Longitude": "27.5445",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "DEREKOY SOMA MANISA"
         },
         {
             "Date": "2022.03.05",
@@ -4391,60 +4445,6 @@
             "Depth": "16.7",
             "ML": "2.5",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "06:56:13",
-            "Latitude": "36.7790",
-            "Longitude": "28.0173",
-            "Depth": "11.6",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "06:49:26",
-            "Latitude": "35.2522",
-            "Longitude": "26.3392",
-            "Depth": "3.2",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "06:40:37",
-            "Latitude": "36.7653",
-            "Longitude": "28.0235",
-            "Depth": "23.7",
-            "ML": "1.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "06:08:22",
-            "Latitude": "37.4410",
-            "Longitude": "38.7382",
-            "Depth": "19.9",
-            "ML": "2.0",
-            "Location": "ILHAN SANLIURFA"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "05:48:18",
-            "Latitude": "37.4310",
-            "Longitude": "29.5105",
-            "Depth": "8.0",
-            "ML": "1.8",
-            "Location": "YESILDERE ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "05:44:55",
-            "Latitude": "37.2043",
-            "Longitude": "31.0795",
-            "Depth": "117.3",
-            "ML": "1.7",
-            "Location": "YESILVADI SERIK ANTALYA"
         }
     ]
 }
