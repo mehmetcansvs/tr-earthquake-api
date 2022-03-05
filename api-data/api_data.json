@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.05",
+            "Time": "20:37:20",
+            "Latitude": "36.6637",
+            "Longitude": "28.2460",
+            "Depth": "27.1",
+            "ML": "0.6",
+            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "20:23:02",
+            "Latitude": "39.5740",
+            "Longitude": "41.1615",
+            "Depth": "9.3",
+            "ML": "1.9",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "19:31:21",
+            "Latitude": "37.7123",
+            "Longitude": "29.1607",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "KARATAS DENIZLI"
+        },
+        {
+            "Date": "2022.03.05",
             "Time": "18:45:30",
             "Latitude": "41.1338",
             "Longitude": "33.8528",
@@ -4418,33 +4445,6 @@
             "Depth": "5.0",
             "ML": "3.3",
             "Location": "KARAKESE KARGI CORUM"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "13:08:35",
-            "Latitude": "38.8705",
-            "Longitude": "37.4402",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "ESKIHAMAL GURUN SIVAS"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "12:53:54",
-            "Latitude": "41.2023",
-            "Longitude": "34.4237",
-            "Depth": "5.4",
-            "ML": "2.3",
-            "Location": "HACIVELI KARGI CORUM"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "12:51:32",
-            "Latitude": "41.1450",
-            "Longitude": "34.4360",
-            "Depth": "12.5",
-            "ML": "3.7",
-            "Location": "HALILAR KARGI CORUM"
         }
     ]
 }
