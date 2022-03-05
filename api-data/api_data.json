@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.05",
+            "Time": "18:45:30",
+            "Latitude": "41.1338",
+            "Longitude": "33.8528",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "CATOREN KASTAMONU"
+        },
+        {
+            "Date": "2022.03.05",
+            "Time": "17:37:25",
+            "Latitude": "39.1018",
+            "Longitude": "27.9307",
+            "Depth": "20.2",
+            "ML": "1.5",
+            "Location": "ASAGIDOLMA AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.03.05",
             "Time": "16:44:29",
             "Latitude": "37.8313",
             "Longitude": "27.6468",
@@ -4427,24 +4445,6 @@
             "Depth": "12.5",
             "ML": "3.7",
             "Location": "HALILAR KARGI CORUM"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "12:23:19",
-            "Latitude": "36.5482",
-            "Longitude": "27.2107",
-            "Depth": "4.0",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "12:22:16",
-            "Latitude": "38.2438",
-            "Longitude": "28.6778",
-            "Depth": "17.6",
-            "ML": "1.3",
-            "Location": "SELIMIYE SARIGOL MANISA"
         }
     ]
 }
