@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.06",
+            "Time": "09:10:05",
+            "Latitude": "37.8945",
+            "Longitude": "26.9527",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.06",
+            "Time": "08:05:53",
+            "Latitude": "37.0680",
+            "Longitude": "29.4847",
+            "Depth": "4.1",
+            "ML": "1.8",
+            "Location": "ASMALI GOLHISAR BURDUR"
+        },
+        {
+            "Date": "2022.03.06",
+            "Time": "07:12:03",
+            "Latitude": "37.2765",
+            "Longitude": "30.6783",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "DEMIRLI BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.03.06",
             "Time": "06:03:56",
             "Latitude": "37.2043",
             "Longitude": "28.4457",
@@ -26,6 +53,15 @@
             "Depth": "7.4",
             "ML": "2.4",
             "Location": "YAZYURDU TORTUM ERZURUM"
+        },
+        {
+            "Date": "2022.03.06",
+            "Time": "05:25:05",
+            "Latitude": "35.2372",
+            "Longitude": "25.3412",
+            "Depth": "8.2",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.03.06",
@@ -4400,42 +4436,6 @@
             "Depth": "15.4",
             "ML": "2.0",
             "Location": "YENIKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "19:59:10",
-            "Latitude": "37.8570",
-            "Longitude": "27.0018",
-            "Depth": "10.4",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "19:58:07",
-            "Latitude": "38.1858",
-            "Longitude": "28.8020",
-            "Depth": "8.2",
-            "ML": "1.9",
-            "Location": "KIRANDAMI BULDAN DENIZLI"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "19:46:42",
-            "Latitude": "38.9785",
-            "Longitude": "42.0283",
-            "Depth": "5.4",
-            "ML": "2.6",
-            "Location": "GUNBATMAZ BULANIK MUS"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "19:03:22",
-            "Latitude": "37.8820",
-            "Longitude": "27.6885",
-            "Depth": "5.3",
-            "ML": "1.4",
-            "Location": "AKCESME INCIRLIOVA AYDIN"
         }
     ]
 }
