@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.06",
+            "Time": "18:26:22",
+            "Latitude": "36.5977",
+            "Longitude": "27.1438",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.03.06",
             "Time": "15:33:28",
             "Latitude": "36.9857",
             "Longitude": "28.3942",
@@ -4427,15 +4436,6 @@
             "Depth": "8.8",
             "ML": "1.6",
             "Location": "KAVAKCALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "04:08:31",
-            "Latitude": "40.8190",
-            "Longitude": "28.0747",
-            "Depth": "12.0",
-            "ML": "2.8",
-            "Location": "MARMARA DENIZI"
         }
     ]
 }
