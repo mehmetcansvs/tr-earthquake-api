@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.03.06",
+            "Time": "01:52:43",
+            "Latitude": "40.3935",
+            "Longitude": "26.1017",
+            "Depth": "5.5",
+            "ML": "1.1",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.06",
+            "Time": "00:33:32",
+            "Latitude": "37.0038",
+            "Longitude": "28.4397",
+            "Depth": "15.0",
+            "ML": "1.2",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
             "Date": "2022.03.05",
             "Time": "23:27:38",
             "Latitude": "38.2845",
@@ -4418,24 +4436,6 @@
             "Depth": "8.7",
             "ML": "2.3",
             "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "18:04:08",
-            "Latitude": "37.0642",
-            "Longitude": "28.3433",
-            "Depth": "8.4",
-            "ML": "1.6",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "17:50:34",
-            "Latitude": "37.0675",
-            "Longitude": "28.3710",
-            "Depth": "3.2",
-            "ML": "3.8",
-            "Location": "GOKOVA ULA MUGLA"
         }
     ]
 }
