@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.06",
+            "Time": "15:33:28",
+            "Latitude": "36.9857",
+            "Longitude": "28.3942",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.06",
+            "Time": "15:28:47",
+            "Latitude": "37.0570",
+            "Longitude": "28.5680",
+            "Depth": "21.9",
+            "ML": "1.1",
+            "Location": "BALCILAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.03.06",
+            "Time": "15:14:40",
+            "Latitude": "37.0047",
+            "Longitude": "35.5468",
+            "Depth": "9.6",
+            "ML": "1.5",
+            "Location": "HASANBEYLI SARICAM ADANA"
+        },
+        {
+            "Date": "2022.03.06",
+            "Time": "15:10:04",
+            "Latitude": "35.0328",
+            "Longitude": "33.6640",
+            "Depth": "54.0",
+            "ML": "3.3",
+            "Location": "KIBRIS TUZLA"
+        },
+        {
+            "Date": "2022.03.06",
             "Time": "14:12:02",
             "Latitude": "39.6478",
             "Longitude": "28.5342",
@@ -4400,42 +4436,6 @@
             "Depth": "12.0",
             "ML": "2.8",
             "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "04:03:59",
-            "Latitude": "37.0690",
-            "Longitude": "28.5628",
-            "Depth": "6.7",
-            "ML": "3.5",
-            "Location": "BALCILAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "03:41:23",
-            "Latitude": "37.8597",
-            "Longitude": "37.5058",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "SAVRAN GOLBASI ADIYAMAN"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "03:21:41",
-            "Latitude": "37.0645",
-            "Longitude": "28.5577",
-            "Depth": "10.6",
-            "ML": "1.8",
-            "Location": "BALCILAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "03:17:22",
-            "Latitude": "37.0808",
-            "Longitude": "28.5685",
-            "Depth": "1.2",
-            "ML": "2.1",
-            "Location": "BALCILAR KOYCEGIZ MUGLA"
         }
     ]
 }
