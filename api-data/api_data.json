@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.06",
+            "Time": "06:03:56",
+            "Latitude": "37.2043",
+            "Longitude": "28.4457",
+            "Depth": "7.2",
+            "ML": "2.3",
+            "Location": "ORTAKOY MUGLA"
+        },
+        {
+            "Date": "2022.03.06",
+            "Time": "05:26:19",
+            "Latitude": "37.6917",
+            "Longitude": "29.1637",
+            "Depth": "12.1",
+            "ML": "1.3",
+            "Location": "KARATAS DENIZLI"
+        },
+        {
+            "Date": "2022.03.06",
+            "Time": "05:25:25",
+            "Latitude": "40.4227",
+            "Longitude": "41.3665",
+            "Depth": "7.4",
+            "ML": "2.4",
+            "Location": "YAZYURDU TORTUM ERZURUM"
+        },
+        {
+            "Date": "2022.03.06",
             "Time": "05:21:37",
             "Latitude": "35.1453",
             "Longitude": "25.3297",
@@ -4409,33 +4436,6 @@
             "Depth": "5.3",
             "ML": "1.4",
             "Location": "AKCESME INCIRLIOVA AYDIN"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "18:53:07",
-            "Latitude": "37.0290",
-            "Longitude": "27.7512",
-            "Depth": "12.4",
-            "ML": "1.7",
-            "Location": "MAZIKOY BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "18:51:25",
-            "Latitude": "38.9165",
-            "Longitude": "43.5620",
-            "Depth": "12.9",
-            "ML": "1.8",
-            "Location": "COLPAN VAN"
-        },
-        {
-            "Date": "2022.02.24",
-            "Time": "18:41:43",
-            "Latitude": "37.0712",
-            "Longitude": "28.3610",
-            "Depth": "4.2",
-            "ML": "1.4",
-            "Location": "KIZILAGAC ULA MUGLA"
         }
     ]
 }
