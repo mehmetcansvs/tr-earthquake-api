@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.07",
+            "Time": "23:16:17",
+            "Latitude": "38.7722",
+            "Longitude": "43.1545",
+            "Depth": "7.3",
+            "ML": "2.5",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.03.07",
             "Time": "22:19:40",
             "Latitude": "37.7688",
             "Longitude": "29.2163",
@@ -4427,15 +4436,6 @@
             "Depth": "17.5",
             "ML": "1.5",
             "Location": "ALAAGAC AKYAZI SAKARYA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "22:53:56",
-            "Latitude": "38.4272",
-            "Longitude": "26.8197",
-            "Depth": "3.5",
-            "ML": "2.3",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
         }
     ]
 }
