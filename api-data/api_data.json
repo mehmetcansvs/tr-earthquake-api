@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.07",
+            "Time": "16:25:13",
+            "Latitude": "39.4177",
+            "Longitude": "27.9190",
+            "Depth": "2.8",
+            "ML": "1.7",
+            "Location": "AYVACIK BALIKESIR"
+        },
+        {
+            "Date": "2022.03.07",
+            "Time": "16:20:37",
+            "Latitude": "36.9733",
+            "Longitude": "37.5475",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "OGUZELI GAZIANTEP"
+        },
+        {
+            "Date": "2022.03.07",
+            "Time": "15:57:09",
+            "Latitude": "36.2787",
+            "Longitude": "33.7148",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "KIRTIL SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.03.07",
             "Time": "13:54:26",
             "Latitude": "40.2432",
             "Longitude": "26.1830",
@@ -89,6 +116,15 @@
             "Depth": "5.0",
             "ML": "2.1",
             "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.03.07",
+            "Time": "11:48:08",
+            "Latitude": "40.1392",
+            "Longitude": "31.6925",
+            "Depth": "8.5",
+            "ML": "2.0",
+            "Location": "ULUKOY NALLIHAN ANKARA"
         },
         {
             "Date": "2022.03.07",
@@ -4400,42 +4436,6 @@
             "Depth": "5.5",
             "ML": "1.6",
             "Location": "YUKARICAT CAT ERZURUM"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "19:13:46",
-            "Latitude": "37.0863",
-            "Longitude": "28.4558",
-            "Depth": "7.8",
-            "ML": "1.9",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "18:42:23",
-            "Latitude": "39.5672",
-            "Longitude": "41.1853",
-            "Depth": "11.9",
-            "ML": "1.9",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "18:23:23",
-            "Latitude": "37.8133",
-            "Longitude": "29.5210",
-            "Depth": "2.6",
-            "ML": "1.8",
-            "Location": "YENIBAGLAR BOZKURT DENIZLI"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "17:02:26",
-            "Latitude": "40.5107",
-            "Longitude": "35.2548",
-            "Depth": "7.6",
-            "ML": "1.7",
-            "Location": "KOPRUBASI MECITOZU CORUM"
         }
     ]
 }
