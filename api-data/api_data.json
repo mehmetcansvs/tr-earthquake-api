@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.07",
+            "Time": "22:19:40",
+            "Latitude": "37.7688",
+            "Longitude": "29.2163",
+            "Depth": "4.8",
+            "ML": "1.1",
+            "Location": "OVACIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.03.07",
+            "Time": "21:14:43",
+            "Latitude": "37.9433",
+            "Longitude": "28.8767",
+            "Depth": "21.2",
+            "ML": "1.8",
+            "Location": "KARATAS SARAYKOY DENIZLI"
+        },
+        {
+            "Date": "2022.03.07",
             "Time": "21:04:02",
             "Latitude": "38.7173",
             "Longitude": "27.8783",
@@ -4418,24 +4436,6 @@
             "Depth": "3.5",
             "ML": "2.3",
             "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "22:12:22",
-            "Latitude": "37.0812",
-            "Longitude": "28.3670",
-            "Depth": "6.4",
-            "ML": "2.8",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "21:10:17",
-            "Latitude": "40.4515",
-            "Longitude": "28.7340",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "GEMLIK KORFEZI MARMARA DENIZI"
         }
     ]
 }
