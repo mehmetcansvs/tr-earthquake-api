@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.07",
+            "Time": "08:02:26",
+            "Latitude": "37.7707",
+            "Longitude": "35.0555",
+            "Depth": "27.9",
+            "ML": "1.1",
+            "Location": "ELEKGOLU CAMARDI NIGDE"
+        },
+        {
+            "Date": "2022.03.07",
             "Time": "07:04:22",
             "Latitude": "37.8072",
             "Longitude": "35.7325",
@@ -20,12 +29,30 @@
         },
         {
             "Date": "2022.03.07",
+            "Time": "06:30:13",
+            "Latitude": "35.6800",
+            "Longitude": "25.6833",
+            "Depth": "20.6",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.07",
             "Time": "06:29:25",
             "Latitude": "37.0775",
             "Longitude": "28.3225",
             "Depth": "18.5",
             "ML": "1.4",
             "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.07",
+            "Time": "05:42:34",
+            "Latitude": "38.3590",
+            "Longitude": "25.8610",
+            "Depth": "15.9",
+            "ML": "2.0",
+            "Location": "SAKIZ ADASI EGE DENIZI"
         },
         {
             "Date": "2022.03.07",
@@ -4409,33 +4436,6 @@
             "Depth": "2.6",
             "ML": "1.6",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "11:51:47",
-            "Latitude": "40.7743",
-            "Longitude": "31.5155",
-            "Depth": "11.4",
-            "ML": "1.8",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "11:33:53",
-            "Latitude": "39.2977",
-            "Longitude": "27.6735",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "GOKTAS SOMA MANISA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "10:17:16",
-            "Latitude": "37.2708",
-            "Longitude": "35.5372",
-            "Depth": "14.4",
-            "ML": "1.5",
-            "Location": "CORTEN IMAMOGLU ADANA"
         }
     ]
 }
