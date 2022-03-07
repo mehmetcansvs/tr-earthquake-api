@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.07",
+            "Time": "10:04:44",
+            "Latitude": "37.9905",
+            "Longitude": "29.1158",
+            "Depth": "13.4",
+            "ML": "2.0",
+            "Location": "HAYTABEY DENIZLI"
+        },
+        {
+            "Date": "2022.03.07",
+            "Time": "09:29:34",
+            "Latitude": "40.8133",
+            "Longitude": "27.5792",
+            "Depth": "12.0",
+            "ML": "2.3",
+            "Location": "YENIKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.07",
+            "Time": "09:24:19",
+            "Latitude": "42.7280",
+            "Longitude": "45.4388",
+            "Depth": "3.8",
+            "ML": "3.5",
+            "Location": "RUSYA"
+        },
+        {
+            "Date": "2022.03.07",
             "Time": "08:02:26",
             "Latitude": "37.7707",
             "Longitude": "35.0555",
@@ -1181,6 +1208,15 @@
         },
         {
             "Date": "2022.03.04",
+            "Time": "07:13:04",
+            "Latitude": "34.7130",
+            "Longitude": "24.9888",
+            "Depth": "24.3",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.04",
             "Time": "07:09:49",
             "Latitude": "40.6915",
             "Longitude": "31.4153",
@@ -1217,6 +1253,15 @@
         },
         {
             "Date": "2022.03.04",
+            "Time": "06:15:30",
+            "Latitude": "35.4313",
+            "Longitude": "25.3433",
+            "Depth": "12.4",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.04",
             "Time": "06:00:31",
             "Latitude": "36.2600",
             "Longitude": "39.0520",
@@ -1232,6 +1277,24 @@
             "Depth": "3.1",
             "ML": "1.4",
             "Location": "CEBRAIL GEDIZ KUTAHYA"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "05:47:19",
+            "Latitude": "35.4117",
+            "Longitude": "25.5802",
+            "Depth": "6.5",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.04",
+            "Time": "05:45:03",
+            "Latitude": "35.3867",
+            "Longitude": "25.5845",
+            "Depth": "9.7",
+            "ML": "1.6",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.03.04",
@@ -4373,69 +4436,6 @@
             "Depth": "0.0",
             "ML": "1.0",
             "Location": "SELCUKGAZI OSMANGAZI BURSA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "13:17:13",
-            "Latitude": "40.1848",
-            "Longitude": "30.8105",
-            "Depth": "7.2",
-            "ML": "1.6",
-            "Location": "SOGUKCAM GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "13:08:48",
-            "Latitude": "40.2418",
-            "Longitude": "30.8388",
-            "Depth": "9.8",
-            "ML": "1.4",
-            "Location": "AHMETBEYLER GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "13:05:03",
-            "Latitude": "40.1605",
-            "Longitude": "31.7480",
-            "Depth": "7.5",
-            "ML": "2.2",
-            "Location": "HIRKATEPE BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "12:50:11",
-            "Latitude": "40.7648",
-            "Longitude": "31.5023",
-            "Depth": "5.4",
-            "ML": "2.5",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "12:19:46",
-            "Latitude": "36.2435",
-            "Longitude": "33.6980",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "ISIKLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "12:10:41",
-            "Latitude": "38.4320",
-            "Longitude": "38.2282",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "TEPEKOY MALATYA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "12:02:45",
-            "Latitude": "37.0378",
-            "Longitude": "28.3683",
-            "Depth": "2.6",
-            "ML": "1.6",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
