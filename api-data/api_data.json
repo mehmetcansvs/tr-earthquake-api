@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.08",
+            "Time": "04:49:17",
+            "Latitude": "38.5623",
+            "Longitude": "43.2978",
+            "Depth": "17.7",
+            "ML": "1.5",
+            "Location": "BARDAKCI VAN"
+        },
+        {
+            "Date": "2022.03.08",
             "Time": "02:07:47",
             "Latitude": "40.4278",
             "Longitude": "28.5505",
@@ -4427,15 +4436,6 @@
             "Depth": "11.5",
             "ML": "1.9",
             "Location": "BUDAKLAR CAT ERZURUM"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "01:00:16",
-            "Latitude": "37.6358",
-            "Longitude": "26.9247",
-            "Depth": "11.9",
-            "ML": "1.6",
-            "Location": "EGE DENIZI"
         }
     ]
 }
