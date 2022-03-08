@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.08",
+            "Time": "14:00:30",
+            "Latitude": "40.5423",
+            "Longitude": "40.9048",
+            "Depth": "15.5",
+            "ML": "2.0",
+            "Location": "OZLUCE ISPIR ERZURUM"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "13:25:05",
+            "Latitude": "40.1543",
+            "Longitude": "28.8105",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "KURUCESME NILUFER BURSA"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "13:06:10",
+            "Latitude": "37.0597",
+            "Longitude": "28.3412",
+            "Depth": "2.2",
+            "ML": "2.0",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "12:43:03",
+            "Latitude": "39.2380",
+            "Longitude": "27.7245",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "DENIS SOMA MANISA"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "12:13:33",
+            "Latitude": "41.5280",
+            "Longitude": "44.0562",
+            "Depth": "13.9",
+            "ML": "2.1",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2022.03.08",
             "Time": "11:51:56",
             "Latitude": "37.7275",
             "Longitude": "26.9190",
@@ -4391,51 +4436,6 @@
             "Depth": "9.1",
             "ML": "1.6",
             "Location": "ISMIL KARATAY KONYA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "15:44:18",
-            "Latitude": "34.9940",
-            "Longitude": "26.9180",
-            "Depth": "5.0",
-            "ML": "3.6",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "14:58:37",
-            "Latitude": "37.3787",
-            "Longitude": "37.4342",
-            "Depth": "5.8",
-            "ML": "1.9",
-            "Location": "HURRIYET PAZARCIK KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "14:24:56",
-            "Latitude": "36.1932",
-            "Longitude": "33.6747",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "YESILOVACIK SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "13:44:56",
-            "Latitude": "36.2440",
-            "Longitude": "33.7292",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "AKDERE SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "13:39:29",
-            "Latitude": "37.0875",
-            "Longitude": "28.3523",
-            "Depth": "5.4",
-            "ML": "2.1",
-            "Location": "KIZILAGAC ULA MUGLA"
         }
     ]
 }
