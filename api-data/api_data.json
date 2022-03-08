@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.03.08",
+            "Time": "02:07:47",
+            "Latitude": "40.4278",
+            "Longitude": "28.5505",
+            "Depth": "9.4",
+            "ML": "2.1",
+            "Location": "ESENCE ACIKLARI BURSA MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "02:03:04",
+            "Latitude": "38.0998",
+            "Longitude": "43.8648",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "ARINDI GURPINAR VAN"
+        },
+        {
             "Date": "2022.03.07",
             "Time": "23:16:17",
             "Latitude": "38.7722",
@@ -4418,24 +4436,6 @@
             "Depth": "11.9",
             "ML": "1.6",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "23:07:04",
-            "Latitude": "37.0873",
-            "Longitude": "28.3230",
-            "Depth": "19.7",
-            "ML": "1.4",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.25",
-            "Time": "23:05:45",
-            "Latitude": "40.6693",
-            "Longitude": "30.6343",
-            "Depth": "17.5",
-            "ML": "1.5",
-            "Location": "ALAAGAC AKYAZI SAKARYA"
         }
     ]
 }
