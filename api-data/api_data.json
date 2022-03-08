@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.08",
+            "Time": "11:51:56",
+            "Latitude": "37.7275",
+            "Longitude": "26.9190",
+            "Depth": "10.9",
+            "ML": "1.6",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.08",
             "Time": "10:04:11",
             "Latitude": "37.9058",
             "Longitude": "27.1090",
@@ -4427,15 +4436,6 @@
             "Depth": "5.4",
             "ML": "2.1",
             "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "12:53:04",
-            "Latitude": "37.0648",
-            "Longitude": "28.3407",
-            "Depth": "12.7",
-            "ML": "2.0",
-            "Location": "AKYAKA ULA MUGLA"
         }
     ]
 }
