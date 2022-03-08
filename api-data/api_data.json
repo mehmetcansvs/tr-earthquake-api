@@ -2,11 +2,38 @@
     "data": [
         {
             "Date": "2022.03.08",
+            "Time": "07:21:06",
+            "Latitude": "39.1555",
+            "Longitude": "28.2870",
+            "Depth": "7.6",
+            "ML": "2.4",
+            "Location": "ISIKLAR SINDIRGI BALIKESIR"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "07:20:28",
+            "Latitude": "37.9343",
+            "Longitude": "27.3847",
+            "Depth": "4.6",
+            "ML": "1.7",
+            "Location": "SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.03.08",
             "Time": "06:43:08",
             "Latitude": "35.4265",
             "Longitude": "31.0135",
             "Depth": "104.4",
             "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "05:58:12",
+            "Latitude": "36.5345",
+            "Longitude": "26.8313",
+            "Depth": "121.7",
+            "ML": "1.9",
             "Location": "AKDENIZ"
         },
         {
@@ -89,6 +116,15 @@
             "Depth": "5.0",
             "ML": "2.7",
             "Location": "ARINDI GURPINAR VAN"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "01:12:07",
+            "Latitude": "34.9273",
+            "Longitude": "23.0915",
+            "Depth": "86.0",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.03.07",
@@ -4400,42 +4436,6 @@
             "Depth": "5.0",
             "ML": "3.0",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "06:36:07",
-            "Latitude": "37.1247",
-            "Longitude": "28.5653",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "KIYRA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "05:22:38",
-            "Latitude": "35.7548",
-            "Longitude": "27.0307",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "05:03:14",
-            "Latitude": "37.0070",
-            "Longitude": "28.3880",
-            "Depth": "11.6",
-            "ML": "1.7",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "03:55:15",
-            "Latitude": "36.1445",
-            "Longitude": "35.5387",
-            "Depth": "14.7",
-            "ML": "1.4",
-            "Location": "AKDENIZ"
         }
     ]
 }
