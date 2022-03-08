@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.08",
+            "Time": "22:47:41",
+            "Latitude": "36.4193",
+            "Longitude": "30.6137",
+            "Depth": "23.1",
+            "ML": "2.2",
+            "Location": "TEKIROVA KEMER ANTALYA"
+        },
+        {
+            "Date": "2022.03.08",
             "Time": "20:36:33",
             "Latitude": "35.7873",
             "Longitude": "31.4122",
@@ -4436,15 +4445,6 @@
             "Depth": "1.7",
             "ML": "1.7",
             "Location": "ISMIL KARATAY KONYA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "22:22:08",
-            "Latitude": "37.8693",
-            "Longitude": "26.9108",
-            "Depth": "7.0",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
