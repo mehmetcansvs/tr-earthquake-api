@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.08",
+            "Time": "18:28:01",
+            "Latitude": "39.1680",
+            "Longitude": "29.4473",
+            "Depth": "11.2",
+            "ML": "1.6",
+            "Location": "PUSATLAR CAVDARHISAR KUTAHYA"
+        },
+        {
+            "Date": "2022.03.08",
             "Time": "17:01:45",
             "Latitude": "37.9040",
             "Longitude": "26.9580",
@@ -4427,15 +4436,6 @@
             "Depth": "11.3",
             "ML": "1.4",
             "Location": "ALABAYIR TEKMAN ERZURUM REVIZE CETIBELI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "20:49:58",
-            "Latitude": "37.7130",
-            "Longitude": "33.0577",
-            "Depth": "3.7",
-            "ML": "2.1",
-            "Location": "ISMIL KARATAY KONYA"
         }
     ]
 }
