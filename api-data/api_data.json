@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.08",
+            "Time": "17:01:45",
+            "Latitude": "37.9040",
+            "Longitude": "26.9580",
+            "Depth": "4.8",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "15:41:19",
+            "Latitude": "36.1662",
+            "Longitude": "29.6150",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "KAS ANTALYA"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "15:26:04",
+            "Latitude": "38.8790",
+            "Longitude": "25.7922",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.08",
             "Time": "14:00:30",
             "Latitude": "40.5423",
             "Longitude": "40.9048",
@@ -4408,33 +4435,6 @@
             "Longitude": "33.0577",
             "Depth": "3.7",
             "ML": "2.1",
-            "Location": "ISMIL KARATAY KONYA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "20:43:31",
-            "Latitude": "36.8852",
-            "Longitude": "27.2980",
-            "Depth": "2.1",
-            "ML": "1.6",
-            "Location": "KOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "20:18:11",
-            "Latitude": "37.7413",
-            "Longitude": "33.0558",
-            "Depth": "8.9",
-            "ML": "1.6",
-            "Location": "ISMIL KARATAY KONYA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "20:15:27",
-            "Latitude": "37.7108",
-            "Longitude": "33.0732",
-            "Depth": "9.1",
-            "ML": "1.6",
             "Location": "ISMIL KARATAY KONYA"
         }
     ]
