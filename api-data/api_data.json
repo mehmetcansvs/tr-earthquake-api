@@ -2,12 +2,75 @@
     "data": [
         {
             "Date": "2022.03.08",
+            "Time": "06:43:08",
+            "Latitude": "35.4265",
+            "Longitude": "31.0135",
+            "Depth": "104.4",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "05:51:03",
+            "Latitude": "39.1653",
+            "Longitude": "28.2763",
+            "Depth": "6.5",
+            "ML": "2.6",
+            "Location": "ISIKLAR SINDIRGI BALIKESIR"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "05:47:50",
+            "Latitude": "37.0625",
+            "Longitude": "28.3998",
+            "Depth": "12.4",
+            "ML": "1.3",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "05:40:09",
+            "Latitude": "37.6227",
+            "Longitude": "29.7957",
+            "Depth": "8.8",
+            "ML": "2.0",
+            "Location": "ORHANLI YESILOVA BURDUR"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "05:34:56",
+            "Latitude": "40.5948",
+            "Longitude": "32.7685",
+            "Depth": "5.3",
+            "ML": "2.6",
+            "Location": "EGERLIKUZOREN KIZILCAHAMAM ANKARA"
+        },
+        {
+            "Date": "2022.03.08",
             "Time": "04:49:17",
             "Latitude": "38.5623",
             "Longitude": "43.2978",
             "Depth": "17.7",
             "ML": "1.5",
             "Location": "BARDAKCI VAN"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "03:36:37",
+            "Latitude": "36.9270",
+            "Longitude": "29.2175",
+            "Depth": "3.8",
+            "ML": "1.0",
+            "Location": "ELMALI CAMELI DENIZLI"
+        },
+        {
+            "Date": "2022.03.08",
+            "Time": "02:24:24",
+            "Latitude": "38.0212",
+            "Longitude": "43.8990",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "BARIS BASKALE VAN"
         },
         {
             "Date": "2022.03.08",
@@ -4373,69 +4436,6 @@
             "Depth": "14.7",
             "ML": "1.4",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "03:22:44",
-            "Latitude": "37.8748",
-            "Longitude": "26.7025",
-            "Depth": "7.8",
-            "ML": "2.1",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "03:13:50",
-            "Latitude": "37.0622",
-            "Longitude": "28.3623",
-            "Depth": "3.6",
-            "ML": "1.7",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "02:06:56",
-            "Latitude": "37.7433",
-            "Longitude": "27.0267",
-            "Depth": "4.4",
-            "ML": "1.8",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "01:29:42",
-            "Latitude": "37.0495",
-            "Longitude": "28.4000",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "01:27:59",
-            "Latitude": "37.0790",
-            "Longitude": "28.4193",
-            "Depth": "10.5",
-            "ML": "1.9",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "01:25:25",
-            "Latitude": "37.0622",
-            "Longitude": "28.3432",
-            "Depth": "3.8",
-            "ML": "1.6",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "01:12:58",
-            "Latitude": "39.5922",
-            "Longitude": "41.0888",
-            "Depth": "11.5",
-            "ML": "1.9",
-            "Location": "BUDAKLAR CAT ERZURUM"
         }
     ]
 }
