@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.09",
+            "Time": "06:41:37",
+            "Latitude": "38.7232",
+            "Longitude": "26.5093",
+            "Depth": "12.4",
+            "ML": "1.7",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "05:54:26",
+            "Latitude": "35.3477",
+            "Longitude": "26.3407",
+            "Depth": "2.8",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
             "Time": "05:06:14",
             "Latitude": "38.2888",
             "Longitude": "38.8673",
@@ -4427,24 +4445,6 @@
             "Depth": "4.8",
             "ML": "1.9",
             "Location": "EYUPLER YALVAC ISPARTA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "03:17:29",
-            "Latitude": "37.1397",
-            "Longitude": "28.5415",
-            "Depth": "1.7",
-            "ML": "1.6",
-            "Location": "GOLCUK ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "03:12:56",
-            "Latitude": "36.9873",
-            "Longitude": "28.1883",
-            "Depth": "8.3",
-            "ML": "2.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
