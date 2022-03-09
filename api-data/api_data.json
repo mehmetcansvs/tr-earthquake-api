@@ -1,6 +1,60 @@
 {
     "data": [
         {
+            "Date": "2022.03.09",
+            "Time": "03:18:19",
+            "Latitude": "40.7123",
+            "Longitude": "27.5225",
+            "Depth": "4.0",
+            "ML": "2.8",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "03:15:20",
+            "Latitude": "40.6798",
+            "Longitude": "27.4143",
+            "Depth": "18.6",
+            "ML": "2.1",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "02:52:29",
+            "Latitude": "37.0227",
+            "Longitude": "28.4128",
+            "Depth": "12.6",
+            "ML": "1.6",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "02:51:09",
+            "Latitude": "40.8025",
+            "Longitude": "31.5453",
+            "Depth": "7.4",
+            "ML": "1.8",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "02:43:43",
+            "Latitude": "37.0198",
+            "Longitude": "28.3983",
+            "Depth": "9.8",
+            "ML": "1.3",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "02:05:06",
+            "Latitude": "37.0283",
+            "Longitude": "28.4185",
+            "Depth": "10.5",
+            "ML": "2.4",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
             "Date": "2022.03.08",
             "Time": "23:50:55",
             "Latitude": "37.9032",
@@ -4391,60 +4445,6 @@
             "Depth": "9.6",
             "ML": "3.0",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "02:01:04",
-            "Latitude": "38.3910",
-            "Longitude": "38.8033",
-            "Depth": "5.2",
-            "ML": "1.6",
-            "Location": "KOZLUK KALE MALATYA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "01:21:29",
-            "Latitude": "37.1475",
-            "Longitude": "28.5298",
-            "Depth": "4.9",
-            "ML": "1.9",
-            "Location": "GOLCUK ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "01:12:34",
-            "Latitude": "40.8017",
-            "Longitude": "28.8695",
-            "Depth": "6.8",
-            "ML": "2.1",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "23:04:06",
-            "Latitude": "36.7693",
-            "Longitude": "27.1563",
-            "Depth": "135.5",
-            "ML": "2.5",
-            "Location": "KOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "22:53:44",
-            "Latitude": "37.9957",
-            "Longitude": "32.5147",
-            "Depth": "7.1",
-            "ML": "1.6",
-            "Location": "SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.02.26",
-            "Time": "22:34:36",
-            "Latitude": "36.8210",
-            "Longitude": "28.0607",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
