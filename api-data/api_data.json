@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.09",
+            "Time": "20:38:19",
+            "Latitude": "38.1020",
+            "Longitude": "43.2277",
+            "Depth": "3.2",
+            "ML": "2.4",
+            "Location": "BILGI CATAK VAN"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "19:45:23",
+            "Latitude": "38.3450",
+            "Longitude": "27.4350",
+            "Depth": "21.3",
+            "ML": "1.4",
+            "Location": "DEREKOY KEMALPASA IZMIR"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "19:17:46",
+            "Latitude": "37.0197",
+            "Longitude": "28.3668",
+            "Depth": "14.8",
+            "ML": "0.8",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.09",
             "Time": "19:10:41",
             "Latitude": "36.9132",
             "Longitude": "27.9860",
@@ -4409,33 +4436,6 @@
             "Depth": "2.3",
             "ML": "2.8",
             "Location": "KARAHUSEYIN KALE MALATYA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "12:22:11",
-            "Latitude": "39.5677",
-            "Longitude": "41.1693",
-            "Depth": "8.8",
-            "ML": "1.6",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "11:53:26",
-            "Latitude": "40.7515",
-            "Longitude": "32.6772",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "YUMAKLI CERKES CANKIRI"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "11:31:11",
-            "Latitude": "35.1358",
-            "Longitude": "25.2720",
-            "Depth": "5.1",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
