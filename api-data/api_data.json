@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.03.09",
+            "Time": "10:49:24",
+            "Latitude": "36.8683",
+            "Longitude": "28.0155",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "10:19:36",
+            "Latitude": "40.3532",
+            "Longitude": "37.3203",
+            "Depth": "8.0",
+            "ML": "1.5",
+            "Location": "KARSIKENT RESADIYE TOKAT"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "10:18:06",
+            "Latitude": "36.8567",
+            "Longitude": "28.0153",
+            "Depth": "30.9",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "10:13:50",
+            "Latitude": "36.8983",
+            "Longitude": "28.0060",
+            "Depth": "11.5",
+            "ML": "2.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "10:13:08",
+            "Latitude": "38.8818",
+            "Longitude": "43.5790",
+            "Depth": "7.8",
+            "ML": "2.1",
+            "Location": "CAKIRBEY VAN"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "10:05:11",
+            "Latitude": "36.9147",
+            "Longitude": "27.9647",
+            "Depth": "7.3",
+            "ML": "3.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "09:23:47",
+            "Latitude": "38.8708",
+            "Longitude": "43.5197",
+            "Depth": "9.7",
+            "ML": "2.1",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.03.09",
             "Time": "07:07:38",
             "Latitude": "38.8877",
             "Longitude": "27.7905",
@@ -4382,69 +4445,6 @@
             "Depth": "6.3",
             "ML": "2.7",
             "Location": "KARAKAYA CAL DENIZLI"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "07:06:46",
-            "Latitude": "39.6062",
-            "Longitude": "41.1615",
-            "Depth": "9.2",
-            "ML": "1.7",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "06:48:38",
-            "Latitude": "37.1252",
-            "Longitude": "28.5423",
-            "Depth": "7.7",
-            "ML": "2.1",
-            "Location": "GOLCUK ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "06:31:20",
-            "Latitude": "39.5832",
-            "Longitude": "41.1635",
-            "Depth": "8.4",
-            "ML": "2.7",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "06:05:12",
-            "Latitude": "40.4278",
-            "Longitude": "26.0802",
-            "Depth": "7.0",
-            "ML": "1.2",
-            "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "05:23:26",
-            "Latitude": "39.6177",
-            "Longitude": "41.1130",
-            "Depth": "8.9",
-            "ML": "1.4",
-            "Location": "BUDAKLAR CAT ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "05:20:20",
-            "Latitude": "39.5937",
-            "Longitude": "41.1485",
-            "Depth": "19.0",
-            "ML": "1.0",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "05:14:59",
-            "Latitude": "39.6252",
-            "Longitude": "41.1968",
-            "Depth": "16.4",
-            "ML": "1.4",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
         }
     ]
 }
