@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.03.09",
+            "Time": "12:53:25",
+            "Latitude": "38.7735",
+            "Longitude": "27.7515",
+            "Depth": "6.1",
+            "ML": "1.6",
+            "Location": "KEMIKLIDERE SARUHANLI MANISA"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "12:50:31",
+            "Latitude": "39.1167",
+            "Longitude": "43.2512",
+            "Depth": "27.0",
+            "ML": "1.8",
+            "Location": "UNCULAR ERCIS VAN"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "11:48:32",
+            "Latitude": "36.9912",
+            "Longitude": "27.6082",
+            "Depth": "5.2",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "11:29:23",
+            "Latitude": "37.0230",
+            "Longitude": "28.2930",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "CETIBELI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "11:23:10",
+            "Latitude": "40.4225",
+            "Longitude": "35.9810",
+            "Depth": "10.1",
+            "ML": "2.1",
+            "Location": "KAMALI TURHAL TOKAT"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "11:17:18",
+            "Latitude": "41.1658",
+            "Longitude": "34.4697",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "KARAKESE KARGI CORUM"
+        },
+        {
+            "Date": "2022.03.09",
             "Time": "10:49:24",
             "Latitude": "36.8683",
             "Longitude": "28.0155",
@@ -182,12 +236,30 @@
         },
         {
             "Date": "2022.03.09",
+            "Time": "04:09:25",
+            "Latitude": "38.8145",
+            "Longitude": "39.9513",
+            "Depth": "5.0",
+            "ML": "1.3",
+            "Location": "DEVECI KARAKOCAN ELAZIG"
+        },
+        {
+            "Date": "2022.03.09",
             "Time": "03:45:27",
             "Latitude": "35.3025",
             "Longitude": "26.5025",
             "Depth": "5.6",
             "ML": "1.7",
             "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "03:38:35",
+            "Latitude": "37.6268",
+            "Longitude": "29.5907",
+            "Depth": "5.0",
+            "ML": "0.6",
+            "Location": "DUDEN YESILOVA BURDUR"
         },
         {
             "Date": "2022.03.09",
@@ -4373,78 +4445,6 @@
             "Depth": "16.0",
             "ML": "1.5",
             "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "08:53:36",
-            "Latitude": "39.7408",
-            "Longitude": "41.3652",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "GECITKOY TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "08:51:26",
-            "Latitude": "39.5868",
-            "Longitude": "41.1488",
-            "Depth": "8.4",
-            "ML": "2.8",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "08:44:23",
-            "Latitude": "38.2353",
-            "Longitude": "27.2195",
-            "Depth": "5.5",
-            "ML": "1.9",
-            "Location": "YESILKOY TORBALI IZMIR"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "08:16:15",
-            "Latitude": "37.8128",
-            "Longitude": "25.7132",
-            "Depth": "28.4",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "08:14:50",
-            "Latitude": "38.0348",
-            "Longitude": "29.2802",
-            "Depth": "6.7",
-            "ML": "1.7",
-            "Location": "KARAKAYA CAL DENIZLI"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "08:04:25",
-            "Latitude": "35.6142",
-            "Longitude": "26.2833",
-            "Depth": "5.5",
-            "ML": "4.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "07:57:04",
-            "Latitude": "37.0508",
-            "Longitude": "28.3650",
-            "Depth": "1.7",
-            "ML": "1.5",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "07:40:00",
-            "Latitude": "38.0278",
-            "Longitude": "29.3152",
-            "Depth": "6.3",
-            "ML": "2.7",
-            "Location": "KARAKAYA CAL DENIZLI"
         }
     ]
 }
