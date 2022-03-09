@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.09",
+            "Time": "23:41:37",
+            "Latitude": "37.0758",
+            "Longitude": "28.4012",
+            "Depth": "7.9",
+            "ML": "1.6",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "23:34:59",
+            "Latitude": "38.9335",
+            "Longitude": "27.8880",
+            "Depth": "4.6",
+            "ML": "1.9",
+            "Location": "HASKOY AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.03.09",
             "Time": "23:06:53",
             "Latitude": "38.4478",
             "Longitude": "39.2642",
@@ -4418,24 +4436,6 @@
             "Depth": "11.0",
             "ML": "1.2",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "15:22:02",
-            "Latitude": "35.5582",
-            "Longitude": "26.2942",
-            "Depth": "4.1",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "15:16:06",
-            "Latitude": "37.5978",
-            "Longitude": "29.2460",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "SERINHISAR DENIZLI"
         }
     ]
 }
