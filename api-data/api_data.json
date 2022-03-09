@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.09",
+            "Time": "05:06:14",
+            "Latitude": "38.2888",
+            "Longitude": "38.8673",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "YEDIYOL PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "04:33:12",
+            "Latitude": "36.6028",
+            "Longitude": "28.2968",
+            "Depth": "43.9",
+            "ML": "1.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
             "Time": "03:18:19",
             "Latitude": "40.7123",
             "Longitude": "27.5225",
@@ -53,6 +71,24 @@
             "Depth": "10.5",
             "ML": "2.4",
             "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "01:50:16",
+            "Latitude": "38.0623",
+            "Longitude": "27.4833",
+            "Depth": "14.8",
+            "ML": "1.4",
+            "Location": "HASANCAVUSLAR TIRE IZMIR"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "01:48:01",
+            "Latitude": "39.1265",
+            "Longitude": "29.0887",
+            "Depth": "1.2",
+            "ML": "0.7",
+            "Location": "SOGUT SIMAV KUTAHYA"
         },
         {
             "Date": "2022.03.08",
@@ -4409,42 +4445,6 @@
             "Depth": "8.3",
             "ML": "2.1",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "02:51:41",
-            "Latitude": "39.5745",
-            "Longitude": "41.1600",
-            "Depth": "11.7",
-            "ML": "2.3",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "02:41:04",
-            "Latitude": "39.5847",
-            "Longitude": "41.1560",
-            "Depth": "15.4",
-            "ML": "1.7",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "02:38:32",
-            "Latitude": "39.5923",
-            "Longitude": "41.1225",
-            "Depth": "11.7",
-            "ML": "2.2",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "02:03:47",
-            "Latitude": "38.7800",
-            "Longitude": "26.5797",
-            "Depth": "9.6",
-            "ML": "3.0",
-            "Location": "EGE DENIZI"
         }
     ]
 }
