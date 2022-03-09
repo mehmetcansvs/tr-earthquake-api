@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.09",
+            "Time": "14:42:51",
+            "Latitude": "36.5085",
+            "Longitude": "28.7045",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "13:03:32",
+            "Latitude": "36.9042",
+            "Longitude": "27.9897",
+            "Depth": "8.0",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
             "Time": "12:53:25",
             "Latitude": "38.7735",
             "Longitude": "27.7515",
@@ -155,21 +173,12 @@
         },
         {
             "Date": "2022.03.09",
-            "Time": "06:45:41",
-            "Latitude": "35.3535",
-            "Longitude": "26.3007",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "06:41:37",
-            "Latitude": "38.7232",
-            "Longitude": "26.5093",
-            "Depth": "12.4",
-            "ML": "1.7",
-            "Location": "EGE DENIZI"
+            "Time": "06:45:40",
+            "Latitude": "35.0260",
+            "Longitude": "26.5173",
+            "Depth": "26.1",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ REVIZE EGE DENIZI"
         },
         {
             "Date": "2022.03.09",
@@ -4426,24 +4435,6 @@
             "Longitude": "41.1305",
             "Depth": "17.7",
             "ML": "2.0",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "09:09:44",
-            "Latitude": "37.5788",
-            "Longitude": "29.4465",
-            "Depth": "3.7",
-            "ML": "1.4",
-            "Location": "YESILYUVA ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "09:03:28",
-            "Latitude": "39.5850",
-            "Longitude": "41.1585",
-            "Depth": "16.0",
-            "ML": "1.5",
             "Location": "TURNAGOL TEKMAN ERZURUM"
         }
     ]
