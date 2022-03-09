@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.09",
+            "Time": "23:06:53",
+            "Latitude": "38.4478",
+            "Longitude": "39.2642",
+            "Depth": "6.1",
+            "ML": "2.1",
+            "Location": "DUZBAHCE SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "22:12:56",
+            "Latitude": "36.5623",
+            "Longitude": "28.0403",
+            "Depth": "58.1",
+            "ML": "1.6",
+            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "21:20:06",
+            "Latitude": "37.0340",
+            "Longitude": "28.4210",
+            "Depth": "9.2",
+            "ML": "1.4",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "20:48:02",
+            "Latitude": "37.0415",
+            "Longitude": "28.4423",
+            "Depth": "14.8",
+            "ML": "1.5",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.09",
             "Time": "20:38:19",
             "Latitude": "38.1020",
             "Longitude": "43.2277",
@@ -4400,42 +4436,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "SERINHISAR DENIZLI"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "14:51:15",
-            "Latitude": "39.5062",
-            "Longitude": "35.4465",
-            "Depth": "10.8",
-            "ML": "1.4",
-            "Location": "ARPALIK SARIKAYA YOZGAT"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "13:44:06",
-            "Latitude": "37.0832",
-            "Longitude": "28.4052",
-            "Depth": "6.0",
-            "ML": "2.6",
-            "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "12:32:41",
-            "Latitude": "40.6203",
-            "Longitude": "29.5685",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "IHSANIYE KARAMURSEL KOCAELI"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "12:30:42",
-            "Latitude": "38.3588",
-            "Longitude": "38.8972",
-            "Depth": "2.3",
-            "ML": "2.8",
-            "Location": "KARAHUSEYIN KALE MALATYA"
         }
     ]
 }
