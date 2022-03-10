@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.03.10",
+            "Time": "06:23:46",
+            "Latitude": "36.8877",
+            "Longitude": "28.0068",
+            "Depth": "1.7",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "06:08:03",
+            "Latitude": "38.6368",
+            "Longitude": "43.0392",
+            "Depth": "19.5",
+            "ML": "1.2",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.03.10",
             "Time": "03:37:44",
             "Latitude": "34.9775",
             "Longitude": "26.6577",
             "Depth": "5.0",
             "ML": "3.3",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "03:32:47",
+            "Latitude": "38.5382",
+            "Longitude": "40.8805",
+            "Depth": "5.1",
+            "ML": "2.2",
+            "Location": "ASAGIELMALI KULP DIYARBAKIR"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "02:46:44",
+            "Latitude": "40.4698",
+            "Longitude": "28.5925",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "ESENCE ACIKLARI BURSA MARMARA DENIZI"
         },
         {
             "Date": "2022.03.10",
@@ -4400,42 +4436,6 @@
             "Depth": "80.8",
             "ML": "2.0",
             "Location": "RODOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "20:21:53",
-            "Latitude": "40.5010",
-            "Longitude": "28.8578",
-            "Depth": "8.4",
-            "ML": "1.6",
-            "Location": "ARMUTLU YALOVA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "19:59:17",
-            "Latitude": "40.5413",
-            "Longitude": "28.9155",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "MECIDIYE ARMUTLU YALOVA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "19:46:16",
-            "Latitude": "37.4797",
-            "Longitude": "38.0015",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "HACIHALIL BESNI ADIYAMAN"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "19:09:56",
-            "Latitude": "35.1405",
-            "Longitude": "23.8650",
-            "Depth": "19.0",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
