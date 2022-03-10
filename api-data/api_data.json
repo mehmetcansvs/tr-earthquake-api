@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.10",
+            "Time": "22:55:45",
+            "Latitude": "41.8027",
+            "Longitude": "41.6293",
+            "Depth": "19.2",
+            "ML": "3.0",
+            "Location": "TURKIYE GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.03.10",
             "Time": "20:26:04",
             "Latitude": "41.1372",
             "Longitude": "43.9103",
@@ -53,6 +62,15 @@
             "Depth": "5.3",
             "ML": "1.8",
             "Location": "KOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "17:42:58",
+            "Latitude": "39.5007",
+            "Longitude": "27.8858",
+            "Depth": "7.7",
+            "ML": "1.5",
+            "Location": "SELIMIYE BALIKESIR"
         },
         {
             "Date": "2022.03.10",
@@ -4417,24 +4435,6 @@
             "Longitude": "41.1463",
             "Depth": "3.1",
             "ML": "1.7",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "06:51:52",
-            "Latitude": "39.3328",
-            "Longitude": "27.6590",
-            "Depth": "10.3",
-            "ML": "1.7",
-            "Location": "YAGCILI SOMA MANISA"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "04:51:26",
-            "Latitude": "39.5690",
-            "Longitude": "41.1647",
-            "Depth": "18.3",
-            "ML": "1.4",
             "Location": "TURNAGOL TEKMAN ERZURUM"
         }
     ]
