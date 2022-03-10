@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.10",
+            "Time": "19:11:21",
+            "Latitude": "37.0643",
+            "Longitude": "28.3482",
+            "Depth": "11.6",
+            "ML": "2.2",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "18:34:23",
+            "Latitude": "36.1070",
+            "Longitude": "27.6520",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "18:30:05",
+            "Latitude": "36.8758",
+            "Longitude": "27.3295",
+            "Depth": "5.3",
+            "ML": "1.8",
+            "Location": "KOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "17:12:28",
+            "Latitude": "38.5948",
+            "Longitude": "40.5458",
+            "Depth": "15.8",
+            "ML": "1.9",
+            "Location": "ORTULU LICE DIYARBAKIR"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "17:01:57",
+            "Latitude": "36.9392",
+            "Longitude": "28.1730",
+            "Depth": "3.5",
+            "ML": "1.5",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.03.10",
             "Time": "16:27:45",
             "Latitude": "36.2198",
             "Longitude": "33.6862",
@@ -4391,51 +4436,6 @@
             "Depth": "9.2",
             "ML": "1.5",
             "Location": "SANCAK BINGOL"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "03:58:46",
-            "Latitude": "39.5820",
-            "Longitude": "41.0695",
-            "Depth": "14.4",
-            "ML": "1.1",
-            "Location": "BUDAKLAR CAT ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "03:55:49",
-            "Latitude": "39.6023",
-            "Longitude": "41.1640",
-            "Depth": "18.1",
-            "ML": "1.1",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "03:54:48",
-            "Latitude": "39.5757",
-            "Longitude": "41.1712",
-            "Depth": "24.3",
-            "ML": "1.1",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "03:26:40",
-            "Latitude": "36.9915",
-            "Longitude": "30.4173",
-            "Depth": "3.9",
-            "ML": "3.1",
-            "Location": "SOGUTCUK KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "02:39:34",
-            "Latitude": "39.5757",
-            "Longitude": "41.1467",
-            "Depth": "14.6",
-            "ML": "1.8",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
         }
     ]
 }
