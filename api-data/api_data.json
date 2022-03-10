@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.10",
+            "Time": "08:00:05",
+            "Latitude": "35.2782",
+            "Longitude": "25.2373",
+            "Depth": "14.4",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "06:42:04",
+            "Latitude": "36.9950",
+            "Longitude": "30.4327",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "SOGUTCUK KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "06:38:30",
+            "Latitude": "38.9700",
+            "Longitude": "27.7725",
+            "Depth": "8.9",
+            "ML": "2.0",
+            "Location": "SULEYMANLI AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.03.10",
             "Time": "06:23:46",
             "Latitude": "36.8877",
             "Longitude": "28.0068",
@@ -17,6 +44,15 @@
             "Depth": "19.5",
             "ML": "1.2",
             "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "05:27:52",
+            "Latitude": "35.5237",
+            "Longitude": "26.3850",
+            "Depth": "14.0",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.03.10",
@@ -4400,42 +4436,6 @@
             "Depth": "3.9",
             "ML": "1.4",
             "Location": "KARLICA TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "21:35:39",
-            "Latitude": "36.1328",
-            "Longitude": "29.0353",
-            "Depth": "7.8",
-            "ML": "1.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "21:29:47",
-            "Latitude": "37.1343",
-            "Longitude": "28.4958",
-            "Depth": "8.1",
-            "ML": "1.5",
-            "Location": "ARMUTCUK ULA MUGLA"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "21:06:53",
-            "Latitude": "38.5965",
-            "Longitude": "43.6260",
-            "Depth": "1.8",
-            "ML": "2.2",
-            "Location": "IRGAT VAN"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "20:53:44",
-            "Latitude": "36.1255",
-            "Longitude": "27.9258",
-            "Depth": "80.8",
-            "ML": "2.0",
-            "Location": "RODOS ADASI AKDENIZ"
         }
     ]
 }
