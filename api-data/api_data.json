@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.10",
+            "Time": "23:47:31",
+            "Latitude": "38.2827",
+            "Longitude": "29.9745",
+            "Depth": "8.5",
+            "ML": "2.1",
+            "Location": "BEYDILLI CIVRIL DENIZLI"
+        },
+        {
+            "Date": "2022.03.10",
             "Time": "22:55:45",
             "Latitude": "41.8027",
             "Longitude": "41.6293",
@@ -4427,15 +4436,6 @@
             "Depth": "8.1",
             "ML": "2.6",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "07:48:01",
-            "Latitude": "39.5773",
-            "Longitude": "41.1463",
-            "Depth": "3.1",
-            "ML": "1.7",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
         }
     ]
 }
