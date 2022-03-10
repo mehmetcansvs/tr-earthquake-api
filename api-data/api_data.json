@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.03.10",
+            "Time": "03:37:44",
+            "Latitude": "34.9775",
+            "Longitude": "26.6577",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "02:04:10",
+            "Latitude": "37.4178",
+            "Longitude": "33.7725",
+            "Depth": "7.2",
+            "ML": "2.2",
+            "Location": "AGIZBOGAZ AYRANCI KARAMAN"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "01:07:01",
+            "Latitude": "39.5948",
+            "Longitude": "26.4148",
+            "Depth": "2.7",
+            "ML": "1.9",
+            "Location": "AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "01:03:29",
+            "Latitude": "40.1670",
+            "Longitude": "43.8847",
+            "Depth": "21.0",
+            "ML": "1.5",
+            "Location": "TURKIYE ERMENISTAN SINIR BOLGESI"
+        },
+        {
             "Date": "2022.03.09",
             "Time": "23:41:37",
             "Latitude": "37.0758",
@@ -89,6 +125,15 @@
             "Depth": "11.0",
             "ML": "2.0",
             "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "18:43:16",
+            "Latitude": "34.7927",
+            "Longitude": "24.8617",
+            "Depth": "9.9",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.03.09",
@@ -4391,51 +4436,6 @@
             "Depth": "19.0",
             "ML": "3.0",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "18:52:15",
-            "Latitude": "41.1408",
-            "Longitude": "43.9547",
-            "Depth": "6.9",
-            "ML": "2.2",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "18:38:12",
-            "Latitude": "41.1553",
-            "Longitude": "43.9498",
-            "Depth": "4.0",
-            "ML": "2.4",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "18:17:46",
-            "Latitude": "36.2487",
-            "Longitude": "27.0247",
-            "Depth": "9.2",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "16:31:06",
-            "Latitude": "35.5758",
-            "Longitude": "26.2997",
-            "Depth": "5.4",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.27",
-            "Time": "16:01:32",
-            "Latitude": "37.0105",
-            "Longitude": "28.3947",
-            "Depth": "11.0",
-            "ML": "1.2",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
