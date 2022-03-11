@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.11",
+            "Time": "11:59:25",
+            "Latitude": "40.1037",
+            "Longitude": "40.6043",
+            "Depth": "5.0",
+            "ML": "3.2",
+            "Location": "ORTACIMAGIL BAYBURT"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "11:53:44",
+            "Latitude": "39.4698",
+            "Longitude": "25.9080",
+            "Depth": "6.0",
+            "ML": "1.8",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "11:52:08",
+            "Latitude": "37.1507",
+            "Longitude": "34.7252",
+            "Depth": "1.9",
+            "ML": "1.0",
+            "Location": "KORUCAK CAMLIYAYLA MERSIN"
+        },
+        {
+            "Date": "2022.03.11",
             "Time": "10:47:39",
             "Latitude": "34.7578",
             "Longitude": "24.5105",
@@ -4427,33 +4454,6 @@
             "Depth": "5.8",
             "ML": "1.9",
             "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "11:56:24",
-            "Latitude": "39.5825",
-            "Longitude": "41.1425",
-            "Depth": "8.1",
-            "ML": "2.0",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "11:46:35",
-            "Latitude": "39.5447",
-            "Longitude": "41.1567",
-            "Depth": "30.0",
-            "ML": "1.5",
-            "Location": "AKDAMAR TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "11:41:36",
-            "Latitude": "39.4597",
-            "Longitude": "41.1452",
-            "Depth": "17.8",
-            "ML": "1.1",
-            "Location": "YUVAKLI TEKMAN ERZURUM"
         }
     ]
 }
