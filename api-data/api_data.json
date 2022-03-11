@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.11",
+            "Time": "14:33:27",
+            "Latitude": "36.0062",
+            "Longitude": "28.6775",
+            "Depth": "29.3",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.11",
             "Time": "11:59:25",
             "Latitude": "40.1037",
             "Longitude": "40.6043",
@@ -443,6 +452,15 @@
         },
         {
             "Date": "2022.03.10",
+            "Time": "02:51:40",
+            "Latitude": "41.0845",
+            "Longitude": "43.8978",
+            "Depth": "5.5",
+            "ML": "1.7",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.03.10",
             "Time": "02:46:44",
             "Latitude": "40.4698",
             "Longitude": "28.5925",
@@ -461,6 +479,15 @@
         },
         {
             "Date": "2022.03.10",
+            "Time": "01:20:56",
+            "Latitude": "39.4900",
+            "Longitude": "38.4922",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "DOSTAL ILIC ERZINCAN"
+        },
+        {
+            "Date": "2022.03.10",
             "Time": "01:07:01",
             "Latitude": "39.5948",
             "Longitude": "26.4148",
@@ -476,6 +503,15 @@
             "Depth": "21.0",
             "ML": "1.5",
             "Location": "TURKIYE ERMENISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.03.10",
+            "Time": "00:33:19",
+            "Latitude": "38.4060",
+            "Longitude": "30.3890",
+            "Depth": "9.2",
+            "ML": "1.2",
+            "Location": "KARGIN SANDIKLI AFYONKARAHISAR"
         },
         {
             "Date": "2022.03.09",
@@ -542,6 +578,24 @@
         },
         {
             "Date": "2022.03.09",
+            "Time": "20:33:20",
+            "Latitude": "37.3542",
+            "Longitude": "36.7103",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "IMALI TURKOGLU KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "19:48:57",
+            "Latitude": "37.9058",
+            "Longitude": "36.6963",
+            "Depth": "26.3",
+            "ML": "1.7",
+            "Location": "TEKIR KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.03.09",
             "Time": "19:45:23",
             "Latitude": "38.3450",
             "Longitude": "27.4350",
@@ -587,6 +641,15 @@
         },
         {
             "Date": "2022.03.09",
+            "Time": "16:35:42",
+            "Latitude": "40.1515",
+            "Longitude": "30.0720",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "OREN BILECIK"
+        },
+        {
+            "Date": "2022.03.09",
             "Time": "16:24:45",
             "Latitude": "38.5288",
             "Longitude": "43.0125",
@@ -602,6 +665,15 @@
             "Depth": "0.0",
             "ML": "2.0",
             "Location": "EGNEZ SOMA MANISA"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "14:58:33",
+            "Latitude": "40.5735",
+            "Longitude": "33.5383",
+            "Depth": "18.5",
+            "ML": "1.7",
+            "Location": "YUKARIYANLAR ELDIVAN CANKIRI"
         },
         {
             "Date": "2022.03.09",
@@ -692,6 +764,15 @@
             "Depth": "5.0",
             "ML": "2.7",
             "Location": "KARAKESE KARGI CORUM"
+        },
+        {
+            "Date": "2022.03.09",
+            "Time": "11:07:54",
+            "Latitude": "38.9387",
+            "Longitude": "43.4878",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "VAN GOLU"
         },
         {
             "Date": "2022.03.09",
@@ -4373,87 +4454,6 @@
             "Depth": "10.1",
             "ML": "2.2",
             "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "13:22:08",
-            "Latitude": "36.1423",
-            "Longitude": "33.5535",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "13:13:28",
-            "Latitude": "39.5842",
-            "Longitude": "41.1308",
-            "Depth": "22.4",
-            "ML": "2.2",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "12:53:48",
-            "Latitude": "36.4148",
-            "Longitude": "34.1432",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "NARLIKUYU SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "12:44:21",
-            "Latitude": "37.8742",
-            "Longitude": "26.9282",
-            "Depth": "11.1",
-            "ML": "3.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "12:24:42",
-            "Latitude": "39.4830",
-            "Longitude": "41.4193",
-            "Depth": "13.7",
-            "ML": "1.7",
-            "Location": "KOCYAYLA TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "12:17:12",
-            "Latitude": "40.4153",
-            "Longitude": "41.4468",
-            "Depth": "8.1",
-            "ML": "2.0",
-            "Location": "SENYURT TORTUM ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "12:11:11",
-            "Latitude": "37.6080",
-            "Longitude": "39.9603",
-            "Depth": "18.6",
-            "ML": "1.4",
-            "Location": "KARASUNGUR CINAR DIYARBAKIR"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "12:09:33",
-            "Latitude": "39.5388",
-            "Longitude": "41.2375",
-            "Depth": "26.1",
-            "ML": "1.5",
-            "Location": "GOKOGLAN TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "12:09:24",
-            "Latitude": "40.7963",
-            "Longitude": "28.8348",
-            "Depth": "5.8",
-            "ML": "1.9",
-            "Location": "MARMARA DENIZI"
         }
     ]
 }
