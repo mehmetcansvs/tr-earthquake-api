@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.11",
+            "Time": "20:52:26",
+            "Latitude": "39.2762",
+            "Longitude": "29.3368",
+            "Depth": "0.0",
+            "ML": "2.2",
+            "Location": "SEYHCAKIR HISARCIK KUTAHYA"
+        },
+        {
+            "Date": "2022.03.11",
             "Time": "15:16:13",
             "Latitude": "39.5000",
             "Longitude": "26.9467",
@@ -4445,15 +4454,6 @@
             "Depth": "5.9",
             "ML": "3.3",
             "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "13:30:50",
-            "Latitude": "36.6168",
-            "Longitude": "27.0205",
-            "Depth": "111.5",
-            "ML": "2.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
