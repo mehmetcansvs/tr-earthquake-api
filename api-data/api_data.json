@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.11",
+            "Time": "07:56:14",
+            "Latitude": "35.8567",
+            "Longitude": "30.9337",
+            "Depth": "85.5",
+            "ML": "3.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.11",
             "Time": "06:39:58",
             "Latitude": "39.4855",
             "Longitude": "26.9722",
@@ -4445,15 +4454,6 @@
             "Depth": "7.5",
             "ML": "2.3",
             "Location": "KARLICA TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "11:23:37",
-            "Latitude": "38.4150",
-            "Longitude": "26.6472",
-            "Depth": "7.8",
-            "ML": "1.5",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
         }
     ]
 }
