@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.11",
+            "Time": "06:39:58",
+            "Latitude": "39.4855",
+            "Longitude": "26.9722",
+            "Depth": "10.8",
+            "ML": "2.2",
+            "Location": "SARKOY BURHANIYE BALIKESIR"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "06:23:37",
+            "Latitude": "39.1490",
+            "Longitude": "29.4988",
+            "Depth": "8.8",
+            "ML": "1.8",
+            "Location": "DOGANCILAR CAVDARHISAR KUTAHYA"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "05:47:07",
+            "Latitude": "36.2342",
+            "Longitude": "27.0335",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.11",
             "Time": "04:34:29",
             "Latitude": "37.9087",
             "Longitude": "27.1210",
@@ -4427,24 +4454,6 @@
             "Depth": "7.8",
             "ML": "1.5",
             "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "10:37:02",
-            "Latitude": "37.2353",
-            "Longitude": "37.3663",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "DUNDARLI SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "10:30:23",
-            "Latitude": "39.3888",
-            "Longitude": "25.5123",
-            "Depth": "2.5",
-            "ML": "3.6",
-            "Location": "EGE DENIZI REVIZE TURNAGOL TEKMAN ERZURUM"
         }
     ]
 }
