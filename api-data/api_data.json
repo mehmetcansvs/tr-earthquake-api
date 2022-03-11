@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.03.11",
+            "Time": "03:15:58",
+            "Latitude": "37.8500",
+            "Longitude": "42.0015",
+            "Depth": "2.8",
+            "ML": "2.2",
+            "Location": "KALENDER SIIRT"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "03:04:37",
+            "Latitude": "36.2738",
+            "Longitude": "36.1635",
+            "Depth": "8.1",
+            "ML": "3.0",
+            "Location": "KUZEYTEPE HATAY"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "02:53:18",
+            "Latitude": "36.2613",
+            "Longitude": "36.2143",
+            "Depth": "5.3",
+            "ML": "3.0",
+            "Location": "HASANLI HATAY"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "02:27:49",
+            "Latitude": "39.2433",
+            "Longitude": "41.5700",
+            "Depth": "6.2",
+            "ML": "2.1",
+            "Location": "KOCYATAGI VARTO MUS"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "02:00:43",
+            "Latitude": "41.1122",
+            "Longitude": "43.9087",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "ERMENISTAN"
+        },
+        {
             "Date": "2022.03.10",
             "Time": "23:47:31",
             "Latitude": "38.2827",
@@ -4399,43 +4444,7 @@
             "Longitude": "26.0352",
             "Depth": "6.3",
             "ML": "1.8",
-            "Location": "MIDILLI ADASI EGE DENIZI REVIZE AKDENIZ"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "09:18:59",
-            "Latitude": "37.5165",
-            "Longitude": "38.0065",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "COMAK BESNI ADIYAMAN"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "09:07:35",
-            "Latitude": "39.4088",
-            "Longitude": "38.9205",
-            "Depth": "28.2",
-            "ML": "1.4",
-            "Location": "YUCEBELEN KEMAH ERZINCAN"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "08:11:40",
-            "Latitude": "35.5957",
-            "Longitude": "26.2710",
-            "Depth": "11.0",
-            "ML": "3.4",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "07:57:59",
-            "Latitude": "35.5398",
-            "Longitude": "26.3037",
-            "Depth": "8.1",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
+            "Location": "MIDILLI ADASI EGE DENIZI REVIZE"
         }
     ]
 }
