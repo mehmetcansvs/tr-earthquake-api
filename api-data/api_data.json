@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.11",
+            "Time": "04:34:29",
+            "Latitude": "37.9087",
+            "Longitude": "27.1210",
+            "Depth": "4.6",
+            "ML": "2.4",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.11",
             "Time": "03:15:58",
             "Latitude": "37.8500",
             "Longitude": "42.0015",
@@ -4436,15 +4445,6 @@
             "Depth": "2.5",
             "ML": "3.6",
             "Location": "EGE DENIZI REVIZE TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "09:48:49",
-            "Latitude": "39.1757",
-            "Longitude": "26.0352",
-            "Depth": "6.3",
-            "ML": "1.8",
-            "Location": "MIDILLI ADASI EGE DENIZI REVIZE"
         }
     ]
 }
