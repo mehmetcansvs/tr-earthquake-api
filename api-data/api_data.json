@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.11",
+            "Time": "23:47:36",
+            "Latitude": "37.0752",
+            "Longitude": "35.1015",
+            "Depth": "19.6",
+            "ML": "1.5",
+            "Location": "SOGUTLU CUKUROVA ADANA"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "23:40:25",
+            "Latitude": "36.4160",
+            "Longitude": "26.9965",
+            "Depth": "14.2",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.11",
             "Time": "21:42:39",
             "Latitude": "36.2178",
             "Longitude": "31.5258",
@@ -4436,24 +4454,6 @@
             "Depth": "5.3",
             "ML": "1.6",
             "Location": "KAYACIK ODUNPAZARI ESKISEHIR"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "17:45:36",
-            "Latitude": "41.1252",
-            "Longitude": "40.8070",
-            "Depth": "10.0",
-            "ML": "1.6",
-            "Location": "KUZAYCA PAZAR RIZE"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "17:12:52",
-            "Latitude": "35.2112",
-            "Longitude": "26.8783",
-            "Depth": "2.4",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
