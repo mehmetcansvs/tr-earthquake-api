@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.03.11",
+            "Time": "21:42:39",
+            "Latitude": "36.2178",
+            "Longitude": "31.5258",
+            "Depth": "28.2",
+            "ML": "1.8",
+            "Location": "ANTALYA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "21:01:39",
+            "Latitude": "36.6798",
+            "Longitude": "28.2153",
+            "Depth": "42.1",
+            "ML": "1.3",
+            "Location": "BAYIR MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.03.11",
             "Time": "20:52:26",
             "Latitude": "39.2762",
             "Longitude": "29.3368",
             "Depth": "0.0",
             "ML": "2.2",
             "Location": "SEYHCAKIR HISARCIK KUTAHYA"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "20:14:23",
+            "Latitude": "39.2045",
+            "Longitude": "27.8463",
+            "Depth": "6.3",
+            "ML": "1.5",
+            "Location": "ALACALAR KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "19:37:31",
+            "Latitude": "40.1753",
+            "Longitude": "31.5955",
+            "Depth": "10.9",
+            "ML": "2.2",
+            "Location": "ATCA NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "19:19:36",
+            "Latitude": "40.1652",
+            "Longitude": "31.6417",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "ULUKOY NALLIHAN ANKARA"
         },
         {
             "Date": "2022.03.11",
@@ -4409,51 +4454,6 @@
             "Depth": "2.4",
             "ML": "2.4",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "15:22:47",
-            "Latitude": "39.1578",
-            "Longitude": "29.4403",
-            "Depth": "13.0",
-            "ML": "1.6",
-            "Location": "PUSATLAR CAVDARHISAR KUTAHYA"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "15:04:01",
-            "Latitude": "36.9980",
-            "Longitude": "30.4392",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "SOGUTCUK KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "14:56:50",
-            "Latitude": "36.9703",
-            "Longitude": "30.2695",
-            "Depth": "18.2",
-            "ML": "2.3",
-            "Location": "YAZIR KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "14:44:42",
-            "Latitude": "37.0125",
-            "Longitude": "30.4125",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "SOGUTCUK KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "14:14:40",
-            "Latitude": "39.5737",
-            "Longitude": "41.1732",
-            "Depth": "5.9",
-            "ML": "3.3",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
         }
     ]
 }
