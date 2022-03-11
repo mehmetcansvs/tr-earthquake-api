@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.11",
+            "Time": "15:16:13",
+            "Latitude": "39.5000",
+            "Longitude": "26.9467",
+            "Depth": "3.0",
+            "ML": "2.7",
+            "Location": "BURHANIYE BALIKESIR"
+        },
+        {
+            "Date": "2022.03.11",
             "Time": "14:33:27",
             "Latitude": "36.0062",
             "Longitude": "28.6775",
@@ -4445,15 +4454,6 @@
             "Depth": "111.5",
             "ML": "2.8",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "13:26:09",
-            "Latitude": "39.5718",
-            "Longitude": "41.1472",
-            "Depth": "10.1",
-            "ML": "2.2",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
         }
     ]
 }
