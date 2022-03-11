@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.11",
+            "Time": "10:47:39",
+            "Latitude": "34.7578",
+            "Longitude": "24.5105",
+            "Depth": "24.1",
+            "ML": "3.8",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.11",
+            "Time": "09:23:13",
+            "Latitude": "37.0878",
+            "Longitude": "28.3850",
+            "Depth": "9.0",
+            "ML": "1.8",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.11",
             "Time": "07:56:14",
             "Latitude": "35.8567",
             "Longitude": "30.9337",
@@ -3494,6 +3512,15 @@
         },
         {
             "Date": "2022.03.02",
+            "Time": "07:15:56",
+            "Latitude": "35.0675",
+            "Longitude": "25.2740",
+            "Depth": "5.5",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.02",
             "Time": "06:45:42",
             "Latitude": "36.6785",
             "Longitude": "33.6098",
@@ -4427,33 +4454,6 @@
             "Depth": "17.8",
             "ML": "1.1",
             "Location": "YUVAKLI TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "11:34:50",
-            "Latitude": "39.5917",
-            "Longitude": "41.1330",
-            "Depth": "11.2",
-            "ML": "2.6",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "11:34:21",
-            "Latitude": "41.0105",
-            "Longitude": "43.8015",
-            "Depth": "14.7",
-            "ML": "2.4",
-            "Location": "IBISKOY AKYAKA KARS"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "11:25:52",
-            "Latitude": "39.5565",
-            "Longitude": "41.2045",
-            "Depth": "7.5",
-            "ML": "2.3",
-            "Location": "KARLICA TEKMAN ERZURUM"
         }
     ]
 }
