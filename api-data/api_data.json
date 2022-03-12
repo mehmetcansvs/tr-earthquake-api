@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.03.13",
+            "Time": "00:34:44",
+            "Latitude": "35.0780",
+            "Longitude": "33.8832",
+            "Depth": "5.5",
+            "ML": "2.1",
+            "Location": "KIBRIS GAZIMAGUSA"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "00:11:50",
+            "Latitude": "37.0583",
+            "Longitude": "28.3627",
+            "Depth": "4.2",
+            "ML": "1.5",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
             "Date": "2022.03.12",
             "Time": "22:51:25",
             "Latitude": "36.2760",
@@ -4436,24 +4454,6 @@
             "Depth": "9.4",
             "ML": "1.7",
             "Location": "KARLICA KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "10:57:03",
-            "Latitude": "37.5010",
-            "Longitude": "38.0395",
-            "Depth": "10.8",
-            "ML": "1.5",
-            "Location": "YENIKOY BESNI ADIYAMAN"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "09:38:24",
-            "Latitude": "41.1078",
-            "Longitude": "39.9850",
-            "Depth": "26.2",
-            "ML": "2.2",
-            "Location": "TRABZON ACIKLARI KARADENIZ"
         }
     ]
 }
