@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.03.12",
+            "Time": "01:13:18",
+            "Latitude": "38.9672",
+            "Longitude": "28.0217",
+            "Depth": "5.7",
+            "ML": "1.7",
+            "Location": "SARNICKOY AKHISAR MANISA"
+        },
+        {
             "Date": "2022.03.11",
             "Time": "23:47:36",
             "Latitude": "37.0752",
@@ -4445,15 +4454,6 @@
             "Depth": "5.3",
             "ML": "1.9",
             "Location": "HOPANDANISMENT HARMANCIK BURSA"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "17:51:58",
-            "Latitude": "39.4742",
-            "Longitude": "30.4443",
-            "Depth": "5.3",
-            "ML": "1.6",
-            "Location": "KAYACIK ODUNPAZARI ESKISEHIR"
         }
     ]
 }
