@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.12",
+            "Time": "22:51:25",
+            "Latitude": "36.2760",
+            "Longitude": "28.9822",
+            "Depth": "15.0",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.12",
+            "Time": "21:09:15",
+            "Latitude": "39.3348",
+            "Longitude": "37.5552",
+            "Depth": "3.2",
+            "ML": "1.7",
+            "Location": "SARIKADI KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.03.12",
             "Time": "21:04:17",
             "Latitude": "39.0480",
             "Longitude": "27.8387",
@@ -4436,24 +4454,6 @@
             "Depth": "26.2",
             "ML": "2.2",
             "Location": "TRABZON ACIKLARI KARADENIZ"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "08:18:52",
-            "Latitude": "39.6597",
-            "Longitude": "35.4033",
-            "Depth": "5.8",
-            "ML": "1.6",
-            "Location": "KARACALAR SARIKAYA YOZGAT"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "08:15:04",
-            "Latitude": "39.6000",
-            "Longitude": "35.4770",
-            "Depth": "5.0",
-            "ML": "3.3",
-            "Location": "KARAELLI SARIKAYA YOZGAT"
         }
     ]
 }
