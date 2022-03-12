@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.12",
+            "Time": "10:34:36",
+            "Latitude": "37.9917",
+            "Longitude": "29.0947",
+            "Depth": "6.7",
+            "ML": "1.8",
+            "Location": "HAYTABEY DENIZLI"
+        },
+        {
+            "Date": "2022.03.12",
             "Time": "08:52:48",
             "Latitude": "36.9038",
             "Longitude": "27.5663",
@@ -17,6 +26,15 @@
             "Depth": "9.5",
             "ML": "2.3",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.12",
+            "Time": "08:14:54",
+            "Latitude": "36.9317",
+            "Longitude": "29.7805",
+            "Depth": "30.6",
+            "ML": "1.6",
+            "Location": "CIVGALAR KORKUTELI ANTALYA"
         },
         {
             "Date": "2022.03.12",
@@ -4436,24 +4454,6 @@
             "Depth": "3.0",
             "ML": "1.8",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "21:30:35",
-            "Latitude": "36.3880",
-            "Longitude": "29.2580",
-            "Depth": "17.4",
-            "ML": "1.9",
-            "Location": "GOLBENT FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.02.28",
-            "Time": "21:25:07",
-            "Latitude": "39.6337",
-            "Longitude": "41.4367",
-            "Depth": "8.1",
-            "ML": "1.0",
-            "Location": "ERENCE TEKMAN ERZURUM"
         }
     ]
 }
