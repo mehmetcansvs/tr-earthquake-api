@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.12",
+            "Time": "21:04:17",
+            "Latitude": "39.0480",
+            "Longitude": "27.8387",
+            "Depth": "11.8",
+            "ML": "1.9",
+            "Location": "MUSALAR AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.03.12",
+            "Time": "19:05:31",
+            "Latitude": "39.6537",
+            "Longitude": "41.1365",
+            "Depth": "11.6",
+            "ML": "2.1",
+            "Location": "KARASEYH CAT ERZURUM"
+        },
+        {
+            "Date": "2022.03.12",
+            "Time": "19:02:34",
+            "Latitude": "38.8102",
+            "Longitude": "31.5532",
+            "Depth": "2.9",
+            "ML": "1.8",
+            "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.03.12",
             "Time": "18:39:15",
             "Latitude": "39.6792",
             "Longitude": "41.0055",
@@ -4427,33 +4454,6 @@
             "Depth": "5.0",
             "ML": "3.3",
             "Location": "KARAELLI SARIKAYA YOZGAT"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "07:12:05",
-            "Latitude": "38.1070",
-            "Longitude": "27.2058",
-            "Depth": "2.8",
-            "ML": "1.9",
-            "Location": "ATAKOY MENDERES IZMIR"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "05:29:35",
-            "Latitude": "37.1097",
-            "Longitude": "28.5910",
-            "Depth": "17.1",
-            "ML": "1.6",
-            "Location": "ARICILAR ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "05:24:55",
-            "Latitude": "38.4152",
-            "Longitude": "38.5665",
-            "Depth": "5.4",
-            "ML": "2.5",
-            "Location": "SISMAN BATTALGAZI MALATYA"
         }
     ]
 }
