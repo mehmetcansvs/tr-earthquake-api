@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.13",
+            "Time": "21:41:54",
+            "Latitude": "37.0175",
+            "Longitude": "28.3885",
+            "Depth": "8.0",
+            "ML": "3.6",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "21:25:23",
+            "Latitude": "37.6687",
+            "Longitude": "35.5252",
+            "Depth": "9.0",
+            "ML": "2.6",
+            "Location": "KOPRUCUK ALADAG ADANA"
+        },
+        {
+            "Date": "2022.03.13",
             "Time": "21:06:42",
             "Latitude": "38.9413",
             "Longitude": "26.6948",
@@ -4454,24 +4472,6 @@
             "Depth": "85.5",
             "ML": "2.5",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "22:01:29",
-            "Latitude": "35.8333",
-            "Longitude": "23.2753",
-            "Depth": "6.8",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "21:42:31",
-            "Latitude": "35.1970",
-            "Longitude": "26.9123",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
