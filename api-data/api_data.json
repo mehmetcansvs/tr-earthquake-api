@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.13",
+            "Time": "13:29:51",
+            "Latitude": "40.1450",
+            "Longitude": "24.2015",
+            "Depth": "28.4",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "13:02:09",
+            "Latitude": "36.2590",
+            "Longitude": "27.0765",
+            "Depth": "17.5",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "13:00:20",
+            "Latitude": "38.0655",
+            "Longitude": "28.8543",
+            "Depth": "3.1",
+            "ML": "1.6",
+            "Location": "BOZALAN BULDAN DENIZLI"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "11:59:49",
+            "Latitude": "36.4288",
+            "Longitude": "22.6690",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.03.13",
             "Time": "10:39:35",
             "Latitude": "37.1292",
             "Longitude": "28.6528",
@@ -4436,42 +4472,6 @@
             "Depth": "4.8",
             "ML": "2.7",
             "Location": "OVACIK KEMER ANTALYA"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "18:47:58",
-            "Latitude": "37.5063",
-            "Longitude": "38.9022",
-            "Depth": "3.5",
-            "ML": "1.5",
-            "Location": "KIRBASI HILVAN SANLIURFA"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "18:45:47",
-            "Latitude": "37.8747",
-            "Longitude": "26.9377",
-            "Depth": "5.4",
-            "ML": "2.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "18:33:41",
-            "Latitude": "38.7875",
-            "Longitude": "27.9513",
-            "Depth": "16.2",
-            "ML": "1.4",
-            "Location": "KARAYAGCI AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "17:48:38",
-            "Latitude": "39.9803",
-            "Longitude": "24.0622",
-            "Depth": "29.0",
-            "ML": "3.1",
-            "Location": "YUNANISTAN"
         }
     ]
 }
