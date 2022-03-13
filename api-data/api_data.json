@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.13",
+            "Time": "02:39:12",
+            "Latitude": "39.8713",
+            "Longitude": "40.1015",
+            "Depth": "18.6",
+            "ML": "1.5",
+            "Location": "YUREKLI CAYIRLI ERZINCAN"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "02:19:15",
+            "Latitude": "36.1730",
+            "Longitude": "31.1707",
+            "Depth": "6.4",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "02:08:41",
+            "Latitude": "35.9517",
+            "Longitude": "27.5117",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "01:52:36",
+            "Latitude": "40.0397",
+            "Longitude": "27.4188",
+            "Depth": "8.9",
+            "ML": "2.3",
+            "Location": "CAMOBA YENICE CANAKKALE"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "01:17:19",
+            "Latitude": "36.1770",
+            "Longitude": "27.7545",
+            "Depth": "7.6",
+            "ML": "2.3",
+            "Location": "RODOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.13",
             "Time": "00:34:44",
             "Latitude": "35.0780",
             "Longitude": "33.8832",
@@ -4418,42 +4463,6 @@
             "Depth": "62.7",
             "ML": "1.8",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "12:46:02",
-            "Latitude": "39.0187",
-            "Longitude": "29.7903",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "SARAYCIK ALTINTAS KUTAHYA REVIZE GURLEYIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "11:57:34",
-            "Latitude": "36.6392",
-            "Longitude": "36.3228",
-            "Depth": "19.6",
-            "ML": "1.7",
-            "Location": "KALEDIBI ISKENDERUN HATAY"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "11:11:37",
-            "Latitude": "36.4247",
-            "Longitude": "27.1492",
-            "Depth": "6.8",
-            "ML": "1.9",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "11:11:27",
-            "Latitude": "39.2863",
-            "Longitude": "40.7487",
-            "Depth": "9.4",
-            "ML": "1.7",
-            "Location": "KARLICA KARLIOVA BINGOL"
         }
     ]
 }
