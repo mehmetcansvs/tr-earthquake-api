@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.13",
+            "Time": "21:06:42",
+            "Latitude": "38.9413",
+            "Longitude": "26.6948",
+            "Depth": "8.7",
+            "ML": "2.4",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "21:00:24",
+            "Latitude": "38.9527",
+            "Longitude": "26.6742",
+            "Depth": "7.9",
+            "ML": "3.9",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.13",
             "Time": "16:30:21",
             "Latitude": "39.4158",
             "Longitude": "28.4522",
@@ -4454,24 +4472,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "21:37:39",
-            "Latitude": "40.2093",
-            "Longitude": "41.4378",
-            "Depth": "3.6",
-            "ML": "1.1",
-            "Location": "GUZELYAYLA YAKUTIYE ERZURUM"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "20:48:30",
-            "Latitude": "36.3462",
-            "Longitude": "29.6183",
-            "Depth": "3.9",
-            "ML": "1.0",
-            "Location": "SINNELI KAS ANTALYA"
         }
     ]
 }
