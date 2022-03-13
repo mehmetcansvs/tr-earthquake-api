@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.13",
+            "Time": "10:39:35",
+            "Latitude": "37.1292",
+            "Longitude": "28.6528",
+            "Depth": "16.2",
+            "ML": "1.2",
+            "Location": "KAVAKCALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "10:07:20",
+            "Latitude": "38.3845",
+            "Longitude": "35.1880",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "SEYHSABAN INCESU KAYSERI"
+        },
+        {
+            "Date": "2022.03.13",
             "Time": "07:42:50",
             "Latitude": "40.2790",
             "Longitude": "36.4843",
@@ -4454,24 +4472,6 @@
             "Depth": "29.0",
             "ML": "3.1",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "16:33:50",
-            "Latitude": "36.1268",
-            "Longitude": "33.5675",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "16:27:05",
-            "Latitude": "36.8257",
-            "Longitude": "27.9770",
-            "Depth": "65.8",
-            "ML": "2.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
