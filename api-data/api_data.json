@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.13",
+            "Time": "05:43:05",
+            "Latitude": "41.0395",
+            "Longitude": "33.6613",
+            "Depth": "3.9",
+            "ML": "2.4",
+            "Location": "EKSIK ILGAZ CANKIRI"
+        },
+        {
+            "Date": "2022.03.13",
             "Time": "04:37:19",
             "Latitude": "37.0712",
             "Longitude": "28.3868",
@@ -4454,15 +4463,6 @@
             "Depth": "12.3",
             "ML": "1.8",
             "Location": "ADAKOY SARAYKOY DENIZLI REVIZE KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "15:40:12",
-            "Latitude": "36.1000",
-            "Longitude": "33.5182",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "YANISLI GULNAR MERSIN"
         }
     ]
 }
