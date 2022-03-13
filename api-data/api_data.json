@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.13",
+            "Time": "07:42:50",
+            "Latitude": "40.2790",
+            "Longitude": "36.4843",
+            "Depth": "5.3",
+            "ML": "2.4",
+            "Location": "DEREYAKA TOKAT"
+        },
+        {
+            "Date": "2022.03.13",
+            "Time": "07:34:55",
+            "Latitude": "37.8427",
+            "Longitude": "41.9698",
+            "Depth": "1.8",
+            "ML": "2.6",
+            "Location": "KALENDER SIIRT"
+        },
+        {
+            "Date": "2022.03.13",
             "Time": "05:43:05",
             "Latitude": "41.0395",
             "Longitude": "33.6613",
@@ -4454,15 +4472,6 @@
             "Depth": "65.8",
             "ML": "2.1",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.01",
-            "Time": "16:25:39",
-            "Latitude": "37.9702",
-            "Longitude": "29.0127",
-            "Depth": "12.3",
-            "ML": "1.8",
-            "Location": "ADAKOY SARAYKOY DENIZLI REVIZE KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
