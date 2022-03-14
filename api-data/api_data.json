@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.14",
+            "Time": "16:34:50",
+            "Latitude": "36.9507",
+            "Longitude": "27.5295",
+            "Depth": "4.4",
+            "ML": "2.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "16:05:36",
+            "Latitude": "36.1142",
+            "Longitude": "27.6712",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "RODOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "15:38:17",
+            "Latitude": "38.0858",
+            "Longitude": "38.3533",
+            "Depth": "5.0",
+            "ML": "4.5",
+            "Location": "TASDAMLAR CELIKHAN ADIYAMAN"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "15:11:34",
+            "Latitude": "37.0333",
+            "Longitude": "28.4018",
+            "Depth": "3.7",
+            "ML": "2.4",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.14",
             "Time": "14:45:48",
             "Latitude": "38.1162",
             "Longitude": "32.7347",
@@ -4436,42 +4472,6 @@
             "Depth": "2.4",
             "ML": "2.0",
             "Location": "GULDIKEN LICE DIYARBAKIR"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "20:12:17",
-            "Latitude": "36.7402",
-            "Longitude": "28.1318",
-            "Depth": "10.4",
-            "ML": "1.2",
-            "Location": "TURGUTKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "20:04:18",
-            "Latitude": "35.4040",
-            "Longitude": "25.3388",
-            "Depth": "12.3",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "20:01:48",
-            "Latitude": "36.7360",
-            "Longitude": "28.1420",
-            "Depth": "8.9",
-            "ML": "1.6",
-            "Location": "ORHANIYE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "19:57:47",
-            "Latitude": "35.1858",
-            "Longitude": "25.3012",
-            "Depth": "4.3",
-            "ML": "3.8",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
