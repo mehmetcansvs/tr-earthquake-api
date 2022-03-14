@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.14",
+            "Time": "18:32:05",
+            "Latitude": "38.8307",
+            "Longitude": "31.5460",
+            "Depth": "9.5",
+            "ML": "2.2",
+            "Location": "ORENKOY EMIRDAG AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "18:08:54",
+            "Latitude": "38.7700",
+            "Longitude": "39.9743",
+            "Depth": "8.7",
+            "ML": "2.5",
+            "Location": "CAKIRKAS KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "17:59:51",
+            "Latitude": "37.0232",
+            "Longitude": "28.4105",
+            "Depth": "7.6",
+            "ML": "1.8",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "17:58:39",
+            "Latitude": "40.8030",
+            "Longitude": "31.3478",
+            "Depth": "18.7",
+            "ML": "1.7",
+            "Location": "DARIYERIHASANBEY KAYNASLI DUZCE"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "17:17:30",
+            "Latitude": "39.1257",
+            "Longitude": "27.5788",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "ADIL SOMA MANISA"
+        },
+        {
+            "Date": "2022.03.14",
             "Time": "16:34:50",
             "Latitude": "36.9507",
             "Longitude": "27.5295",
@@ -4427,51 +4472,6 @@
             "Depth": "11.5",
             "ML": "2.3",
             "Location": "ASMALI MARMARA BALIKESIR MARNARA DENIZI"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "22:58:36",
-            "Latitude": "39.0172",
-            "Longitude": "35.8602",
-            "Depth": "8.3",
-            "ML": "1.6",
-            "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "22:55:58",
-            "Latitude": "43.4797",
-            "Longitude": "39.4380",
-            "Depth": "3.7",
-            "ML": "3.3",
-            "Location": "GURCISTAN ACIKLARI KARADENIZ"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "20:46:24",
-            "Latitude": "40.4542",
-            "Longitude": "28.5170",
-            "Depth": "8.7",
-            "ML": "1.6",
-            "Location": "ESENCE ACIKLARI BURSA MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "20:35:47",
-            "Latitude": "40.3318",
-            "Longitude": "27.7570",
-            "Depth": "10.5",
-            "ML": "1.8",
-            "Location": "ERDEK KORFEZI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "20:33:29",
-            "Latitude": "38.5753",
-            "Longitude": "40.8188",
-            "Depth": "2.4",
-            "ML": "2.0",
-            "Location": "GULDIKEN LICE DIYARBAKIR"
         }
     ]
 }
