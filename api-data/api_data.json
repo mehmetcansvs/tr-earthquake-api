@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.14",
+            "Time": "20:04:46",
+            "Latitude": "37.0190",
+            "Longitude": "28.3865",
+            "Depth": "4.1",
+            "ML": "1.7",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.14",
             "Time": "18:32:05",
             "Latitude": "38.8307",
             "Longitude": "31.5460",
@@ -4463,15 +4472,6 @@
             "Depth": "17.2",
             "ML": "3.1",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "23:04:53",
-            "Latitude": "40.6378",
-            "Longitude": "27.7898",
-            "Depth": "11.5",
-            "ML": "2.3",
-            "Location": "ASMALI MARMARA BALIKESIR MARNARA DENIZI"
         }
     ]
 }
