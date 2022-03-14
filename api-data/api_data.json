@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.14",
+            "Time": "07:28:29",
+            "Latitude": "38.8627",
+            "Longitude": "41.9848",
+            "Depth": "8.4",
+            "ML": "1.7",
+            "Location": "DEMIRCI KORKUT MUS"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "07:27:44",
+            "Latitude": "39.4668",
+            "Longitude": "33.0798",
+            "Depth": "9.7",
+            "ML": "1.2",
+            "Location": "AFSAR BALA ANKARA"
+        },
+        {
+            "Date": "2022.03.14",
             "Time": "06:42:31",
             "Latitude": "37.0322",
             "Longitude": "28.3745",
@@ -4454,24 +4472,6 @@
             "Depth": "8.6",
             "ML": "1.4",
             "Location": "YENIDAL SOLHAN BINGOL"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "10:07:49",
-            "Latitude": "37.3440",
-            "Longitude": "35.3203",
-            "Depth": "9.2",
-            "ML": "1.9",
-            "Location": "NUHLU KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "09:39:57",
-            "Latitude": "35.5762",
-            "Longitude": "27.5147",
-            "Depth": "5.0",
-            "ML": "3.5",
-            "Location": "AKDENIZ"
         }
     ]
 }
