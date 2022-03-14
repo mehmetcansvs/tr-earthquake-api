@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.14",
+            "Time": "10:32:07",
+            "Latitude": "45.7275",
+            "Longitude": "26.4520",
+            "Depth": "39.3",
+            "ML": "4.0",
+            "Location": "ROMANYA"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "09:50:50",
+            "Latitude": "38.7040",
+            "Longitude": "43.3737",
+            "Depth": "11.5",
+            "ML": "1.4",
+            "Location": "OTLUCA VAN REVIZE AKDENIZ"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "09:35:05",
+            "Latitude": "39.5422",
+            "Longitude": "25.9438",
+            "Depth": "4.1",
+            "ML": "1.5",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.14",
             "Time": "07:28:29",
             "Latitude": "38.8627",
             "Longitude": "41.9848",
@@ -4445,33 +4472,6 @@
             "Depth": "5.3",
             "ML": "1.5",
             "Location": "PALAS SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "12:31:05",
-            "Latitude": "38.9845",
-            "Longitude": "35.8435",
-            "Depth": "3.7",
-            "ML": "1.5",
-            "Location": "BUYUKTUZHISAR BUNYAN KAYSERI"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "11:38:05",
-            "Latitude": "38.8915",
-            "Longitude": "35.9508",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "KOSEHACILI BUNYAN KAYSERI REVIZE KARATAS DENIZLI"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "11:06:13",
-            "Latitude": "38.9148",
-            "Longitude": "40.8523",
-            "Depth": "8.6",
-            "ML": "1.4",
-            "Location": "YENIDAL SOLHAN BINGOL"
         }
     ]
 }
