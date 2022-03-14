@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.03.14",
+            "Time": "14:45:48",
+            "Latitude": "38.1162",
+            "Longitude": "32.7347",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "EGRIBAYAT SELCUKLU KONYA"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "14:32:47",
+            "Latitude": "35.7788",
+            "Longitude": "27.4433",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "14:21:04",
+            "Latitude": "37.0317",
+            "Longitude": "28.4362",
+            "Depth": "10.6",
+            "ML": "2.6",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "14:00:27",
+            "Latitude": "40.7718",
+            "Longitude": "31.2670",
+            "Depth": "7.1",
+            "ML": "1.5",
+            "Location": "FINDIKLI KAYNASLI DUZCE"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "13:15:02",
+            "Latitude": "38.8197",
+            "Longitude": "40.9075",
+            "Depth": "9.5",
+            "ML": "1.8",
+            "Location": "GELINTEPE SOLHAN BINGOL"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "12:16:36",
+            "Latitude": "39.7608",
+            "Longitude": "32.9530",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "BEYNAM BALA ANKARA"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "11:54:05",
+            "Latitude": "39.5657",
+            "Longitude": "29.2842",
+            "Depth": "3.0",
+            "ML": "1.7",
+            "Location": "SAPCI TAVSANLI KUTAHYA"
+        },
+        {
+            "Date": "2022.03.14",
             "Time": "11:42:20",
             "Latitude": "37.0237",
             "Longitude": "28.3635",
@@ -11,12 +74,39 @@
         },
         {
             "Date": "2022.03.14",
+            "Time": "11:33:59",
+            "Latitude": "41.1728",
+            "Longitude": "34.5005",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "UZUNYURT KARGI CORUM"
+        },
+        {
+            "Date": "2022.03.14",
             "Time": "11:26:34",
             "Latitude": "37.1888",
             "Longitude": "37.2372",
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "BOYNO SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "11:22:43",
+            "Latitude": "40.8778",
+            "Longitude": "31.7257",
+            "Depth": "6.8",
+            "ML": "1.3",
+            "Location": "TETEMECELE BOLU"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "11:22:13",
+            "Latitude": "40.8762",
+            "Longitude": "31.7072",
+            "Depth": "13.7",
+            "ML": "1.7",
+            "Location": "MESCICELE BOLU"
         },
         {
             "Date": "2022.03.14",
@@ -4382,96 +4472,6 @@
             "Depth": "4.3",
             "ML": "3.8",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "19:54:47",
-            "Latitude": "36.7827",
-            "Longitude": "28.1383",
-            "Depth": "10.3",
-            "ML": "1.4",
-            "Location": "HISARONU MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "19:08:01",
-            "Latitude": "37.8307",
-            "Longitude": "26.5147",
-            "Depth": "8.0",
-            "ML": "2.9",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "18:09:31",
-            "Latitude": "40.7268",
-            "Longitude": "27.4178",
-            "Depth": "10.8",
-            "ML": "2.6",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "17:59:10",
-            "Latitude": "39.0408",
-            "Longitude": "29.8565",
-            "Depth": "8.7",
-            "ML": "1.6",
-            "Location": "ISIKLAR ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "17:54:27",
-            "Latitude": "41.0712",
-            "Longitude": "40.8305",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "YAVUZLAR CAYELI RIZE"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "17:36:03",
-            "Latitude": "40.7123",
-            "Longitude": "29.2933",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "YALOVA ACIKLARI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "15:26:57",
-            "Latitude": "39.9995",
-            "Longitude": "24.1330",
-            "Depth": "24.3",
-            "ML": "3.6",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "14:21:26",
-            "Latitude": "36.5135",
-            "Longitude": "27.2688",
-            "Depth": "8.6",
-            "ML": "1.9",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "14:20:12",
-            "Latitude": "39.8972",
-            "Longitude": "41.3100",
-            "Depth": "1.2",
-            "ML": "1.3",
-            "Location": "PALANDOKEN ERZURUM"
-        },
-        {
-            "Date": "2022.03.02",
-            "Time": "13:41:04",
-            "Latitude": "35.4598",
-            "Longitude": "29.5253",
-            "Depth": "31.6",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
         }
     ]
 }
