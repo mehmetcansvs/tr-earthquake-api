@@ -155,6 +155,15 @@
         },
         {
             "Date": "2022.03.14",
+            "Time": "22:31:51",
+            "Latitude": "36.4343",
+            "Longitude": "22.5670",
+            "Depth": "2.1",
+            "ML": "2.8",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.03.14",
             "Time": "22:05:24",
             "Latitude": "37.1003",
             "Longitude": "28.4478",
@@ -389,6 +398,15 @@
         },
         {
             "Date": "2022.03.14",
+            "Time": "11:03:49",
+            "Latitude": "34.8622",
+            "Longitude": "23.8660",
+            "Depth": "24.4",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.14",
             "Time": "10:32:07",
             "Latitude": "45.7275",
             "Longitude": "26.4520",
@@ -443,6 +461,15 @@
         },
         {
             "Date": "2022.03.14",
+            "Time": "07:08:11",
+            "Latitude": "35.0583",
+            "Longitude": "25.2265",
+            "Depth": "5.2",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.14",
             "Time": "06:42:31",
             "Latitude": "37.0322",
             "Longitude": "28.3745",
@@ -485,6 +512,15 @@
             "Depth": "4.0",
             "ML": "2.9",
             "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2022.03.14",
+            "Time": "05:27:37",
+            "Latitude": "34.9085",
+            "Longitude": "25.2188",
+            "Depth": "6.4",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.03.14",
@@ -4436,42 +4472,6 @@
             "Depth": "8.7",
             "ML": "1.6",
             "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "20:07:58",
-            "Latitude": "37.3983",
-            "Longitude": "29.4168",
-            "Depth": "6.6",
-            "ML": "1.4",
-            "Location": "YENIKOY ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "19:36:21",
-            "Latitude": "37.0915",
-            "Longitude": "28.2035",
-            "Depth": "15.7",
-            "ML": "0.9",
-            "Location": "DENIZOVA MUGLA"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "18:47:28",
-            "Latitude": "39.6158",
-            "Longitude": "41.1533",
-            "Depth": "12.5",
-            "ML": "1.3",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "18:30:35",
-            "Latitude": "38.1735",
-            "Longitude": "38.8412",
-            "Depth": "11.6",
-            "ML": "2.0",
-            "Location": "TASMIS PUTURGE MALATYA"
         }
     ]
 }
