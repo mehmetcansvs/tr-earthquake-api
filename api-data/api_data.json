@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.15",
+            "Time": "23:23:08",
+            "Latitude": "38.7925",
+            "Longitude": "39.9747",
+            "Depth": "5.7",
+            "ML": "1.9",
+            "Location": "BAYRAMYAZI KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "23:08:29",
+            "Latitude": "38.7633",
+            "Longitude": "39.9592",
+            "Depth": "4.2",
+            "ML": "2.3",
+            "Location": "CAKIRKAS KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "23:05:12",
+            "Latitude": "34.7968",
+            "Longitude": "23.9282",
+            "Depth": "28.4",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.15",
             "Time": "21:33:00",
             "Latitude": "38.8018",
             "Longitude": "26.3928",
@@ -53,6 +80,15 @@
             "Depth": "6.3",
             "ML": "2.1",
             "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "19:19:49",
+            "Latitude": "35.1643",
+            "Longitude": "25.1732",
+            "Depth": "9.8",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.03.15",
@@ -4427,42 +4463,6 @@
             "Depth": "5.0",
             "ML": "3.0",
             "Location": "CAMONU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "08:25:47",
-            "Latitude": "36.5593",
-            "Longitude": "26.6780",
-            "Depth": "9.1",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "07:13:04",
-            "Latitude": "34.7130",
-            "Longitude": "24.9888",
-            "Depth": "24.3",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "07:09:49",
-            "Latitude": "40.6915",
-            "Longitude": "31.4153",
-            "Depth": "9.1",
-            "ML": "1.7",
-            "Location": "AKCAALAN BOLU"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "06:54:34",
-            "Latitude": "39.1323",
-            "Longitude": "29.3693",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "YESILOVA GEDIZ KUTAHYA"
         }
     ]
 }
