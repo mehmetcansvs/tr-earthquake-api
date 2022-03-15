@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.15",
+            "Time": "07:08:19",
+            "Latitude": "38.7315",
+            "Longitude": "40.0352",
+            "Depth": "5.8",
+            "ML": "2.3",
+            "Location": "KARAMAN KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "06:47:03",
+            "Latitude": "37.0490",
+            "Longitude": "28.4047",
+            "Depth": "10.2",
+            "ML": "1.9",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "06:35:22",
+            "Latitude": "37.8683",
+            "Longitude": "26.9443",
+            "Depth": "13.8",
+            "ML": "2.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "06:13:01",
+            "Latitude": "38.9425",
+            "Longitude": "41.9553",
+            "Depth": "8.7",
+            "ML": "2.0",
+            "Location": "OGLAKKAYA BULANIK MUS"
+        },
+        {
+            "Date": "2022.03.15",
             "Time": "05:15:27",
             "Latitude": "37.9103",
             "Longitude": "27.2320",
@@ -4436,42 +4472,6 @@
             "Depth": "11.6",
             "ML": "2.0",
             "Location": "TASMIS PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "17:50:20",
-            "Latitude": "38.1962",
-            "Longitude": "38.7910",
-            "Depth": "4.8",
-            "ML": "1.6",
-            "Location": "ORMANICI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "15:56:37",
-            "Latitude": "37.0133",
-            "Longitude": "28.3818",
-            "Depth": "6.7",
-            "ML": "3.1",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "15:11:59",
-            "Latitude": "39.8570",
-            "Longitude": "33.0577",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "KARACAHASAN ELMADAG ANKARA"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "13:32:06",
-            "Latitude": "37.3930",
-            "Longitude": "30.4587",
-            "Depth": "1.9",
-            "ML": "1.5",
-            "Location": "KARAALILER BUCAK BURDUR"
         }
     ]
 }
