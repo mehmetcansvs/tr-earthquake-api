@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.15",
+            "Time": "03:17:25",
+            "Latitude": "39.6183",
+            "Longitude": "41.1778",
+            "Depth": "9.3",
+            "ML": "1.5",
+            "Location": "TURNAGOL TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "02:55:40",
+            "Latitude": "39.4117",
+            "Longitude": "26.2717",
+            "Depth": "6.2",
+            "ML": "1.6",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "01:57:21",
+            "Latitude": "38.4095",
+            "Longitude": "31.0988",
+            "Depth": "1.0",
+            "ML": "1.2",
+            "Location": "CAMHARMAN YALVAC ISPARTA"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "01:42:08",
+            "Latitude": "40.7418",
+            "Longitude": "30.7380",
+            "Depth": "15.9",
+            "ML": "1.5",
+            "Location": "SULEYMANIYE HENDEK SAKARYA"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "01:15:47",
+            "Latitude": "38.3378",
+            "Longitude": "29.8478",
+            "Depth": "5.3",
+            "ML": "2.0",
+            "Location": "CAGLAYAN CIVRIL DENIZLI"
+        },
+        {
+            "Date": "2022.03.15",
             "Time": "00:23:15",
             "Latitude": "39.6625",
             "Longitude": "41.0975",
@@ -4427,51 +4472,6 @@
             "Depth": "4.2",
             "ML": "2.2",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "09:46:25",
-            "Latitude": "39.5633",
-            "Longitude": "41.1852",
-            "Depth": "8.4",
-            "ML": "2.2",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "08:17:52",
-            "Latitude": "39.6530",
-            "Longitude": "26.0825",
-            "Depth": "16.7",
-            "ML": "1.5",
-            "Location": "TAVAKLI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "05:58:04",
-            "Latitude": "39.5610",
-            "Longitude": "26.2142",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "CAMKOY AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "05:42:56",
-            "Latitude": "37.7778",
-            "Longitude": "26.7903",
-            "Depth": "1.2",
-            "ML": "2.0",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "05:19:47",
-            "Latitude": "37.6852",
-            "Longitude": "29.3147",
-            "Depth": "1.4",
-            "ML": "1.9",
-            "Location": "KOCAPINAR SERINHISAR DENIZLI"
         }
     ]
 }
