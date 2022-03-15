@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.15",
+            "Time": "15:16:20",
+            "Latitude": "39.6177",
+            "Longitude": "41.1357",
+            "Depth": "6.4",
+            "ML": "1.9",
+            "Location": "BUDAKLAR CAT ERZURUM"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "14:44:10",
+            "Latitude": "37.0600",
+            "Longitude": "28.3858",
+            "Depth": "10.5",
+            "ML": "1.8",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "13:12:54",
+            "Latitude": "37.1723",
+            "Longitude": "28.3718",
+            "Depth": "1.1",
+            "ML": "1.7",
+            "Location": "YENIKOY MUGLA"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "13:10:37",
+            "Latitude": "37.1265",
+            "Longitude": "28.7233",
+            "Depth": "8.6",
+            "ML": "1.8",
+            "Location": "TURGUT ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "13:04:24",
+            "Latitude": "39.6472",
+            "Longitude": "30.7092",
+            "Depth": "11.3",
+            "ML": "1.6",
+            "Location": "KIRAVDAN ODUNPAZARI ESKISEHIR"
+        },
+        {
+            "Date": "2022.03.15",
             "Time": "12:59:04",
             "Latitude": "39.7160",
             "Longitude": "41.3572",
@@ -11,12 +56,48 @@
         },
         {
             "Date": "2022.03.15",
+            "Time": "12:38:35",
+            "Latitude": "40.8020",
+            "Longitude": "43.8797",
+            "Depth": "20.0",
+            "ML": "2.2",
+            "Location": "KALKANKALE AKYAKA KARS"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "12:29:08",
+            "Latitude": "35.4578",
+            "Longitude": "26.7185",
+            "Depth": "5.5",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "12:21:48",
+            "Latitude": "37.8618",
+            "Longitude": "28.7663",
+            "Depth": "28.7",
+            "ML": "1.5",
+            "Location": "TIRKAZ SARAYKOY DENIZLI"
+        },
+        {
+            "Date": "2022.03.15",
             "Time": "12:14:38",
             "Latitude": "36.4428",
             "Longitude": "30.6172",
             "Depth": "26.4",
             "ML": "2.3",
             "Location": "TEKIROVA KEMER ANTALYA"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "11:56:12",
+            "Latitude": "40.1815",
+            "Longitude": "31.6450",
+            "Depth": "8.0",
+            "ML": "2.0",
+            "Location": "KARAKOY NALLIHAN ANKARA"
         },
         {
             "Date": "2022.03.15",
@@ -4391,87 +4472,6 @@
             "Depth": "2.2",
             "ML": "2.5",
             "Location": "CAKALLI HALFETI SANLIURFA"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "03:01:53",
-            "Latitude": "41.1450",
-            "Longitude": "43.9080",
-            "Depth": "5.8",
-            "ML": "2.1",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "02:36:24",
-            "Latitude": "41.1577",
-            "Longitude": "43.9910",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "01:26:17",
-            "Latitude": "37.0735",
-            "Longitude": "28.4040",
-            "Depth": "6.9",
-            "ML": "2.2",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "00:51:38",
-            "Latitude": "37.0432",
-            "Longitude": "28.2647",
-            "Depth": "5.0",
-            "ML": "1.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "00:10:29",
-            "Latitude": "37.8207",
-            "Longitude": "30.9198",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "CAYKOY EGIRDIR ISPARTA"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "23:46:42",
-            "Latitude": "39.6040",
-            "Longitude": "41.1152",
-            "Depth": "15.8",
-            "ML": "2.1",
-            "Location": "BUDAKLAR CAT ERZURUM"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "23:32:10",
-            "Latitude": "35.0057",
-            "Longitude": "26.7743",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "23:27:15",
-            "Latitude": "39.8773",
-            "Longitude": "28.7992",
-            "Depth": "5.3",
-            "ML": "1.6",
-            "Location": "YENIDANISMENT ORHANELI BURSA"
-        },
-        {
-            "Date": "2022.03.03",
-            "Time": "23:15:17",
-            "Latitude": "38.7937",
-            "Longitude": "31.3410",
-            "Depth": "11.7",
-            "ML": "1.5",
-            "Location": "BUYUKKARABAG BOLVADIN AFYONKARAHISAR"
         }
     ]
 }
