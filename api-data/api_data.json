@@ -2,12 +2,21 @@
     "data": [
         {
             "Date": "2022.03.15",
-            "Time": "15:16:20",
-            "Latitude": "39.6177",
-            "Longitude": "41.1357",
-            "Depth": "6.4",
-            "ML": "1.9",
-            "Location": "BUDAKLAR CAT ERZURUM"
+            "Time": "16:11:51",
+            "Latitude": "36.2050",
+            "Longitude": "27.5190",
+            "Depth": "58.1",
+            "ML": "1.8",
+            "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "15:25:58",
+            "Latitude": "41.9558",
+            "Longitude": "42.6225",
+            "Depth": "5.0",
+            "ML": "4.5",
+            "Location": "GURCISTAN REVIZE BUDAKLAR CAT ERZURUM"
         },
         {
             "Date": "2022.03.15",
@@ -4454,24 +4463,6 @@
             "Depth": "6.5",
             "ML": "2.1",
             "Location": "KEMALYERI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "03:40:13",
-            "Latitude": "40.3865",
-            "Longitude": "34.4475",
-            "Depth": "6.5",
-            "ML": "2.3",
-            "Location": "ORTAKOY SUNGURLU CORUM"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "03:22:12",
-            "Latitude": "37.4112",
-            "Longitude": "38.0203",
-            "Depth": "2.2",
-            "ML": "2.5",
-            "Location": "CAKALLI HALFETI SANLIURFA"
         }
     ]
 }
