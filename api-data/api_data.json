@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.15",
+            "Time": "21:33:00",
+            "Latitude": "38.8018",
+            "Longitude": "26.3928",
+            "Depth": "14.6",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "21:24:35",
+            "Latitude": "37.5457",
+            "Longitude": "36.0320",
+            "Depth": "23.2",
+            "ML": "1.1",
+            "Location": "GAFARLI SUMBAS OSMANIYE"
+        },
+        {
+            "Date": "2022.03.15",
             "Time": "21:00:57",
             "Latitude": "40.0660",
             "Longitude": "40.7148",
@@ -4445,24 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "YESILOVA GEDIZ KUTAHYA"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "06:50:50",
-            "Latitude": "40.0885",
-            "Longitude": "41.4558",
-            "Depth": "11.8",
-            "ML": "1.5",
-            "Location": "KOSKKOY YAKUTIYE ERZURUM"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "06:19:09",
-            "Latitude": "37.2217",
-            "Longitude": "31.1895",
-            "Depth": "132.4",
-            "ML": "2.3",
-            "Location": "GAZILER MANAVGAT ANTALYA"
         }
     ]
 }
