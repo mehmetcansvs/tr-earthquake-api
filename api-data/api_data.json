@@ -2,6 +2,87 @@
     "data": [
         {
             "Date": "2022.03.16",
+            "Time": "14:38:54",
+            "Latitude": "35.4195",
+            "Longitude": "27.6712",
+            "Depth": "5.5",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "14:21:16",
+            "Latitude": "38.3177",
+            "Longitude": "38.9363",
+            "Depth": "16.7",
+            "ML": "1.8",
+            "Location": "KOLDERE DOGANYOL MALATYA"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "14:20:26",
+            "Latitude": "36.1660",
+            "Longitude": "33.5330",
+            "Depth": "0.0",
+            "ML": "0.7",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "14:18:12",
+            "Latitude": "37.9077",
+            "Longitude": "34.7193",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "NIGDE"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "14:17:58",
+            "Latitude": "36.1778",
+            "Longitude": "36.5608",
+            "Depth": "4.5",
+            "ML": "1.6",
+            "Location": "TURKIYE SURIYE SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "14:17:39",
+            "Latitude": "40.5152",
+            "Longitude": "29.1318",
+            "Depth": "6.8",
+            "ML": "1.4",
+            "Location": "HAYDARIYE GEMLIK BURSA"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "14:14:56",
+            "Latitude": "37.9845",
+            "Longitude": "34.8342",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "OZYURT NIGDE"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "13:58:20",
+            "Latitude": "40.2935",
+            "Longitude": "29.4368",
+            "Depth": "1.0",
+            "ML": "1.0",
+            "Location": "FETHIYE YENISEHIR BURSA"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "13:03:58",
+            "Latitude": "39.3358",
+            "Longitude": "29.1200",
+            "Depth": "6.6",
+            "ML": "1.7",
+            "Location": "UMUTLU EMET KUTAHYA"
+        },
+        {
+            "Date": "2022.03.16",
             "Time": "12:43:39",
             "Latitude": "37.1307",
             "Longitude": "28.4070",
@@ -4373,87 +4454,6 @@
             "Depth": "23.6",
             "ML": "2.0",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "02:09:09",
-            "Latitude": "38.3222",
-            "Longitude": "38.8482",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "UYANIK KALE MALATYA"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "02:03:41",
-            "Latitude": "37.0318",
-            "Longitude": "23.1422",
-            "Depth": "8.1",
-            "ML": "2.4",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "01:11:29",
-            "Latitude": "37.0448",
-            "Longitude": "28.3608",
-            "Depth": "6.5",
-            "ML": "1.5",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "00:16:40",
-            "Latitude": "37.0663",
-            "Longitude": "28.3982",
-            "Depth": "24.0",
-            "ML": "1.3",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "00:08:40",
-            "Latitude": "39.1432",
-            "Longitude": "29.0523",
-            "Depth": "18.3",
-            "ML": "1.5",
-            "Location": "AHLATLICESME SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "23:43:59",
-            "Latitude": "37.0820",
-            "Longitude": "28.3732",
-            "Depth": "4.6",
-            "ML": "1.4",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "23:17:01",
-            "Latitude": "36.4028",
-            "Longitude": "28.0848",
-            "Depth": "48.5",
-            "ML": "1.5",
-            "Location": "RODOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "22:57:46",
-            "Latitude": "37.0667",
-            "Longitude": "28.4098",
-            "Depth": "18.2",
-            "ML": "0.6",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "22:53:00",
-            "Latitude": "37.0848",
-            "Longitude": "28.3248",
-            "Depth": "23.7",
-            "ML": "0.8",
-            "Location": "AKYAKA ULA MUGLA"
         }
     ]
 }
