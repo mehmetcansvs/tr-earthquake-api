@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.16",
+            "Time": "05:20:16",
+            "Latitude": "34.9813",
+            "Longitude": "25.2772",
+            "Depth": "15.0",
+            "ML": "4.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.16",
             "Time": "01:36:35",
             "Latitude": "38.1833",
             "Longitude": "26.5682",
@@ -4454,15 +4463,6 @@
             "Depth": "6.3",
             "ML": "2.1",
             "Location": "KUSKAYA BALIKESIR"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "09:06:06",
-            "Latitude": "39.1275",
-            "Longitude": "27.6105",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "ADIL SOMA MANISA"
         }
     ]
 }
