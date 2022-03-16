@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.16",
+            "Time": "20:39:08",
+            "Latitude": "36.2095",
+            "Longitude": "29.4808",
+            "Depth": "14.1",
+            "ML": "1.4",
+            "Location": "SARIBELEN KAS ANTALYA"
+        },
+        {
+            "Date": "2022.03.16",
             "Time": "18:36:40",
             "Latitude": "37.7758",
             "Longitude": "42.0135",
@@ -4445,15 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "04:53:07",
-            "Latitude": "38.7703",
-            "Longitude": "26.5712",
-            "Depth": "7.9",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
         }
     ]
 }
