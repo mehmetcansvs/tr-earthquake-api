@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.16",
+            "Time": "18:36:40",
+            "Latitude": "37.7758",
+            "Longitude": "42.0135",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "CIRPILI ERUH SIIRT"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "18:09:04",
+            "Latitude": "37.0815",
+            "Longitude": "28.4073",
+            "Depth": "11.5",
+            "ML": "2.4",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "17:21:42",
+            "Latitude": "34.9645",
+            "Longitude": "25.2722",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "17:06:25",
+            "Latitude": "39.4272",
+            "Longitude": "38.5207",
+            "Depth": "6.1",
+            "ML": "2.3",
+            "Location": "COPLER ILIC ERZINCAN"
+        },
+        {
+            "Date": "2022.03.16",
             "Time": "15:44:53",
             "Latitude": "41.1428",
             "Longitude": "26.6280",
@@ -4418,42 +4454,6 @@
             "Depth": "7.9",
             "ML": "1.9",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "04:04:56",
-            "Latitude": "37.0625",
-            "Longitude": "28.1832",
-            "Depth": "26.8",
-            "ML": "0.8",
-            "Location": "KIRAN MUGLA"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "03:23:47",
-            "Latitude": "36.9237",
-            "Longitude": "27.3295",
-            "Depth": "10.8",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "03:21:40",
-            "Latitude": "40.3900",
-            "Longitude": "27.6178",
-            "Depth": "8.4",
-            "ML": "2.8",
-            "Location": "ERDEK KORFEZI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "03:02:06",
-            "Latitude": "37.0385",
-            "Longitude": "28.4172",
-            "Depth": "8.0",
-            "ML": "1.6",
-            "Location": "CITLIK ULA MUGLA"
         }
     ]
 }
