@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.16",
+            "Time": "07:15:19",
+            "Latitude": "38.2622",
+            "Longitude": "38.6857",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "CAYKOY PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "05:57:09",
+            "Latitude": "38.9987",
+            "Longitude": "25.5240",
+            "Depth": "17.7",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.16",
             "Time": "05:42:28",
             "Latitude": "35.1473",
             "Longitude": "26.5617",
@@ -4445,24 +4463,6 @@
             "Depth": "5.0",
             "ML": "2.7",
             "Location": "GECITLI SINCIK ADIYAMAN"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "10:42:51",
-            "Latitude": "39.5878",
-            "Longitude": "41.1468",
-            "Depth": "9.7",
-            "ML": "2.6",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.03.04",
-            "Time": "10:32:09",
-            "Latitude": "39.5543",
-            "Longitude": "41.2123",
-            "Depth": "14.6",
-            "ML": "1.8",
-            "Location": "KARLICA TEKMAN ERZURUM"
         }
     ]
 }
