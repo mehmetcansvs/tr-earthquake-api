@@ -1,6 +1,60 @@
 {
     "data": [
         {
+            "Date": "2022.03.17",
+            "Time": "00:49:07",
+            "Latitude": "38.1263",
+            "Longitude": "32.1145",
+            "Depth": "14.0",
+            "ML": "1.3",
+            "Location": "GUNEYPINAR ILGIN KONYA"
+        },
+        {
+            "Date": "2022.03.17",
+            "Time": "00:43:13",
+            "Latitude": "37.7263",
+            "Longitude": "27.0593",
+            "Depth": "7.9",
+            "ML": "1.1",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.17",
+            "Time": "00:08:41",
+            "Latitude": "37.8283",
+            "Longitude": "26.8422",
+            "Depth": "18.0",
+            "ML": "1.5",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "23:55:31",
+            "Latitude": "38.1478",
+            "Longitude": "38.3340",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "ORTAKOY YESILYURT MALATYA"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "23:35:44",
+            "Latitude": "38.6783",
+            "Longitude": "43.3672",
+            "Depth": "18.2",
+            "ML": "2.1",
+            "Location": "OTLUCA VAN"
+        },
+        {
+            "Date": "2022.03.16",
+            "Time": "23:27:31",
+            "Latitude": "40.1870",
+            "Longitude": "27.6485",
+            "Depth": "10.0",
+            "ML": "1.2",
+            "Location": "GUNDOGAN GONEN BALIKESIR"
+        },
+        {
             "Date": "2022.03.16",
             "Time": "22:38:53",
             "Latitude": "35.9848",
@@ -4400,60 +4454,6 @@
             "Depth": "5.3",
             "ML": "1.9",
             "Location": "KEMER BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "14:46:34",
-            "Latitude": "36.8655",
-            "Longitude": "28.8785",
-            "Depth": "4.6",
-            "ML": "1.6",
-            "Location": "KIZILKAYA DALAMAN MUGLA"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "13:56:13",
-            "Latitude": "36.1945",
-            "Longitude": "33.7680",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "AKDERE SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "13:52:12",
-            "Latitude": "37.8717",
-            "Longitude": "29.3132",
-            "Depth": "3.4",
-            "ML": "1.6",
-            "Location": "KARAPINAR CAL DENIZLI"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "13:04:45",
-            "Latitude": "37.5700",
-            "Longitude": "28.8022",
-            "Depth": "16.6",
-            "ML": "1.2",
-            "Location": "AVDAN TAVAS DENIZLI"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "12:35:04",
-            "Latitude": "38.0893",
-            "Longitude": "32.6397",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "SARICALAR SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "11:36:47",
-            "Latitude": "39.1372",
-            "Longitude": "40.1705",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "PILAVTEPE KARAKOCAN ELAZIG"
         }
     ]
 }
