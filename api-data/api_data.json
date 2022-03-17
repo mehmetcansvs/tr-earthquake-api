@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.17",
+            "Time": "05:01:09",
+            "Latitude": "39.5592",
+            "Longitude": "28.8098",
+            "Depth": "4.0",
+            "ML": "1.6",
+            "Location": "AYVACIK DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.03.17",
             "Time": "02:41:39",
             "Latitude": "35.8793",
             "Longitude": "31.8100",
@@ -4445,15 +4454,6 @@
             "Depth": "1.6",
             "ML": "2.5",
             "Location": "TURANLAR GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "16:33:49",
-            "Latitude": "40.7652",
-            "Longitude": "31.5035",
-            "Depth": "10.3",
-            "ML": "2.1",
-            "Location": "KIZILAGIL BOLU"
         }
     ]
 }
