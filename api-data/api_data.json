@@ -2,12 +2,21 @@
     "data": [
         {
             "Date": "2022.03.17",
-            "Time": "10:36:37",
-            "Latitude": "36.9482",
-            "Longitude": "27.6727",
-            "Depth": "2.0",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
+            "Time": "12:45:59",
+            "Latitude": "35.3390",
+            "Longitude": "33.5858",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "KIBRIS BESPARMAK"
+        },
+        {
+            "Date": "2022.03.17",
+            "Time": "11:37:26",
+            "Latitude": "39.0310",
+            "Longitude": "27.7948",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "TUTENLI AKHISAR MANISA REVIZE GOKOVA KORFEZI AKDENIZ"
         },
         {
             "Date": "2022.03.17",
@@ -4436,24 +4445,6 @@
             "Depth": "7.9",
             "ML": "2.3",
             "Location": "AKTARLI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "22:40:24",
-            "Latitude": "40.1747",
-            "Longitude": "31.8188",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "KUYUCAK BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "22:30:47",
-            "Latitude": "37.7473",
-            "Longitude": "26.9950",
-            "Depth": "7.5",
-            "ML": "2.6",
-            "Location": "SISAM ADASI EGE DENIZI"
         }
     ]
 }
