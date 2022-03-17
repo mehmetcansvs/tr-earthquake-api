@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.17",
+            "Time": "14:15:43",
+            "Latitude": "38.6547",
+            "Longitude": "40.0960",
+            "Depth": "21.3",
+            "ML": "2.0",
+            "Location": "ALTINOLCEK PALU ELAZIG"
+        },
+        {
+            "Date": "2022.03.17",
+            "Time": "13:49:30",
+            "Latitude": "39.1837",
+            "Longitude": "27.5355",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "KOZANLI SOMA MANISA"
+        },
+        {
+            "Date": "2022.03.17",
+            "Time": "13:47:18",
+            "Latitude": "37.5793",
+            "Longitude": "28.8098",
+            "Depth": "16.6",
+            "ML": "1.5",
+            "Location": "AVDAN TAVAS DENIZLI"
+        },
+        {
+            "Date": "2022.03.17",
+            "Time": "13:21:52",
+            "Latitude": "36.4370",
+            "Longitude": "29.5728",
+            "Depth": "4.4",
+            "ML": "1.5",
+            "Location": "YUVACIK KAS ANTALYA"
+        },
+        {
+            "Date": "2022.03.17",
             "Time": "12:45:59",
             "Latitude": "35.3390",
             "Longitude": "33.5858",
@@ -4409,42 +4445,6 @@
             "Depth": "5.4",
             "ML": "1.4",
             "Location": "GULPINAR AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "04:16:56",
-            "Latitude": "35.2668",
-            "Longitude": "25.3253",
-            "Depth": "5.5",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "01:52:43",
-            "Latitude": "40.3935",
-            "Longitude": "26.1017",
-            "Depth": "5.5",
-            "ML": "1.1",
-            "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "00:33:32",
-            "Latitude": "37.0038",
-            "Longitude": "28.4397",
-            "Depth": "15.0",
-            "ML": "1.2",
-            "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "23:27:38",
-            "Latitude": "38.2845",
-            "Longitude": "38.8122",
-            "Depth": "7.9",
-            "ML": "2.3",
-            "Location": "AKTARLI PUTURGE MALATYA"
         }
     ]
 }
