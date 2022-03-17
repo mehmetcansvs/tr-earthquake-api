@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.17",
+            "Time": "08:49:05",
+            "Latitude": "36.9192",
+            "Longitude": "27.6780",
+            "Depth": "20.7",
+            "ML": "2.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.17",
+            "Time": "07:54:58",
+            "Latitude": "39.0480",
+            "Longitude": "40.4430",
+            "Depth": "7.6",
+            "ML": "2.4",
+            "Location": "SUDUGUNU BINGOL"
+        },
+        {
+            "Date": "2022.03.17",
             "Time": "06:24:36",
             "Latitude": "36.9377",
             "Longitude": "27.6295",
@@ -4445,24 +4463,6 @@
             "Depth": "27.1",
             "ML": "0.6",
             "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "20:31:23",
-            "Latitude": "34.7940",
-            "Longitude": "25.0972",
-            "Depth": "20.2",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "20:23:02",
-            "Latitude": "39.5740",
-            "Longitude": "41.1615",
-            "Depth": "9.3",
-            "ML": "1.9",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
         }
     ]
 }
