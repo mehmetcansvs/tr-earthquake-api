@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.17",
+            "Time": "02:41:39",
+            "Latitude": "35.8793",
+            "Longitude": "31.8100",
+            "Depth": "15.9",
+            "ML": "3.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.17",
+            "Time": "01:42:08",
+            "Latitude": "39.4713",
+            "Longitude": "27.8643",
+            "Depth": "13.7",
+            "ML": "1.9",
+            "Location": "TASKOY BALIKESIR"
+        },
+        {
+            "Date": "2022.03.17",
             "Time": "00:49:07",
             "Latitude": "38.1263",
             "Longitude": "32.1145",
@@ -4436,24 +4454,6 @@
             "Depth": "10.3",
             "ML": "2.1",
             "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "16:02:58",
-            "Latitude": "36.1375",
-            "Longitude": "33.5608",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "15:57:37",
-            "Latitude": "40.4125",
-            "Longitude": "26.9960",
-            "Depth": "5.3",
-            "ML": "1.9",
-            "Location": "KEMER BIGA CANAKKALE"
         }
     ]
 }
