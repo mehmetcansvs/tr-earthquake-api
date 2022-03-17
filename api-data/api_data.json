@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.17",
+            "Time": "17:03:35",
+            "Latitude": "40.8397",
+            "Longitude": "28.3593",
+            "Depth": "13.3",
+            "ML": "2.6",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.17",
             "Time": "14:15:43",
             "Latitude": "38.6547",
             "Longitude": "40.0960",
@@ -4436,15 +4445,6 @@
             "Depth": "5.4",
             "ML": "1.9",
             "Location": "YUKARIKOY AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "04:26:52",
-            "Latitude": "39.5550",
-            "Longitude": "26.1308",
-            "Depth": "5.4",
-            "ML": "1.4",
-            "Location": "GULPINAR AYVACIK CANAKKALE"
         }
     ]
 }
