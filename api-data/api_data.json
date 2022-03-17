@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.17",
+            "Time": "20:30:23",
+            "Latitude": "38.9547",
+            "Longitude": "42.7272",
+            "Depth": "9.8",
+            "ML": "2.3",
+            "Location": "DIZDAR ADILCEVAZ BITLIS"
+        },
+        {
+            "Date": "2022.03.17",
+            "Time": "19:33:36",
+            "Latitude": "36.0042",
+            "Longitude": "30.3812",
+            "Depth": "20.6",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.17",
             "Time": "17:03:35",
             "Latitude": "40.8397",
             "Longitude": "28.3593",
@@ -4427,24 +4445,6 @@
             "Depth": "5.8",
             "ML": "2.5",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "05:12:10",
-            "Latitude": "38.5977",
-            "Longitude": "43.1743",
-            "Depth": "17.7",
-            "ML": "1.4",
-            "Location": "CITOREN VAN"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "04:38:29",
-            "Latitude": "39.5402",
-            "Longitude": "26.2013",
-            "Depth": "5.4",
-            "ML": "1.9",
-            "Location": "YUKARIKOY AYVACIK CANAKKALE"
         }
     ]
 }
