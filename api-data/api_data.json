@@ -2,12 +2,21 @@
     "data": [
         {
             "Date": "2022.03.17",
-            "Time": "08:49:05",
-            "Latitude": "36.9192",
-            "Longitude": "27.6780",
-            "Depth": "20.7",
-            "ML": "2.1",
+            "Time": "10:36:37",
+            "Latitude": "36.9482",
+            "Longitude": "27.6727",
+            "Depth": "2.0",
+            "ML": "2.0",
             "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.17",
+            "Time": "10:11:20",
+            "Latitude": "39.2098",
+            "Longitude": "29.3290",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "SEYHLER HISARCIK KUTAHYA REVIZE GOKOVA KORFEZI AKDENIZ"
         },
         {
             "Date": "2022.03.17",
@@ -4445,24 +4454,6 @@
             "Depth": "7.5",
             "ML": "2.6",
             "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "22:17:33",
-            "Latitude": "37.6175",
-            "Longitude": "29.0770",
-            "Depth": "2.0",
-            "ML": "1.1",
-            "Location": "PINARLIK TAVAS DENIZLI"
-        },
-        {
-            "Date": "2022.03.05",
-            "Time": "20:37:20",
-            "Latitude": "36.6637",
-            "Longitude": "28.2460",
-            "Depth": "27.1",
-            "ML": "0.6",
-            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
         }
     ]
 }
