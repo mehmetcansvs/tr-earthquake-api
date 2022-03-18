@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.18",
+            "Time": "01:31:54",
+            "Latitude": "36.8333",
+            "Longitude": "27.9867",
+            "Depth": "5.4",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.18",
+            "Time": "01:13:01",
+            "Latitude": "39.8682",
+            "Longitude": "39.0423",
+            "Depth": "7.2",
+            "ML": "2.6",
+            "Location": "YENIKOY REFAHIYE ERZINCAN"
+        },
+        {
+            "Date": "2022.03.18",
             "Time": "01:05:56",
             "Latitude": "39.1515",
             "Longitude": "27.7822",
@@ -4427,24 +4445,6 @@
             "Depth": "12.6",
             "ML": "1.1",
             "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "09:36:31",
-            "Latitude": "40.8752",
-            "Longitude": "42.6120",
-            "Depth": "3.7",
-            "ML": "1.6",
-            "Location": "TAHTAKIRAN GOLE ARDAHAN"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "09:10:05",
-            "Latitude": "37.8945",
-            "Longitude": "26.9527",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
