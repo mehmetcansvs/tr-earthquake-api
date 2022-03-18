@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.18",
+            "Time": "21:18:51",
+            "Latitude": "37.3265",
+            "Longitude": "30.7430",
+            "Depth": "126.7",
+            "ML": "3.0",
+            "Location": "KOCAALILER BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.03.18",
+            "Time": "20:38:35",
+            "Latitude": "37.1242",
+            "Longitude": "28.5062",
+            "Depth": "18.5",
+            "ML": "1.9",
+            "Location": "ARMUTCUK ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.18",
             "Time": "19:55:17",
             "Latitude": "36.8223",
             "Longitude": "28.0445",
@@ -4427,24 +4445,6 @@
             "Depth": "28.5",
             "ML": "1.2",
             "Location": "DALLITEPE BINGOL"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "18:26:22",
-            "Latitude": "36.5977",
-            "Longitude": "27.1438",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "15:33:28",
-            "Latitude": "36.9857",
-            "Longitude": "28.3942",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "YESILCAM ULA MUGLA"
         }
     ]
 }
