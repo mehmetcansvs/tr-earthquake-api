@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.18",
+            "Time": "19:55:17",
+            "Latitude": "36.8223",
+            "Longitude": "28.0445",
+            "Depth": "20.7",
+            "ML": "1.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.18",
             "Time": "19:08:43",
             "Latitude": "37.2400",
             "Longitude": "34.6267",
@@ -4436,15 +4445,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "15:28:47",
-            "Latitude": "37.0570",
-            "Longitude": "28.5680",
-            "Depth": "21.9",
-            "ML": "1.1",
-            "Location": "BALCILAR KOYCEGIZ MUGLA"
         }
     ]
 }
