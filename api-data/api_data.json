@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.18",
+            "Time": "10:05:34",
+            "Latitude": "38.9458",
+            "Longitude": "43.9282",
+            "Depth": "23.4",
+            "ML": "1.7",
+            "Location": "AKBASAK CALDIRAN VAN"
+        },
+        {
+            "Date": "2022.03.18",
+            "Time": "09:30:43",
+            "Latitude": "38.9078",
+            "Longitude": "43.8118",
+            "Depth": "15.2",
+            "ML": "1.7",
+            "Location": "BEYDAGI MURADIYE VAN"
+        },
+        {
+            "Date": "2022.03.18",
+            "Time": "09:08:19",
+            "Latitude": "37.2345",
+            "Longitude": "28.0543",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "CAMLICA YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.03.18",
             "Time": "07:54:35",
             "Latitude": "37.0265",
             "Longitude": "28.4300",
@@ -4418,33 +4445,6 @@
             "Depth": "5.4",
             "ML": "1.6",
             "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "10:20:29",
-            "Latitude": "33.8233",
-            "Longitude": "25.7937",
-            "Depth": "13.2",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "10:14:40",
-            "Latitude": "39.2195",
-            "Longitude": "40.1718",
-            "Depth": "12.2",
-            "ML": "1.7",
-            "Location": "GUNESLIK YAYLADERE BINGOL"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "10:13:08",
-            "Latitude": "39.5393",
-            "Longitude": "26.1658",
-            "Depth": "6.3",
-            "ML": "2.9",
-            "Location": "YUKARIKOY AYVACIK CANAKKALE"
         }
     ]
 }
