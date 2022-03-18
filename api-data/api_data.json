@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.03.18",
+            "Time": "14:24:46",
+            "Latitude": "38.8482",
+            "Longitude": "41.8447",
+            "Depth": "14.5",
+            "ML": "1.5",
+            "Location": "KAYASIK MUS"
+        },
+        {
+            "Date": "2022.03.18",
             "Time": "12:47:57",
             "Latitude": "36.5063",
             "Longitude": "34.1852",
             "Depth": "0.0",
             "ML": "1.6",
             "Location": "KUMKUYU ERDEMLI MERSIN"
+        },
+        {
+            "Date": "2022.03.18",
+            "Time": "12:33:59",
+            "Latitude": "37.2807",
+            "Longitude": "31.8688",
+            "Depth": "0.0",
+            "ML": "2.2",
+            "Location": "MADENLI SEYDISEHIR KONYA"
         },
         {
             "Date": "2022.03.18",
@@ -4427,24 +4445,6 @@
             "Depth": "54.0",
             "ML": "3.3",
             "Location": "KIBRIS TUZLA"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "14:12:02",
-            "Latitude": "39.6478",
-            "Longitude": "28.5342",
-            "Depth": "10.5",
-            "ML": "1.4",
-            "Location": "UMURLAR DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "13:19:03",
-            "Latitude": "39.8007",
-            "Longitude": "39.1463",
-            "Depth": "3.8",
-            "ML": "1.9",
-            "Location": "BALTASI ERZINCAN"
         }
     ]
 }
