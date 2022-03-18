@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.18",
+            "Time": "19:08:43",
+            "Latitude": "37.2400",
+            "Longitude": "34.6267",
+            "Depth": "7.3",
+            "ML": "2.5",
+            "Location": "OLUKKOYAGI TARSUS MERSIN"
+        },
+        {
+            "Date": "2022.03.18",
+            "Time": "17:59:38",
+            "Latitude": "37.0065",
+            "Longitude": "28.3763",
+            "Depth": "10.8",
+            "ML": "1.8",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.18",
             "Time": "14:24:46",
             "Latitude": "38.8482",
             "Longitude": "41.8447",
@@ -4427,24 +4445,6 @@
             "Depth": "21.9",
             "ML": "1.1",
             "Location": "BALCILAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "15:14:40",
-            "Latitude": "37.0047",
-            "Longitude": "35.5468",
-            "Depth": "9.6",
-            "ML": "1.5",
-            "Location": "HASANBEYLI SARICAM ADANA"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "15:10:04",
-            "Latitude": "35.0328",
-            "Longitude": "33.6640",
-            "Depth": "54.0",
-            "ML": "3.3",
-            "Location": "KIBRIS TUZLA"
         }
     ]
 }
