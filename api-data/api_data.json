@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.03.19",
+            "Time": "02:15:17",
+            "Latitude": "37.8405",
+            "Longitude": "26.9737",
+            "Depth": "4.7",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "01:03:17",
+            "Latitude": "39.8373",
+            "Longitude": "39.1460",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "BALTASI ERZINCAN"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "00:11:04",
+            "Latitude": "39.0020",
+            "Longitude": "27.8598",
+            "Depth": "7.4",
+            "ML": "1.7",
+            "Location": "KARABORKLU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.03.18",
+            "Time": "21:26:44",
+            "Latitude": "40.1843",
+            "Longitude": "31.7005",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "SEKLI BEYPAZARI ANKARA"
+        },
+        {
             "Date": "2022.03.18",
             "Time": "21:18:51",
             "Latitude": "37.3265",
@@ -8,6 +44,15 @@
             "Depth": "126.7",
             "ML": "3.0",
             "Location": "KOCAALILER BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.03.18",
+            "Time": "21:11:32",
+            "Latitude": "37.1197",
+            "Longitude": "28.2825",
+            "Depth": "17.8",
+            "ML": "2.1",
+            "Location": "YERKESIK MUGLA"
         },
         {
             "Date": "2022.03.18",
@@ -4400,51 +4445,6 @@
             "Depth": "15.2",
             "ML": "2.5",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "22:20:48",
-            "Latitude": "36.9278",
-            "Longitude": "27.3532",
-            "Depth": "2.1",
-            "ML": "1.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "21:04:18",
-            "Latitude": "39.2188",
-            "Longitude": "26.0113",
-            "Depth": "9.4",
-            "ML": "1.9",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "21:01:48",
-            "Latitude": "37.1422",
-            "Longitude": "28.3830",
-            "Depth": "21.8",
-            "ML": "1.2",
-            "Location": "GULAGZI MUGLA"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "20:27:27",
-            "Latitude": "40.5863",
-            "Longitude": "30.5727",
-            "Depth": "5.3",
-            "ML": "1.5",
-            "Location": "AHMEDIYE KARAPURCEK SAKARYA"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "20:16:51",
-            "Latitude": "39.0567",
-            "Longitude": "40.6245",
-            "Depth": "28.5",
-            "ML": "1.2",
-            "Location": "DALLITEPE BINGOL"
         }
     ]
 }
