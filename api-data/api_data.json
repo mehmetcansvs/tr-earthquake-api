@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.19",
+            "Time": "22:52:12",
+            "Latitude": "37.0788",
+            "Longitude": "28.4095",
+            "Depth": "6.8",
+            "ML": "2.8",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "22:38:49",
+            "Latitude": "37.0378",
+            "Longitude": "28.3943",
+            "Depth": "21.6",
+            "ML": "1.1",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.19",
             "Time": "20:18:41",
             "Latitude": "40.8258",
             "Longitude": "31.6658",
@@ -4418,24 +4436,6 @@
             "Depth": "5.0",
             "ML": "1.2",
             "Location": "CANKOY KINIK IZMIR"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "12:56:19",
-            "Latitude": "37.0890",
-            "Longitude": "28.3908",
-            "Depth": "9.7",
-            "ML": "1.4",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "12:45:35",
-            "Latitude": "38.9240",
-            "Longitude": "35.7540",
-            "Depth": "25.4",
-            "ML": "1.2",
-            "Location": "BURHANIYE BUNYAN KAYSERI"
         }
     ]
 }
