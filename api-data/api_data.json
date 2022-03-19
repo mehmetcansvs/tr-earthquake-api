@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.03.19",
+            "Time": "23:00:02",
+            "Latitude": "37.8945",
+            "Longitude": "26.9227",
+            "Depth": "4.5",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.19",
             "Time": "22:52:12",
             "Latitude": "37.0788",
             "Longitude": "28.4095",
             "Depth": "6.8",
             "ML": "2.8",
             "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "22:47:53",
+            "Latitude": "38.7327",
+            "Longitude": "38.9715",
+            "Depth": "8.9",
+            "ML": "1.7",
+            "Location": "KOZLUK ELAZIG"
         },
         {
             "Date": "2022.03.19",
@@ -4418,24 +4436,6 @@
             "Depth": "81.6",
             "ML": "2.5",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "13:24:10",
-            "Latitude": "36.4528",
-            "Longitude": "34.2618",
-            "Depth": "5.0",
-            "ML": "1.3",
-            "Location": "KUMKUYU ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "12:59:32",
-            "Latitude": "39.0060",
-            "Longitude": "27.4107",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "CANKOY KINIK IZMIR"
         }
     ]
 }
