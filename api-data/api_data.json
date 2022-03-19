@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.19",
+            "Time": "17:53:16",
+            "Latitude": "38.9568",
+            "Longitude": "42.6615",
+            "Depth": "27.2",
+            "ML": "1.7",
+            "Location": "KIZILYUSUF MALAZGIRT MUS"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "17:14:18",
+            "Latitude": "35.7145",
+            "Longitude": "33.8323",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.19",
             "Time": "16:47:28",
             "Latitude": "36.8440",
             "Longitude": "28.0417",
@@ -4427,24 +4445,6 @@
             "Depth": "5.0",
             "ML": "3.4",
             "Location": "AGILLI KULP DIYARBAKIR"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "11:56:18",
-            "Latitude": "36.1735",
-            "Longitude": "22.6938",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "11:48:08",
-            "Latitude": "40.1392",
-            "Longitude": "31.6925",
-            "Depth": "8.5",
-            "ML": "2.0",
-            "Location": "ULUKOY NALLIHAN ANKARA"
         }
     ]
 }
