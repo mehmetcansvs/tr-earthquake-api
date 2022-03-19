@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.19",
+            "Time": "09:48:25",
+            "Latitude": "37.5752",
+            "Longitude": "27.1390",
+            "Depth": "27.1",
+            "ML": "1.6",
+            "Location": "DOGANBEY SOKE AYDIN"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "09:47:40",
+            "Latitude": "37.8998",
+            "Longitude": "27.1308",
+            "Depth": "11.8",
+            "ML": "2.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "09:37:33",
+            "Latitude": "37.2520",
+            "Longitude": "31.0013",
+            "Depth": "116.3",
+            "ML": "3.0",
+            "Location": "HASDUMEN SERIK ANTALYA"
+        },
+        {
+            "Date": "2022.03.19",
             "Time": "07:55:31",
             "Latitude": "36.7205",
             "Longitude": "28.1022",
@@ -4418,33 +4445,6 @@
             "Depth": "15.9",
             "ML": "2.0",
             "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "05:40:38",
-            "Latitude": "39.7682",
-            "Longitude": "43.5815",
-            "Depth": "5.2",
-            "ML": "1.8",
-            "Location": "BEZIRHANE DOGUBAYAZIT AGRI"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "05:15:56",
-            "Latitude": "40.2750",
-            "Longitude": "43.2663",
-            "Depth": "12.5",
-            "ML": "1.8",
-            "Location": "GUNINDIYAYLASI KAGIZMAN KARS"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "05:06:26",
-            "Latitude": "36.9520",
-            "Longitude": "27.7660",
-            "Depth": "2.9",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
