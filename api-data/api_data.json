@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.19",
+            "Time": "04:52:54",
+            "Latitude": "38.8400",
+            "Longitude": "29.1280",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "ZAHMAN USAK"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "04:22:53",
+            "Latitude": "40.4360",
+            "Longitude": "26.9525",
+            "Depth": "8.6",
+            "ML": "2.4",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "03:52:36",
+            "Latitude": "37.0700",
+            "Longitude": "28.4540",
+            "Depth": "22.7",
+            "ML": "1.6",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.19",
             "Time": "02:15:17",
             "Latitude": "37.8405",
             "Longitude": "26.9737",
@@ -4418,33 +4445,6 @@
             "Depth": "56.5",
             "ML": "3.7",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "23:20:45",
-            "Latitude": "39.2365",
-            "Longitude": "33.0562",
-            "Depth": "5.6",
-            "ML": "1.5",
-            "Location": "KARAHAMZALI BALA ANKARA"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "23:10:35",
-            "Latitude": "38.1728",
-            "Longitude": "31.0767",
-            "Depth": "4.8",
-            "ML": "1.4",
-            "Location": "MADENLI GELENDOST ISPARTA"
-        },
-        {
-            "Date": "2022.03.06",
-            "Time": "23:06:09",
-            "Latitude": "36.1430",
-            "Longitude": "31.2737",
-            "Depth": "15.2",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
         }
     ]
 }
