@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.19",
+            "Time": "12:55:51",
+            "Latitude": "36.2690",
+            "Longitude": "33.7485",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "AKDERE SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "11:03:56",
+            "Latitude": "38.1173",
+            "Longitude": "38.5458",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "GECITLI SINCIK ADIYAMAN"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "10:56:30",
+            "Latitude": "39.4805",
+            "Longitude": "39.9127",
+            "Depth": "7.3",
+            "ML": "1.9",
+            "Location": "PULUMUR TUNCELI"
+        },
+        {
+            "Date": "2022.03.19",
             "Time": "09:48:25",
             "Latitude": "37.5752",
             "Longitude": "27.1390",
@@ -4418,33 +4445,6 @@
             "Depth": "17.8",
             "ML": "2.0",
             "Location": "MARMARA BALIKESIR"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "06:30:13",
-            "Latitude": "35.6800",
-            "Longitude": "25.6833",
-            "Depth": "20.6",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "06:29:25",
-            "Latitude": "37.0775",
-            "Longitude": "28.3225",
-            "Depth": "18.5",
-            "ML": "1.4",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "05:42:34",
-            "Latitude": "38.3590",
-            "Longitude": "25.8610",
-            "Depth": "15.9",
-            "ML": "2.0",
-            "Location": "SAKIZ ADASI EGE DENIZI"
         }
     ]
 }
