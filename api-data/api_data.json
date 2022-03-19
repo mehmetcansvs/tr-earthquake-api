@@ -2,12 +2,21 @@
     "data": [
         {
             "Date": "2022.03.19",
-            "Time": "17:53:16",
-            "Latitude": "38.9568",
-            "Longitude": "42.6615",
-            "Depth": "27.2",
-            "ML": "1.7",
-            "Location": "KIZILYUSUF MALAZGIRT MUS"
+            "Time": "20:18:41",
+            "Latitude": "40.8258",
+            "Longitude": "31.6658",
+            "Depth": "5.4",
+            "ML": "2.3",
+            "Location": "CUKUROREN BOLU"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "19:20:09",
+            "Latitude": "40.5110",
+            "Longitude": "29.2782",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "HAMZALI ORHANGAZI BURSA REVIZE KIZILYUSUF MALAZGIRT MUS"
         },
         {
             "Date": "2022.03.19",
@@ -4427,24 +4436,6 @@
             "Depth": "25.4",
             "ML": "1.2",
             "Location": "BURHANIYE BUNYAN KAYSERI"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "12:15:07",
-            "Latitude": "40.0513",
-            "Longitude": "40.5753",
-            "Depth": "10.5",
-            "ML": "2.0",
-            "Location": "KAPIKALE ASKALE ERZURUM"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "12:03:34",
-            "Latitude": "38.5960",
-            "Longitude": "40.8563",
-            "Depth": "5.0",
-            "ML": "3.4",
-            "Location": "AGILLI KULP DIYARBAKIR"
         }
     ]
 }
