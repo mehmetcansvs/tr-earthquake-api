@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.19",
+            "Time": "16:47:28",
+            "Latitude": "36.8440",
+            "Longitude": "28.0417",
+            "Depth": "3.1",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "15:50:53",
+            "Latitude": "35.0212",
+            "Longitude": "25.2705",
+            "Depth": "13.8",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "15:35:55",
+            "Latitude": "35.0883",
+            "Longitude": "25.3143",
+            "Depth": "12.0",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "15:09:11",
+            "Latitude": "35.2957",
+            "Longitude": "25.3395",
+            "Depth": "4.8",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.19",
             "Time": "13:40:39",
             "Latitude": "35.1737",
             "Longitude": "25.2997",
@@ -4409,42 +4445,6 @@
             "Depth": "8.5",
             "ML": "2.0",
             "Location": "ULUKOY NALLIHAN ANKARA"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "11:06:57",
-            "Latitude": "37.0693",
-            "Longitude": "28.3987",
-            "Depth": "7.4",
-            "ML": "2.8",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "10:04:44",
-            "Latitude": "37.9905",
-            "Longitude": "29.1158",
-            "Depth": "13.4",
-            "ML": "2.0",
-            "Location": "HAYTABEY DENIZLI"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "09:29:34",
-            "Latitude": "40.8133",
-            "Longitude": "27.5792",
-            "Depth": "12.0",
-            "ML": "2.3",
-            "Location": "YENIKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "09:24:19",
-            "Latitude": "42.7280",
-            "Longitude": "45.4388",
-            "Depth": "3.8",
-            "ML": "3.5",
-            "Location": "RUSYA"
         }
     ]
 }
