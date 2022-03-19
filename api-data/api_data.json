@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.19",
+            "Time": "13:40:39",
+            "Latitude": "35.1737",
+            "Longitude": "25.2997",
+            "Depth": "5.5",
+            "ML": "3.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "13:28:15",
+            "Latitude": "37.3053",
+            "Longitude": "36.2873",
+            "Depth": "6.9",
+            "ML": "2.0",
+            "Location": "CERCIOGLU DUZICI OSMANIYE"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "13:08:57",
+            "Latitude": "34.5438",
+            "Longitude": "23.2373",
+            "Depth": "20.8",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.19",
             "Time": "12:55:51",
             "Latitude": "36.2690",
             "Longitude": "33.7485",
@@ -4418,33 +4445,6 @@
             "Depth": "3.8",
             "ML": "3.5",
             "Location": "RUSYA"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "08:02:26",
-            "Latitude": "37.7707",
-            "Longitude": "35.0555",
-            "Depth": "27.9",
-            "ML": "1.1",
-            "Location": "ELEKGOLU CAMARDI NIGDE"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "07:04:22",
-            "Latitude": "37.8072",
-            "Longitude": "35.7325",
-            "Depth": "6.2",
-            "ML": "1.2",
-            "Location": "KALEYUZU FEKE ADANA"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "06:53:16",
-            "Latitude": "40.6025",
-            "Longitude": "27.5015",
-            "Depth": "17.8",
-            "ML": "2.0",
-            "Location": "MARMARA BALIKESIR"
         }
     ]
 }
