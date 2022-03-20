@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.20",
+            "Time": "14:47:14",
+            "Latitude": "35.7217",
+            "Longitude": "23.7293",
+            "Depth": "8.1",
+            "ML": "3.9",
+            "Location": "GIRIT ADASI AKDENIZ REVIZE KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.20",
             "Time": "10:24:59",
             "Latitude": "39.2642",
             "Longitude": "41.8132",
@@ -4418,24 +4427,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "BARIS BASKALE VAN"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "02:07:47",
-            "Latitude": "40.4278",
-            "Longitude": "28.5505",
-            "Depth": "9.4",
-            "ML": "2.1",
-            "Location": "ESENCE ACIKLARI BURSA MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "02:03:04",
-            "Latitude": "38.0998",
-            "Longitude": "43.8648",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "ARINDI GURPINAR VAN"
         }
     ]
 }
