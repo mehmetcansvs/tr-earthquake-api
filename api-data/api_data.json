@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.20",
+            "Time": "17:20:04",
+            "Latitude": "37.9597",
+            "Longitude": "27.6618",
+            "Depth": "1.9",
+            "ML": "1.2",
+            "Location": "MESELI GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.03.20",
             "Time": "15:42:31",
             "Latitude": "35.5232",
             "Longitude": "34.0007",
@@ -4418,15 +4427,6 @@
             "Depth": "17.7",
             "ML": "1.5",
             "Location": "BARDAKCI VAN"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "03:36:37",
-            "Latitude": "36.9270",
-            "Longitude": "29.2175",
-            "Depth": "3.8",
-            "ML": "1.0",
-            "Location": "ELMALI CAMELI DENIZLI"
         }
     ]
 }
