@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.20",
+            "Time": "23:51:49",
+            "Latitude": "38.3878",
+            "Longitude": "25.3223",
+            "Depth": "5.0",
+            "ML": "3.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "23:45:59",
+            "Latitude": "37.9177",
+            "Longitude": "26.6368",
+            "Depth": "7.9",
+            "ML": "1.9",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "23:43:17",
+            "Latitude": "37.9005",
+            "Longitude": "26.6243",
+            "Depth": "7.3",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "23:40:16",
+            "Latitude": "37.9010",
+            "Longitude": "26.6110",
+            "Depth": "12.6",
+            "ML": "3.4",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.20",
             "Time": "20:45:31",
             "Latitude": "38.0397",
             "Longitude": "42.9408",
@@ -4390,42 +4426,6 @@
             "Longitude": "28.2870",
             "Depth": "7.6",
             "ML": "2.4",
-            "Location": "ISIKLAR SINDIRGI BALIKESIR"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "07:20:28",
-            "Latitude": "37.9343",
-            "Longitude": "27.3847",
-            "Depth": "4.6",
-            "ML": "1.7",
-            "Location": "SELCUK IZMIR"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "06:43:08",
-            "Latitude": "35.4265",
-            "Longitude": "31.0135",
-            "Depth": "104.4",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "05:58:12",
-            "Latitude": "36.5345",
-            "Longitude": "26.8313",
-            "Depth": "121.7",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "05:51:03",
-            "Latitude": "39.1653",
-            "Longitude": "28.2763",
-            "Depth": "6.5",
-            "ML": "2.6",
             "Location": "ISIKLAR SINDIRGI BALIKESIR"
         }
     ]
