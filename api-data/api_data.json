@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.20",
+            "Time": "15:42:31",
+            "Latitude": "35.5232",
+            "Longitude": "34.0007",
+            "Depth": "15.3",
+            "ML": "3.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.20",
             "Time": "14:47:14",
             "Latitude": "35.7217",
             "Longitude": "23.7293",
@@ -4418,15 +4427,6 @@
             "Depth": "3.8",
             "ML": "1.0",
             "Location": "ELMALI CAMELI DENIZLI"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "02:24:24",
-            "Latitude": "38.0212",
-            "Longitude": "43.8990",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "BARIS BASKALE VAN"
         }
     ]
 }
