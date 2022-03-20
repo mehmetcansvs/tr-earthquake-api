@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.20",
+            "Time": "20:45:31",
+            "Latitude": "38.0397",
+            "Longitude": "42.9408",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "CILGA CATAK VAN"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "20:04:48",
+            "Latitude": "35.0480",
+            "Longitude": "25.2823",
+            "Depth": "7.5",
+            "ML": "3.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "18:19:13",
+            "Latitude": "37.2077",
+            "Longitude": "30.4875",
+            "Depth": "12.1",
+            "ML": "1.5",
+            "Location": "BADEMAGACI DOSEMEALTI ANTALYA"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "18:18:00",
+            "Latitude": "37.1713",
+            "Longitude": "30.5118",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "DAGBELI DOSEMEALTI ANTALYA"
+        },
+        {
+            "Date": "2022.03.20",
             "Time": "17:20:04",
             "Latitude": "37.9597",
             "Longitude": "27.6618",
@@ -4391,42 +4427,6 @@
             "Depth": "6.5",
             "ML": "2.6",
             "Location": "ISIKLAR SINDIRGI BALIKESIR"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "05:47:50",
-            "Latitude": "37.0625",
-            "Longitude": "28.3998",
-            "Depth": "12.4",
-            "ML": "1.3",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "05:40:09",
-            "Latitude": "37.6227",
-            "Longitude": "29.7957",
-            "Depth": "8.8",
-            "ML": "2.0",
-            "Location": "ORHANLI YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "05:34:56",
-            "Latitude": "40.5948",
-            "Longitude": "32.7685",
-            "Depth": "5.3",
-            "ML": "2.6",
-            "Location": "EGERLIKUZOREN KIZILCAHAMAM ANKARA"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "04:49:17",
-            "Latitude": "38.5623",
-            "Longitude": "43.2978",
-            "Depth": "17.7",
-            "ML": "1.5",
-            "Location": "BARDAKCI VAN"
         }
     ]
 }
