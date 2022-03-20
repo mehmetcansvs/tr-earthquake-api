@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.20",
+            "Time": "06:51:54",
+            "Latitude": "36.9223",
+            "Longitude": "27.6437",
+            "Depth": "13.0",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "06:03:44",
+            "Latitude": "39.0155",
+            "Longitude": "30.2132",
+            "Depth": "5.5",
+            "ML": "2.0",
+            "Location": "YOLCATI ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "05:18:39",
+            "Latitude": "38.0940",
+            "Longitude": "30.9362",
+            "Depth": "12.6",
+            "ML": "1.4",
+            "Location": "YENICE GELENDOST ISPARTA"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "05:14:38",
+            "Latitude": "40.2365",
+            "Longitude": "36.8888",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "TEKNECIK ALMUS TOKAT"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "04:40:13",
+            "Latitude": "35.0280",
+            "Longitude": "25.2480",
+            "Depth": "13.1",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.20",
             "Time": "02:26:57",
             "Latitude": "37.2213",
             "Longitude": "30.4715",
@@ -53,6 +98,24 @@
             "Depth": "5.4",
             "ML": "1.7",
             "Location": "TASLICAYIR ASKALE ERZURUM"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "00:00:23",
+            "Latitude": "35.3048",
+            "Longitude": "25.3333",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.19",
+            "Time": "23:46:04",
+            "Latitude": "35.0430",
+            "Longitude": "25.2430",
+            "Depth": "4.1",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.03.19",
@@ -4373,69 +4436,6 @@
             "Depth": "7.3",
             "ML": "2.5",
             "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "22:19:40",
-            "Latitude": "37.7688",
-            "Longitude": "29.2163",
-            "Depth": "4.8",
-            "ML": "1.1",
-            "Location": "OVACIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "21:14:43",
-            "Latitude": "37.9433",
-            "Longitude": "28.8767",
-            "Depth": "21.2",
-            "ML": "1.8",
-            "Location": "KARATAS SARAYKOY DENIZLI"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "21:04:02",
-            "Latitude": "38.7173",
-            "Longitude": "27.8783",
-            "Depth": "22.8",
-            "ML": "1.2",
-            "Location": "KAYAALTI GOLMARMARA MANISA"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "20:42:48",
-            "Latitude": "38.6047",
-            "Longitude": "40.8772",
-            "Depth": "5.0",
-            "ML": "3.1",
-            "Location": "AGILLI KULP DIYARBAKIR"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "19:45:16",
-            "Latitude": "39.1145",
-            "Longitude": "28.3332",
-            "Depth": "16.3",
-            "ML": "1.5",
-            "Location": "YUREGIL SINDIRGI BALIKESIR"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "19:30:45",
-            "Latitude": "37.0752",
-            "Longitude": "28.4153",
-            "Depth": "6.9",
-            "ML": "2.4",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "19:19:39",
-            "Latitude": "37.0697",
-            "Longitude": "28.1722",
-            "Depth": "13.4",
-            "ML": "1.7",
-            "Location": "KIRAN MUGLA"
         }
     ]
 }
