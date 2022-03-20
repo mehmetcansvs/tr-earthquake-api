@@ -1,6 +1,60 @@
 {
     "data": [
         {
+            "Date": "2022.03.20",
+            "Time": "02:26:57",
+            "Latitude": "37.2213",
+            "Longitude": "30.4715",
+            "Depth": "15.3",
+            "ML": "1.5",
+            "Location": "BADEMAGACI DOSEMEALTI ANTALYA"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "02:18:52",
+            "Latitude": "37.0917",
+            "Longitude": "27.6138",
+            "Depth": "18.4",
+            "ML": "1.9",
+            "Location": "SAZKOY BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "02:10:03",
+            "Latitude": "40.0368",
+            "Longitude": "27.7693",
+            "Depth": "12.3",
+            "ML": "1.8",
+            "Location": "OMERLER GONEN BALIKESIR"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "02:06:58",
+            "Latitude": "36.8442",
+            "Longitude": "28.0432",
+            "Depth": "7.0",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "02:03:01",
+            "Latitude": "36.8607",
+            "Longitude": "28.0657",
+            "Depth": "3.5",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.20",
+            "Time": "01:55:54",
+            "Latitude": "39.8957",
+            "Longitude": "40.4667",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "TASLICAYIR ASKALE ERZURUM"
+        },
+        {
             "Date": "2022.03.19",
             "Time": "23:00:02",
             "Latitude": "37.8945",
@@ -4382,60 +4436,6 @@
             "Depth": "13.4",
             "ML": "1.7",
             "Location": "KIRAN MUGLA"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "16:25:13",
-            "Latitude": "39.4177",
-            "Longitude": "27.9190",
-            "Depth": "2.8",
-            "ML": "1.7",
-            "Location": "AYVACIK BALIKESIR"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "16:20:37",
-            "Latitude": "36.9733",
-            "Longitude": "37.5475",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "OGUZELI GAZIANTEP"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "15:57:09",
-            "Latitude": "36.2787",
-            "Longitude": "33.7148",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "KIRTIL SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "13:54:26",
-            "Latitude": "40.2432",
-            "Longitude": "26.1830",
-            "Depth": "9.1",
-            "ML": "2.1",
-            "Location": "KEMALYERI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "13:53:33",
-            "Latitude": "38.6787",
-            "Longitude": "40.8783",
-            "Depth": "5.7",
-            "ML": "2.1",
-            "Location": "GEYIKDERE GENC BINGOL"
-        },
-        {
-            "Date": "2022.03.07",
-            "Time": "13:47:46",
-            "Latitude": "36.2590",
-            "Longitude": "27.6668",
-            "Depth": "81.6",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
         }
     ]
 }
