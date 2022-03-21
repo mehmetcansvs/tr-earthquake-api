@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.21",
+            "Time": "21:13:58",
+            "Latitude": "39.4755",
+            "Longitude": "32.9527",
+            "Depth": "8.6",
+            "ML": "1.6",
+            "Location": "KOCYAYLA BALA ANKARA"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "20:59:51",
+            "Latitude": "36.5937",
+            "Longitude": "28.8452",
+            "Depth": "6.2",
+            "ML": "1.7",
+            "Location": "FETHIYE KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "20:59:13",
+            "Latitude": "36.5738",
+            "Longitude": "28.8317",
+            "Depth": "9.5",
+            "ML": "2.1",
+            "Location": "FETHIYE KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.21",
             "Time": "17:53:37",
             "Latitude": "39.1032",
             "Longitude": "33.1967",
@@ -4400,33 +4427,6 @@
             "Depth": "19.9",
             "ML": "0.9",
             "Location": "CICEKLI ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "04:33:12",
-            "Latitude": "36.6028",
-            "Longitude": "28.2968",
-            "Depth": "43.9",
-            "ML": "1.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "04:09:25",
-            "Latitude": "38.8145",
-            "Longitude": "39.9513",
-            "Depth": "5.0",
-            "ML": "1.3",
-            "Location": "DEVECI KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "03:45:27",
-            "Latitude": "35.3025",
-            "Longitude": "26.5025",
-            "Depth": "5.6",
-            "ML": "1.7",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
