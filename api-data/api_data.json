@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.03.21",
+            "Time": "14:48:31",
+            "Latitude": "41.2938",
+            "Longitude": "43.3320",
+            "Depth": "20.8",
+            "ML": "2.1",
+            "Location": "KENARDERE CILDIR ARDAHAN"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "14:26:47",
+            "Latitude": "37.8608",
+            "Longitude": "26.8697",
+            "Depth": "8.6",
+            "ML": "2.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "13:47:50",
+            "Latitude": "37.7820",
+            "Longitude": "36.3083",
+            "Depth": "9.4",
+            "ML": "2.0",
+            "Location": "CIGSAR ANDIRIN KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "12:55:49",
+            "Latitude": "39.8293",
+            "Longitude": "39.0408",
+            "Depth": "7.5",
+            "ML": "2.1",
+            "Location": "KEDEK KEMAH ERZINCAN"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "12:50:22",
+            "Latitude": "37.3415",
+            "Longitude": "37.0957",
+            "Depth": "5.0",
+            "ML": "1.2",
+            "Location": "SARIERIK PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "12:12:19",
+            "Latitude": "37.3728",
+            "Longitude": "37.3228",
+            "Depth": "10.6",
+            "ML": "1.2",
+            "Location": "EGRICE PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.03.21",
             "Time": "11:54:57",
             "Latitude": "37.9345",
             "Longitude": "26.6818",
@@ -4373,60 +4427,6 @@
             "Depth": "10.5",
             "ML": "2.4",
             "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "01:50:16",
-            "Latitude": "38.0623",
-            "Longitude": "27.4833",
-            "Depth": "14.8",
-            "ML": "1.4",
-            "Location": "HASANCAVUSLAR TIRE IZMIR"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "01:48:01",
-            "Latitude": "39.1265",
-            "Longitude": "29.0887",
-            "Depth": "1.2",
-            "ML": "0.7",
-            "Location": "SOGUT SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "23:50:55",
-            "Latitude": "37.9032",
-            "Longitude": "27.1195",
-            "Depth": "11.3",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "22:47:41",
-            "Latitude": "36.4193",
-            "Longitude": "30.6137",
-            "Depth": "23.1",
-            "ML": "2.2",
-            "Location": "TEKIROVA KEMER ANTALYA"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "20:36:33",
-            "Latitude": "35.7873",
-            "Longitude": "31.4122",
-            "Depth": "7.2",
-            "ML": "3.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "19:17:31",
-            "Latitude": "38.8292",
-            "Longitude": "35.5333",
-            "Depth": "7.5",
-            "ML": "1.1",
-            "Location": "KOCASINAN KAYSERI"
         }
     ]
 }
