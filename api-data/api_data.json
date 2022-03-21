@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.21",
+            "Time": "11:54:57",
+            "Latitude": "37.9345",
+            "Longitude": "26.6818",
+            "Depth": "4.6",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "11:38:29",
+            "Latitude": "36.6695",
+            "Longitude": "29.7467",
+            "Depth": "3.9",
+            "ML": "1.5",
+            "Location": "ISLAMLAR ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "11:24:32",
+            "Latitude": "37.9562",
+            "Longitude": "26.7418",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "11:18:32",
+            "Latitude": "40.0602",
+            "Longitude": "41.1037",
+            "Depth": "13.1",
+            "ML": "1.5",
+            "Location": "KAVAKLIDERE AZIZIYE ERZURUM"
+        },
+        {
+            "Date": "2022.03.21",
             "Time": "10:39:45",
             "Latitude": "36.4867",
             "Longitude": "21.5875",
@@ -4391,42 +4427,6 @@
             "Depth": "7.5",
             "ML": "1.1",
             "Location": "KOCASINAN KAYSERI"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "18:28:01",
-            "Latitude": "39.1680",
-            "Longitude": "29.4473",
-            "Depth": "11.2",
-            "ML": "1.6",
-            "Location": "PUSATLAR CAVDARHISAR KUTAHYA"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "17:01:45",
-            "Latitude": "37.9040",
-            "Longitude": "26.9580",
-            "Depth": "4.8",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "15:41:19",
-            "Latitude": "36.1662",
-            "Longitude": "29.6150",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "KAS ANTALYA"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "15:26:04",
-            "Latitude": "38.8790",
-            "Longitude": "25.7922",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         }
     ]
 }
