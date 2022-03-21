@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.21",
+            "Time": "21:59:47",
+            "Latitude": "37.2343",
+            "Longitude": "28.4278",
+            "Depth": "6.3",
+            "ML": "2.2",
+            "Location": "ORTAKOY MUGLA"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "21:55:03",
+            "Latitude": "38.1175",
+            "Longitude": "38.3968",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "SALKONAK YESILYURT MALATYA"
+        },
+        {
+            "Date": "2022.03.21",
+            "Time": "21:29:51",
+            "Latitude": "37.9290",
+            "Longitude": "27.1827",
+            "Depth": "9.1",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.21",
             "Time": "21:13:58",
             "Latitude": "39.4755",
             "Longitude": "32.9527",
@@ -4400,33 +4427,6 @@
             "Depth": "7.9",
             "ML": "1.9",
             "Location": "SALMAN ACIKLARI IZMIR EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "05:54:26",
-            "Latitude": "35.3477",
-            "Longitude": "26.3407",
-            "Depth": "2.8",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "05:06:14",
-            "Latitude": "38.2888",
-            "Longitude": "38.8673",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "YEDIYOL PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "04:55:18",
-            "Latitude": "37.0990",
-            "Longitude": "28.5022",
-            "Depth": "19.9",
-            "ML": "0.9",
-            "Location": "CICEKLI ULA MUGLA"
         }
     ]
 }
