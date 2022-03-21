@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.21",
+            "Time": "22:16:53",
+            "Latitude": "39.3060",
+            "Longitude": "27.6130",
+            "Depth": "8.3",
+            "ML": "1.4",
+            "Location": "KIZILOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.03.21",
             "Time": "21:59:47",
             "Latitude": "37.2343",
             "Longitude": "28.4278",
@@ -4418,15 +4427,6 @@
             "Depth": "16.3",
             "ML": "1.9",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "06:07:05",
-            "Latitude": "38.6648",
-            "Longitude": "26.3045",
-            "Depth": "7.9",
-            "ML": "1.9",
-            "Location": "SALMAN ACIKLARI IZMIR EGE DENIZI"
         }
     ]
 }
