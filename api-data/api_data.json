@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.21",
+            "Time": "08:19:18",
+            "Latitude": "38.9028",
+            "Longitude": "43.4397",
+            "Depth": "4.2",
+            "ML": "2.0",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.03.21",
             "Time": "07:08:22",
             "Latitude": "38.3650",
             "Longitude": "36.4343",
@@ -4418,15 +4427,6 @@
             "Depth": "2.2",
             "ML": "2.0",
             "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.08",
-            "Time": "12:43:03",
-            "Latitude": "39.2380",
-            "Longitude": "27.7245",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "DENIS SOMA MANISA"
         }
     ]
 }
