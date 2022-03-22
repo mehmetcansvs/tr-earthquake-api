@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.22",
+            "Time": "10:14:30",
+            "Latitude": "40.1195",
+            "Longitude": "32.1370",
+            "Depth": "11.4",
+            "ML": "2.1",
+            "Location": "AKKAYA AYAS ANKARA"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "09:28:55",
+            "Latitude": "35.9938",
+            "Longitude": "28.9723",
+            "Depth": "14.0",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.22",
             "Time": "08:39:01",
             "Latitude": "39.0113",
             "Longitude": "27.8443",
@@ -4418,24 +4436,6 @@
             "Depth": "11.9",
             "ML": "2.1",
             "Location": "KAYALIOGLU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "07:05:57",
-            "Latitude": "35.3453",
-            "Longitude": "26.3185",
-            "Depth": "3.1",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "07:03:28",
-            "Latitude": "36.3035",
-            "Longitude": "28.9700",
-            "Depth": "41.1",
-            "ML": "2.1",
-            "Location": "OLUDENIZ ACIKLARI MUGLA AKDENIZ"
         }
     ]
 }
