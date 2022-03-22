@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.22",
+            "Time": "18:25:22",
+            "Latitude": "34.7093",
+            "Longitude": "26.9792",
+            "Depth": "9.6",
+            "ML": "3.8",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "17:56:29",
+            "Latitude": "37.8007",
+            "Longitude": "27.6223",
+            "Depth": "2.6",
+            "ML": "2.1",
+            "Location": "TURANLAR GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "17:22:44",
+            "Latitude": "38.8835",
+            "Longitude": "43.4967",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "17:12:52",
+            "Latitude": "41.1245",
+            "Longitude": "40.8412",
+            "Depth": "4.1",
+            "ML": "1.7",
+            "Location": "YAVUZ PAZAR RIZE"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "17:10:55",
+            "Latitude": "40.0655",
+            "Longitude": "28.6430",
+            "Depth": "7.4",
+            "ML": "4.2",
+            "Location": "KOREKEM MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.03.22",
             "Time": "17:04:29",
             "Latitude": "34.9103",
             "Longitude": "23.4018",
@@ -4391,51 +4436,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "URKUTLU SARIKAYA YOZGAT"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "11:48:32",
-            "Latitude": "36.9912",
-            "Longitude": "27.6082",
-            "Depth": "5.2",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "11:29:23",
-            "Latitude": "37.0230",
-            "Longitude": "28.2930",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "CETIBELI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "11:23:10",
-            "Latitude": "40.4225",
-            "Longitude": "35.9810",
-            "Depth": "10.1",
-            "ML": "2.1",
-            "Location": "KAMALI TURHAL TOKAT"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "11:17:18",
-            "Latitude": "41.1658",
-            "Longitude": "34.4697",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "KARAKESE KARGI CORUM"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "11:07:54",
-            "Latitude": "38.9387",
-            "Longitude": "43.4878",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "VAN GOLU"
         }
     ]
 }
