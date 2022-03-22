@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.03.22",
+            "Time": "12:35:24",
+            "Latitude": "37.2900",
+            "Longitude": "31.8898",
+            "Depth": "0.0",
+            "ML": "2.0",
+            "Location": "MADENLI SEYDISEHIR KONYA"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "12:34:06",
+            "Latitude": "38.0387",
+            "Longitude": "32.8590",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "ZENCIRLI KARATAY KONYA"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "11:51:43",
+            "Latitude": "40.1345",
+            "Longitude": "41.1345",
+            "Depth": "2.8",
+            "ML": "1.8",
+            "Location": "KAVAKLIDERE AZIZIYE ERZURUM"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "11:46:22",
+            "Latitude": "40.0902",
+            "Longitude": "38.8887",
+            "Depth": "9.3",
+            "ML": "2.0",
+            "Location": "YENICE CAMOLUK GIRESUN"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "11:44:49",
+            "Latitude": "40.0468",
+            "Longitude": "28.6087",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "KILLIK MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "11:31:55",
+            "Latitude": "39.7897",
+            "Longitude": "30.4778",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "TEPEBASI ESKISEHIR"
+        },
+        {
+            "Date": "2022.03.22",
             "Time": "10:14:30",
             "Latitude": "40.1195",
             "Longitude": "32.1370",
@@ -4382,60 +4436,6 @@
             "Depth": "7.8",
             "ML": "2.1",
             "Location": "CAKIRBEY VAN"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "10:05:11",
-            "Latitude": "36.9147",
-            "Longitude": "27.9647",
-            "Depth": "7.3",
-            "ML": "3.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "10:03:39",
-            "Latitude": "36.2405",
-            "Longitude": "36.3433",
-            "Depth": "8.2",
-            "ML": "1.2",
-            "Location": "DEMIRKOPRU HATAY"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "09:23:47",
-            "Latitude": "38.8708",
-            "Longitude": "43.5197",
-            "Depth": "9.7",
-            "ML": "2.1",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "08:11:53",
-            "Latitude": "37.6528",
-            "Longitude": "38.2663",
-            "Depth": "5.2",
-            "ML": "1.7",
-            "Location": "HACIHALIL ADIYAMAN"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "07:11:09",
-            "Latitude": "39.2382",
-            "Longitude": "40.2233",
-            "Depth": "15.4",
-            "ML": "1.8",
-            "Location": "ACIKGUNEY KIGI BINGOL"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "07:07:38",
-            "Latitude": "38.8877",
-            "Longitude": "27.7905",
-            "Depth": "11.9",
-            "ML": "2.1",
-            "Location": "KAYALIOGLU AKHISAR MANISA"
         }
     ]
 }
