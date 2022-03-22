@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.03.23",
+            "Time": "00:42:08",
+            "Latitude": "40.1242",
+            "Longitude": "31.6765",
+            "Depth": "7.9",
+            "ML": "1.7",
+            "Location": "CAYIRHAN NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "00:34:18",
+            "Latitude": "39.9073",
+            "Longitude": "39.5115",
+            "Depth": "1.2",
+            "ML": "2.6",
+            "Location": "BINDAL KELKIT GUMUSHANE"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "00:29:31",
+            "Latitude": "40.2348",
+            "Longitude": "31.8532",
+            "Depth": "5.9",
+            "ML": "1.9",
+            "Location": "BASOREN BEYPAZARI ANKARA"
+        },
+        {
             "Date": "2022.03.22",
             "Time": "22:59:48",
             "Latitude": "40.1363",
@@ -4409,33 +4436,6 @@
             "Depth": "9.9",
             "ML": "3.0",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "17:44:50",
-            "Latitude": "36.5067",
-            "Longitude": "28.2092",
-            "Depth": "27.8",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "16:35:42",
-            "Latitude": "40.1515",
-            "Longitude": "30.0720",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "OREN BILECIK"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "16:24:45",
-            "Latitude": "38.5288",
-            "Longitude": "43.0125",
-            "Depth": "16.6",
-            "ML": "2.4",
-            "Location": "VAN GOLU"
         }
     ]
 }
