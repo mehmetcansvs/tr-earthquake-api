@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.22",
+            "Time": "08:39:01",
+            "Latitude": "39.0113",
+            "Longitude": "27.8443",
+            "Depth": "5.5",
+            "ML": "1.9",
+            "Location": "GOKCEAHMET AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "07:22:09",
+            "Latitude": "40.0638",
+            "Longitude": "28.6380",
+            "Depth": "14.4",
+            "ML": "3.9",
+            "Location": "KOREKEM MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.03.22",
             "Time": "04:53:52",
             "Latitude": "36.9967",
             "Longitude": "28.4085",
@@ -4418,24 +4436,6 @@
             "Depth": "41.1",
             "ML": "2.1",
             "Location": "OLUDENIZ ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "06:54:44",
-            "Latitude": "36.5767",
-            "Longitude": "27.6337",
-            "Depth": "6.0",
-            "ML": "1.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "06:45:40",
-            "Latitude": "35.0260",
-            "Longitude": "26.5173",
-            "Depth": "26.1",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ REVIZE"
         }
     ]
 }
