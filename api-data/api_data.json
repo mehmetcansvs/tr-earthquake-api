@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.03.22",
+            "Time": "02:03:02",
+            "Latitude": "40.4430",
+            "Longitude": "42.2803",
+            "Depth": "8.6",
+            "ML": "2.0",
+            "Location": "BEREKETLI SENKAYA ERZURUM"
+        },
+        {
             "Date": "2022.03.21",
             "Time": "22:16:53",
             "Latitude": "39.3060",
@@ -4417,15 +4426,6 @@
             "Longitude": "26.3472",
             "Depth": "23.6",
             "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "06:08:20",
-            "Latitude": "35.3185",
-            "Longitude": "26.3887",
-            "Depth": "16.3",
-            "ML": "1.9",
             "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
