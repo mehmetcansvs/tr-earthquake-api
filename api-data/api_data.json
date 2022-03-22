@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.22",
+            "Time": "04:53:52",
+            "Latitude": "36.9967",
+            "Longitude": "28.4085",
+            "Depth": "5.0",
+            "ML": "1.0",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "04:22:40",
+            "Latitude": "36.3300",
+            "Longitude": "28.2335",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "RODOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.22",
             "Time": "02:03:02",
             "Latitude": "40.4430",
             "Longitude": "42.2803",
@@ -4417,16 +4435,7 @@
             "Longitude": "26.5173",
             "Depth": "26.1",
             "ML": "2.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ REVIZE EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "06:12:21",
-            "Latitude": "35.1953",
-            "Longitude": "26.3472",
-            "Depth": "23.6",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ REVIZE"
         }
     ]
 }
