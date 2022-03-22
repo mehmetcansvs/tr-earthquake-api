@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.22",
+            "Time": "17:04:29",
+            "Latitude": "34.9103",
+            "Longitude": "23.4018",
+            "Depth": "9.8",
+            "ML": "3.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "17:02:30",
+            "Latitude": "34.8408",
+            "Longitude": "23.2198",
+            "Depth": "16.7",
+            "ML": "3.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "15:04:35",
+            "Latitude": "36.0900",
+            "Longitude": "28.6787",
+            "Depth": "24.8",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.22",
             "Time": "14:18:20",
             "Latitude": "35.7438",
             "Longitude": "23.4105",
@@ -4409,33 +4436,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "10:49:24",
-            "Latitude": "36.8683",
-            "Longitude": "28.0155",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "10:37:15",
-            "Latitude": "39.0638",
-            "Longitude": "37.3663",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "SEKERPINAR KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "10:19:36",
-            "Latitude": "40.3532",
-            "Longitude": "37.3203",
-            "Depth": "8.0",
-            "ML": "1.5",
-            "Location": "KARSIKENT RESADIYE TOKAT"
         }
     ]
 }
