@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.22",
+            "Time": "14:18:20",
+            "Latitude": "35.7438",
+            "Longitude": "23.4105",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "13:12:45",
+            "Latitude": "38.1920",
+            "Longitude": "34.3117",
+            "Depth": "10.3",
+            "ML": "1.8",
+            "Location": "KITRELI CIFTLIK NIGDE"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "12:50:27",
+            "Latitude": "35.2698",
+            "Longitude": "25.2948",
+            "Depth": "15.5",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.22",
             "Time": "12:35:24",
             "Latitude": "37.2900",
             "Longitude": "31.8898",
@@ -4409,33 +4436,6 @@
             "Depth": "8.0",
             "ML": "1.5",
             "Location": "KARSIKENT RESADIYE TOKAT"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "10:18:06",
-            "Latitude": "36.8567",
-            "Longitude": "28.0153",
-            "Depth": "30.9",
-            "ML": "1.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "10:13:50",
-            "Latitude": "36.8983",
-            "Longitude": "28.0060",
-            "Depth": "11.5",
-            "ML": "2.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "10:13:08",
-            "Latitude": "38.8818",
-            "Longitude": "43.5790",
-            "Depth": "7.8",
-            "ML": "2.1",
-            "Location": "CAKIRBEY VAN"
         }
     ]
 }
