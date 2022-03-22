@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.22",
+            "Time": "19:41:51",
+            "Latitude": "39.4202",
+            "Longitude": "32.9745",
+            "Depth": "4.6",
+            "ML": "2.9",
+            "Location": "YENIYAPANCARSAK BALA ANKARA"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "19:06:12",
+            "Latitude": "38.7487",
+            "Longitude": "31.2312",
+            "Depth": "8.0",
+            "ML": "1.7",
+            "Location": "BUYUKKARABAG BOLVADIN AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.03.22",
             "Time": "18:25:22",
             "Latitude": "34.7093",
             "Longitude": "26.9792",
@@ -11,12 +29,30 @@
         },
         {
             "Date": "2022.03.22",
+            "Time": "18:10:43",
+            "Latitude": "38.1772",
+            "Longitude": "30.1685",
+            "Depth": "5.0",
+            "ML": "1.2",
+            "Location": "CAGLAYAN DINAR AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.03.22",
             "Time": "17:56:29",
             "Latitude": "37.8007",
             "Longitude": "27.6223",
             "Depth": "2.6",
             "ML": "2.1",
             "Location": "TURANLAR GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.03.22",
+            "Time": "17:42:54",
+            "Latitude": "37.1365",
+            "Longitude": "28.6960",
+            "Depth": "3.0",
+            "ML": "1.6",
+            "Location": "TURGUT ULA MUGLA"
         },
         {
             "Date": "2022.03.22",
@@ -4400,42 +4436,6 @@
             "Depth": "8.0",
             "ML": "1.7",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "12:53:25",
-            "Latitude": "38.7735",
-            "Longitude": "27.7515",
-            "Depth": "6.1",
-            "ML": "1.6",
-            "Location": "KEMIKLIDERE SARUHANLI MANISA"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "12:50:31",
-            "Latitude": "39.1167",
-            "Longitude": "43.2512",
-            "Depth": "27.0",
-            "ML": "1.8",
-            "Location": "UNCULAR ERCIS VAN"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "12:46:24",
-            "Latitude": "39.2563",
-            "Longitude": "27.6662",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "BUYUKGUNEY SOMA MANISA"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "12:31:14",
-            "Latitude": "39.5637",
-            "Longitude": "35.5100",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "URKUTLU SARIKAYA YOZGAT"
         }
     ]
 }
