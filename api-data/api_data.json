@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.23",
+            "Time": "16:43:53",
+            "Latitude": "36.8950",
+            "Longitude": "34.5805",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "RESULKOY TOROSLAR MERSIN"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "15:26:13",
+            "Latitude": "38.3372",
+            "Longitude": "38.7948",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "CANAKCI KALE MALATYA"
+        },
+        {
+            "Date": "2022.03.23",
             "Time": "15:18:47",
             "Latitude": "38.2793",
             "Longitude": "38.7803",
@@ -17,6 +35,24 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "DIKILI ACIKLARI IZMIR EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "14:58:44",
+            "Latitude": "37.9215",
+            "Longitude": "29.3050",
+            "Depth": "5.1",
+            "ML": "1.0",
+            "Location": "BAKLANCAKIRLAR CAL DENIZLI"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "13:40:14",
+            "Latitude": "39.3772",
+            "Longitude": "40.6803",
+            "Depth": "5.3",
+            "ML": "1.7",
+            "Location": "DINARBEY YEDISU BINGOL"
         },
         {
             "Date": "2022.03.23",
@@ -4400,42 +4436,6 @@
             "Depth": "11.8",
             "ML": "1.7",
             "Location": "YAYLASOGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "08:00:05",
-            "Latitude": "35.2782",
-            "Longitude": "25.2373",
-            "Depth": "14.4",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "06:42:04",
-            "Latitude": "36.9950",
-            "Longitude": "30.4327",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "SOGUTCUK KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "06:38:30",
-            "Latitude": "38.9700",
-            "Longitude": "27.7725",
-            "Depth": "8.9",
-            "ML": "2.0",
-            "Location": "SULEYMANLI AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "06:23:46",
-            "Latitude": "36.8877",
-            "Longitude": "28.0068",
-            "Depth": "1.7",
-            "ML": "1.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
