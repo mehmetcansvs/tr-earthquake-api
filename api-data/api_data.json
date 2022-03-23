@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.03.23",
+            "Time": "15:18:47",
+            "Latitude": "38.2793",
+            "Longitude": "38.7803",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "KARSIYAKA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "15:09:46",
+            "Latitude": "39.0500",
+            "Longitude": "26.7613",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "DIKILI ACIKLARI IZMIR EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "13:06:10",
+            "Latitude": "37.0172",
+            "Longitude": "28.3563",
+            "Depth": "7.4",
+            "ML": "1.8",
+            "Location": "GOKCE ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "12:41:04",
+            "Latitude": "39.3045",
+            "Longitude": "33.4233",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BEKTASLI BALA ANKARA"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "12:34:18",
+            "Latitude": "37.2907",
+            "Longitude": "31.9000",
+            "Depth": "0.0",
+            "ML": "2.0",
+            "Location": "MADENLI SEYDISEHIR KONYA"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "11:43:11",
+            "Latitude": "39.4577",
+            "Longitude": "33.4918",
+            "Depth": "8.8",
+            "ML": "1.6",
+            "Location": "CELEBI KIRIKKALE"
+        },
+        {
+            "Date": "2022.03.23",
             "Time": "10:55:51",
             "Latitude": "40.0835",
             "Longitude": "28.6568",
@@ -4382,60 +4436,6 @@
             "Depth": "1.7",
             "ML": "1.1",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "06:08:03",
-            "Latitude": "38.6368",
-            "Longitude": "43.0392",
-            "Depth": "19.5",
-            "ML": "1.2",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "05:27:52",
-            "Latitude": "35.5237",
-            "Longitude": "26.3850",
-            "Depth": "14.0",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "03:37:44",
-            "Latitude": "34.9775",
-            "Longitude": "26.6577",
-            "Depth": "5.0",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "03:32:47",
-            "Latitude": "38.5382",
-            "Longitude": "40.8805",
-            "Depth": "5.1",
-            "ML": "2.2",
-            "Location": "ASAGIELMALI KULP DIYARBAKIR"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "02:51:40",
-            "Latitude": "41.0845",
-            "Longitude": "43.8978",
-            "Depth": "5.5",
-            "ML": "1.7",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "02:46:44",
-            "Latitude": "40.4698",
-            "Longitude": "28.5925",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "ESENCE ACIKLARI BURSA MARMARA DENIZI"
         }
     ]
 }
