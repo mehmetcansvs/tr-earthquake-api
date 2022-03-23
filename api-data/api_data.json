@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.23",
+            "Time": "20:29:59",
+            "Latitude": "37.8847",
+            "Longitude": "26.9843",
+            "Depth": "4.0",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "20:19:50",
+            "Latitude": "37.8833",
+            "Longitude": "26.9813",
+            "Depth": "5.3",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "20:15:22",
+            "Latitude": "37.9243",
+            "Longitude": "35.6332",
+            "Depth": "19.1",
+            "ML": "1.1",
+            "Location": "CONDU FEKE ADANA"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "20:10:33",
+            "Latitude": "41.1252",
+            "Longitude": "43.9055",
+            "Depth": "5.0",
+            "ML": "3.7",
+            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "19:41:09",
+            "Latitude": "36.3713",
+            "Longitude": "27.0967",
+            "Depth": "5.3",
+            "ML": "2.5",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.03.23",
             "Time": "18:08:46",
             "Latitude": "40.2932",
             "Longitude": "27.4172",
@@ -4391,51 +4436,6 @@
             "Depth": "13.2",
             "ML": "1.6",
             "Location": "AHMETBEYLER GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "12:28:10",
-            "Latitude": "39.0725",
-            "Longitude": "41.2030",
-            "Depth": "7.6",
-            "ML": "2.2",
-            "Location": "BAGLIISA KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "11:52:36",
-            "Latitude": "36.8782",
-            "Longitude": "29.0318",
-            "Depth": "5.9",
-            "ML": "3.3",
-            "Location": "TASBASI DALAMAN MUGLA"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "11:11:04",
-            "Latitude": "37.3458",
-            "Longitude": "30.2390",
-            "Depth": "9.2",
-            "ML": "2.3",
-            "Location": "BOZLAR BURDUR"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "10:56:45",
-            "Latitude": "38.9473",
-            "Longitude": "37.2282",
-            "Depth": "25.8",
-            "ML": "1.5",
-            "Location": "BOGRUDELIK GURUN SIVAS"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "10:22:33",
-            "Latitude": "38.8942",
-            "Longitude": "43.1155",
-            "Depth": "5.0",
-            "ML": "1.3",
-            "Location": "YARIMADAKOYU ADILCEVAZ BITLIS"
         }
     ]
 }
