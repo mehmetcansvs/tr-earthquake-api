@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.23",
+            "Time": "08:53:17",
+            "Latitude": "38.0090",
+            "Longitude": "28.4155",
+            "Depth": "4.7",
+            "ML": "3.7",
+            "Location": "BEKIRLER NAZILLI AYDIN"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "08:37:42",
+            "Latitude": "37.8820",
+            "Longitude": "26.8787",
+            "Depth": "4.4",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "07:29:52",
+            "Latitude": "38.9587",
+            "Longitude": "26.0673",
+            "Depth": "7.9",
+            "ML": "2.1",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.23",
             "Time": "06:28:29",
             "Latitude": "37.0887",
             "Longitude": "28.3973",
@@ -17,6 +44,15 @@
             "Depth": "56.3",
             "ML": "1.8",
             "Location": "PINARLIKAYA UZUMLU ERZINCAN"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "04:44:35",
+            "Latitude": "35.2058",
+            "Longitude": "25.2777",
+            "Depth": "13.6",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.03.23",
@@ -4400,42 +4436,6 @@
             "Depth": "4.6",
             "ML": "1.9",
             "Location": "HASKOY AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "23:06:53",
-            "Latitude": "38.4478",
-            "Longitude": "39.2642",
-            "Depth": "6.1",
-            "ML": "2.1",
-            "Location": "DUZBAHCE SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "22:12:56",
-            "Latitude": "36.5623",
-            "Longitude": "28.0403",
-            "Depth": "58.1",
-            "ML": "1.6",
-            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "21:20:06",
-            "Latitude": "37.0340",
-            "Longitude": "28.4210",
-            "Depth": "9.2",
-            "ML": "1.4",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "20:48:02",
-            "Latitude": "37.0415",
-            "Longitude": "28.4423",
-            "Depth": "14.8",
-            "ML": "1.5",
-            "Location": "ELMALI ULA MUGLA"
         }
     ]
 }
