@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.23",
+            "Time": "10:20:22",
+            "Latitude": "37.9665",
+            "Longitude": "34.8038",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "GUMUSLER NIGDE"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "10:10:13",
+            "Latitude": "40.0925",
+            "Longitude": "28.6288",
+            "Depth": "4.2",
+            "ML": "2.5",
+            "Location": "ONAC MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "09:53:07",
+            "Latitude": "37.9522",
+            "Longitude": "31.0523",
+            "Depth": "3.5",
+            "ML": "1.6",
+            "Location": "SARIIDRIS EGIRDIR ISPARTA"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "09:34:29",
+            "Latitude": "38.2960",
+            "Longitude": "38.7660",
+            "Depth": "9.4",
+            "ML": "2.5",
+            "Location": "KARSIYAKA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.23",
             "Time": "08:53:17",
             "Latitude": "38.0090",
             "Longitude": "28.4155",
@@ -38,12 +74,12 @@
         },
         {
             "Date": "2022.03.23",
-            "Time": "04:47:39",
-            "Latitude": "39.6762",
-            "Longitude": "39.8895",
-            "Depth": "56.3",
-            "ML": "1.8",
-            "Location": "PINARLIKAYA UZUMLU ERZINCAN"
+            "Time": "04:47:41",
+            "Latitude": "39.9247",
+            "Longitude": "39.5217",
+            "Depth": "14.5",
+            "ML": "1.6",
+            "Location": "BELENLI KELKIT GUMUSHANE"
         },
         {
             "Date": "2022.03.23",
@@ -3899,6 +3935,15 @@
         },
         {
             "Date": "2022.03.11",
+            "Time": "18:48:36",
+            "Latitude": "39.2823",
+            "Longitude": "28.1540",
+            "Depth": "11.9",
+            "ML": "1.4",
+            "Location": "KARAAGAC SINDIRGI BALIKESIR"
+        },
+        {
+            "Date": "2022.03.11",
             "Time": "15:16:13",
             "Latitude": "39.5000",
             "Longitude": "26.9467",
@@ -4391,51 +4436,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "DOSTAL ILIC ERZINCAN"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "01:07:01",
-            "Latitude": "39.5948",
-            "Longitude": "26.4148",
-            "Depth": "2.7",
-            "ML": "1.9",
-            "Location": "AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "01:03:29",
-            "Latitude": "40.1670",
-            "Longitude": "43.8847",
-            "Depth": "21.0",
-            "ML": "1.5",
-            "Location": "TURKIYE ERMENISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "00:33:19",
-            "Latitude": "38.4060",
-            "Longitude": "30.3890",
-            "Depth": "9.2",
-            "ML": "1.2",
-            "Location": "KARGIN SANDIKLI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "23:41:37",
-            "Latitude": "37.0758",
-            "Longitude": "28.4012",
-            "Depth": "7.9",
-            "ML": "1.6",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "23:34:59",
-            "Latitude": "38.9335",
-            "Longitude": "27.8880",
-            "Depth": "4.6",
-            "ML": "1.9",
-            "Location": "HASKOY AKHISAR MANISA"
         }
     ]
 }
