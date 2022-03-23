@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.23",
+            "Time": "10:55:51",
+            "Latitude": "40.0835",
+            "Longitude": "28.6568",
+            "Depth": "7.7",
+            "ML": "1.9",
+            "Location": "DOGANALAN MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "10:21:50",
+            "Latitude": "37.9968",
+            "Longitude": "28.3952",
+            "Depth": "13.3",
+            "ML": "1.7",
+            "Location": "GEDIK NAZILLI AYDIN"
+        },
+        {
+            "Date": "2022.03.23",
             "Time": "10:20:22",
             "Latitude": "37.9665",
             "Longitude": "34.8038",
@@ -4418,24 +4436,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "ESENCE ACIKLARI BURSA MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "02:04:10",
-            "Latitude": "37.4178",
-            "Longitude": "33.7725",
-            "Depth": "7.2",
-            "ML": "2.2",
-            "Location": "AGIZBOGAZ AYRANCI KARAMAN"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "01:20:56",
-            "Latitude": "39.4900",
-            "Longitude": "38.4922",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "DOSTAL ILIC ERZINCAN"
         }
     ]
 }
