@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.03.24",
+            "Time": "00:17:24",
+            "Latitude": "40.2047",
+            "Longitude": "35.2900",
+            "Depth": "2.1",
+            "ML": "2.1",
+            "Location": "ASAGIKUYUCAK AYDINCIK YOZGAT"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "00:13:38",
+            "Latitude": "36.8543",
+            "Longitude": "28.0565",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "23:52:46",
+            "Latitude": "35.0578",
+            "Longitude": "23.3592",
+            "Depth": "68.1",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "23:38:21",
+            "Latitude": "40.3502",
+            "Longitude": "25.7763",
+            "Depth": "15.5",
+            "ML": "1.4",
+            "Location": "EGE DENIZI"
+        },
+        {
             "Date": "2022.03.23",
             "Time": "23:03:15",
             "Latitude": "38.3142",
@@ -8,6 +44,15 @@
             "Depth": "11.1",
             "ML": "2.0",
             "Location": "BOLUKKAYA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "23:01:40",
+            "Latitude": "34.9747",
+            "Longitude": "26.4390",
+            "Depth": "10.2",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.03.23",
@@ -4391,51 +4436,6 @@
             "Depth": "5.3",
             "ML": "1.8",
             "Location": "KOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "17:42:58",
-            "Latitude": "39.5007",
-            "Longitude": "27.8858",
-            "Depth": "7.7",
-            "ML": "1.5",
-            "Location": "SELIMIYE BALIKESIR"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "17:12:28",
-            "Latitude": "38.5948",
-            "Longitude": "40.5458",
-            "Depth": "15.8",
-            "ML": "1.9",
-            "Location": "ORTULU LICE DIYARBAKIR"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "17:01:57",
-            "Latitude": "36.9392",
-            "Longitude": "28.1730",
-            "Depth": "3.5",
-            "ML": "1.5",
-            "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "16:27:45",
-            "Latitude": "36.2198",
-            "Longitude": "33.6862",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "ISIKLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "15:48:28",
-            "Latitude": "40.8728",
-            "Longitude": "31.6852",
-            "Depth": "8.6",
-            "ML": "2.3",
-            "Location": "MESCICELE BOLU"
         }
     ]
 }
