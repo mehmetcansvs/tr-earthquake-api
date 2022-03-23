@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.23",
+            "Time": "06:28:29",
+            "Latitude": "37.0887",
+            "Longitude": "28.3973",
+            "Depth": "7.7",
+            "ML": "2.4",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.23",
+            "Time": "04:47:39",
+            "Latitude": "39.6762",
+            "Longitude": "39.8895",
+            "Depth": "56.3",
+            "ML": "1.8",
+            "Location": "PINARLIKAYA UZUMLU ERZINCAN"
+        },
+        {
+            "Date": "2022.03.23",
             "Time": "04:31:51",
             "Latitude": "37.0763",
             "Longitude": "28.3830",
@@ -4418,24 +4436,6 @@
             "Depth": "14.8",
             "ML": "1.5",
             "Location": "ELMALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "20:38:19",
-            "Latitude": "38.1020",
-            "Longitude": "43.2277",
-            "Depth": "3.2",
-            "ML": "2.4",
-            "Location": "BILGI CATAK VAN"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "20:33:20",
-            "Latitude": "37.3542",
-            "Longitude": "36.7103",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "IMALI TURKOGLU KAHRAMANMARAS"
         }
     ]
 }
