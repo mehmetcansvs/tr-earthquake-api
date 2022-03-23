@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.23",
+            "Time": "04:31:51",
+            "Latitude": "37.0763",
+            "Longitude": "28.3830",
+            "Depth": "6.0",
+            "ML": "2.6",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.23",
             "Time": "03:43:40",
             "Latitude": "40.8375",
             "Longitude": "28.1718",
@@ -4427,15 +4436,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "IMALI TURKOGLU KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.03.09",
-            "Time": "19:48:57",
-            "Latitude": "37.9058",
-            "Longitude": "36.6963",
-            "Depth": "26.3",
-            "ML": "1.7",
-            "Location": "TEKIR KAHRAMANMARAS"
         }
     ]
 }
