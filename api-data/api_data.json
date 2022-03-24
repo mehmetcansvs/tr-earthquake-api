@@ -2,6 +2,105 @@
     "data": [
         {
             "Date": "2022.03.24",
+            "Time": "12:52:34",
+            "Latitude": "39.8075",
+            "Longitude": "33.0308",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "TABURLAR ELMADAG ANKARA"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "12:44:49",
+            "Latitude": "40.4133",
+            "Longitude": "26.2510",
+            "Depth": "11.4",
+            "ML": "1.6",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "12:25:39",
+            "Latitude": "37.6437",
+            "Longitude": "37.0190",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "ULUTAS KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "12:11:35",
+            "Latitude": "39.1038",
+            "Longitude": "34.6770",
+            "Depth": "21.4",
+            "ML": "1.2",
+            "Location": "YURTYERI HACIBEKTAS NEVSEHIR"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "11:54:10",
+            "Latitude": "39.3048",
+            "Longitude": "28.2943",
+            "Depth": "15.9",
+            "ML": "1.4",
+            "Location": "UMURLAR SINDIRGI BALIKESIR"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "11:50:08",
+            "Latitude": "40.6932",
+            "Longitude": "41.5680",
+            "Depth": "20.6",
+            "ML": "1.4",
+            "Location": "ORMANDIBI YUSUFELI ARTVIN"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "11:34:11",
+            "Latitude": "39.5850",
+            "Longitude": "29.4358",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "KAYAARASI TAVSANLI KUTAHYA"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "11:13:10",
+            "Latitude": "37.8197",
+            "Longitude": "26.9355",
+            "Depth": "11.2",
+            "ML": "1.3",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "11:07:37",
+            "Latitude": "37.0835",
+            "Longitude": "28.3982",
+            "Depth": "9.6",
+            "ML": "1.4",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "10:55:17",
+            "Latitude": "37.2235",
+            "Longitude": "37.1563",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "ESKISARKAYA SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "10:36:09",
+            "Latitude": "40.8255",
+            "Longitude": "41.3603",
+            "Depth": "16.7",
+            "ML": "1.7",
+            "Location": "YUNCULER YUSUFELI ARTVIN"
+        },
+        {
+            "Date": "2022.03.24",
             "Time": "10:35:59",
             "Latitude": "39.1468",
             "Longitude": "28.1178",
@@ -4337,105 +4436,6 @@
             "Depth": "3.0",
             "ML": "2.7",
             "Location": "BURHANIYE BALIKESIR"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "14:33:27",
-            "Latitude": "36.0062",
-            "Longitude": "28.6775",
-            "Depth": "29.3",
-            "ML": "2.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "11:59:25",
-            "Latitude": "40.1037",
-            "Longitude": "40.6043",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "ORTACIMAGIL BAYBURT"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "11:53:44",
-            "Latitude": "39.4698",
-            "Longitude": "25.9080",
-            "Depth": "6.0",
-            "ML": "1.8",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "11:52:08",
-            "Latitude": "37.1507",
-            "Longitude": "34.7252",
-            "Depth": "1.9",
-            "ML": "1.0",
-            "Location": "KORUCAK CAMLIYAYLA MERSIN"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "10:47:39",
-            "Latitude": "34.7578",
-            "Longitude": "24.5105",
-            "Depth": "24.1",
-            "ML": "3.8",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "09:23:13",
-            "Latitude": "37.0878",
-            "Longitude": "28.3850",
-            "Depth": "9.0",
-            "ML": "1.8",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "07:56:14",
-            "Latitude": "35.8567",
-            "Longitude": "30.9337",
-            "Depth": "85.5",
-            "ML": "3.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "06:39:58",
-            "Latitude": "39.4855",
-            "Longitude": "26.9722",
-            "Depth": "10.8",
-            "ML": "2.2",
-            "Location": "SARKOY BURHANIYE BALIKESIR"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "06:23:37",
-            "Latitude": "39.1490",
-            "Longitude": "29.4988",
-            "Depth": "8.8",
-            "ML": "1.8",
-            "Location": "DOGANCILAR CAVDARHISAR KUTAHYA"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "05:47:07",
-            "Latitude": "36.2342",
-            "Longitude": "27.0335",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "04:34:29",
-            "Latitude": "37.9087",
-            "Longitude": "27.1210",
-            "Depth": "4.6",
-            "ML": "2.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
