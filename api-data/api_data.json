@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.24",
+            "Time": "07:19:12",
+            "Latitude": "39.7543",
+            "Longitude": "23.9388",
+            "Depth": "28.6",
+            "ML": "2.1",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.03.24",
             "Time": "06:09:45",
             "Latitude": "40.4235",
             "Longitude": "35.5137",
@@ -4427,15 +4436,6 @@
             "Depth": "8.1",
             "ML": "3.0",
             "Location": "KUZEYTEPE HATAY"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "02:53:18",
-            "Latitude": "36.2613",
-            "Longitude": "36.2143",
-            "Depth": "5.3",
-            "ML": "3.0",
-            "Location": "HASANLI HATAY"
         }
     ]
 }
