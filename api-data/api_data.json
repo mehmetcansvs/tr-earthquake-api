@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.24",
+            "Time": "19:06:34",
+            "Latitude": "37.8403",
+            "Longitude": "26.9247",
+            "Depth": "17.1",
+            "ML": "1.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.24",
             "Time": "18:52:09",
             "Latitude": "37.0782",
             "Longitude": "28.3777",
@@ -4427,15 +4436,6 @@
             "Depth": "8.5",
             "ML": "1.4",
             "Location": "YESILYURT CAY AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.03.12",
-            "Time": "04:21:34",
-            "Latitude": "37.0585",
-            "Longitude": "28.4187",
-            "Depth": "8.8",
-            "ML": "1.5",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
