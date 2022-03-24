@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.24",
+            "Time": "05:18:33",
+            "Latitude": "36.2147",
+            "Longitude": "29.0543",
+            "Depth": "11.0",
+            "ML": "1.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "04:59:09",
+            "Latitude": "39.8470",
+            "Longitude": "39.0145",
+            "Depth": "5.0",
+            "ML": "3.6",
+            "Location": "KEDEK KEMAH ERZINCAN"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "04:39:19",
+            "Latitude": "40.2918",
+            "Longitude": "42.4305",
+            "Depth": "10.8",
+            "ML": "1.7",
+            "Location": "HANDERE SARIKAMIS KARS"
+        },
+        {
+            "Date": "2022.03.24",
             "Time": "03:42:28",
             "Latitude": "40.0687",
             "Longitude": "28.6243",
@@ -4409,33 +4436,6 @@
             "Depth": "6.2",
             "ML": "2.1",
             "Location": "KOCYATAGI VARTO MUS"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "02:00:43",
-            "Latitude": "41.1122",
-            "Longitude": "43.9087",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "23:47:31",
-            "Latitude": "38.2827",
-            "Longitude": "29.9745",
-            "Depth": "8.5",
-            "ML": "2.1",
-            "Location": "BEYDILLI CIVRIL DENIZLI"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "22:55:45",
-            "Latitude": "41.8027",
-            "Longitude": "41.6293",
-            "Depth": "19.2",
-            "ML": "3.0",
-            "Location": "TURKIYE GURCISTAN SINIR BOLGESI"
         }
     ]
 }
