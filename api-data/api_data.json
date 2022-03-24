@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.24",
+            "Time": "06:09:45",
+            "Latitude": "40.4235",
+            "Longitude": "35.5137",
+            "Depth": "5.4",
+            "ML": "2.4",
+            "Location": "CAMURLU GOYNUCEK AMASYA"
+        },
+        {
+            "Date": "2022.03.24",
             "Time": "05:18:33",
             "Latitude": "36.2147",
             "Longitude": "29.0543",
@@ -4427,15 +4436,6 @@
             "Depth": "5.3",
             "ML": "3.0",
             "Location": "HASANLI HATAY"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "02:27:49",
-            "Latitude": "39.2433",
-            "Longitude": "41.5700",
-            "Depth": "6.2",
-            "ML": "2.1",
-            "Location": "KOCYATAGI VARTO MUS"
         }
     ]
 }
