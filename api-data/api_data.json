@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.24",
+            "Time": "10:35:59",
+            "Latitude": "39.1468",
+            "Longitude": "28.1178",
+            "Depth": "7.2",
+            "ML": "1.6",
+            "Location": "SINANDEDE SINDIRGI BALIKESIR"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "09:44:10",
+            "Latitude": "39.0617",
+            "Longitude": "41.7142",
+            "Depth": "25.8",
+            "ML": "1.5",
+            "Location": "KUMLUKIYI VARTO MUS"
+        },
+        {
+            "Date": "2022.03.24",
             "Time": "07:19:12",
             "Latitude": "39.7543",
             "Longitude": "23.9388",
@@ -4418,24 +4436,6 @@
             "Depth": "4.6",
             "ML": "2.4",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "03:15:58",
-            "Latitude": "37.8500",
-            "Longitude": "42.0015",
-            "Depth": "2.8",
-            "ML": "2.2",
-            "Location": "KALENDER SIIRT"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "03:04:37",
-            "Latitude": "36.2738",
-            "Longitude": "36.1635",
-            "Depth": "8.1",
-            "ML": "3.0",
-            "Location": "KUZEYTEPE HATAY"
         }
     ]
 }
