@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.24",
+            "Time": "16:00:34",
+            "Latitude": "36.7255",
+            "Longitude": "36.4688",
+            "Depth": "6.2",
+            "ML": "1.8",
+            "Location": "KATRANLIK HASSA HATAY"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "15:44:13",
+            "Latitude": "36.3255",
+            "Longitude": "29.6488",
+            "Depth": "11.8",
+            "ML": "1.4",
+            "Location": "SINNELI KAS ANTALYA"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "15:44:00",
+            "Latitude": "38.9067",
+            "Longitude": "37.3743",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "DAYAKPINAR GURUN SIVAS"
+        },
+        {
+            "Date": "2022.03.24",
             "Time": "13:47:25",
             "Latitude": "36.1523",
             "Longitude": "33.5613",
@@ -4409,33 +4436,6 @@
             "Depth": "5.5",
             "ML": "1.2",
             "Location": "YENISARBADEMLI ISPARTA"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "23:47:36",
-            "Latitude": "37.0752",
-            "Longitude": "35.1015",
-            "Depth": "19.6",
-            "ML": "1.5",
-            "Location": "SOGUTLU CUKUROVA ADANA"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "23:40:25",
-            "Latitude": "36.4160",
-            "Longitude": "26.9965",
-            "Depth": "14.2",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.11",
-            "Time": "21:42:39",
-            "Latitude": "36.2178",
-            "Longitude": "31.5258",
-            "Depth": "28.2",
-            "ML": "1.8",
-            "Location": "ANTALYA KORFEZI AKDENIZ"
         }
     ]
 }
