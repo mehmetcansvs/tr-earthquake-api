@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.03.24",
+            "Time": "03:42:28",
+            "Latitude": "40.0687",
+            "Longitude": "28.6243",
+            "Depth": "5.1",
+            "ML": "2.9",
+            "Location": "INCEALIPINAR MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "03:24:33",
+            "Latitude": "37.8212",
+            "Longitude": "27.1552",
+            "Depth": "3.5",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "03:23:43",
+            "Latitude": "37.5628",
+            "Longitude": "29.5707",
+            "Depth": "7.2",
+            "ML": "2.0",
+            "Location": "DUDEN YESILOVA BURDUR"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "01:31:37",
+            "Latitude": "37.3657",
+            "Longitude": "35.1353",
+            "Depth": "15.3",
+            "ML": "2.2",
+            "Location": "CUKUR KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "01:11:21",
+            "Latitude": "40.7718",
+            "Longitude": "43.1880",
+            "Depth": "27.2",
+            "ML": "1.8",
+            "Location": "KIRCICEGI SUSUZ KARS"
+        },
+        {
+            "Date": "2022.03.24",
+            "Time": "01:08:53",
+            "Latitude": "36.8092",
+            "Longitude": "30.5833",
+            "Depth": "12.4",
+            "ML": "1.6",
+            "Location": "HACISEKILILER KONYAALTI ANTALYA"
+        },
+        {
+            "Date": "2022.03.24",
             "Time": "00:17:24",
             "Latitude": "40.2047",
             "Longitude": "35.2900",
@@ -4382,60 +4436,6 @@
             "Depth": "19.2",
             "ML": "3.0",
             "Location": "TURKIYE GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "20:26:04",
-            "Latitude": "41.1372",
-            "Longitude": "43.9103",
-            "Depth": "6.8",
-            "ML": "2.6",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "19:17:20",
-            "Latitude": "37.3425",
-            "Longitude": "36.3332",
-            "Depth": "13.2",
-            "ML": "1.6",
-            "Location": "GUZELYURT DUZICI OSMANIYE"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "19:11:21",
-            "Latitude": "37.0643",
-            "Longitude": "28.3482",
-            "Depth": "11.6",
-            "ML": "2.2",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "19:09:30",
-            "Latitude": "40.8630",
-            "Longitude": "31.8092",
-            "Depth": "5.6",
-            "ML": "2.3",
-            "Location": "MERKESLER BOLU"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "18:34:23",
-            "Latitude": "36.1070",
-            "Longitude": "27.6520",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.10",
-            "Time": "18:30:05",
-            "Latitude": "36.8758",
-            "Longitude": "27.3295",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "KOS ADASI AKDENIZ"
         }
     ]
 }
