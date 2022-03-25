@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.25",
+            "Time": "21:05:02",
+            "Latitude": "38.6750",
+            "Longitude": "42.5637",
+            "Depth": "12.5",
+            "ML": "1.7",
+            "Location": "ADABAG TATVAN BITLIS"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "20:03:18",
+            "Latitude": "38.6973",
+            "Longitude": "43.1997",
+            "Depth": "5.3",
+            "ML": "1.7",
+            "Location": "AGARTI VAN"
+        },
+        {
+            "Date": "2022.03.25",
             "Time": "18:46:53",
             "Latitude": "40.8258",
             "Longitude": "31.1537",
@@ -4418,24 +4436,6 @@
             "Depth": "9.0",
             "ML": "2.6",
             "Location": "KOPRUCUK ALADAG ADANA"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "21:06:42",
-            "Latitude": "38.9413",
-            "Longitude": "26.6948",
-            "Depth": "8.7",
-            "ML": "2.4",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "21:00:24",
-            "Latitude": "38.9527",
-            "Longitude": "26.6742",
-            "Depth": "7.9",
-            "ML": "3.9",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         }
     ]
 }
