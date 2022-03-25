@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.25",
+            "Time": "16:43:49",
+            "Latitude": "37.0648",
+            "Longitude": "28.3957",
+            "Depth": "6.2",
+            "ML": "1.4",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "16:26:57",
+            "Latitude": "38.8878",
+            "Longitude": "43.6852",
+            "Depth": "9.3",
+            "ML": "2.8",
+            "Location": "TOPUZARPA MURADIYE VAN"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "15:37:47",
+            "Latitude": "36.1865",
+            "Longitude": "33.5595",
+            "Depth": "0.0",
+            "ML": "0.8",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.03.25",
             "Time": "14:49:18",
             "Latitude": "36.1987",
             "Longitude": "33.7072",
@@ -4409,33 +4436,6 @@
             "Depth": "3.1",
             "ML": "1.8",
             "Location": "GECITKOY TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "15:05:08",
-            "Latitude": "38.5660",
-            "Longitude": "37.6390",
-            "Depth": "25.5",
-            "ML": "1.5",
-            "Location": "IRMAKLI DARENDE MALATYA"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "13:29:51",
-            "Latitude": "40.1450",
-            "Longitude": "24.2015",
-            "Depth": "28.4",
-            "ML": "2.5",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "13:02:09",
-            "Latitude": "36.2590",
-            "Longitude": "27.0765",
-            "Depth": "17.5",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
         }
     ]
 }
