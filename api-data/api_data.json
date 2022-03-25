@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.25",
+            "Time": "18:46:53",
+            "Latitude": "40.8258",
+            "Longitude": "31.1537",
+            "Depth": "8.8",
+            "ML": "2.1",
+            "Location": "DUZCE"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "18:44:25",
+            "Latitude": "36.4572",
+            "Longitude": "31.0982",
+            "Depth": "30.0",
+            "ML": "3.4",
+            "Location": "ANTALYA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "17:05:02",
+            "Latitude": "35.1773",
+            "Longitude": "25.3013",
+            "Depth": "3.9",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.25",
             "Time": "16:43:49",
             "Latitude": "37.0648",
             "Longitude": "28.3957",
@@ -4409,33 +4436,6 @@
             "Depth": "7.9",
             "ML": "3.9",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "19:46:10",
-            "Latitude": "39.3485",
-            "Longitude": "40.6933",
-            "Depth": "7.6",
-            "ML": "1.8",
-            "Location": "DINARBEY YEDISU BINGOL"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "16:30:21",
-            "Latitude": "39.4158",
-            "Longitude": "28.4522",
-            "Depth": "9.1",
-            "ML": "2.6",
-            "Location": "DUNDARCIK BIGADIC BALIKESIR"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "15:21:33",
-            "Latitude": "39.7967",
-            "Longitude": "41.3737",
-            "Depth": "3.1",
-            "ML": "1.8",
-            "Location": "GECITKOY TEKMAN ERZURUM"
         }
     ]
 }
