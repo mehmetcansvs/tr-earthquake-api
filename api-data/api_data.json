@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.03.25",
+            "Time": "21:40:29",
+            "Latitude": "38.6627",
+            "Longitude": "43.1853",
+            "Depth": "12.9",
+            "ML": "1.5",
+            "Location": "MOLLAKASIM VAN"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "21:36:13",
+            "Latitude": "38.9460",
+            "Longitude": "26.6783",
+            "Depth": "9.4",
+            "ML": "2.8",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.25",
             "Time": "21:05:02",
             "Latitude": "38.6750",
             "Longitude": "42.5637",
             "Depth": "12.5",
             "ML": "1.7",
             "Location": "ADABAG TATVAN BITLIS"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "21:01:29",
+            "Latitude": "36.8232",
+            "Longitude": "27.9662",
+            "Depth": "4.2",
+            "ML": "0.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
         },
         {
             "Date": "2022.03.25",
@@ -4409,33 +4436,6 @@
             "Depth": "6.5",
             "ML": "1.5",
             "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "23:13:39",
-            "Latitude": "41.0393",
-            "Longitude": "35.4683",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "ELALDI VEZIRKOPRU SAMSUN"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "21:41:54",
-            "Latitude": "37.0175",
-            "Longitude": "28.3885",
-            "Depth": "8.0",
-            "ML": "3.6",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "21:25:23",
-            "Latitude": "37.6687",
-            "Longitude": "35.5252",
-            "Depth": "9.0",
-            "ML": "2.6",
-            "Location": "KOPRUCUK ALADAG ADANA"
         }
     ]
 }
