@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.03.25",
+            "Time": "14:49:18",
+            "Latitude": "36.1987",
+            "Longitude": "33.7072",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "YESILOVACIK SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "14:49:03",
+            "Latitude": "36.1855",
+            "Longitude": "33.6470",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "YESILOVACIK SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "14:41:37",
+            "Latitude": "37.8497",
+            "Longitude": "34.6392",
+            "Depth": "15.1",
+            "ML": "1.3",
+            "Location": "KAYNARCA BOR NIGDE"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "14:38:54",
+            "Latitude": "38.3302",
+            "Longitude": "38.8497",
+            "Depth": "22.6",
+            "ML": "1.9",
+            "Location": "UYANIK KALE MALATYA"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "14:33:47",
+            "Latitude": "37.9245",
+            "Longitude": "34.7275",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "NIGDE"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "14:16:33",
+            "Latitude": "37.9740",
+            "Longitude": "27.6593",
+            "Depth": "5.3",
+            "ML": "1.9",
+            "Location": "BASKOY TIRE IZMIR"
+        },
+        {
+            "Date": "2022.03.25",
+            "Time": "13:47:03",
+            "Latitude": "36.9387",
+            "Longitude": "27.6477",
+            "Depth": "5.5",
+            "ML": "2.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.25",
             "Time": "12:40:41",
             "Latitude": "37.9617",
             "Longitude": "27.5142",
@@ -4373,69 +4436,6 @@
             "Depth": "17.5",
             "ML": "1.8",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "13:00:20",
-            "Latitude": "38.0655",
-            "Longitude": "28.8543",
-            "Depth": "3.1",
-            "ML": "1.6",
-            "Location": "BOZALAN BULDAN DENIZLI"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "11:59:49",
-            "Latitude": "36.4288",
-            "Longitude": "22.6690",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "10:39:35",
-            "Latitude": "37.1292",
-            "Longitude": "28.6528",
-            "Depth": "16.2",
-            "ML": "1.2",
-            "Location": "KAVAKCALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "10:07:20",
-            "Latitude": "38.3845",
-            "Longitude": "35.1880",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "SEYHSABAN INCESU KAYSERI"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "07:42:50",
-            "Latitude": "40.2790",
-            "Longitude": "36.4843",
-            "Depth": "5.3",
-            "ML": "2.4",
-            "Location": "DEREYAKA TOKAT"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "07:34:55",
-            "Latitude": "37.8427",
-            "Longitude": "41.9698",
-            "Depth": "1.8",
-            "ML": "2.6",
-            "Location": "KALENDER SIIRT"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "07:30:12",
-            "Latitude": "37.9648",
-            "Longitude": "42.0052",
-            "Depth": "3.4",
-            "ML": "2.2",
-            "Location": "DEREYAMAC AYDINLAR SIIRT"
         }
     ]
 }
