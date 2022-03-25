@@ -3278,6 +3278,15 @@
         },
         {
             "Date": "2022.03.16",
+            "Time": "02:48:35",
+            "Latitude": "35.7132",
+            "Longitude": "27.2957",
+            "Depth": "12.8",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.16",
             "Time": "01:36:35",
             "Latitude": "38.1833",
             "Longitude": "26.5682",
@@ -3581,6 +3590,15 @@
             "Depth": "4.9",
             "ML": "2.0",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.15",
+            "Time": "05:12:44",
+            "Latitude": "35.3690",
+            "Longitude": "25.3730",
+            "Depth": "23.2",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.03.15",
@@ -4418,24 +4436,6 @@
             "Depth": "7.8",
             "ML": "1.3",
             "Location": "DONERTAS HORASAN ERZURUM"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "03:57:46",
-            "Latitude": "33.7287",
-            "Longitude": "27.6195",
-            "Depth": "6.1",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.13",
-            "Time": "02:39:12",
-            "Latitude": "39.8713",
-            "Longitude": "40.1015",
-            "Depth": "18.6",
-            "ML": "1.5",
-            "Location": "YUREKLI CAYIRLI ERZINCAN"
         }
     ]
 }
