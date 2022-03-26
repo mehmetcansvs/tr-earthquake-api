@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.26",
+            "Time": "22:39:19",
+            "Latitude": "37.0225",
+            "Longitude": "28.4205",
+            "Depth": "8.1",
+            "ML": "1.5",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.26",
+            "Time": "21:11:01",
+            "Latitude": "36.4263",
+            "Longitude": "28.4398",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.26",
+            "Time": "20:19:33",
+            "Latitude": "40.6178",
+            "Longitude": "27.7842",
+            "Depth": "12.7",
+            "ML": "1.5",
+            "Location": "ASMALI MARMARA BALIKESIR"
+        },
+        {
+            "Date": "2022.03.26",
             "Time": "19:07:44",
             "Latitude": "37.7045",
             "Longitude": "33.3058",
@@ -4418,33 +4445,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "14:21:04",
-            "Latitude": "37.0317",
-            "Longitude": "28.4362",
-            "Depth": "10.6",
-            "ML": "2.6",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "14:00:27",
-            "Latitude": "40.7718",
-            "Longitude": "31.2670",
-            "Depth": "7.1",
-            "ML": "1.5",
-            "Location": "FINDIKLI KAYNASLI DUZCE"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "13:15:02",
-            "Latitude": "38.8197",
-            "Longitude": "40.9075",
-            "Depth": "9.5",
-            "ML": "1.8",
-            "Location": "GELINTEPE SOLHAN BINGOL"
         }
     ]
 }
