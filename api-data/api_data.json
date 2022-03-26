@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.26",
+            "Time": "09:45:22",
+            "Latitude": "36.2227",
+            "Longitude": "27.8127",
+            "Depth": "6.5",
+            "ML": "1.8",
+            "Location": "RODOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.26",
+            "Time": "09:13:49",
+            "Latitude": "38.4348",
+            "Longitude": "31.0847",
+            "Depth": "8.1",
+            "ML": "1.9",
+            "Location": "YARIKKAYA YALVAC ISPARTA"
+        },
+        {
+            "Date": "2022.03.26",
             "Time": "09:11:22",
             "Latitude": "37.4867",
             "Longitude": "38.4593",
@@ -4418,24 +4436,6 @@
             "Depth": "9.7",
             "ML": "1.2",
             "Location": "AFSAR BALA ANKARA"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "07:08:11",
-            "Latitude": "35.0583",
-            "Longitude": "25.2265",
-            "Depth": "5.2",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "06:42:31",
-            "Latitude": "37.0322",
-            "Longitude": "28.3745",
-            "Depth": "4.5",
-            "ML": "1.8",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
