@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.26",
+            "Time": "16:11:01",
+            "Latitude": "37.8393",
+            "Longitude": "29.8152",
+            "Depth": "9.2",
+            "ML": "1.2",
+            "Location": "SARIKAVAK DAZKIRI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.03.26",
+            "Time": "16:06:58",
+            "Latitude": "37.5740",
+            "Longitude": "35.3290",
+            "Depth": "12.6",
+            "ML": "1.1",
+            "Location": "KABASAKAL ALADAG ADANA"
+        },
+        {
+            "Date": "2022.03.26",
             "Time": "15:04:00",
             "Latitude": "37.2867",
             "Longitude": "31.9048",
@@ -4427,24 +4445,6 @@
             "Depth": "3.0",
             "ML": "1.7",
             "Location": "SAPCI TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "11:42:20",
-            "Latitude": "37.0237",
-            "Longitude": "28.3635",
-            "Depth": "1.0",
-            "ML": "1.8",
-            "Location": "AKCAPINAR ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "11:33:59",
-            "Latitude": "41.1728",
-            "Longitude": "34.5005",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "UZUNYURT KARGI CORUM"
         }
     ]
 }
