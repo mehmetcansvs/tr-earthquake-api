@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.26",
+            "Time": "19:07:44",
+            "Latitude": "37.7045",
+            "Longitude": "33.3058",
+            "Depth": "5.3",
+            "ML": "1.6",
+            "Location": "AKCAYAZI KARAPINAR KONYA"
+        },
+        {
+            "Date": "2022.03.26",
             "Time": "17:32:39",
             "Latitude": "39.9070",
             "Longitude": "42.8480",
@@ -4436,15 +4445,6 @@
             "Depth": "9.5",
             "ML": "1.8",
             "Location": "GELINTEPE SOLHAN BINGOL"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "12:16:36",
-            "Latitude": "39.7608",
-            "Longitude": "32.9530",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "BEYNAM BALA ANKARA"
         }
     ]
 }
