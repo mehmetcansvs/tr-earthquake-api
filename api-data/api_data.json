@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.26",
+            "Time": "17:32:39",
+            "Latitude": "39.9070",
+            "Longitude": "42.8480",
+            "Depth": "5.6",
+            "ML": "1.6",
+            "Location": "AKYUMAK ELESKIRT AGRI"
+        },
+        {
+            "Date": "2022.03.26",
             "Time": "16:11:01",
             "Latitude": "37.8393",
             "Longitude": "29.8152",
@@ -4436,15 +4445,6 @@
             "Depth": "0.0",
             "ML": "1.3",
             "Location": "BEYNAM BALA ANKARA"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "11:54:05",
-            "Latitude": "39.5657",
-            "Longitude": "29.2842",
-            "Depth": "3.0",
-            "ML": "1.7",
-            "Location": "SAPCI TAVSANLI KUTAHYA"
         }
     ]
 }
