@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.26",
+            "Time": "01:00:35",
+            "Latitude": "39.4638",
+            "Longitude": "23.8520",
+            "Depth": "4.8",
+            "ML": "2.7",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.03.26",
             "Time": "00:42:07",
             "Latitude": "38.9382",
             "Longitude": "26.1702",
@@ -4427,15 +4436,6 @@
             "Depth": "11.1",
             "ML": "3.9",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "03:22:59",
-            "Latitude": "36.4283",
-            "Longitude": "28.7942",
-            "Depth": "5.7",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
