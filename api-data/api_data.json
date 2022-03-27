@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.27",
+            "Time": "20:40:15",
+            "Latitude": "38.6537",
+            "Longitude": "27.1570",
+            "Depth": "10.3",
+            "ML": "2.8",
+            "Location": "IGNEDERE MENEMEN IZMIR"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "20:32:30",
+            "Latitude": "38.4040",
+            "Longitude": "23.3757",
+            "Depth": "5.0",
+            "ML": "3.7",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "20:07:49",
+            "Latitude": "35.7758",
+            "Longitude": "25.6005",
+            "Depth": "11.5",
+            "ML": "3.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.27",
             "Time": "16:59:46",
             "Latitude": "37.0812",
             "Longitude": "28.3803",
@@ -4409,33 +4436,6 @@
             "Depth": "8.7",
             "ML": "2.0",
             "Location": "OGLAKKAYA BULANIK MUS"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "05:15:27",
-            "Latitude": "37.9103",
-            "Longitude": "27.2320",
-            "Depth": "4.9",
-            "ML": "2.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "05:12:44",
-            "Latitude": "35.3690",
-            "Longitude": "25.3730",
-            "Depth": "23.2",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "05:07:04",
-            "Latitude": "38.9310",
-            "Longitude": "41.9978",
-            "Depth": "13.8",
-            "ML": "1.8",
-            "Location": "YOKUSBASI BULANIK MUS"
         }
     ]
 }
