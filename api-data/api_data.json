@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.27",
+            "Time": "22:00:43",
+            "Latitude": "36.8473",
+            "Longitude": "28.0558",
+            "Depth": "6.8",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "21:47:38",
+            "Latitude": "36.8708",
+            "Longitude": "28.0707",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "21:18:41",
+            "Latitude": "38.8242",
+            "Longitude": "27.0563",
+            "Depth": "14.4",
+            "ML": "3.0",
+            "Location": "CORAKLAR ALIAGA IZMIR"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "21:06:20",
+            "Latitude": "38.8107",
+            "Longitude": "27.0560",
+            "Depth": "8.7",
+            "ML": "2.0",
+            "Location": "CORAKLAR ALIAGA IZMIR"
+        },
+        {
+            "Date": "2022.03.27",
             "Time": "20:40:15",
             "Latitude": "38.6537",
             "Longitude": "27.1570",
@@ -26,6 +62,24 @@
             "Depth": "11.5",
             "ML": "3.3",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "18:52:45",
+            "Latitude": "37.0987",
+            "Longitude": "28.4820",
+            "Depth": "2.5",
+            "ML": "1.5",
+            "Location": "CICEKLI ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "17:15:57",
+            "Latitude": "37.0858",
+            "Longitude": "28.3937",
+            "Depth": "13.6",
+            "ML": "1.4",
+            "Location": "KIZILAGAC ULA MUGLA"
         },
         {
             "Date": "2022.03.27",
@@ -4382,60 +4436,6 @@
             "Depth": "12.8",
             "ML": "1.8",
             "Location": "ESENLER BEYAGAC DENIZLI"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "11:24:32",
-            "Latitude": "38.1475",
-            "Longitude": "31.0587",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "BAGILLI GELENDOST ISPARTA"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "09:45:05",
-            "Latitude": "35.1907",
-            "Longitude": "25.3053",
-            "Depth": "13.1",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "07:08:19",
-            "Latitude": "38.7315",
-            "Longitude": "40.0352",
-            "Depth": "5.8",
-            "ML": "2.3",
-            "Location": "KARAMAN KOVANCILAR ELAZIG"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "06:47:03",
-            "Latitude": "37.0490",
-            "Longitude": "28.4047",
-            "Depth": "10.2",
-            "ML": "1.9",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "06:35:22",
-            "Latitude": "37.8683",
-            "Longitude": "26.9443",
-            "Depth": "13.8",
-            "ML": "2.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "06:13:01",
-            "Latitude": "38.9425",
-            "Longitude": "41.9553",
-            "Depth": "8.7",
-            "ML": "2.0",
-            "Location": "OGLAKKAYA BULANIK MUS"
         }
     ]
 }
