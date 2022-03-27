@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.27",
+            "Time": "10:54:23",
+            "Latitude": "41.1632",
+            "Longitude": "34.2598",
+            "Depth": "5.0",
+            "ML": "3.1",
+            "Location": "SUNLUK KARGI CORUM"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "10:26:58",
+            "Latitude": "38.4010",
+            "Longitude": "39.1232",
+            "Depth": "5.9",
+            "ML": "3.3",
+            "Location": "KAMISLIK SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "10:08:08",
+            "Latitude": "37.0043",
+            "Longitude": "28.3917",
+            "Depth": "4.7",
+            "ML": "1.3",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "09:17:09",
+            "Latitude": "37.6065",
+            "Longitude": "29.1863",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "SARIABAT TAVAS DENIZLI"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "09:15:33",
+            "Latitude": "38.2635",
+            "Longitude": "38.8125",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "KARSIYAKA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.27",
             "Time": "08:54:40",
             "Latitude": "38.3570",
             "Longitude": "42.3302",
@@ -4400,51 +4445,6 @@
             "Depth": "5.3",
             "ML": "2.0",
             "Location": "CAGLAYAN CIVRIL DENIZLI"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "00:23:15",
-            "Latitude": "39.6625",
-            "Longitude": "41.0975",
-            "Depth": "26.9",
-            "ML": "1.1",
-            "Location": "KARASEYH CAT ERZURUM"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "23:55:09",
-            "Latitude": "35.1757",
-            "Longitude": "25.2438",
-            "Depth": "14.7",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "23:42:31",
-            "Latitude": "41.6428",
-            "Longitude": "26.5742",
-            "Depth": "8.6",
-            "ML": "2.5",
-            "Location": "BOSNA EDIRNE"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "22:31:51",
-            "Latitude": "36.4343",
-            "Longitude": "22.5670",
-            "Depth": "2.1",
-            "ML": "2.8",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.03.14",
-            "Time": "22:05:24",
-            "Latitude": "37.1003",
-            "Longitude": "28.4478",
-            "Depth": "7.6",
-            "ML": "1.3",
-            "Location": "ULA MUGLA"
         }
     ]
 }
