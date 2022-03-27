@@ -2,12 +2,21 @@
     "data": [
         {
             "Date": "2022.03.27",
-            "Time": "12:26:07",
-            "Latitude": "37.0133",
-            "Longitude": "28.1055",
-            "Depth": "5.4",
-            "ML": "2.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
+            "Time": "14:14:40",
+            "Latitude": "39.1157",
+            "Longitude": "29.4737",
+            "Depth": "6.2",
+            "ML": "2.0",
+            "Location": "YUNUSLAR GEDIZ KUTAHYA"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "13:39:49",
+            "Latitude": "35.2302",
+            "Longitude": "27.2238",
+            "Depth": "5.1",
+            "ML": "2.8",
+            "Location": "AKDENIZ REVIZE GOKOVA KORFEZI AKDENIZ"
         },
         {
             "Date": "2022.03.27",
@@ -4427,24 +4436,6 @@
             "Depth": "22.8",
             "ML": "2.2",
             "Location": "KORUDIBI KARAKOCAN ELAZIG"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "03:17:25",
-            "Latitude": "39.6183",
-            "Longitude": "41.1778",
-            "Depth": "9.3",
-            "ML": "1.5",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "02:58:16",
-            "Latitude": "35.0713",
-            "Longitude": "25.2052",
-            "Depth": "17.5",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
