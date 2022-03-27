@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.27",
+            "Time": "12:26:07",
+            "Latitude": "37.0133",
+            "Longitude": "28.1055",
+            "Depth": "5.4",
+            "ML": "2.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "11:57:58",
+            "Latitude": "36.9593",
+            "Longitude": "27.6103",
+            "Depth": "10.9",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "11:21:08",
+            "Latitude": "36.9753",
+            "Longitude": "27.6255",
+            "Depth": "9.1",
+            "ML": "3.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "11:19:49",
+            "Latitude": "39.0020",
+            "Longitude": "37.3848",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "TURNALI KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.03.27",
             "Time": "10:54:23",
             "Latitude": "41.1632",
             "Longitude": "34.2598",
@@ -4409,42 +4445,6 @@
             "Depth": "17.5",
             "ML": "1.9",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "02:55:40",
-            "Latitude": "39.4117",
-            "Longitude": "26.2717",
-            "Depth": "6.2",
-            "ML": "1.6",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "01:57:21",
-            "Latitude": "38.4095",
-            "Longitude": "31.0988",
-            "Depth": "1.0",
-            "ML": "1.2",
-            "Location": "CAMHARMAN YALVAC ISPARTA"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "01:42:08",
-            "Latitude": "40.7418",
-            "Longitude": "30.7380",
-            "Depth": "15.9",
-            "ML": "1.5",
-            "Location": "SULEYMANIYE HENDEK SAKARYA"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "01:15:47",
-            "Latitude": "38.3378",
-            "Longitude": "29.8478",
-            "Depth": "5.3",
-            "ML": "2.0",
-            "Location": "CAGLAYAN CIVRIL DENIZLI"
         }
     ]
 }
