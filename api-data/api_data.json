@@ -20,6 +20,24 @@
         },
         {
             "Date": "2022.03.27",
+            "Time": "21:29:57",
+            "Latitude": "37.8883",
+            "Longitude": "27.5520",
+            "Depth": "12.2",
+            "ML": "1.6",
+            "Location": "KIZILCAPINAR GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "21:29:09",
+            "Latitude": "36.8322",
+            "Longitude": "28.0523",
+            "Depth": "24.2",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.27",
             "Time": "21:18:41",
             "Latitude": "38.8242",
             "Longitude": "27.0563",
@@ -4418,24 +4436,6 @@
             "Depth": "26.4",
             "ML": "2.3",
             "Location": "TEKIROVA KEMER ANTALYA"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "11:56:12",
-            "Latitude": "40.1815",
-            "Longitude": "31.6450",
-            "Depth": "8.0",
-            "ML": "2.0",
-            "Location": "KARAKOY NALLIHAN ANKARA"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "11:30:22",
-            "Latitude": "37.1415",
-            "Longitude": "28.8983",
-            "Depth": "12.8",
-            "ML": "1.8",
-            "Location": "ESENLER BEYAGAC DENIZLI"
         }
     ]
 }
