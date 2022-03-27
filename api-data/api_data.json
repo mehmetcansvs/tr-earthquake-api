@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.27",
+            "Time": "16:59:46",
+            "Latitude": "37.0812",
+            "Longitude": "28.3803",
+            "Depth": "6.3",
+            "ML": "3.4",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.27",
+            "Time": "15:37:57",
+            "Latitude": "37.1050",
+            "Longitude": "28.4125",
+            "Depth": "13.4",
+            "ML": "1.6",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.27",
             "Time": "14:14:40",
             "Latitude": "39.1157",
             "Longitude": "29.4737",
@@ -278,6 +296,15 @@
             "Depth": "5.3",
             "ML": "1.6",
             "Location": "AKCAYAZI KARAPINAR KONYA"
+        },
+        {
+            "Date": "2022.03.26",
+            "Time": "18:14:59",
+            "Latitude": "39.5693",
+            "Longitude": "38.3675",
+            "Depth": "19.4",
+            "ML": "1.8",
+            "Location": "AGILDERE ILIC ERZINCAN"
         },
         {
             "Date": "2022.03.26",
@@ -4409,33 +4436,6 @@
             "Depth": "13.8",
             "ML": "1.8",
             "Location": "YOKUSBASI BULANIK MUS"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "05:06:33",
-            "Latitude": "38.9723",
-            "Longitude": "42.0577",
-            "Depth": "9.1",
-            "ML": "1.9",
-            "Location": "MOLLAKENT BULANIK MUS"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "04:52:46",
-            "Latitude": "37.8628",
-            "Longitude": "26.8745",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "03:58:38",
-            "Latitude": "39.1480",
-            "Longitude": "40.1278",
-            "Depth": "22.8",
-            "ML": "2.2",
-            "Location": "KORUDIBI KARAKOCAN ELAZIG"
         }
     ]
 }
