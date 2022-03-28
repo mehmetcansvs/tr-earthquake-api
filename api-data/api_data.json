@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.03.29",
+            "Time": "00:46:35",
+            "Latitude": "37.8887",
+            "Longitude": "29.8290",
+            "Depth": "9.3",
+            "ML": "1.1",
+            "Location": "SARIKAVAK DAZKIRI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.03.29",
+            "Time": "00:11:52",
+            "Latitude": "37.9362",
+            "Longitude": "27.6178",
+            "Depth": "5.4",
+            "ML": "2.3",
+            "Location": "BOZKOY GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "23:59:17",
+            "Latitude": "38.3075",
+            "Longitude": "38.8217",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "BOLUKKAYA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "23:55:05",
+            "Latitude": "36.9800",
+            "Longitude": "27.7537",
+            "Depth": "14.8",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "23:51:22",
+            "Latitude": "37.0048",
+            "Longitude": "28.3933",
+            "Depth": "6.9",
+            "ML": "1.1",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
             "Date": "2022.03.28",
             "Time": "22:54:25",
             "Latitude": "34.3568",
@@ -4409,51 +4454,6 @@
             "Depth": "10.0",
             "ML": "1.2",
             "Location": "GUNDOGAN GONEN BALIKESIR"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "22:38:53",
-            "Latitude": "35.9848",
-            "Longitude": "29.5817",
-            "Depth": "9.7",
-            "ML": "2.5",
-            "Location": "KAS ACIKLARI ANTALYA AKDENIZ"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "22:27:36",
-            "Latitude": "37.8297",
-            "Longitude": "26.9707",
-            "Depth": "7.6",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "22:18:10",
-            "Latitude": "37.1502",
-            "Longitude": "28.5163",
-            "Depth": "8.8",
-            "ML": "1.6",
-            "Location": "GOLCUK ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "22:09:55",
-            "Latitude": "39.4393",
-            "Longitude": "27.8748",
-            "Depth": "8.1",
-            "ML": "2.3",
-            "Location": "BEREKETLI BALIKESIR"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "22:01:16",
-            "Latitude": "38.1727",
-            "Longitude": "26.7225",
-            "Depth": "9.7",
-            "ML": "2.9",
-            "Location": "SEFERIHISAR ACIKLARI IZMIR EGE DENIZI"
         }
     ]
 }
