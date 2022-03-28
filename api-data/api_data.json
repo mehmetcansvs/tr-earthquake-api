@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.28",
+            "Time": "06:51:27",
+            "Latitude": "39.2243",
+            "Longitude": "40.2182",
+            "Depth": "8.5",
+            "ML": "2.0",
+            "Location": "ZEYNELLI YAYLADERE BINGOL"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "06:17:54",
+            "Latitude": "39.4843",
+            "Longitude": "27.8475",
+            "Depth": "3.0",
+            "ML": "1.8",
+            "Location": "TURKALI BALIKESIR"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "06:06:45",
+            "Latitude": "38.4275",
+            "Longitude": "23.4835",
+            "Depth": "5.0",
+            "ML": "3.1",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "04:58:51",
+            "Latitude": "37.0343",
+            "Longitude": "28.3913",
+            "Depth": "5.0",
+            "ML": "1.0",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.28",
             "Time": "04:49:39",
             "Latitude": "36.2290",
             "Longitude": "29.1607",
@@ -17,6 +53,15 @@
             "Depth": "5.0",
             "ML": "2.5",
             "Location": "TATLIPINAR KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "04:08:29",
+            "Latitude": "38.2487",
+            "Longitude": "27.8900",
+            "Depth": "5.2",
+            "ML": "1.5",
+            "Location": "KOSELER ODEMIS IZMIR"
         },
         {
             "Date": "2022.03.28",
@@ -44,6 +89,15 @@
             "Depth": "19.5",
             "ML": "1.9",
             "Location": "CIGIRLI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "01:59:17",
+            "Latitude": "37.0328",
+            "Longitude": "28.3893",
+            "Depth": "1.8",
+            "ML": "1.0",
+            "Location": "SIRINKOY ULA MUGLA"
         },
         {
             "Date": "2022.03.28",
@@ -4391,51 +4445,6 @@
             "Depth": "6.1",
             "ML": "2.1",
             "Location": "YESILDERE YAKUTIYE ERZURUM"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "17:04:47",
-            "Latitude": "40.1232",
-            "Longitude": "41.4593",
-            "Depth": "4.9",
-            "ML": "2.2",
-            "Location": "KOSKKOY YAKUTIYE ERZURUM"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "16:11:51",
-            "Latitude": "36.2050",
-            "Longitude": "27.5190",
-            "Depth": "58.1",
-            "ML": "1.8",
-            "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "15:25:58",
-            "Latitude": "41.9558",
-            "Longitude": "42.6225",
-            "Depth": "5.0",
-            "ML": "4.5",
-            "Location": "GURCISTAN REVIZE BUDAKLAR CAT ERZURUM"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "14:44:10",
-            "Latitude": "37.0600",
-            "Longitude": "28.3858",
-            "Depth": "10.5",
-            "ML": "1.8",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "13:12:54",
-            "Latitude": "37.1723",
-            "Longitude": "28.3718",
-            "Depth": "1.1",
-            "ML": "1.7",
-            "Location": "YENIKOY MUGLA"
         }
     ]
 }
