@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.03.28",
+            "Time": "21:12:08",
+            "Latitude": "37.0800",
+            "Longitude": "28.3947",
+            "Depth": "7.3",
+            "ML": "1.4",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "21:10:32",
+            "Latitude": "37.9455",
+            "Longitude": "42.0652",
+            "Depth": "8.1",
+            "ML": "2.6",
+            "Location": "MEYDANDERE SIIRT"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "20:18:05",
+            "Latitude": "37.8505",
+            "Longitude": "26.9375",
+            "Depth": "7.1",
+            "ML": "2.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "20:01:21",
+            "Latitude": "39.2040",
+            "Longitude": "32.6515",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "CELTIKLI HAYMANA ANKARA"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "19:58:05",
+            "Latitude": "39.2013",
+            "Longitude": "32.6450",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "CELTIKLI HAYMANA ANKARA"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "19:18:22",
+            "Latitude": "37.3478",
+            "Longitude": "36.8988",
+            "Depth": "3.5",
+            "ML": "1.4",
+            "Location": "HACIBEBEK TURKOGLU KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.03.28",
             "Time": "17:19:30",
             "Latitude": "35.7758",
             "Longitude": "25.5647",
@@ -4400,60 +4454,6 @@
             "Depth": "9.9",
             "ML": "1.3",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "19:35:05",
-            "Latitude": "37.8543",
-            "Longitude": "27.1412",
-            "Depth": "20.7",
-            "ML": "1.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "18:36:40",
-            "Latitude": "37.7758",
-            "Longitude": "42.0135",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "CIRPILI ERUH SIIRT"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "18:09:04",
-            "Latitude": "37.0815",
-            "Longitude": "28.4073",
-            "Depth": "11.5",
-            "ML": "2.4",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "18:03:16",
-            "Latitude": "35.3888",
-            "Longitude": "25.2595",
-            "Depth": "5.3",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "17:57:24",
-            "Latitude": "35.1720",
-            "Longitude": "25.3010",
-            "Depth": "16.2",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "17:21:42",
-            "Latitude": "34.9645",
-            "Longitude": "25.2722",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
