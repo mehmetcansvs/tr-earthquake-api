@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.28",
+            "Time": "04:49:39",
+            "Latitude": "36.2290",
+            "Longitude": "29.1607",
+            "Depth": "27.5",
+            "ML": "1.4",
+            "Location": "GELEMIS KAS ANTALYA"
+        },
+        {
+            "Date": "2022.03.28",
+            "Time": "04:39:00",
+            "Latitude": "39.3982",
+            "Longitude": "37.5600",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "TATLIPINAR KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.03.28",
             "Time": "03:34:19",
             "Latitude": "38.3225",
             "Longitude": "38.8917",
@@ -4418,24 +4436,6 @@
             "Depth": "1.1",
             "ML": "1.7",
             "Location": "YENIKOY MUGLA"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "13:10:37",
-            "Latitude": "37.1265",
-            "Longitude": "28.7233",
-            "Depth": "8.6",
-            "ML": "1.8",
-            "Location": "TURGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.15",
-            "Time": "13:04:24",
-            "Latitude": "39.6472",
-            "Longitude": "30.7092",
-            "Depth": "11.3",
-            "ML": "1.6",
-            "Location": "KIRAVDAN ODUNPAZARI ESKISEHIR"
         }
     ]
 }
