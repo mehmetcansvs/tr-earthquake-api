@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.29",
+            "Time": "08:31:18",
+            "Latitude": "39.7278",
+            "Longitude": "41.3817",
+            "Depth": "7.5",
+            "ML": "2.0",
+            "Location": "GECITKOY TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.03.29",
             "Time": "06:10:34",
             "Latitude": "39.8862",
             "Longitude": "41.5733",
@@ -4445,15 +4454,6 @@
             "Depth": "13.7",
             "ML": "1.9",
             "Location": "TASKOY BALIKESIR"
-        },
-        {
-            "Date": "2022.03.17",
-            "Time": "01:13:27",
-            "Latitude": "37.8873",
-            "Longitude": "26.7178",
-            "Depth": "10.9",
-            "ML": "1.5",
-            "Location": "EGE DENIZI"
         }
     ]
 }
