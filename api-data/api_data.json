@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.29",
+            "Time": "23:25:17",
+            "Latitude": "36.4738",
+            "Longitude": "26.4440",
+            "Depth": "107.2",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.29",
             "Time": "22:42:11",
             "Latitude": "38.2090",
             "Longitude": "38.7387",
@@ -4463,15 +4472,6 @@
             "Depth": "18.5",
             "ML": "1.9",
             "Location": "ARMUTCUK ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "19:55:17",
-            "Latitude": "36.8223",
-            "Longitude": "28.0445",
-            "Depth": "20.7",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
