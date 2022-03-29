@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.29",
+            "Time": "03:37:28",
+            "Latitude": "40.8768",
+            "Longitude": "31.6902",
+            "Depth": "5.2",
+            "ML": "1.5",
+            "Location": "MESCICELE BOLU"
+        },
+        {
+            "Date": "2022.03.29",
+            "Time": "02:19:32",
+            "Latitude": "40.0343",
+            "Longitude": "39.0032",
+            "Depth": "4.6",
+            "ML": "2.5",
+            "Location": "GAZIPINARI REFAHIYE ERZINCAN"
+        },
+        {
+            "Date": "2022.03.29",
             "Time": "00:46:35",
             "Latitude": "37.8887",
             "Longitude": "29.8290",
@@ -4436,24 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "ORTAKOY YESILYURT MALATYA"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "23:35:44",
-            "Latitude": "38.6783",
-            "Longitude": "43.3672",
-            "Depth": "18.2",
-            "ML": "2.1",
-            "Location": "OTLUCA VAN"
-        },
-        {
-            "Date": "2022.03.16",
-            "Time": "23:27:31",
-            "Latitude": "40.1870",
-            "Longitude": "27.6485",
-            "Depth": "10.0",
-            "ML": "1.2",
-            "Location": "GUNDOGAN GONEN BALIKESIR"
         }
     ]
 }
