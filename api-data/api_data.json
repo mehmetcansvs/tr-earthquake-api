@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.03.29",
+            "Time": "19:01:14",
+            "Latitude": "35.6325",
+            "Longitude": "29.4523",
+            "Depth": "18.3",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.29",
+            "Time": "18:42:34",
+            "Latitude": "38.1640",
+            "Longitude": "31.0420",
+            "Depth": "5.7",
+            "ML": "1.6",
+            "Location": "BAGILLI GELENDOST ISPARTA"
+        },
+        {
+            "Date": "2022.03.29",
+            "Time": "17:42:36",
+            "Latitude": "41.2218",
+            "Longitude": "43.9728",
+            "Depth": "19.7",
+            "ML": "1.6",
+            "Location": "GURCISTAN ERMENISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.03.29",
             "Time": "16:25:00",
             "Latitude": "38.6815",
             "Longitude": "27.9907",
@@ -4445,33 +4472,6 @@
             "Depth": "3.3",
             "ML": "1.9",
             "Location": "SEKLI BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "10:05:34",
-            "Latitude": "38.9458",
-            "Longitude": "43.9282",
-            "Depth": "23.4",
-            "ML": "1.7",
-            "Location": "AKBASAK CALDIRAN VAN"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "09:30:43",
-            "Latitude": "38.9078",
-            "Longitude": "43.8118",
-            "Depth": "15.2",
-            "ML": "1.7",
-            "Location": "BEYDAGI MURADIYE VAN"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "09:08:19",
-            "Latitude": "37.2345",
-            "Longitude": "28.0543",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "CAMLICA YATAGAN MUGLA"
         }
     ]
 }
