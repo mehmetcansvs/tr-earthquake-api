@@ -2,12 +2,66 @@
     "data": [
         {
             "Date": "2022.03.29",
+            "Time": "22:42:11",
+            "Latitude": "38.2090",
+            "Longitude": "38.7387",
+            "Depth": "5.5",
+            "ML": "2.3",
+            "Location": "PAZARCIK PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.03.29",
+            "Time": "22:38:43",
+            "Latitude": "39.4705",
+            "Longitude": "27.8377",
+            "Depth": "8.6",
+            "ML": "2.3",
+            "Location": "TURKALI BALIKESIR"
+        },
+        {
+            "Date": "2022.03.29",
+            "Time": "21:35:04",
+            "Latitude": "37.0583",
+            "Longitude": "28.3390",
+            "Depth": "4.6",
+            "ML": "1.2",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.29",
+            "Time": "21:32:52",
+            "Latitude": "36.4585",
+            "Longitude": "27.1908",
+            "Depth": "1.6",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.03.29",
+            "Time": "21:12:59",
+            "Latitude": "40.1673",
+            "Longitude": "28.2013",
+            "Depth": "7.4",
+            "ML": "2.2",
+            "Location": "AKHISAR KARACABEY BURSA"
+        },
+        {
+            "Date": "2022.03.29",
             "Time": "19:58:21",
             "Latitude": "40.0162",
             "Longitude": "24.3625",
             "Depth": "11.8",
             "ML": "2.3",
             "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.03.29",
+            "Time": "19:30:21",
+            "Latitude": "37.1505",
+            "Longitude": "29.1562",
+            "Depth": "17.4",
+            "ML": "1.4",
+            "Location": "KARAISMAILLER ACIPAYAM DENIZLI"
         },
         {
             "Date": "2022.03.29",
@@ -4418,60 +4472,6 @@
             "Depth": "20.7",
             "ML": "1.4",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "19:08:43",
-            "Latitude": "37.2400",
-            "Longitude": "34.6267",
-            "Depth": "7.3",
-            "ML": "2.5",
-            "Location": "OLUKKOYAGI TARSUS MERSIN"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "17:59:38",
-            "Latitude": "37.0065",
-            "Longitude": "28.3763",
-            "Depth": "10.8",
-            "ML": "1.8",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "14:24:46",
-            "Latitude": "38.8482",
-            "Longitude": "41.8447",
-            "Depth": "14.5",
-            "ML": "1.5",
-            "Location": "KAYASIK MUS"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "12:47:57",
-            "Latitude": "36.5063",
-            "Longitude": "34.1852",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "KUMKUYU ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "12:33:59",
-            "Latitude": "37.2807",
-            "Longitude": "31.8688",
-            "Depth": "0.0",
-            "ML": "2.2",
-            "Location": "MADENLI SEYDISEHIR KONYA"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "12:29:55",
-            "Latitude": "39.2940",
-            "Longitude": "27.6580",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "GOKTAS SOMA MANISA"
         }
     ]
 }
