@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.30",
+            "Time": "09:08:30",
+            "Latitude": "35.8668",
+            "Longitude": "31.1312",
+            "Depth": "6.5",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.30",
             "Time": "08:39:37",
             "Latitude": "37.0362",
             "Longitude": "28.4195",
@@ -53,6 +62,15 @@
             "Depth": "5.0",
             "ML": "2.9",
             "Location": "BESTEPE GEMEREK SIVAS"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "02:21:44",
+            "Latitude": "35.5087",
+            "Longitude": "26.0177",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.03.30",
@@ -134,6 +152,15 @@
             "Depth": "17.4",
             "ML": "1.4",
             "Location": "KARAISMAILLER ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.03.29",
+            "Time": "19:28:33",
+            "Latitude": "34.7768",
+            "Longitude": "25.0152",
+            "Depth": "16.0",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.03.29",
@@ -4445,33 +4472,6 @@
             "Depth": "23.1",
             "ML": "1.9",
             "Location": "AGMUSA REFAHIYE ERZINCAN"
-        },
-        {
-            "Date": "2022.03.19",
-            "Time": "04:52:54",
-            "Latitude": "38.8400",
-            "Longitude": "29.1280",
-            "Depth": "5.4",
-            "ML": "2.5",
-            "Location": "ZAHMAN USAK"
-        },
-        {
-            "Date": "2022.03.19",
-            "Time": "04:22:53",
-            "Latitude": "40.4360",
-            "Longitude": "26.9525",
-            "Depth": "8.6",
-            "ML": "2.4",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.19",
-            "Time": "03:52:36",
-            "Latitude": "37.0700",
-            "Longitude": "28.4540",
-            "Depth": "22.7",
-            "ML": "1.6",
-            "Location": "ELMALI ULA MUGLA"
         }
     ]
 }
