@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.03.30",
+            "Time": "22:42:42",
+            "Latitude": "37.0740",
+            "Longitude": "28.3830",
+            "Depth": "6.4",
+            "ML": "1.0",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "22:38:28",
+            "Latitude": "37.0345",
+            "Longitude": "28.3037",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "22:35:04",
+            "Latitude": "40.8122",
+            "Longitude": "31.3337",
+            "Depth": "9.8",
+            "ML": "1.4",
+            "Location": "SARICOKEK KAYNASLI DUZCE"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "21:59:28",
+            "Latitude": "37.8037",
+            "Longitude": "30.0628",
+            "Depth": "7.9",
+            "ML": "1.7",
+            "Location": "CIGRI BASMAKCI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "21:40:44",
+            "Latitude": "40.9003",
+            "Longitude": "33.7520",
+            "Depth": "7.5",
+            "ML": "2.2",
+            "Location": "YERKUYU ILGAZ CANKIRI"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "21:40:29",
+            "Latitude": "37.6850",
+            "Longitude": "26.8040",
+            "Depth": "6.7",
+            "ML": "1.6",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.30",
             "Time": "18:52:31",
             "Latitude": "42.0978",
             "Longitude": "23.8118",
@@ -4427,60 +4481,6 @@
             "Depth": "15.3",
             "ML": "1.5",
             "Location": "BADEMAGACI DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "02:18:52",
-            "Latitude": "37.0917",
-            "Longitude": "27.6138",
-            "Depth": "18.4",
-            "ML": "1.9",
-            "Location": "SAZKOY BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "02:10:03",
-            "Latitude": "40.0368",
-            "Longitude": "27.7693",
-            "Depth": "12.3",
-            "ML": "1.8",
-            "Location": "OMERLER GONEN BALIKESIR"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "02:06:58",
-            "Latitude": "36.8442",
-            "Longitude": "28.0432",
-            "Depth": "7.0",
-            "ML": "2.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "02:03:01",
-            "Latitude": "36.8607",
-            "Longitude": "28.0657",
-            "Depth": "3.5",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "01:55:54",
-            "Latitude": "39.8957",
-            "Longitude": "40.4667",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "TASLICAYIR ASKALE ERZURUM"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "00:00:23",
-            "Latitude": "35.3048",
-            "Longitude": "25.3333",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
