@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.30",
+            "Time": "05:22:26",
+            "Latitude": "37.0175",
+            "Longitude": "28.3712",
+            "Depth": "7.6",
+            "ML": "2.3",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "04:45:09",
+            "Latitude": "38.9415",
+            "Longitude": "42.8252",
+            "Depth": "7.2",
+            "ML": "1.5",
+            "Location": "DIZGINKALE PATNOS AGRI"
+        },
+        {
+            "Date": "2022.03.30",
             "Time": "02:30:30",
             "Latitude": "39.1167",
             "Longitude": "36.0737",
@@ -4454,24 +4472,6 @@
             "Depth": "7.4",
             "ML": "1.7",
             "Location": "KARABORKLU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "21:26:44",
-            "Latitude": "40.1843",
-            "Longitude": "31.7005",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "SEKLI BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "21:18:51",
-            "Latitude": "37.3265",
-            "Longitude": "30.7430",
-            "Depth": "126.7",
-            "ML": "3.0",
-            "Location": "KOCAALILER BUCAK BURDUR"
         }
     ]
 }
