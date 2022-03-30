@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.03.30",
+            "Time": "14:11:17",
+            "Latitude": "39.7895",
+            "Longitude": "35.2457",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "CATMASOGUT SORGUN YOZGAT"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "13:22:05",
+            "Latitude": "36.6578",
+            "Longitude": "36.3860",
+            "Depth": "9.7",
+            "ML": "1.6",
+            "Location": "BEKTASLI KIRIKHAN HATAY"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "13:16:47",
+            "Latitude": "40.7755",
+            "Longitude": "31.4985",
+            "Depth": "8.8",
+            "ML": "2.2",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "12:47:38",
+            "Latitude": "38.6982",
+            "Longitude": "39.5298",
+            "Depth": "10.6",
+            "ML": "2.0",
+            "Location": "OSMANAGAKOY KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "12:30:04",
+            "Latitude": "36.3145",
+            "Longitude": "34.3733",
+            "Depth": "3.9",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "12:21:30",
+            "Latitude": "41.2187",
+            "Longitude": "28.7405",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "ARNAVUTKOY ISTANBUL"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "12:19:36",
+            "Latitude": "37.1487",
+            "Longitude": "37.2113",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "YESILCE SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "12:06:10",
+            "Latitude": "40.4350",
+            "Longitude": "29.3272",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "AKHAREM ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.03.30",
             "Time": "11:56:03",
             "Latitude": "37.4007",
             "Longitude": "38.6755",
@@ -4400,78 +4472,6 @@
             "Depth": "0.0",
             "ML": "0.9",
             "Location": "AKDERE SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.03.19",
-            "Time": "11:03:56",
-            "Latitude": "38.1173",
-            "Longitude": "38.5458",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "GECITLI SINCIK ADIYAMAN"
-        },
-        {
-            "Date": "2022.03.19",
-            "Time": "10:56:30",
-            "Latitude": "39.4805",
-            "Longitude": "39.9127",
-            "Depth": "7.3",
-            "ML": "1.9",
-            "Location": "PULUMUR TUNCELI"
-        },
-        {
-            "Date": "2022.03.19",
-            "Time": "09:48:25",
-            "Latitude": "37.5752",
-            "Longitude": "27.1390",
-            "Depth": "27.1",
-            "ML": "1.6",
-            "Location": "DOGANBEY SOKE AYDIN"
-        },
-        {
-            "Date": "2022.03.19",
-            "Time": "09:47:40",
-            "Latitude": "37.8998",
-            "Longitude": "27.1308",
-            "Depth": "11.8",
-            "ML": "2.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.19",
-            "Time": "09:37:33",
-            "Latitude": "37.2520",
-            "Longitude": "31.0013",
-            "Depth": "116.3",
-            "ML": "3.0",
-            "Location": "HASDUMEN SERIK ANTALYA"
-        },
-        {
-            "Date": "2022.03.19",
-            "Time": "07:55:31",
-            "Latitude": "36.7205",
-            "Longitude": "28.1022",
-            "Depth": "24.4",
-            "ML": "1.1",
-            "Location": "SELIMIYE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.03.19",
-            "Time": "07:53:08",
-            "Latitude": "36.8462",
-            "Longitude": "28.0398",
-            "Depth": "11.8",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.19",
-            "Time": "07:12:13",
-            "Latitude": "38.5725",
-            "Longitude": "31.7527",
-            "Depth": "5.5",
-            "ML": "2.4",
-            "Location": "KORASI TUZLUKCU KONYA"
         }
     ]
 }
