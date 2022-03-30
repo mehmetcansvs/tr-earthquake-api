@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.03.30",
+            "Time": "02:30:30",
+            "Latitude": "39.1167",
+            "Longitude": "36.0737",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "BESTEPE GEMEREK SIVAS"
+        },
+        {
+            "Date": "2022.03.30",
+            "Time": "01:42:02",
+            "Latitude": "38.3702",
+            "Longitude": "31.0160",
+            "Depth": "2.4",
+            "ML": "1.1",
+            "Location": "KIRKBAS YALVAC ISPARTA"
+        },
+        {
             "Date": "2022.03.29",
             "Time": "23:25:17",
             "Latitude": "36.4738",
@@ -4454,24 +4472,6 @@
             "Depth": "126.7",
             "ML": "3.0",
             "Location": "KOCAALILER BUCAK BURDUR"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "21:11:32",
-            "Latitude": "37.1197",
-            "Longitude": "28.2825",
-            "Depth": "17.8",
-            "ML": "2.1",
-            "Location": "YERKESIK MUGLA"
-        },
-        {
-            "Date": "2022.03.18",
-            "Time": "20:38:35",
-            "Latitude": "37.1242",
-            "Longitude": "28.5062",
-            "Depth": "18.5",
-            "ML": "1.9",
-            "Location": "ARMUTCUK ULA MUGLA"
         }
     ]
 }
