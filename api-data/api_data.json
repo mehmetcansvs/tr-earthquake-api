@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.31",
+            "Time": "20:11:59",
+            "Latitude": "40.1665",
+            "Longitude": "25.0818",
+            "Depth": "12.4",
+            "ML": "2.9",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "17:37:22",
+            "Latitude": "39.0522",
+            "Longitude": "27.7490",
+            "Depth": "16.2",
+            "ML": "1.9",
+            "Location": "SELVILI AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.03.31",
             "Time": "17:34:36",
             "Latitude": "39.5708",
             "Longitude": "27.1618",
@@ -4472,24 +4490,6 @@
             "Depth": "9.4",
             "ML": "1.7",
             "Location": "BADEMAGACI DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "08:50:46",
-            "Latitude": "41.0418",
-            "Longitude": "42.9792",
-            "Depth": "4.9",
-            "ML": "1.6",
-            "Location": "TUNCOLUK ARDAHAN"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "08:19:18",
-            "Latitude": "38.9028",
-            "Longitude": "43.4397",
-            "Depth": "4.2",
-            "ML": "2.0",
-            "Location": "VAN GOLU"
         }
     ]
 }
