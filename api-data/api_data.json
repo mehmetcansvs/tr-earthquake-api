@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.31",
+            "Time": "08:28:57",
+            "Latitude": "37.1010",
+            "Longitude": "28.4292",
+            "Depth": "14.0",
+            "ML": "1.8",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.31",
             "Time": "06:23:40",
             "Latitude": "37.0993",
             "Longitude": "28.3455",
@@ -4481,15 +4490,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "DAGBELI DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "17:20:04",
-            "Latitude": "37.9597",
-            "Longitude": "27.6618",
-            "Depth": "1.9",
-            "ML": "1.2",
-            "Location": "MESELI GERMENCIK AYDIN"
         }
     ]
 }
