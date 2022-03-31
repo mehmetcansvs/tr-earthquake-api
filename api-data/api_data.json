@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.31",
+            "Time": "20:51:57",
+            "Latitude": "42.3388",
+            "Longitude": "35.9618",
+            "Depth": "9.0",
+            "ML": "2.3",
+            "Location": "KARADENIZ"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "20:36:57",
+            "Latitude": "35.5202",
+            "Longitude": "26.0982",
+            "Depth": "26.4",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.31",
             "Time": "20:11:59",
             "Latitude": "40.1665",
             "Longitude": "25.0818",
@@ -4472,24 +4490,6 @@
             "Depth": "13.1",
             "ML": "1.5",
             "Location": "KAVAKLIDERE AZIZIYE ERZURUM"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "10:39:45",
-            "Latitude": "36.4867",
-            "Longitude": "21.5875",
-            "Depth": "25.2",
-            "ML": "4.0",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "09:07:13",
-            "Latitude": "37.2110",
-            "Longitude": "30.4843",
-            "Depth": "9.4",
-            "ML": "1.7",
-            "Location": "BADEMAGACI DOSEMEALTI ANTALYA"
         }
     ]
 }
