@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.31",
+            "Time": "17:34:36",
+            "Latitude": "39.5708",
+            "Longitude": "27.1618",
+            "Depth": "11.9",
+            "ML": "2.1",
+            "Location": "INONU HAVRAN BALIKESIR"
+        },
+        {
+            "Date": "2022.03.31",
             "Time": "16:13:51",
             "Latitude": "36.1473",
             "Longitude": "33.5870",
@@ -4481,15 +4490,6 @@
             "Depth": "4.2",
             "ML": "2.0",
             "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "07:08:22",
-            "Latitude": "38.3650",
-            "Longitude": "36.4343",
-            "Depth": "3.7",
-            "ML": "1.6",
-            "Location": "KAMER SARIZ KAYSERI"
         }
     ]
 }
