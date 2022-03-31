@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.03.31",
+            "Time": "15:03:43",
+            "Latitude": "36.0998",
+            "Longitude": "33.5603",
+            "Depth": "5.2",
+            "ML": "1.3",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "14:19:39",
+            "Latitude": "37.0795",
+            "Longitude": "28.3652",
+            "Depth": "5.6",
+            "ML": "1.9",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "13:37:28",
+            "Latitude": "38.9383",
+            "Longitude": "27.7643",
+            "Depth": "4.9",
+            "ML": "2.1",
+            "Location": "EROGLU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "13:32:46",
+            "Latitude": "36.0997",
+            "Longitude": "33.8808",
+            "Depth": "4.9",
+            "ML": "1.5",
+            "Location": "SILIFKE ACIKLARI MERSIN AKDENIZ"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "13:12:20",
+            "Latitude": "39.0335",
+            "Longitude": "32.8858",
+            "Depth": "0.0",
+            "ML": "2.2",
+            "Location": "DOGUTEPE KULU KONYA"
+        },
+        {
+            "Date": "2022.03.31",
             "Time": "12:48:15",
             "Latitude": "39.1157",
             "Longitude": "27.5747",
@@ -4445,51 +4490,6 @@
             "Depth": "17.4",
             "ML": "1.6",
             "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "01:45:00",
-            "Latitude": "39.0198",
-            "Longitude": "27.8600",
-            "Depth": "9.9",
-            "ML": "2.1",
-            "Location": "GOKCEAHMET AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "01:12:27",
-            "Latitude": "40.2077",
-            "Longitude": "27.3760",
-            "Depth": "16.1",
-            "ML": "1.8",
-            "Location": "SAZOBA BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "01:06:17",
-            "Latitude": "37.9280",
-            "Longitude": "26.6173",
-            "Depth": "13.7",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "23:51:49",
-            "Latitude": "38.3878",
-            "Longitude": "25.3223",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "23:45:59",
-            "Latitude": "37.9177",
-            "Longitude": "26.6368",
-            "Depth": "7.9",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
         }
     ]
 }
