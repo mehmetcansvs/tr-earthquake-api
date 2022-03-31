@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.03.31",
+            "Time": "16:13:51",
+            "Latitude": "36.1473",
+            "Longitude": "33.5870",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "16:00:30",
+            "Latitude": "40.7192",
+            "Longitude": "29.1745",
+            "Depth": "11.9",
+            "ML": "1.8",
+            "Location": "YALOVA ACIKLARI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "15:36:29",
+            "Latitude": "38.4342",
+            "Longitude": "41.9487",
+            "Depth": "6.1",
+            "ML": "1.6",
+            "Location": "YAYGIN BITLIS"
+        },
+        {
+            "Date": "2022.03.31",
             "Time": "15:03:43",
             "Latitude": "36.0998",
             "Longitude": "33.5603",
             "Depth": "5.2",
             "ML": "1.3",
             "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "15:02:14",
+            "Latitude": "37.0632",
+            "Longitude": "28.2025",
+            "Depth": "5.3",
+            "ML": "1.7",
+            "Location": "KIRAN MUGLA"
         },
         {
             "Date": "2022.03.31",
@@ -4454,42 +4490,6 @@
             "Depth": "3.7",
             "ML": "1.6",
             "Location": "KAMER SARIZ KAYSERI"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "07:01:42",
-            "Latitude": "38.2633",
-            "Longitude": "38.8223",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "AKTARLI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "06:21:03",
-            "Latitude": "39.8472",
-            "Longitude": "39.0880",
-            "Depth": "9.9",
-            "ML": "2.2",
-            "Location": "CALIKLAR KEMAH ERZINCAN"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "05:30:27",
-            "Latitude": "38.2592",
-            "Longitude": "38.6027",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "PELITLI MALATYA"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "04:39:35",
-            "Latitude": "37.7445",
-            "Longitude": "26.9255",
-            "Depth": "17.4",
-            "ML": "1.6",
-            "Location": "SISAM ADASI EGE DENIZI"
         }
     ]
 }
