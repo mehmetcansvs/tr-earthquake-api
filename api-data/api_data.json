@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.03.31",
+            "Time": "12:48:15",
+            "Latitude": "39.1157",
+            "Longitude": "27.5747",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "DEREKOY SOMA MANISA"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "11:44:47",
+            "Latitude": "39.6535",
+            "Longitude": "28.5523",
+            "Depth": "4.9",
+            "ML": "2.1",
+            "Location": "UMURLAR DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "11:40:35",
+            "Latitude": "37.6088",
+            "Longitude": "29.1932",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "SARIABAT TAVAS DENIZLI"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "11:23:47",
+            "Latitude": "38.2313",
+            "Longitude": "27.1245",
+            "Depth": "6.6",
+            "ML": "2.4",
+            "Location": "KUNER MENDERES IZMIR"
+        },
+        {
+            "Date": "2022.03.31",
             "Time": "09:42:41",
             "Latitude": "39.1413",
             "Longitude": "27.6048",
@@ -4454,42 +4490,6 @@
             "Depth": "7.9",
             "ML": "1.9",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "23:43:17",
-            "Latitude": "37.9005",
-            "Longitude": "26.6243",
-            "Depth": "7.3",
-            "ML": "2.1",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "23:40:16",
-            "Latitude": "37.9010",
-            "Longitude": "26.6110",
-            "Depth": "12.6",
-            "ML": "3.4",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "20:45:31",
-            "Latitude": "38.0397",
-            "Longitude": "42.9408",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "CILGA CATAK VAN"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "20:04:48",
-            "Latitude": "35.0480",
-            "Longitude": "25.2823",
-            "Depth": "7.5",
-            "ML": "3.7",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
