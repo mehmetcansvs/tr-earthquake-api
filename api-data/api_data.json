@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.03.31",
+            "Time": "09:42:41",
+            "Latitude": "39.1413",
+            "Longitude": "27.6048",
+            "Depth": "3.4",
+            "ML": "1.8",
+            "Location": "DARKALE SOMA MANISA"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "09:27:39",
+            "Latitude": "40.7812",
+            "Longitude": "31.6340",
+            "Depth": "4.3",
+            "ML": "1.7",
+            "Location": "BAKIRLI BOLU"
+        },
+        {
+            "Date": "2022.03.31",
             "Time": "08:28:57",
             "Latitude": "37.1010",
             "Longitude": "28.4292",
@@ -4472,24 +4490,6 @@
             "Depth": "7.5",
             "ML": "3.7",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "18:19:13",
-            "Latitude": "37.2077",
-            "Longitude": "30.4875",
-            "Depth": "12.1",
-            "ML": "1.5",
-            "Location": "BADEMAGACI DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "18:18:00",
-            "Latitude": "37.1713",
-            "Longitude": "30.5118",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "DAGBELI DOSEMEALTI ANTALYA"
         }
     ]
 }
