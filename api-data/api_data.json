@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.04.01",
+            "Time": "00:16:35",
+            "Latitude": "37.1245",
+            "Longitude": "28.3858",
+            "Depth": "21.3",
+            "ML": "1.4",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "23:50:22",
+            "Latitude": "36.9990",
+            "Longitude": "28.3635",
+            "Depth": "12.9",
+            "ML": "1.7",
+            "Location": "GOKCE ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "23:43:04",
+            "Latitude": "39.1627",
+            "Longitude": "42.7812",
+            "Depth": "29.7",
+            "ML": "1.3",
+            "Location": "HACILAR PATNOS AGRI"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "23:37:03",
+            "Latitude": "36.9593",
+            "Longitude": "27.7292",
+            "Depth": "10.1",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.03.31",
+            "Time": "23:05:52",
+            "Latitude": "39.4647",
+            "Longitude": "32.3465",
+            "Depth": "2.4",
+            "ML": "2.8",
+            "Location": "KARAYAVSAN POLATLI ANKARA"
+        },
+        {
             "Date": "2022.03.31",
             "Time": "20:51:57",
             "Latitude": "42.3388",
@@ -4445,51 +4490,6 @@
             "Depth": "5.0",
             "ML": "1.2",
             "Location": "SARIERIK PAZARCIK KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "12:12:19",
-            "Latitude": "37.3728",
-            "Longitude": "37.3228",
-            "Depth": "10.6",
-            "ML": "1.2",
-            "Location": "EGRICE PAZARCIK KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "11:54:57",
-            "Latitude": "37.9345",
-            "Longitude": "26.6818",
-            "Depth": "4.6",
-            "ML": "2.1",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "11:38:29",
-            "Latitude": "36.6695",
-            "Longitude": "29.7467",
-            "Depth": "3.9",
-            "ML": "1.5",
-            "Location": "ISLAMLAR ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "11:24:32",
-            "Latitude": "37.9562",
-            "Longitude": "26.7418",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "11:18:32",
-            "Latitude": "40.0602",
-            "Longitude": "41.1037",
-            "Depth": "13.1",
-            "ML": "1.5",
-            "Location": "KAVAKLIDERE AZIZIYE ERZURUM"
         }
     ]
 }
