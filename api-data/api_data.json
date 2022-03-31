@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.31",
+            "Time": "06:23:40",
+            "Latitude": "37.0993",
+            "Longitude": "28.3455",
+            "Depth": "14.2",
+            "ML": "1.5",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.03.31",
             "Time": "05:03:42",
             "Latitude": "37.0073",
             "Longitude": "28.0648",
@@ -4481,15 +4490,6 @@
             "Depth": "1.9",
             "ML": "1.2",
             "Location": "MESELI GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "15:42:31",
-            "Latitude": "35.5232",
-            "Longitude": "34.0007",
-            "Depth": "15.3",
-            "ML": "3.4",
-            "Location": "AKDENIZ"
         }
     ]
 }
