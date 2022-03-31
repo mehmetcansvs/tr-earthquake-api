@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.03.31",
+            "Time": "03:43:20",
+            "Latitude": "37.0853",
+            "Longitude": "29.1743",
+            "Depth": "5.6",
+            "ML": "2.4",
+            "Location": "KOLAK CAMELI DENIZLI"
+        },
+        {
+            "Date": "2022.03.31",
             "Time": "00:27:16",
             "Latitude": "35.5818",
             "Longitude": "27.4748",
@@ -4472,15 +4481,6 @@
             "Depth": "13.0",
             "ML": "1.7",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.20",
-            "Time": "06:03:44",
-            "Latitude": "39.0155",
-            "Longitude": "30.2132",
-            "Depth": "5.5",
-            "ML": "2.0",
-            "Location": "YOLCATI ALTINTAS KUTAHYA"
         }
     ]
 }
