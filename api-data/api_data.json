@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.01",
+            "Time": "08:48:40",
+            "Latitude": "37.3570",
+            "Longitude": "34.9505",
+            "Depth": "5.7",
+            "ML": "1.5",
+            "Location": "BELEMEDIK POZANTI ADANA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "08:41:34",
+            "Latitude": "37.3393",
+            "Longitude": "35.0132",
+            "Depth": "8.1",
+            "ML": "2.0",
+            "Location": "KARAKILIC KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "08:36:28",
+            "Latitude": "37.3592",
+            "Longitude": "35.0300",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "08:34:02",
+            "Latitude": "37.3557",
+            "Longitude": "35.0453",
+            "Depth": "5.6",
+            "ML": "3.9",
+            "Location": "GILDIRLI KARAISALI ADANA REVIZE ISKENDERUN KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.01",
             "Time": "03:11:36",
             "Latitude": "38.6930",
             "Longitude": "33.5155",
@@ -4445,51 +4481,6 @@
             "Depth": "5.0",
             "ML": "1.6",
             "Location": "AKIN SEREFLIKOCHISAR ANKARA"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "17:18:43",
-            "Latitude": "39.5872",
-            "Longitude": "41.1222",
-            "Depth": "21.4",
-            "ML": "2.1",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "15:55:13",
-            "Latitude": "40.7662",
-            "Longitude": "41.2693",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "DOKUMACILAR YUSUFELI ARTVIN"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "14:48:31",
-            "Latitude": "41.2938",
-            "Longitude": "43.3320",
-            "Depth": "20.8",
-            "ML": "2.1",
-            "Location": "KENARDERE CILDIR ARDAHAN"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "14:26:47",
-            "Latitude": "37.8608",
-            "Longitude": "26.8697",
-            "Depth": "8.6",
-            "ML": "2.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "13:47:50",
-            "Latitude": "37.7820",
-            "Longitude": "36.3083",
-            "Depth": "9.4",
-            "ML": "2.0",
-            "Location": "CIGSAR ANDIRIN KAHRAMANMARAS"
         }
     ]
 }
