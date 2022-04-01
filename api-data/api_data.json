@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.01",
+            "Time": "22:24:32",
+            "Latitude": "35.1500",
+            "Longitude": "24.5752",
+            "Depth": "2.3",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "21:19:49",
+            "Latitude": "39.1570",
+            "Longitude": "23.3765",
+            "Depth": "18.1",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "21:18:22",
+            "Latitude": "41.1095",
+            "Longitude": "43.9360",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.04.01",
             "Time": "20:59:48",
             "Latitude": "36.1578",
             "Longitude": "31.1327",
@@ -4445,33 +4472,6 @@
             "Depth": "24.8",
             "ML": "2.1",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "14:18:20",
-            "Latitude": "35.7438",
-            "Longitude": "23.4105",
-            "Depth": "5.0",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "13:12:45",
-            "Latitude": "38.1920",
-            "Longitude": "34.3117",
-            "Depth": "10.3",
-            "ML": "1.8",
-            "Location": "KITRELI CIFTLIK NIGDE"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "12:50:27",
-            "Latitude": "35.2698",
-            "Longitude": "25.2948",
-            "Depth": "15.5",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
