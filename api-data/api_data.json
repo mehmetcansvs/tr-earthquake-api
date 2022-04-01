@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.01",
+            "Time": "03:11:36",
+            "Latitude": "38.6930",
+            "Longitude": "33.5155",
+            "Depth": "7.0",
+            "ML": "2.4",
+            "Location": "KARAMOLLAUSAGI SEREFLIKOCHISAR ANKARA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "02:18:49",
+            "Latitude": "40.3310",
+            "Longitude": "27.1983",
+            "Depth": "10.6",
+            "ML": "3.3",
+            "Location": "TOKATKIRI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.04.01",
             "Time": "00:16:35",
             "Latitude": "37.1245",
             "Longitude": "28.3858",
@@ -4472,24 +4490,6 @@
             "Depth": "9.4",
             "ML": "2.0",
             "Location": "CIGSAR ANDIRIN KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "12:55:49",
-            "Latitude": "39.8293",
-            "Longitude": "39.0408",
-            "Depth": "7.5",
-            "ML": "2.1",
-            "Location": "KEDEK KEMAH ERZINCAN"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "12:50:22",
-            "Latitude": "37.3415",
-            "Longitude": "37.0957",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "SARIERIK PAZARCIK KAHRAMANMARAS"
         }
     ]
 }
