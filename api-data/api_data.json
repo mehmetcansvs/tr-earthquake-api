@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.01",
+            "Time": "18:21:54",
+            "Latitude": "39.5005",
+            "Longitude": "32.3705",
+            "Depth": "0.0",
+            "ML": "2.1",
+            "Location": "KARAKAYA POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "18:14:25",
+            "Latitude": "39.4552",
+            "Longitude": "32.3543",
+            "Depth": "0.0",
+            "ML": "2.3",
+            "Location": "KARAYAVSAN POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.04.01",
             "Time": "16:42:25",
             "Latitude": "40.0893",
             "Longitude": "41.8130",
@@ -4454,24 +4472,6 @@
             "Depth": "0.0",
             "ML": "2.0",
             "Location": "MADENLI SEYDISEHIR KONYA"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "12:34:06",
-            "Latitude": "38.0387",
-            "Longitude": "32.8590",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "ZENCIRLI KARATAY KONYA"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "11:51:43",
-            "Latitude": "40.1345",
-            "Longitude": "41.1345",
-            "Depth": "2.8",
-            "ML": "1.8",
-            "Location": "KAVAKLIDERE AZIZIYE ERZURUM"
         }
     ]
 }
