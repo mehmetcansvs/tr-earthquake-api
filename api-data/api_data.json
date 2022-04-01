@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.01",
+            "Time": "16:42:25",
+            "Latitude": "40.0893",
+            "Longitude": "41.8130",
+            "Depth": "5.0",
+            "ML": "1.3",
+            "Location": "YENIKOY PASINLER ERZURUM REVIZE MURATOBA GEMLIK BURSA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "15:37:18",
+            "Latitude": "38.5737",
+            "Longitude": "43.0105",
+            "Depth": "5.1",
+            "ML": "2.1",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.04.01",
             "Time": "15:06:09",
             "Latitude": "37.2940",
             "Longitude": "34.9987",
@@ -4454,33 +4472,6 @@
             "Depth": "2.8",
             "ML": "1.8",
             "Location": "KAVAKLIDERE AZIZIYE ERZURUM"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "11:46:22",
-            "Latitude": "40.0902",
-            "Longitude": "38.8887",
-            "Depth": "9.3",
-            "ML": "2.0",
-            "Location": "YENICE CAMOLUK GIRESUN"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "11:44:49",
-            "Latitude": "40.0468",
-            "Longitude": "28.6087",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "KILLIK MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "11:31:55",
-            "Latitude": "39.7897",
-            "Longitude": "30.4778",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "TEPEBASI ESKISEHIR"
         }
     ]
 }
