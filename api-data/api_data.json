@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.01",
+            "Time": "20:59:48",
+            "Latitude": "36.1578",
+            "Longitude": "31.1327",
+            "Depth": "30.9",
+            "ML": "3.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.01",
             "Time": "18:21:54",
             "Latitude": "39.5005",
             "Longitude": "32.3705",
@@ -4463,15 +4472,6 @@
             "Depth": "15.5",
             "ML": "2.4",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "12:35:24",
-            "Latitude": "37.2900",
-            "Longitude": "31.8898",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "MADENLI SEYDISEHIR KONYA"
         }
     ]
 }
