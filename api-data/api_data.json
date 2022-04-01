@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.04.01",
+            "Time": "11:01:45",
+            "Latitude": "37.3723",
+            "Longitude": "35.0188",
+            "Depth": "4.0",
+            "ML": "2.2",
+            "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "10:58:39",
+            "Latitude": "38.4067",
+            "Longitude": "42.5010",
+            "Depth": "8.9",
+            "ML": "2.2",
+            "Location": "KUSLUCA TATVAN BITLIS"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "10:27:24",
+            "Latitude": "37.3442",
+            "Longitude": "35.0042",
+            "Depth": "8.3",
+            "ML": "1.8",
+            "Location": "KARAKILIC KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "09:29:47",
+            "Latitude": "37.3665",
+            "Longitude": "35.0353",
+            "Depth": "4.8",
+            "ML": "1.8",
+            "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "09:23:49",
+            "Latitude": "37.3150",
+            "Longitude": "34.9468",
+            "Depth": "18.5",
+            "ML": "1.2",
+            "Location": "KARAKILIC KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "09:22:31",
+            "Latitude": "37.1393",
+            "Longitude": "28.3750",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "GULAGZI MUGLA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "09:02:45",
+            "Latitude": "37.3523",
+            "Longitude": "34.9848",
+            "Depth": "5.4",
+            "ML": "1.4",
+            "Location": "KARAKILIC KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.01",
             "Time": "08:48:40",
             "Latitude": "37.3570",
             "Longitude": "34.9505",
@@ -4418,69 +4481,6 @@
             "Depth": "8.3",
             "ML": "1.4",
             "Location": "KIZILOREN SOMA MANISA"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "21:59:47",
-            "Latitude": "37.2343",
-            "Longitude": "28.4278",
-            "Depth": "6.3",
-            "ML": "2.2",
-            "Location": "ORTAKOY MUGLA"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "21:55:03",
-            "Latitude": "38.1175",
-            "Longitude": "38.3968",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "SALKONAK YESILYURT MALATYA"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "21:29:51",
-            "Latitude": "37.9290",
-            "Longitude": "27.1827",
-            "Depth": "9.1",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "21:13:58",
-            "Latitude": "39.4755",
-            "Longitude": "32.9527",
-            "Depth": "8.6",
-            "ML": "1.6",
-            "Location": "KOCYAYLA BALA ANKARA"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "20:59:51",
-            "Latitude": "36.5937",
-            "Longitude": "28.8452",
-            "Depth": "6.2",
-            "ML": "1.7",
-            "Location": "FETHIYE KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "20:59:13",
-            "Latitude": "36.5738",
-            "Longitude": "28.8317",
-            "Depth": "9.5",
-            "ML": "2.1",
-            "Location": "FETHIYE KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.21",
-            "Time": "17:53:37",
-            "Latitude": "39.1032",
-            "Longitude": "33.1967",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "AKIN SEREFLIKOCHISAR ANKARA"
         }
     ]
 }
