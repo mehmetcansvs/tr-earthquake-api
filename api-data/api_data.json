@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.01",
+            "Time": "15:06:09",
+            "Latitude": "37.2940",
+            "Longitude": "34.9987",
+            "Depth": "3.7",
+            "ML": "1.9",
+            "Location": "KARAKILIC KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "14:22:21",
+            "Latitude": "37.2510",
+            "Longitude": "37.1290",
+            "Depth": "7.4",
+            "ML": "2.5",
+            "Location": "COCELLI PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.04.01",
+            "Time": "13:22:06",
+            "Latitude": "37.0073",
+            "Longitude": "28.3893",
+            "Depth": "10.4",
+            "ML": "1.5",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.01",
             "Time": "12:11:06",
             "Latitude": "37.3488",
             "Longitude": "34.9520",
@@ -4454,33 +4481,6 @@
             "Depth": "0.0",
             "ML": "1.9",
             "Location": "TEPEBASI ESKISEHIR"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "10:14:30",
-            "Latitude": "40.1195",
-            "Longitude": "32.1370",
-            "Depth": "11.4",
-            "ML": "2.1",
-            "Location": "AKKAYA AYAS ANKARA"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "09:28:55",
-            "Latitude": "35.9938",
-            "Longitude": "28.9723",
-            "Depth": "14.0",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "08:39:01",
-            "Latitude": "39.0113",
-            "Longitude": "27.8443",
-            "Depth": "5.5",
-            "ML": "1.9",
-            "Location": "GOKCEAHMET AKHISAR MANISA"
         }
     ]
 }
