@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.02",
+            "Time": "06:39:56",
+            "Latitude": "39.4838",
+            "Longitude": "32.3635",
+            "Depth": "9.9",
+            "ML": "2.2",
+            "Location": "KARAYAVSAN POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.04.02",
+            "Time": "06:37:13",
+            "Latitude": "39.4830",
+            "Longitude": "32.3473",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "KARAYAVSAN POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.04.02",
             "Time": "02:04:09",
             "Latitude": "36.8568",
             "Longitude": "35.0108",
@@ -4454,24 +4472,6 @@
             "Depth": "5.0",
             "ML": "1.2",
             "Location": "CAGLAYAN DINAR AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "17:56:29",
-            "Latitude": "37.8007",
-            "Longitude": "27.6223",
-            "Depth": "2.6",
-            "ML": "2.1",
-            "Location": "TURANLAR GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "17:42:54",
-            "Latitude": "37.1365",
-            "Longitude": "28.6960",
-            "Depth": "3.0",
-            "ML": "1.6",
-            "Location": "TURGUT ULA MUGLA"
         }
     ]
 }
