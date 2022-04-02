@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.02",
+            "Time": "16:03:21",
+            "Latitude": "41.0333",
+            "Longitude": "43.9997",
+            "Depth": "5.8",
+            "ML": "2.5",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.04.02",
             "Time": "14:06:31",
             "Latitude": "36.1832",
             "Longitude": "27.5600",
@@ -4463,15 +4472,6 @@
             "Depth": "14.5",
             "ML": "1.6",
             "Location": "BELENLI KELKIT GUMUSHANE"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "04:44:35",
-            "Latitude": "35.2058",
-            "Longitude": "25.2777",
-            "Depth": "13.6",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
