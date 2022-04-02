@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.02",
+            "Time": "18:57:17",
+            "Latitude": "39.3362",
+            "Longitude": "31.5812",
+            "Depth": "3.4",
+            "ML": "1.6",
+            "Location": "BALLIHISAR SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2022.04.02",
+            "Time": "17:22:25",
+            "Latitude": "37.2083",
+            "Longitude": "28.8338",
+            "Depth": "16.3",
+            "ML": "1.7",
+            "Location": "BEYAGAC DENIZLI"
+        },
+        {
+            "Date": "2022.04.02",
+            "Time": "17:14:42",
+            "Latitude": "37.0487",
+            "Longitude": "28.4563",
+            "Depth": "9.9",
+            "ML": "1.8",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.02",
+            "Time": "17:09:24",
+            "Latitude": "39.8838",
+            "Longitude": "41.7838",
+            "Depth": "13.1",
+            "ML": "2.0",
+            "Location": "UZUNARK PASINLER ERZURUM"
+        },
+        {
+            "Date": "2022.04.02",
             "Time": "16:03:21",
             "Latitude": "41.0333",
             "Longitude": "43.9997",
@@ -4436,42 +4472,6 @@
             "Depth": "4.7",
             "ML": "3.7",
             "Location": "BEKIRLER NAZILLI AYDIN"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "08:37:42",
-            "Latitude": "37.8820",
-            "Longitude": "26.8787",
-            "Depth": "4.4",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "07:29:52",
-            "Latitude": "38.9587",
-            "Longitude": "26.0673",
-            "Depth": "7.9",
-            "ML": "2.1",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "06:28:29",
-            "Latitude": "37.0887",
-            "Longitude": "28.3973",
-            "Depth": "7.7",
-            "ML": "2.4",
-            "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "04:47:41",
-            "Latitude": "39.9247",
-            "Longitude": "39.5217",
-            "Depth": "14.5",
-            "ML": "1.6",
-            "Location": "BELENLI KELKIT GUMUSHANE"
         }
     ]
 }
