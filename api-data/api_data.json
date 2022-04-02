@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.02",
+            "Time": "09:51:36",
+            "Latitude": "37.0872",
+            "Longitude": "28.3843",
+            "Depth": "5.9",
+            "ML": "2.4",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.02",
+            "Time": "09:46:33",
+            "Latitude": "37.1410",
+            "Longitude": "37.5753",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "TOKDEMIR SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.04.02",
             "Time": "08:09:31",
             "Latitude": "37.0305",
             "Longitude": "28.4058",
@@ -4454,24 +4472,6 @@
             "Depth": "9.9",
             "ML": "2.1",
             "Location": "ASMALI MARMARA BALIKESIR"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "22:30:29",
-            "Latitude": "35.0743",
-            "Longitude": "26.4478",
-            "Depth": "8.5",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "19:41:51",
-            "Latitude": "39.4202",
-            "Longitude": "32.9745",
-            "Depth": "4.6",
-            "ML": "2.9",
-            "Location": "YENIYAPANCARSAK BALA ANKARA"
         }
     ]
 }
