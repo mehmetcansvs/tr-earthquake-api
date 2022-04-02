@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.02",
+            "Time": "20:18:29",
+            "Latitude": "36.5013",
+            "Longitude": "28.7152",
+            "Depth": "17.3",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.02",
             "Time": "18:57:17",
             "Latitude": "39.3362",
             "Longitude": "31.5812",
@@ -4463,15 +4472,6 @@
             "Depth": "9.4",
             "ML": "2.5",
             "Location": "KARSIYAKA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "08:53:17",
-            "Latitude": "38.0090",
-            "Longitude": "28.4155",
-            "Depth": "4.7",
-            "ML": "3.7",
-            "Location": "BEKIRLER NAZILLI AYDIN"
         }
     ]
 }
