@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.02",
+            "Time": "14:06:31",
+            "Latitude": "36.1832",
+            "Longitude": "27.5600",
+            "Depth": "9.7",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.02",
+            "Time": "14:05:08",
+            "Latitude": "37.9545",
+            "Longitude": "29.1517",
+            "Depth": "5.6",
+            "ML": "1.9",
+            "Location": "KARAHAYIT DENIZLI"
+        },
+        {
+            "Date": "2022.04.02",
+            "Time": "13:31:47",
+            "Latitude": "37.0513",
+            "Longitude": "37.5557",
+            "Depth": "5.5",
+            "ML": "1.9",
+            "Location": "GUNBULUR SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.04.02",
             "Time": "12:59:22",
             "Latitude": "35.1778",
             "Longitude": "25.3422",
@@ -4445,33 +4472,6 @@
             "Depth": "13.6",
             "ML": "2.3",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "04:31:51",
-            "Latitude": "37.0763",
-            "Longitude": "28.3830",
-            "Depth": "6.0",
-            "ML": "2.6",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "03:43:40",
-            "Latitude": "40.8375",
-            "Longitude": "28.1718",
-            "Depth": "13.4",
-            "ML": "1.7",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "03:41:56",
-            "Latitude": "37.6503",
-            "Longitude": "31.5445",
-            "Depth": "5.3",
-            "ML": "1.5",
-            "Location": "USTUNLER BEYSEHIR KONYA"
         }
     ]
 }
