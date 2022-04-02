@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.02",
+            "Time": "02:04:09",
+            "Latitude": "36.8568",
+            "Longitude": "35.0108",
+            "Depth": "31.4",
+            "ML": "1.9",
+            "Location": "ALIFAKI TARSUS MERSIN"
+        },
+        {
+            "Date": "2022.04.02",
             "Time": "00:35:08",
             "Latitude": "38.8932",
             "Longitude": "26.3935",
@@ -4463,15 +4472,6 @@
             "Depth": "3.0",
             "ML": "1.6",
             "Location": "TURGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.22",
-            "Time": "17:22:44",
-            "Latitude": "38.8835",
-            "Longitude": "43.4967",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "ERMISLER VAN"
         }
     ]
 }
