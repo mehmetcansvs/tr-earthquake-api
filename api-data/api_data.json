@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.02",
+            "Time": "23:44:11",
+            "Latitude": "38.5387",
+            "Longitude": "31.9552",
+            "Depth": "5.4",
+            "ML": "2.3",
+            "Location": "BUYUKOBA ILGIN KONYA"
+        },
+        {
+            "Date": "2022.04.02",
+            "Time": "21:29:53",
+            "Latitude": "34.6215",
+            "Longitude": "25.2007",
+            "Depth": "11.7",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.02",
+            "Time": "20:51:48",
+            "Latitude": "35.2405",
+            "Longitude": "25.2200",
+            "Depth": "12.5",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.02",
             "Time": "20:20:42",
             "Latitude": "38.9877",
             "Longitude": "41.9738",
@@ -4445,33 +4472,6 @@
             "Depth": "13.3",
             "ML": "1.7",
             "Location": "GEDIK NAZILLI AYDIN"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "10:20:22",
-            "Latitude": "37.9665",
-            "Longitude": "34.8038",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "GUMUSLER NIGDE"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "10:10:13",
-            "Latitude": "40.0925",
-            "Longitude": "28.6288",
-            "Depth": "4.2",
-            "ML": "2.5",
-            "Location": "ONAC MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "09:53:07",
-            "Latitude": "37.9522",
-            "Longitude": "31.0523",
-            "Depth": "3.5",
-            "ML": "1.6",
-            "Location": "SARIIDRIS EGIRDIR ISPARTA"
         }
     ]
 }
