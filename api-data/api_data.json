@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.04.04",
+            "Time": "00:57:37",
+            "Latitude": "36.3797",
+            "Longitude": "28.7097",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "00:54:17",
+            "Latitude": "36.3862",
+            "Longitude": "28.7103",
+            "Depth": "1.1",
+            "ML": "3.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "00:06:33",
+            "Latitude": "40.8892",
+            "Longitude": "31.6218",
+            "Depth": "23.6",
+            "ML": "1.6",
+            "Location": "YOGUNPELIT YIGILCA DUZCE"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "23:56:01",
+            "Latitude": "40.1492",
+            "Longitude": "31.7000",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "ULUKOY NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "23:29:13",
+            "Latitude": "36.4638",
+            "Longitude": "27.1030",
+            "Depth": "4.4",
+            "ML": "2.5",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
             "Date": "2022.04.03",
             "Time": "21:34:01",
             "Latitude": "40.6985",
@@ -4427,51 +4472,6 @@
             "Depth": "5.1",
             "ML": "2.9",
             "Location": "INCEALIPINAR MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "03:24:33",
-            "Latitude": "37.8212",
-            "Longitude": "27.1552",
-            "Depth": "3.5",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "03:23:43",
-            "Latitude": "37.5628",
-            "Longitude": "29.5707",
-            "Depth": "7.2",
-            "ML": "2.0",
-            "Location": "DUDEN YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "01:31:37",
-            "Latitude": "37.3657",
-            "Longitude": "35.1353",
-            "Depth": "15.3",
-            "ML": "2.2",
-            "Location": "CUKUR KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "01:11:21",
-            "Latitude": "40.7718",
-            "Longitude": "43.1880",
-            "Depth": "27.2",
-            "ML": "1.8",
-            "Location": "KIRCICEGI SUSUZ KARS"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "01:08:53",
-            "Latitude": "36.8092",
-            "Longitude": "30.5833",
-            "Depth": "12.4",
-            "ML": "1.6",
-            "Location": "HACISEKILILER KONYAALTI ANTALYA"
         }
     ]
 }
