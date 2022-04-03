@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.04.03",
+            "Time": "03:01:43",
+            "Latitude": "40.7975",
+            "Longitude": "28.2852",
+            "Depth": "13.1",
+            "ML": "1.9",
+            "Location": "SILIVRI ACIKLARI ISTANBUL MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "02:55:51",
+            "Latitude": "40.4462",
+            "Longitude": "26.3810",
+            "Depth": "11.3",
+            "ML": "1.4",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "01:39:28",
+            "Latitude": "37.8458",
+            "Longitude": "26.9047",
+            "Depth": "8.3",
+            "ML": "2.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
             "Date": "2022.04.02",
             "Time": "23:44:11",
             "Latitude": "38.5387",
@@ -4445,33 +4472,6 @@
             "Depth": "0.0",
             "ML": "2.0",
             "Location": "MADENLI SEYDISEHIR KONYA"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "11:43:11",
-            "Latitude": "39.4577",
-            "Longitude": "33.4918",
-            "Depth": "8.8",
-            "ML": "1.6",
-            "Location": "CELEBI KIRIKKALE"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "10:55:51",
-            "Latitude": "40.0835",
-            "Longitude": "28.6568",
-            "Depth": "7.7",
-            "ML": "1.9",
-            "Location": "DOGANALAN MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "10:21:50",
-            "Latitude": "37.9968",
-            "Longitude": "28.3952",
-            "Depth": "13.3",
-            "ML": "1.7",
-            "Location": "GEDIK NAZILLI AYDIN"
         }
     ]
 }
