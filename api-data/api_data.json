@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.03",
+            "Time": "21:34:01",
+            "Latitude": "40.6985",
+            "Longitude": "30.5798",
+            "Depth": "3.7",
+            "ML": "1.7",
+            "Location": "MESEPINARI KARAPURCEK SAKARYA"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "21:03:41",
+            "Latitude": "38.0857",
+            "Longitude": "28.0217",
+            "Depth": "1.7",
+            "ML": "1.6",
+            "Location": "OVAKENT ODEMIS IZMIR"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "20:41:45",
+            "Latitude": "36.8722",
+            "Longitude": "28.0175",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "20:06:58",
+            "Latitude": "36.3673",
+            "Longitude": "28.6887",
+            "Depth": "8.2",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.03",
             "Time": "19:41:52",
             "Latitude": "40.6508",
             "Longitude": "29.0910",
@@ -17,6 +53,15 @@
             "Depth": "3.4",
             "ML": "1.8",
             "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "17:12:55",
+            "Latitude": "40.1195",
+            "Longitude": "28.6112",
+            "Depth": "9.6",
+            "ML": "1.7",
+            "Location": "ONAC MUSTAFAKEMALPASA BURSA"
         },
         {
             "Date": "2022.04.03",
@@ -4427,51 +4472,6 @@
             "Depth": "12.4",
             "ML": "1.6",
             "Location": "HACISEKILILER KONYAALTI ANTALYA"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "00:17:24",
-            "Latitude": "40.2047",
-            "Longitude": "35.2900",
-            "Depth": "2.1",
-            "ML": "2.1",
-            "Location": "ASAGIKUYUCAK AYDINCIK YOZGAT"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "00:13:38",
-            "Latitude": "36.8543",
-            "Longitude": "28.0565",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "23:52:46",
-            "Latitude": "35.0578",
-            "Longitude": "23.3592",
-            "Depth": "68.1",
-            "ML": "3.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "23:38:21",
-            "Latitude": "40.3502",
-            "Longitude": "25.7763",
-            "Depth": "15.5",
-            "ML": "1.4",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "23:03:15",
-            "Latitude": "38.3142",
-            "Longitude": "38.8133",
-            "Depth": "11.1",
-            "ML": "2.0",
-            "Location": "BOLUKKAYA PUTURGE MALATYA"
         }
     ]
 }
