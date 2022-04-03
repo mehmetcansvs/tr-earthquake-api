@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.03",
+            "Time": "12:20:37",
+            "Latitude": "40.0882",
+            "Longitude": "28.5790",
+            "Depth": "5.4",
+            "ML": "2.3",
+            "Location": "TASPINAR MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "11:38:37",
+            "Latitude": "37.0858",
+            "Longitude": "28.4412",
+            "Depth": "5.9",
+            "ML": "2.3",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "11:21:08",
+            "Latitude": "37.1012",
+            "Longitude": "28.4622",
+            "Depth": "11.9",
+            "ML": "2.2",
+            "Location": "CICEKLI ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "11:19:24",
+            "Latitude": "37.0913",
+            "Longitude": "28.4497",
+            "Depth": "8.0",
+            "ML": "2.7",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "11:18:51",
+            "Latitude": "37.0507",
+            "Longitude": "28.4110",
+            "Depth": "7.4",
+            "ML": "2.3",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "11:18:15",
+            "Latitude": "37.0748",
+            "Longitude": "28.4188",
+            "Depth": "13.5",
+            "ML": "2.1",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.03",
             "Time": "08:54:50",
             "Latitude": "38.6830",
             "Longitude": "32.2368",
@@ -4418,60 +4472,6 @@
             "Depth": "5.0",
             "ML": "3.7",
             "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "19:41:09",
-            "Latitude": "36.3713",
-            "Longitude": "27.0967",
-            "Depth": "5.3",
-            "ML": "2.5",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "18:08:46",
-            "Latitude": "40.2932",
-            "Longitude": "27.4172",
-            "Depth": "5.8",
-            "ML": "1.9",
-            "Location": "GERLENGEC BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "17:48:07",
-            "Latitude": "36.7328",
-            "Longitude": "38.4465",
-            "Depth": "5.6",
-            "ML": "1.8",
-            "Location": "TURKIYE SURIYE SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "16:43:53",
-            "Latitude": "36.8950",
-            "Longitude": "34.5805",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "RESULKOY TOROSLAR MERSIN"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "15:26:13",
-            "Latitude": "38.3372",
-            "Longitude": "38.7948",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "CANAKCI KALE MALATYA"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "15:18:47",
-            "Latitude": "38.2793",
-            "Longitude": "38.7803",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "KARSIYAKA PUTURGE MALATYA"
         }
     ]
 }
