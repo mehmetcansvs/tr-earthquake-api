@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.03",
+            "Time": "19:41:52",
+            "Latitude": "40.6508",
+            "Longitude": "29.0910",
+            "Depth": "11.0",
+            "ML": "2.2",
+            "Location": "CINARCIK YALOVA"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "18:47:47",
+            "Latitude": "38.5480",
+            "Longitude": "26.7860",
+            "Depth": "3.4",
+            "ML": "1.8",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.03",
             "Time": "15:37:22",
             "Latitude": "37.7525",
             "Longitude": "25.9608",
@@ -4454,24 +4472,6 @@
             "Depth": "11.1",
             "ML": "2.0",
             "Location": "BOLUKKAYA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "23:01:40",
-            "Latitude": "34.9747",
-            "Longitude": "26.4390",
-            "Depth": "10.2",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "22:43:50",
-            "Latitude": "40.7855",
-            "Longitude": "27.4470",
-            "Depth": "14.3",
-            "ML": "1.7",
-            "Location": "YENIKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
         }
     ]
 }
