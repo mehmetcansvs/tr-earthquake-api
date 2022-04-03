@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.03",
+            "Time": "15:37:22",
+            "Latitude": "37.7525",
+            "Longitude": "25.9608",
+            "Depth": "9.9",
+            "ML": "2.6",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.04.03",
             "Time": "14:13:07",
             "Latitude": "37.0175",
             "Longitude": "28.4385",
@@ -4463,15 +4472,6 @@
             "Depth": "14.3",
             "ML": "1.7",
             "Location": "YENIKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "22:15:23",
-            "Latitude": "36.8532",
-            "Longitude": "28.0628",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
