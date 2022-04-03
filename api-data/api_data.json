@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.03",
+            "Time": "08:47:10",
+            "Latitude": "37.0970",
+            "Longitude": "28.3322",
+            "Depth": "18.6",
+            "ML": "1.2",
+            "Location": "YENICE MUGLA"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "08:12:44",
+            "Latitude": "39.5305",
+            "Longitude": "25.9115",
+            "Depth": "10.2",
+            "ML": "1.8",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "08:09:23",
+            "Latitude": "38.5638",
+            "Longitude": "31.9993",
+            "Depth": "4.6",
+            "ML": "1.6",
+            "Location": "BUYUKOBA ILGIN KONYA"
+        },
+        {
+            "Date": "2022.04.03",
+            "Time": "07:17:32",
+            "Latitude": "40.4555",
+            "Longitude": "26.3423",
+            "Depth": "2.7",
+            "ML": "1.9",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.03",
             "Time": "05:21:57",
             "Latitude": "37.2495",
             "Longitude": "35.4255",
@@ -4436,42 +4472,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "DIKILI ACIKLARI IZMIR EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "14:58:44",
-            "Latitude": "37.9215",
-            "Longitude": "29.3050",
-            "Depth": "5.1",
-            "ML": "1.0",
-            "Location": "BAKLANCAKIRLAR CAL DENIZLI"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "13:40:14",
-            "Latitude": "39.3772",
-            "Longitude": "40.6803",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "DINARBEY YEDISU BINGOL"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "13:06:10",
-            "Latitude": "37.0172",
-            "Longitude": "28.3563",
-            "Depth": "7.4",
-            "ML": "1.8",
-            "Location": "GOKCE ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "12:41:04",
-            "Latitude": "39.3045",
-            "Longitude": "33.4233",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BEKTASLI BALA ANKARA"
         }
     ]
 }
