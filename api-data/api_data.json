@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.03",
+            "Time": "05:21:57",
+            "Latitude": "37.2495",
+            "Longitude": "35.4255",
+            "Depth": "17.9",
+            "ML": "2.2",
+            "Location": "MALIHIDIRLI IMAMOGLU ADANA"
+        },
+        {
+            "Date": "2022.04.03",
             "Time": "03:01:43",
             "Latitude": "40.7975",
             "Longitude": "28.2852",
@@ -4463,15 +4472,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "BEKTASLI BALA ANKARA"
-        },
-        {
-            "Date": "2022.03.23",
-            "Time": "12:34:18",
-            "Latitude": "37.2907",
-            "Longitude": "31.9000",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "MADENLI SEYDISEHIR KONYA"
         }
     ]
 }
