@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.04",
+            "Time": "23:40:47",
+            "Latitude": "40.0048",
+            "Longitude": "24.3283",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "23:39:52",
+            "Latitude": "40.0367",
+            "Longitude": "24.3083",
+            "Depth": "19.6",
+            "ML": "3.1",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "23:21:24",
+            "Latitude": "37.7625",
+            "Longitude": "25.9287",
+            "Depth": "4.4",
+            "ML": "2.4",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.04.04",
             "Time": "22:52:12",
             "Latitude": "39.1103",
             "Longitude": "27.6528",
@@ -4418,33 +4445,6 @@
             "Depth": "8.9",
             "ML": "2.0",
             "Location": "HALILCAVUS HINIS ERZURUM"
-        },
-        {
-            "Date": "2022.03.25",
-            "Time": "04:41:31",
-            "Latitude": "36.8570",
-            "Longitude": "28.0488",
-            "Depth": "3.8",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.25",
-            "Time": "04:28:14",
-            "Latitude": "36.8497",
-            "Longitude": "28.0445",
-            "Depth": "10.9",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.25",
-            "Time": "04:17:04",
-            "Latitude": "40.3700",
-            "Longitude": "25.9245",
-            "Depth": "7.5",
-            "ML": "2.2",
-            "Location": "KALEKOY GOKCEADA CANAKKALE"
         }
     ]
 }
