@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.04",
+            "Time": "07:54:57",
+            "Latitude": "38.7473",
+            "Longitude": "40.0255",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "KARAMAN KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "07:16:06",
+            "Latitude": "37.0150",
+            "Longitude": "28.2897",
+            "Depth": "31.4",
+            "ML": "1.1",
+            "Location": "CETIBELI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.04.04",
             "Time": "07:04:29",
             "Latitude": "36.9562",
             "Longitude": "27.6468",
@@ -4454,24 +4472,6 @@
             "Depth": "11.4",
             "ML": "1.6",
             "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "12:25:39",
-            "Latitude": "37.6437",
-            "Longitude": "37.0190",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "ULUTAS KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "12:11:35",
-            "Latitude": "39.1038",
-            "Longitude": "34.6770",
-            "Depth": "21.4",
-            "ML": "1.2",
-            "Location": "YURTYERI HACIBEKTAS NEVSEHIR"
         }
     ]
 }
