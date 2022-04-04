@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.04",
+            "Time": "20:56:59",
+            "Latitude": "39.0862",
+            "Longitude": "27.6118",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "CIFTLIK KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "20:03:00",
+            "Latitude": "40.8455",
+            "Longitude": "28.7018",
+            "Depth": "13.0",
+            "ML": "2.9",
+            "Location": "AVCILAR ACIKLARI ISTANBUL MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.04",
             "Time": "17:01:02",
             "Latitude": "37.0967",
             "Longitude": "28.4005",
@@ -4427,24 +4445,6 @@
             "Depth": "18.5",
             "ML": "1.2",
             "Location": "DAGCAYIRI HINIS ERZURUM"
-        },
-        {
-            "Date": "2022.03.25",
-            "Time": "01:34:54",
-            "Latitude": "39.4470",
-            "Longitude": "41.7118",
-            "Depth": "17.5",
-            "ML": "1.6",
-            "Location": "AKOREN HINIS ERZURUM"
-        },
-        {
-            "Date": "2022.03.25",
-            "Time": "01:28:25",
-            "Latitude": "39.2987",
-            "Longitude": "41.7953",
-            "Depth": "19.3",
-            "ML": "1.4",
-            "Location": "YELPIZ HINIS ERZURUM"
         }
     ]
 }
