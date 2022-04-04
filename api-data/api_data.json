@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.04.04",
+            "Time": "11:05:22",
+            "Latitude": "40.8312",
+            "Longitude": "34.8545",
+            "Depth": "18.5",
+            "ML": "1.8",
+            "Location": "BERKKOY DODURGA CORUM"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "10:46:20",
+            "Latitude": "36.3230",
+            "Longitude": "30.5645",
+            "Depth": "23.0",
+            "ML": "2.4",
+            "Location": "ADRASAN KUMLUCA ANTALYA"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "10:40:16",
+            "Latitude": "39.9475",
+            "Longitude": "30.3865",
+            "Depth": "5.2",
+            "ML": "1.8",
+            "Location": "BEHCETIYE TEPEBASI ESKISEHIR"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "10:15:41",
+            "Latitude": "37.7702",
+            "Longitude": "25.7428",
+            "Depth": "3.9",
+            "ML": "2.6",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "09:54:25",
+            "Latitude": "40.1025",
+            "Longitude": "28.6225",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "ONAC MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "09:48:40",
+            "Latitude": "39.6935",
+            "Longitude": "26.1113",
+            "Depth": "12.5",
+            "ML": "1.9",
+            "Location": "TAVAKLI EZINE CANAKKALE"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "09:15:16",
+            "Latitude": "39.3082",
+            "Longitude": "33.4423",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "BEKTASLI BALA ANKARA"
+        },
+        {
+            "Date": "2022.04.04",
             "Time": "07:54:57",
             "Latitude": "38.7473",
             "Longitude": "40.0255",
@@ -44,6 +107,15 @@
             "Depth": "2.7",
             "ML": "1.6",
             "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "05:06:57",
+            "Latitude": "37.0958",
+            "Longitude": "23.5300",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "YUNANISTAN"
         },
         {
             "Date": "2022.04.04",
@@ -4400,78 +4472,6 @@
             "Depth": "0.0",
             "ML": "1.1",
             "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "13:41:04",
-            "Latitude": "40.0823",
-            "Longitude": "28.6605",
-            "Depth": "6.9",
-            "ML": "2.8",
-            "Location": "DOGANALAN MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "13:40:00",
-            "Latitude": "40.0437",
-            "Longitude": "28.6340",
-            "Depth": "5.3",
-            "ML": "2.1",
-            "Location": "KILLIK MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "13:17:38",
-            "Latitude": "40.0807",
-            "Longitude": "28.6027",
-            "Depth": "5.4",
-            "ML": "2.4",
-            "Location": "INCEALIPINAR MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "13:17:20",
-            "Latitude": "39.5122",
-            "Longitude": "39.6532",
-            "Depth": "6.0",
-            "ML": "3.1",
-            "Location": "TATLISU ERZINCAN"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "13:14:46",
-            "Latitude": "40.3905",
-            "Longitude": "26.2192",
-            "Depth": "1.7",
-            "ML": "1.5",
-            "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "13:00:25",
-            "Latitude": "36.2212",
-            "Longitude": "33.8452",
-            "Depth": "6.1",
-            "ML": "1.3",
-            "Location": "SILIFKE ACIKLARI MERSIN AKDENIZ"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "12:52:34",
-            "Latitude": "39.8075",
-            "Longitude": "33.0308",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "TABURLAR ELMADAG ANKARA"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "12:44:49",
-            "Latitude": "40.4133",
-            "Longitude": "26.2510",
-            "Depth": "11.4",
-            "ML": "1.6",
-            "Location": "SAROS KORFEZI EGE DENIZI"
         }
     ]
 }
