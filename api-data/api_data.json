@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.04",
+            "Time": "17:01:02",
+            "Latitude": "37.0967",
+            "Longitude": "28.4005",
+            "Depth": "6.7",
+            "ML": "2.1",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "16:44:45",
+            "Latitude": "38.1750",
+            "Longitude": "42.7515",
+            "Depth": "9.7",
+            "ML": "2.0",
+            "Location": "CATBAYIR BAHCESARAY VAN"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "16:34:50",
+            "Latitude": "37.0072",
+            "Longitude": "28.4302",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "16:16:40",
+            "Latitude": "39.1188",
+            "Longitude": "29.4822",
+            "Depth": "11.1",
+            "ML": "1.9",
+            "Location": "YUNUSLAR GEDIZ KUTAHYA"
+        },
+        {
+            "Date": "2022.04.04",
+            "Time": "16:14:18",
+            "Latitude": "36.1083",
+            "Longitude": "33.5677",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.04.04",
             "Time": "15:13:20",
             "Latitude": "37.1373",
             "Longitude": "28.4678",
@@ -4400,51 +4445,6 @@
             "Depth": "19.3",
             "ML": "1.4",
             "Location": "YELPIZ HINIS ERZURUM"
-        },
-        {
-            "Date": "2022.03.25",
-            "Time": "01:18:12",
-            "Latitude": "40.8578",
-            "Longitude": "31.6478",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "CUKUROREN BOLU"
-        },
-        {
-            "Date": "2022.03.25",
-            "Time": "00:35:07",
-            "Latitude": "40.3052",
-            "Longitude": "42.5117",
-            "Depth": "18.7",
-            "ML": "1.4",
-            "Location": "HANDERE SARIKAMIS KARS"
-        },
-        {
-            "Date": "2022.03.25",
-            "Time": "00:22:07",
-            "Latitude": "36.9990",
-            "Longitude": "28.3693",
-            "Depth": "16.1",
-            "ML": "1.3",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "23:51:58",
-            "Latitude": "37.0132",
-            "Longitude": "28.3910",
-            "Depth": "14.0",
-            "ML": "1.6",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.24",
-            "Time": "22:37:41",
-            "Latitude": "40.6968",
-            "Longitude": "31.6870",
-            "Depth": "14.1",
-            "ML": "1.3",
-            "Location": "DEMIRCILER BOLU"
         }
     ]
 }
