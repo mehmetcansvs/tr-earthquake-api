@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.05",
+            "Time": "11:55:54",
+            "Latitude": "40.6617",
+            "Longitude": "28.9903",
+            "Depth": "8.5",
+            "ML": "2.0",
+            "Location": "SENKOY CINARCIK YALOVA"
+        },
+        {
+            "Date": "2022.04.05",
+            "Time": "11:29:24",
+            "Latitude": "34.9075",
+            "Longitude": "23.4823",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.05",
             "Time": "10:56:26",
             "Latitude": "37.8462",
             "Longitude": "26.8493",
@@ -4427,24 +4445,6 @@
             "Depth": "12.9",
             "ML": "1.5",
             "Location": "MOLLAKASIM VAN"
-        },
-        {
-            "Date": "2022.03.25",
-            "Time": "21:36:13",
-            "Latitude": "38.9460",
-            "Longitude": "26.6783",
-            "Depth": "9.4",
-            "ML": "2.8",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.25",
-            "Time": "21:05:02",
-            "Latitude": "38.6750",
-            "Longitude": "42.5637",
-            "Depth": "12.5",
-            "ML": "1.7",
-            "Location": "ADABAG TATVAN BITLIS"
         }
     ]
 }
