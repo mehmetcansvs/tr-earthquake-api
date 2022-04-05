@@ -57,20 +57,11 @@
         {
             "Date": "2022.04.05",
             "Time": "17:49:45",
-            "Latitude": "40.6127",
-            "Longitude": "27.8050",
-            "Depth": "6.9",
-            "ML": "3.5",
-            "Location": "ERDEK ACIKLARI BALIKESIR MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "17:25:58",
-            "Latitude": "37.0228",
-            "Longitude": "28.3477",
-            "Depth": "27.0",
-            "ML": "1.4",
-            "Location": "GOKCE ULA MUGLA"
+            "Latitude": "40.6398",
+            "Longitude": "27.7915",
+            "Depth": "5.5",
+            "ML": "3.3",
+            "Location": "ASMALI MARMARA BALIKESIR REVIZE GOKCE ULA MUGLA"
         },
         {
             "Date": "2022.04.05",
