@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.06",
+            "Time": "20:17:56",
+            "Latitude": "36.9585",
+            "Longitude": "28.8088",
+            "Depth": "8.0",
+            "ML": "1.7",
+            "Location": "PINAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "19:44:27",
+            "Latitude": "36.8102",
+            "Longitude": "27.7793",
+            "Depth": "12.1",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "19:35:42",
+            "Latitude": "37.0143",
+            "Longitude": "28.3637",
+            "Depth": "4.9",
+            "ML": "1.3",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "19:24:34",
+            "Latitude": "40.7800",
+            "Longitude": "30.8282",
+            "Depth": "13.6",
+            "ML": "2.5",
+            "Location": "YESILVADI HENDEK SAKARYA"
+        },
+        {
+            "Date": "2022.04.06",
             "Time": "19:07:57",
             "Latitude": "37.8112",
             "Longitude": "27.2042",
@@ -65,6 +101,15 @@
         },
         {
             "Date": "2022.04.06",
+            "Time": "16:23:11",
+            "Latitude": "37.0312",
+            "Longitude": "28.3953",
+            "Depth": "8.7",
+            "ML": "1.8",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
             "Time": "15:28:18",
             "Latitude": "37.0195",
             "Longitude": "28.3858",
@@ -80,6 +125,15 @@
             "Depth": "12.2",
             "ML": "2.2",
             "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "14:06:52",
+            "Latitude": "37.1947",
+            "Longitude": "33.2157",
+            "Depth": "3.8",
+            "ML": "1.9",
+            "Location": "KARAMAN KARAMAN"
         },
         {
             "Date": "2022.04.06",
@@ -4390,52 +4444,7 @@
             "Longitude": "27.2238",
             "Depth": "5.1",
             "ML": "2.8",
-            "Location": "AKDENIZ REVIZE GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "12:10:09",
-            "Latitude": "34.4878",
-            "Longitude": "25.4973",
-            "Depth": "19.2",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "11:57:58",
-            "Latitude": "36.9593",
-            "Longitude": "27.6103",
-            "Depth": "10.9",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "11:21:08",
-            "Latitude": "36.9753",
-            "Longitude": "27.6255",
-            "Depth": "9.1",
-            "ML": "3.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "11:19:49",
-            "Latitude": "39.0020",
-            "Longitude": "37.3848",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "TURNALI KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "10:54:23",
-            "Latitude": "41.1632",
-            "Longitude": "34.2598",
-            "Depth": "5.0",
-            "ML": "3.1",
-            "Location": "SUNLUK KARGI CORUM"
+            "Location": "AKDENIZ REVIZE"
         }
     ]
 }
