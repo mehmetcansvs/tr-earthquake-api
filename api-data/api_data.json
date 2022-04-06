@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.06",
+            "Time": "19:07:57",
+            "Latitude": "37.8112",
+            "Longitude": "27.2042",
+            "Depth": "9.6",
+            "ML": "1.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "19:02:18",
+            "Latitude": "37.8078",
+            "Longitude": "27.2023",
+            "Depth": "10.1",
+            "ML": "1.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "18:59:47",
+            "Latitude": "37.0145",
+            "Longitude": "28.3990",
+            "Depth": "3.1",
+            "ML": "1.5",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "18:42:09",
+            "Latitude": "37.0218",
+            "Longitude": "28.3907",
+            "Depth": "12.9",
+            "ML": "1.6",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "17:38:08",
+            "Latitude": "36.9902",
+            "Longitude": "28.3872",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
             "Time": "16:45:19",
             "Latitude": "37.0017",
             "Longitude": "28.3685",
@@ -4391,51 +4436,6 @@
             "Depth": "5.0",
             "ML": "3.1",
             "Location": "SUNLUK KARGI CORUM"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "10:26:58",
-            "Latitude": "38.4010",
-            "Longitude": "39.1232",
-            "Depth": "5.9",
-            "ML": "3.3",
-            "Location": "KAMISLIK SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "10:08:08",
-            "Latitude": "37.0043",
-            "Longitude": "28.3917",
-            "Depth": "4.7",
-            "ML": "1.3",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "09:17:09",
-            "Latitude": "37.6065",
-            "Longitude": "29.1863",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "SARIABAT TAVAS DENIZLI"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "09:15:33",
-            "Latitude": "38.2635",
-            "Longitude": "38.8125",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "KARSIYAKA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "09:07:37",
-            "Latitude": "35.1193",
-            "Longitude": "25.1332",
-            "Depth": "19.0",
-            "ML": "1.5",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
