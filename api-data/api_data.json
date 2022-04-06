@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.06",
+            "Time": "16:45:19",
+            "Latitude": "37.0017",
+            "Longitude": "28.3685",
+            "Depth": "4.3",
+            "ML": "1.5",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "16:26:21",
+            "Latitude": "40.8305",
+            "Longitude": "27.7048",
+            "Depth": "2.7",
+            "ML": "2.4",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "15:28:18",
+            "Latitude": "37.0195",
+            "Longitude": "28.3858",
+            "Depth": "7.4",
+            "ML": "1.9",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "15:13:15",
+            "Latitude": "37.0035",
+            "Longitude": "28.3683",
+            "Depth": "12.2",
+            "ML": "2.2",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
             "Time": "13:20:46",
             "Latitude": "39.2410",
             "Longitude": "29.6842",
@@ -4400,42 +4436,6 @@
             "Depth": "19.0",
             "ML": "1.5",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "08:54:40",
-            "Latitude": "38.3570",
-            "Longitude": "42.3302",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "YAYALAR BITLIS"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "08:05:53",
-            "Latitude": "37.8903",
-            "Longitude": "26.9717",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "07:58:29",
-            "Latitude": "36.9808",
-            "Longitude": "27.7288",
-            "Depth": "3.3",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "07:43:22",
-            "Latitude": "36.9953",
-            "Longitude": "28.3683",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
