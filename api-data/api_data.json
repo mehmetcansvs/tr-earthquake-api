@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.06",
+            "Time": "07:49:25",
+            "Latitude": "39.3370",
+            "Longitude": "39.2607",
+            "Depth": "2.3",
+            "ML": "3.2",
+            "Location": "SARITOSUN OVACIK TUNCELI"
+        },
+        {
+            "Date": "2022.04.06",
             "Time": "06:46:00",
             "Latitude": "37.0182",
             "Longitude": "27.6960",
@@ -98,6 +107,15 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "KUMEOREN GEMEREK SIVAS"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "04:08:43",
+            "Latitude": "34.9350",
+            "Longitude": "26.8032",
+            "Depth": "3.6",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.04.06",
@@ -4418,24 +4436,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "TURAC ASKALE ERZURUM"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "22:47:37",
-            "Latitude": "37.0033",
-            "Longitude": "28.3932",
-            "Depth": "12.8",
-            "ML": "1.2",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "22:39:19",
-            "Latitude": "37.0225",
-            "Longitude": "28.4205",
-            "Depth": "8.1",
-            "ML": "1.5",
-            "Location": "CITLIK ULA MUGLA"
         }
     ]
 }
