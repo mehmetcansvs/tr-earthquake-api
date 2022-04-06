@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.06",
+            "Time": "05:34:33",
+            "Latitude": "34.9118",
+            "Longitude": "33.9417",
+            "Depth": "21.7",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "05:00:28",
+            "Latitude": "38.9148",
+            "Longitude": "26.1947",
+            "Depth": "7.1",
+            "ML": "2.1",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.06",
             "Time": "03:55:07",
             "Latitude": "35.1100",
             "Longitude": "26.7860",
@@ -17,6 +35,15 @@
             "Depth": "101.0",
             "ML": "2.4",
             "Location": "KARATAS SERIK ANTALYA"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "01:45:52",
+            "Latitude": "38.6308",
+            "Longitude": "39.6902",
+            "Depth": "5.6",
+            "ML": "2.2",
+            "Location": "YOLUSTU ELAZIG"
         },
         {
             "Date": "2022.04.06",
@@ -4409,33 +4436,6 @@
             "Depth": "54.5",
             "ML": "2.6",
             "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "13:53:20",
-            "Latitude": "36.9578",
-            "Longitude": "27.5075",
-            "Depth": "11.9",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "13:47:27",
-            "Latitude": "37.0692",
-            "Longitude": "28.3408",
-            "Depth": "6.1",
-            "ML": "1.8",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "13:29:37",
-            "Latitude": "39.9478",
-            "Longitude": "42.5723",
-            "Depth": "7.8",
-            "ML": "2.3",
-            "Location": "KAYALIBOGAZ SARIKAMIS KARS"
         }
     ]
 }
