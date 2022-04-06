@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.06",
+            "Time": "10:09:21",
+            "Latitude": "37.7438",
+            "Longitude": "25.9060",
+            "Depth": "13.7",
+            "ML": "2.4",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "09:20:06",
+            "Latitude": "37.1080",
+            "Longitude": "33.4033",
+            "Depth": "1.1",
+            "ML": "1.1",
+            "Location": "SARIKAYA KARAMAN"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "09:16:38",
+            "Latitude": "36.9787",
+            "Longitude": "27.6550",
+            "Depth": "10.9",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "09:12:15",
+            "Latitude": "37.0062",
+            "Longitude": "28.3753",
+            "Depth": "9.7",
+            "ML": "1.9",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "08:57:22",
+            "Latitude": "37.0252",
+            "Longitude": "28.4062",
+            "Depth": "4.1",
+            "ML": "1.9",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
             "Time": "07:49:25",
             "Latitude": "39.3370",
             "Longitude": "39.2607",
@@ -4391,51 +4436,6 @@
             "Depth": "2.3",
             "ML": "1.2",
             "Location": "HISARONU MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "04:10:54",
-            "Latitude": "36.8452",
-            "Longitude": "28.0683",
-            "Depth": "10.4",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "00:48:27",
-            "Latitude": "38.0118",
-            "Longitude": "37.5955",
-            "Depth": "2.0",
-            "ML": "3.0",
-            "Location": "GOVDELI DOGANSEHIR MALATYA"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "00:28:24",
-            "Latitude": "37.0150",
-            "Longitude": "28.3793",
-            "Depth": "5.0",
-            "ML": "1.0",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "00:09:38",
-            "Latitude": "37.0075",
-            "Longitude": "28.4390",
-            "Depth": "11.8",
-            "ML": "1.1",
-            "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "23:36:47",
-            "Latitude": "39.7543",
-            "Longitude": "40.7838",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "TURAC ASKALE ERZURUM"
         }
     ]
 }
