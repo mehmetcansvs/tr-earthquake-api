@@ -1,6 +1,60 @@
 {
     "data": [
         {
+            "Date": "2022.04.06",
+            "Time": "03:55:07",
+            "Latitude": "35.1100",
+            "Longitude": "26.7860",
+            "Depth": "5.0",
+            "ML": "3.2",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "03:25:28",
+            "Latitude": "37.1200",
+            "Longitude": "31.1223",
+            "Depth": "101.0",
+            "ML": "2.4",
+            "Location": "KARATAS SERIK ANTALYA"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "00:59:09",
+            "Latitude": "37.0728",
+            "Longitude": "28.3693",
+            "Depth": "5.9",
+            "ML": "3.1",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.06",
+            "Time": "00:12:23",
+            "Latitude": "37.0022",
+            "Longitude": "28.4140",
+            "Depth": "4.0",
+            "ML": "1.5",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.05",
+            "Time": "23:39:14",
+            "Latitude": "38.3660",
+            "Longitude": "38.8162",
+            "Depth": "4.0",
+            "ML": "2.0",
+            "Location": "KOZLUK KALE MALATYA"
+        },
+        {
+            "Date": "2022.04.05",
+            "Time": "21:25:22",
+            "Latitude": "38.9952",
+            "Longitude": "26.5368",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
             "Date": "2022.04.05",
             "Time": "20:19:44",
             "Latitude": "37.8523",
@@ -26,6 +80,15 @@
             "Depth": "7.1",
             "ML": "2.1",
             "Location": "GULDIKEN LICE DIYARBAKIR"
+        },
+        {
+            "Date": "2022.04.05",
+            "Time": "19:30:42",
+            "Latitude": "35.1237",
+            "Longitude": "26.7792",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.04.05",
@@ -4373,69 +4436,6 @@
             "Depth": "7.8",
             "ML": "2.3",
             "Location": "KAYALIBOGAZ SARIKAMIS KARS"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "13:03:26",
-            "Latitude": "36.2253",
-            "Longitude": "33.7403",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "AKDERE SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "13:02:41",
-            "Latitude": "37.0685",
-            "Longitude": "28.3617",
-            "Depth": "12.1",
-            "ML": "1.5",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "12:54:19",
-            "Latitude": "36.1765",
-            "Longitude": "33.7553",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "AKDERE SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "12:53:49",
-            "Latitude": "36.1877",
-            "Longitude": "33.7172",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "YESILOVACIK SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "11:24:03",
-            "Latitude": "38.8283",
-            "Longitude": "40.1550",
-            "Depth": "6.8",
-            "ML": "2.2",
-            "Location": "ISAAGAMEZRASI KOVANCILAR ELAZIG"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "09:45:22",
-            "Latitude": "36.2227",
-            "Longitude": "27.8127",
-            "Depth": "6.5",
-            "ML": "1.8",
-            "Location": "RODOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.26",
-            "Time": "09:13:49",
-            "Latitude": "38.4348",
-            "Longitude": "31.0847",
-            "Depth": "8.1",
-            "ML": "1.9",
-            "Location": "YARIKKAYA YALVAC ISPARTA"
         }
     ]
 }
