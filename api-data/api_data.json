@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.07",
+            "Time": "07:00:37",
+            "Latitude": "37.8202",
+            "Longitude": "27.3153",
+            "Depth": "6.9",
+            "ML": "2.2",
+            "Location": "SOGUCAK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "06:52:45",
+            "Latitude": "37.0680",
+            "Longitude": "28.3722",
+            "Depth": "4.4",
+            "ML": "0.9",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "06:30:48",
+            "Latitude": "37.5723",
+            "Longitude": "29.2275",
+            "Depth": "4.2",
+            "ML": "1.1",
+            "Location": "SERINHISAR DENIZLI"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "05:50:23",
+            "Latitude": "39.2905",
+            "Longitude": "25.9013",
+            "Depth": "6.6",
+            "ML": "1.6",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "05:13:22",
+            "Latitude": "39.5393",
+            "Longitude": "25.9580",
+            "Depth": "10.9",
+            "ML": "1.5",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.07",
             "Time": "05:07:21",
             "Latitude": "35.0670",
             "Longitude": "26.7493",
@@ -4400,51 +4445,6 @@
             "Depth": "13.2",
             "ML": "1.4",
             "Location": "GOLOVA MENDERES IZMIR"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "01:30:23",
-            "Latitude": "36.1650",
-            "Longitude": "28.4348",
-            "Depth": "12.7",
-            "ML": "1.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "01:04:17",
-            "Latitude": "37.9317",
-            "Longitude": "26.7268",
-            "Depth": "12.5",
-            "ML": "1.1",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "00:43:37",
-            "Latitude": "37.8642",
-            "Longitude": "27.1270",
-            "Depth": "15.0",
-            "ML": "0.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "00:22:16",
-            "Latitude": "35.0720",
-            "Longitude": "26.8353",
-            "Depth": "6.5",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.27",
-            "Time": "22:56:04",
-            "Latitude": "38.6122",
-            "Longitude": "39.8160",
-            "Depth": "15.4",
-            "ML": "1.7",
-            "Location": "KEKLIKDERE PALU ELAZIG"
         }
     ]
 }
