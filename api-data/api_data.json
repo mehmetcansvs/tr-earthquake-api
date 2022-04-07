@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.07",
+            "Time": "12:32:01",
+            "Latitude": "34.9742",
+            "Longitude": "33.8963",
+            "Depth": "28.2",
+            "ML": "1.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "11:45:18",
+            "Latitude": "40.7818",
+            "Longitude": "30.8327",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "YESILVADI HENDEK SAKARYA"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "11:34:19",
+            "Latitude": "38.4515",
+            "Longitude": "23.3188",
+            "Depth": "8.7",
+            "ML": "2.8",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "11:22:30",
+            "Latitude": "40.8033",
+            "Longitude": "34.1792",
+            "Depth": "12.3",
+            "ML": "1.9",
+            "Location": "YONCALI BAYAT CORUM"
+        },
+        {
+            "Date": "2022.04.07",
             "Time": "10:38:57",
             "Latitude": "38.3605",
             "Longitude": "23.3713",
@@ -4409,42 +4445,6 @@
             "Depth": "5.3",
             "ML": "1.1",
             "Location": "BALCILAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "07:12:00",
-            "Latitude": "39.8470",
-            "Longitude": "39.0653",
-            "Depth": "5.6",
-            "ML": "2.4",
-            "Location": "CALIKLAR KEMAH ERZINCAN"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "06:55:27",
-            "Latitude": "37.0498",
-            "Longitude": "28.4450",
-            "Depth": "5.0",
-            "ML": "1.0",
-            "Location": "ELMALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "06:51:27",
-            "Latitude": "39.2243",
-            "Longitude": "40.2182",
-            "Depth": "8.5",
-            "ML": "2.0",
-            "Location": "ZEYNELLI YAYLADERE BINGOL"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "06:28:53",
-            "Latitude": "34.9948",
-            "Longitude": "25.1910",
-            "Depth": "7.5",
-            "ML": "1.6",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
