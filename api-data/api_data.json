@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.07",
+            "Time": "21:01:42",
+            "Latitude": "35.0977",
+            "Longitude": "25.1955",
+            "Depth": "8.5",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "19:49:54",
+            "Latitude": "37.0983",
+            "Longitude": "28.4525",
+            "Depth": "7.4",
+            "ML": "1.6",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.07",
             "Time": "18:13:10",
             "Latitude": "40.7718",
             "Longitude": "31.5677",
@@ -4427,24 +4445,6 @@
             "Depth": "9.0",
             "ML": "2.0",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "17:03:39",
-            "Latitude": "39.0583",
-            "Longitude": "26.1580",
-            "Depth": "12.4",
-            "ML": "1.8",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "16:47:06",
-            "Latitude": "40.0845",
-            "Longitude": "28.6248",
-            "Depth": "5.4",
-            "ML": "3.2",
-            "Location": "ONAC MUSTAFAKEMALPASA BURSA"
         }
     ]
 }
