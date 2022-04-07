@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.04.08",
+            "Time": "00:48:23",
+            "Latitude": "37.0758",
+            "Longitude": "28.3877",
+            "Depth": "3.8",
+            "ML": "1.5",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.08",
+            "Time": "00:36:44",
+            "Latitude": "37.7992",
+            "Longitude": "27.3265",
+            "Depth": "4.0",
+            "ML": "1.1",
+            "Location": "YAYLAKOY KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "23:27:32",
+            "Latitude": "36.4872",
+            "Longitude": "29.2825",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "ARIFLER FETHIYE MUGLA"
+        },
+        {
             "Date": "2022.04.07",
             "Time": "22:42:30",
             "Latitude": "37.0835",
@@ -4418,33 +4445,6 @@
             "Depth": "6.4",
             "ML": "1.7",
             "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "21:24:46",
-            "Latitude": "38.9592",
-            "Longitude": "31.6062",
-            "Depth": "14.7",
-            "ML": "1.1",
-            "Location": "ASAGIPIRIBEYLI EMIRDAG AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "21:12:08",
-            "Latitude": "37.0800",
-            "Longitude": "28.3947",
-            "Depth": "7.3",
-            "ML": "1.4",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "21:10:32",
-            "Latitude": "37.9455",
-            "Longitude": "42.0652",
-            "Depth": "8.1",
-            "ML": "2.6",
-            "Location": "MEYDANDERE SIIRT"
         }
     ]
 }
