@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.07",
+            "Time": "10:38:57",
+            "Latitude": "38.3605",
+            "Longitude": "23.3713",
+            "Depth": "14.1",
+            "ML": "3.7",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "10:37:33",
+            "Latitude": "35.3212",
+            "Longitude": "25.2580",
+            "Depth": "4.0",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "10:00:43",
+            "Latitude": "37.8168",
+            "Longitude": "27.2950",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "SOGUCAK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.07",
+            "Time": "09:31:52",
+            "Latitude": "38.7032",
+            "Longitude": "43.0670",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.04.07",
             "Time": "08:24:14",
             "Latitude": "37.7763",
             "Longitude": "27.0128",
@@ -4409,42 +4445,6 @@
             "Depth": "7.5",
             "ML": "1.6",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "06:22:36",
-            "Latitude": "39.4377",
-            "Longitude": "27.8863",
-            "Depth": "11.3",
-            "ML": "1.2",
-            "Location": "KUSKAYA BALIKESIR"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "06:17:54",
-            "Latitude": "39.4843",
-            "Longitude": "27.8475",
-            "Depth": "3.0",
-            "ML": "1.8",
-            "Location": "TURKALI BALIKESIR"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "06:06:45",
-            "Latitude": "38.4275",
-            "Longitude": "23.4835",
-            "Depth": "5.0",
-            "ML": "3.1",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "05:31:29",
-            "Latitude": "40.4742",
-            "Longitude": "37.2897",
-            "Depth": "13.3",
-            "ML": "1.4",
-            "Location": "YOLUSTU RESADIYE TOKAT"
         }
     ]
 }
