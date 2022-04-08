@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.08",
+            "Time": "09:36:45",
+            "Latitude": "36.9945",
+            "Longitude": "28.4062",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.08",
+            "Time": "09:19:07",
+            "Latitude": "37.0025",
+            "Longitude": "28.3547",
+            "Depth": "2.1",
+            "ML": "1.6",
+            "Location": "GOKCE ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.08",
             "Time": "08:32:06",
             "Latitude": "39.9000",
             "Longitude": "39.9797",
@@ -4427,24 +4445,6 @@
             "Depth": "7.5",
             "ML": "2.0",
             "Location": "GECITKOY TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.03.29",
-            "Time": "06:10:34",
-            "Latitude": "39.8862",
-            "Longitude": "41.5733",
-            "Depth": "9.0",
-            "ML": "1.8",
-            "Location": "TASAGIL PASINLER ERZURUM"
-        },
-        {
-            "Date": "2022.03.29",
-            "Time": "05:09:15",
-            "Latitude": "39.4677",
-            "Longitude": "27.8297",
-            "Depth": "7.4",
-            "ML": "1.8",
-            "Location": "TASPINAR BALIKESIR"
         }
     ]
 }
