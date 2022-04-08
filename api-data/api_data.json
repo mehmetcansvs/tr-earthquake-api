@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.08",
+            "Time": "08:32:06",
+            "Latitude": "39.9000",
+            "Longitude": "39.9797",
+            "Depth": "5.4",
+            "ML": "2.6",
+            "Location": "CENNETPINAR CAYIRLI ERZINCAN"
+        },
+        {
+            "Date": "2022.04.08",
             "Time": "06:28:10",
             "Latitude": "39.5463",
             "Longitude": "28.7447",
@@ -4436,15 +4445,6 @@
             "Depth": "7.4",
             "ML": "1.8",
             "Location": "TASPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.03.29",
-            "Time": "04:15:53",
-            "Latitude": "39.5607",
-            "Longitude": "28.8833",
-            "Depth": "3.4",
-            "ML": "1.2",
-            "Location": "DEREKOY DURSUNBEY BALIKESIR"
         }
     ]
 }
