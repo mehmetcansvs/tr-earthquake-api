@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.08",
+            "Time": "14:11:42",
+            "Latitude": "40.7973",
+            "Longitude": "26.6258",
+            "Depth": "13.9",
+            "ML": "1.0",
+            "Location": "IZZETIYE KESAN EDIRNE"
+        },
+        {
+            "Date": "2022.04.08",
+            "Time": "13:12:20",
+            "Latitude": "36.1103",
+            "Longitude": "33.5380",
+            "Depth": "0.0",
+            "ML": "2.0",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.04.08",
+            "Time": "12:44:36",
+            "Latitude": "39.5500",
+            "Longitude": "27.5500",
+            "Depth": "11.2",
+            "ML": "1.9",
+            "Location": "KUCUKYENICE IVRINDI BALIKESIR"
+        },
+        {
+            "Date": "2022.04.08",
             "Time": "12:43:43",
             "Latitude": "38.1670",
             "Longitude": "23.6497",
@@ -4409,33 +4436,6 @@
             "Depth": "9.2",
             "ML": "2.2",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.29",
-            "Time": "11:21:38",
-            "Latitude": "38.1957",
-            "Longitude": "38.7140",
-            "Depth": "4.7",
-            "ML": "1.7",
-            "Location": "ALIHAN PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.03.29",
-            "Time": "11:16:23",
-            "Latitude": "38.2488",
-            "Longitude": "27.4648",
-            "Depth": "27.3",
-            "ML": "1.6",
-            "Location": "ORMANKOY TORBALI IZMIR"
-        },
-        {
-            "Date": "2022.03.29",
-            "Time": "10:54:37",
-            "Latitude": "40.7740",
-            "Longitude": "31.5143",
-            "Depth": "8.0",
-            "ML": "1.9",
-            "Location": "KIZILAGIL BOLU"
         }
     ]
 }
