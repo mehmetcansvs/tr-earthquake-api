@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.08",
+            "Time": "02:30:55",
+            "Latitude": "37.7943",
+            "Longitude": "27.3502",
+            "Depth": "2.8",
+            "ML": "1.4",
+            "Location": "YAYLAKOY KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.08",
+            "Time": "01:42:57",
+            "Latitude": "36.4343",
+            "Longitude": "29.2365",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "IZZETTINKOY FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.04.08",
+            "Time": "01:09:27",
+            "Latitude": "37.1030",
+            "Longitude": "36.0303",
+            "Depth": "7.5",
+            "ML": "3.8",
+            "Location": "TATARLI CEYHAN ADANA"
+        },
+        {
+            "Date": "2022.04.08",
+            "Time": "00:53:48",
+            "Latitude": "35.1338",
+            "Longitude": "26.7510",
+            "Depth": "5.0",
+            "ML": "3.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.08",
             "Time": "00:48:23",
             "Latitude": "37.0758",
             "Longitude": "28.3877",
@@ -4409,42 +4445,6 @@
             "Depth": "12.4",
             "ML": "1.5",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "21:45:29",
-            "Latitude": "38.5640",
-            "Longitude": "33.8487",
-            "Depth": "4.5",
-            "ML": "1.6",
-            "Location": "SARAYHAN AKSARAY"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "21:42:18",
-            "Latitude": "35.3650",
-            "Longitude": "25.3393",
-            "Depth": "14.2",
-            "ML": "1.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "21:41:26",
-            "Latitude": "38.9118",
-            "Longitude": "43.5205",
-            "Depth": "7.2",
-            "ML": "2.2",
-            "Location": "COLPAN VAN"
-        },
-        {
-            "Date": "2022.03.28",
-            "Time": "21:31:04",
-            "Latitude": "37.0823",
-            "Longitude": "28.3823",
-            "Depth": "6.4",
-            "ML": "1.7",
-            "Location": "KIZILAGAC ULA MUGLA"
         }
     ]
 }
