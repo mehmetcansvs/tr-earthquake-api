@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.08",
+            "Time": "06:28:10",
+            "Latitude": "39.5463",
+            "Longitude": "28.7447",
+            "Depth": "3.9",
+            "ML": "1.2",
+            "Location": "HONDULAR DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.04.08",
+            "Time": "06:18:46",
+            "Latitude": "36.9782",
+            "Longitude": "27.6382",
+            "Depth": "7.3",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.08",
+            "Time": "06:17:12",
+            "Latitude": "36.9738",
+            "Longitude": "27.6557",
+            "Depth": "8.3",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.08",
+            "Time": "05:47:12",
+            "Latitude": "35.1037",
+            "Longitude": "25.2013",
+            "Depth": "2.8",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.08",
             "Time": "05:26:48",
             "Latitude": "38.6487",
             "Longitude": "42.6510",
@@ -4409,42 +4445,6 @@
             "Depth": "3.4",
             "ML": "1.2",
             "Location": "DEREKOY DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.03.29",
-            "Time": "04:12:37",
-            "Latitude": "40.3427",
-            "Longitude": "27.2752",
-            "Depth": "14.9",
-            "ML": "1.3",
-            "Location": "CINARKOPRU BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.03.29",
-            "Time": "03:37:28",
-            "Latitude": "40.8768",
-            "Longitude": "31.6902",
-            "Depth": "5.2",
-            "ML": "1.5",
-            "Location": "MESCICELE BOLU"
-        },
-        {
-            "Date": "2022.03.29",
-            "Time": "02:19:32",
-            "Latitude": "40.0343",
-            "Longitude": "39.0032",
-            "Depth": "4.6",
-            "ML": "2.5",
-            "Location": "GAZIPINARI REFAHIYE ERZINCAN"
-        },
-        {
-            "Date": "2022.03.29",
-            "Time": "02:05:41",
-            "Latitude": "35.3118",
-            "Longitude": "23.7815",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
