@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.09",
+            "Time": "07:03:37",
+            "Latitude": "36.9383",
+            "Longitude": "27.6212",
+            "Depth": "5.1",
+            "ML": "1.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "06:42:48",
+            "Latitude": "37.1967",
+            "Longitude": "36.1465",
+            "Depth": "1.4",
+            "ML": "1.8",
+            "Location": "KIRMACILI OSMANIYE"
+        },
+        {
+            "Date": "2022.04.09",
             "Time": "05:37:38",
             "Latitude": "36.9645",
             "Longitude": "27.3813",
@@ -4418,24 +4436,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "KARSAK ORHANGAZI BURSA"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "14:46:30",
-            "Latitude": "37.1948",
-            "Longitude": "31.9420",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "KARAKISLA AKSEKI ANTALYA"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "14:42:38",
-            "Latitude": "39.7500",
-            "Longitude": "35.1073",
-            "Depth": "11.0",
-            "ML": "1.1",
-            "Location": "SAHMURATLI SORGUN YOZGAT"
         }
     ]
 }
