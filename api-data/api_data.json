@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.09",
+            "Time": "05:37:38",
+            "Latitude": "36.9645",
+            "Longitude": "27.3813",
+            "Depth": "6.6",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "05:30:11",
+            "Latitude": "42.5600",
+            "Longitude": "43.2735",
+            "Depth": "4.0",
+            "ML": "3.7",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "04:37:59",
+            "Latitude": "36.9777",
+            "Longitude": "27.6442",
+            "Depth": "3.1",
+            "ML": "2.0",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "04:26:28",
+            "Latitude": "36.9613",
+            "Longitude": "27.7245",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "04:21:03",
+            "Latitude": "36.9855",
+            "Longitude": "27.6768",
+            "Depth": "7.5",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "04:20:42",
+            "Latitude": "37.0183",
+            "Longitude": "28.3800",
+            "Depth": "13.1",
+            "ML": "1.3",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.09",
             "Time": "03:51:21",
             "Latitude": "37.3547",
             "Longitude": "35.0668",
@@ -4382,60 +4436,6 @@
             "Depth": "11.0",
             "ML": "1.1",
             "Location": "SAHMURATLI SORGUN YOZGAT"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "14:16:48",
-            "Latitude": "37.0262",
-            "Longitude": "28.3618",
-            "Depth": "23.7",
-            "ML": "1.4",
-            "Location": "AKCAPINAR ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "14:11:17",
-            "Latitude": "39.7895",
-            "Longitude": "35.2457",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "CATMASOGUT SORGUN YOZGAT"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "14:04:57",
-            "Latitude": "38.6317",
-            "Longitude": "39.3658",
-            "Depth": "8.6",
-            "ML": "1.9",
-            "Location": "YURTBASI ELAZIG"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "13:22:05",
-            "Latitude": "36.6578",
-            "Longitude": "36.3860",
-            "Depth": "9.7",
-            "ML": "1.6",
-            "Location": "BEKTASLI KIRIKHAN HATAY"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "13:16:47",
-            "Latitude": "40.7755",
-            "Longitude": "31.4985",
-            "Depth": "8.8",
-            "ML": "2.2",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "12:47:38",
-            "Latitude": "38.6982",
-            "Longitude": "39.5298",
-            "Depth": "10.6",
-            "ML": "2.0",
-            "Location": "OSMANAGAKOY KOVANCILAR ELAZIG"
         }
     ]
 }
