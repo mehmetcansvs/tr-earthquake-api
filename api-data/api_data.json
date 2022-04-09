@@ -2,6 +2,96 @@
     "data": [
         {
             "Date": "2022.04.09",
+            "Time": "10:51:41",
+            "Latitude": "36.9092",
+            "Longitude": "28.0705",
+            "Depth": "3.1",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "10:50:21",
+            "Latitude": "36.8763",
+            "Longitude": "28.0483",
+            "Depth": "12.0",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "10:44:34",
+            "Latitude": "36.8100",
+            "Longitude": "28.0610",
+            "Depth": "8.3",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "10:42:39",
+            "Latitude": "36.8948",
+            "Longitude": "28.0475",
+            "Depth": "6.0",
+            "ML": "2.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "10:31:15",
+            "Latitude": "37.0030",
+            "Longitude": "28.3218",
+            "Depth": "12.1",
+            "ML": "1.1",
+            "Location": "CETIBELI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "10:20:19",
+            "Latitude": "36.9848",
+            "Longitude": "28.3833",
+            "Depth": "1.0",
+            "ML": "1.6",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "10:10:03",
+            "Latitude": "40.7848",
+            "Longitude": "27.5528",
+            "Depth": "12.5",
+            "ML": "1.8",
+            "Location": "YENIKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "09:49:32",
+            "Latitude": "36.3225",
+            "Longitude": "27.6487",
+            "Depth": "86.5",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "09:40:47",
+            "Latitude": "36.9940",
+            "Longitude": "28.3890",
+            "Depth": "15.2",
+            "ML": "1.7",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "09:11:44",
+            "Latitude": "37.0252",
+            "Longitude": "28.4093",
+            "Depth": "7.0",
+            "ML": "2.5",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.09",
             "Time": "08:57:55",
             "Latitude": "37.0283",
             "Longitude": "28.4290",
@@ -4346,96 +4436,6 @@
             "Depth": "7.5",
             "ML": "2.2",
             "Location": "YERKUYU ILGAZ CANKIRI"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "21:40:29",
-            "Latitude": "37.6850",
-            "Longitude": "26.8040",
-            "Depth": "6.7",
-            "ML": "1.6",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "18:52:31",
-            "Latitude": "42.0978",
-            "Longitude": "23.8118",
-            "Depth": "11.3",
-            "ML": "3.2",
-            "Location": "BULGARISTAN"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "17:52:30",
-            "Latitude": "37.0667",
-            "Longitude": "28.3797",
-            "Depth": "6.1",
-            "ML": "1.7",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "17:43:38",
-            "Latitude": "40.4592",
-            "Longitude": "30.7467",
-            "Depth": "25.7",
-            "ML": "1.4",
-            "Location": "DEGIRMENOZU GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "17:38:10",
-            "Latitude": "37.1612",
-            "Longitude": "37.4102",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "DULUK SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "17:37:42",
-            "Latitude": "40.8727",
-            "Longitude": "28.7250",
-            "Depth": "14.0",
-            "ML": "1.6",
-            "Location": "AVCILAR ACIKLARI ISTANBUL MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "17:33:45",
-            "Latitude": "38.3740",
-            "Longitude": "26.6895",
-            "Depth": "18.6",
-            "ML": "1.3",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "17:30:31",
-            "Latitude": "37.1110",
-            "Longitude": "37.4028",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "17:18:54",
-            "Latitude": "35.5182",
-            "Longitude": "26.5900",
-            "Depth": "9.8",
-            "ML": "3.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "17:13:44",
-            "Latitude": "37.1682",
-            "Longitude": "28.4425",
-            "Depth": "7.8",
-            "ML": "1.4",
-            "Location": "ORTAKOY MUGLA"
         }
     ]
 }
