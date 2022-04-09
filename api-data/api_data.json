@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.09",
+            "Time": "08:57:55",
+            "Latitude": "37.0283",
+            "Longitude": "28.4290",
+            "Depth": "11.8",
+            "ML": "2.4",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "08:52:08",
+            "Latitude": "39.3875",
+            "Longitude": "32.6820",
+            "Depth": "6.3",
+            "ML": "1.5",
+            "Location": "CALIS HAYMANA ANKARA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "08:09:11",
+            "Latitude": "37.0532",
+            "Longitude": "28.4143",
+            "Depth": "6.8",
+            "ML": "2.2",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "07:34:54",
+            "Latitude": "37.0070",
+            "Longitude": "27.5718",
+            "Depth": "1.0",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
             "Time": "07:03:37",
             "Latitude": "36.9383",
             "Longitude": "27.6212",
@@ -4400,42 +4436,6 @@
             "Depth": "7.8",
             "ML": "1.4",
             "Location": "ORTAKOY MUGLA"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "16:42:47",
-            "Latitude": "37.0943",
-            "Longitude": "28.3727",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "16:14:40",
-            "Latitude": "40.3942",
-            "Longitude": "29.2772",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "GEMIC ORHANGAZI BURSA"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "16:13:28",
-            "Latitude": "38.4810",
-            "Longitude": "39.6550",
-            "Depth": "9.7",
-            "ML": "1.8",
-            "Location": "KASLICA MADEN ELAZIG"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "16:04:55",
-            "Latitude": "40.4178",
-            "Longitude": "29.2547",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "KARSAK ORHANGAZI BURSA"
         }
     ]
 }
