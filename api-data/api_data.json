@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.09",
+            "Time": "23:08:02",
+            "Latitude": "38.1592",
+            "Longitude": "38.6087",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "TEKEDERESI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "23:05:59",
+            "Latitude": "38.1482",
+            "Longitude": "38.5982",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "TEKEDERESI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "22:34:47",
+            "Latitude": "38.1312",
+            "Longitude": "38.6470",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "UCYAKA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "22:33:53",
+            "Latitude": "38.2017",
+            "Longitude": "38.6545",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "SOGUTLU PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "21:56:15",
+            "Latitude": "38.1653",
+            "Longitude": "38.6727",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "ESENLIK PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "21:29:15",
+            "Latitude": "38.1648",
+            "Longitude": "38.6177",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "BASMEZRA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
             "Time": "20:30:22",
             "Latitude": "38.1503",
             "Longitude": "38.6488",
@@ -4373,60 +4427,6 @@
             "Depth": "9.0",
             "ML": "2.3",
             "Location": "KARADENIZ"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "20:36:57",
-            "Latitude": "35.5202",
-            "Longitude": "26.0982",
-            "Depth": "26.4",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "20:11:59",
-            "Latitude": "40.1665",
-            "Longitude": "25.0818",
-            "Depth": "12.4",
-            "ML": "2.9",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "17:37:22",
-            "Latitude": "39.0522",
-            "Longitude": "27.7490",
-            "Depth": "16.2",
-            "ML": "1.9",
-            "Location": "SELVILI AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "17:34:36",
-            "Latitude": "39.5708",
-            "Longitude": "27.1618",
-            "Depth": "11.9",
-            "ML": "2.1",
-            "Location": "INONU HAVRAN BALIKESIR"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "16:13:51",
-            "Latitude": "36.1473",
-            "Longitude": "33.5870",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "16:00:30",
-            "Latitude": "40.7192",
-            "Longitude": "29.1745",
-            "Depth": "11.9",
-            "ML": "1.8",
-            "Location": "YALOVA ACIKLARI MARMARA DENIZI"
         }
     ]
 }
