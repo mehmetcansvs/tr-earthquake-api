@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.04.09",
+            "Time": "18:59:00",
+            "Latitude": "38.1517",
+            "Longitude": "38.6608",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "BASMEZRA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "18:49:20",
+            "Latitude": "38.1738",
+            "Longitude": "38.6697",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "ESENLIK PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "18:39:00",
+            "Latitude": "38.1057",
+            "Longitude": "38.7260",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "ALICERI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "18:37:46",
+            "Latitude": "38.1317",
+            "Longitude": "38.6450",
+            "Depth": "5.5",
+            "ML": "3.7",
+            "Location": "UCYAKA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "18:37:06",
+            "Latitude": "38.1355",
+            "Longitude": "38.6355",
+            "Depth": "5.0",
+            "ML": "3.9",
+            "Location": "UCYAKA PUTURGE MALATYA REVIZE TEKEDERESI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "18:04:40",
+            "Latitude": "36.9885",
+            "Longitude": "28.3400",
+            "Depth": "10.4",
+            "ML": "2.0",
+            "Location": "CETIBELI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "17:22:10",
+            "Latitude": "38.1373",
+            "Longitude": "38.6330",
+            "Depth": "5.3",
+            "ML": "2.8",
+            "Location": "TEKEDERESI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
             "Time": "17:02:13",
             "Latitude": "38.1503",
             "Longitude": "38.6062",
@@ -4364,78 +4427,6 @@
             "Depth": "4.9",
             "ML": "2.1",
             "Location": "EROGLU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "13:32:46",
-            "Latitude": "36.0997",
-            "Longitude": "33.8808",
-            "Depth": "4.9",
-            "ML": "1.5",
-            "Location": "SILIFKE ACIKLARI MERSIN AKDENIZ"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "13:12:20",
-            "Latitude": "39.0335",
-            "Longitude": "32.8858",
-            "Depth": "0.0",
-            "ML": "2.2",
-            "Location": "DOGUTEPE KULU KONYA"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "12:48:15",
-            "Latitude": "39.1157",
-            "Longitude": "27.5747",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "DEREKOY SOMA MANISA"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "11:44:47",
-            "Latitude": "39.6535",
-            "Longitude": "28.5523",
-            "Depth": "4.9",
-            "ML": "2.1",
-            "Location": "UMURLAR DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "11:40:35",
-            "Latitude": "37.6088",
-            "Longitude": "29.1932",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "SARIABAT TAVAS DENIZLI"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "11:23:47",
-            "Latitude": "38.2313",
-            "Longitude": "27.1245",
-            "Depth": "6.6",
-            "ML": "2.4",
-            "Location": "KUNER MENDERES IZMIR"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "09:42:41",
-            "Latitude": "39.1413",
-            "Longitude": "27.6048",
-            "Depth": "3.4",
-            "ML": "1.8",
-            "Location": "DARKALE SOMA MANISA"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "09:27:39",
-            "Latitude": "40.7812",
-            "Longitude": "31.6340",
-            "Depth": "4.3",
-            "ML": "1.7",
-            "Location": "BAKIRLI BOLU"
         }
     ]
 }
