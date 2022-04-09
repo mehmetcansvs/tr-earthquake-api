@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.04.10",
+            "Time": "00:48:38",
+            "Latitude": "38.1220",
+            "Longitude": "38.5965",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "TEKEDERESI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "00:32:49",
+            "Latitude": "39.0090",
+            "Longitude": "27.9425",
+            "Depth": "11.9",
+            "ML": "1.9",
+            "Location": "KARAKOY AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "23:58:35",
+            "Latitude": "37.0832",
+            "Longitude": "28.4323",
+            "Depth": "8.9",
+            "ML": "2.0",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "23:31:04",
+            "Latitude": "38.1672",
+            "Longitude": "38.6253",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "BASMEZRA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "23:11:10",
+            "Latitude": "38.1657",
+            "Longitude": "38.6153",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "BASMEZRA PUTURGE MALATYA"
+        },
+        {
             "Date": "2022.04.09",
             "Time": "23:08:02",
             "Latitude": "38.1592",
@@ -4382,51 +4427,6 @@
             "Depth": "21.3",
             "ML": "1.4",
             "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "23:50:22",
-            "Latitude": "36.9990",
-            "Longitude": "28.3635",
-            "Depth": "12.9",
-            "ML": "1.7",
-            "Location": "GOKCE ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "23:43:04",
-            "Latitude": "39.1627",
-            "Longitude": "42.7812",
-            "Depth": "29.7",
-            "ML": "1.3",
-            "Location": "HACILAR PATNOS AGRI"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "23:37:03",
-            "Latitude": "36.9593",
-            "Longitude": "27.7292",
-            "Depth": "10.1",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "23:05:52",
-            "Latitude": "39.4647",
-            "Longitude": "32.3465",
-            "Depth": "2.4",
-            "ML": "2.8",
-            "Location": "KARAYAVSAN POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.03.31",
-            "Time": "20:51:57",
-            "Latitude": "42.3388",
-            "Longitude": "35.9618",
-            "Depth": "9.0",
-            "ML": "2.3",
-            "Location": "KARADENIZ"
         }
     ]
 }
