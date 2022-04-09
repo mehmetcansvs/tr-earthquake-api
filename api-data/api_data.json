@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.09",
+            "Time": "03:51:21",
+            "Latitude": "37.3547",
+            "Longitude": "35.0668",
+            "Depth": "10.3",
+            "ML": "1.1",
+            "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "02:40:05",
+            "Latitude": "36.9575",
+            "Longitude": "27.6548",
+            "Depth": "7.9",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "02:08:47",
+            "Latitude": "37.6640",
+            "Longitude": "26.9802",
+            "Depth": "5.5",
+            "ML": "1.7",
+            "Location": "MILLI PARK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "01:09:11",
+            "Latitude": "36.9358",
+            "Longitude": "27.6542",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "01:06:39",
+            "Latitude": "36.0738",
+            "Longitude": "32.0040",
+            "Depth": "89.2",
+            "ML": "3.1",
+            "Location": "ANTALYA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
             "Time": "01:00:26",
             "Latitude": "40.5720",
             "Longitude": "27.6190",
@@ -4391,51 +4436,6 @@
             "Depth": "10.6",
             "ML": "2.0",
             "Location": "OSMANAGAKOY KOVANCILAR ELAZIG"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "12:30:04",
-            "Latitude": "36.3145",
-            "Longitude": "34.3733",
-            "Depth": "3.9",
-            "ML": "1.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "12:21:30",
-            "Latitude": "41.2187",
-            "Longitude": "28.7405",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "ARNAVUTKOY ISTANBUL"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "12:19:36",
-            "Latitude": "37.1487",
-            "Longitude": "37.2113",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "YESILCE SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "12:06:10",
-            "Latitude": "40.4350",
-            "Longitude": "29.3272",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "AKHAREM ORHANGAZI BURSA"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "11:56:03",
-            "Latitude": "37.4007",
-            "Longitude": "38.6755",
-            "Depth": "22.5",
-            "ML": "1.4",
-            "Location": "KARACA BOZOVA SANLIURFA"
         }
     ]
 }
