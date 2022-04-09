@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.04.09",
+            "Time": "12:51:25",
+            "Latitude": "37.5837",
+            "Longitude": "29.1763",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "SARIABAT TAVAS DENIZLI"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "12:17:28",
+            "Latitude": "37.6072",
+            "Longitude": "29.2125",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "SARIABAT TAVAS DENIZLI"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "12:10:52",
+            "Latitude": "36.9980",
+            "Longitude": "28.3875",
+            "Depth": "9.5",
+            "ML": "1.5",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "11:36:36",
+            "Latitude": "36.9760",
+            "Longitude": "27.6712",
+            "Depth": "1.2",
+            "ML": "2.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "11:33:00",
+            "Latitude": "40.5178",
+            "Longitude": "29.2433",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "HAMZALI ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "11:22:15",
+            "Latitude": "36.2612",
+            "Longitude": "26.9918",
+            "Depth": "6.1",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "11:21:16",
+            "Latitude": "39.5980",
+            "Longitude": "29.4033",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "KOPRUCEK TAVSANLI KUTAHYA"
+        },
+        {
+            "Date": "2022.04.09",
+            "Time": "11:17:36",
+            "Latitude": "37.0173",
+            "Longitude": "28.4223",
+            "Depth": "5.4",
+            "ML": "1.6",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.09",
             "Time": "10:51:41",
             "Latitude": "36.9092",
             "Longitude": "28.0705",
@@ -4364,78 +4436,6 @@
             "Depth": "5.9",
             "ML": "2.5",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "23:48:30",
-            "Latitude": "38.7912",
-            "Longitude": "27.0728",
-            "Depth": "14.9",
-            "ML": "1.4",
-            "Location": "UZUNHASANLAR ALIAGA IZMIR"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "23:46:39",
-            "Latitude": "37.9153",
-            "Longitude": "27.6607",
-            "Depth": "13.9",
-            "ML": "1.2",
-            "Location": "KIZILCAGEDIK GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "23:29:59",
-            "Latitude": "37.0358",
-            "Longitude": "28.3125",
-            "Depth": "2.6",
-            "ML": "1.3",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "22:42:42",
-            "Latitude": "37.0740",
-            "Longitude": "28.3830",
-            "Depth": "6.4",
-            "ML": "1.0",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "22:38:28",
-            "Latitude": "37.0345",
-            "Longitude": "28.3037",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "22:35:04",
-            "Latitude": "40.8122",
-            "Longitude": "31.3337",
-            "Depth": "9.8",
-            "ML": "1.4",
-            "Location": "SARICOKEK KAYNASLI DUZCE"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "21:59:28",
-            "Latitude": "37.8037",
-            "Longitude": "30.0628",
-            "Depth": "7.9",
-            "ML": "1.7",
-            "Location": "CIGRI BASMAKCI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.03.30",
-            "Time": "21:40:44",
-            "Latitude": "40.9003",
-            "Longitude": "33.7520",
-            "Depth": "7.5",
-            "ML": "2.2",
-            "Location": "YERKUYU ILGAZ CANKIRI"
         }
     ]
 }
