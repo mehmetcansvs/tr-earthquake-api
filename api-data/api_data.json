@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.04.10",
+            "Time": "06:52:48",
+            "Latitude": "39.4880",
+            "Longitude": "27.8425",
+            "Depth": "9.3",
+            "ML": "2.3",
+            "Location": "TURKALI BALIKESIR"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "06:38:59",
+            "Latitude": "37.8092",
+            "Longitude": "27.2963",
+            "Depth": "3.3",
+            "ML": "2.1",
+            "Location": "SOGUCAK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "06:37:43",
+            "Latitude": "37.8487",
+            "Longitude": "27.3232",
+            "Depth": "4.9",
+            "ML": "2.6",
+            "Location": "YENIKOY KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "06:28:07",
+            "Latitude": "38.3623",
+            "Longitude": "23.4905",
+            "Depth": "5.0",
+            "ML": "3.8",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "06:06:54",
+            "Latitude": "37.3590",
+            "Longitude": "35.0108",
+            "Depth": "6.6",
+            "ML": "1.6",
+            "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "06:00:55",
+            "Latitude": "37.0202",
+            "Longitude": "28.3985",
+            "Depth": "9.8",
+            "ML": "1.7",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "05:45:43",
+            "Latitude": "37.0038",
+            "Longitude": "28.3645",
+            "Depth": "15.7",
+            "ML": "1.2",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "05:43:08",
+            "Latitude": "38.7048",
+            "Longitude": "43.2882",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "ATMACA VAN"
+        },
+        {
+            "Date": "2022.04.10",
             "Time": "05:12:31",
             "Latitude": "38.3397",
             "Longitude": "23.4693",
@@ -4364,78 +4436,6 @@
             "Depth": "7.4",
             "ML": "2.5",
             "Location": "COCELLI PAZARCIK KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "13:22:06",
-            "Latitude": "37.0073",
-            "Longitude": "28.3893",
-            "Depth": "10.4",
-            "ML": "1.5",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "12:11:06",
-            "Latitude": "37.3488",
-            "Longitude": "34.9520",
-            "Depth": "8.4",
-            "ML": "1.0",
-            "Location": "BELEMEDIK POZANTI ADANA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "11:37:04",
-            "Latitude": "36.0950",
-            "Longitude": "33.5578",
-            "Depth": "5.2",
-            "ML": "1.3",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "11:32:22",
-            "Latitude": "39.1843",
-            "Longitude": "41.4887",
-            "Depth": "20.6",
-            "ML": "1.7",
-            "Location": "VARTO MUS"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "11:23:26",
-            "Latitude": "37.0242",
-            "Longitude": "28.3708",
-            "Depth": "15.3",
-            "ML": "2.2",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "11:13:12",
-            "Latitude": "37.3292",
-            "Longitude": "34.9567",
-            "Depth": "15.1",
-            "ML": "2.1",
-            "Location": "KARAKILIC KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "11:01:45",
-            "Latitude": "37.3723",
-            "Longitude": "35.0188",
-            "Depth": "4.0",
-            "ML": "2.2",
-            "Location": "GILDIRLI KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "10:58:39",
-            "Latitude": "38.4067",
-            "Longitude": "42.5010",
-            "Depth": "8.9",
-            "ML": "2.2",
-            "Location": "KUSLUCA TATVAN BITLIS"
         }
     ]
 }
