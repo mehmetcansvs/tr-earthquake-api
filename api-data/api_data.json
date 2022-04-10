@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.10",
+            "Time": "05:12:31",
+            "Latitude": "38.3397",
+            "Longitude": "23.4693",
+            "Depth": "74.2",
+            "ML": "4.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "05:08:09",
+            "Latitude": "38.1090",
+            "Longitude": "38.5820",
+            "Depth": "5.0",
+            "ML": "3.8",
+            "Location": "ARIKONAK SINCIK ADIYAMAN"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "05:00:49",
+            "Latitude": "37.0448",
+            "Longitude": "27.7815",
+            "Depth": "11.9",
+            "ML": "1.5",
+            "Location": "GOKBEL MILAS MUGLA"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "04:51:06",
+            "Latitude": "38.3592",
+            "Longitude": "28.4208",
+            "Depth": "8.8",
+            "ML": "2.2",
+            "Location": "SOGUKYURT ALASEHIR MANISA"
+        },
+        {
+            "Date": "2022.04.10",
             "Time": "03:38:32",
             "Latitude": "36.9698",
             "Longitude": "27.6392",
@@ -4400,42 +4436,6 @@
             "Depth": "8.9",
             "ML": "2.2",
             "Location": "KUSLUCA TATVAN BITLIS"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "10:27:24",
-            "Latitude": "37.3442",
-            "Longitude": "35.0042",
-            "Depth": "8.3",
-            "ML": "1.8",
-            "Location": "KARAKILIC KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "09:29:47",
-            "Latitude": "37.3665",
-            "Longitude": "35.0353",
-            "Depth": "4.8",
-            "ML": "1.8",
-            "Location": "GILDIRLI KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "09:23:49",
-            "Latitude": "37.3150",
-            "Longitude": "34.9468",
-            "Depth": "18.5",
-            "ML": "1.2",
-            "Location": "KARAKILIC KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "09:22:31",
-            "Latitude": "37.1393",
-            "Longitude": "28.3750",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "GULAGZI MUGLA"
         }
     ]
 }
