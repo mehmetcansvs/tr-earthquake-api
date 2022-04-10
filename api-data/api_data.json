@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.10",
+            "Time": "16:30:14",
+            "Latitude": "37.0348",
+            "Longitude": "28.4670",
+            "Depth": "15.1",
+            "ML": "2.0",
+            "Location": "PORTAKALLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.10",
             "Time": "13:24:13",
             "Latitude": "39.5028",
             "Longitude": "28.9020",
@@ -4436,15 +4445,6 @@
             "Depth": "5.0",
             "ML": "2.8",
             "Location": "KARAYAVSAN POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "02:25:05",
-            "Latitude": "36.9678",
-            "Longitude": "29.2288",
-            "Depth": "1.2",
-            "ML": "1.0",
-            "Location": "ELMALI CAMELI DENIZLI"
         }
     ]
 }
