@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.04.11",
+            "Time": "00:46:07",
+            "Latitude": "37.7155",
+            "Longitude": "27.0528",
+            "Depth": "10.1",
+            "ML": "2.0",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
             "Date": "2022.04.10",
             "Time": "22:50:24",
             "Latitude": "38.9790",
@@ -4436,15 +4445,6 @@
             "Depth": "28.6",
             "ML": "2.4",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "12:46:47",
-            "Latitude": "40.6802",
-            "Longitude": "27.4758",
-            "Depth": "9.5",
-            "ML": "2.6",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
         }
     ]
 }
