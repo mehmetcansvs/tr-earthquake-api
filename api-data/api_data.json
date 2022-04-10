@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.10",
+            "Time": "22:50:24",
+            "Latitude": "38.9790",
+            "Longitude": "43.7137",
+            "Depth": "9.1",
+            "ML": "2.5",
+            "Location": "ACIKYOL MURADIYE VAN"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "22:34:39",
+            "Latitude": "39.6902",
+            "Longitude": "26.0973",
+            "Depth": "13.0",
+            "ML": "2.2",
+            "Location": "TAVAKLI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "21:57:18",
+            "Latitude": "34.3805",
+            "Longitude": "25.6858",
+            "Depth": "83.9",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "21:22:14",
+            "Latitude": "40.7735",
+            "Longitude": "27.4628",
+            "Depth": "16.7",
+            "ML": "2.7",
+            "Location": "YENIKOY TEKIRDAG"
+        },
+        {
+            "Date": "2022.04.10",
             "Time": "21:06:45",
             "Latitude": "37.0112",
             "Longitude": "28.3715",
@@ -4409,42 +4445,6 @@
             "Depth": "9.5",
             "ML": "2.6",
             "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "12:13:45",
-            "Latitude": "40.7737",
-            "Longitude": "29.6462",
-            "Depth": "8.2",
-            "ML": "1.4",
-            "Location": "IZMIT KORFEZI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "11:58:21",
-            "Latitude": "40.1252",
-            "Longitude": "27.1213",
-            "Depth": "6.1",
-            "ML": "1.5",
-            "Location": "DIKMEN BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "11:53:12",
-            "Latitude": "37.0432",
-            "Longitude": "28.3608",
-            "Depth": "19.7",
-            "ML": "1.0",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "09:51:36",
-            "Latitude": "37.0872",
-            "Longitude": "28.3843",
-            "Depth": "5.9",
-            "ML": "2.4",
-            "Location": "KIZILAGAC ULA MUGLA"
         }
     ]
 }
