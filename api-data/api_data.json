@@ -2,6 +2,87 @@
     "data": [
         {
             "Date": "2022.04.10",
+            "Time": "03:38:32",
+            "Latitude": "36.9698",
+            "Longitude": "27.6392",
+            "Depth": "14.1",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "03:37:28",
+            "Latitude": "36.9580",
+            "Longitude": "27.6257",
+            "Depth": "7.2",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "03:32:30",
+            "Latitude": "36.9712",
+            "Longitude": "27.6427",
+            "Depth": "10.0",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "03:11:27",
+            "Latitude": "37.0142",
+            "Longitude": "28.4132",
+            "Depth": "15.1",
+            "ML": "1.5",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "02:37:29",
+            "Latitude": "38.1873",
+            "Longitude": "38.6573",
+            "Depth": "1.1",
+            "ML": "1.7",
+            "Location": "ARITOPRAK PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "02:26:34",
+            "Latitude": "38.1772",
+            "Longitude": "38.6695",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "ARITOPRAK PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "01:15:39",
+            "Latitude": "40.4492",
+            "Longitude": "30.6757",
+            "Depth": "9.3",
+            "ML": "1.2",
+            "Location": "KASIKCISEYHLER GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "01:11:12",
+            "Latitude": "36.9882",
+            "Longitude": "27.6400",
+            "Depth": "7.4",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.10",
+            "Time": "00:54:50",
+            "Latitude": "38.1587",
+            "Longitude": "38.6335",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "BASMEZRA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.10",
             "Time": "00:48:38",
             "Latitude": "38.1220",
             "Longitude": "38.5965",
@@ -4355,78 +4436,6 @@
             "Depth": "5.0",
             "ML": "1.8",
             "Location": "GULAGZI MUGLA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "09:02:45",
-            "Latitude": "37.3523",
-            "Longitude": "34.9848",
-            "Depth": "5.4",
-            "ML": "1.4",
-            "Location": "KARAKILIC KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "08:48:40",
-            "Latitude": "37.3570",
-            "Longitude": "34.9505",
-            "Depth": "5.7",
-            "ML": "1.5",
-            "Location": "BELEMEDIK POZANTI ADANA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "08:41:34",
-            "Latitude": "37.3393",
-            "Longitude": "35.0132",
-            "Depth": "8.1",
-            "ML": "2.0",
-            "Location": "KARAKILIC KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "08:36:28",
-            "Latitude": "37.3592",
-            "Longitude": "35.0300",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "GILDIRLI KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "08:34:02",
-            "Latitude": "37.3557",
-            "Longitude": "35.0453",
-            "Depth": "5.6",
-            "ML": "3.9",
-            "Location": "GILDIRLI KARAISALI ADANA REVIZE ISKENDERUN KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "03:11:36",
-            "Latitude": "38.6930",
-            "Longitude": "33.5155",
-            "Depth": "7.0",
-            "ML": "2.4",
-            "Location": "KARAMOLLAUSAGI SEREFLIKOCHISAR ANKARA"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "02:18:49",
-            "Latitude": "40.3310",
-            "Longitude": "27.1983",
-            "Depth": "10.6",
-            "ML": "3.3",
-            "Location": "TOKATKIRI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.04.01",
-            "Time": "00:16:35",
-            "Latitude": "37.1245",
-            "Longitude": "28.3858",
-            "Depth": "21.3",
-            "ML": "1.4",
-            "Location": "ULA MUGLA"
         }
     ]
 }
