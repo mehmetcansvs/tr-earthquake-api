@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.11",
+            "Time": "21:01:36",
+            "Latitude": "35.9877",
+            "Longitude": "26.6485",
+            "Depth": "87.9",
+            "ML": "3.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "20:47:38",
+            "Latitude": "38.6172",
+            "Longitude": "39.6597",
+            "Depth": "11.5",
+            "ML": "1.8",
+            "Location": "GEDIKYOLU ELAZIG"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "20:38:42",
+            "Latitude": "42.2577",
+            "Longitude": "31.0687",
+            "Depth": "12.9",
+            "ML": "4.5",
+            "Location": "KARADENIZ"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "19:30:02",
+            "Latitude": "37.0125",
+            "Longitude": "28.3852",
+            "Depth": "10.1",
+            "ML": "1.5",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "19:16:42",
+            "Latitude": "38.9748",
+            "Longitude": "42.5172",
+            "Depth": "6.6",
+            "ML": "2.0",
+            "Location": "TATARGAZI MALAZGIRT MUS"
+        },
+        {
+            "Date": "2022.04.11",
             "Time": "18:37:58",
             "Latitude": "34.8272",
             "Longitude": "32.8943",
@@ -4400,51 +4445,6 @@
             "Depth": "3.7",
             "ML": "1.7",
             "Location": "MESEPINARI KARAPURCEK SAKARYA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "21:03:41",
-            "Latitude": "38.0857",
-            "Longitude": "28.0217",
-            "Depth": "1.7",
-            "ML": "1.6",
-            "Location": "OVAKENT ODEMIS IZMIR"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "20:41:45",
-            "Latitude": "36.8722",
-            "Longitude": "28.0175",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "20:06:58",
-            "Latitude": "36.3673",
-            "Longitude": "28.6887",
-            "Depth": "8.2",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "19:41:52",
-            "Latitude": "40.6508",
-            "Longitude": "29.0910",
-            "Depth": "11.0",
-            "ML": "2.2",
-            "Location": "CINARCIK YALOVA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "18:47:47",
-            "Latitude": "38.5480",
-            "Longitude": "26.7860",
-            "Depth": "3.4",
-            "ML": "1.8",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
         }
     ]
 }
