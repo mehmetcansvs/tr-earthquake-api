@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.11",
+            "Time": "12:40:33",
+            "Latitude": "35.2262",
+            "Longitude": "27.0197",
+            "Depth": "7.5",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "12:37:16",
+            "Latitude": "36.9767",
+            "Longitude": "28.9522",
+            "Depth": "5.4",
+            "ML": "2.4",
+            "Location": "AKKOPRU KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "12:33:10",
+            "Latitude": "36.6725",
+            "Longitude": "28.3907",
+            "Depth": "1.5",
+            "ML": "1.8",
+            "Location": "GUNLUCE ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "11:45:43",
+            "Latitude": "37.0947",
+            "Longitude": "36.5928",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "KUSCUMUSTAFA ISLAHIYE GAZIANTEP"
+        },
+        {
+            "Date": "2022.04.11",
             "Time": "10:18:13",
             "Latitude": "36.2857",
             "Longitude": "29.6973",
@@ -4409,42 +4445,6 @@
             "Depth": "9.0",
             "ML": "1.6",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "08:54:50",
-            "Latitude": "38.6830",
-            "Longitude": "32.2368",
-            "Depth": "16.9",
-            "ML": "1.5",
-            "Location": "BASKUYU KADINHANI KONYA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "08:47:10",
-            "Latitude": "37.0970",
-            "Longitude": "28.3322",
-            "Depth": "18.6",
-            "ML": "1.2",
-            "Location": "YENICE MUGLA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "08:12:44",
-            "Latitude": "39.5305",
-            "Longitude": "25.9115",
-            "Depth": "10.2",
-            "ML": "1.8",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "08:09:23",
-            "Latitude": "38.5638",
-            "Longitude": "31.9993",
-            "Depth": "4.6",
-            "ML": "1.6",
-            "Location": "BUYUKOBA ILGIN KONYA"
         }
     ]
 }
