@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.04.12",
+            "Time": "00:38:04",
+            "Latitude": "37.0138",
+            "Longitude": "28.3955",
+            "Depth": "4.2",
+            "ML": "1.6",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "00:27:00",
+            "Latitude": "37.0673",
+            "Longitude": "28.3480",
+            "Depth": "2.8",
+            "ML": "1.2",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "00:21:04",
+            "Latitude": "39.6880",
+            "Longitude": "40.6277",
+            "Depth": "6.7",
+            "ML": "2.1",
+            "Location": "KALECIK TERCAN ERZINCAN"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "23:50:26",
+            "Latitude": "37.0140",
+            "Longitude": "28.4235",
+            "Depth": "7.1",
+            "ML": "1.4",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "23:47:49",
+            "Latitude": "36.7937",
+            "Longitude": "34.6333",
+            "Depth": "19.2",
+            "ML": "1.4",
+            "Location": "AKDENIZ MERSIN"
+        },
+        {
             "Date": "2022.04.11",
             "Time": "23:01:23",
             "Latitude": "36.9300",
@@ -4400,51 +4445,6 @@
             "Depth": "13.1",
             "ML": "1.4",
             "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "02:45:30",
-            "Latitude": "37.0893",
-            "Longitude": "28.4123",
-            "Depth": "10.3",
-            "ML": "1.5",
-            "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "02:42:29",
-            "Latitude": "35.8473",
-            "Longitude": "29.2148",
-            "Depth": "18.9",
-            "ML": "1.4",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "00:57:37",
-            "Latitude": "36.3797",
-            "Longitude": "28.7097",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "00:54:17",
-            "Latitude": "36.3862",
-            "Longitude": "28.7103",
-            "Depth": "1.1",
-            "ML": "3.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "00:06:33",
-            "Latitude": "40.8892",
-            "Longitude": "31.6218",
-            "Depth": "23.6",
-            "ML": "1.6",
-            "Location": "YOGUNPELIT YIGILCA DUZCE"
         }
     ]
 }
