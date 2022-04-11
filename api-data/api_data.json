@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.04.11",
+            "Time": "18:37:58",
+            "Latitude": "34.8272",
+            "Longitude": "32.8943",
+            "Depth": "8.8",
+            "ML": "3.2",
+            "Location": "KIBRIS RUM KESIMI"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "18:32:53",
+            "Latitude": "37.8065",
+            "Longitude": "27.3147",
+            "Depth": "3.4",
+            "ML": "1.5",
+            "Location": "SOGUCAK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "18:32:28",
+            "Latitude": "36.9655",
+            "Longitude": "27.6493",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "18:31:21",
+            "Latitude": "37.8120",
+            "Longitude": "27.3145",
+            "Depth": "3.3",
+            "ML": "1.7",
+            "Location": "SOGUCAK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "17:51:06",
+            "Latitude": "36.1098",
+            "Longitude": "29.1043",
+            "Depth": "10.8",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "17:46:47",
+            "Latitude": "37.0202",
+            "Longitude": "28.4093",
+            "Depth": "15.3",
+            "ML": "1.8",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "17:30:30",
+            "Latitude": "39.0335",
+            "Longitude": "29.7347",
+            "Depth": "9.8",
+            "ML": "2.3",
+            "Location": "TOKUL ASLANAPA KUTAHYA"
+        },
+        {
+            "Date": "2022.04.11",
             "Time": "16:54:29",
             "Latitude": "36.9522",
             "Longitude": "27.6215",
@@ -4382,69 +4445,6 @@
             "Depth": "3.4",
             "ML": "1.8",
             "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "17:12:55",
-            "Latitude": "40.1195",
-            "Longitude": "28.6112",
-            "Depth": "9.6",
-            "ML": "1.7",
-            "Location": "ONAC MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "15:37:22",
-            "Latitude": "37.7525",
-            "Longitude": "25.9608",
-            "Depth": "9.9",
-            "ML": "2.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "14:13:07",
-            "Latitude": "37.0175",
-            "Longitude": "28.4385",
-            "Depth": "9.3",
-            "ML": "1.6",
-            "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "14:08:51",
-            "Latitude": "36.9318",
-            "Longitude": "34.9613",
-            "Depth": "17.7",
-            "ML": "1.4",
-            "Location": "MAHMUTAGA TARSUS MERSIN"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "14:05:58",
-            "Latitude": "36.9523",
-            "Longitude": "34.9778",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "YUNUSOGLU TARSUS MERSIN"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "12:20:37",
-            "Latitude": "40.0882",
-            "Longitude": "28.5790",
-            "Depth": "5.4",
-            "ML": "2.3",
-            "Location": "TASPINAR MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "11:39:15",
-            "Latitude": "38.5322",
-            "Longitude": "39.3560",
-            "Depth": "6.4",
-            "ML": "2.6",
-            "Location": "CEVIZDERE ELAZIG"
         }
     ]
 }
