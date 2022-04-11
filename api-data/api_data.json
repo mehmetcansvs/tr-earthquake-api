@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.11",
+            "Time": "06:34:56",
+            "Latitude": "40.2727",
+            "Longitude": "36.3582",
+            "Depth": "1.5",
+            "ML": "3.5",
+            "Location": "KUCUKBAGLAR TOKAT"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "05:55:41",
+            "Latitude": "38.3788",
+            "Longitude": "23.4668",
+            "Depth": "4.2",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "05:55:18",
+            "Latitude": "39.5332",
+            "Longitude": "25.9195",
+            "Depth": "11.2",
+            "ML": "1.7",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.11",
             "Time": "04:34:35",
             "Latitude": "42.4265",
             "Longitude": "40.9208",
@@ -4418,33 +4445,6 @@
             "Depth": "12.5",
             "ML": "2.4",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "20:20:42",
-            "Latitude": "38.9877",
-            "Longitude": "41.9738",
-            "Depth": "18.6",
-            "ML": "1.6",
-            "Location": "OLURDERE BULANIK MUS"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "20:18:29",
-            "Latitude": "36.5013",
-            "Longitude": "28.7152",
-            "Depth": "17.3",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "18:57:17",
-            "Latitude": "39.3362",
-            "Longitude": "31.5812",
-            "Depth": "3.4",
-            "ML": "1.6",
-            "Location": "BALLIHISAR SIVRIHISAR ESKISEHIR"
         }
     ]
 }
