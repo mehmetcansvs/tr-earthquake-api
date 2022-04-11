@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.11",
+            "Time": "15:04:49",
+            "Latitude": "35.3553",
+            "Longitude": "25.3082",
+            "Depth": "5.1",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "14:31:07",
+            "Latitude": "36.8447",
+            "Longitude": "38.2473",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "YUMURTALIK SURUC SANLIURFA"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "14:08:40",
+            "Latitude": "37.0355",
+            "Longitude": "28.3980",
+            "Depth": "20.2",
+            "ML": "1.2",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "13:44:41",
+            "Latitude": "37.0302",
+            "Longitude": "28.3852",
+            "Depth": "27.9",
+            "ML": "1.8",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "13:18:20",
+            "Latitude": "38.7923",
+            "Longitude": "26.6543",
+            "Depth": "7.9",
+            "ML": "2.1",
+            "Location": "CANDARLI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.11",
             "Time": "12:40:33",
             "Latitude": "35.2262",
             "Longitude": "27.0197",
@@ -4400,51 +4445,6 @@
             "Depth": "5.9",
             "ML": "2.2",
             "Location": "DEREYAKA TOKAT"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "11:21:08",
-            "Latitude": "37.1012",
-            "Longitude": "28.4622",
-            "Depth": "11.9",
-            "ML": "2.2",
-            "Location": "CICEKLI ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "11:19:24",
-            "Latitude": "37.0913",
-            "Longitude": "28.4497",
-            "Depth": "8.0",
-            "ML": "2.7",
-            "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "11:18:51",
-            "Latitude": "37.0507",
-            "Longitude": "28.4110",
-            "Depth": "7.4",
-            "ML": "2.3",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "11:18:15",
-            "Latitude": "37.0748",
-            "Longitude": "28.4188",
-            "Depth": "13.5",
-            "ML": "2.1",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "09:15:40",
-            "Latitude": "36.9460",
-            "Longitude": "27.7690",
-            "Depth": "9.0",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
