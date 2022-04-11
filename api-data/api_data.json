@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.11",
+            "Time": "09:03:55",
+            "Latitude": "37.3567",
+            "Longitude": "35.0823",
+            "Depth": "9.8",
+            "ML": "1.0",
+            "Location": "CUKUR KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "09:00:13",
+            "Latitude": "38.2775",
+            "Longitude": "28.6450",
+            "Depth": "8.2",
+            "ML": "1.7",
+            "Location": "HACIALILER ALASEHIR MANISA"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "08:58:10",
+            "Latitude": "37.0305",
+            "Longitude": "28.4465",
+            "Depth": "15.3",
+            "ML": "1.6",
+            "Location": "KIZILYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "08:51:06",
+            "Latitude": "36.7838",
+            "Longitude": "28.0357",
+            "Depth": "11.7",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "08:46:01",
+            "Latitude": "36.8268",
+            "Longitude": "28.0388",
+            "Depth": "12.3",
+            "ML": "2.0",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "08:00:05",
+            "Latitude": "37.8205",
+            "Longitude": "27.3232",
+            "Depth": "5.1",
+            "ML": "1.9",
+            "Location": "KIRAZLI KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.11",
             "Time": "06:34:56",
             "Latitude": "40.2727",
             "Longitude": "36.3582",
@@ -4391,60 +4445,6 @@
             "Depth": "17.9",
             "ML": "2.2",
             "Location": "MALIHIDIRLI IMAMOGLU ADANA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "03:01:43",
-            "Latitude": "40.7975",
-            "Longitude": "28.2852",
-            "Depth": "13.1",
-            "ML": "1.9",
-            "Location": "SILIVRI ACIKLARI ISTANBUL MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "02:55:51",
-            "Latitude": "40.4462",
-            "Longitude": "26.3810",
-            "Depth": "11.3",
-            "ML": "1.4",
-            "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "01:39:28",
-            "Latitude": "37.8458",
-            "Longitude": "26.9047",
-            "Depth": "8.3",
-            "ML": "2.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "23:44:11",
-            "Latitude": "38.5387",
-            "Longitude": "31.9552",
-            "Depth": "5.4",
-            "ML": "2.3",
-            "Location": "BUYUKOBA ILGIN KONYA"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "21:29:53",
-            "Latitude": "34.6215",
-            "Longitude": "25.2007",
-            "Depth": "11.7",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.02",
-            "Time": "20:51:48",
-            "Latitude": "35.2405",
-            "Longitude": "25.2200",
-            "Depth": "12.5",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
