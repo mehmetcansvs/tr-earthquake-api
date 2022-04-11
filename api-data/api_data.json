@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.11",
+            "Time": "16:54:29",
+            "Latitude": "36.9522",
+            "Longitude": "27.6215",
+            "Depth": "12.7",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "16:26:40",
+            "Latitude": "40.3225",
+            "Longitude": "36.6187",
+            "Depth": "4.9",
+            "ML": "1.6",
+            "Location": "HASANBABA TOKAT"
+        },
+        {
+            "Date": "2022.04.11",
+            "Time": "15:58:18",
+            "Latitude": "35.2755",
+            "Longitude": "25.3237",
+            "Depth": "14.9",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.11",
             "Time": "15:04:49",
             "Latitude": "35.3553",
             "Longitude": "25.3082",
@@ -4418,33 +4445,6 @@
             "Depth": "6.4",
             "ML": "2.6",
             "Location": "CEVIZDERE ELAZIG"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "11:38:37",
-            "Latitude": "37.0858",
-            "Longitude": "28.4412",
-            "Depth": "5.9",
-            "ML": "2.3",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "11:29:16",
-            "Latitude": "37.0665",
-            "Longitude": "28.4017",
-            "Depth": "16.0",
-            "ML": "1.7",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.03",
-            "Time": "11:23:25",
-            "Latitude": "40.2868",
-            "Longitude": "36.4795",
-            "Depth": "5.9",
-            "ML": "2.2",
-            "Location": "DEREYAKA TOKAT"
         }
     ]
 }
