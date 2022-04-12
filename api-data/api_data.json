@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.12",
+            "Time": "01:30:04",
+            "Latitude": "39.2985",
+            "Longitude": "25.9218",
+            "Depth": "6.8",
+            "ML": "2.4",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.12",
             "Time": "00:38:04",
             "Latitude": "37.0138",
             "Longitude": "28.3955",
@@ -4436,15 +4445,6 @@
             "Depth": "5.8",
             "ML": "1.7",
             "Location": "KARAGOL CELIKHAN ADIYAMAN"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "03:01:17",
-            "Latitude": "37.0700",
-            "Longitude": "28.3880",
-            "Depth": "13.1",
-            "ML": "1.4",
-            "Location": "GOKOVA ULA MUGLA"
         }
     ]
 }
