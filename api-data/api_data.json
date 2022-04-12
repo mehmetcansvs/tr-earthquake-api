@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.04.12",
+            "Time": "22:41:50",
+            "Latitude": "39.0757",
+            "Longitude": "24.1072",
+            "Depth": "9.1",
+            "ML": "3.3",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "22:22:02",
+            "Latitude": "36.9072",
+            "Longitude": "28.8812",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "PINAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "22:17:20",
+            "Latitude": "36.9692",
+            "Longitude": "28.8562",
+            "Depth": "7.0",
+            "ML": "1.8",
+            "Location": "CAYHISAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "21:48:54",
+            "Latitude": "37.0145",
+            "Longitude": "28.4825",
+            "Depth": "10.2",
+            "ML": "1.5",
+            "Location": "SARAYYANI ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "21:34:55",
+            "Latitude": "37.3405",
+            "Longitude": "27.9682",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "KOZAGAC YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "21:27:12",
+            "Latitude": "37.0360",
+            "Longitude": "28.3365",
+            "Depth": "12.4",
+            "ML": "1.7",
+            "Location": "AKCAPINAR ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "21:04:49",
+            "Latitude": "37.0108",
+            "Longitude": "28.3840",
+            "Depth": "2.2",
+            "ML": "2.0",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.12",
             "Time": "21:04:16",
             "Latitude": "37.0368",
             "Longitude": "28.4650",
@@ -4409,60 +4472,6 @@
             "Depth": "22.3",
             "ML": "1.8",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "13:59:40",
-            "Latitude": "43.1388",
-            "Longitude": "27.4160",
-            "Depth": "20.1",
-            "ML": "4.2",
-            "Location": "BULGARISTAN"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "13:14:46",
-            "Latitude": "37.5905",
-            "Longitude": "35.7685",
-            "Depth": "6.4",
-            "ML": "2.2",
-            "Location": "OZBASI KOZAN ADANA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "13:11:30",
-            "Latitude": "38.4207",
-            "Longitude": "39.1467",
-            "Depth": "4.4",
-            "ML": "1.9",
-            "Location": "KAVAKKOY SIVRICE ELAZIG REVIZE SARIKAYA SOMA MANISA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "12:21:24",
-            "Latitude": "38.3352",
-            "Longitude": "28.0650",
-            "Depth": "18.5",
-            "ML": "1.1",
-            "Location": "ELMABAGI ODEMIS IZMIR"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "12:15:12",
-            "Latitude": "35.9812",
-            "Longitude": "36.1757",
-            "Depth": "17.7",
-            "ML": "1.9",
-            "Location": "KISLAK YAYLADAGI HATAY"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "12:04:02",
-            "Latitude": "38.3388",
-            "Longitude": "38.8375",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "UYANIK KALE MALATYA"
         }
     ]
 }
