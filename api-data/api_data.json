@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.12",
+            "Time": "22:49:37",
+            "Latitude": "38.4543",
+            "Longitude": "39.1837",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "DEDEYOLU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "22:49:37",
+            "Latitude": "40.3528",
+            "Longitude": "25.7722",
+            "Depth": "3.5",
+            "ML": "2.3",
+            "Location": "KALEKOY GOKCEADA CANAKKALE"
+        },
+        {
+            "Date": "2022.04.12",
             "Time": "22:41:50",
             "Latitude": "39.0757",
             "Longitude": "24.1072",
@@ -4454,24 +4472,6 @@
             "Depth": "10.3",
             "ML": "1.8",
             "Location": "YARAS MUGLA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "14:45:11",
-            "Latitude": "39.9198",
-            "Longitude": "24.2880",
-            "Depth": "9.2",
-            "ML": "2.4",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "14:27:40",
-            "Latitude": "36.2015",
-            "Longitude": "28.5590",
-            "Depth": "22.3",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
         }
     ]
 }
