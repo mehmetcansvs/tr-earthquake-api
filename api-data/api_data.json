@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.12",
+            "Time": "21:04:16",
+            "Latitude": "37.0368",
+            "Longitude": "28.4650",
+            "Depth": "15.7",
+            "ML": "1.9",
+            "Location": "PORTAKALLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "20:53:10",
+            "Latitude": "37.0027",
+            "Longitude": "28.3948",
+            "Depth": "6.8",
+            "ML": "2.5",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "19:47:32",
+            "Latitude": "40.5518",
+            "Longitude": "26.5082",
+            "Depth": "12.9",
+            "ML": "2.0",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.12",
             "Time": "18:40:36",
             "Latitude": "39.0680",
             "Longitude": "35.5052",
@@ -4436,33 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "UYANIK KALE MALATYA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "11:55:05",
-            "Latitude": "37.1370",
-            "Longitude": "37.1898",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "DURNALIK SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "11:29:26",
-            "Latitude": "38.7618",
-            "Longitude": "44.6658",
-            "Depth": "13.3",
-            "ML": "2.4",
-            "Location": "TURKIYE IRAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "11:28:00",
-            "Latitude": "39.0153",
-            "Longitude": "44.3633",
-            "Depth": "8.8",
-            "ML": "2.4",
-            "Location": "TURKIYE IRAN SINIR BOLGESI REVIZE"
         }
     ]
 }
