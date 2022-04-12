@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.12",
+            "Time": "08:25:30",
+            "Latitude": "35.0788",
+            "Longitude": "25.2200",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "07:49:23",
+            "Latitude": "40.5427",
+            "Longitude": "26.5177",
+            "Depth": "12.3",
+            "ML": "1.3",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.12",
             "Time": "07:09:23",
             "Latitude": "37.3705",
             "Longitude": "35.0382",
@@ -17,6 +35,24 @@
             "Depth": "5.0",
             "ML": "2.1",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "05:36:24",
+            "Latitude": "38.2017",
+            "Longitude": "38.7807",
+            "Depth": "5.2",
+            "ML": "1.9",
+            "Location": "ORMANICI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "04:10:20",
+            "Latitude": "38.1125",
+            "Longitude": "38.5835",
+            "Depth": "2.6",
+            "ML": "1.6",
+            "Location": "ARIKONAK SINCIK ADIYAMAN"
         },
         {
             "Date": "2022.04.12",
@@ -4409,42 +4445,6 @@
             "Depth": "15.8",
             "ML": "2.8",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "03:39:39",
-            "Latitude": "37.8878",
-            "Longitude": "37.7640",
-            "Depth": "8.0",
-            "ML": "1.6",
-            "Location": "KARABAHSILI GOLBASI ADIYAMAN"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "03:37:38",
-            "Latitude": "36.5358",
-            "Longitude": "25.5957",
-            "Depth": "20.6",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "03:35:32",
-            "Latitude": "39.6878",
-            "Longitude": "26.0573",
-            "Depth": "9.3",
-            "ML": "1.6",
-            "Location": "TAVAKLI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "03:24:20",
-            "Latitude": "37.0748",
-            "Longitude": "28.3985",
-            "Depth": "4.6",
-            "ML": "1.5",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
