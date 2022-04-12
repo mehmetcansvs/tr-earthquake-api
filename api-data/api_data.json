@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.12",
+            "Time": "18:40:36",
+            "Latitude": "39.0680",
+            "Longitude": "35.5052",
+            "Depth": "13.1",
+            "ML": "2.0",
+            "Location": "KEPIC FELAHIYE KAYSERI"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "18:20:09",
+            "Latitude": "37.0207",
+            "Longitude": "28.4673",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "KIZILYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "18:13:49",
+            "Latitude": "37.6773",
+            "Longitude": "27.2208",
+            "Depth": "11.7",
+            "ML": "1.6",
+            "Location": "GUZELCAMLI KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "18:07:55",
+            "Latitude": "40.5458",
+            "Longitude": "29.0145",
+            "Depth": "12.4",
+            "ML": "1.3",
+            "Location": "SELIMIYE ARMUTLU YALOVA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "17:28:05",
+            "Latitude": "36.4363",
+            "Longitude": "28.8288",
+            "Depth": "5.1",
+            "ML": "2.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.12",
             "Time": "17:04:16",
             "Latitude": "39.0618",
             "Longitude": "35.4622",
@@ -4417,34 +4462,7 @@
             "Longitude": "44.3633",
             "Depth": "8.8",
             "ML": "2.4",
-            "Location": "TURKIYE IRAN SINIR BOLGESI REVIZE ONIKI ADALAR AKDENIZ REVIZE BERKKOY DODURGA CORUM"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "10:46:20",
-            "Latitude": "36.3230",
-            "Longitude": "30.5645",
-            "Depth": "23.0",
-            "ML": "2.4",
-            "Location": "ADRASAN KUMLUCA ANTALYA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "10:40:16",
-            "Latitude": "39.9475",
-            "Longitude": "30.3865",
-            "Depth": "5.2",
-            "ML": "1.8",
-            "Location": "BEHCETIYE TEPEBASI ESKISEHIR"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "10:29:00",
-            "Latitude": "36.6042",
-            "Longitude": "23.6570",
-            "Depth": "24.4",
-            "ML": "2.1",
-            "Location": "YUNANISTAN"
+            "Location": "TURKIYE IRAN SINIR BOLGESI REVIZE"
         }
     ]
 }
