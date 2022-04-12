@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.12",
+            "Time": "11:53:47",
+            "Latitude": "40.5025",
+            "Longitude": "30.6160",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "KILAVUZLAR GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "11:39:45",
+            "Latitude": "39.4883",
+            "Longitude": "33.9925",
+            "Depth": "23.7",
+            "ML": "1.5",
+            "Location": "ELDELEKLIDEMIREL AKPINAR KIRSEHIR"
+        },
+        {
+            "Date": "2022.04.12",
             "Time": "11:09:14",
             "Latitude": "40.4803",
             "Longitude": "34.7627",
@@ -4427,24 +4445,6 @@
             "Depth": "5.0",
             "ML": "2.2",
             "Location": "KARAMAN KOVANCILAR ELAZIG"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "07:16:06",
-            "Latitude": "37.0150",
-            "Longitude": "28.2897",
-            "Depth": "31.4",
-            "ML": "1.1",
-            "Location": "CETIBELI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "07:04:29",
-            "Latitude": "36.9562",
-            "Longitude": "27.6468",
-            "Depth": "12.1",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
