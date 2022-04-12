@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.12",
+            "Time": "17:04:16",
+            "Latitude": "39.0618",
+            "Longitude": "35.4622",
+            "Depth": "2.6",
+            "ML": "3.6",
+            "Location": "YAZIKISLA BOGAZLIYAN YOZGAT"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "16:28:19",
+            "Latitude": "37.3432",
+            "Longitude": "30.2110",
+            "Depth": "10.6",
+            "ML": "1.9",
+            "Location": "BOZLAR BURDUR"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "15:06:00",
+            "Latitude": "36.5168",
+            "Longitude": "38.4357",
+            "Depth": "1.9",
+            "ML": "2.0",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2022.04.12",
             "Time": "14:43:23",
             "Latitude": "39.3518",
             "Longitude": "40.5988",
@@ -4418,33 +4445,6 @@
             "Depth": "24.4",
             "ML": "2.1",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "10:15:41",
-            "Latitude": "37.7702",
-            "Longitude": "25.7428",
-            "Depth": "3.9",
-            "ML": "2.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "09:54:25",
-            "Latitude": "40.1025",
-            "Longitude": "28.6225",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "ONAC MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "09:48:40",
-            "Latitude": "39.6935",
-            "Longitude": "26.1113",
-            "Depth": "12.5",
-            "ML": "1.9",
-            "Location": "TAVAKLI EZINE CANAKKALE"
         }
     ]
 }
