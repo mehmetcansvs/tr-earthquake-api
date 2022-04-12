@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.12",
+            "Time": "07:09:23",
+            "Latitude": "37.3705",
+            "Longitude": "35.0382",
+            "Depth": "6.3",
+            "ML": "2.7",
+            "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "07:05:33",
+            "Latitude": "37.7618",
+            "Longitude": "27.0408",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.12",
             "Time": "01:30:04",
             "Latitude": "39.2985",
             "Longitude": "25.9218",
@@ -4427,24 +4445,6 @@
             "Depth": "4.6",
             "ML": "1.5",
             "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "03:18:11",
-            "Latitude": "40.7088",
-            "Longitude": "31.5095",
-            "Depth": "10.0",
-            "ML": "1.7",
-            "Location": "GOLKOY BOLU"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "03:09:27",
-            "Latitude": "38.1128",
-            "Longitude": "38.4228",
-            "Depth": "5.8",
-            "ML": "1.7",
-            "Location": "KARAGOL CELIKHAN ADIYAMAN"
         }
     ]
 }
