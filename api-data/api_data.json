@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.13",
+            "Time": "05:06:22",
+            "Latitude": "37.0557",
+            "Longitude": "28.3332",
+            "Depth": "15.7",
+            "ML": "1.2",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.13",
             "Time": "04:47:55",
             "Latitude": "37.7803",
             "Longitude": "27.1287",
@@ -269,6 +278,15 @@
             "Depth": "12.9",
             "ML": "2.0",
             "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "19:42:14",
+            "Latitude": "37.8915",
+            "Longitude": "27.0902",
+            "Depth": "13.8",
+            "ML": "1.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
         },
         {
             "Date": "2022.04.12",
@@ -4454,24 +4472,6 @@
             "Depth": "10.3",
             "ML": "1.9",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "23:21:24",
-            "Latitude": "37.7625",
-            "Longitude": "25.9287",
-            "Depth": "4.4",
-            "ML": "2.4",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "22:52:12",
-            "Latitude": "39.1103",
-            "Longitude": "27.6528",
-            "Depth": "3.4",
-            "ML": "1.5",
-            "Location": "KIRKAGAC MANISA"
         }
     ]
 }
