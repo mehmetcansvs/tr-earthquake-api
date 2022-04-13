@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.13",
+            "Time": "10:02:13",
+            "Latitude": "37.6572",
+            "Longitude": "29.2605",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "SERINHISAR DENIZLI REVIZE BOYALIK ILIC ERZINCAN"
+        },
+        {
+            "Date": "2022.04.13",
             "Time": "07:48:22",
             "Latitude": "36.8237",
             "Longitude": "28.8650",
@@ -4454,24 +4463,6 @@
             "Depth": "5.0",
             "ML": "2.7",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "01:01:45",
-            "Latitude": "37.7908",
-            "Longitude": "27.0450",
-            "Depth": "1.8",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "00:40:01",
-            "Latitude": "39.1110",
-            "Longitude": "27.6103",
-            "Depth": "10.8",
-            "ML": "1.4",
-            "Location": "ADIL SOMA MANISA"
         }
     ]
 }
