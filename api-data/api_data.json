@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.13",
+            "Time": "18:18:28",
+            "Latitude": "36.0588",
+            "Longitude": "33.5807",
+            "Depth": "2.6",
+            "ML": "1.8",
+            "Location": "AYDINLIK ACIKLARI MERSIN AKDENIZ"
+        },
+        {
+            "Date": "2022.04.13",
             "Time": "16:04:58",
             "Latitude": "35.2030",
             "Longitude": "25.2837",
@@ -4454,15 +4463,6 @@
             "Depth": "5.3",
             "ML": "1.8",
             "Location": "ADIL SOMA MANISA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "04:42:12",
-            "Latitude": "40.7172",
-            "Longitude": "27.5083",
-            "Depth": "12.8",
-            "ML": "1.4",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
         }
     ]
 }
