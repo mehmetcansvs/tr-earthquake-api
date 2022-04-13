@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.04.14",
+            "Time": "00:07:07",
+            "Latitude": "35.9792",
+            "Longitude": "27.6377",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "23:15:29",
+            "Latitude": "36.9433",
+            "Longitude": "28.8663",
+            "Depth": "20.3",
+            "ML": "1.6",
+            "Location": "PINAR KOYCEGIZ MUGLA"
+        },
+        {
             "Date": "2022.04.13",
             "Time": "22:42:28",
             "Latitude": "39.1770",
@@ -4445,24 +4463,6 @@
             "Depth": "19.3",
             "ML": "1.2",
             "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "06:58:32",
-            "Latitude": "40.5960",
-            "Longitude": "27.7398",
-            "Depth": "16.6",
-            "ML": "1.6",
-            "Location": "ASMALI MARMARA BALIKESIR"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "06:47:01",
-            "Latitude": "39.6038",
-            "Longitude": "41.1818",
-            "Depth": "40.2",
-            "ML": "1.2",
-            "Location": "TURNAGOL TEKMAN ERZURUM"
         }
     ]
 }
