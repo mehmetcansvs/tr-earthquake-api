@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.04.13",
+            "Time": "13:44:43",
+            "Latitude": "37.0468",
+            "Longitude": "28.3908",
+            "Depth": "7.1",
+            "ML": "2.9",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "13:26:52",
+            "Latitude": "39.0108",
+            "Longitude": "26.0633",
+            "Depth": "9.8",
+            "ML": "2.2",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "13:20:38",
+            "Latitude": "36.2010",
+            "Longitude": "33.7442",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "AKDERE SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "12:56:58",
+            "Latitude": "36.2368",
+            "Longitude": "33.6515",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "ISIKLI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.04.13",
             "Time": "12:54:25",
             "Latitude": "37.0205",
             "Longitude": "28.4775",
             "Depth": "21.7",
             "ML": "1.8",
             "Location": "SARAYYANI ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "12:46:08",
+            "Latitude": "40.7757",
+            "Longitude": "29.6092",
+            "Depth": "6.2",
+            "ML": "1.5",
+            "Location": "IZMIT KORFEZI MARMARA DENIZI"
         },
         {
             "Date": "2022.04.13",
@@ -4418,51 +4463,6 @@
             "Depth": "6.4",
             "ML": "2.2",
             "Location": "ADIL SOMA MANISA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "03:18:27",
-            "Latitude": "37.0650",
-            "Longitude": "28.3827",
-            "Depth": "4.3",
-            "ML": "1.1",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "02:27:39",
-            "Latitude": "39.7213",
-            "Longitude": "33.0388",
-            "Depth": "4.5",
-            "ML": "1.2",
-            "Location": "BEYNAM BALA ANKARA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "02:26:45",
-            "Latitude": "36.0458",
-            "Longitude": "27.4520",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "02:21:28",
-            "Latitude": "39.4130",
-            "Longitude": "28.1415",
-            "Depth": "8.5",
-            "ML": "1.7",
-            "Location": "ISIKLAR BIGADIC BALIKESIR"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "01:34:57",
-            "Latitude": "40.5272",
-            "Longitude": "29.2603",
-            "Depth": "1.9",
-            "ML": "1.1",
-            "Location": "HAMZALI ORHANGAZI BURSA"
         }
     ]
 }
