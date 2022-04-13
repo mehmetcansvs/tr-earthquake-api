@@ -1,6 +1,87 @@
 {
     "data": [
         {
+            "Date": "2022.04.13",
+            "Time": "02:34:12",
+            "Latitude": "37.0127",
+            "Longitude": "28.4153",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "02:29:07",
+            "Latitude": "37.0527",
+            "Longitude": "28.4277",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "02:26:15",
+            "Latitude": "40.9472",
+            "Longitude": "23.0325",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "02:22:24",
+            "Latitude": "37.8412",
+            "Longitude": "27.2015",
+            "Depth": "6.3",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "02:11:51",
+            "Latitude": "37.2170",
+            "Longitude": "36.9635",
+            "Depth": "3.7",
+            "ML": "1.7",
+            "Location": "SATIRHUYUK NURDAGI GAZIANTEP"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "00:45:01",
+            "Latitude": "37.0407",
+            "Longitude": "28.4058",
+            "Depth": "10.7",
+            "ML": "1.4",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "00:28:59",
+            "Latitude": "37.0253",
+            "Longitude": "28.4293",
+            "Depth": "7.2",
+            "ML": "1.2",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "00:07:03",
+            "Latitude": "35.5535",
+            "Longitude": "31.6747",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "00:03:10",
+            "Latitude": "36.9953",
+            "Longitude": "28.3702",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
             "Date": "2022.04.12",
             "Time": "22:49:37",
             "Latitude": "38.4543",
@@ -17,6 +98,15 @@
             "Depth": "3.5",
             "ML": "2.3",
             "Location": "KALEKOY GOKCEADA CANAKKALE"
+        },
+        {
+            "Date": "2022.04.12",
+            "Time": "22:46:46",
+            "Latitude": "37.0150",
+            "Longitude": "28.2665",
+            "Depth": "10.7",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
         },
         {
             "Date": "2022.04.12",
@@ -4382,96 +4472,6 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "CIFTLIK KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "20:03:00",
-            "Latitude": "40.8455",
-            "Longitude": "28.7018",
-            "Depth": "13.0",
-            "ML": "2.9",
-            "Location": "AVCILAR ACIKLARI ISTANBUL MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "18:40:55",
-            "Latitude": "41.3085",
-            "Longitude": "44.0673",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "17:07:19",
-            "Latitude": "37.6878",
-            "Longitude": "36.1528",
-            "Depth": "9.6",
-            "ML": "1.7",
-            "Location": "ESENLI SUMBAS OSMANIYE"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "17:01:02",
-            "Latitude": "37.0967",
-            "Longitude": "28.4005",
-            "Depth": "6.7",
-            "ML": "2.1",
-            "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "16:44:45",
-            "Latitude": "38.1750",
-            "Longitude": "42.7515",
-            "Depth": "9.7",
-            "ML": "2.0",
-            "Location": "CATBAYIR BAHCESARAY VAN"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "16:34:50",
-            "Latitude": "37.0072",
-            "Longitude": "28.4302",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "16:16:40",
-            "Latitude": "39.1188",
-            "Longitude": "29.4822",
-            "Depth": "11.1",
-            "ML": "1.9",
-            "Location": "YUNUSLAR GEDIZ KUTAHYA"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "16:14:18",
-            "Latitude": "36.1083",
-            "Longitude": "33.5677",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "16:02:33",
-            "Latitude": "41.1250",
-            "Longitude": "43.7370",
-            "Depth": "9.9",
-            "ML": "2.3",
-            "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2022.04.04",
-            "Time": "15:13:20",
-            "Latitude": "37.1373",
-            "Longitude": "28.4678",
-            "Depth": "10.3",
-            "ML": "1.8",
-            "Location": "YARAS MUGLA"
         }
     ]
 }
