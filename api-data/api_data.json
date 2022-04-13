@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.13",
+            "Time": "16:04:58",
+            "Latitude": "35.2030",
+            "Longitude": "25.2837",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "15:49:17",
+            "Latitude": "40.1112",
+            "Longitude": "24.5092",
+            "Depth": "5.8",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.13",
+            "Time": "14:49:43",
+            "Latitude": "39.4495",
+            "Longitude": "27.8718",
+            "Depth": "6.8",
+            "ML": "2.0",
+            "Location": "BEREKETLI BALIKESIR"
+        },
+        {
+            "Date": "2022.04.13",
             "Time": "13:44:43",
             "Latitude": "37.0468",
             "Longitude": "28.3908",
@@ -4436,33 +4463,6 @@
             "Depth": "12.8",
             "ML": "1.4",
             "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "04:12:03",
-            "Latitude": "39.0997",
-            "Longitude": "27.6415",
-            "Depth": "3.2",
-            "ML": "1.9",
-            "Location": "ADIL SOMA MANISA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "03:58:27",
-            "Latitude": "37.0157",
-            "Longitude": "36.0785",
-            "Depth": "4.8",
-            "ML": "1.1",
-            "Location": "BUYUKTUYSUZ TOPRAKKALE OSMANIYE"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "03:41:26",
-            "Latitude": "39.0983",
-            "Longitude": "27.6195",
-            "Depth": "6.4",
-            "ML": "2.2",
-            "Location": "ADIL SOMA MANISA"
         }
     ]
 }
