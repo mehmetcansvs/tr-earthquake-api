@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.14",
+            "Time": "14:53:19",
+            "Latitude": "38.5452",
+            "Longitude": "31.9018",
+            "Depth": "9.4",
+            "ML": "1.7",
+            "Location": "YESILOBA YUNAK KONYA"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "14:15:34",
+            "Latitude": "36.1655",
+            "Longitude": "33.5473",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "14:08:43",
+            "Latitude": "40.4885",
+            "Longitude": "34.7375",
+            "Depth": "4.5",
+            "ML": "2.5",
+            "Location": "BEKTASOGLU CORUM"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "13:55:05",
+            "Latitude": "38.3022",
+            "Longitude": "38.8683",
+            "Depth": "6.4",
+            "ML": "2.6",
+            "Location": "CIGIRLI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "13:19:52",
+            "Latitude": "36.8988",
+            "Longitude": "27.7693",
+            "Depth": "14.1",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "13:09:07",
+            "Latitude": "38.3007",
+            "Longitude": "38.8247",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "BOLUKKAYA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.14",
             "Time": "12:55:21",
             "Latitude": "35.3543",
             "Longitude": "34.7073",
@@ -4418,60 +4472,6 @@
             "Depth": "16.5",
             "ML": "0.9",
             "Location": "YAKUTIYE ERZURUM"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "19:48:35",
-            "Latitude": "38.5575",
-            "Longitude": "40.7683",
-            "Depth": "7.1",
-            "ML": "2.1",
-            "Location": "GULDIKEN LICE DIYARBAKIR"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "19:30:42",
-            "Latitude": "35.1237",
-            "Longitude": "26.7792",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "19:18:42",
-            "Latitude": "34.9978",
-            "Longitude": "26.8090",
-            "Depth": "3.0",
-            "ML": "4.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "19:14:55",
-            "Latitude": "37.7513",
-            "Longitude": "26.9957",
-            "Depth": "14.6",
-            "ML": "2.1",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "19:11:13",
-            "Latitude": "37.8988",
-            "Longitude": "29.3050",
-            "Depth": "21.4",
-            "ML": "1.4",
-            "Location": "KARAPINAR CAL DENIZLI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "17:49:45",
-            "Latitude": "40.6398",
-            "Longitude": "27.7915",
-            "Depth": "5.5",
-            "ML": "3.3",
-            "Location": "ASMALI MARMARA BALIKESIR REVIZE"
         }
     ]
 }
