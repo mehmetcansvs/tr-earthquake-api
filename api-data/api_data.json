@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.14",
+            "Time": "08:07:46",
+            "Latitude": "38.8688",
+            "Longitude": "43.5540",
+            "Depth": "5.6",
+            "ML": "2.6",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "07:36:12",
+            "Latitude": "36.9623",
+            "Longitude": "28.8827",
+            "Depth": "3.8",
+            "ML": "2.6",
+            "Location": "SAZAK KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.04.14",
             "Time": "07:06:34",
             "Latitude": "36.9865",
             "Longitude": "28.5265",
@@ -4445,24 +4463,6 @@
             "Depth": "5.4",
             "ML": "1.7",
             "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "12:19:57",
-            "Latitude": "35.3743",
-            "Longitude": "23.4408",
-            "Depth": "2.6",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "12:03:00",
-            "Latitude": "40.0937",
-            "Longitude": "27.4645",
-            "Depth": "12.8",
-            "ML": "1.6",
-            "Location": "BEYOLUK GONEN BALIKESIR"
         }
     ]
 }
