@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.14",
+            "Time": "16:36:10",
+            "Latitude": "35.5358",
+            "Longitude": "29.9880",
+            "Depth": "11.1",
+            "ML": "3.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "16:04:06",
+            "Latitude": "40.8797",
+            "Longitude": "27.9532",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "MARMARA EREGLISI ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "16:02:09",
+            "Latitude": "36.9085",
+            "Longitude": "27.7737",
+            "Depth": "19.5",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "15:43:11",
+            "Latitude": "38.2983",
+            "Longitude": "38.7867",
+            "Depth": "17.0",
+            "ML": "1.4",
+            "Location": "BOLUKKAYA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "15:33:09",
+            "Latitude": "40.9925",
+            "Longitude": "40.2987",
+            "Depth": "0.0",
+            "ML": "2.4",
+            "Location": "ESKIPAZAR OF TRABZON"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "15:26:56",
+            "Latitude": "39.5143",
+            "Longitude": "27.8738",
+            "Depth": "17.2",
+            "ML": "1.5",
+            "Location": "PAMUKCU BALIKESIR"
+        },
+        {
+            "Date": "2022.04.14",
             "Time": "14:53:19",
             "Latitude": "38.5452",
             "Longitude": "31.9018",
@@ -128,6 +182,24 @@
         },
         {
             "Date": "2022.04.14",
+            "Time": "09:48:41",
+            "Latitude": "40.3787",
+            "Longitude": "27.6372",
+            "Depth": "6.5",
+            "ML": "1.2",
+            "Location": "ERDEK KORFEZI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "09:36:24",
+            "Latitude": "36.2655",
+            "Longitude": "27.0190",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.14",
             "Time": "09:30:04",
             "Latitude": "39.4342",
             "Longitude": "27.8068",
@@ -143,6 +215,15 @@
             "Depth": "18.7",
             "ML": "1.4",
             "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "08:34:38",
+            "Latitude": "38.3340",
+            "Longitude": "39.0120",
+            "Depth": "20.5",
+            "ML": "1.7",
+            "Location": "ILINCAK SIVRICE ELAZIG"
         },
         {
             "Date": "2022.04.14",
@@ -251,6 +332,24 @@
             "Depth": "2.9",
             "ML": "0.8",
             "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "03:31:04",
+            "Latitude": "38.5363",
+            "Longitude": "30.6473",
+            "Depth": "12.1",
+            "ML": "1.0",
+            "Location": "YARISLI SUHUT AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "03:30:46",
+            "Latitude": "38.5472",
+            "Longitude": "30.6680",
+            "Depth": "5.8",
+            "ML": "1.0",
+            "Location": "YARISLI SUHUT AFYONKARAHISAR"
         },
         {
             "Date": "2022.04.14",
@@ -4373,105 +4472,6 @@
             "Depth": "3.6",
             "ML": "2.7",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "03:55:07",
-            "Latitude": "35.1100",
-            "Longitude": "26.7860",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "03:49:59",
-            "Latitude": "37.0140",
-            "Longitude": "28.3995",
-            "Depth": "9.1",
-            "ML": "1.8",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "03:39:33",
-            "Latitude": "37.0315",
-            "Longitude": "28.4123",
-            "Depth": "11.5",
-            "ML": "1.7",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "03:25:28",
-            "Latitude": "37.1200",
-            "Longitude": "31.1223",
-            "Depth": "101.0",
-            "ML": "2.4",
-            "Location": "KARATAS SERIK ANTALYA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "01:45:52",
-            "Latitude": "38.6308",
-            "Longitude": "39.6902",
-            "Depth": "5.6",
-            "ML": "2.2",
-            "Location": "YOLUSTU ELAZIG"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "00:59:09",
-            "Latitude": "37.0728",
-            "Longitude": "28.3693",
-            "Depth": "5.9",
-            "ML": "3.1",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "00:12:23",
-            "Latitude": "37.0022",
-            "Longitude": "28.4140",
-            "Depth": "4.0",
-            "ML": "1.5",
-            "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "23:39:14",
-            "Latitude": "38.3660",
-            "Longitude": "38.8162",
-            "Depth": "4.0",
-            "ML": "2.0",
-            "Location": "KOZLUK KALE MALATYA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "21:25:22",
-            "Latitude": "38.9952",
-            "Longitude": "26.5368",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "20:19:44",
-            "Latitude": "37.8523",
-            "Longitude": "29.3383",
-            "Depth": "15.8",
-            "ML": "1.5",
-            "Location": "KOCABAS HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "19:50:38",
-            "Latitude": "39.9978",
-            "Longitude": "41.2572",
-            "Depth": "16.5",
-            "ML": "0.9",
-            "Location": "YAKUTIYE ERZURUM"
         }
     ]
 }
