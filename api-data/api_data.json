@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.14",
+            "Time": "07:06:34",
+            "Latitude": "36.9865",
+            "Longitude": "28.5265",
+            "Depth": "10.8",
+            "ML": "0.9",
+            "Location": "CORUS ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "06:11:53",
+            "Latitude": "38.3000",
+            "Longitude": "38.6685",
+            "Depth": "22.0",
+            "ML": "1.7",
+            "Location": "KAMISTAS MALATYA"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "06:07:27",
+            "Latitude": "38.3847",
+            "Longitude": "39.0895",
+            "Depth": "3.4",
+            "ML": "2.4",
+            "Location": "KALABA SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "05:10:36",
+            "Latitude": "37.0327",
+            "Longitude": "28.3798",
+            "Depth": "19.5",
+            "ML": "1.2",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "05:04:51",
+            "Latitude": "38.1627",
+            "Longitude": "38.3568",
+            "Depth": "5.5",
+            "ML": "2.0",
+            "Location": "ONCU YESILYURT MALATYA"
+        },
+        {
+            "Date": "2022.04.14",
             "Time": "04:52:59",
             "Latitude": "38.6382",
             "Longitude": "27.3148",
@@ -4418,51 +4463,6 @@
             "Depth": "12.8",
             "ML": "1.6",
             "Location": "BEYOLUK GONEN BALIKESIR"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "11:55:54",
-            "Latitude": "40.6617",
-            "Longitude": "28.9903",
-            "Depth": "8.5",
-            "ML": "2.0",
-            "Location": "SENKOY CINARCIK YALOVA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "11:29:24",
-            "Latitude": "34.9075",
-            "Longitude": "23.4823",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "10:56:26",
-            "Latitude": "37.8462",
-            "Longitude": "26.8493",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "10:53:33",
-            "Latitude": "37.8223",
-            "Longitude": "26.8373",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "10:30:57",
-            "Latitude": "40.8010",
-            "Longitude": "27.9965",
-            "Depth": "16.1",
-            "ML": "1.6",
-            "Location": "MARMARA EREGLISI ACIKLARI TEKIRDAG MARMARA DENIZI"
         }
     ]
 }
