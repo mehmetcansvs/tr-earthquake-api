@@ -2,12 +2,66 @@
     "data": [
         {
             "Date": "2022.04.14",
+            "Time": "04:52:59",
+            "Latitude": "38.6382",
+            "Longitude": "27.3148",
+            "Depth": "9.8",
+            "ML": "2.9",
+            "Location": "KARAALI MANISA"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "04:42:54",
+            "Latitude": "37.0313",
+            "Longitude": "28.3890",
+            "Depth": "20.3",
+            "ML": "1.2",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "04:32:48",
+            "Latitude": "38.6158",
+            "Longitude": "26.7277",
+            "Depth": "6.5",
+            "ML": "1.8",
+            "Location": "FOCA IZMIR"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "04:23:32",
+            "Latitude": "38.6155",
+            "Longitude": "26.7013",
+            "Depth": "11.4",
+            "ML": "2.1",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "04:12:24",
+            "Latitude": "37.0752",
+            "Longitude": "28.4658",
+            "Depth": "2.9",
+            "ML": "0.8",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.14",
             "Time": "03:13:47",
             "Latitude": "41.1297",
             "Longitude": "43.8993",
             "Depth": "5.0",
             "ML": "3.5",
             "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "02:31:37",
+            "Latitude": "39.2958",
+            "Longitude": "25.9102",
+            "Depth": "13.3",
+            "ML": "1.4",
+            "Location": "MIDILLI ADASI EGE DENIZI"
         },
         {
             "Date": "2022.04.14",
@@ -4409,60 +4463,6 @@
             "Depth": "16.1",
             "ML": "1.6",
             "Location": "MARMARA EREGLISI ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "09:43:32",
-            "Latitude": "41.1303",
-            "Longitude": "43.9602",
-            "Depth": "5.7",
-            "ML": "2.5",
-            "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "08:58:03",
-            "Latitude": "37.9302",
-            "Longitude": "26.7778",
-            "Depth": "7.2",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "08:51:52",
-            "Latitude": "38.3637",
-            "Longitude": "38.7997",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "KOZLUK KALE MALATYA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "08:00:41",
-            "Latitude": "37.0075",
-            "Longitude": "28.4397",
-            "Depth": "9.2",
-            "ML": "1.7",
-            "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "07:45:30",
-            "Latitude": "37.0078",
-            "Longitude": "28.6033",
-            "Depth": "26.3",
-            "ML": "1.0",
-            "Location": "DOGUSBELEN KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "07:38:09",
-            "Latitude": "37.0028",
-            "Longitude": "28.3932",
-            "Depth": "11.4",
-            "ML": "1.4",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
