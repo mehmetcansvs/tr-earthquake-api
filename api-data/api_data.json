@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.14",
+            "Time": "03:13:47",
+            "Latitude": "41.1297",
+            "Longitude": "43.8993",
+            "Depth": "5.0",
+            "ML": "3.5",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.04.14",
             "Time": "00:07:07",
             "Latitude": "35.9792",
             "Longitude": "27.6377",
@@ -4454,15 +4463,6 @@
             "Depth": "11.4",
             "ML": "1.4",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.05",
-            "Time": "06:59:17",
-            "Latitude": "37.0310",
-            "Longitude": "28.4135",
-            "Depth": "19.3",
-            "ML": "1.2",
-            "Location": "CITLIK ULA MUGLA"
         }
     ]
 }
