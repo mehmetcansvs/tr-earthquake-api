@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.15",
+            "Time": "13:05:42",
+            "Latitude": "36.1927",
+            "Longitude": "33.7128",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "YESILOVACIK SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.04.15",
+            "Time": "12:22:48",
+            "Latitude": "39.5295",
+            "Longitude": "25.9200",
+            "Depth": "7.5",
+            "ML": "1.7",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.15",
+            "Time": "11:49:00",
+            "Latitude": "37.7848",
+            "Longitude": "27.0077",
+            "Depth": "6.6",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.15",
+            "Time": "11:12:25",
+            "Latitude": "35.9942",
+            "Longitude": "27.6675",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.15",
             "Time": "09:32:48",
             "Latitude": "38.9440",
             "Longitude": "43.6523",
@@ -4436,42 +4472,6 @@
             "Depth": "8.7",
             "ML": "1.8",
             "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "15:28:18",
-            "Latitude": "37.0195",
-            "Longitude": "28.3858",
-            "Depth": "7.4",
-            "ML": "1.9",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "15:13:15",
-            "Latitude": "37.0035",
-            "Longitude": "28.3683",
-            "Depth": "12.2",
-            "ML": "2.2",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "14:06:52",
-            "Latitude": "37.1947",
-            "Longitude": "33.2157",
-            "Depth": "3.8",
-            "ML": "1.9",
-            "Location": "KARAMAN KARAMAN"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "13:20:46",
-            "Latitude": "39.2410",
-            "Longitude": "29.6842",
-            "Depth": "30.0",
-            "ML": "1.6",
-            "Location": "HACIKEBIR CAVDARHISAR KUTAHYA"
         }
     ]
 }
