@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.15",
+            "Time": "08:22:24",
+            "Latitude": "38.1395",
+            "Longitude": "38.6270",
+            "Depth": "1.7",
+            "ML": "2.8",
+            "Location": "TEKEDERESI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.15",
             "Time": "06:45:53",
             "Latitude": "38.2818",
             "Longitude": "38.8478",
@@ -4463,15 +4472,6 @@
             "Depth": "23.0",
             "ML": "1.4",
             "Location": "ORTACA MUGLA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "11:59:01",
-            "Latitude": "37.1525",
-            "Longitude": "37.2718",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "SAMMEZREASI SEHITKAMIL GAZIANTEP"
         }
     ]
 }
