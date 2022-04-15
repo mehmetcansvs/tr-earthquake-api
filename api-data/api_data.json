@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.15",
+            "Time": "09:32:48",
+            "Latitude": "38.9440",
+            "Longitude": "43.6523",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "KARAHAN MURADIYE VAN"
+        },
+        {
+            "Date": "2022.04.15",
+            "Time": "09:16:55",
+            "Latitude": "39.2012",
+            "Longitude": "41.5098",
+            "Depth": "22.0",
+            "ML": "1.6",
+            "Location": "CALTILI VARTO MUS"
+        },
+        {
+            "Date": "2022.04.15",
             "Time": "08:22:24",
             "Latitude": "38.1395",
             "Longitude": "38.6270",
@@ -4454,24 +4472,6 @@
             "Depth": "30.0",
             "ML": "1.6",
             "Location": "HACIKEBIR CAVDARHISAR KUTAHYA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "12:44:24",
-            "Latitude": "41.6550",
-            "Longitude": "41.8075",
-            "Depth": "15.2",
-            "ML": "2.1",
-            "Location": "TURKIYE GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "12:16:27",
-            "Latitude": "36.8178",
-            "Longitude": "28.8115",
-            "Depth": "23.0",
-            "ML": "1.4",
-            "Location": "ORTACA MUGLA"
         }
     ]
 }
