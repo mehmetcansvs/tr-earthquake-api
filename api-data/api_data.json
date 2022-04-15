@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.15",
+            "Time": "04:53:00",
+            "Latitude": "40.8112",
+            "Longitude": "30.9683",
+            "Depth": "16.1",
+            "ML": "2.8",
+            "Location": "YILDIZTEPE GUMUSOVA DUZCE"
+        },
+        {
+            "Date": "2022.04.15",
             "Time": "02:45:29",
             "Latitude": "37.8855",
             "Longitude": "26.9552",
@@ -4463,15 +4472,6 @@
             "Depth": "5.0",
             "ML": "3.2",
             "Location": "PASADUZU OVACIK TUNCELI"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "11:34:02",
-            "Latitude": "37.9172",
-            "Longitude": "42.0695",
-            "Depth": "7.9",
-            "ML": "2.4",
-            "Location": "MEYDANDERE SIIRT"
         }
     ]
 }
