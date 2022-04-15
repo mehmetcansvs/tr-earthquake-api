@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.15",
+            "Time": "19:30:25",
+            "Latitude": "38.3212",
+            "Longitude": "38.8748",
+            "Depth": "17.7",
+            "ML": "2.1",
+            "Location": "CIGIRLI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.15",
             "Time": "18:06:46",
             "Latitude": "38.1633",
             "Longitude": "38.6428",
@@ -4463,15 +4472,6 @@
             "Depth": "8.0",
             "ML": "1.7",
             "Location": "PINAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "19:44:27",
-            "Latitude": "36.8102",
-            "Longitude": "27.7793",
-            "Depth": "12.1",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
