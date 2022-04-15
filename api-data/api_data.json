@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.15",
+            "Time": "18:06:46",
+            "Latitude": "38.1633",
+            "Longitude": "38.6428",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "BASMEZRA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.15",
+            "Time": "17:37:43",
+            "Latitude": "36.0715",
+            "Longitude": "31.2407",
+            "Depth": "12.1",
+            "ML": "3.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.15",
             "Time": "16:48:18",
             "Latitude": "36.1463",
             "Longitude": "33.5183",
@@ -4454,24 +4472,6 @@
             "Depth": "12.1",
             "ML": "1.6",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "19:35:42",
-            "Latitude": "37.0143",
-            "Longitude": "28.3637",
-            "Depth": "4.9",
-            "ML": "1.3",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "19:24:34",
-            "Latitude": "40.7800",
-            "Longitude": "30.8282",
-            "Depth": "13.6",
-            "ML": "2.5",
-            "Location": "YESILVADI HENDEK SAKARYA"
         }
     ]
 }
