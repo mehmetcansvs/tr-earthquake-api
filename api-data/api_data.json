@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.15",
+            "Time": "06:45:53",
+            "Latitude": "38.2818",
+            "Longitude": "38.8478",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "YEDIYOL PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.15",
             "Time": "04:53:00",
             "Latitude": "40.8112",
             "Longitude": "30.9683",
@@ -4463,15 +4472,6 @@
             "Depth": "0.0",
             "ML": "1.6",
             "Location": "SAMMEZREASI SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "11:53:33",
-            "Latitude": "39.3660",
-            "Longitude": "39.2028",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "PASADUZU OVACIK TUNCELI"
         }
     ]
 }
