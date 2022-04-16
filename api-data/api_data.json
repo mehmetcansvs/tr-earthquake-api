@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.16",
+            "Time": "20:52:16",
+            "Latitude": "36.9897",
+            "Longitude": "28.8885",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "SAZAK KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "20:33:46",
+            "Latitude": "39.9073",
+            "Longitude": "34.1757",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "CAMLIBEL YERKOY YOZGAT"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "20:05:36",
+            "Latitude": "39.4662",
+            "Longitude": "27.8575",
+            "Depth": "9.1",
+            "ML": "2.4",
+            "Location": "TAYYIPLER BALIKESIR"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "19:16:43",
+            "Latitude": "39.1558",
+            "Longitude": "28.2785",
+            "Depth": "16.1",
+            "ML": "2.4",
+            "Location": "ISIKLAR SINDIRGI BALIKESIR"
+        },
+        {
+            "Date": "2022.04.16",
             "Time": "17:31:53",
             "Latitude": "36.1192",
             "Longitude": "33.5578",
@@ -4436,42 +4472,6 @@
             "Depth": "4.9",
             "ML": "1.4",
             "Location": "CANAKCI DEMIRCI MANISA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "07:00:37",
-            "Latitude": "37.8202",
-            "Longitude": "27.3153",
-            "Depth": "6.9",
-            "ML": "2.2",
-            "Location": "SOGUCAK KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "06:55:07",
-            "Latitude": "36.4980",
-            "Longitude": "29.5540",
-            "Depth": "9.5",
-            "ML": "1.8",
-            "Location": "YUVACIK KAS ANTALYA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "06:52:45",
-            "Latitude": "37.0680",
-            "Longitude": "28.3722",
-            "Depth": "4.4",
-            "ML": "0.9",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "06:44:57",
-            "Latitude": "38.2893",
-            "Longitude": "27.4967",
-            "Depth": "12.7",
-            "ML": "1.2",
-            "Location": "CINARDIBI BAYINDIR IZMIR"
         }
     ]
 }
