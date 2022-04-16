@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.16",
+            "Time": "03:54:21",
+            "Latitude": "39.4632",
+            "Longitude": "27.8605",
+            "Depth": "7.5",
+            "ML": "1.6",
+            "Location": "TAYYIPLER BALIKESIR"
+        },
+        {
+            "Date": "2022.04.16",
             "Time": "03:46:50",
             "Latitude": "38.5940",
             "Longitude": "31.5832",
@@ -4463,15 +4472,6 @@
             "Depth": "4.5",
             "ML": "2.7",
             "Location": "KARAYAVSAN POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "00:17:41",
-            "Latitude": "37.2457",
-            "Longitude": "37.1168",
-            "Depth": "5.4",
-            "ML": "1.4",
-            "Location": "ESKISARKAYA SEHITKAMIL GAZIANTEP"
         }
     ]
 }
