@@ -1,6 +1,105 @@
 {
     "data": [
         {
+            "Date": "2022.04.16",
+            "Time": "03:46:50",
+            "Latitude": "38.5940",
+            "Longitude": "31.5832",
+            "Depth": "12.6",
+            "ML": "1.8",
+            "Location": "MEVLUTLU TUZLUKCU KONYA"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "03:03:47",
+            "Latitude": "37.7518",
+            "Longitude": "27.0217",
+            "Depth": "7.6",
+            "ML": "1.7",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "02:58:24",
+            "Latitude": "39.8037",
+            "Longitude": "41.8170",
+            "Depth": "11.3",
+            "ML": "1.9",
+            "Location": "YEMLIK KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "02:50:04",
+            "Latitude": "39.7203",
+            "Longitude": "41.3415",
+            "Depth": "8.7",
+            "ML": "1.9",
+            "Location": "YALINCA TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "02:47:32",
+            "Latitude": "36.2332",
+            "Longitude": "26.9960",
+            "Depth": "8.9",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "02:42:46",
+            "Latitude": "35.2852",
+            "Longitude": "27.1875",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "02:26:53",
+            "Latitude": "37.0778",
+            "Longitude": "26.6195",
+            "Depth": "23.3",
+            "ML": "1.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "02:17:46",
+            "Latitude": "40.4462",
+            "Longitude": "26.2905",
+            "Depth": "16.2",
+            "ML": "1.6",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "02:06:52",
+            "Latitude": "40.4418",
+            "Longitude": "26.3082",
+            "Depth": "16.8",
+            "ML": "1.2",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "01:43:32",
+            "Latitude": "36.6707",
+            "Longitude": "28.1057",
+            "Depth": "13.4",
+            "ML": "2.4",
+            "Location": "SOGUTKOY MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "01:37:33",
+            "Latitude": "39.8358",
+            "Longitude": "41.7977",
+            "Depth": "7.3",
+            "ML": "2.0",
+            "Location": "MARIFET KOPRUKOY ERZURUM"
+        },
+        {
             "Date": "2022.04.15",
             "Time": "22:41:59",
             "Latitude": "37.7490",
@@ -4373,105 +4472,6 @@
             "Depth": "5.4",
             "ML": "1.4",
             "Location": "ESKISARKAYA SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "00:15:49",
-            "Latitude": "37.7123",
-            "Longitude": "33.0500",
-            "Depth": "9.1",
-            "ML": "2.1",
-            "Location": "ISMIL KARATAY KONYA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "00:07:46",
-            "Latitude": "40.6470",
-            "Longitude": "36.4023",
-            "Depth": "5.3",
-            "ML": "1.0",
-            "Location": "TANOBA ERBAA TOKAT"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "23:46:31",
-            "Latitude": "37.8605",
-            "Longitude": "26.5062",
-            "Depth": "11.8",
-            "ML": "1.4",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "23:31:35",
-            "Latitude": "37.0115",
-            "Longitude": "28.3677",
-            "Depth": "9.3",
-            "ML": "1.6",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "23:28:24",
-            "Latitude": "36.9703",
-            "Longitude": "27.6648",
-            "Depth": "2.3",
-            "ML": "1.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "23:19:21",
-            "Latitude": "37.8008",
-            "Longitude": "27.2465",
-            "Depth": "13.0",
-            "ML": "1.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "23:18:58",
-            "Latitude": "36.9790",
-            "Longitude": "27.6327",
-            "Depth": "6.9",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "23:18:21",
-            "Latitude": "36.9758",
-            "Longitude": "27.6358",
-            "Depth": "11.2",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "22:49:15",
-            "Latitude": "38.1958",
-            "Longitude": "30.9697",
-            "Depth": "6.7",
-            "ML": "1.4",
-            "Location": "KOKE GELENDOST ISPARTA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "22:38:49",
-            "Latitude": "37.0142",
-            "Longitude": "28.3808",
-            "Depth": "5.2",
-            "ML": "1.2",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.06",
-            "Time": "22:32:33",
-            "Latitude": "37.0157",
-            "Longitude": "28.3785",
-            "Depth": "12.3",
-            "ML": "1.5",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
