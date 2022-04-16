@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.16",
+            "Time": "13:29:00",
+            "Latitude": "37.6003",
+            "Longitude": "29.1690",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "TEKKEKOY TAVAS DENIZLI"
+        },
+        {
+            "Date": "2022.04.16",
             "Time": "12:39:22",
             "Latitude": "37.0990",
             "Longitude": "29.0645",
@@ -4463,15 +4472,6 @@
             "Depth": "12.9",
             "ML": "0.6",
             "Location": "KUYUCAK MUGLA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "03:55:26",
-            "Latitude": "38.3552",
-            "Longitude": "23.4050",
-            "Depth": "12.6",
-            "ML": "3.0",
-            "Location": "YUNANISTAN"
         }
     ]
 }
