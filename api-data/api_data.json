@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.16",
+            "Time": "17:31:53",
+            "Latitude": "36.1192",
+            "Longitude": "33.5578",
+            "Depth": "0.0",
+            "ML": "0.7",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.04.16",
             "Time": "16:39:38",
             "Latitude": "37.1125",
             "Longitude": "27.7002",
@@ -17,6 +26,15 @@
             "Depth": "9.8",
             "ML": "1.8",
             "Location": "AHLATCIK KASTAMONU"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "15:26:40",
+            "Latitude": "38.3547",
+            "Longitude": "22.6685",
+            "Depth": "29.6",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
         },
         {
             "Date": "2022.04.16",
@@ -4454,24 +4472,6 @@
             "Depth": "12.7",
             "ML": "1.2",
             "Location": "CINARDIBI BAYINDIR IZMIR"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "06:30:48",
-            "Latitude": "37.5723",
-            "Longitude": "29.2275",
-            "Depth": "4.2",
-            "ML": "1.1",
-            "Location": "SERINHISAR DENIZLI"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "06:10:40",
-            "Latitude": "35.7653",
-            "Longitude": "27.5178",
-            "Depth": "7.6",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
