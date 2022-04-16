@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.16",
+            "Time": "22:42:14",
+            "Latitude": "40.4950",
+            "Longitude": "30.5283",
+            "Depth": "9.4",
+            "ML": "1.2",
+            "Location": "TUZLA TARAKLI SAKARYA"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "21:44:45",
+            "Latitude": "38.7498",
+            "Longitude": "40.0340",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "KARAMAN KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "21:06:58",
+            "Latitude": "40.8440",
+            "Longitude": "31.6398",
+            "Depth": "22.0",
+            "ML": "1.6",
+            "Location": "CUKUROREN BOLU"
+        },
+        {
+            "Date": "2022.04.16",
             "Time": "20:52:16",
             "Latitude": "36.9897",
             "Longitude": "28.8885",
@@ -4445,33 +4472,6 @@
             "Depth": "5.0",
             "ML": "2.3",
             "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "08:24:14",
-            "Latitude": "37.7763",
-            "Longitude": "27.0128",
-            "Depth": "2.3",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "07:07:31",
-            "Latitude": "35.0262",
-            "Longitude": "23.3968",
-            "Depth": "27.2",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "07:05:40",
-            "Latitude": "39.0838",
-            "Longitude": "28.5935",
-            "Depth": "4.9",
-            "ML": "1.4",
-            "Location": "CANAKCI DEMIRCI MANISA"
         }
     ]
 }
