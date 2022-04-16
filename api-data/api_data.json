@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.16",
+            "Time": "08:11:38",
+            "Latitude": "37.0197",
+            "Longitude": "28.3683",
+            "Depth": "12.8",
+            "ML": "2.0",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.16",
             "Time": "03:54:21",
             "Latitude": "39.4632",
             "Longitude": "27.8605",
@@ -4463,15 +4472,6 @@
             "Depth": "10.2",
             "ML": "1.4",
             "Location": "SOGUKYURT ALASEHIR MANISA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "00:28:03",
-            "Latitude": "39.4688",
-            "Longitude": "32.3327",
-            "Depth": "4.5",
-            "ML": "2.7",
-            "Location": "KARAYAVSAN POLATLI ANKARA"
         }
     ]
 }
