@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "Date": "2022.04.17",
+            "Time": "00:54:05",
+            "Latitude": "41.1080",
+            "Longitude": "39.1365",
+            "Depth": "16.7",
+            "ML": "3.2",
+            "Location": "EYNESIL GIRESUN"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "00:39:31",
+            "Latitude": "40.2115",
+            "Longitude": "31.7125",
+            "Depth": "8.5",
+            "ML": "2.0",
+            "Location": "SEKLI BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "00:31:03",
+            "Latitude": "39.3253",
+            "Longitude": "25.4702",
+            "Depth": "9.7",
+            "ML": "3.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "23:55:34",
+            "Latitude": "36.4758",
+            "Longitude": "25.4450",
+            "Depth": "7.1",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "23:53:27",
+            "Latitude": "36.5377",
+            "Longitude": "25.4075",
+            "Depth": "15.4",
+            "ML": "3.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "23:34:19",
+            "Latitude": "37.0140",
+            "Longitude": "28.4272",
+            "Depth": "6.7",
+            "ML": "1.5",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "23:20:33",
+            "Latitude": "37.2915",
+            "Longitude": "29.5545",
+            "Depth": "15.2",
+            "ML": "1.6",
+            "Location": "CAMKOY GOLHISAR BURDUR"
+        },
+        {
             "Date": "2022.04.16",
             "Time": "22:42:14",
             "Latitude": "40.4950",
@@ -4409,69 +4472,6 @@
             "Depth": "5.4",
             "ML": "1.5",
             "Location": "YESILVADI HENDEK SAKARYA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "11:34:19",
-            "Latitude": "38.4515",
-            "Longitude": "23.3188",
-            "Depth": "8.7",
-            "ML": "2.8",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "11:29:00",
-            "Latitude": "37.0078",
-            "Longitude": "28.3402",
-            "Depth": "3.8",
-            "ML": "1.7",
-            "Location": "GOKCE ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "11:22:30",
-            "Latitude": "40.8033",
-            "Longitude": "34.1792",
-            "Depth": "12.3",
-            "ML": "1.9",
-            "Location": "YONCALI BAYAT CORUM"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "10:38:57",
-            "Latitude": "38.3605",
-            "Longitude": "23.3713",
-            "Depth": "14.1",
-            "ML": "3.7",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "10:37:33",
-            "Latitude": "35.3212",
-            "Longitude": "25.2580",
-            "Depth": "4.0",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "10:00:43",
-            "Latitude": "37.8168",
-            "Longitude": "27.2950",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "SOGUCAK KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "09:31:52",
-            "Latitude": "38.7032",
-            "Longitude": "43.0670",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "VAN GOLU"
         }
     ]
 }
