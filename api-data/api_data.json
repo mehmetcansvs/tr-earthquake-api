@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.16",
+            "Time": "10:47:55",
+            "Latitude": "39.4677",
+            "Longitude": "27.8425",
+            "Depth": "7.9",
+            "ML": "2.4",
+            "Location": "TAYYIPLER BALIKESIR"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "10:45:55",
+            "Latitude": "39.4602",
+            "Longitude": "27.8365",
+            "Depth": "9.6",
+            "ML": "2.2",
+            "Location": "TAYYIPLER BALIKESIR"
+        },
+        {
+            "Date": "2022.04.16",
+            "Time": "10:41:30",
+            "Latitude": "39.4565",
+            "Longitude": "27.8225",
+            "Depth": "8.5",
+            "ML": "2.3",
+            "Location": "KIRAZPINAR BALIKESIR"
+        },
+        {
+            "Date": "2022.04.16",
             "Time": "08:11:38",
             "Latitude": "37.0197",
             "Longitude": "28.3683",
@@ -4445,33 +4472,6 @@
             "Depth": "11.5",
             "ML": "2.6",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "01:31:50",
-            "Latitude": "35.2285",
-            "Longitude": "26.7280",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "01:24:53",
-            "Latitude": "37.1660",
-            "Longitude": "29.1862",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "CIFTLIK ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "01:21:16",
-            "Latitude": "38.3703",
-            "Longitude": "28.4097",
-            "Depth": "10.2",
-            "ML": "1.4",
-            "Location": "SOGUKYURT ALASEHIR MANISA"
         }
     ]
 }
