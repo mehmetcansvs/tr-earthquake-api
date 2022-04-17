@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.17",
+            "Time": "06:54:02",
+            "Latitude": "36.9648",
+            "Longitude": "27.6598",
+            "Depth": "10.0",
+            "ML": "2.0",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "06:27:30",
+            "Latitude": "38.1123",
+            "Longitude": "38.6040",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "TEKEDERESI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.17",
             "Time": "05:30:46",
             "Latitude": "36.4492",
             "Longitude": "27.8407",
@@ -4454,24 +4472,6 @@
             "Depth": "4.0",
             "ML": "1.1",
             "Location": "YAYLAKOY KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "23:27:32",
-            "Latitude": "36.4872",
-            "Longitude": "29.2825",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "ARIFLER FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "22:42:30",
-            "Latitude": "37.0835",
-            "Longitude": "28.4187",
-            "Depth": "7.1",
-            "ML": "1.6",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
