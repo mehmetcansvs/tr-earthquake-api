@@ -2,6 +2,141 @@
     "data": [
         {
             "Date": "2022.04.17",
+            "Time": "04:01:17",
+            "Latitude": "36.9842",
+            "Longitude": "27.6575",
+            "Depth": "2.3",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "03:56:04",
+            "Latitude": "37.7812",
+            "Longitude": "27.1958",
+            "Depth": "2.3",
+            "ML": "2.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "03:48:58",
+            "Latitude": "37.7632",
+            "Longitude": "27.1992",
+            "Depth": "6.1",
+            "ML": "2.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "03:01:00",
+            "Latitude": "36.8872",
+            "Longitude": "27.4962",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "02:50:24",
+            "Latitude": "35.8383",
+            "Longitude": "30.5672",
+            "Depth": "31.5",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "02:40:00",
+            "Latitude": "36.9547",
+            "Longitude": "27.6248",
+            "Depth": "8.3",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "02:27:32",
+            "Latitude": "39.2395",
+            "Longitude": "33.5898",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "KEKILLIALI KAMAN KIRSEHIR"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "02:19:02",
+            "Latitude": "37.0150",
+            "Longitude": "27.6897",
+            "Depth": "13.8",
+            "ML": "2.4",
+            "Location": "MAZIKOY BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "02:06:04",
+            "Latitude": "40.6805",
+            "Longitude": "30.4122",
+            "Depth": "15.4",
+            "ML": "1.8",
+            "Location": "KEMALIYE ARIFIYE SAKARYA"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "01:52:42",
+            "Latitude": "36.9442",
+            "Longitude": "27.6443",
+            "Depth": "7.5",
+            "ML": "1.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "01:51:24",
+            "Latitude": "39.0930",
+            "Longitude": "40.2772",
+            "Depth": "7.8",
+            "ML": "2.0",
+            "Location": "GUNGOREN BINGOL"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "01:50:19",
+            "Latitude": "36.9783",
+            "Longitude": "27.6857",
+            "Depth": "7.3",
+            "ML": "3.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "01:44:22",
+            "Latitude": "38.5203",
+            "Longitude": "25.5845",
+            "Depth": "15.4",
+            "ML": "2.4",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "01:35:22",
+            "Latitude": "39.1038",
+            "Longitude": "40.2762",
+            "Depth": "7.7",
+            "ML": "2.4",
+            "Location": "CELEBI KARAKOCAN ELAZIG"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "01:14:08",
+            "Latitude": "40.6288",
+            "Longitude": "24.0947",
+            "Depth": "7.7",
+            "ML": "3.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.17",
             "Time": "00:54:05",
             "Latitude": "41.1080",
             "Longitude": "39.1365",
@@ -4337,141 +4472,6 @@
             "Depth": "8.0",
             "ML": "2.0",
             "Location": "PIRAHMETLER BOLU"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "17:36:00",
-            "Latitude": "35.7083",
-            "Longitude": "25.6925",
-            "Depth": "9.4",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "17:23:29",
-            "Latitude": "37.5320",
-            "Longitude": "29.5263",
-            "Depth": "9.9",
-            "ML": "1.6",
-            "Location": "PINARBASI ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "17:22:59",
-            "Latitude": "38.3057",
-            "Longitude": "38.8977",
-            "Depth": "17.0",
-            "ML": "1.8",
-            "Location": "CIGIRLI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "16:27:57",
-            "Latitude": "40.0687",
-            "Longitude": "28.6717",
-            "Depth": "4.3",
-            "ML": "3.0",
-            "Location": "SINCANSARNIC MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "15:55:53",
-            "Latitude": "35.9652",
-            "Longitude": "29.0797",
-            "Depth": "16.5",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "15:36:56",
-            "Latitude": "40.0880",
-            "Longitude": "28.6827",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "DOGANALAN MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "15:27:45",
-            "Latitude": "40.0847",
-            "Longitude": "28.6533",
-            "Depth": "5.0",
-            "ML": "3.3",
-            "Location": "DOGANALAN MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "15:15:46",
-            "Latitude": "39.5232",
-            "Longitude": "31.5007",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "MEMIK SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "15:01:17",
-            "Latitude": "39.3497",
-            "Longitude": "31.5642",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "BALLIHISAR SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "14:44:41",
-            "Latitude": "38.4315",
-            "Longitude": "22.9638",
-            "Depth": "4.8",
-            "ML": "3.8",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "14:36:43",
-            "Latitude": "38.4095",
-            "Longitude": "23.1658",
-            "Depth": "1.4",
-            "ML": "3.5",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "13:38:08",
-            "Latitude": "41.1017",
-            "Longitude": "43.8873",
-            "Depth": "2.8",
-            "ML": "3.0",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "13:12:25",
-            "Latitude": "37.1897",
-            "Longitude": "39.8167",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "GUZLEK VIRANSEHIR SANLIURFA"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "12:32:01",
-            "Latitude": "34.9742",
-            "Longitude": "33.8963",
-            "Depth": "28.2",
-            "ML": "1.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.07",
-            "Time": "11:45:18",
-            "Latitude": "40.7818",
-            "Longitude": "30.8327",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "YESILVADI HENDEK SAKARYA"
         }
     ]
 }
