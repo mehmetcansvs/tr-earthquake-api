@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.17",
+            "Time": "12:53:45",
+            "Latitude": "36.9695",
+            "Longitude": "27.6113",
+            "Depth": "9.9",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "12:23:54",
+            "Latitude": "36.9757",
+            "Longitude": "27.6413",
+            "Depth": "13.1",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "12:16:04",
+            "Latitude": "39.5418",
+            "Longitude": "41.0997",
+            "Depth": "12.1",
+            "ML": "1.3",
+            "Location": "HATUNKOY CAT ERZURUM"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "11:51:37",
+            "Latitude": "37.0358",
+            "Longitude": "28.3785",
+            "Depth": "3.6",
+            "ML": "1.0",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "11:44:39",
+            "Latitude": "37.0155",
+            "Longitude": "27.6518",
+            "Depth": "7.2",
+            "ML": "2.0",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "11:07:43",
+            "Latitude": "36.9782",
+            "Longitude": "27.6737",
+            "Depth": "6.0",
+            "ML": "1.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
             "Time": "10:50:32",
             "Latitude": "37.0005",
             "Longitude": "27.6612",
@@ -4418,60 +4472,6 @@
             "Depth": "2.8",
             "ML": "3.0",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "05:26:48",
-            "Latitude": "38.6487",
-            "Longitude": "42.6510",
-            "Depth": "7.4",
-            "ML": "2.2",
-            "Location": "ADABAG TATVAN BITLIS"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "05:16:42",
-            "Latitude": "36.9310",
-            "Longitude": "27.6495",
-            "Depth": "3.9",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "05:14:17",
-            "Latitude": "36.8993",
-            "Longitude": "27.6238",
-            "Depth": "4.1",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "04:51:00",
-            "Latitude": "35.0442",
-            "Longitude": "26.8240",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "04:46:15",
-            "Latitude": "35.2053",
-            "Longitude": "26.6893",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "04:32:01",
-            "Latitude": "36.9922",
-            "Longitude": "23.2340",
-            "Depth": "6.3",
-            "ML": "3.7",
-            "Location": "YUNANISTAN"
         }
     ]
 }
