@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.17",
+            "Time": "08:20:27",
+            "Latitude": "37.0680",
+            "Longitude": "26.7268",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
             "Time": "06:54:02",
             "Latitude": "36.9648",
             "Longitude": "27.6598",
@@ -4463,15 +4472,6 @@
             "Depth": "3.8",
             "ML": "1.5",
             "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "00:36:44",
-            "Latitude": "37.7992",
-            "Longitude": "27.3265",
-            "Depth": "4.0",
-            "ML": "1.1",
-            "Location": "YAYLAKOY KUSADASI AYDIN"
         }
     ]
 }
