@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.17",
+            "Time": "16:31:29",
+            "Latitude": "36.9703",
+            "Longitude": "27.6613",
+            "Depth": "7.1",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "16:22:35",
+            "Latitude": "35.7287",
+            "Longitude": "27.8240",
+            "Depth": "4.7",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "15:59:48",
+            "Latitude": "40.6903",
+            "Longitude": "30.4202",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "KEMALIYE ARIFIYE SAKARYA"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "15:58:39",
+            "Latitude": "40.6812",
+            "Longitude": "30.4185",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "KEMALIYE ARIFIYE SAKARYA"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "15:45:44",
+            "Latitude": "36.9960",
+            "Longitude": "27.6538",
+            "Depth": "10.0",
+            "ML": "2.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.17",
+            "Time": "15:11:12",
+            "Latitude": "37.0832",
+            "Longitude": "35.8547",
+            "Depth": "24.7",
+            "ML": "1.2",
+            "Location": "INCETARLA CEYHAN ADANA"
+        },
+        {
+            "Date": "2022.04.17",
             "Time": "14:44:55",
             "Latitude": "37.3757",
             "Longitude": "35.1520",
@@ -4427,60 +4481,6 @@
             "Depth": "11.9",
             "ML": "1.7",
             "Location": "KIZILYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "15:30:55",
-            "Latitude": "37.0357",
-            "Longitude": "28.4010",
-            "Depth": "8.3",
-            "ML": "2.1",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "14:11:42",
-            "Latitude": "40.7973",
-            "Longitude": "26.6258",
-            "Depth": "13.9",
-            "ML": "1.0",
-            "Location": "IZZETIYE KESAN EDIRNE"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "13:47:01",
-            "Latitude": "39.7515",
-            "Longitude": "35.1398",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "MEHMETBEYLI SORGUN YOZGAT"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "13:12:20",
-            "Latitude": "36.1103",
-            "Longitude": "33.5380",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "12:44:36",
-            "Latitude": "39.5500",
-            "Longitude": "27.5500",
-            "Depth": "11.2",
-            "ML": "1.9",
-            "Location": "KUCUKYENICE IVRINDI BALIKESIR"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "12:43:43",
-            "Latitude": "38.1670",
-            "Longitude": "23.6497",
-            "Depth": "29.6",
-            "ML": "3.3",
-            "Location": "YUNANISTAN"
         }
     ]
 }
