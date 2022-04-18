@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.18",
+            "Time": "18:26:36",
+            "Latitude": "35.0565",
+            "Longitude": "24.0300",
+            "Depth": "21.7",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.18",
             "Time": "15:46:36",
             "Latitude": "38.2453",
             "Longitude": "42.7072",
@@ -4471,15 +4480,6 @@
             "Longitude": "28.4093",
             "Depth": "7.0",
             "ML": "2.5",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "08:57:55",
-            "Latitude": "37.0283",
-            "Longitude": "28.4290",
-            "Depth": "11.8",
-            "ML": "2.4",
             "Location": "CITLIK ULA MUGLA"
         }
     ]
