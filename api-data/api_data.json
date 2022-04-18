@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.18",
+            "Time": "13:40:58",
+            "Latitude": "35.8400",
+            "Longitude": "28.2023",
+            "Depth": "8.7",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "13:24:21",
+            "Latitude": "36.4065",
+            "Longitude": "34.2293",
+            "Depth": "4.9",
+            "ML": "1.6",
+            "Location": "KIZKALESI ERDEMLI MERSIN"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "13:20:21",
+            "Latitude": "39.2630",
+            "Longitude": "33.6103",
+            "Depth": "8.0",
+            "ML": "1.8",
+            "Location": "YENIKOY KAMAN KIRSEHIR"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "12:57:11",
+            "Latitude": "35.2928",
+            "Longitude": "25.2722",
+            "Depth": "3.9",
+            "ML": "3.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "12:51:17",
+            "Latitude": "37.0805",
+            "Longitude": "28.4453",
+            "Depth": "3.0",
+            "ML": "1.9",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.18",
             "Time": "11:45:46",
             "Latitude": "39.1303",
             "Longitude": "29.3005",
@@ -4436,51 +4481,6 @@
             "Depth": "1.4",
             "ML": "1.8",
             "Location": "KIRMACILI OSMANIYE"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "05:37:38",
-            "Latitude": "36.9645",
-            "Longitude": "27.3813",
-            "Depth": "6.6",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "05:30:11",
-            "Latitude": "42.5600",
-            "Longitude": "43.2735",
-            "Depth": "4.0",
-            "ML": "3.7",
-            "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "04:37:59",
-            "Latitude": "36.9777",
-            "Longitude": "27.6442",
-            "Depth": "3.1",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "04:26:28",
-            "Latitude": "36.9613",
-            "Longitude": "27.7245",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "04:21:03",
-            "Latitude": "36.9855",
-            "Longitude": "27.6768",
-            "Depth": "7.5",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
