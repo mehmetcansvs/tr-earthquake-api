@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "Date": "2022.04.19",
+            "Time": "00:41:43",
+            "Latitude": "36.3088",
+            "Longitude": "30.1693",
+            "Depth": "3.8",
+            "ML": "2.1",
+            "Location": "FINIKE ANTALYA"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "00:22:26",
+            "Latitude": "35.7625",
+            "Longitude": "28.2920",
+            "Depth": "11.5",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "00:11:49",
+            "Latitude": "38.4918",
+            "Longitude": "42.9690",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "23:21:31",
+            "Latitude": "35.5628",
+            "Longitude": "28.1942",
+            "Depth": "6.2",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "23:20:21",
+            "Latitude": "35.9292",
+            "Longitude": "28.2105",
+            "Depth": "16.1",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "23:17:22",
+            "Latitude": "35.7438",
+            "Longitude": "26.9682",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "23:15:22",
+            "Latitude": "35.7208",
+            "Longitude": "26.9483",
+            "Depth": "11.0",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
             "Date": "2022.04.18",
             "Time": "22:37:27",
             "Latitude": "38.9813",
@@ -4418,69 +4481,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "HAMZALI ORHANGAZI BURSA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "11:22:15",
-            "Latitude": "36.2612",
-            "Longitude": "26.9918",
-            "Depth": "6.1",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "11:21:16",
-            "Latitude": "39.5980",
-            "Longitude": "29.4033",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "KOPRUCEK TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "11:17:36",
-            "Latitude": "37.0173",
-            "Longitude": "28.4223",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "10:51:41",
-            "Latitude": "36.9092",
-            "Longitude": "28.0705",
-            "Depth": "3.1",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "10:50:21",
-            "Latitude": "36.8763",
-            "Longitude": "28.0483",
-            "Depth": "12.0",
-            "ML": "1.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "10:44:34",
-            "Latitude": "36.8100",
-            "Longitude": "28.0610",
-            "Depth": "8.3",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "10:42:39",
-            "Latitude": "36.8948",
-            "Longitude": "28.0475",
-            "Depth": "6.0",
-            "ML": "2.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
