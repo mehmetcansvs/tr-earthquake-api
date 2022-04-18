@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.18",
+            "Time": "05:55:54",
+            "Latitude": "40.7703",
+            "Longitude": "31.5032",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "05:28:27",
+            "Latitude": "37.0878",
+            "Longitude": "28.7212",
+            "Depth": "8.1",
+            "ML": "1.5",
+            "Location": "YAYLA KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.04.18",
             "Time": "05:14:17",
             "Latitude": "36.3033",
             "Longitude": "26.9157",
@@ -4463,24 +4481,6 @@
             "Depth": "9.7",
             "ML": "2.3",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "23:14:45",
-            "Latitude": "35.0558",
-            "Longitude": "26.7330",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "23:11:38",
-            "Latitude": "35.0698",
-            "Longitude": "25.1848",
-            "Depth": "6.1",
-            "ML": "3.1",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
