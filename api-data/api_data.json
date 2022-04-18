@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.18",
+            "Time": "07:37:20",
+            "Latitude": "37.0483",
+            "Longitude": "28.4315",
+            "Depth": "19.7",
+            "ML": "0.8",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "06:14:20",
+            "Latitude": "37.8932",
+            "Longitude": "26.9965",
+            "Depth": "14.4",
+            "ML": "1.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.18",
             "Time": "05:55:54",
             "Latitude": "40.7703",
             "Longitude": "31.5032",
@@ -4463,24 +4481,6 @@
             "Depth": "6.2",
             "ML": "2.3",
             "Location": "YAYLASOGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "00:01:52",
-            "Latitude": "37.0788",
-            "Longitude": "28.3887",
-            "Depth": "6.9",
-            "ML": "1.6",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "23:57:04",
-            "Latitude": "37.0372",
-            "Longitude": "28.3793",
-            "Depth": "9.7",
-            "ML": "2.3",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
