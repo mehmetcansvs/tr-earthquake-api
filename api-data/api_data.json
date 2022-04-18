@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.18",
+            "Time": "19:44:22",
+            "Latitude": "40.0860",
+            "Longitude": "28.6288",
+            "Depth": "7.1",
+            "ML": "2.1",
+            "Location": "ONAC MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "19:00:12",
+            "Latitude": "37.0052",
+            "Longitude": "28.4468",
+            "Depth": "11.4",
+            "ML": "1.5",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.18",
             "Time": "18:26:36",
             "Latitude": "35.0565",
             "Longitude": "24.0300",
@@ -4463,24 +4481,6 @@
             "Depth": "86.5",
             "ML": "2.3",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "09:40:47",
-            "Latitude": "36.9940",
-            "Longitude": "28.3890",
-            "Depth": "15.2",
-            "ML": "1.7",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "09:11:44",
-            "Latitude": "37.0252",
-            "Longitude": "28.4093",
-            "Depth": "7.0",
-            "ML": "2.5",
-            "Location": "CITLIK ULA MUGLA"
         }
     ]
 }
