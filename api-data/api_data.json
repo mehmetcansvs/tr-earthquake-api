@@ -2,12 +2,66 @@
     "data": [
         {
             "Date": "2022.04.18",
+            "Time": "02:44:06",
+            "Latitude": "35.9020",
+            "Longitude": "30.9072",
+            "Depth": "16.6",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "01:32:02",
+            "Latitude": "38.1938",
+            "Longitude": "37.1860",
+            "Depth": "8.1",
+            "ML": "1.1",
+            "Location": "ELBISTAN KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "01:09:39",
+            "Latitude": "37.0333",
+            "Longitude": "28.4463",
+            "Depth": "3.9",
+            "ML": "1.4",
+            "Location": "KIZILYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "00:59:44",
+            "Latitude": "38.2853",
+            "Longitude": "27.2527",
+            "Depth": "8.6",
+            "ML": "1.8",
+            "Location": "YESILKOY TORBALI IZMIR"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "00:57:28",
+            "Latitude": "37.9943",
+            "Longitude": "28.4398",
+            "Depth": "20.2",
+            "ML": "1.7",
+            "Location": "DEMIRCILER NAZILLI AYDIN"
+        },
+        {
+            "Date": "2022.04.18",
             "Time": "00:43:58",
             "Latitude": "38.9737",
             "Longitude": "41.9863",
             "Depth": "5.0",
             "ML": "2.5",
             "Location": "OGLAKKAYA BULANIK MUS"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "00:27:36",
+            "Latitude": "41.0752",
+            "Longitude": "33.8545",
+            "Depth": "10.8",
+            "ML": "1.2",
+            "Location": "YUKARIBERCIN TOSYA KASTAMONU"
         },
         {
             "Date": "2022.04.18",
@@ -4427,60 +4481,6 @@
             "Depth": "7.2",
             "ML": "1.5",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "22:52:38",
-            "Latitude": "37.0062",
-            "Longitude": "28.3662",
-            "Depth": "11.3",
-            "ML": "1.5",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "22:45:10",
-            "Latitude": "37.0138",
-            "Longitude": "28.3697",
-            "Depth": "12.6",
-            "ML": "1.5",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "22:44:24",
-            "Latitude": "37.0093",
-            "Longitude": "28.3647",
-            "Depth": "11.1",
-            "ML": "1.2",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "22:39:14",
-            "Latitude": "36.2500",
-            "Longitude": "27.0677",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "22:30:12",
-            "Latitude": "37.0025",
-            "Longitude": "28.3677",
-            "Depth": "3.6",
-            "ML": "1.0",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.08",
-            "Time": "22:16:49",
-            "Latitude": "36.9798",
-            "Longitude": "27.6527",
-            "Depth": "11.3",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
