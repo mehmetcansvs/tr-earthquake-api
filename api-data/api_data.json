@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.19",
+            "Time": "14:33:43",
+            "Latitude": "36.9710",
+            "Longitude": "27.6610",
+            "Depth": "7.5",
+            "ML": "2.0",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "13:58:23",
+            "Latitude": "36.9700",
+            "Longitude": "27.6243",
+            "Depth": "3.4",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "13:23:29",
+            "Latitude": "37.0023",
+            "Longitude": "28.3887",
+            "Depth": "4.9",
+            "ML": "1.6",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "13:02:03",
+            "Latitude": "37.8038",
+            "Longitude": "27.3132",
+            "Depth": "4.2",
+            "ML": "1.4",
+            "Location": "SOGUCAK KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "12:04:01",
+            "Latitude": "39.5365",
+            "Longitude": "27.3307",
+            "Depth": "3.4",
+            "ML": "1.8",
+            "Location": "KOBAKLAR HAVRAN BALIKESIR"
+        },
+        {
+            "Date": "2022.04.19",
             "Time": "12:01:40",
             "Latitude": "37.9287",
             "Longitude": "29.2352",
@@ -296,6 +341,15 @@
             "Depth": "18.7",
             "ML": "1.0",
             "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "20:18:06",
+            "Latitude": "34.8300",
+            "Longitude": "23.7115",
+            "Depth": "21.7",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.04.18",
@@ -2312,6 +2366,15 @@
             "Depth": "9.4",
             "ML": "1.7",
             "Location": "YESILOBA YUNAK KONYA"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "14:37:16",
+            "Latitude": "36.3163",
+            "Longitude": "28.5813",
+            "Depth": "19.2",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.04.14",
@@ -4418,69 +4481,6 @@
             "Depth": "11.9",
             "ML": "1.9",
             "Location": "KARAKOY AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "23:58:35",
-            "Latitude": "37.0832",
-            "Longitude": "28.4323",
-            "Depth": "8.9",
-            "ML": "2.0",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "23:31:04",
-            "Latitude": "38.1672",
-            "Longitude": "38.6253",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "BASMEZRA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "23:11:10",
-            "Latitude": "38.1657",
-            "Longitude": "38.6153",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "BASMEZRA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "23:08:02",
-            "Latitude": "38.1592",
-            "Longitude": "38.6087",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "TEKEDERESI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "23:05:59",
-            "Latitude": "38.1482",
-            "Longitude": "38.5982",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "TEKEDERESI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "22:34:47",
-            "Latitude": "38.1312",
-            "Longitude": "38.6470",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "UCYAKA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "22:33:53",
-            "Latitude": "38.2017",
-            "Longitude": "38.6545",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "SOGUTLU PUTURGE MALATYA"
         }
     ]
 }
