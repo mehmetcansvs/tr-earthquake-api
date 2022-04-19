@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.19",
+            "Time": "22:56:33",
+            "Latitude": "39.7240",
+            "Longitude": "23.8142",
+            "Depth": "21.7",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "21:42:57",
+            "Latitude": "37.2710",
+            "Longitude": "29.5917",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "KUCUKALAN CAVDIR BURDUR"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "21:15:29",
+            "Latitude": "38.6930",
+            "Longitude": "28.0728",
+            "Depth": "7.7",
+            "ML": "1.6",
+            "Location": "KURTTUTAN SALIHLI MANISA"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "21:08:06",
+            "Latitude": "37.0053",
+            "Longitude": "34.4028",
+            "Depth": "7.1",
+            "ML": "1.6",
+            "Location": "KURUDERE TOROSLAR MERSIN"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "20:48:59",
+            "Latitude": "38.3085",
+            "Longitude": "38.8257",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "BOLUKKAYA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "20:47:16",
+            "Latitude": "40.5112",
+            "Longitude": "42.6023",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "BEYKOY SELIM KARS"
+        },
+        {
+            "Date": "2022.04.19",
             "Time": "18:34:40",
             "Latitude": "37.0047",
             "Longitude": "29.1882",
@@ -4427,60 +4481,6 @@
             "Depth": "4.9",
             "ML": "2.6",
             "Location": "YENIKOY KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "06:30:55",
-            "Latitude": "39.0735",
-            "Longitude": "29.5780",
-            "Depth": "25.3",
-            "ML": "1.6",
-            "Location": "SAMRALAR GEDIZ KUTAHYA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "06:28:07",
-            "Latitude": "38.3623",
-            "Longitude": "23.4905",
-            "Depth": "5.0",
-            "ML": "3.8",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "06:07:15",
-            "Latitude": "37.1215",
-            "Longitude": "28.6013",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "ARICILAR ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "06:06:54",
-            "Latitude": "37.3590",
-            "Longitude": "35.0108",
-            "Depth": "6.6",
-            "ML": "1.6",
-            "Location": "GILDIRLI KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "06:00:55",
-            "Latitude": "37.0202",
-            "Longitude": "28.3985",
-            "Depth": "9.8",
-            "ML": "1.7",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "05:45:43",
-            "Latitude": "37.0038",
-            "Longitude": "28.3645",
-            "Depth": "15.7",
-            "ML": "1.2",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
