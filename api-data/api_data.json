@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.19",
+            "Time": "10:59:41",
+            "Latitude": "37.2708",
+            "Longitude": "29.5630",
+            "Depth": "3.7",
+            "ML": "2.2",
+            "Location": "CAMKOY GOLHISAR BURDUR"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "10:23:53",
+            "Latitude": "37.2353",
+            "Longitude": "29.5547",
+            "Depth": "26.8",
+            "ML": "1.7",
+            "Location": "CAMKOY GOLHISAR BURDUR"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "10:17:34",
+            "Latitude": "37.3503",
+            "Longitude": "35.0468",
+            "Depth": "3.6",
+            "ML": "3.0",
+            "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "09:45:56",
+            "Latitude": "35.3348",
+            "Longitude": "25.3782",
+            "Depth": "1.5",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "09:35:16",
+            "Latitude": "39.4723",
+            "Longitude": "32.3233",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "KARAYAVSAN POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "09:32:11",
+            "Latitude": "36.9828",
+            "Longitude": "27.6373",
+            "Depth": "8.2",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
             "Time": "07:47:13",
             "Latitude": "40.8677",
             "Longitude": "31.7057",
@@ -272,6 +326,15 @@
         },
         {
             "Date": "2022.04.18",
+            "Time": "15:38:15",
+            "Latitude": "35.2897",
+            "Longitude": "25.3352",
+            "Depth": "15.9",
+            "ML": "1.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.18",
             "Time": "15:14:01",
             "Latitude": "40.5072",
             "Longitude": "25.5075",
@@ -308,6 +371,15 @@
         },
         {
             "Date": "2022.04.18",
+            "Time": "13:49:37",
+            "Latitude": "35.4125",
+            "Longitude": "25.3262",
+            "Depth": "5.1",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.18",
             "Time": "13:40:58",
             "Latitude": "35.8400",
             "Longitude": "28.2023",
@@ -332,6 +404,15 @@
             "Depth": "8.0",
             "ML": "1.8",
             "Location": "YENIKOY KAMAN KIRSEHIR"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "13:06:19",
+            "Latitude": "35.0485",
+            "Longitude": "25.2885",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.04.18",
@@ -440,6 +521,15 @@
             "Depth": "48.5",
             "ML": "1.7",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "04:42:58",
+            "Latitude": "34.7362",
+            "Longitude": "23.5512",
+            "Depth": "20.1",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.04.18",
@@ -4400,87 +4490,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "19:26:49",
-            "Latitude": "38.1445",
-            "Longitude": "38.6293",
-            "Depth": "1.2",
-            "ML": "1.9",
-            "Location": "TEKEDERESI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "19:24:09",
-            "Latitude": "36.9805",
-            "Longitude": "27.5120",
-            "Depth": "11.2",
-            "ML": "2.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "19:10:32",
-            "Latitude": "38.1320",
-            "Longitude": "38.6240",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "TEKEDERESI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "18:59:00",
-            "Latitude": "38.1517",
-            "Longitude": "38.6608",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "BASMEZRA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "18:49:20",
-            "Latitude": "38.1738",
-            "Longitude": "38.6697",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "ESENLIK PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "18:39:00",
-            "Latitude": "38.1057",
-            "Longitude": "38.7260",
-            "Depth": "5.0",
-            "ML": "3.4",
-            "Location": "ALICERI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "18:37:46",
-            "Latitude": "38.1317",
-            "Longitude": "38.6450",
-            "Depth": "5.5",
-            "ML": "3.7",
-            "Location": "UCYAKA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "18:37:06",
-            "Latitude": "38.1355",
-            "Longitude": "38.6355",
-            "Depth": "5.0",
-            "ML": "3.9",
-            "Location": "UCYAKA PUTURGE MALATYA REVIZE TEKEDERESI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "18:04:40",
-            "Latitude": "36.9885",
-            "Longitude": "28.3400",
-            "Depth": "10.4",
-            "ML": "2.0",
-            "Location": "CETIBELI MARMARIS MUGLA"
         }
     ]
 }
