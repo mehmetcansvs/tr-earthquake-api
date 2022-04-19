@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.19",
+            "Time": "07:47:13",
+            "Latitude": "40.8677",
+            "Longitude": "31.7057",
+            "Depth": "4.6",
+            "ML": "2.2",
+            "Location": "MESCICELE BOLU"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "07:39:36",
+            "Latitude": "36.1318",
+            "Longitude": "28.9623",
+            "Depth": "8.2",
+            "ML": "1.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "06:18:17",
+            "Latitude": "36.0315",
+            "Longitude": "28.8052",
+            "Depth": "7.4",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
             "Time": "05:38:16",
             "Latitude": "36.9947",
             "Longitude": "28.3787",
@@ -17,6 +44,15 @@
             "Depth": "7.1",
             "ML": "1.8",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "04:14:15",
+            "Latitude": "37.6523",
+            "Longitude": "27.0135",
+            "Depth": "15.8",
+            "ML": "1.1",
+            "Location": "MILLI PARK KUSADASI AYDIN"
         },
         {
             "Date": "2022.04.19",
@@ -4445,42 +4481,6 @@
             "Depth": "10.4",
             "ML": "2.0",
             "Location": "CETIBELI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "17:22:10",
-            "Latitude": "38.1373",
-            "Longitude": "38.6330",
-            "Depth": "5.3",
-            "ML": "2.8",
-            "Location": "TEKEDERESI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "17:02:13",
-            "Latitude": "38.1503",
-            "Longitude": "38.6062",
-            "Depth": "5.0",
-            "ML": "5.1",
-            "Location": "TEKEDERESI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "16:42:56",
-            "Latitude": "34.8570",
-            "Longitude": "32.5372",
-            "Depth": "11.7",
-            "ML": "2.1",
-            "Location": "KIBRIS RUM KESIMI"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "15:36:07",
-            "Latitude": "40.3908",
-            "Longitude": "27.9762",
-            "Depth": "14.5",
-            "ML": "1.4",
-            "Location": "BANDIRMA KORFEZI MARMARA DENIZI"
         }
     ]
 }
