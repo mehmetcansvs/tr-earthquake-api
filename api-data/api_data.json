@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.19",
+            "Time": "18:34:40",
+            "Latitude": "37.0047",
+            "Longitude": "29.1882",
+            "Depth": "6.0",
+            "ML": "2.3",
+            "Location": "KIRAZLIYAYLA CAMELI DENIZLI"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "17:11:45",
+            "Latitude": "36.9400",
+            "Longitude": "28.8603",
+            "Depth": "7.1",
+            "ML": "2.0",
+            "Location": "PINAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "16:50:22",
+            "Latitude": "37.3582",
+            "Longitude": "35.0195",
+            "Depth": "3.1",
+            "ML": "2.0",
+            "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.19",
             "Time": "16:18:38",
             "Latitude": "39.4533",
             "Longitude": "31.6090",
@@ -4454,33 +4481,6 @@
             "Depth": "5.0",
             "ML": "3.4",
             "Location": "ATMACA VAN"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "05:12:31",
-            "Latitude": "38.3397",
-            "Longitude": "23.4693",
-            "Depth": "74.2",
-            "ML": "4.2",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "05:08:09",
-            "Latitude": "38.1090",
-            "Longitude": "38.5820",
-            "Depth": "5.0",
-            "ML": "3.8",
-            "Location": "ARIKONAK SINCIK ADIYAMAN"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "05:00:49",
-            "Latitude": "37.0448",
-            "Longitude": "27.7815",
-            "Depth": "11.9",
-            "ML": "1.5",
-            "Location": "GOKBEL MILAS MUGLA"
         }
     ]
 }
