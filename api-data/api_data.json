@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.04.19",
-            "Time": "10:59:41",
-            "Latitude": "37.2708",
-            "Longitude": "29.5630",
-            "Depth": "3.7",
-            "ML": "2.2",
-            "Location": "CAMKOY GOLHISAR BURDUR"
+            "Time": "12:01:40",
+            "Latitude": "37.9287",
+            "Longitude": "29.2352",
+            "Depth": "25.4",
+            "ML": "1.2",
+            "Location": "GUZELPINAR DENIZLI"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "11:56:53",
+            "Latitude": "36.9515",
+            "Longitude": "27.3997",
+            "Depth": "6.6",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "11:47:21",
+            "Latitude": "38.3292",
+            "Longitude": "38.8000",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "CANAKCI KALE MALATYA REVIZE CAMKOY GOLHISAR BURDUR"
         },
         {
             "Date": "2022.04.19",
@@ -314,6 +332,15 @@
             "Depth": "21.7",
             "ML": "3.0",
             "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.18",
+            "Time": "16:04:06",
+            "Latitude": "37.8690",
+            "Longitude": "25.3900",
+            "Depth": "9.1",
+            "ML": "2.4",
+            "Location": "EGE DENIZI"
         },
         {
             "Date": "2022.04.18",
@@ -4454,42 +4481,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "SOGUTLU PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "21:56:15",
-            "Latitude": "38.1653",
-            "Longitude": "38.6727",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "ESENLIK PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "21:29:15",
-            "Latitude": "38.1648",
-            "Longitude": "38.6177",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "BASMEZRA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "20:30:22",
-            "Latitude": "38.1503",
-            "Longitude": "38.6488",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "BASMEZRA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "19:58:44",
-            "Latitude": "37.0075",
-            "Longitude": "28.4305",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "YESILCAM ULA MUGLA"
         }
     ]
 }
