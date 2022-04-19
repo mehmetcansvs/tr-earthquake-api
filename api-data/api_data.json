@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.19",
+            "Time": "05:38:16",
+            "Latitude": "36.9947",
+            "Longitude": "28.3787",
+            "Depth": "13.6",
+            "ML": "1.5",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "04:30:38",
+            "Latitude": "37.8843",
+            "Longitude": "26.8977",
+            "Depth": "7.1",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "04:00:11",
+            "Latitude": "36.6985",
+            "Longitude": "28.4630",
+            "Depth": "5.4",
+            "ML": "0.9",
+            "Location": "MARMARIS ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "03:55:23",
+            "Latitude": "37.0758",
+            "Longitude": "28.3578",
+            "Depth": "28.6",
+            "ML": "1.0",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "03:41:22",
+            "Latitude": "37.0415",
+            "Longitude": "28.4052",
+            "Depth": "7.5",
+            "ML": "1.6",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.19",
             "Time": "03:40:41",
             "Latitude": "35.9585",
             "Longitude": "36.3162",
@@ -4436,51 +4481,6 @@
             "Depth": "14.5",
             "ML": "1.4",
             "Location": "BANDIRMA KORFEZI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "14:10:23",
-            "Latitude": "37.2780",
-            "Longitude": "37.4240",
-            "Depth": "3.0",
-            "ML": "1.4",
-            "Location": "YAYIKTAS SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "14:06:43",
-            "Latitude": "36.2070",
-            "Longitude": "33.7145",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "ISIKLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "14:02:18",
-            "Latitude": "36.9848",
-            "Longitude": "28.7420",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "ZEYTINALANI KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "13:57:35",
-            "Latitude": "35.8430",
-            "Longitude": "28.1938",
-            "Depth": "5.6",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.09",
-            "Time": "13:37:42",
-            "Latitude": "40.6183",
-            "Longitude": "30.2572",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "IKRAMIYE SAPANCA SAKARYA"
         }
     ]
 }
