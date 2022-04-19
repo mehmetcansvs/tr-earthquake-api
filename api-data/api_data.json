@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.19",
+            "Time": "16:18:38",
+            "Latitude": "39.4533",
+            "Longitude": "31.6090",
+            "Depth": "3.2",
+            "ML": "1.8",
+            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "15:21:43",
+            "Latitude": "40.8840",
+            "Longitude": "31.7295",
+            "Depth": "5.3",
+            "ML": "1.7",
+            "Location": "TETEMECELE BOLU"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "15:19:53",
+            "Latitude": "36.5150",
+            "Longitude": "25.3080",
+            "Depth": "7.9",
+            "ML": "3.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "15:17:14",
+            "Latitude": "36.3593",
+            "Longitude": "25.3867",
+            "Depth": "13.8",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "15:11:11",
+            "Latitude": "35.3757",
+            "Longitude": "27.7333",
+            "Depth": "10.1",
+            "ML": "2.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "15:05:46",
+            "Latitude": "40.8238",
+            "Longitude": "28.1983",
+            "Depth": "11.7",
+            "ML": "1.5",
+            "Location": "SILIVRI ACIKLARI ISTANBUL MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.19",
             "Time": "14:33:43",
             "Latitude": "36.9710",
             "Longitude": "27.6610",
@@ -11,12 +65,39 @@
         },
         {
             "Date": "2022.04.19",
+            "Time": "14:32:21",
+            "Latitude": "39.5522",
+            "Longitude": "25.2993",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "14:10:51",
+            "Latitude": "40.8548",
+            "Longitude": "31.8272",
+            "Depth": "13.2",
+            "ML": "1.2",
+            "Location": "AFSAR MENGEN BOLU"
+        },
+        {
+            "Date": "2022.04.19",
             "Time": "13:58:23",
             "Latitude": "36.9700",
             "Longitude": "27.6243",
             "Depth": "3.4",
             "ML": "1.8",
             "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "13:38:07",
+            "Latitude": "37.2517",
+            "Longitude": "31.7200",
+            "Depth": "3.0",
+            "ML": "1.9",
+            "Location": "SALIHLER AKSEKI ANTALYA"
         },
         {
             "Date": "2022.04.19",
@@ -2378,6 +2459,15 @@
         },
         {
             "Date": "2022.04.14",
+            "Time": "14:27:43",
+            "Latitude": "38.5675",
+            "Longitude": "31.8712",
+            "Depth": "14.5",
+            "ML": "1.6",
+            "Location": "YESILOBA YUNAK KONYA"
+        },
+        {
+            "Date": "2022.04.14",
             "Time": "14:15:34",
             "Latitude": "36.1655",
             "Longitude": "33.5473",
@@ -2468,6 +2558,15 @@
         },
         {
             "Date": "2022.04.14",
+            "Time": "11:37:56",
+            "Latitude": "38.1130",
+            "Longitude": "38.6132",
+            "Depth": "4.8",
+            "ML": "1.9",
+            "Location": "TEKEDERESI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.14",
             "Time": "11:35:53",
             "Latitude": "37.7960",
             "Longitude": "27.0270",
@@ -2483,6 +2582,15 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "CEVRIMTAS SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.04.14",
+            "Time": "10:11:37",
+            "Latitude": "39.7213",
+            "Longitude": "27.9145",
+            "Depth": "8.2",
+            "ML": "1.8",
+            "Location": "ZIYARETLI BALIKESIR"
         },
         {
             "Date": "2022.04.14",
@@ -4373,114 +4481,6 @@
             "Depth": "11.9",
             "ML": "1.5",
             "Location": "GOKBEL MILAS MUGLA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "04:51:06",
-            "Latitude": "38.3592",
-            "Longitude": "28.4208",
-            "Depth": "8.8",
-            "ML": "2.2",
-            "Location": "SOGUKYURT ALASEHIR MANISA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "03:38:32",
-            "Latitude": "36.9698",
-            "Longitude": "27.6392",
-            "Depth": "14.1",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "03:37:28",
-            "Latitude": "36.9580",
-            "Longitude": "27.6257",
-            "Depth": "7.2",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "03:32:30",
-            "Latitude": "36.9712",
-            "Longitude": "27.6427",
-            "Depth": "10.0",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "03:11:27",
-            "Latitude": "37.0142",
-            "Longitude": "28.4132",
-            "Depth": "15.1",
-            "ML": "1.5",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "02:37:29",
-            "Latitude": "38.1873",
-            "Longitude": "38.6573",
-            "Depth": "1.1",
-            "ML": "1.7",
-            "Location": "ARITOPRAK PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "02:26:34",
-            "Latitude": "38.1772",
-            "Longitude": "38.6695",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "ARITOPRAK PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "01:15:39",
-            "Latitude": "40.4492",
-            "Longitude": "30.6757",
-            "Depth": "9.3",
-            "ML": "1.2",
-            "Location": "KASIKCISEYHLER GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "01:11:12",
-            "Latitude": "36.9882",
-            "Longitude": "27.6400",
-            "Depth": "7.4",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "00:54:50",
-            "Latitude": "38.1587",
-            "Longitude": "38.6335",
-            "Depth": "5.3",
-            "ML": "1.4",
-            "Location": "BASMEZRA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "00:48:38",
-            "Latitude": "38.1220",
-            "Longitude": "38.5965",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "TEKEDERESI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "00:32:49",
-            "Latitude": "39.0090",
-            "Longitude": "27.9425",
-            "Depth": "11.9",
-            "ML": "1.9",
-            "Location": "KARAKOY AKHISAR MANISA"
         }
     ]
 }
