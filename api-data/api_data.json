@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.20",
+            "Time": "15:10:51",
+            "Latitude": "36.4522",
+            "Longitude": "25.0047",
+            "Depth": "9.6",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "13:58:58",
+            "Latitude": "40.6205",
+            "Longitude": "26.5635",
+            "Depth": "4.4",
+            "ML": "1.1",
+            "Location": "MECIDIYE KESAN EDIRNE"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "13:16:53",
+            "Latitude": "36.5012",
+            "Longitude": "29.2317",
+            "Depth": "22.3",
+            "ML": "2.3",
+            "Location": "MINARE FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "13:15:46",
+            "Latitude": "36.7460",
+            "Longitude": "34.3673",
+            "Depth": "1.4",
+            "ML": "1.0",
+            "Location": "TOMEKLI ERDEMLI MERSIN"
+        },
+        {
+            "Date": "2022.04.20",
             "Time": "11:13:56",
             "Latitude": "41.0803",
             "Longitude": "26.7727",
@@ -20,21 +56,12 @@
         },
         {
             "Date": "2022.04.20",
-            "Time": "11:01:06",
-            "Latitude": "41.3898",
-            "Longitude": "33.0088",
-            "Depth": "10.1",
-            "ML": "1.9",
-            "Location": "KARACAPINAR EFLANI KARABUK"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "10:32:34",
-            "Latitude": "39.7540",
-            "Longitude": "33.7123",
-            "Depth": "15.3",
-            "ML": "1.3",
-            "Location": "KAVLAK KESKIN KIRIKKALE"
+            "Time": "11:01:07",
+            "Latitude": "41.3980",
+            "Longitude": "32.9547",
+            "Depth": "6.3",
+            "ML": "2.1",
+            "Location": "GELICEK EFLANI KARABUK REVIZE KAVLAK KESKIN KIRIKKALE"
         },
         {
             "Date": "2022.04.20",
@@ -638,6 +665,15 @@
             "Depth": "16.5",
             "ML": "2.5",
             "Location": "KOLCULAR ALTINOZU HATAY"
+        },
+        {
+            "Date": "2022.04.19",
+            "Time": "02:31:47",
+            "Latitude": "34.8662",
+            "Longitude": "24.6718",
+            "Depth": "3.6",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.04.19",
@@ -4427,51 +4463,6 @@
             "Depth": "10.1",
             "ML": "2.0",
             "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "22:50:24",
-            "Latitude": "38.9790",
-            "Longitude": "43.7137",
-            "Depth": "9.1",
-            "ML": "2.5",
-            "Location": "ACIKYOL MURADIYE VAN"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "22:34:39",
-            "Latitude": "39.6902",
-            "Longitude": "26.0973",
-            "Depth": "13.0",
-            "ML": "2.2",
-            "Location": "TAVAKLI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "21:57:18",
-            "Latitude": "34.3805",
-            "Longitude": "25.6858",
-            "Depth": "83.9",
-            "ML": "3.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "21:22:14",
-            "Latitude": "40.7735",
-            "Longitude": "27.4628",
-            "Depth": "16.7",
-            "ML": "2.7",
-            "Location": "YENIKOY TEKIRDAG"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "21:06:45",
-            "Latitude": "37.0112",
-            "Longitude": "28.3715",
-            "Depth": "9.9",
-            "ML": "1.7",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
