@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.04.21",
+            "Time": "01:07:57",
+            "Latitude": "40.6577",
+            "Longitude": "27.4012",
+            "Depth": "9.7",
+            "ML": "1.4",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "23:18:58",
+            "Latitude": "38.2822",
+            "Longitude": "38.1600",
+            "Depth": "7.4",
+            "ML": "1.6",
+            "Location": "SEYITUSAGI YESILYURT MALATYA"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "23:12:12",
+            "Latitude": "37.0412",
+            "Longitude": "28.4028",
+            "Depth": "20.2",
+            "ML": "1.4",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "23:09:47",
+            "Latitude": "37.0407",
+            "Longitude": "28.3590",
+            "Depth": "21.6",
+            "ML": "1.2",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "23:09:42",
+            "Latitude": "40.6203",
+            "Longitude": "27.7945",
+            "Depth": "16.2",
+            "ML": "2.0",
+            "Location": "ERDEK ACIKLARI BALIKESIR MARMARA DENIZI"
+        },
+        {
             "Date": "2022.04.20",
             "Time": "23:04:18",
             "Latitude": "40.6105",
@@ -8,6 +53,33 @@
             "Depth": "15.3",
             "ML": "2.9",
             "Location": "ERDEK ACIKLARI BALIKESIR MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "22:44:35",
+            "Latitude": "42.5325",
+            "Longitude": "26.1953",
+            "Depth": "8.0",
+            "ML": "2.3",
+            "Location": "BULGARISTAN"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "22:08:43",
+            "Latitude": "35.3287",
+            "Longitude": "23.5052",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "22:03:33",
+            "Latitude": "35.3225",
+            "Longitude": "23.7525",
+            "Depth": "19.6",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.04.20",
@@ -4391,78 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "YAZICA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "09:03:55",
-            "Latitude": "37.3567",
-            "Longitude": "35.0823",
-            "Depth": "9.8",
-            "ML": "1.0",
-            "Location": "CUKUR KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "09:00:13",
-            "Latitude": "38.2775",
-            "Longitude": "28.6450",
-            "Depth": "8.2",
-            "ML": "1.7",
-            "Location": "HACIALILER ALASEHIR MANISA"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "08:58:10",
-            "Latitude": "37.0305",
-            "Longitude": "28.4465",
-            "Depth": "15.3",
-            "ML": "1.6",
-            "Location": "KIZILYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "08:51:06",
-            "Latitude": "36.7838",
-            "Longitude": "28.0357",
-            "Depth": "11.7",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "08:46:01",
-            "Latitude": "36.8268",
-            "Longitude": "28.0388",
-            "Depth": "12.3",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "08:00:05",
-            "Latitude": "37.8205",
-            "Longitude": "27.3232",
-            "Depth": "5.1",
-            "ML": "1.9",
-            "Location": "KIRAZLI KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "06:34:56",
-            "Latitude": "40.2727",
-            "Longitude": "36.3582",
-            "Depth": "1.5",
-            "ML": "3.5",
-            "Location": "KUCUKBAGLAR TOKAT"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "05:55:41",
-            "Latitude": "38.3788",
-            "Longitude": "23.4668",
-            "Depth": "4.2",
-            "ML": "2.5",
-            "Location": "YUNANISTAN"
         }
     ]
 }
