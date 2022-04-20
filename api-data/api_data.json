@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.20",
+            "Time": "11:01:06",
+            "Latitude": "41.3898",
+            "Longitude": "33.0088",
+            "Depth": "10.1",
+            "ML": "1.9",
+            "Location": "KARACAPINAR EFLANI KARABUK"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "09:09:15",
+            "Latitude": "37.2172",
+            "Longitude": "29.0460",
+            "Depth": "8.8",
+            "ML": "1.7",
+            "Location": "ALPA TAVAS DENIZLI"
+        },
+        {
+            "Date": "2022.04.20",
             "Time": "07:27:43",
             "Latitude": "37.8717",
             "Longitude": "26.9780",
@@ -281,6 +299,15 @@
         },
         {
             "Date": "2022.04.19",
+            "Time": "16:32:15",
+            "Latitude": "35.3753",
+            "Longitude": "27.8167",
+            "Depth": "8.6",
+            "ML": "2.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.19",
             "Time": "16:24:01",
             "Latitude": "37.0372",
             "Longitude": "28.4590",
@@ -299,12 +326,12 @@
         },
         {
             "Date": "2022.04.19",
-            "Time": "15:45:51",
-            "Latitude": "37.0513",
-            "Longitude": "28.4293",
-            "Depth": "13.7",
-            "ML": "1.7",
-            "Location": "YESILOVA ULA MUGLA"
+            "Time": "16:08:40",
+            "Latitude": "39.1580",
+            "Longitude": "27.4648",
+            "Depth": "7.5",
+            "ML": "1.6",
+            "Location": "CENKYERI SOMA MANISA REVIZE YESILOVA ULA MUGLA"
         },
         {
             "Date": "2022.04.19",
@@ -4445,42 +4472,6 @@
             "Depth": "5.0",
             "ML": "3.8",
             "Location": "BASMEZRA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "18:33:19",
-            "Latitude": "39.9288",
-            "Longitude": "39.5255",
-            "Depth": "6.4",
-            "ML": "2.7",
-            "Location": "BELENLI KELKIT GUMUSHANE"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "17:42:13",
-            "Latitude": "38.3143",
-            "Longitude": "38.8728",
-            "Depth": "21.2",
-            "ML": "2.0",
-            "Location": "CIGIRLI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "16:30:14",
-            "Latitude": "37.0348",
-            "Longitude": "28.4670",
-            "Depth": "15.1",
-            "ML": "2.0",
-            "Location": "PORTAKALLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "13:24:13",
-            "Latitude": "39.5028",
-            "Longitude": "28.9020",
-            "Depth": "4.3",
-            "ML": "1.7",
-            "Location": "DEMIRCILER DURSUNBEY BALIKESIR"
         }
     ]
 }
