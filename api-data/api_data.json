@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.04.20",
+            "Time": "11:13:56",
+            "Latitude": "41.0803",
+            "Longitude": "26.7727",
+            "Depth": "1.7",
+            "ML": "0.9",
+            "Location": "CAVUSLU UZUNKOPRU EDIRNE"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "11:09:19",
+            "Latitude": "35.4125",
+            "Longitude": "27.9557",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.20",
             "Time": "11:01:06",
             "Latitude": "41.3898",
             "Longitude": "33.0088",
             "Depth": "10.1",
             "ML": "1.9",
             "Location": "KARACAPINAR EFLANI KARABUK"
+        },
+        {
+            "Date": "2022.04.20",
+            "Time": "10:32:34",
+            "Latitude": "39.7540",
+            "Longitude": "33.7123",
+            "Depth": "15.3",
+            "ML": "1.3",
+            "Location": "KAVLAK KESKIN KIRIKKALE"
         },
         {
             "Date": "2022.04.20",
@@ -4445,33 +4472,6 @@
             "Depth": "9.9",
             "ML": "1.7",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "21:02:34",
-            "Latitude": "37.0157",
-            "Longitude": "28.4015",
-            "Depth": "8.1",
-            "ML": "1.9",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "21:01:45",
-            "Latitude": "38.5763",
-            "Longitude": "32.0000",
-            "Depth": "5.7",
-            "ML": "2.2",
-            "Location": "BUYUKOBA ILGIN KONYA"
-        },
-        {
-            "Date": "2022.04.10",
-            "Time": "18:49:41",
-            "Latitude": "38.1517",
-            "Longitude": "38.6752",
-            "Depth": "5.0",
-            "ML": "3.8",
-            "Location": "BASMEZRA PUTURGE MALATYA"
         }
     ]
 }
