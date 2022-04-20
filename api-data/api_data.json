@@ -38,6 +38,15 @@
         },
         {
             "Date": "2022.04.20",
+            "Time": "11:16:25",
+            "Latitude": "39.1698",
+            "Longitude": "27.5272",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "AVDAN SOMA MANISA"
+        },
+        {
+            "Date": "2022.04.20",
             "Time": "11:13:56",
             "Latitude": "41.0803",
             "Longitude": "26.7727",
@@ -4454,15 +4463,6 @@
             "Depth": "13.7",
             "ML": "2.1",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "00:46:07",
-            "Latitude": "37.7155",
-            "Longitude": "27.0528",
-            "Depth": "10.1",
-            "ML": "2.0",
-            "Location": "SISAM ADASI EGE DENIZI"
         }
     ]
 }
