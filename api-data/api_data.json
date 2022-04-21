@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.21",
+            "Time": "04:14:04",
+            "Latitude": "38.4727",
+            "Longitude": "39.2087",
+            "Depth": "38.4",
+            "ML": "1.9",
+            "Location": "DEDEYOLU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "03:53:41",
+            "Latitude": "39.4830",
+            "Longitude": "32.3693",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "KARAYAVSAN POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "03:25:44",
+            "Latitude": "38.4220",
+            "Longitude": "39.0235",
+            "Depth": "38.3",
+            "ML": "2.2",
+            "Location": "CORTUNLU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "01:44:40",
+            "Latitude": "35.9587",
+            "Longitude": "29.7998",
+            "Depth": "20.7",
+            "ML": "1.2",
+            "Location": "KAS ACIKLARI ANTALYA AKDENIZ"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "01:16:45",
+            "Latitude": "40.0647",
+            "Longitude": "40.6800",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "HALILKAYA AZIZIYE ERZURUM"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "01:13:27",
+            "Latitude": "35.8663",
+            "Longitude": "29.5867",
+            "Depth": "25.3",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.21",
             "Time": "01:07:57",
             "Latitude": "40.6577",
             "Longitude": "27.4012",
@@ -4409,60 +4463,6 @@
             "Depth": "7.9",
             "ML": "2.1",
             "Location": "CANDARLI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "12:40:33",
-            "Latitude": "35.2262",
-            "Longitude": "27.0197",
-            "Depth": "7.5",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "12:37:16",
-            "Latitude": "36.9767",
-            "Longitude": "28.9522",
-            "Depth": "5.4",
-            "ML": "2.4",
-            "Location": "AKKOPRU KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "12:33:10",
-            "Latitude": "36.6725",
-            "Longitude": "28.3907",
-            "Depth": "1.5",
-            "ML": "1.8",
-            "Location": "GUNLUCE ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "11:45:43",
-            "Latitude": "37.0947",
-            "Longitude": "36.5928",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "KUSCUMUSTAFA ISLAHIYE GAZIANTEP"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "10:18:13",
-            "Latitude": "36.2857",
-            "Longitude": "29.6973",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "UGRAR KAS ANTALYA"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "09:35:29",
-            "Latitude": "38.1513",
-            "Longitude": "38.7152",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "YAZICA PUTURGE MALATYA"
         }
     ]
 }
