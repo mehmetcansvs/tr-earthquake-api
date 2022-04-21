@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.21",
+            "Time": "05:51:34",
+            "Latitude": "38.6543",
+            "Longitude": "43.1802",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "MOLLAKASIM VAN"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "05:30:56",
+            "Latitude": "34.7067",
+            "Longitude": "24.1053",
+            "Depth": "21.8",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.21",
             "Time": "04:14:04",
             "Latitude": "38.4727",
             "Longitude": "39.2087",
@@ -4445,24 +4463,6 @@
             "Depth": "20.2",
             "ML": "1.2",
             "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "13:44:41",
-            "Latitude": "37.0302",
-            "Longitude": "28.3852",
-            "Depth": "27.9",
-            "ML": "1.8",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.11",
-            "Time": "13:18:20",
-            "Latitude": "38.7923",
-            "Longitude": "26.6543",
-            "Depth": "7.9",
-            "ML": "2.1",
-            "Location": "CANDARLI KORFEZI EGE DENIZI"
         }
     ]
 }
