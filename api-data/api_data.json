@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.21",
+            "Time": "21:06:01",
+            "Latitude": "34.6325",
+            "Longitude": "28.3508",
+            "Depth": "97.7",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "20:52:03",
+            "Latitude": "40.5925",
+            "Longitude": "27.9043",
+            "Depth": "13.4",
+            "ML": "1.1",
+            "Location": "ERDEK ACIKLARI BALIKESIR MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "20:49:51",
+            "Latitude": "38.8430",
+            "Longitude": "31.4323",
+            "Depth": "11.4",
+            "ML": "1.2",
+            "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "20:39:15",
+            "Latitude": "36.9640",
+            "Longitude": "27.6722",
+            "Depth": "18.4",
+            "ML": "1.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.21",
             "Time": "19:31:42",
             "Latitude": "40.7355",
             "Longitude": "42.2770",
@@ -4427,42 +4463,6 @@
             "Depth": "10.6",
             "ML": "1.9",
             "Location": "BOZLAR BURDUR"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "15:06:00",
-            "Latitude": "36.5168",
-            "Longitude": "38.4357",
-            "Depth": "1.9",
-            "ML": "2.0",
-            "Location": "SURIYE"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "14:43:23",
-            "Latitude": "39.3518",
-            "Longitude": "40.5988",
-            "Depth": "4.5",
-            "ML": "1.9",
-            "Location": "ELMALI YEDISU BINGOL"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "14:10:39",
-            "Latitude": "37.2477",
-            "Longitude": "31.9708",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "CATMAKAYA SEYDISEHIR KONYA"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "13:53:28",
-            "Latitude": "37.8532",
-            "Longitude": "42.4355",
-            "Depth": "13.4",
-            "ML": "2.6",
-            "Location": "YENIAYDIN PERVARI SIIRT"
         }
     ]
 }
