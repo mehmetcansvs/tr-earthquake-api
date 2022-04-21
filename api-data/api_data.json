@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.04.21",
+            "Time": "19:31:42",
+            "Latitude": "40.7355",
+            "Longitude": "42.2770",
+            "Depth": "10.1",
+            "ML": "1.7",
+            "Location": "BALKAYA SENKAYA ERZURUM"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "19:01:37",
+            "Latitude": "35.1860",
+            "Longitude": "25.2967",
+            "Depth": "5.3",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.21",
             "Time": "18:33:35",
             "Latitude": "39.4890",
             "Longitude": "32.3438",
             "Depth": "0.0",
             "ML": "2.3",
             "Location": "KARAYAVSAN POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "18:16:36",
+            "Latitude": "35.2938",
+            "Longitude": "25.3337",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.04.21",
@@ -4436,33 +4463,6 @@
             "Depth": "13.4",
             "ML": "2.6",
             "Location": "YENIAYDIN PERVARI SIIRT"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "13:52:42",
-            "Latitude": "39.8663",
-            "Longitude": "33.0457",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "MAMAK ANKARA"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "13:38:03",
-            "Latitude": "37.8588",
-            "Longitude": "27.6202",
-            "Depth": "1.3",
-            "ML": "1.8",
-            "Location": "GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "11:53:47",
-            "Latitude": "40.5025",
-            "Longitude": "30.6160",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "KILAVUZLAR GOYNUK BOLU"
         }
     ]
 }
