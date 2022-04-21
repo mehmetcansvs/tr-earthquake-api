@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.21",
+            "Time": "18:33:35",
+            "Latitude": "39.4890",
+            "Longitude": "32.3438",
+            "Depth": "0.0",
+            "ML": "2.3",
+            "Location": "KARAYAVSAN POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.04.21",
+            "Time": "17:37:49",
+            "Latitude": "37.3177",
+            "Longitude": "36.9137",
+            "Depth": "5.6",
+            "ML": "2.4",
+            "Location": "BALIKALAN NURDAGI GAZIANTEP"
+        },
+        {
+            "Date": "2022.04.21",
             "Time": "16:00:48",
             "Latitude": "36.9853",
             "Longitude": "27.6628",
@@ -4445,24 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.9",
             "Location": "KILAVUZLAR GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "11:39:45",
-            "Latitude": "39.4883",
-            "Longitude": "33.9925",
-            "Depth": "23.7",
-            "ML": "1.5",
-            "Location": "ELDELEKLIDEMIREL AKPINAR KIRSEHIR"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "11:09:14",
-            "Latitude": "40.4803",
-            "Longitude": "34.7627",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "SERBAN CORUM"
         }
     ]
 }
