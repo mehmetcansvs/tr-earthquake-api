@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.22",
+            "Time": "14:09:03",
+            "Latitude": "36.6465",
+            "Longitude": "36.2577",
+            "Depth": "7.9",
+            "ML": "1.6",
+            "Location": "KAVAKLIOLUK ISKENDERUN HATAY"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "14:09:02",
+            "Latitude": "36.4498",
+            "Longitude": "34.1035",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "NARLIKUYU SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "13:53:23",
+            "Latitude": "37.3997",
+            "Longitude": "27.9597",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "GOKGEDIKKOYU YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "13:14:16",
+            "Latitude": "39.3153",
+            "Longitude": "39.2308",
+            "Depth": "9.0",
+            "ML": "2.2",
+            "Location": "KOZLUCA OVACIK TUNCELI"
+        },
+        {
+            "Date": "2022.04.22",
             "Time": "13:04:07",
             "Latitude": "39.6912",
             "Longitude": "30.7547",
@@ -4427,42 +4463,6 @@
             "Depth": "6.9",
             "ML": "1.6",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "04:44:52",
-            "Latitude": "38.2160",
-            "Longitude": "31.1197",
-            "Depth": "4.4",
-            "ML": "1.5",
-            "Location": "HUYUKLU YALVAC ISPARTA"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "04:02:08",
-            "Latitude": "37.0127",
-            "Longitude": "30.4875",
-            "Depth": "1.9",
-            "ML": "1.4",
-            "Location": "BAYATBADEMLERI KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "03:50:09",
-            "Latitude": "39.5192",
-            "Longitude": "25.9712",
-            "Depth": "9.0",
-            "ML": "2.0",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "03:47:58",
-            "Latitude": "40.8777",
-            "Longitude": "35.9783",
-            "Depth": "9.7",
-            "ML": "1.7",
-            "Location": "SOGANLI LADIK SAMSUN"
         }
     ]
 }
