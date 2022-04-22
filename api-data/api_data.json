@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.22",
+            "Time": "20:43:25",
+            "Latitude": "36.9512",
+            "Longitude": "27.6032",
+            "Depth": "1.9",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "19:52:34",
+            "Latitude": "38.6593",
+            "Longitude": "25.4653",
+            "Depth": "14.6",
+            "ML": "2.3",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "19:39:47",
+            "Latitude": "37.0783",
+            "Longitude": "28.5500",
+            "Depth": "5.7",
+            "ML": "1.8",
+            "Location": "KIYRA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "19:26:07",
+            "Latitude": "37.0095",
+            "Longitude": "34.4973",
+            "Depth": "4.7",
+            "ML": "1.0",
+            "Location": "BEKIRALANI TOROSLAR MERSIN"
+        },
+        {
+            "Date": "2022.04.22",
             "Time": "19:04:19",
             "Latitude": "37.3475",
             "Longitude": "35.0047",
@@ -4427,42 +4463,6 @@
             "Depth": "9.8",
             "ML": "2.2",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "13:20:38",
-            "Latitude": "36.2010",
-            "Longitude": "33.7442",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "AKDERE SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "12:56:58",
-            "Latitude": "36.2368",
-            "Longitude": "33.6515",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "ISIKLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "12:54:25",
-            "Latitude": "37.0205",
-            "Longitude": "28.4775",
-            "Depth": "21.7",
-            "ML": "1.8",
-            "Location": "SARAYYANI ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "12:46:08",
-            "Latitude": "40.7757",
-            "Longitude": "29.6092",
-            "Depth": "6.2",
-            "ML": "1.5",
-            "Location": "IZMIT KORFEZI MARMARA DENIZI"
         }
     ]
 }
