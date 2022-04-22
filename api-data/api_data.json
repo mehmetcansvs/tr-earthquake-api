@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.22",
+            "Time": "23:01:02",
+            "Latitude": "38.0013",
+            "Longitude": "27.2077",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "GOLOVA MENDERES IZMIR"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "22:59:28",
+            "Latitude": "39.0050",
+            "Longitude": "26.1260",
+            "Depth": "13.1",
+            "ML": "1.5",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "22:37:35",
+            "Latitude": "40.8695",
+            "Longitude": "31.7093",
+            "Depth": "7.0",
+            "ML": "2.8",
+            "Location": "MESCICELE BOLU"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "21:34:26",
+            "Latitude": "36.9698",
+            "Longitude": "27.6688",
+            "Depth": "5.8",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "21:11:54",
+            "Latitude": "40.0843",
+            "Longitude": "28.6153",
+            "Depth": "5.9",
+            "ML": "2.2",
+            "Location": "INCEALIPINAR MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.04.22",
             "Time": "20:43:25",
             "Latitude": "36.9512",
             "Longitude": "27.6032",
@@ -4418,51 +4463,6 @@
             "Depth": "2.6",
             "ML": "1.8",
             "Location": "AYDINLIK ACIKLARI MERSIN AKDENIZ"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "16:04:58",
-            "Latitude": "35.2030",
-            "Longitude": "25.2837",
-            "Depth": "5.4",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "15:49:17",
-            "Latitude": "40.1112",
-            "Longitude": "24.5092",
-            "Depth": "5.8",
-            "ML": "1.8",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "14:49:43",
-            "Latitude": "39.4495",
-            "Longitude": "27.8718",
-            "Depth": "6.8",
-            "ML": "2.0",
-            "Location": "BEREKETLI BALIKESIR"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "13:44:43",
-            "Latitude": "37.0468",
-            "Longitude": "28.3908",
-            "Depth": "7.1",
-            "ML": "2.9",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.13",
-            "Time": "13:26:52",
-            "Latitude": "39.0108",
-            "Longitude": "26.0633",
-            "Depth": "9.8",
-            "ML": "2.2",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         }
     ]
 }
