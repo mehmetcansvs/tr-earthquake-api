@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.22",
+            "Time": "05:22:24",
+            "Latitude": "39.3288",
+            "Longitude": "24.9105",
+            "Depth": "13.5",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "05:09:25",
+            "Latitude": "37.0467",
+            "Longitude": "28.5342",
+            "Depth": "12.7",
+            "ML": "1.5",
+            "Location": "KARABOGURTLEN ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "04:48:19",
+            "Latitude": "37.0005",
+            "Longitude": "27.5927",
+            "Depth": "6.3",
+            "ML": "1.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "04:34:53",
+            "Latitude": "37.0233",
+            "Longitude": "28.4450",
+            "Depth": "11.0",
+            "ML": "1.2",
+            "Location": "KIZILYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.22",
             "Time": "02:34:23",
             "Latitude": "40.2397",
             "Longitude": "40.9435",
@@ -4427,42 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "DEDEYOLU SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "22:49:37",
-            "Latitude": "40.3528",
-            "Longitude": "25.7722",
-            "Depth": "3.5",
-            "ML": "2.3",
-            "Location": "KALEKOY GOKCEADA CANAKKALE"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "22:46:46",
-            "Latitude": "37.0150",
-            "Longitude": "28.2665",
-            "Depth": "10.7",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "22:41:50",
-            "Latitude": "39.0757",
-            "Longitude": "24.1072",
-            "Depth": "9.1",
-            "ML": "3.3",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "22:22:02",
-            "Latitude": "36.9072",
-            "Longitude": "28.8812",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "PINAR KOYCEGIZ MUGLA"
         }
     ]
 }
