@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.22",
+            "Time": "07:05:54",
+            "Latitude": "37.1833",
+            "Longitude": "30.6302",
+            "Depth": "7.9",
+            "ML": "1.6",
+            "Location": "ILICAKOY DOSEMEALTI ANTALYA"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "06:47:01",
+            "Latitude": "35.8872",
+            "Longitude": "29.3237",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.22",
             "Time": "05:22:24",
             "Latitude": "39.3288",
             "Longitude": "24.9105",
@@ -4445,24 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "23:05:07",
-            "Latitude": "39.1060",
-            "Longitude": "24.1418",
-            "Depth": "10.7",
-            "ML": "1.7",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.04.12",
-            "Time": "22:49:37",
-            "Latitude": "38.4543",
-            "Longitude": "39.1837",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "DEDEYOLU SIVRICE ELAZIG"
         }
     ]
 }
