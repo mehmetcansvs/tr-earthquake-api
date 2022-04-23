@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.23",
+            "Time": "16:19:28",
+            "Latitude": "39.4297",
+            "Longitude": "27.6438",
+            "Depth": "6.0",
+            "ML": "1.9",
+            "Location": "KARACALAR SAVASTEPE BALIKESIR"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "15:58:53",
+            "Latitude": "36.1335",
+            "Longitude": "33.5448",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "15:45:01",
+            "Latitude": "39.3067",
+            "Longitude": "25.9378",
+            "Depth": "12.7",
+            "ML": "1.7",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "15:32:53",
+            "Latitude": "39.2937",
+            "Longitude": "25.9502",
+            "Depth": "9.5",
+            "ML": "1.5",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "15:26:40",
+            "Latitude": "39.8152",
+            "Longitude": "29.5160",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "KOZLUCA DOMANIC KUTAHYA"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "15:11:32",
+            "Latitude": "40.0915",
+            "Longitude": "28.6955",
+            "Depth": "0.0",
+            "ML": "2.3",
+            "Location": "KAZANPINAR MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.04.23",
             "Time": "14:43:10",
             "Latitude": "36.5317",
             "Longitude": "34.3615",
@@ -4409,60 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "BOLUKKAYA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "12:55:21",
-            "Latitude": "35.3543",
-            "Longitude": "34.7073",
-            "Depth": "11.3",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "12:47:26",
-            "Latitude": "36.4478",
-            "Longitude": "34.2177",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "AYAS ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "12:38:26",
-            "Latitude": "39.7225",
-            "Longitude": "26.2512",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "KOCALI EZINE CANAKKALE"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "12:25:53",
-            "Latitude": "39.2077",
-            "Longitude": "32.6782",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "KUTLUHAN HAYMANA ANKARA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "12:11:04",
-            "Latitude": "40.7462",
-            "Longitude": "29.6140",
-            "Depth": "5.4",
-            "ML": "1.1",
-            "Location": "IZMIT KORFEZI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "11:37:56",
-            "Latitude": "38.1130",
-            "Longitude": "38.6132",
-            "Depth": "4.8",
-            "ML": "1.9",
-            "Location": "TEKEDERESI PUTURGE MALATYA"
         }
     ]
 }
