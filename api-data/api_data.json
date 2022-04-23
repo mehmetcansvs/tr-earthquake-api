@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.04.23",
+            "Time": "12:35:14",
+            "Latitude": "36.9868",
+            "Longitude": "34.4920",
+            "Depth": "5.0",
+            "ML": "1.2",
+            "Location": "YENIKOY TOROSLAR MERSIN"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "12:17:32",
+            "Latitude": "39.4602",
+            "Longitude": "33.4895",
+            "Depth": "6.5",
+            "ML": "2.0",
+            "Location": "CELEBI KIRIKKALE"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "12:15:53",
+            "Latitude": "37.8140",
+            "Longitude": "27.0142",
+            "Depth": "5.6",
+            "ML": "2.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "12:07:10",
+            "Latitude": "37.8218",
+            "Longitude": "28.1713",
+            "Depth": "9.5",
+            "ML": "1.2",
+            "Location": "ALHAN YENIPAZAR AYDIN"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "11:59:42",
+            "Latitude": "39.1560",
+            "Longitude": "29.0288",
+            "Depth": "14.2",
+            "ML": "1.4",
+            "Location": "KARACAOREN SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "11:57:38",
+            "Latitude": "35.4155",
+            "Longitude": "31.9560",
+            "Depth": "20.0",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "11:24:09",
+            "Latitude": "38.1350",
+            "Longitude": "38.6468",
+            "Depth": "3.3",
+            "ML": "2.9",
+            "Location": "UCYAKA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.23",
             "Time": "10:55:18",
             "Latitude": "40.4860",
             "Longitude": "29.3073",
@@ -4400,69 +4463,6 @@
             "Depth": "20.5",
             "ML": "1.7",
             "Location": "ILINCAK SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "08:07:46",
-            "Latitude": "38.8688",
-            "Longitude": "43.5540",
-            "Depth": "5.6",
-            "ML": "2.6",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "07:36:12",
-            "Latitude": "36.9623",
-            "Longitude": "28.8827",
-            "Depth": "3.8",
-            "ML": "2.6",
-            "Location": "SAZAK KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "07:06:34",
-            "Latitude": "36.9865",
-            "Longitude": "28.5265",
-            "Depth": "10.8",
-            "ML": "0.9",
-            "Location": "CORUS ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "06:11:53",
-            "Latitude": "38.3000",
-            "Longitude": "38.6685",
-            "Depth": "22.0",
-            "ML": "1.7",
-            "Location": "KAMISTAS MALATYA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "06:07:27",
-            "Latitude": "38.3847",
-            "Longitude": "39.0895",
-            "Depth": "3.4",
-            "ML": "2.4",
-            "Location": "KALABA SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "05:10:36",
-            "Latitude": "37.0327",
-            "Longitude": "28.3798",
-            "Depth": "19.5",
-            "ML": "1.2",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "05:04:51",
-            "Latitude": "38.1627",
-            "Longitude": "38.3568",
-            "Depth": "5.5",
-            "ML": "2.0",
-            "Location": "ONCU YESILYURT MALATYA"
         }
     ]
 }
