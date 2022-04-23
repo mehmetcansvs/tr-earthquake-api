@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.23",
+            "Time": "05:37:48",
+            "Latitude": "39.5507",
+            "Longitude": "25.9222",
+            "Depth": "8.5",
+            "ML": "2.0",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "04:05:45",
+            "Latitude": "38.3132",
+            "Longitude": "42.8555",
+            "Depth": "5.3",
+            "ML": "2.1",
+            "Location": "DEGIRMITAS GEVAS VAN"
+        },
+        {
+            "Date": "2022.04.23",
             "Time": "02:51:06",
             "Latitude": "37.9068",
             "Longitude": "27.1328",
@@ -4445,24 +4463,6 @@
             "Depth": "5.0",
             "ML": "3.5",
             "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "02:31:37",
-            "Latitude": "39.2958",
-            "Longitude": "25.9102",
-            "Depth": "13.3",
-            "ML": "1.4",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "00:07:07",
-            "Latitude": "35.9792",
-            "Longitude": "27.6377",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
         }
     ]
 }
