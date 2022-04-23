@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.23",
+            "Time": "07:57:46",
+            "Latitude": "40.7582",
+            "Longitude": "31.5553",
+            "Depth": "8.3",
+            "ML": "2.7",
+            "Location": "PIRAHMETLER BOLU"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "07:23:54",
+            "Latitude": "37.0805",
+            "Longitude": "28.3353",
+            "Depth": "6.2",
+            "ML": "1.7",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.23",
             "Time": "06:46:45",
             "Latitude": "37.1353",
             "Longitude": "28.4153",
@@ -4445,24 +4463,6 @@
             "Depth": "20.3",
             "ML": "1.2",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "04:32:48",
-            "Latitude": "38.6158",
-            "Longitude": "26.7277",
-            "Depth": "6.5",
-            "ML": "1.8",
-            "Location": "FOCA IZMIR"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "04:23:32",
-            "Latitude": "38.6155",
-            "Longitude": "26.7013",
-            "Depth": "11.4",
-            "ML": "2.1",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
         }
     ]
 }
