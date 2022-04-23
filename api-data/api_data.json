@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.23",
+            "Time": "10:55:18",
+            "Latitude": "40.4860",
+            "Longitude": "29.3073",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "09:54:00",
+            "Latitude": "41.2603",
+            "Longitude": "43.7792",
+            "Depth": "8.5",
+            "ML": "2.6",
+            "Location": "GURCISTAN ERMENISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.04.23",
             "Time": "07:57:46",
             "Latitude": "40.7582",
             "Longitude": "31.5553",
@@ -4445,24 +4463,6 @@
             "Depth": "5.5",
             "ML": "2.0",
             "Location": "ONCU YESILYURT MALATYA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "04:52:59",
-            "Latitude": "38.6382",
-            "Longitude": "27.3148",
-            "Depth": "9.8",
-            "ML": "2.9",
-            "Location": "KARAALI MANISA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "04:42:54",
-            "Latitude": "37.0313",
-            "Longitude": "28.3890",
-            "Depth": "20.3",
-            "ML": "1.2",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
