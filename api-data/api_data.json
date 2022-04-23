@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.04.23",
+            "Time": "23:17:07",
+            "Latitude": "39.7085",
+            "Longitude": "23.8930",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "23:12:39",
+            "Latitude": "36.9363",
+            "Longitude": "30.3988",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "GUZLE KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "23:10:50",
+            "Latitude": "36.9185",
+            "Longitude": "30.3968",
+            "Depth": "8.3",
+            "ML": "1.7",
+            "Location": "GUZLE KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "23:00:03",
+            "Latitude": "36.9433",
+            "Longitude": "30.4212",
+            "Depth": "3.4",
+            "ML": "1.5",
+            "Location": "GEYIKBAYIRI KONYAALTI ANTALYA"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "22:56:25",
+            "Latitude": "36.9192",
+            "Longitude": "30.4275",
+            "Depth": "2.7",
+            "ML": "1.6",
+            "Location": "GEYIKBAYIRI KONYAALTI ANTALYA"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "22:10:05",
+            "Latitude": "36.9717",
+            "Longitude": "27.6575",
+            "Depth": "4.7",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "21:05:29",
+            "Latitude": "37.0415",
+            "Longitude": "28.4212",
+            "Depth": "7.8",
+            "ML": "1.5",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.23",
             "Time": "19:32:07",
             "Latitude": "36.2233",
             "Longitude": "28.8793",
@@ -4400,69 +4463,6 @@
             "Depth": "19.5",
             "ML": "1.6",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "15:43:11",
-            "Latitude": "38.2983",
-            "Longitude": "38.7867",
-            "Depth": "17.0",
-            "ML": "1.4",
-            "Location": "BOLUKKAYA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "15:33:09",
-            "Latitude": "40.9925",
-            "Longitude": "40.2987",
-            "Depth": "0.0",
-            "ML": "2.4",
-            "Location": "ESKIPAZAR OF TRABZON"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "15:26:56",
-            "Latitude": "39.5143",
-            "Longitude": "27.8738",
-            "Depth": "17.2",
-            "ML": "1.5",
-            "Location": "PAMUKCU BALIKESIR"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "14:53:19",
-            "Latitude": "38.5452",
-            "Longitude": "31.9018",
-            "Depth": "9.4",
-            "ML": "1.7",
-            "Location": "YESILOBA YUNAK KONYA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "14:37:16",
-            "Latitude": "36.3163",
-            "Longitude": "28.5813",
-            "Depth": "19.2",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "14:27:43",
-            "Latitude": "38.5675",
-            "Longitude": "31.8712",
-            "Depth": "14.5",
-            "ML": "1.6",
-            "Location": "YESILOBA YUNAK KONYA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "14:15:34",
-            "Latitude": "36.1655",
-            "Longitude": "33.5473",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BUYUKECELI GULNAR MERSIN"
         }
     ]
 }
