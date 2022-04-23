@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.23",
+            "Time": "06:46:45",
+            "Latitude": "37.1353",
+            "Longitude": "28.4153",
+            "Depth": "6.1",
+            "ML": "2.0",
+            "Location": "YENIKOY MUGLA"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "06:36:45",
+            "Latitude": "37.0113",
+            "Longitude": "28.4077",
+            "Depth": "4.9",
+            "ML": "1.6",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "06:12:55",
+            "Latitude": "39.6103",
+            "Longitude": "26.4333",
+            "Depth": "7.1",
+            "ML": "2.1",
+            "Location": "TARTISIK AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "05:56:00",
+            "Latitude": "37.0518",
+            "Longitude": "28.4103",
+            "Depth": "3.4",
+            "ML": "1.3",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.23",
             "Time": "05:37:48",
             "Latitude": "39.5507",
             "Longitude": "25.9222",
@@ -4427,42 +4463,6 @@
             "Depth": "11.4",
             "ML": "2.1",
             "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "04:12:24",
-            "Latitude": "37.0752",
-            "Longitude": "28.4658",
-            "Depth": "2.9",
-            "ML": "0.8",
-            "Location": "ELMALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "03:31:04",
-            "Latitude": "38.5363",
-            "Longitude": "30.6473",
-            "Depth": "12.1",
-            "ML": "1.0",
-            "Location": "YARISLI SUHUT AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "03:30:46",
-            "Latitude": "38.5472",
-            "Longitude": "30.6680",
-            "Depth": "5.8",
-            "ML": "1.0",
-            "Location": "YARISLI SUHUT AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "03:13:47",
-            "Latitude": "41.1297",
-            "Longitude": "43.8993",
-            "Depth": "5.0",
-            "ML": "3.5",
-            "Location": "ERMENISTAN"
         }
     ]
 }
