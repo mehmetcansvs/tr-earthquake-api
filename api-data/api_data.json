@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.04.24",
+            "Time": "01:56:23",
+            "Latitude": "40.8625",
+            "Longitude": "31.6938",
+            "Depth": "4.7",
+            "ML": "2.9",
+            "Location": "MESCICELE BOLU"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "01:28:19",
+            "Latitude": "40.4422",
+            "Longitude": "34.8162",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "YENICE CORUM"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "00:38:54",
+            "Latitude": "37.0440",
+            "Longitude": "28.5215",
+            "Depth": "10.4",
+            "ML": "1.2",
+            "Location": "KARABOGURTLEN ULA MUGLA"
+        },
+        {
             "Date": "2022.04.23",
             "Time": "23:17:07",
             "Latitude": "39.7085",
@@ -53,6 +80,15 @@
             "Depth": "4.7",
             "ML": "1.7",
             "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "21:39:15",
+            "Latitude": "38.9838",
+            "Longitude": "26.1190",
+            "Depth": "18.6",
+            "ML": "1.7",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         },
         {
             "Date": "2022.04.23",
@@ -4427,42 +4463,6 @@
             "Depth": "4.9",
             "ML": "1.4",
             "Location": "KARAPINAR UZUNKOPRU EDIRNE"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "17:27:14",
-            "Latitude": "37.2780",
-            "Longitude": "31.9147",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "SUSUZ SEYDISEHIR KONYA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "16:36:10",
-            "Latitude": "35.5358",
-            "Longitude": "29.9880",
-            "Depth": "11.1",
-            "ML": "3.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "16:04:06",
-            "Latitude": "40.8797",
-            "Longitude": "27.9532",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "MARMARA EREGLISI ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "16:02:09",
-            "Latitude": "36.9085",
-            "Longitude": "27.7737",
-            "Depth": "19.5",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
