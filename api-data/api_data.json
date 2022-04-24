@@ -11,6 +11,24 @@
         },
         {
             "Date": "2022.04.24",
+            "Time": "21:04:24",
+            "Latitude": "40.7772",
+            "Longitude": "31.5590",
+            "Depth": "9.1",
+            "ML": "1.7",
+            "Location": "PIRAHMETLER BOLU"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "20:30:11",
+            "Latitude": "37.0870",
+            "Longitude": "28.3347",
+            "Depth": "4.5",
+            "ML": "1.4",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.24",
             "Time": "17:45:20",
             "Latitude": "35.2672",
             "Longitude": "26.9692",
@@ -4445,24 +4463,6 @@
             "Depth": "4.3",
             "ML": "2.0",
             "Location": "YUKARIKIZILKALE KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.04.15",
-            "Time": "14:20:22",
-            "Latitude": "37.7920",
-            "Longitude": "27.0092",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.15",
-            "Time": "13:47:33",
-            "Latitude": "36.6405",
-            "Longitude": "36.2295",
-            "Depth": "1.2",
-            "ML": "1.6",
-            "Location": "KAVAKLIOLUK ISKENDERUN HATAY"
         }
     ]
 }
