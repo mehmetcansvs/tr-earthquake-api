@@ -11,6 +11,51 @@
         },
         {
             "Date": "2022.04.24",
+            "Time": "04:53:13",
+            "Latitude": "39.8348",
+            "Longitude": "41.3205",
+            "Depth": "5.0",
+            "ML": "1.0",
+            "Location": "PALANDOKEN ERZURUM"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "04:41:39",
+            "Latitude": "37.0300",
+            "Longitude": "28.3623",
+            "Depth": "9.5",
+            "ML": "1.2",
+            "Location": "AKCAPINAR ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "04:32:42",
+            "Latitude": "36.6670",
+            "Longitude": "28.0190",
+            "Depth": "16.7",
+            "ML": "1.3",
+            "Location": "BOZBURUN MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "03:45:33",
+            "Latitude": "36.9473",
+            "Longitude": "27.6680",
+            "Depth": "6.9",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "03:00:34",
+            "Latitude": "36.2642",
+            "Longitude": "27.0120",
+            "Depth": "5.3",
+            "ML": "1.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.24",
             "Time": "01:56:23",
             "Latitude": "40.8625",
             "Longitude": "31.6938",
@@ -4418,51 +4463,6 @@
             "Depth": "10.5",
             "ML": "2.1",
             "Location": "HAMAMLI ERDEK BALIKESIR"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "20:24:25",
-            "Latitude": "37.7388",
-            "Longitude": "26.8748",
-            "Depth": "9.1",
-            "ML": "1.7",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "19:46:31",
-            "Latitude": "37.8343",
-            "Longitude": "27.0157",
-            "Depth": "12.9",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "19:45:07",
-            "Latitude": "37.0810",
-            "Longitude": "28.3793",
-            "Depth": "6.3",
-            "ML": "1.9",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "19:20:55",
-            "Latitude": "37.8662",
-            "Longitude": "32.3408",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "KUCUKMUHSINE SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "18:50:44",
-            "Latitude": "37.9103",
-            "Longitude": "27.4875",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "BALATCIK GERMENCIK AYDIN"
         }
     ]
 }
