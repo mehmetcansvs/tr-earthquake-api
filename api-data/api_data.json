@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.24",
+            "Time": "07:22:55",
+            "Latitude": "36.9640",
+            "Longitude": "27.6413",
+            "Depth": "6.7",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "07:14:05",
+            "Latitude": "35.1705",
+            "Longitude": "27.0378",
+            "Depth": "11.9",
+            "ML": "4.5",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "07:00:25",
+            "Latitude": "34.0202",
+            "Longitude": "23.6353",
+            "Depth": "17.0",
+            "ML": "3.3",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.24",
             "Time": "05:10:07",
             "Latitude": "34.5787",
             "Longitude": "33.4235",
@@ -4436,33 +4463,6 @@
             "Depth": "6.5",
             "ML": "1.7",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "21:11:20",
-            "Latitude": "36.5045",
-            "Longitude": "28.6470",
-            "Depth": "10.6",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "20:50:44",
-            "Latitude": "37.8630",
-            "Longitude": "26.8835",
-            "Depth": "7.5",
-            "ML": "3.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "20:36:16",
-            "Latitude": "40.4065",
-            "Longitude": "27.8800",
-            "Depth": "10.5",
-            "ML": "2.1",
-            "Location": "HAMAMLI ERDEK BALIKESIR"
         }
     ]
 }
