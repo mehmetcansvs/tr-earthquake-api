@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.24",
+            "Time": "17:45:20",
+            "Latitude": "35.2672",
+            "Longitude": "26.9692",
+            "Depth": "1.1",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "17:22:21",
+            "Latitude": "37.3718",
+            "Longitude": "34.9988",
+            "Depth": "2.5",
+            "ML": "2.1",
+            "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.24",
             "Time": "16:23:35",
             "Latitude": "37.8982",
             "Longitude": "27.1188",
@@ -4445,24 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "ISIKLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.04.15",
-            "Time": "12:47:26",
-            "Latitude": "39.3955",
-            "Longitude": "28.5023",
-            "Depth": "4.6",
-            "ML": "1.4",
-            "Location": "YUKARIGOCEK BIGADIC BALIKESIR"
-        },
-        {
-            "Date": "2022.04.15",
-            "Time": "12:43:58",
-            "Latitude": "35.1865",
-            "Longitude": "25.2982",
-            "Depth": "6.0",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
