@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.24",
+            "Time": "05:10:07",
+            "Latitude": "34.5787",
+            "Longitude": "33.4235",
+            "Depth": "10.6",
+            "ML": "2.8",
+            "Location": "KIBRIS ACIKLARI GUNEY AKDENIZ"
+        },
+        {
+            "Date": "2022.04.24",
             "Time": "01:56:23",
             "Latitude": "40.8625",
             "Longitude": "31.6938",
@@ -4454,15 +4463,6 @@
             "Depth": "5.0",
             "ML": "2.2",
             "Location": "BALATCIK GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "17:57:55",
-            "Latitude": "41.1110",
-            "Longitude": "26.6397",
-            "Depth": "4.9",
-            "ML": "1.4",
-            "Location": "KARAPINAR UZUNKOPRU EDIRNE"
         }
     ]
 }
