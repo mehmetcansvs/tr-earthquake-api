@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.24",
+            "Time": "10:51:42",
+            "Latitude": "40.5475",
+            "Longitude": "30.5850",
+            "Depth": "6.6",
+            "ML": "2.1",
+            "Location": "HANYATAK AKYAZI SAKARYA"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "10:01:20",
+            "Latitude": "39.5777",
+            "Longitude": "25.1778",
+            "Depth": "7.6",
+            "ML": "1.9",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "09:49:16",
+            "Latitude": "40.5468",
+            "Longitude": "30.6022",
+            "Depth": "5.3",
+            "ML": "1.9",
+            "Location": "HANYATAK AKYAZI SAKARYA"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "09:37:41",
+            "Latitude": "40.0395",
+            "Longitude": "26.9867",
+            "Depth": "5.0",
+            "ML": "1.0",
+            "Location": "ILYASAGACIFTLIGI CAN CANAKKALE"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "09:12:32",
+            "Latitude": "39.0425",
+            "Longitude": "27.5177",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "YAYLAKOY KINIK IZMIR"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "09:04:03",
+            "Latitude": "39.1290",
+            "Longitude": "28.3483",
+            "Depth": "9.1",
+            "ML": "1.6",
+            "Location": "YAYLABAYIR SINDIRGI BALIKESIR"
+        },
+        {
+            "Date": "2022.04.24",
             "Time": "07:22:55",
             "Latitude": "36.9640",
             "Longitude": "27.6413",
@@ -4409,60 +4463,6 @@
             "Depth": "19.2",
             "ML": "2.0",
             "Location": "YAMAN MUDANYA BURSA"
-        },
-        {
-            "Date": "2022.04.15",
-            "Time": "00:28:48",
-            "Latitude": "37.8712",
-            "Longitude": "26.8900",
-            "Depth": "3.6",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.15",
-            "Time": "00:17:14",
-            "Latitude": "36.2555",
-            "Longitude": "26.9920",
-            "Depth": "2.6",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "23:58:53",
-            "Latitude": "39.8632",
-            "Longitude": "40.7907",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "ABDALCIK ASKALE ERZURUM"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "22:47:28",
-            "Latitude": "36.9775",
-            "Longitude": "28.4042",
-            "Depth": "7.9",
-            "ML": "1.2",
-            "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "22:01:59",
-            "Latitude": "37.0705",
-            "Longitude": "28.3448",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.14",
-            "Time": "21:46:39",
-            "Latitude": "37.8888",
-            "Longitude": "26.8690",
-            "Depth": "6.5",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
