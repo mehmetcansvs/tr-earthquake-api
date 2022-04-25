@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.25",
+            "Time": "23:06:57",
+            "Latitude": "35.9045",
+            "Longitude": "28.7692",
+            "Depth": "9.8",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.25",
             "Time": "19:31:41",
             "Latitude": "41.8833",
             "Longitude": "22.6878",
@@ -4454,15 +4463,6 @@
             "Depth": "15.4",
             "ML": "3.3",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "23:34:19",
-            "Latitude": "37.0140",
-            "Longitude": "28.4272",
-            "Depth": "6.7",
-            "ML": "1.5",
-            "Location": "YESILCAM ULA MUGLA"
         }
     ]
 }
