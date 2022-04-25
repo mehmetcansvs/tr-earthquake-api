@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.25",
+            "Time": "08:50:24",
+            "Latitude": "36.9448",
+            "Longitude": "27.6293",
+            "Depth": "5.2",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.25",
+            "Time": "08:22:54",
+            "Latitude": "38.3282",
+            "Longitude": "38.7918",
+            "Depth": "3.0",
+            "ML": "1.9",
+            "Location": "CANAKCI KALE MALATYA"
+        },
+        {
+            "Date": "2022.04.25",
+            "Time": "07:30:00",
+            "Latitude": "37.0668",
+            "Longitude": "28.3507",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.25",
             "Time": "06:23:17",
             "Latitude": "40.4187",
             "Longitude": "32.9142",
@@ -4436,33 +4463,6 @@
             "Depth": "8.9",
             "ML": "2.1",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "02:42:46",
-            "Latitude": "35.2852",
-            "Longitude": "27.1875",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "02:40:10",
-            "Latitude": "37.0230",
-            "Longitude": "28.3888",
-            "Depth": "8.8",
-            "ML": "1.6",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "02:26:53",
-            "Latitude": "37.0778",
-            "Longitude": "26.6195",
-            "Depth": "23.3",
-            "ML": "1.7",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
