@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.25",
+            "Time": "06:23:17",
+            "Latitude": "40.4187",
+            "Longitude": "32.9142",
+            "Depth": "5.4",
+            "ML": "1.2",
+            "Location": "YESILKENT CUBUK ANKARA"
+        },
+        {
+            "Date": "2022.04.25",
+            "Time": "05:59:40",
+            "Latitude": "40.4843",
+            "Longitude": "33.0178",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "AVCIOVA CUBUK ANKARA"
+        },
+        {
+            "Date": "2022.04.25",
+            "Time": "05:46:42",
+            "Latitude": "37.8237",
+            "Longitude": "26.8970",
+            "Depth": "20.3",
+            "ML": "1.6",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.25",
             "Time": "05:45:47",
             "Latitude": "40.4807",
             "Longitude": "33.0140",
@@ -4436,33 +4463,6 @@
             "Depth": "23.3",
             "ML": "1.7",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "02:17:46",
-            "Latitude": "40.4462",
-            "Longitude": "26.2905",
-            "Depth": "16.2",
-            "ML": "1.6",
-            "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "02:06:52",
-            "Latitude": "40.4418",
-            "Longitude": "26.3082",
-            "Depth": "16.8",
-            "ML": "1.2",
-            "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "01:43:32",
-            "Latitude": "36.6707",
-            "Longitude": "28.1057",
-            "Depth": "13.4",
-            "ML": "2.4",
-            "Location": "SOGUTKOY MARMARIS MUGLA"
         }
     ]
 }
