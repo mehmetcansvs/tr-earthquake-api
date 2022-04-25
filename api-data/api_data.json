@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.04.26",
+            "Time": "00:56:50",
+            "Latitude": "38.4143",
+            "Longitude": "31.8892",
+            "Depth": "5.4",
+            "ML": "2.3",
+            "Location": "MISAFIRLI ILGIN KONYA"
+        },
+        {
             "Date": "2022.04.25",
             "Time": "23:06:57",
             "Latitude": "35.9045",
@@ -4453,15 +4462,6 @@
             "Longitude": "25.4450",
             "Depth": "7.1",
             "ML": "2.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "23:53:27",
-            "Latitude": "36.5377",
-            "Longitude": "25.4075",
-            "Depth": "15.4",
-            "ML": "3.3",
             "Location": "AKDENIZ"
         }
     ]
