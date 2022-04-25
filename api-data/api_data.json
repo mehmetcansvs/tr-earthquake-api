@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.25",
+            "Time": "16:54:15",
+            "Latitude": "38.9912",
+            "Longitude": "30.1840",
+            "Depth": "4.2",
+            "ML": "2.7",
+            "Location": "BESKARIS ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.04.25",
+            "Time": "15:46:22",
+            "Latitude": "35.1217",
+            "Longitude": "25.3055",
+            "Depth": "12.4",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.25",
             "Time": "13:44:53",
             "Latitude": "37.0307",
             "Longitude": "28.4568",
@@ -38,6 +56,15 @@
         },
         {
             "Date": "2022.04.25",
+            "Time": "12:13:41",
+            "Latitude": "39.9118",
+            "Longitude": "26.2742",
+            "Depth": "5.0",
+            "ML": "1.2",
+            "Location": "TASTEPE EZINE CANAKKALE"
+        },
+        {
+            "Date": "2022.04.25",
             "Time": "12:06:56",
             "Latitude": "40.4718",
             "Longitude": "33.0652",
@@ -62,6 +89,15 @@
             "Depth": "7.6",
             "ML": "2.2",
             "Location": "AVCIOVA CUBUK ANKARA"
+        },
+        {
+            "Date": "2022.04.25",
+            "Time": "10:51:35",
+            "Latitude": "36.0207",
+            "Longitude": "25.5812",
+            "Depth": "17.9",
+            "ML": "1.6",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.04.25",
@@ -1016,6 +1052,15 @@
             "Depth": "4.8",
             "ML": "2.1",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.23",
+            "Time": "02:31:58",
+            "Latitude": "34.5877",
+            "Longitude": "25.3087",
+            "Depth": "10.1",
+            "ML": "1.7",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.04.23",
@@ -4418,51 +4463,6 @@
             "Depth": "22.0",
             "ML": "1.6",
             "Location": "CUKUROREN BOLU"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "20:52:16",
-            "Latitude": "36.9897",
-            "Longitude": "28.8885",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "SAZAK KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "20:33:46",
-            "Latitude": "39.9073",
-            "Longitude": "34.1757",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "CAMLIBEL YERKOY YOZGAT"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "20:05:36",
-            "Latitude": "39.4662",
-            "Longitude": "27.8575",
-            "Depth": "9.1",
-            "ML": "2.4",
-            "Location": "TAYYIPLER BALIKESIR"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "19:16:43",
-            "Latitude": "39.1558",
-            "Longitude": "28.2785",
-            "Depth": "16.1",
-            "ML": "2.4",
-            "Location": "ISIKLAR SINDIRGI BALIKESIR"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "17:31:53",
-            "Latitude": "36.1192",
-            "Longitude": "33.5578",
-            "Depth": "0.0",
-            "ML": "0.7",
-            "Location": "BUYUKECELI GULNAR MERSIN"
         }
     ]
 }
