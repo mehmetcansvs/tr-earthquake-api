@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.25",
+            "Time": "10:35:01",
+            "Latitude": "41.0953",
+            "Longitude": "26.6677",
+            "Depth": "3.0",
+            "ML": "1.2",
+            "Location": "KADIKOY UZUNKOPRU EDIRNE"
+        },
+        {
+            "Date": "2022.04.25",
+            "Time": "09:03:22",
+            "Latitude": "39.1347",
+            "Longitude": "26.8960",
+            "Depth": "5.2",
+            "ML": "2.1",
+            "Location": "KABAKUM DIKILI IZMIR"
+        },
+        {
+            "Date": "2022.04.25",
             "Time": "08:50:24",
             "Latitude": "36.9448",
             "Longitude": "27.6293",
@@ -1226,6 +1244,15 @@
         },
         {
             "Date": "2022.04.22",
+            "Time": "10:46:09",
+            "Latitude": "36.0908",
+            "Longitude": "27.7768",
+            "Depth": "3.6",
+            "ML": "2.5",
+            "Location": "RODOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.22",
             "Time": "10:15:18",
             "Latitude": "36.7973",
             "Longitude": "27.7798",
@@ -1244,6 +1271,15 @@
         },
         {
             "Date": "2022.04.22",
+            "Time": "09:50:45",
+            "Latitude": "34.5617",
+            "Longitude": "25.5432",
+            "Depth": "15.6",
+            "ML": "1.7",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.22",
             "Time": "09:34:35",
             "Latitude": "40.4773",
             "Longitude": "26.2668",
@@ -1259,6 +1295,15 @@
             "Depth": "6.7",
             "ML": "3.1",
             "Location": "KOZLU AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "08:43:18",
+            "Latitude": "35.0735",
+            "Longitude": "25.1742",
+            "Depth": "5.4",
+            "ML": "1.6",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.04.22",
@@ -1316,6 +1361,15 @@
         },
         {
             "Date": "2022.04.22",
+            "Time": "05:04:33",
+            "Latitude": "35.0357",
+            "Longitude": "25.2322",
+            "Depth": "9.0",
+            "ML": "1.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.22",
             "Time": "04:48:19",
             "Latitude": "37.0005",
             "Longitude": "27.5927",
@@ -1325,12 +1379,30 @@
         },
         {
             "Date": "2022.04.22",
+            "Time": "04:46:34",
+            "Latitude": "34.9248",
+            "Longitude": "26.2915",
+            "Depth": "16.3",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.22",
             "Time": "04:34:53",
             "Latitude": "37.0233",
             "Longitude": "28.4450",
             "Depth": "11.0",
             "ML": "1.2",
             "Location": "KIZILYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.22",
+            "Time": "03:48:32",
+            "Latitude": "34.9915",
+            "Longitude": "26.1805",
+            "Depth": "3.4",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.04.22",
@@ -4391,78 +4463,6 @@
             "Depth": "9.6",
             "ML": "2.2",
             "Location": "TAYYIPLER BALIKESIR"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "10:41:30",
-            "Latitude": "39.4565",
-            "Longitude": "27.8225",
-            "Depth": "8.5",
-            "ML": "2.3",
-            "Location": "KIRAZPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "08:11:38",
-            "Latitude": "37.0197",
-            "Longitude": "28.3683",
-            "Depth": "12.8",
-            "ML": "2.0",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "03:54:21",
-            "Latitude": "39.4632",
-            "Longitude": "27.8605",
-            "Depth": "7.5",
-            "ML": "1.6",
-            "Location": "TAYYIPLER BALIKESIR"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "03:46:50",
-            "Latitude": "38.5940",
-            "Longitude": "31.5832",
-            "Depth": "12.6",
-            "ML": "1.8",
-            "Location": "MEVLUTLU TUZLUKCU KONYA"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "03:03:47",
-            "Latitude": "37.7518",
-            "Longitude": "27.0217",
-            "Depth": "7.6",
-            "ML": "1.7",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "02:58:24",
-            "Latitude": "39.8037",
-            "Longitude": "41.8170",
-            "Depth": "11.3",
-            "ML": "1.9",
-            "Location": "YEMLIK KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "02:50:04",
-            "Latitude": "39.7203",
-            "Longitude": "41.3415",
-            "Depth": "8.7",
-            "ML": "1.9",
-            "Location": "YALINCA TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.04.16",
-            "Time": "02:47:32",
-            "Latitude": "36.2332",
-            "Longitude": "26.9960",
-            "Depth": "8.9",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
         }
     ]
 }
