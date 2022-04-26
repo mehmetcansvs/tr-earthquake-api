@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.26",
+            "Time": "18:43:22",
+            "Latitude": "37.0677",
+            "Longitude": "28.4170",
+            "Depth": "8.5",
+            "ML": "2.8",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.26",
             "Time": "17:05:43",
             "Latitude": "39.8857",
             "Longitude": "25.9008",
@@ -4453,15 +4462,6 @@
             "Longitude": "27.6637",
             "Depth": "10.3",
             "ML": "2.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "10:08:56",
-            "Latitude": "36.9757",
-            "Longitude": "27.6582",
-            "Depth": "8.5",
-            "ML": "2.3",
             "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
