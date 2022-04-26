@@ -83,6 +83,15 @@
         },
         {
             "Date": "2022.04.26",
+            "Time": "02:22:27",
+            "Latitude": "41.8538",
+            "Longitude": "22.7855",
+            "Depth": "4.6",
+            "ML": "3.3",
+            "Location": "MAKEDONYA"
+        },
+        {
+            "Date": "2022.04.26",
             "Time": "01:52:37",
             "Latitude": "40.7060",
             "Longitude": "27.4298",
@@ -4452,15 +4461,6 @@
             "Latitude": "37.7812",
             "Longitude": "27.1958",
             "Depth": "2.3",
-            "ML": "2.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "03:48:58",
-            "Latitude": "37.7632",
-            "Longitude": "27.1992",
-            "Depth": "6.1",
             "ML": "2.3",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
