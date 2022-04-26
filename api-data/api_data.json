@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.26",
+            "Time": "08:19:06",
+            "Latitude": "35.3472",
+            "Longitude": "26.1257",
+            "Depth": "3.4",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.26",
+            "Time": "08:09:03",
+            "Latitude": "38.9310",
+            "Longitude": "43.4950",
+            "Depth": "25.6",
+            "ML": "2.0",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.04.26",
+            "Time": "07:17:52",
+            "Latitude": "40.1293",
+            "Longitude": "31.7417",
+            "Depth": "4.8",
+            "ML": "1.6",
+            "Location": "CANTIRLI BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.04.26",
             "Time": "05:44:51",
             "Latitude": "40.8465",
             "Longitude": "31.6487",
@@ -4436,33 +4463,6 @@
             "Depth": "13.7",
             "ML": "1.3",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "04:11:48",
-            "Latitude": "36.8628",
-            "Longitude": "27.7400",
-            "Depth": "25.6",
-            "ML": "1.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "04:01:17",
-            "Latitude": "36.9842",
-            "Longitude": "27.6575",
-            "Depth": "2.3",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "03:56:04",
-            "Latitude": "37.7812",
-            "Longitude": "27.1958",
-            "Depth": "2.3",
-            "ML": "2.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
