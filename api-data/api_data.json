@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.26",
+            "Time": "17:05:43",
+            "Latitude": "39.8857",
+            "Longitude": "25.9008",
+            "Depth": "8.4",
+            "ML": "1.7",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.26",
+            "Time": "15:46:44",
+            "Latitude": "40.7715",
+            "Longitude": "31.5558",
+            "Depth": "8.8",
+            "ML": "1.6",
+            "Location": "PIRAHMETLER BOLU"
+        },
+        {
+            "Date": "2022.04.26",
+            "Time": "15:42:14",
+            "Latitude": "40.7738",
+            "Longitude": "31.5685",
+            "Depth": "14.0",
+            "ML": "1.8",
+            "Location": "PIRAHMETLER BOLU"
+        },
+        {
+            "Date": "2022.04.26",
             "Time": "14:54:36",
             "Latitude": "37.0827",
             "Longitude": "35.2410",
@@ -4436,33 +4463,6 @@
             "Depth": "8.5",
             "ML": "2.3",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "09:39:15",
-            "Latitude": "36.9845",
-            "Longitude": "27.6363",
-            "Depth": "6.7",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "09:31:58",
-            "Latitude": "39.5885",
-            "Longitude": "25.7630",
-            "Depth": "5.4",
-            "ML": "2.4",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "08:20:27",
-            "Latitude": "37.0680",
-            "Longitude": "26.7268",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
