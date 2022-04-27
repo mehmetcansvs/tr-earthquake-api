@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.27",
+            "Time": "22:07:18",
+            "Latitude": "40.0867",
+            "Longitude": "28.5925",
+            "Depth": "7.6",
+            "ML": "2.2",
+            "Location": "TASPINAR MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "21:25:17",
+            "Latitude": "37.0098",
+            "Longitude": "28.3652",
+            "Depth": "12.7",
+            "ML": "1.7",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "21:24:32",
+            "Latitude": "37.0412",
+            "Longitude": "28.4122",
+            "Depth": "11.7",
+            "ML": "1.7",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.27",
             "Time": "20:20:19",
             "Latitude": "37.0142",
             "Longitude": "28.3357",
@@ -4427,33 +4454,6 @@
             "Depth": "20.1",
             "ML": "2.4",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "02:44:06",
-            "Latitude": "35.9020",
-            "Longitude": "30.9072",
-            "Depth": "16.6",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "01:32:02",
-            "Latitude": "38.1938",
-            "Longitude": "37.1860",
-            "Depth": "8.1",
-            "ML": "1.1",
-            "Location": "ELBISTAN KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "01:09:39",
-            "Latitude": "37.0333",
-            "Longitude": "28.4463",
-            "Depth": "3.9",
-            "ML": "1.4",
-            "Location": "KIZILYAKA ULA MUGLA"
         }
     ]
 }
