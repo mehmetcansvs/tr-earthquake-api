@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.04.27",
+            "Time": "17:02:19",
+            "Latitude": "40.4387",
+            "Longitude": "28.7850",
+            "Depth": "5.4",
+            "ML": "2.4",
+            "Location": "GEMLIK KORFEZI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "16:12:57",
+            "Latitude": "40.5092",
+            "Longitude": "32.9683",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "TUTMACBAYINDIR ORTA CANKIRI"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "15:49:30",
+            "Latitude": "39.5522",
+            "Longitude": "25.9260",
+            "Depth": "20.4",
+            "ML": "1.4",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "15:31:17",
+            "Latitude": "38.2105",
+            "Longitude": "30.9302",
+            "Depth": "5.3",
+            "ML": "1.6",
+            "Location": "ASAGITIRTAR YALVAC ISPARTA"
+        },
+        {
+            "Date": "2022.04.27",
             "Time": "15:16:41",
             "Latitude": "37.1897",
             "Longitude": "38.1525",
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "SUMAKLI BIRECIK SANLIURFA"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "15:07:05",
+            "Latitude": "37.4575",
+            "Longitude": "30.0197",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "PINARBASI KEMER BURDUR"
         },
         {
             "Date": "2022.04.27",
@@ -98,6 +143,24 @@
             "Depth": "5.4",
             "ML": "2.9",
             "Location": "TAVUKCUKURU BERGAMA IZMIR"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "09:33:54",
+            "Latitude": "37.0777",
+            "Longitude": "28.3522",
+            "Depth": "4.1",
+            "ML": "1.3",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "09:31:19",
+            "Latitude": "39.1240",
+            "Longitude": "27.5828",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "ADIL SOMA MANISA"
         },
         {
             "Date": "2022.04.27",
@@ -1079,6 +1142,15 @@
             "Depth": "2.5",
             "ML": "2.1",
             "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.04.24",
+            "Time": "16:37:11",
+            "Latitude": "36.5022",
+            "Longitude": "27.0837",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "ONIKI ADALAR AKDENIZ"
         },
         {
             "Date": "2022.04.24",
@@ -4382,78 +4454,6 @@
             "Depth": "10.8",
             "ML": "1.2",
             "Location": "YUKARIBERCIN TOSYA KASTAMONU"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "00:27:36",
-            "Latitude": "38.2332",
-            "Longitude": "27.2380",
-            "Depth": "3.6",
-            "ML": "1.5",
-            "Location": "YESILKOY TORBALI IZMIR"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "00:21:14",
-            "Latitude": "38.2825",
-            "Longitude": "27.2837",
-            "Depth": "8.7",
-            "ML": "1.9",
-            "Location": "DEMIRCI TORBALI IZMIR"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "23:05:10",
-            "Latitude": "39.2828",
-            "Longitude": "27.6480",
-            "Depth": "7.5",
-            "ML": "1.9",
-            "Location": "KIZILOREN SOMA MANISA"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "22:39:05",
-            "Latitude": "38.2128",
-            "Longitude": "38.7840",
-            "Depth": "26.7",
-            "ML": "1.6",
-            "Location": "ORMANICI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "22:25:05",
-            "Latitude": "38.2135",
-            "Longitude": "37.9985",
-            "Depth": "3.1",
-            "ML": "1.1",
-            "Location": "SUCATI DOGANSEHIR MALATYA"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "22:01:47",
-            "Latitude": "37.1115",
-            "Longitude": "36.8812",
-            "Depth": "5.2",
-            "ML": "1.4",
-            "Location": "HAMIDIYE NURDAGI GAZIANTEP"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "21:41:16",
-            "Latitude": "38.2728",
-            "Longitude": "27.2453",
-            "Depth": "11.7",
-            "ML": "1.9",
-            "Location": "YESILKOY TORBALI IZMIR"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "21:24:51",
-            "Latitude": "37.8005",
-            "Longitude": "27.2030",
-            "Depth": "8.5",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
