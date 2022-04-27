@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "Date": "2022.04.27",
+            "Time": "04:09:07",
+            "Latitude": "38.1308",
+            "Longitude": "38.5950",
+            "Depth": "4.6",
+            "ML": "1.4",
+            "Location": "TEKEDERESI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "03:54:23",
+            "Latitude": "37.0347",
+            "Longitude": "27.5603",
+            "Depth": "13.2",
+            "ML": "1.4",
+            "Location": "CAMLIK BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "03:33:36",
+            "Latitude": "39.2210",
+            "Longitude": "41.6718",
+            "Depth": "8.4",
+            "ML": "2.0",
+            "Location": "TORAMAN HINIS ERZURUM"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "02:05:32",
+            "Latitude": "37.8932",
+            "Longitude": "30.1210",
+            "Depth": "11.9",
+            "ML": "1.1",
+            "Location": "ASAGI BELTARLA BASMAKCI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "01:56:01",
+            "Latitude": "40.6693",
+            "Longitude": "27.4363",
+            "Depth": "12.2",
+            "ML": "1.1",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "01:41:04",
+            "Latitude": "37.8435",
+            "Longitude": "30.9318",
+            "Depth": "6.0",
+            "ML": "2.0",
+            "Location": "CAYKOY EGIRDIR ISPARTA"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "00:28:55",
+            "Latitude": "36.9253",
+            "Longitude": "27.6087",
+            "Depth": "16.5",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
             "Date": "2022.04.26",
             "Time": "23:02:16",
             "Latitude": "34.4672",
@@ -4400,69 +4463,6 @@
             "Depth": "16.9",
             "ML": "1.5",
             "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "13:25:44",
-            "Latitude": "36.9945",
-            "Longitude": "27.6620",
-            "Depth": "4.8",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "13:15:51",
-            "Latitude": "39.1320",
-            "Longitude": "29.0532",
-            "Depth": "12.3",
-            "ML": "1.7",
-            "Location": "KAPIKAYA SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "12:53:45",
-            "Latitude": "36.9695",
-            "Longitude": "27.6113",
-            "Depth": "9.9",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "12:23:54",
-            "Latitude": "36.9757",
-            "Longitude": "27.6413",
-            "Depth": "13.1",
-            "ML": "2.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "12:16:04",
-            "Latitude": "39.5418",
-            "Longitude": "41.0997",
-            "Depth": "12.1",
-            "ML": "1.3",
-            "Location": "HATUNKOY CAT ERZURUM"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "11:51:37",
-            "Latitude": "37.0358",
-            "Longitude": "28.3785",
-            "Depth": "3.6",
-            "ML": "1.0",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "11:44:39",
-            "Latitude": "37.0155",
-            "Longitude": "27.6518",
-            "Depth": "7.2",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
