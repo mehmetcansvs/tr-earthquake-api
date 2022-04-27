@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.27",
+            "Time": "17:22:42",
+            "Latitude": "37.0542",
+            "Longitude": "28.4143",
+            "Depth": "13.9",
+            "ML": "2.2",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.27",
             "Time": "17:02:19",
             "Latitude": "40.4387",
             "Longitude": "28.7850",
@@ -61,7 +70,16 @@
             "Longitude": "34.1768",
             "Depth": "13.8",
             "ML": "1.6",
-            "Location": "YALNIZCEVIZ AKSARAY REVIZE YALIKOY CATALCA ISTANBUL"
+            "Location": "YALNIZCEVIZ AKSARAY REVIZE AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "13:11:26",
+            "Latitude": "41.4947",
+            "Longitude": "28.2665",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "YALIKOY CATALCA ISTANBUL"
         },
         {
             "Date": "2022.04.27",
@@ -4436,24 +4454,6 @@
             "Depth": "20.2",
             "ML": "1.7",
             "Location": "DEMIRCILER NAZILLI AYDIN"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "00:43:58",
-            "Latitude": "38.9737",
-            "Longitude": "41.9863",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "OGLAKKAYA BULANIK MUS"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "00:27:36",
-            "Latitude": "41.0752",
-            "Longitude": "33.8545",
-            "Depth": "10.8",
-            "ML": "1.2",
-            "Location": "YUKARIBERCIN TOSYA KASTAMONU"
         }
     ]
 }
