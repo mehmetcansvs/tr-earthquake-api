@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.27",
+            "Time": "20:20:19",
+            "Latitude": "37.0142",
+            "Longitude": "28.3357",
+            "Depth": "18.3",
+            "ML": "1.9",
+            "Location": "GOKCE ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "20:10:15",
+            "Latitude": "37.0148",
+            "Longitude": "28.3693",
+            "Depth": "13.0",
+            "ML": "1.7",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.27",
             "Time": "17:22:42",
             "Latitude": "37.0542",
             "Longitude": "28.4143",
@@ -4436,24 +4454,6 @@
             "Depth": "3.9",
             "ML": "1.4",
             "Location": "KIZILYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "00:59:44",
-            "Latitude": "38.2853",
-            "Longitude": "27.2527",
-            "Depth": "8.6",
-            "ML": "1.8",
-            "Location": "YESILKOY TORBALI IZMIR"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "00:57:28",
-            "Latitude": "37.9943",
-            "Longitude": "28.4398",
-            "Depth": "20.2",
-            "ML": "1.7",
-            "Location": "DEMIRCILER NAZILLI AYDIN"
         }
     ]
 }
