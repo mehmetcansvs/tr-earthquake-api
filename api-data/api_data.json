@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.27",
+            "Time": "15:16:41",
+            "Latitude": "37.1897",
+            "Longitude": "38.1525",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "SUMAKLI BIRECIK SANLIURFA"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "14:40:12",
+            "Latitude": "38.4963",
+            "Longitude": "34.1768",
+            "Depth": "13.8",
+            "ML": "1.6",
+            "Location": "YALNIZCEVIZ AKSARAY REVIZE YALIKOY CATALCA ISTANBUL"
+        },
+        {
+            "Date": "2022.04.27",
+            "Time": "13:00:44",
+            "Latitude": "36.9848",
+            "Longitude": "28.2258",
+            "Depth": "7.8",
+            "ML": "1.9",
+            "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.04.27",
             "Time": "12:23:30",
             "Latitude": "36.1798",
             "Longitude": "33.7677",
@@ -4427,42 +4454,6 @@
             "Depth": "8.5",
             "ML": "1.6",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "21:02:30",
-            "Latitude": "39.4425",
-            "Longitude": "36.6710",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "GUNEY SIVAS"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "20:31:34",
-            "Latitude": "38.5110",
-            "Longitude": "39.2233",
-            "Depth": "19.4",
-            "ML": "1.8",
-            "Location": "KAVAKTEPE ELAZIG"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "20:17:18",
-            "Latitude": "37.0165",
-            "Longitude": "30.5197",
-            "Depth": "71.9",
-            "ML": "1.7",
-            "Location": "YAGCA DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2022.04.17",
-            "Time": "19:28:40",
-            "Latitude": "36.9522",
-            "Longitude": "28.8922",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "AKKOPRU KOYCEGIZ MUGLA"
         }
     ]
 }
