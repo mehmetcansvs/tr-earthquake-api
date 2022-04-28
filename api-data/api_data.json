@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.28",
+            "Time": "10:33:50",
+            "Latitude": "35.9057",
+            "Longitude": "30.9613",
+            "Depth": "10.6",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "09:28:54",
+            "Latitude": "37.8615",
+            "Longitude": "29.2873",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "GURLEYIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "09:24:46",
+            "Latitude": "37.8892",
+            "Longitude": "29.2533",
+            "Depth": "7.6",
+            "ML": "1.9",
+            "Location": "IRLIGANLI DENIZLI"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "08:55:39",
+            "Latitude": "39.5110",
+            "Longitude": "38.3370",
+            "Depth": "0.0",
+            "ML": "2.0",
+            "Location": "SARIKONAK ILIC ERZINCAN"
+        },
+        {
+            "Date": "2022.04.28",
             "Time": "08:06:05",
             "Latitude": "38.4860",
             "Longitude": "30.7547",
@@ -2576,6 +2612,15 @@
         },
         {
             "Date": "2022.04.22",
+            "Time": "09:42:05",
+            "Latitude": "38.1573",
+            "Longitude": "25.9822",
+            "Depth": "16.8",
+            "ML": "1.7",
+            "Location": "SAKIZ ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.22",
             "Time": "09:34:35",
             "Latitude": "40.4773",
             "Longitude": "26.2668",
@@ -4409,51 +4454,6 @@
             "Depth": "7.1",
             "ML": "2.1",
             "Location": "ONAC MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "19:41:04",
-            "Latitude": "36.7093",
-            "Longitude": "29.0977",
-            "Depth": "5.0",
-            "ML": "1.0",
-            "Location": "KARGI FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "19:34:15",
-            "Latitude": "37.1372",
-            "Longitude": "28.9785",
-            "Depth": "24.0",
-            "ML": "1.4",
-            "Location": "UZUNOLUK BEYAGAC DENIZLI"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "19:00:12",
-            "Latitude": "37.0052",
-            "Longitude": "28.4468",
-            "Depth": "11.4",
-            "ML": "1.5",
-            "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "18:26:36",
-            "Latitude": "35.0565",
-            "Longitude": "24.0300",
-            "Depth": "21.7",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "16:04:06",
-            "Latitude": "37.8690",
-            "Longitude": "25.3900",
-            "Depth": "9.1",
-            "ML": "2.4",
-            "Location": "EGE DENIZI"
         }
     ]
 }
