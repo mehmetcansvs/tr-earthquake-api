@@ -1,6 +1,78 @@
 {
     "data": [
         {
+            "Date": "2022.04.29",
+            "Time": "00:22:39",
+            "Latitude": "36.9787",
+            "Longitude": "27.6582",
+            "Depth": "5.6",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "00:12:28",
+            "Latitude": "37.0237",
+            "Longitude": "28.3172",
+            "Depth": "8.2",
+            "ML": "1.4",
+            "Location": "GOKCE ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "23:56:40",
+            "Latitude": "39.8822",
+            "Longitude": "41.3888",
+            "Depth": "12.5",
+            "ML": "1.6",
+            "Location": "GERDEKKAYA PASINLER ERZURUM"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "23:42:29",
+            "Latitude": "36.9695",
+            "Longitude": "27.6433",
+            "Depth": "6.5",
+            "ML": "1.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "23:40:53",
+            "Latitude": "36.9637",
+            "Longitude": "27.6587",
+            "Depth": "5.3",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "23:13:07",
+            "Latitude": "40.3643",
+            "Longitude": "42.1655",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "GULLUDAG NARMAN ERZURUM"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "23:04:31",
+            "Latitude": "39.2790",
+            "Longitude": "25.9103",
+            "Depth": "10.1",
+            "ML": "1.4",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "22:50:50",
+            "Latitude": "37.9323",
+            "Longitude": "26.9418",
+            "Depth": "5.1",
+            "ML": "1.4",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
             "Date": "2022.04.28",
             "Time": "22:34:31",
             "Latitude": "35.3518",
@@ -4364,78 +4436,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "CANAKCI KALE MALATYA REVIZE CAMKOY GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "10:23:53",
-            "Latitude": "37.2353",
-            "Longitude": "29.5547",
-            "Depth": "26.8",
-            "ML": "1.7",
-            "Location": "CAMKOY GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "10:17:34",
-            "Latitude": "37.3503",
-            "Longitude": "35.0468",
-            "Depth": "3.6",
-            "ML": "3.0",
-            "Location": "GILDIRLI KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "09:45:56",
-            "Latitude": "35.3348",
-            "Longitude": "25.3782",
-            "Depth": "1.5",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "09:35:16",
-            "Latitude": "39.4723",
-            "Longitude": "32.3233",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "KARAYAVSAN POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "09:32:11",
-            "Latitude": "36.9828",
-            "Longitude": "27.6373",
-            "Depth": "8.2",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "07:47:13",
-            "Latitude": "40.8677",
-            "Longitude": "31.7057",
-            "Depth": "4.6",
-            "ML": "2.2",
-            "Location": "MESCICELE BOLU"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "07:39:36",
-            "Latitude": "36.1318",
-            "Longitude": "28.9623",
-            "Depth": "8.2",
-            "ML": "1.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "06:18:17",
-            "Latitude": "36.0315",
-            "Longitude": "28.8052",
-            "Depth": "7.4",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
