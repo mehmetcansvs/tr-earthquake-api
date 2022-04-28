@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.28",
+            "Time": "15:10:07",
+            "Latitude": "37.8897",
+            "Longitude": "28.0318",
+            "Depth": "3.7",
+            "ML": "1.4",
+            "Location": "GUZELKOY KOSK AYDIN"
+        },
+        {
+            "Date": "2022.04.28",
             "Time": "14:35:49",
             "Latitude": "36.1150",
             "Longitude": "33.5272",
@@ -2559,20 +2568,11 @@
         {
             "Date": "2022.04.22",
             "Time": "13:14:16",
-            "Latitude": "39.3153",
-            "Longitude": "39.2308",
-            "Depth": "9.0",
-            "ML": "2.2",
-            "Location": "KOZLUCA OVACIK TUNCELI"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "13:04:07",
-            "Latitude": "39.6912",
-            "Longitude": "30.7547",
-            "Depth": "12.0",
-            "ML": "1.7",
-            "Location": "IMISEHIR ODUNPAZARI ESKISEHIR"
+            "Latitude": "39.3120",
+            "Longitude": "39.2953",
+            "Depth": "15.2",
+            "ML": "2.0",
+            "Location": "YAYLAGUNU OVACIK TUNCELI REVIZE IMISEHIR ODUNPAZARI ESKISEHIR"
         },
         {
             "Date": "2022.04.22",
@@ -4444,15 +4444,6 @@
             "Longitude": "26.9682",
             "Depth": "5.0",
             "ML": "2.4",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "23:15:22",
-            "Latitude": "35.7208",
-            "Longitude": "26.9483",
-            "Depth": "11.0",
-            "ML": "2.7",
             "Location": "AKDENIZ"
         }
     ]
