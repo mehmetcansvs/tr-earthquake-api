@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.28",
+            "Time": "12:35:04",
+            "Latitude": "37.0082",
+            "Longitude": "28.4628",
+            "Depth": "5.4",
+            "ML": "1.1",
+            "Location": "ESENTEPE ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "12:10:29",
+            "Latitude": "38.6675",
+            "Longitude": "35.7128",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "KAMBER TALAS KAYSERI"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "11:57:53",
+            "Latitude": "36.6860",
+            "Longitude": "36.4798",
+            "Depth": "7.2",
+            "ML": "2.5",
+            "Location": "AKTEPE HASSA HATAY"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "10:33:59",
+            "Latitude": "38.9735",
+            "Longitude": "37.3867",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "DURMEPINAR GURUN SIVAS"
+        },
+        {
+            "Date": "2022.04.28",
             "Time": "10:33:50",
             "Latitude": "35.9057",
             "Longitude": "30.9613",
@@ -4418,42 +4454,6 @@
             "Depth": "11.1",
             "ML": "1.8",
             "Location": "BOZKOY GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "20:41:50",
-            "Latitude": "40.8683",
-            "Longitude": "28.2955",
-            "Depth": "7.0",
-            "ML": "2.5",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "20:27:20",
-            "Latitude": "37.0427",
-            "Longitude": "28.4353",
-            "Depth": "18.7",
-            "ML": "1.0",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "20:18:06",
-            "Latitude": "34.8300",
-            "Longitude": "23.7115",
-            "Depth": "21.7",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "19:44:22",
-            "Latitude": "40.0860",
-            "Longitude": "28.6288",
-            "Depth": "7.1",
-            "ML": "2.1",
-            "Location": "ONAC MUSTAFAKEMALPASA BURSA"
         }
     ]
 }
