@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.04.28",
+            "Time": "06:50:11",
+            "Latitude": "37.0185",
+            "Longitude": "28.3758",
+            "Depth": "7.5",
+            "ML": "1.9",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "06:06:55",
+            "Latitude": "37.0198",
+            "Longitude": "28.3742",
+            "Depth": "10.1",
+            "ML": "1.9",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.28",
             "Time": "04:47:04",
             "Latitude": "39.2662",
             "Longitude": "29.1355",
             "Depth": "7.8",
             "ML": "2.2",
             "Location": "GONCEK EMET KUTAHYA"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "04:42:57",
+            "Latitude": "39.2792",
+            "Longitude": "29.1425",
+            "Depth": "6.1",
+            "ML": "1.8",
+            "Location": "GONCEK EMET KUTAHYA"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "04:40:01",
+            "Latitude": "39.8850",
+            "Longitude": "26.0250",
+            "Depth": "10.8",
+            "ML": "1.5",
+            "Location": "BOZCAADA CANAKKALE"
         },
         {
             "Date": "2022.04.28",
@@ -4418,42 +4454,6 @@
             "Depth": "4.9",
             "ML": "1.6",
             "Location": "KIZKALESI ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "13:20:21",
-            "Latitude": "39.2630",
-            "Longitude": "33.6103",
-            "Depth": "8.0",
-            "ML": "1.8",
-            "Location": "YENIKOY KAMAN KIRSEHIR"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "13:06:19",
-            "Latitude": "35.0485",
-            "Longitude": "25.2885",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "12:57:11",
-            "Latitude": "35.2928",
-            "Longitude": "25.2722",
-            "Depth": "3.9",
-            "ML": "3.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.18",
-            "Time": "12:51:17",
-            "Latitude": "37.0805",
-            "Longitude": "28.4453",
-            "Depth": "3.0",
-            "ML": "1.9",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
