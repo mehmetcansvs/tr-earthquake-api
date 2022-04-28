@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.28",
+            "Time": "19:35:05",
+            "Latitude": "40.7240",
+            "Longitude": "35.2013",
+            "Depth": "9.2",
+            "ML": "2.0",
+            "Location": "AKPINAR GUMUSHACIKOY AMASYA"
+        },
+        {
+            "Date": "2022.04.28",
             "Time": "19:15:42",
             "Latitude": "37.0748",
             "Longitude": "28.3807",
@@ -35,6 +44,15 @@
             "Depth": "13.3",
             "ML": "2.1",
             "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.04.28",
+            "Time": "17:38:53",
+            "Latitude": "35.3343",
+            "Longitude": "23.4842",
+            "Depth": "5.0",
+            "ML": "3.5",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.04.28",
@@ -4427,24 +4445,6 @@
             "Depth": "3.6",
             "ML": "1.8",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "01:15:42",
-            "Latitude": "37.0765",
-            "Longitude": "28.4183",
-            "Depth": "28.7",
-            "ML": "1.0",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "00:41:43",
-            "Latitude": "36.3088",
-            "Longitude": "30.1693",
-            "Depth": "3.8",
-            "ML": "2.1",
-            "Location": "FINIKE ANTALYA"
         }
     ]
 }
