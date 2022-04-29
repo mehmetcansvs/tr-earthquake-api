@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.29",
+            "Time": "03:57:08",
+            "Latitude": "37.0565",
+            "Longitude": "28.4175",
+            "Depth": "6.9",
+            "ML": "1.8",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "03:36:33",
+            "Latitude": "37.8813",
+            "Longitude": "29.2593",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "IRLIGANLI DENIZLI"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "02:50:55",
+            "Latitude": "37.2035",
+            "Longitude": "30.5867",
+            "Depth": "1.1",
+            "ML": "1.6",
+            "Location": "KARAVELILER DOSEMEALTI ANTALYA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "01:33:05",
+            "Latitude": "37.0005",
+            "Longitude": "27.7225",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "MAZIKOY BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "01:15:52",
+            "Latitude": "37.0490",
+            "Longitude": "28.4207",
+            "Depth": "8.3",
+            "ML": "1.8",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "01:12:04",
+            "Latitude": "37.8548",
+            "Longitude": "26.9217",
+            "Depth": "6.1",
+            "ML": "2.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.29",
             "Time": "00:22:39",
             "Latitude": "36.9787",
             "Longitude": "27.6582",
@@ -4391,51 +4445,6 @@
             "Depth": "4.9",
             "ML": "1.6",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "13:02:03",
-            "Latitude": "37.8038",
-            "Longitude": "27.3132",
-            "Depth": "4.2",
-            "ML": "1.4",
-            "Location": "SOGUCAK KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "12:04:01",
-            "Latitude": "39.5365",
-            "Longitude": "27.3307",
-            "Depth": "3.4",
-            "ML": "1.8",
-            "Location": "KOBAKLAR HAVRAN BALIKESIR"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "12:01:40",
-            "Latitude": "37.9287",
-            "Longitude": "29.2352",
-            "Depth": "25.4",
-            "ML": "1.2",
-            "Location": "GUZELPINAR DENIZLI"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "11:56:53",
-            "Latitude": "36.9515",
-            "Longitude": "27.3997",
-            "Depth": "6.6",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "11:47:21",
-            "Latitude": "38.3292",
-            "Longitude": "38.8000",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "CANAKCI KALE MALATYA REVIZE CAMKOY GOLHISAR BURDUR"
         }
     ]
 }
