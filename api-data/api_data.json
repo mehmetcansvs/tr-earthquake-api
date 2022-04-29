@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.04.29",
+            "Time": "22:30:22",
+            "Latitude": "38.2892",
+            "Longitude": "38.8125",
+            "Depth": "11.2",
+            "ML": "1.8",
+            "Location": "BOLUKKAYA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "22:16:39",
+            "Latitude": "36.9712",
+            "Longitude": "27.6650",
+            "Depth": "6.7",
+            "ML": "2.0",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "22:05:16",
+            "Latitude": "38.2890",
+            "Longitude": "38.8070",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "BOLUKKAYA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "22:02:30",
+            "Latitude": "39.9767",
+            "Longitude": "41.8633",
+            "Depth": "6.0",
+            "ML": "1.2",
+            "Location": "KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "21:42:12",
+            "Latitude": "39.9933",
+            "Longitude": "41.8305",
+            "Depth": "11.4",
+            "ML": "1.2",
+            "Location": "ESENDERE PASINLER ERZURUM"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "21:10:11",
+            "Latitude": "40.4822",
+            "Longitude": "33.0275",
+            "Depth": "5.3",
+            "ML": "1.6",
+            "Location": "AVCIOVA CUBUK ANKARA"
+        },
+        {
+            "Date": "2022.04.29",
             "Time": "21:07:33",
             "Latitude": "37.0460",
             "Longitude": "28.2002",
@@ -62,6 +116,15 @@
             "Depth": "3.8",
             "ML": "1.4",
             "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "20:12:39",
+            "Latitude": "38.3465",
+            "Longitude": "26.5432",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "KADIOVACIK URLA IZMIR"
         },
         {
             "Date": "2022.04.29",
@@ -4391,69 +4454,6 @@
             "Depth": "68.5",
             "ML": "2.2",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "19:19:33",
-            "Latitude": "38.9432",
-            "Longitude": "31.2418",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "KARACALAR EMIRDAG AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "19:01:14",
-            "Latitude": "39.4388",
-            "Longitude": "41.1490",
-            "Depth": "8.1",
-            "ML": "1.5",
-            "Location": "CIMENOZU CAT ERZURUM"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "18:44:01",
-            "Latitude": "39.6307",
-            "Longitude": "41.0658",
-            "Depth": "9.8",
-            "ML": "2.0",
-            "Location": "BUDAKLAR CAT ERZURUM"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "17:01:15",
-            "Latitude": "37.2483",
-            "Longitude": "37.1178",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "COCELLI PAZARCIK KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "15:10:51",
-            "Latitude": "36.4522",
-            "Longitude": "25.0047",
-            "Depth": "9.6",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "13:58:58",
-            "Latitude": "40.6205",
-            "Longitude": "26.5635",
-            "Depth": "4.4",
-            "ML": "1.1",
-            "Location": "MECIDIYE KESAN EDIRNE"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "13:16:53",
-            "Latitude": "36.5012",
-            "Longitude": "29.2317",
-            "Depth": "22.3",
-            "ML": "2.3",
-            "Location": "MINARE FETHIYE MUGLA"
         }
     ]
 }
