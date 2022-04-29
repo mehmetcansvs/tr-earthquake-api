@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.29",
+            "Time": "07:17:55",
+            "Latitude": "37.8647",
+            "Longitude": "27.1478",
+            "Depth": "11.3",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "06:53:46",
+            "Latitude": "37.8838",
+            "Longitude": "29.2610",
+            "Depth": "9.3",
+            "ML": "2.1",
+            "Location": "IRLIGANLI DENIZLI"
+        },
+        {
+            "Date": "2022.04.29",
             "Time": "05:52:02",
             "Latitude": "41.1720",
             "Longitude": "34.4827",
@@ -4427,24 +4445,6 @@
             "Depth": "10.1",
             "ML": "2.4",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "15:05:46",
-            "Latitude": "40.8238",
-            "Longitude": "28.1983",
-            "Depth": "11.7",
-            "ML": "1.5",
-            "Location": "SILIVRI ACIKLARI ISTANBUL MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "14:33:43",
-            "Latitude": "36.9710",
-            "Longitude": "27.6610",
-            "Depth": "7.5",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
