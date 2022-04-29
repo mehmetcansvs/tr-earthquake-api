@@ -2,6 +2,96 @@
     "data": [
         {
             "Date": "2022.04.29",
+            "Time": "21:07:33",
+            "Latitude": "37.0460",
+            "Longitude": "28.2002",
+            "Depth": "4.8",
+            "ML": "1.7",
+            "Location": "KIRAN MUGLA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "21:01:32",
+            "Latitude": "37.0428",
+            "Longitude": "31.0813",
+            "Depth": "23.8",
+            "ML": "2.0",
+            "Location": "GOKCEPINAR SERIK ANTALYA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "20:51:36",
+            "Latitude": "37.0500",
+            "Longitude": "28.1980",
+            "Depth": "8.1",
+            "ML": "1.6",
+            "Location": "KIRAN MUGLA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "20:38:18",
+            "Latitude": "37.0548",
+            "Longitude": "28.1637",
+            "Depth": "5.2",
+            "ML": "1.1",
+            "Location": "KIRAN MUGLA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "20:35:33",
+            "Latitude": "37.0533",
+            "Longitude": "28.2308",
+            "Depth": "11.5",
+            "ML": "3.8",
+            "Location": "KIRAN MUGLA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "20:21:38",
+            "Latitude": "38.1853",
+            "Longitude": "30.9848",
+            "Depth": "12.3",
+            "ML": "1.4",
+            "Location": "KOKE GELENDOST ISPARTA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "20:18:09",
+            "Latitude": "36.5122",
+            "Longitude": "27.2533",
+            "Depth": "3.8",
+            "ML": "1.4",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "19:57:12",
+            "Latitude": "39.5178",
+            "Longitude": "26.0788",
+            "Depth": "11.5",
+            "ML": "1.9",
+            "Location": "GULPINAR AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "19:26:22",
+            "Latitude": "37.0665",
+            "Longitude": "28.3103",
+            "Depth": "6.1",
+            "ML": "1.7",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "19:20:14",
+            "Latitude": "37.8747",
+            "Longitude": "27.5672",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "KIZILCAPINAR GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.04.29",
             "Time": "19:14:33",
             "Latitude": "36.9658",
             "Longitude": "27.6940",
@@ -4364,87 +4454,6 @@
             "Depth": "22.3",
             "ML": "2.3",
             "Location": "MINARE FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "13:15:46",
-            "Latitude": "36.7460",
-            "Longitude": "34.3673",
-            "Depth": "1.4",
-            "ML": "1.0",
-            "Location": "TOMEKLI ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "11:16:25",
-            "Latitude": "39.1698",
-            "Longitude": "27.5272",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "AVDAN SOMA MANISA"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "11:13:56",
-            "Latitude": "41.0803",
-            "Longitude": "26.7727",
-            "Depth": "1.7",
-            "ML": "0.9",
-            "Location": "CAVUSLU UZUNKOPRU EDIRNE"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "11:09:19",
-            "Latitude": "35.4125",
-            "Longitude": "27.9557",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "11:01:07",
-            "Latitude": "41.3980",
-            "Longitude": "32.9547",
-            "Depth": "6.3",
-            "ML": "2.1",
-            "Location": "GELICEK EFLANI KARABUK REVIZE KAVLAK KESKIN KIRIKKALE"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "09:09:15",
-            "Latitude": "37.2172",
-            "Longitude": "29.0460",
-            "Depth": "8.8",
-            "ML": "1.7",
-            "Location": "ALPA TAVAS DENIZLI"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "07:27:43",
-            "Latitude": "37.8717",
-            "Longitude": "26.9780",
-            "Depth": "4.2",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "05:16:04",
-            "Latitude": "40.0512",
-            "Longitude": "28.6428",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "KOREKEM MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "04:57:02",
-            "Latitude": "39.2083",
-            "Longitude": "24.1402",
-            "Depth": "11.2",
-            "ML": "2.5",
-            "Location": "YUNANISTAN"
         }
     ]
 }
