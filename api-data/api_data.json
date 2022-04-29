@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.04.30",
+            "Time": "00:42:36",
+            "Latitude": "36.3103",
+            "Longitude": "28.8653",
+            "Depth": "25.8",
+            "ML": "1.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "00:40:06",
+            "Latitude": "40.0140",
+            "Longitude": "41.8373",
+            "Depth": "7.8",
+            "ML": "1.2",
+            "Location": "ESENDERE PASINLER ERZURUM"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "23:53:34",
+            "Latitude": "38.7503",
+            "Longitude": "39.9825",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "SENOVA KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "23:45:53",
+            "Latitude": "35.7873",
+            "Longitude": "31.1468",
+            "Depth": "6.0",
+            "ML": "3.2",
+            "Location": "AKDENIZ"
+        },
+        {
             "Date": "2022.04.29",
             "Time": "22:30:22",
             "Latitude": "38.2892",
@@ -4418,42 +4454,6 @@
             "Depth": "7.8",
             "ML": "1.4",
             "Location": "KAPAKLI AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "21:00:41",
-            "Latitude": "39.8065",
-            "Longitude": "25.6557",
-            "Depth": "1.9",
-            "ML": "2.3",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "20:56:40",
-            "Latitude": "38.8862",
-            "Longitude": "27.7328",
-            "Depth": "12.5",
-            "ML": "1.4",
-            "Location": "KAPAKLI AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "20:54:50",
-            "Latitude": "35.5172",
-            "Longitude": "26.1273",
-            "Depth": "14.8",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "20:34:22",
-            "Latitude": "35.0538",
-            "Longitude": "23.0128",
-            "Depth": "68.5",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
