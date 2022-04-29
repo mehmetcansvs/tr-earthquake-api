@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.29",
+            "Time": "08:45:55",
+            "Latitude": "34.5412",
+            "Longitude": "24.4488",
+            "Depth": "7.6",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "08:32:11",
+            "Latitude": "39.1083",
+            "Longitude": "27.5518",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "DEREKOY SOMA MANISA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "07:55:37",
+            "Latitude": "38.1962",
+            "Longitude": "36.2773",
+            "Depth": "13.4",
+            "ML": "1.8",
+            "Location": "KAYIRCIK TUFANBEYLI ADANA"
+        },
+        {
+            "Date": "2022.04.29",
             "Time": "07:17:55",
             "Latitude": "37.8647",
             "Longitude": "27.1478",
@@ -4418,33 +4445,6 @@
             "Depth": "5.3",
             "ML": "1.7",
             "Location": "TETEMECELE BOLU"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "15:19:53",
-            "Latitude": "36.5150",
-            "Longitude": "25.3080",
-            "Depth": "7.9",
-            "ML": "3.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "15:17:14",
-            "Latitude": "36.3593",
-            "Longitude": "25.3867",
-            "Depth": "13.8",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "15:11:11",
-            "Latitude": "35.3757",
-            "Longitude": "27.7333",
-            "Depth": "10.1",
-            "ML": "2.4",
-            "Location": "AKDENIZ"
         }
     ]
 }
