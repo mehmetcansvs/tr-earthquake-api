@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.29",
+            "Time": "17:06:10",
+            "Latitude": "36.9248",
+            "Longitude": "27.6458",
+            "Depth": "3.2",
+            "ML": "2.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "17:01:10",
+            "Latitude": "35.0583",
+            "Longitude": "24.9838",
+            "Depth": "2.5",
+            "ML": "4.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "16:32:37",
+            "Latitude": "39.3903",
+            "Longitude": "26.1280",
+            "Depth": "6.9",
+            "ML": "2.0",
+            "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "13:43:46",
+            "Latitude": "34.7222",
+            "Longitude": "24.7552",
+            "Depth": "7.5",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.29",
             "Time": "13:21:54",
             "Latitude": "40.8737",
             "Longitude": "31.7065",
@@ -4409,42 +4445,6 @@
             "Depth": "6.7",
             "ML": "2.4",
             "Location": "KARAKOY VARTO MUS"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "02:38:33",
-            "Latitude": "40.7577",
-            "Longitude": "31.5727",
-            "Depth": "10.7",
-            "ML": "1.8",
-            "Location": "PIRAHMETLER BOLU"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "02:08:14",
-            "Latitude": "37.0965",
-            "Longitude": "28.3222",
-            "Depth": "17.4",
-            "ML": "1.3",
-            "Location": "YENICE MUGLA"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "01:45:28",
-            "Latitude": "37.1407",
-            "Longitude": "29.0430",
-            "Depth": "5.8",
-            "ML": "1.7",
-            "Location": "SANDALCIK ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "01:27:16",
-            "Latitude": "40.6687",
-            "Longitude": "32.7680",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "YAGCIHUSEYIN KIZILCAHAMAM ANKARA"
         }
     ]
 }
