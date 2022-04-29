@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.29",
+            "Time": "11:23:29",
+            "Latitude": "38.2415",
+            "Longitude": "38.6995",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "CAYKOY PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "11:17:21",
+            "Latitude": "38.3173",
+            "Longitude": "27.3032",
+            "Depth": "5.3",
+            "ML": "1.7",
+            "Location": "KIRIKLAR BUCA IZMIR"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "11:13:22",
+            "Latitude": "38.4475",
+            "Longitude": "38.6110",
+            "Depth": "5.2",
+            "ML": "1.5",
+            "Location": "ALANGOREN BASKIL ELAZIG"
+        },
+        {
+            "Date": "2022.04.29",
             "Time": "11:09:08",
             "Latitude": "37.0603",
             "Longitude": "28.4128",
@@ -4418,33 +4445,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "BOLUKKAYA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "20:47:16",
-            "Latitude": "40.5112",
-            "Longitude": "42.6023",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "BEYKOY SELIM KARS"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "18:34:40",
-            "Latitude": "37.0047",
-            "Longitude": "29.1882",
-            "Depth": "6.0",
-            "ML": "2.3",
-            "Location": "KIRAZLIYAYLA CAMELI DENIZLI"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "18:18:26",
-            "Latitude": "39.4705",
-            "Longitude": "32.3630",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "KARAYAVSAN POLATLI ANKARA"
         }
     ]
 }
