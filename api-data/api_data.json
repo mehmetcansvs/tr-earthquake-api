@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.29",
+            "Time": "05:52:02",
+            "Latitude": "41.1720",
+            "Longitude": "34.4827",
+            "Depth": "2.5",
+            "ML": "2.0",
+            "Location": "KARAKESE KARGI CORUM"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "05:37:46",
+            "Latitude": "37.0697",
+            "Longitude": "36.1887",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "AKYAR OSMANIYE"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "05:25:11",
+            "Latitude": "39.9618",
+            "Longitude": "42.2237",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "YARBOGAZ HORASAN ERZURUM"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "05:15:51",
+            "Latitude": "36.0112",
+            "Longitude": "27.2597",
+            "Depth": "7.8",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "04:18:59",
+            "Latitude": "37.8473",
+            "Longitude": "29.2742",
+            "Depth": "11.3",
+            "ML": "1.5",
+            "Location": "GURLEYIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.04.29",
             "Time": "03:57:08",
             "Latitude": "37.0565",
             "Longitude": "28.4175",
@@ -4400,51 +4445,6 @@
             "Depth": "7.5",
             "ML": "2.0",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "14:32:21",
-            "Latitude": "39.5522",
-            "Longitude": "25.2993",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "14:10:51",
-            "Latitude": "40.8548",
-            "Longitude": "31.8272",
-            "Depth": "13.2",
-            "ML": "1.2",
-            "Location": "AFSAR MENGEN BOLU"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "13:58:23",
-            "Latitude": "36.9700",
-            "Longitude": "27.6243",
-            "Depth": "3.4",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "13:38:07",
-            "Latitude": "37.2517",
-            "Longitude": "31.7200",
-            "Depth": "3.0",
-            "ML": "1.9",
-            "Location": "SALIHLER AKSEKI ANTALYA"
-        },
-        {
-            "Date": "2022.04.19",
-            "Time": "13:23:29",
-            "Latitude": "37.0023",
-            "Longitude": "28.3887",
-            "Depth": "4.9",
-            "ML": "1.6",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
