@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.30",
+            "Time": "18:47:01",
+            "Latitude": "34.9128",
+            "Longitude": "25.3442",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "18:46:39",
+            "Latitude": "39.0167",
+            "Longitude": "30.1968",
+            "Depth": "8.3",
+            "ML": "2.3",
+            "Location": "YOLCATI ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "17:56:49",
+            "Latitude": "34.9027",
+            "Longitude": "24.2493",
+            "Depth": "8.1",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "17:00:10",
+            "Latitude": "35.9445",
+            "Longitude": "31.8548",
+            "Depth": "72.5",
+            "ML": "3.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.30",
             "Time": "15:49:32",
             "Latitude": "37.0728",
             "Longitude": "27.9682",
@@ -4418,42 +4454,6 @@
             "Depth": "8.0",
             "ML": "1.7",
             "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "06:26:08",
-            "Latitude": "37.2412",
-            "Longitude": "29.5923",
-            "Depth": "8.9",
-            "ML": "2.0",
-            "Location": "KUCUKALAN CAVDIR BURDUR"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "05:51:34",
-            "Latitude": "38.6543",
-            "Longitude": "43.1802",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "MOLLAKASIM VAN"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "05:30:56",
-            "Latitude": "34.7067",
-            "Longitude": "24.1053",
-            "Depth": "21.8",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "04:14:04",
-            "Latitude": "38.4727",
-            "Longitude": "39.2087",
-            "Depth": "38.4",
-            "ML": "1.9",
-            "Location": "DEDEYOLU SIVRICE ELAZIG"
         }
     ]
 }
