@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.05.01",
+            "Time": "00:29:44",
+            "Latitude": "39.9920",
+            "Longitude": "26.0808",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "UVECIK ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "23:07:20",
+            "Latitude": "38.3392",
+            "Longitude": "23.4455",
+            "Depth": "13.2",
+            "ML": "2.9",
+            "Location": "YUNANISTAN"
+        },
+        {
             "Date": "2022.04.30",
             "Time": "22:38:21",
             "Latitude": "36.9677",
@@ -4436,24 +4454,6 @@
             "Depth": "14.2",
             "ML": "2.3",
             "Location": "BALLITAS ASKALE ERZURUM"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "08:09:20",
-            "Latitude": "37.0297",
-            "Longitude": "27.6283",
-            "Depth": "7.3",
-            "ML": "1.9",
-            "Location": "PINARLIBELEN BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "07:32:24",
-            "Latitude": "40.4615",
-            "Longitude": "42.4008",
-            "Depth": "3.1",
-            "ML": "1.7",
-            "Location": "SENPINAR SENKAYA ERZURUM"
         }
     ]
 }
