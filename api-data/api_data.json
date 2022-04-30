@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.30",
+            "Time": "06:59:58",
+            "Latitude": "39.1378",
+            "Longitude": "29.4832",
+            "Depth": "4.7",
+            "ML": "1.7",
+            "Location": "YUNUSLAR GEDIZ KUTAHYA"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "06:35:54",
+            "Latitude": "40.7737",
+            "Longitude": "27.7545",
+            "Depth": "5.0",
+            "ML": "3.6",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.04.30",
             "Time": "05:23:21",
             "Latitude": "36.1922",
             "Longitude": "31.3603",
@@ -4436,24 +4454,6 @@
             "Depth": "8.0",
             "ML": "2.3",
             "Location": "BULGARISTAN"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "22:08:43",
-            "Latitude": "35.3287",
-            "Longitude": "23.5052",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "22:03:33",
-            "Latitude": "35.3225",
-            "Longitude": "23.7525",
-            "Depth": "19.6",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
