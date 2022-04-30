@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.30",
+            "Time": "01:51:14",
+            "Latitude": "38.5593",
+            "Longitude": "44.2098",
+            "Depth": "5.0",
+            "ML": "3.1",
+            "Location": "KAZLIGOL SARAY VAN"
+        },
+        {
+            "Date": "2022.04.30",
             "Time": "00:42:36",
             "Latitude": "36.3103",
             "Longitude": "28.8653",
@@ -4445,15 +4454,6 @@
             "Depth": "14.6",
             "ML": "2.3",
             "Location": "GIRESUN ACIKLARI KARADENIZ"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "21:05:19",
-            "Latitude": "38.8777",
-            "Longitude": "27.7400",
-            "Depth": "7.8",
-            "ML": "1.4",
-            "Location": "KAPAKLI AKHISAR MANISA"
         }
     ]
 }
