@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.04.30",
+            "Time": "10:56:19",
+            "Latitude": "36.0577",
+            "Longitude": "29.2227",
+            "Depth": "9.9",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "10:49:34",
+            "Latitude": "35.8833",
+            "Longitude": "29.1537",
+            "Depth": "9.7",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "10:47:59",
+            "Latitude": "37.4010",
+            "Longitude": "38.6592",
+            "Depth": "14.3",
+            "ML": "2.2",
+            "Location": "KARACA BOZOVA SANLIURFA"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "09:52:50",
+            "Latitude": "40.8727",
+            "Longitude": "31.6835",
+            "Depth": "11.8",
+            "ML": "3.3",
+            "Location": "MESCICELE BOLU"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "09:12:03",
+            "Latitude": "38.8172",
+            "Longitude": "30.0090",
+            "Depth": "7.0",
+            "ML": "2.9",
+            "Location": "CIFTLIK BANAZ USAK"
+        },
+        {
+            "Date": "2022.04.30",
             "Time": "08:08:09",
             "Latitude": "38.5255",
             "Longitude": "39.3532",
@@ -4409,51 +4454,6 @@
             "Depth": "9.7",
             "ML": "1.4",
             "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "23:18:58",
-            "Latitude": "38.2822",
-            "Longitude": "38.1600",
-            "Depth": "7.4",
-            "ML": "1.6",
-            "Location": "SEYITUSAGI YESILYURT MALATYA"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "23:12:12",
-            "Latitude": "37.0412",
-            "Longitude": "28.4028",
-            "Depth": "20.2",
-            "ML": "1.4",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "23:09:47",
-            "Latitude": "37.0407",
-            "Longitude": "28.3590",
-            "Depth": "21.6",
-            "ML": "1.2",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "23:09:42",
-            "Latitude": "40.6203",
-            "Longitude": "27.7945",
-            "Depth": "16.2",
-            "ML": "2.0",
-            "Location": "ERDEK ACIKLARI BALIKESIR MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "23:04:18",
-            "Latitude": "40.6105",
-            "Longitude": "27.7990",
-            "Depth": "15.3",
-            "ML": "2.9",
-            "Location": "ERDEK ACIKLARI BALIKESIR MARMARA DENIZI"
         }
     ]
 }
