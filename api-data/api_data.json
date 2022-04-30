@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.04.30",
+            "Time": "22:38:21",
+            "Latitude": "36.9677",
+            "Longitude": "28.7387",
+            "Depth": "4.1",
+            "ML": "2.3",
+            "Location": "ZEYTINALANI KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "22:15:30",
+            "Latitude": "37.0647",
+            "Longitude": "29.0410",
+            "Depth": "9.6",
+            "ML": "1.9",
+            "Location": "KARACAM KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "22:13:35",
+            "Latitude": "36.9523",
+            "Longitude": "28.7312",
+            "Depth": "8.6",
+            "ML": "1.9",
+            "Location": "ZEYTINALANI KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "21:08:29",
+            "Latitude": "37.2913",
+            "Longitude": "30.5932",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "KARAOT BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.04.30",
             "Time": "18:47:01",
             "Latitude": "34.9128",
             "Longitude": "25.3442",
@@ -4418,42 +4454,6 @@
             "Depth": "3.1",
             "ML": "1.7",
             "Location": "SENPINAR SENKAYA ERZURUM"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "07:04:47",
-            "Latitude": "36.9892",
-            "Longitude": "27.6530",
-            "Depth": "8.1",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "06:55:45",
-            "Latitude": "36.7390",
-            "Longitude": "27.5018",
-            "Depth": "89.2",
-            "ML": "2.0",
-            "Location": "SINDI DATCA MUGLA"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "06:32:14",
-            "Latitude": "40.4715",
-            "Longitude": "34.7945",
-            "Depth": "5.6",
-            "ML": "2.5",
-            "Location": "TATAR CORUM"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "06:26:59",
-            "Latitude": "37.0418",
-            "Longitude": "28.4188",
-            "Depth": "8.0",
-            "ML": "1.7",
-            "Location": "CITLIK ULA MUGLA"
         }
     ]
 }
