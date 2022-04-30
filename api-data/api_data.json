@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.30",
+            "Time": "08:08:09",
+            "Latitude": "38.5255",
+            "Longitude": "39.3532",
+            "Depth": "5.2",
+            "ML": "2.2",
+            "Location": "CEVIZDERE ELAZIG"
+        },
+        {
+            "Date": "2022.04.30",
             "Time": "06:59:58",
             "Latitude": "39.1378",
             "Longitude": "29.4832",
@@ -4445,15 +4454,6 @@
             "Depth": "15.3",
             "ML": "2.9",
             "Location": "ERDEK ACIKLARI BALIKESIR MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "22:44:35",
-            "Latitude": "42.5325",
-            "Longitude": "26.1953",
-            "Depth": "8.0",
-            "ML": "2.3",
-            "Location": "BULGARISTAN"
         }
     ]
 }
