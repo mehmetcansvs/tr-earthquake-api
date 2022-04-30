@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.04.30",
+            "Time": "12:25:47",
+            "Latitude": "39.9323",
+            "Longitude": "41.8840",
+            "Depth": "11.1",
+            "ML": "2.1",
+            "Location": "KIYIKONAK KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "12:22:40",
+            "Latitude": "40.1192",
+            "Longitude": "41.8200",
+            "Depth": "7.3",
+            "ML": "2.5",
+            "Location": "YENIKOY PASINLER ERZURUM"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "12:21:52",
+            "Latitude": "39.9643",
+            "Longitude": "41.8662",
+            "Depth": "11.1",
+            "ML": "3.1",
+            "Location": "KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.04.30",
             "Time": "10:56:19",
             "Latitude": "36.0577",
             "Longitude": "29.2227",
@@ -4427,33 +4454,6 @@
             "Depth": "20.7",
             "ML": "1.2",
             "Location": "KAS ACIKLARI ANTALYA AKDENIZ"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "01:16:45",
-            "Latitude": "40.0647",
-            "Longitude": "40.6800",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "HALILKAYA AZIZIYE ERZURUM"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "01:13:27",
-            "Latitude": "35.8663",
-            "Longitude": "29.5867",
-            "Depth": "25.3",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "01:07:57",
-            "Latitude": "40.6577",
-            "Longitude": "27.4012",
-            "Depth": "9.7",
-            "ML": "1.4",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
         }
     ]
 }
