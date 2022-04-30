@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.30",
+            "Time": "05:23:21",
+            "Latitude": "36.1922",
+            "Longitude": "31.3603",
+            "Depth": "23.2",
+            "ML": "2.0",
+            "Location": "ANTALYA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "04:34:06",
+            "Latitude": "37.8215",
+            "Longitude": "27.0303",
+            "Depth": "5.6",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.30",
             "Time": "01:51:14",
             "Latitude": "38.5593",
             "Longitude": "44.2098",
@@ -4436,24 +4454,6 @@
             "Depth": "19.6",
             "ML": "2.0",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "21:40:40",
-            "Latitude": "39.1233",
-            "Longitude": "28.1598",
-            "Depth": "8.7",
-            "ML": "2.1",
-            "Location": "KINIK SINDIRGI BALIKESIR"
-        },
-        {
-            "Date": "2022.04.20",
-            "Time": "21:28:38",
-            "Latitude": "41.0853",
-            "Longitude": "38.6872",
-            "Depth": "14.6",
-            "ML": "2.3",
-            "Location": "GIRESUN ACIKLARI KARADENIZ"
         }
     ]
 }
