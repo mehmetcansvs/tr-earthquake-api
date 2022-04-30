@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.04.30",
+            "Time": "15:49:32",
+            "Latitude": "37.0728",
+            "Longitude": "27.9682",
+            "Depth": "0.0",
+            "ML": "2.2",
+            "Location": "PINARKOY MILAS MUGLA"
+        },
+        {
+            "Date": "2022.04.30",
             "Time": "13:59:28",
             "Latitude": "37.2268",
             "Longitude": "32.9317",
@@ -4445,15 +4454,6 @@
             "Depth": "38.4",
             "ML": "1.9",
             "Location": "DEDEYOLU SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "03:53:41",
-            "Latitude": "39.4830",
-            "Longitude": "32.3693",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "KARAYAVSAN POLATLI ANKARA"
         }
     ]
 }
