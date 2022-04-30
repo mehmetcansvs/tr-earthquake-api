@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.04.30",
+            "Time": "13:59:28",
+            "Latitude": "37.2268",
+            "Longitude": "32.9317",
+            "Depth": "1.4",
+            "ML": "2.2",
+            "Location": "KAZIMKARABEKIR KARAMAN"
+        },
+        {
+            "Date": "2022.04.30",
+            "Time": "13:49:47",
+            "Latitude": "39.4332",
+            "Longitude": "25.6755",
+            "Depth": "14.1",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.04.30",
             "Time": "12:25:47",
             "Latitude": "39.9323",
             "Longitude": "41.8840",
@@ -4436,24 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.0",
             "Location": "KARAYAVSAN POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "03:25:44",
-            "Latitude": "38.4220",
-            "Longitude": "39.0235",
-            "Depth": "38.3",
-            "ML": "2.2",
-            "Location": "CORTUNLU SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "01:44:40",
-            "Latitude": "35.9587",
-            "Longitude": "29.7998",
-            "Depth": "20.7",
-            "ML": "1.2",
-            "Location": "KAS ACIKLARI ANTALYA AKDENIZ"
         }
     ]
 }
