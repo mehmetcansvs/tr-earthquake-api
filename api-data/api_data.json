@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.01",
+            "Time": "16:09:28",
+            "Latitude": "37.0247",
+            "Longitude": "28.9693",
+            "Depth": "4.7",
+            "ML": "2.1",
+            "Location": "OTMANLAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.05.01",
+            "Time": "15:08:29",
+            "Latitude": "37.0947",
+            "Longitude": "36.1392",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "ARSLANPINARI TOPRAKKALE OSMANIYE"
+        },
+        {
+            "Date": "2022.05.01",
             "Time": "13:49:14",
             "Latitude": "39.4305",
             "Longitude": "26.2840",
@@ -4436,24 +4454,6 @@
             "Depth": "17.7",
             "ML": "1.0",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "15:39:03",
-            "Latitude": "38.0902",
-            "Longitude": "32.6015",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "SARICALAR SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "15:35:34",
-            "Latitude": "37.0915",
-            "Longitude": "28.0225",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "KALEM MILAS MUGLA"
         }
     ]
 }
