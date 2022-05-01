@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.01",
+            "Time": "23:09:20",
+            "Latitude": "36.2090",
+            "Longitude": "27.4973",
+            "Depth": "7.3",
+            "ML": "2.3",
+            "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.05.01",
             "Time": "22:43:50",
             "Latitude": "38.9837",
             "Longitude": "26.6680",
@@ -35,6 +44,24 @@
             "Depth": "3.3",
             "ML": "2.0",
             "Location": "KAZIMKARABEKIR KARAMAN"
+        },
+        {
+            "Date": "2022.05.01",
+            "Time": "21:22:36",
+            "Latitude": "36.3393",
+            "Longitude": "28.2167",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "RODOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.01",
+            "Time": "19:54:18",
+            "Latitude": "37.2207",
+            "Longitude": "35.9295",
+            "Depth": "8.2",
+            "ML": "1.7",
+            "Location": "TEKELI KADIRLI OSMANIYE"
         },
         {
             "Date": "2022.05.01",
@@ -4427,33 +4454,6 @@
             "Depth": "4.1",
             "ML": "1.4",
             "Location": "KIZILKUYU KADINHANI KONYA"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "21:06:01",
-            "Latitude": "34.6325",
-            "Longitude": "28.3508",
-            "Depth": "97.7",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "20:52:03",
-            "Latitude": "40.5925",
-            "Longitude": "27.9043",
-            "Depth": "13.4",
-            "ML": "1.1",
-            "Location": "ERDEK ACIKLARI BALIKESIR MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "20:49:51",
-            "Latitude": "38.8430",
-            "Longitude": "31.4323",
-            "Depth": "11.4",
-            "ML": "1.2",
-            "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
         }
     ]
 }
