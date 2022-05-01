@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.01",
+            "Time": "06:59:43",
+            "Latitude": "39.5857",
+            "Longitude": "24.0267",
+            "Depth": "8.6",
+            "ML": "2.4",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.01",
+            "Time": "06:55:54",
+            "Latitude": "39.5630",
+            "Longitude": "24.0805",
+            "Depth": "12.8",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.01",
             "Time": "06:06:58",
             "Latitude": "39.5570",
             "Longitude": "24.0782",
@@ -4436,24 +4454,6 @@
             "Depth": "3.1",
             "ML": "1.5",
             "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "13:09:18",
-            "Latitude": "40.5338",
-            "Longitude": "29.5165",
-            "Depth": "13.4",
-            "ML": "0.9",
-            "Location": "BAYINDIR IZNIK BURSA"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "12:39:02",
-            "Latitude": "37.0080",
-            "Longitude": "27.6748",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "MAZIKOY BODRUM MUGLA"
         }
     ]
 }
