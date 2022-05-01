@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.01",
+            "Time": "13:01:43",
+            "Latitude": "39.1703",
+            "Longitude": "27.4940",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "CERKEZ HAMIDIYE SOMA MANISA"
+        },
+        {
+            "Date": "2022.05.01",
+            "Time": "12:02:08",
+            "Latitude": "33.9852",
+            "Longitude": "34.5668",
+            "Depth": "72.2",
+            "ML": "4.0",
+            "Location": "DOGU AKDENIZ"
+        },
+        {
+            "Date": "2022.05.01",
+            "Time": "11:48:12",
+            "Latitude": "37.1880",
+            "Longitude": "32.9243",
+            "Depth": "5.8",
+            "ML": "2.5",
+            "Location": "KAZIMKARABEKIR KARAMAN"
+        },
+        {
+            "Date": "2022.05.01",
             "Time": "09:31:54",
             "Latitude": "36.7022",
             "Longitude": "28.2612",
@@ -4427,33 +4454,6 @@
             "Depth": "7.5",
             "ML": "2.8",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "13:42:36",
-            "Latitude": "39.8665",
-            "Longitude": "39.7055",
-            "Depth": "4.6",
-            "ML": "2.0",
-            "Location": "TURNACAYIRI CAYIRLI ERZINCAN"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "13:40:31",
-            "Latitude": "40.7008",
-            "Longitude": "26.6635",
-            "Depth": "3.4",
-            "ML": "1.1",
-            "Location": "PIRNAR KESAN EDIRNE"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "13:37:29",
-            "Latitude": "38.3558",
-            "Longitude": "30.4630",
-            "Depth": "13.5",
-            "ML": "1.5",
-            "Location": "YIPRAK DINAR AFYONKARAHISAR"
         }
     ]
 }
