@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.01",
+            "Time": "22:43:50",
+            "Latitude": "38.9837",
+            "Longitude": "26.6680",
+            "Depth": "6.6",
+            "ML": "1.9",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.01",
+            "Time": "22:39:27",
+            "Latitude": "39.5450",
+            "Longitude": "28.4102",
+            "Depth": "7.8",
+            "ML": "2.0",
+            "Location": "GURLEYEN DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.05.01",
+            "Time": "22:35:52",
+            "Latitude": "41.1110",
+            "Longitude": "43.8993",
+            "Depth": "5.0",
+            "ML": "4.5",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.05.01",
+            "Time": "22:21:29",
+            "Latitude": "37.1980",
+            "Longitude": "32.9660",
+            "Depth": "3.3",
+            "ML": "2.0",
+            "Location": "KAZIMKARABEKIR KARAMAN"
+        },
+        {
+            "Date": "2022.05.01",
             "Time": "19:06:09",
             "Latitude": "37.0442",
             "Longitude": "28.2102",
@@ -4418,42 +4454,6 @@
             "Depth": "11.4",
             "ML": "1.2",
             "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "20:39:15",
-            "Latitude": "36.9640",
-            "Longitude": "27.6722",
-            "Depth": "18.4",
-            "ML": "1.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "19:31:42",
-            "Latitude": "40.7355",
-            "Longitude": "42.2770",
-            "Depth": "10.1",
-            "ML": "1.7",
-            "Location": "BALKAYA SENKAYA ERZURUM"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "19:01:37",
-            "Latitude": "35.1860",
-            "Longitude": "25.2967",
-            "Depth": "5.3",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "18:33:35",
-            "Latitude": "39.4890",
-            "Longitude": "32.3438",
-            "Depth": "0.0",
-            "ML": "2.3",
-            "Location": "KARAYAVSAN POLATLI ANKARA"
         }
     ]
 }
