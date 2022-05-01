@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.01",
+            "Time": "09:31:54",
+            "Latitude": "36.7022",
+            "Longitude": "28.2612",
+            "Depth": "85.7",
+            "ML": "1.4",
+            "Location": "OSMANIYE MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.05.01",
+            "Time": "08:53:22",
+            "Latitude": "36.9117",
+            "Longitude": "27.6410",
+            "Depth": "16.7",
+            "ML": "1.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.01",
+            "Time": "08:32:18",
+            "Latitude": "39.5247",
+            "Longitude": "23.9333",
+            "Depth": "47.0",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.01",
             "Time": "06:59:43",
             "Latitude": "39.5857",
             "Longitude": "24.0267",
@@ -4427,33 +4454,6 @@
             "Depth": "13.5",
             "ML": "1.5",
             "Location": "YIPRAK DINAR AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "13:30:41",
-            "Latitude": "36.9497",
-            "Longitude": "27.6305",
-            "Depth": "7.1",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "13:16:21",
-            "Latitude": "39.1623",
-            "Longitude": "27.5700",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "KOZANLI SOMA MANISA"
-        },
-        {
-            "Date": "2022.04.21",
-            "Time": "13:09:44",
-            "Latitude": "37.0265",
-            "Longitude": "28.4085",
-            "Depth": "3.1",
-            "ML": "1.5",
-            "Location": "CITLIK ULA MUGLA"
         }
     ]
 }
