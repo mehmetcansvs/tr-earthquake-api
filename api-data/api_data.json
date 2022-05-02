@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.02",
+            "Time": "20:48:45",
+            "Latitude": "38.8497",
+            "Longitude": "43.5063",
+            "Depth": "21.0",
+            "ML": "1.8",
+            "Location": "KARAAGAC VAN"
+        },
+        {
+            "Date": "2022.05.02",
+            "Time": "17:38:09",
+            "Latitude": "37.0145",
+            "Longitude": "28.4135",
+            "Depth": "7.4",
+            "ML": "1.5",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.02",
             "Time": "15:50:15",
             "Latitude": "41.1297",
             "Longitude": "43.9297",
@@ -4427,24 +4445,6 @@
             "Depth": "9.8",
             "ML": "1.9",
             "Location": "YENIKOY REFAHIYE ERZINCAN"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "11:49:14",
-            "Latitude": "35.5472",
-            "Longitude": "25.3377",
-            "Depth": "4.2",
-            "ML": "1.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "11:42:23",
-            "Latitude": "36.2827",
-            "Longitude": "27.0207",
-            "Depth": "4.0",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
         }
     ]
 }
