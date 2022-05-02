@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.02",
+            "Time": "15:50:15",
+            "Latitude": "41.1297",
+            "Longitude": "43.9297",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.05.02",
             "Time": "13:44:56",
             "Latitude": "38.1208",
             "Longitude": "38.6573",
@@ -4436,15 +4445,6 @@
             "Depth": "4.0",
             "ML": "2.2",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "11:37:16",
-            "Latitude": "35.1203",
-            "Longitude": "25.2705",
-            "Depth": "5.5",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
