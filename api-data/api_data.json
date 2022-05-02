@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.05.02",
+            "Time": "10:30:16",
+            "Latitude": "37.8640",
+            "Longitude": "26.8723",
+            "Depth": "5.2",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.02",
+            "Time": "10:29:30",
+            "Latitude": "37.8738",
+            "Longitude": "26.9002",
+            "Depth": "5.3",
+            "ML": "2.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.02",
+            "Time": "09:38:44",
+            "Latitude": "38.9755",
+            "Longitude": "41.4225",
+            "Depth": "10.2",
+            "ML": "2.1",
+            "Location": "BAHCEKOY MUS"
+        },
+        {
+            "Date": "2022.05.02",
+            "Time": "09:37:06",
+            "Latitude": "39.0260",
+            "Longitude": "41.4298",
+            "Depth": "4.2",
+            "ML": "2.4",
+            "Location": "TUTEN MUS"
+        },
+        {
+            "Date": "2022.05.02",
+            "Time": "09:30:43",
+            "Latitude": "38.9707",
+            "Longitude": "42.0400",
+            "Depth": "1.6",
+            "ML": "2.3",
+            "Location": "GUNBATMAZ BULANIK MUS"
+        },
+        {
+            "Date": "2022.05.02",
+            "Time": "09:20:24",
+            "Latitude": "37.1033",
+            "Longitude": "27.2818",
+            "Depth": "5.0",
+            "ML": "1.2",
+            "Location": "YALIKAVAK BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.05.02",
+            "Time": "09:09:19",
+            "Latitude": "37.0095",
+            "Longitude": "28.9685",
+            "Depth": "5.4",
+            "ML": "1.6",
+            "Location": "OTMANLAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.05.02",
             "Time": "08:56:21",
             "Latitude": "35.4677",
             "Longitude": "25.0755",
@@ -4391,69 +4454,6 @@
             "Depth": "16.6",
             "ML": "1.9",
             "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "07:41:03",
-            "Latitude": "37.2588",
-            "Longitude": "29.6567",
-            "Depth": "5.1",
-            "ML": "1.5",
-            "Location": "BEYKOY TEFENNI BURDUR"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "07:05:54",
-            "Latitude": "37.1833",
-            "Longitude": "30.6302",
-            "Depth": "7.9",
-            "ML": "1.6",
-            "Location": "ILICAKOY DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "06:47:01",
-            "Latitude": "35.8872",
-            "Longitude": "29.3237",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "05:22:24",
-            "Latitude": "39.3288",
-            "Longitude": "24.9105",
-            "Depth": "13.5",
-            "ML": "1.8",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "05:09:25",
-            "Latitude": "37.0467",
-            "Longitude": "28.5342",
-            "Depth": "12.7",
-            "ML": "1.5",
-            "Location": "KARABOGURTLEN ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "05:04:33",
-            "Latitude": "35.0357",
-            "Longitude": "25.2322",
-            "Depth": "9.0",
-            "ML": "1.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "04:48:19",
-            "Latitude": "37.0005",
-            "Longitude": "27.5927",
-            "Depth": "6.3",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
