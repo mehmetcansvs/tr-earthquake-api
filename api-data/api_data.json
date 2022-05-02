@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.05.03",
+            "Time": "00:41:17",
+            "Latitude": "40.8683",
+            "Longitude": "31.6922",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "MESCICELE BOLU"
+        },
+        {
+            "Date": "2022.05.02",
+            "Time": "23:33:16",
+            "Latitude": "38.4012",
+            "Longitude": "42.7845",
+            "Depth": "7.4",
+            "ML": "2.8",
+            "Location": "YOLDONDU GEVAS VAN"
+        },
+        {
             "Date": "2022.05.02",
             "Time": "22:40:20",
             "Latitude": "40.8917",
@@ -4436,24 +4454,6 @@
             "Depth": "7.9",
             "ML": "1.6",
             "Location": "KAVAKLIOLUK ISKENDERUN HATAY"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "14:09:02",
-            "Latitude": "36.4498",
-            "Longitude": "34.1035",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "NARLIKUYU SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "13:53:23",
-            "Latitude": "37.3997",
-            "Longitude": "27.9597",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "GOKGEDIKKOYU YATAGAN MUGLA"
         }
     ]
 }
