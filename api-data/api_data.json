@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.03",
+            "Time": "21:50:46",
+            "Latitude": "40.8748",
+            "Longitude": "31.7122",
+            "Depth": "9.8",
+            "ML": "2.1",
+            "Location": "MESCICELE BOLU"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "21:19:08",
+            "Latitude": "36.6857",
+            "Longitude": "29.2202",
+            "Depth": "6.9",
+            "ML": "1.8",
+            "Location": "ELDIREK FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.05.03",
             "Time": "16:38:45",
             "Latitude": "40.8793",
             "Longitude": "31.7230",
@@ -4454,24 +4472,6 @@
             "Depth": "10.1",
             "ML": "1.6",
             "Location": "OREN MILAS MUGLA"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "00:01:35",
-            "Latitude": "40.7738",
-            "Longitude": "31.5235",
-            "Depth": "8.2",
-            "ML": "1.6",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "23:51:06",
-            "Latitude": "40.5405",
-            "Longitude": "41.7645",
-            "Depth": "6.3",
-            "ML": "2.2",
-            "Location": "BUYUKORCUK OLTU ERZURUM"
         }
     ]
 }
