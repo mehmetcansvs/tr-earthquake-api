@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.05.03",
+            "Time": "04:06:22",
+            "Latitude": "37.0100",
+            "Longitude": "28.4250",
+            "Depth": "14.0",
+            "ML": "1.3",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "03:45:15",
+            "Latitude": "41.0518",
+            "Longitude": "33.7375",
+            "Depth": "5.1",
+            "ML": "2.4",
+            "Location": "COMERT ILGAZ CANKIRI"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "03:39:13",
+            "Latitude": "38.2855",
+            "Longitude": "38.7663",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "KARSIYAKA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "03:17:47",
+            "Latitude": "37.8920",
+            "Longitude": "27.1330",
+            "Depth": "6.4",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "03:09:07",
+            "Latitude": "36.4558",
+            "Longitude": "27.0452",
+            "Depth": "2.4",
+            "ML": "1.5",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "01:53:29",
+            "Latitude": "37.0347",
+            "Longitude": "28.4253",
+            "Depth": "7.9",
+            "ML": "2.1",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "01:37:16",
+            "Latitude": "37.0905",
+            "Longitude": "28.1920",
+            "Depth": "8.4",
+            "ML": "1.6",
+            "Location": "DENIZOVA MUGLA"
+        },
+        {
+            "Date": "2022.05.03",
             "Time": "00:41:17",
             "Latitude": "40.8683",
             "Longitude": "31.6922",
@@ -4408,52 +4471,7 @@
             "Longitude": "33.0463",
             "Depth": "6.3",
             "ML": "1.6",
-            "Location": "MAMAK ANKARA REVIZE BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "16:23:11",
-            "Latitude": "40.2980",
-            "Longitude": "29.5833",
-            "Depth": "2.5",
-            "ML": "1.3",
-            "Location": "DEMIRBOGA YENISEHIR BURSA"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "16:07:36",
-            "Latitude": "40.7713",
-            "Longitude": "31.5450",
-            "Depth": "22.4",
-            "ML": "1.3",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "15:38:53",
-            "Latitude": "36.2737",
-            "Longitude": "27.0525",
-            "Depth": "9.0",
-            "ML": "2.4",
-            "Location": "AKDENIZ REVIZE GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "14:34:15",
-            "Latitude": "35.3300",
-            "Longitude": "25.3237",
-            "Depth": "2.7",
-            "ML": "1.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "14:09:03",
-            "Latitude": "36.6465",
-            "Longitude": "36.2577",
-            "Depth": "7.9",
-            "ML": "1.6",
-            "Location": "KAVAKLIOLUK ISKENDERUN HATAY"
+            "Location": "MAMAK ANKARA REVIZE"
         }
     ]
 }
