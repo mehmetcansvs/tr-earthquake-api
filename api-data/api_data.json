@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.03",
+            "Time": "07:43:32",
+            "Latitude": "37.7718",
+            "Longitude": "29.4553",
+            "Depth": "13.3",
+            "ML": "1.4",
+            "Location": "SAPACA HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "07:38:38",
+            "Latitude": "37.7828",
+            "Longitude": "29.4303",
+            "Depth": "14.7",
+            "ML": "1.4",
+            "Location": "YUKARIDAGDERE HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.05.03",
             "Time": "05:28:07",
             "Latitude": "40.8625",
             "Longitude": "31.7680",
@@ -4454,24 +4472,6 @@
             "Depth": "5.7",
             "ML": "1.8",
             "Location": "KIYRA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "19:26:07",
-            "Latitude": "37.0095",
-            "Longitude": "34.4973",
-            "Depth": "4.7",
-            "ML": "1.0",
-            "Location": "BEKIRALANI TOROSLAR MERSIN"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "19:16:24",
-            "Latitude": "35.0217",
-            "Longitude": "25.2822",
-            "Depth": "8.3",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
