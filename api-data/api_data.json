@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.03",
+            "Time": "10:34:10",
+            "Latitude": "38.9602",
+            "Longitude": "37.3147",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "BOGRUDELIK GURUN SIVAS"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "09:33:05",
+            "Latitude": "37.9137",
+            "Longitude": "35.1538",
+            "Depth": "5.9",
+            "ML": "1.8",
+            "Location": "PINARBASI CAMARDI NIGDE"
+        },
+        {
+            "Date": "2022.05.03",
             "Time": "07:43:32",
             "Latitude": "37.7718",
             "Longitude": "29.4553",
@@ -4454,24 +4472,6 @@
             "Depth": "1.9",
             "ML": "1.3",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "19:52:34",
-            "Latitude": "38.6593",
-            "Longitude": "25.4653",
-            "Depth": "14.6",
-            "ML": "2.3",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "19:39:47",
-            "Latitude": "37.0783",
-            "Longitude": "28.5500",
-            "Depth": "5.7",
-            "ML": "1.8",
-            "Location": "KIYRA ULA MUGLA"
         }
     ]
 }
