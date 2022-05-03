@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.03",
+            "Time": "14:42:11",
+            "Latitude": "37.8493",
+            "Longitude": "37.4835",
+            "Depth": "1.1",
+            "ML": "2.6",
+            "Location": "DUZBAG CAGLAYANCERIT KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "13:41:06",
+            "Latitude": "39.5405",
+            "Longitude": "35.9933",
+            "Depth": "9.3",
+            "ML": "2.0",
+            "Location": "KIZILCAOVA AKDAGMADENI YOZGAT"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "13:13:51",
+            "Latitude": "37.8418",
+            "Longitude": "26.9665",
+            "Depth": "14.3",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "12:44:28",
+            "Latitude": "40.5005",
+            "Longitude": "33.1382",
+            "Depth": "10.1",
+            "ML": "1.6",
+            "Location": "ELMALIK ORTA CANKIRI"
+        },
+        {
+            "Date": "2022.05.03",
             "Time": "11:17:33",
             "Latitude": "40.2657",
             "Longitude": "29.6700",
@@ -4436,42 +4472,6 @@
             "Depth": "5.0",
             "ML": "1.1",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "21:34:26",
-            "Latitude": "36.9698",
-            "Longitude": "27.6688",
-            "Depth": "5.8",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "21:15:07",
-            "Latitude": "35.1517",
-            "Longitude": "25.2982",
-            "Depth": "7.9",
-            "ML": "1.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "21:11:54",
-            "Latitude": "40.0843",
-            "Longitude": "28.6153",
-            "Depth": "5.9",
-            "ML": "2.2",
-            "Location": "INCEALIPINAR MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "20:48:35",
-            "Latitude": "35.2228",
-            "Longitude": "25.2342",
-            "Depth": "5.3",
-            "ML": "1.5",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
