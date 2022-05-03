@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.03",
+            "Time": "16:38:45",
+            "Latitude": "40.8793",
+            "Longitude": "31.7230",
+            "Depth": "6.5",
+            "ML": "1.9",
+            "Location": "TETEMECELE BOLU"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "15:40:41",
+            "Latitude": "37.8827",
+            "Longitude": "37.4490",
+            "Depth": "3.1",
+            "ML": "2.2",
+            "Location": "BICIN NURHAK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.05.03",
             "Time": "14:42:11",
             "Latitude": "37.8493",
             "Longitude": "37.4835",
@@ -38,6 +56,24 @@
         },
         {
             "Date": "2022.05.03",
+            "Time": "12:09:13",
+            "Latitude": "39.0215",
+            "Longitude": "28.5408",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "ULACIK DEMIRCI MANISA"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "11:29:39",
+            "Latitude": "37.0483",
+            "Longitude": "28.3933",
+            "Depth": "2.5",
+            "ML": "1.2",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.03",
             "Time": "11:17:33",
             "Latitude": "40.2657",
             "Longitude": "29.6700",
@@ -56,12 +92,30 @@
         },
         {
             "Date": "2022.05.03",
+            "Time": "09:37:32",
+            "Latitude": "39.0458",
+            "Longitude": "37.4147",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "SEKERPINAR KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.05.03",
             "Time": "09:33:05",
             "Latitude": "37.9137",
             "Longitude": "35.1538",
             "Depth": "5.9",
             "ML": "1.8",
             "Location": "PINARBASI CAMARDI NIGDE"
+        },
+        {
+            "Date": "2022.05.03",
+            "Time": "08:51:25",
+            "Latitude": "35.0695",
+            "Longitude": "26.7890",
+            "Depth": "1.2",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.05.03",
@@ -4418,60 +4472,6 @@
             "Depth": "6.3",
             "ML": "2.2",
             "Location": "BUYUKORCUK OLTU ERZURUM"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "23:49:02",
-            "Latitude": "35.8967",
-            "Longitude": "23.1178",
-            "Depth": "7.9",
-            "ML": "3.2",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "23:21:07",
-            "Latitude": "34.7618",
-            "Longitude": "23.8563",
-            "Depth": "2.1",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "23:01:02",
-            "Latitude": "38.0013",
-            "Longitude": "27.2077",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "GOLOVA MENDERES IZMIR"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "22:59:28",
-            "Latitude": "39.0050",
-            "Longitude": "26.1260",
-            "Depth": "13.1",
-            "ML": "1.5",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "22:37:35",
-            "Latitude": "40.8695",
-            "Longitude": "31.7093",
-            "Depth": "7.0",
-            "ML": "2.8",
-            "Location": "MESCICELE BOLU"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "22:06:32",
-            "Latitude": "36.8897",
-            "Longitude": "27.6972",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
