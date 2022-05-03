@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.03",
+            "Time": "11:17:33",
+            "Latitude": "40.2657",
+            "Longitude": "29.6700",
+            "Depth": "11.5",
+            "ML": "1.8",
+            "Location": "YENISEHIR BURSA"
+        },
+        {
+            "Date": "2022.05.03",
             "Time": "10:34:10",
             "Latitude": "38.9602",
             "Longitude": "37.3147",
@@ -4463,15 +4472,6 @@
             "Depth": "5.3",
             "ML": "1.5",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.22",
-            "Time": "20:43:25",
-            "Latitude": "36.9512",
-            "Longitude": "27.6032",
-            "Depth": "1.9",
-            "ML": "1.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
