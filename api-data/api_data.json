@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.04",
+            "Time": "20:29:03",
+            "Latitude": "40.5922",
+            "Longitude": "36.7942",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "GUNLUCE NIKSAR TOKAT"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "19:49:40",
+            "Latitude": "36.7062",
+            "Longitude": "27.7573",
+            "Depth": "14.1",
+            "ML": "2.2",
+            "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.05.04",
             "Time": "16:59:29",
             "Latitude": "37.0513",
             "Longitude": "28.1735",
@@ -4454,24 +4472,6 @@
             "Depth": "13.0",
             "ML": "2.1",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "19:17:19",
-            "Latitude": "36.2627",
-            "Longitude": "29.6807",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "PINARBASI KAS ANTALYA"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "19:02:27",
-            "Latitude": "38.7670",
-            "Longitude": "25.4293",
-            "Depth": "11.1",
-            "ML": "2.1",
-            "Location": "EGE DENIZI"
         }
     ]
 }
