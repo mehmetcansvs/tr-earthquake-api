@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.04",
+            "Time": "11:10:37",
+            "Latitude": "37.0835",
+            "Longitude": "28.3460",
+            "Depth": "11.5",
+            "ML": "1.4",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.04",
             "Time": "10:22:43",
             "Latitude": "37.6273",
             "Longitude": "26.9855",
@@ -17,6 +26,15 @@
             "Depth": "5.0",
             "ML": "1.6",
             "Location": "SOGUTCUK KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "09:12:55",
+            "Latitude": "35.0835",
+            "Longitude": "33.7582",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "KIBRIS TUZLA"
         },
         {
             "Date": "2022.05.04",
@@ -4453,24 +4471,6 @@
             "Longitude": "27.6785",
             "Depth": "7.1",
             "ML": "2.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "14:00:11",
-            "Latitude": "39.8047",
-            "Longitude": "29.5727",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "BERCIN DOMANIC KUTAHYA"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "13:28:46",
-            "Latitude": "36.9702",
-            "Longitude": "27.6743",
-            "Depth": "5.0",
-            "ML": "1.2",
             "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
