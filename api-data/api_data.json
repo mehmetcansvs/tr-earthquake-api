@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.04",
+            "Time": "10:22:43",
+            "Latitude": "37.6273",
+            "Longitude": "26.9855",
+            "Depth": "6.4",
+            "ML": "1.8",
+            "Location": "DOGANBEY ACIKLARI AYDIN EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "09:50:59",
+            "Latitude": "37.0073",
+            "Longitude": "30.4273",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "SOGUTCUK KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.05.04",
             "Time": "08:50:12",
             "Latitude": "37.0585",
             "Longitude": "28.4108",
@@ -4454,24 +4472,6 @@
             "Depth": "5.0",
             "ML": "1.2",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "13:14:23",
-            "Latitude": "37.0972",
-            "Longitude": "28.6365",
-            "Depth": "9.0",
-            "ML": "1.5",
-            "Location": "KAVAKCALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "13:03:36",
-            "Latitude": "37.0787",
-            "Longitude": "28.5727",
-            "Depth": "9.3",
-            "ML": "1.6",
-            "Location": "BALCILAR KOYCEGIZ MUGLA"
         }
     ]
 }
