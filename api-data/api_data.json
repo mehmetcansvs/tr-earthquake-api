@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.04",
+            "Time": "05:02:29",
+            "Latitude": "39.5250",
+            "Longitude": "28.3675",
+            "Depth": "9.1",
+            "ML": "1.7",
+            "Location": "KUMLU DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "04:50:11",
+            "Latitude": "37.0712",
+            "Longitude": "28.3837",
+            "Depth": "7.0",
+            "ML": "2.2",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "04:36:04",
+            "Latitude": "37.0977",
+            "Longitude": "28.3972",
+            "Depth": "15.7",
+            "ML": "1.4",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.04",
             "Time": "03:45:43",
             "Latitude": "37.6718",
             "Longitude": "37.4887",
@@ -4445,33 +4472,6 @@
             "Depth": "4.9",
             "ML": "1.6",
             "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "06:12:55",
-            "Latitude": "39.6103",
-            "Longitude": "26.4333",
-            "Depth": "7.1",
-            "ML": "2.1",
-            "Location": "TARTISIK AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "05:56:00",
-            "Latitude": "37.0518",
-            "Longitude": "28.4103",
-            "Depth": "3.4",
-            "ML": "1.3",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "05:37:48",
-            "Latitude": "39.5507",
-            "Longitude": "25.9222",
-            "Depth": "8.5",
-            "ML": "2.0",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
         }
     ]
 }
