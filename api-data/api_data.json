@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.04",
+            "Time": "06:18:02",
+            "Latitude": "38.2217",
+            "Longitude": "23.9568",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "05:51:57",
+            "Latitude": "37.1690",
+            "Longitude": "28.6447",
+            "Depth": "9.1",
+            "ML": "1.9",
+            "Location": "CAKMAK MUGLA"
+        },
+        {
+            "Date": "2022.05.04",
             "Time": "05:02:29",
             "Latitude": "39.5250",
             "Longitude": "28.3675",
@@ -80,6 +98,24 @@
             "Depth": "5.0",
             "ML": "3.2",
             "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "01:42:33",
+            "Latitude": "37.0383",
+            "Longitude": "30.3848",
+            "Depth": "12.2",
+            "ML": "0.8",
+            "Location": "SOGUTCUK KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "01:13:35",
+            "Latitude": "40.8290",
+            "Longitude": "31.5902",
+            "Depth": "18.8",
+            "ML": "1.4",
+            "Location": "KOZLU BOLU"
         },
         {
             "Date": "2022.05.04",
@@ -4436,42 +4472,6 @@
             "Depth": "8.5",
             "ML": "2.6",
             "Location": "GURCISTAN ERMENISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "07:57:46",
-            "Latitude": "40.7582",
-            "Longitude": "31.5553",
-            "Depth": "8.3",
-            "ML": "2.7",
-            "Location": "PIRAHMETLER BOLU"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "07:23:54",
-            "Latitude": "37.0805",
-            "Longitude": "28.3353",
-            "Depth": "6.2",
-            "ML": "1.7",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "06:46:45",
-            "Latitude": "37.1353",
-            "Longitude": "28.4153",
-            "Depth": "6.1",
-            "ML": "2.0",
-            "Location": "YENIKOY MUGLA"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "06:36:45",
-            "Latitude": "37.0113",
-            "Longitude": "28.4077",
-            "Depth": "4.9",
-            "ML": "1.6",
-            "Location": "CITLIK ULA MUGLA"
         }
     ]
 }
