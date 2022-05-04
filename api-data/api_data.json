@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.04",
+            "Time": "23:07:10",
+            "Latitude": "40.8815",
+            "Longitude": "31.7518",
+            "Depth": "19.7",
+            "ML": "1.4",
+            "Location": "BAGISLAR BOLU"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "22:46:53",
+            "Latitude": "37.9290",
+            "Longitude": "27.5772",
+            "Depth": "7.7",
+            "ML": "2.0",
+            "Location": "CAMKOY GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.05.04",
             "Time": "20:29:03",
             "Latitude": "40.5922",
             "Longitude": "36.7942",
@@ -4454,24 +4472,6 @@
             "Depth": "18.6",
             "ML": "1.7",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "21:05:29",
-            "Latitude": "37.0415",
-            "Longitude": "28.4212",
-            "Depth": "7.8",
-            "ML": "1.5",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "19:32:07",
-            "Latitude": "36.2233",
-            "Longitude": "28.8793",
-            "Depth": "13.0",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
         }
     ]
 }
