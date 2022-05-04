@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.05.04",
+            "Time": "16:59:29",
+            "Latitude": "37.0513",
+            "Longitude": "28.1735",
+            "Depth": "5.3",
+            "ML": "1.8",
+            "Location": "KIRAN MUGLA"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "16:46:18",
+            "Latitude": "40.4895",
+            "Longitude": "36.4410",
+            "Depth": "15.2",
+            "ML": "2.0",
+            "Location": "CERDIGIN TOKAT"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "16:42:24",
+            "Latitude": "37.0455",
+            "Longitude": "28.2958",
+            "Depth": "10.4",
+            "ML": "1.6",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "16:37:32",
+            "Latitude": "39.5462",
+            "Longitude": "27.7283",
+            "Depth": "6.2",
+            "ML": "1.7",
+            "Location": "BAHCEDERE BALIKESIR"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "15:24:12",
+            "Latitude": "37.0367",
+            "Longitude": "28.3210",
+            "Depth": "10.1",
+            "ML": "1.5",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "15:23:42",
+            "Latitude": "37.0425",
+            "Longitude": "28.2920",
+            "Depth": "12.3",
+            "ML": "1.8",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.04",
             "Time": "14:55:15",
             "Latitude": "35.2455",
             "Longitude": "26.1087",
@@ -4418,60 +4472,6 @@
             "Depth": "11.1",
             "ML": "2.1",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "18:32:23",
-            "Latitude": "36.1575",
-            "Longitude": "29.6365",
-            "Depth": "21.4",
-            "ML": "2.1",
-            "Location": "KAS ANTALYA"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "16:19:28",
-            "Latitude": "39.4297",
-            "Longitude": "27.6438",
-            "Depth": "6.0",
-            "ML": "1.9",
-            "Location": "KARACALAR SAVASTEPE BALIKESIR"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "15:58:53",
-            "Latitude": "36.1335",
-            "Longitude": "33.5448",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "15:45:01",
-            "Latitude": "39.3067",
-            "Longitude": "25.9378",
-            "Depth": "12.7",
-            "ML": "1.7",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "15:32:53",
-            "Latitude": "39.2937",
-            "Longitude": "25.9502",
-            "Depth": "9.5",
-            "ML": "1.5",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.23",
-            "Time": "15:26:40",
-            "Latitude": "39.8152",
-            "Longitude": "29.5160",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "KOZLUCA DOMANIC KUTAHYA"
         }
     ]
 }
