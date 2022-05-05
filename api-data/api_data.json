@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.05.06",
+            "Time": "00:59:38",
+            "Latitude": "37.0347",
+            "Longitude": "35.9290",
+            "Depth": "13.7",
+            "ML": "2.1",
+            "Location": "HAMDILLI CEYHAN ADANA"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "00:21:47",
+            "Latitude": "39.0650",
+            "Longitude": "27.9030",
+            "Depth": "11.0",
+            "ML": "3.1",
+            "Location": "SELCIKLI AKHISAR MANISA"
+        },
+        {
             "Date": "2022.05.05",
             "Time": "20:29:45",
             "Latitude": "35.6330",
@@ -4436,24 +4454,6 @@
             "Depth": "11.6",
             "ML": "2.4",
             "Location": "TOPALUSAGI SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "17:45:20",
-            "Latitude": "35.2672",
-            "Longitude": "26.9692",
-            "Depth": "1.1",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "17:26:11",
-            "Latitude": "37.0417",
-            "Longitude": "28.4087",
-            "Depth": "19.9",
-            "ML": "1.7",
-            "Location": "ATAKOY ULA MUGLA"
         }
     ]
 }
