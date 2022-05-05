@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.05",
+            "Time": "18:53:22",
+            "Latitude": "37.1772",
+            "Longitude": "37.6663",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "BOYLUCA NIZIP GAZIANTEP"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "18:01:34",
+            "Latitude": "37.8685",
+            "Longitude": "26.9708",
+            "Depth": "20.7",
+            "ML": "2.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "17:59:05",
+            "Latitude": "37.8720",
+            "Longitude": "26.9943",
+            "Depth": "11.6",
+            "ML": "2.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.05",
             "Time": "15:39:17",
             "Latitude": "35.1180",
             "Longitude": "25.1943",
@@ -4427,33 +4454,6 @@
             "Depth": "5.9",
             "ML": "2.1",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "15:50:21",
-            "Latitude": "34.7348",
-            "Longitude": "24.6162",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "15:13:57",
-            "Latitude": "40.8710",
-            "Longitude": "31.7050",
-            "Depth": "5.3",
-            "ML": "3.1",
-            "Location": "MESCICELE BOLU"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "14:50:05",
-            "Latitude": "37.0108",
-            "Longitude": "28.3990",
-            "Depth": "10.8",
-            "ML": "1.6",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
