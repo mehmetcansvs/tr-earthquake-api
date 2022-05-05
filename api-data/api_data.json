@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.05",
+            "Time": "20:29:45",
+            "Latitude": "35.6330",
+            "Longitude": "31.5875",
+            "Depth": "4.3",
+            "ML": "3.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "20:19:23",
+            "Latitude": "38.6428",
+            "Longitude": "43.1812",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "MOLLAKASIM VAN"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "20:14:16",
+            "Latitude": "36.9282",
+            "Longitude": "31.9757",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "PINARBASI AKSEKI ANTALYA"
+        },
+        {
+            "Date": "2022.05.05",
             "Time": "18:53:22",
             "Latitude": "37.1772",
             "Longitude": "37.6663",
@@ -4427,33 +4454,6 @@
             "Depth": "19.9",
             "ML": "1.7",
             "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "17:22:21",
-            "Latitude": "37.3718",
-            "Longitude": "34.9988",
-            "Depth": "2.5",
-            "ML": "2.1",
-            "Location": "GILDIRLI KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "16:37:11",
-            "Latitude": "36.5022",
-            "Longitude": "27.0837",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "16:23:35",
-            "Latitude": "37.8982",
-            "Longitude": "27.1188",
-            "Depth": "5.9",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
