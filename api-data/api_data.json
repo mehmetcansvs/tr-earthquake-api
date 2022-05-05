@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.05",
+            "Time": "07:23:03",
+            "Latitude": "37.2283",
+            "Longitude": "37.6270",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "KABASAKIZ SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "07:14:46",
+            "Latitude": "36.9335",
+            "Longitude": "27.5915",
+            "Depth": "12.3",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.05",
             "Time": "07:10:55",
             "Latitude": "37.2557",
             "Longitude": "30.5292",
@@ -17,6 +35,15 @@
             "Depth": "3.5",
             "ML": "1.9",
             "Location": "KOLELI ANDIRIN KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "06:44:21",
+            "Latitude": "35.3067",
+            "Longitude": "25.8117",
+            "Depth": "10.3",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.05.05",
@@ -4445,33 +4472,6 @@
             "Depth": "7.6",
             "ML": "1.9",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "09:49:16",
-            "Latitude": "40.5468",
-            "Longitude": "30.6022",
-            "Depth": "5.3",
-            "ML": "1.9",
-            "Location": "HANYATAK AKYAZI SAKARYA"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "09:37:41",
-            "Latitude": "40.0395",
-            "Longitude": "26.9867",
-            "Depth": "5.0",
-            "ML": "1.0",
-            "Location": "ILYASAGACIFTLIGI CAN CANAKKALE"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "09:12:32",
-            "Latitude": "39.0425",
-            "Longitude": "27.5177",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "YAYLAKOY KINIK IZMIR"
         }
     ]
 }
