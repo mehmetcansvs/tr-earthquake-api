@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.05.05",
+            "Time": "12:22:59",
+            "Latitude": "34.2597",
+            "Longitude": "24.5193",
+            "Depth": "22.4",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "11:52:03",
+            "Latitude": "34.1988",
+            "Longitude": "24.2542",
+            "Depth": "82.2",
+            "ML": "3.2",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "11:17:01",
+            "Latitude": "37.9017",
+            "Longitude": "27.6362",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "ALANGULLU GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "11:07:43",
+            "Latitude": "37.9500",
+            "Longitude": "27.6360",
+            "Depth": "4.1",
+            "ML": "2.1",
+            "Location": "BOZKOY GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.05.05",
             "Time": "10:25:46",
             "Latitude": "39.6893",
             "Longitude": "25.6323",
             "Depth": "7.0",
             "ML": "2.2",
-            "Location": "EGE DENIZI REVIZE GIRIT ADASI AKDENIZ"
+            "Location": "EGE DENIZI REVIZE GUNBATMAZ BULANIK MUS"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "09:29:27",
+            "Latitude": "35.0208",
+            "Longitude": "25.7767",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.05.05",
@@ -20,21 +65,12 @@
         },
         {
             "Date": "2022.05.05",
-            "Time": "09:16:48",
-            "Latitude": "39.7455",
-            "Longitude": "41.3648",
-            "Depth": "19.3",
-            "ML": "1.5",
-            "Location": "GECITKOY TEKMAN ERZURUM"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "09:16:06",
-            "Latitude": "37.8335",
-            "Longitude": "26.9658",
-            "Depth": "4.6",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
+            "Time": "09:16:49",
+            "Latitude": "39.7860",
+            "Longitude": "41.4225",
+            "Depth": "16.0",
+            "ML": "1.7",
+            "Location": "GECITKOY TEKMAN ERZURUM REVIZE KUSADASI KORFEZI EGE DENIZI"
         },
         {
             "Date": "2022.05.05",
@@ -4418,51 +4454,6 @@
             "Depth": "13.5",
             "ML": "1.6",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "13:05:22",
-            "Latitude": "40.8685",
-            "Longitude": "31.6822",
-            "Depth": "5.1",
-            "ML": "1.8",
-            "Location": "MESCICELE BOLU"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "13:03:47",
-            "Latitude": "39.1412",
-            "Longitude": "27.5243",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "HACIYUSUF SOMA MANISA"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "12:52:17",
-            "Latitude": "35.4367",
-            "Longitude": "26.0877",
-            "Depth": "9.2",
-            "ML": "3.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "12:50:23",
-            "Latitude": "36.9773",
-            "Longitude": "28.1622",
-            "Depth": "8.0",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "12:34:23",
-            "Latitude": "37.3025",
-            "Longitude": "31.8555",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "MADENLI SEYDISEHIR KONYA"
         }
     ]
 }
