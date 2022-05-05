@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.05",
+            "Time": "05:28:28",
+            "Latitude": "37.8672",
+            "Longitude": "26.9878",
+            "Depth": "14.2",
+            "ML": "2.1",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.05",
             "Time": "04:05:21",
             "Latitude": "40.4148",
             "Longitude": "27.1283",
@@ -35,6 +44,15 @@
             "Depth": "7.0",
             "ML": "1.3",
             "Location": "IKIZLER GEVAS VAN"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "02:54:20",
+            "Latitude": "38.5953",
+            "Longitude": "26.7805",
+            "Depth": "14.5",
+            "ML": "1.4",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
         },
         {
             "Date": "2022.05.05",
@@ -4454,24 +4472,6 @@
             "Depth": "17.0",
             "ML": "3.3",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "05:10:07",
-            "Latitude": "34.5787",
-            "Longitude": "33.4235",
-            "Depth": "10.6",
-            "ML": "2.8",
-            "Location": "KIBRIS ACIKLARI GUNEY AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "04:53:13",
-            "Latitude": "39.8348",
-            "Longitude": "41.3205",
-            "Depth": "5.0",
-            "ML": "1.0",
-            "Location": "PALANDOKEN ERZURUM"
         }
     ]
 }
