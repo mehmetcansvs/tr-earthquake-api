@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.05",
+            "Time": "10:25:46",
+            "Latitude": "39.6893",
+            "Longitude": "25.6323",
+            "Depth": "7.0",
+            "ML": "2.2",
+            "Location": "EGE DENIZI REVIZE GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "09:19:31",
+            "Latitude": "37.2697",
+            "Longitude": "36.0017",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "KERIMLI KADIRLI OSMANIYE"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "09:16:48",
+            "Latitude": "39.7455",
+            "Longitude": "41.3648",
+            "Depth": "19.3",
+            "ML": "1.5",
+            "Location": "GECITKOY TEKMAN ERZURUM"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "09:16:06",
+            "Latitude": "37.8335",
+            "Longitude": "26.9658",
+            "Depth": "4.6",
+            "ML": "2.1",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.05",
             "Time": "07:23:03",
             "Latitude": "37.2283",
             "Longitude": "37.6270",
@@ -4427,51 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.8",
             "Location": "MADENLI SEYDISEHIR KONYA"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "12:23:24",
-            "Latitude": "35.5402",
-            "Longitude": "26.0932",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "12:00:33",
-            "Latitude": "38.3358",
-            "Longitude": "38.9780",
-            "Depth": "15.6",
-            "ML": "2.0",
-            "Location": "TOPALUSAGI SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "11:38:24",
-            "Latitude": "36.3157",
-            "Longitude": "29.8797",
-            "Depth": "1.4",
-            "ML": "1.7",
-            "Location": "DAVAZLAR DEMRE ANTALYA"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "10:51:42",
-            "Latitude": "40.5475",
-            "Longitude": "30.5850",
-            "Depth": "6.6",
-            "ML": "2.1",
-            "Location": "HANYATAK AKYAZI SAKARYA"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "10:01:20",
-            "Latitude": "39.5777",
-            "Longitude": "25.1778",
-            "Depth": "7.6",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
         }
     ]
 }
