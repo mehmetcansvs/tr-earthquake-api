@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.05",
+            "Time": "13:18:16",
+            "Latitude": "34.9810",
+            "Longitude": "23.8103",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "13:12:45",
+            "Latitude": "39.1262",
+            "Longitude": "27.5620",
+            "Depth": "5.4",
+            "ML": "1.6",
+            "Location": "DEREKOY SOMA MANISA"
+        },
+        {
+            "Date": "2022.05.05",
             "Time": "12:22:59",
             "Latitude": "34.2597",
             "Longitude": "24.5193",
@@ -4436,24 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.6",
             "Location": "AKCAPINAR ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "13:51:47",
-            "Latitude": "38.4652",
-            "Longitude": "40.6238",
-            "Depth": "8.9",
-            "ML": "2.8",
-            "Location": "LICE DIYARBAKIR"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "13:20:31",
-            "Latitude": "37.0997",
-            "Longitude": "26.8182",
-            "Depth": "13.5",
-            "ML": "1.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
