@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.05",
+            "Time": "07:10:55",
+            "Latitude": "37.2557",
+            "Longitude": "30.5292",
+            "Depth": "113.7",
+            "ML": "1.9",
+            "Location": "BOGAZKOY BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "06:48:08",
+            "Latitude": "37.3655",
+            "Longitude": "36.3795",
+            "Depth": "3.5",
+            "ML": "1.9",
+            "Location": "KOLELI ANDIRIN KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "06:13:04",
+            "Latitude": "37.0637",
+            "Longitude": "28.4417",
+            "Depth": "8.9",
+            "ML": "1.4",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "06:11:36",
+            "Latitude": "40.4420",
+            "Longitude": "29.0988",
+            "Depth": "5.0",
+            "ML": "0.9",
+            "Location": "GEMLIK KORFEZI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.05.05",
             "Time": "05:28:28",
             "Latitude": "37.8672",
             "Longitude": "26.9878",
@@ -4436,42 +4472,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "YAYLAKOY KINIK IZMIR"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "09:04:03",
-            "Latitude": "39.1290",
-            "Longitude": "28.3483",
-            "Depth": "9.1",
-            "ML": "1.6",
-            "Location": "YAYLABAYIR SINDIRGI BALIKESIR"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "07:22:55",
-            "Latitude": "36.9640",
-            "Longitude": "27.6413",
-            "Depth": "6.7",
-            "ML": "2.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "07:14:05",
-            "Latitude": "35.1705",
-            "Longitude": "27.0378",
-            "Depth": "11.9",
-            "ML": "4.5",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "07:00:25",
-            "Latitude": "34.0202",
-            "Longitude": "23.6353",
-            "Depth": "17.0",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
