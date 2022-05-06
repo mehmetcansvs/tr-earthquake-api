@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.06",
+            "Time": "11:00:27",
+            "Latitude": "40.8058",
+            "Longitude": "32.9007",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "CERKES CANKIRI"
+        },
+        {
+            "Date": "2022.05.06",
             "Time": "07:11:33",
             "Latitude": "38.2183",
             "Longitude": "30.9182",
@@ -4445,15 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "TEKEDERESI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "04:57:31",
-            "Latitude": "40.4875",
-            "Longitude": "32.9940",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "KIZILOREN CUBUK ANKARA"
         }
     ]
 }
