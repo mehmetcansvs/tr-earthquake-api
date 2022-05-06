@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.06",
+            "Time": "14:27:37",
+            "Latitude": "39.3013",
+            "Longitude": "40.6562",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "CEVRELI ADAKLI BINGOL"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "14:14:23",
+            "Latitude": "37.5788",
+            "Longitude": "26.9378",
+            "Depth": "5.4",
+            "ML": "2.4",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.06",
             "Time": "13:03:51",
             "Latitude": "36.5977",
             "Longitude": "34.1905",
@@ -4436,24 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.0",
             "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "06:23:17",
-            "Latitude": "40.4187",
-            "Longitude": "32.9142",
-            "Depth": "5.4",
-            "ML": "1.2",
-            "Location": "YESILKENT CUBUK ANKARA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "05:59:40",
-            "Latitude": "40.4843",
-            "Longitude": "33.0178",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "AVCIOVA CUBUK ANKARA"
         }
     ]
 }
