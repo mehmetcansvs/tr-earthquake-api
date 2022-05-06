@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.06",
+            "Time": "20:32:01",
+            "Latitude": "39.8778",
+            "Longitude": "39.0892",
+            "Depth": "5.8",
+            "ML": "2.7",
+            "Location": "YENIKOY REFAHIYE ERZINCAN"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "19:41:10",
+            "Latitude": "36.2143",
+            "Longitude": "27.0523",
+            "Depth": "8.5",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.06",
             "Time": "18:44:42",
             "Latitude": "40.4228",
             "Longitude": "28.9327",
@@ -4436,24 +4454,6 @@
             "Depth": "17.9",
             "ML": "1.6",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "10:42:37",
-            "Latitude": "40.8682",
-            "Longitude": "31.6665",
-            "Depth": "5.2",
-            "ML": "1.9",
-            "Location": "YESILCELE BOLU"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "10:35:01",
-            "Latitude": "41.0953",
-            "Longitude": "26.6677",
-            "Depth": "3.0",
-            "ML": "1.2",
-            "Location": "KADIKOY UZUNKOPRU EDIRNE"
         }
     ]
 }
