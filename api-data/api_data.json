@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.05.07",
+            "Time": "00:51:57",
+            "Latitude": "40.8360",
+            "Longitude": "31.0175",
+            "Depth": "12.8",
+            "ML": "2.9",
+            "Location": "YAYAKBASI DUZCE"
+        },
+        {
             "Date": "2022.05.06",
             "Time": "22:53:52",
             "Latitude": "40.8808",
@@ -4445,15 +4454,6 @@
             "Depth": "3.9",
             "ML": "1.4",
             "Location": "SELIMIYE MERZIFON AMASYA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "12:13:41",
-            "Latitude": "39.9118",
-            "Longitude": "26.2742",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "TASTEPE EZINE CANAKKALE"
         }
     ]
 }
