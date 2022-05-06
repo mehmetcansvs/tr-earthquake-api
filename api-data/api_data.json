@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.06",
+            "Time": "13:03:51",
+            "Latitude": "36.5977",
+            "Longitude": "34.1905",
+            "Depth": "11.6",
+            "ML": "1.6",
+            "Location": "CIRIS ERDEMLI MERSIN"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "12:24:19",
+            "Latitude": "41.2800",
+            "Longitude": "28.8612",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "AGACLI EYUP ISTANBUL"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "12:17:45",
+            "Latitude": "39.4462",
+            "Longitude": "32.3472",
+            "Depth": "0.0",
+            "ML": "2.0",
+            "Location": "SIVRI POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "12:06:02",
+            "Latitude": "37.2533",
+            "Longitude": "34.7560",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "GULEK TARSUS MERSIN"
+        },
+        {
+            "Date": "2022.05.06",
             "Time": "11:00:27",
             "Latitude": "40.8058",
             "Longitude": "32.9007",
@@ -4418,42 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.9",
             "Location": "AVCIOVA CUBUK ANKARA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "05:46:42",
-            "Latitude": "37.8237",
-            "Longitude": "26.8970",
-            "Depth": "20.3",
-            "ML": "1.6",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "05:45:47",
-            "Latitude": "40.4807",
-            "Longitude": "33.0140",
-            "Depth": "5.0",
-            "ML": "3.7",
-            "Location": "AVCIOVA CUBUK ANKARA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "05:42:50",
-            "Latitude": "37.8097",
-            "Longitude": "30.9218",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "CAYKOY EGIRDIR ISPARTA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "05:26:30",
-            "Latitude": "38.1207",
-            "Longitude": "38.6125",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "TEKEDERESI PUTURGE MALATYA"
         }
     ]
 }
