@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.05.06",
+            "Time": "02:18:05",
+            "Latitude": "39.2560",
+            "Longitude": "26.7042",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "KUCUKKOY AYVALIK BALIKESIR"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "02:07:23",
+            "Latitude": "38.3820",
+            "Longitude": "26.4428",
+            "Depth": "13.8",
+            "ML": "1.7",
+            "Location": "ILDIR CESME IZMIR"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "01:06:05",
+            "Latitude": "38.6147",
+            "Longitude": "30.8757",
+            "Depth": "8.8",
+            "ML": "1.5",
+            "Location": "MALTEPE CAY AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.05.06",
             "Time": "00:59:38",
             "Latitude": "37.0347",
             "Longitude": "35.9290",
             "Depth": "13.7",
             "ML": "2.1",
             "Location": "HAMDILLI CEYHAN ADANA"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "00:49:35",
+            "Latitude": "37.6952",
+            "Longitude": "29.3230",
+            "Depth": "9.3",
+            "ML": "1.5",
+            "Location": "AYDINLAR HONAZ DENIZLI"
         },
         {
             "Date": "2022.05.06",
@@ -4418,42 +4454,6 @@
             "Depth": "22.1",
             "ML": "2.8",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "21:05:44",
-            "Latitude": "37.1343",
-            "Longitude": "36.8263",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "DURMUSLAR NURDAGI GAZIANTEP"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "21:04:24",
-            "Latitude": "40.7772",
-            "Longitude": "31.5590",
-            "Depth": "9.1",
-            "ML": "1.7",
-            "Location": "PIRAHMETLER BOLU"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "20:30:11",
-            "Latitude": "37.0870",
-            "Longitude": "28.3347",
-            "Depth": "4.5",
-            "ML": "1.4",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.24",
-            "Time": "19:33:58",
-            "Latitude": "38.3348",
-            "Longitude": "38.9700",
-            "Depth": "11.6",
-            "ML": "2.4",
-            "Location": "TOPALUSAGI SIVRICE ELAZIG"
         }
     ]
 }
