@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.06",
+            "Time": "17:05:45",
+            "Latitude": "36.2645",
+            "Longitude": "27.0265",
+            "Depth": "3.1",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "17:01:31",
+            "Latitude": "36.2585",
+            "Longitude": "27.0595",
+            "Depth": "6.0",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.06",
             "Time": "14:27:37",
             "Latitude": "39.3013",
             "Longitude": "40.6562",
@@ -4436,24 +4454,6 @@
             "Depth": "5.2",
             "ML": "1.5",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "08:22:54",
-            "Latitude": "38.3282",
-            "Longitude": "38.7918",
-            "Depth": "3.0",
-            "ML": "1.9",
-            "Location": "CANAKCI KALE MALATYA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "07:30:00",
-            "Latitude": "37.0668",
-            "Longitude": "28.3507",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "GOKOVA ULA MUGLA"
         }
     ]
 }
