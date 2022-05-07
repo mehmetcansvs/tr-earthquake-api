@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.07",
+            "Time": "12:17:07",
+            "Latitude": "36.9057",
+            "Longitude": "27.5780",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.07",
+            "Time": "11:13:38",
+            "Latitude": "38.8125",
+            "Longitude": "27.3505",
+            "Depth": "12.4",
+            "ML": "1.5",
+            "Location": "DAVUTLAR MANISA"
+        },
+        {
+            "Date": "2022.05.07",
+            "Time": "11:05:13",
+            "Latitude": "40.2423",
+            "Longitude": "42.1332",
+            "Depth": "5.2",
+            "ML": "1.7",
+            "Location": "BALABANTAS SARIKAMIS KARS"
+        },
+        {
+            "Date": "2022.05.07",
             "Time": "10:13:59",
             "Latitude": "35.7412",
             "Longitude": "26.2072",
@@ -4427,33 +4454,6 @@
             "Depth": "17.4",
             "ML": "1.4",
             "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "23:06:57",
-            "Latitude": "35.9045",
-            "Longitude": "28.7692",
-            "Depth": "9.8",
-            "ML": "2.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "19:31:41",
-            "Latitude": "41.8833",
-            "Longitude": "22.6878",
-            "Depth": "5.0",
-            "ML": "3.8",
-            "Location": "MAKEDONYA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "19:29:04",
-            "Latitude": "40.4803",
-            "Longitude": "33.0423",
-            "Depth": "5.9",
-            "ML": "2.4",
-            "Location": "OZLU ORTA CANKIRI"
         }
     ]
 }
