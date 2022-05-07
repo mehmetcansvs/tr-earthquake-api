@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.07",
+            "Time": "10:13:59",
+            "Latitude": "35.7412",
+            "Longitude": "26.2072",
+            "Depth": "7.2",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.07",
+            "Time": "09:58:02",
+            "Latitude": "38.6250",
+            "Longitude": "43.4663",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "COMAKLI VAN"
+        },
+        {
+            "Date": "2022.05.07",
             "Time": "07:25:19",
             "Latitude": "38.6460",
             "Longitude": "43.2410",
@@ -4436,24 +4454,6 @@
             "Depth": "5.9",
             "ML": "2.4",
             "Location": "OZLU ORTA CANKIRI"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "19:11:02",
-            "Latitude": "35.2882",
-            "Longitude": "26.2702",
-            "Depth": "1.2",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "18:30:45",
-            "Latitude": "39.5223",
-            "Longitude": "26.8615",
-            "Depth": "7.6",
-            "ML": "1.6",
-            "Location": "EDREMIT KORFEZI EGE DENIZI"
         }
     ]
 }
