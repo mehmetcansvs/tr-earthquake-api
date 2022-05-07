@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.07",
+            "Time": "03:52:02",
+            "Latitude": "37.1767",
+            "Longitude": "32.9733",
+            "Depth": "12.7",
+            "ML": "2.3",
+            "Location": "YOLLARBASI KARAMAN"
+        },
+        {
+            "Date": "2022.05.07",
+            "Time": "03:10:23",
+            "Latitude": "37.9982",
+            "Longitude": "27.5137",
+            "Depth": "17.3",
+            "ML": "1.6",
+            "Location": "MEHMETLER TIRE IZMIR"
+        },
+        {
+            "Date": "2022.05.07",
             "Time": "00:51:57",
             "Latitude": "40.8360",
             "Longitude": "31.0175",
@@ -4436,24 +4454,6 @@
             "Depth": "17.5",
             "ML": "1.7",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "12:46:16",
-            "Latitude": "39.0295",
-            "Longitude": "38.0695",
-            "Depth": "9.5",
-            "ML": "2.0",
-            "Location": "DIKILI HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "12:21:19",
-            "Latitude": "40.6807",
-            "Longitude": "35.4443",
-            "Depth": "3.9",
-            "ML": "1.4",
-            "Location": "SELIMIYE MERZIFON AMASYA"
         }
     ]
 }
