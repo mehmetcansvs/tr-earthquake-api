@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.07",
+            "Time": "05:27:29",
+            "Latitude": "39.2925",
+            "Longitude": "40.8052",
+            "Depth": "5.7",
+            "ML": "2.2",
+            "Location": "KARLICA KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.05.07",
+            "Time": "04:35:48",
+            "Latitude": "39.4353",
+            "Longitude": "32.7160",
+            "Depth": "7.8",
+            "ML": "2.0",
+            "Location": "CULUK HAYMANA ANKARA"
+        },
+        {
+            "Date": "2022.05.07",
+            "Time": "04:23:19",
+            "Latitude": "40.8352",
+            "Longitude": "27.8862",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.05.07",
             "Time": "03:52:02",
             "Latitude": "37.1767",
             "Longitude": "32.9733",
@@ -4427,33 +4454,6 @@
             "Depth": "4.2",
             "ML": "2.7",
             "Location": "BESKARIS ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "15:46:22",
-            "Latitude": "35.1217",
-            "Longitude": "25.3055",
-            "Depth": "12.4",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "13:44:53",
-            "Latitude": "37.0307",
-            "Longitude": "28.4568",
-            "Depth": "3.3",
-            "ML": "1.8",
-            "Location": "KIZILYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "12:52:12",
-            "Latitude": "36.4745",
-            "Longitude": "28.6627",
-            "Depth": "17.5",
-            "ML": "1.7",
-            "Location": "AKDENIZ"
         }
     ]
 }
