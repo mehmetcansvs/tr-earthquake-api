@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.07",
+            "Time": "07:25:19",
+            "Latitude": "38.6460",
+            "Longitude": "43.2410",
+            "Depth": "23.6",
+            "ML": "1.8",
+            "Location": "DIBEKDUZU VAN"
+        },
+        {
+            "Date": "2022.05.07",
             "Time": "05:27:29",
             "Latitude": "39.2925",
             "Longitude": "40.8052",
@@ -4445,15 +4454,6 @@
             "Depth": "7.6",
             "ML": "1.6",
             "Location": "EDREMIT KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "16:54:15",
-            "Latitude": "38.9912",
-            "Longitude": "30.1840",
-            "Depth": "4.2",
-            "ML": "2.7",
-            "Location": "BESKARIS ALTINTAS KUTAHYA"
         }
     ]
 }
