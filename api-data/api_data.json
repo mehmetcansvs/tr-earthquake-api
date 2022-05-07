@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.07",
+            "Time": "13:00:46",
+            "Latitude": "41.1762",
+            "Longitude": "41.7610",
+            "Depth": "13.6",
+            "ML": "2.4",
+            "Location": "FISTIKLI ARTVIN"
+        },
+        {
+            "Date": "2022.05.07",
+            "Time": "12:27:48",
+            "Latitude": "38.0555",
+            "Longitude": "32.6253",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "SARICALAR SELCUKLU KONYA"
+        },
+        {
+            "Date": "2022.05.07",
             "Time": "12:17:07",
             "Latitude": "36.9057",
             "Longitude": "27.5780",
@@ -4436,24 +4454,6 @@
             "Depth": "19.4",
             "ML": "2.7",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "00:56:50",
-            "Latitude": "38.4143",
-            "Longitude": "31.8892",
-            "Depth": "5.4",
-            "ML": "2.3",
-            "Location": "MISAFIRLI ILGIN KONYA"
-        },
-        {
-            "Date": "2022.04.25",
-            "Time": "23:20:59",
-            "Latitude": "40.7257",
-            "Longitude": "27.4882",
-            "Depth": "17.4",
-            "ML": "1.4",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
         }
     ]
 }
