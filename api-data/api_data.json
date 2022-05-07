@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.07",
+            "Time": "20:48:56",
+            "Latitude": "37.8435",
+            "Longitude": "29.2798",
+            "Depth": "17.3",
+            "ML": "1.7",
+            "Location": "GURLEYIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.05.07",
             "Time": "16:37:40",
             "Latitude": "37.9042",
             "Longitude": "32.5193",
@@ -4445,15 +4454,6 @@
             "Depth": "8.2",
             "ML": "1.9",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "02:22:27",
-            "Latitude": "41.8538",
-            "Longitude": "22.7855",
-            "Depth": "4.6",
-            "ML": "3.3",
-            "Location": "MAKEDONYA"
         }
     ]
 }
