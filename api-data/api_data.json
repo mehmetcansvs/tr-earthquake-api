@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.08",
+            "Time": "17:57:35",
+            "Latitude": "37.0855",
+            "Longitude": "28.3680",
+            "Depth": "6.1",
+            "ML": "1.5",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "17:30:28",
+            "Latitude": "38.3563",
+            "Longitude": "23.2932",
+            "Depth": "4.4",
+            "ML": "3.7",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.08",
             "Time": "16:22:30",
             "Latitude": "35.2013",
             "Longitude": "25.3243",
@@ -4436,24 +4454,6 @@
             "Depth": "13.2",
             "ML": "1.4",
             "Location": "CAMLIK BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "03:35:51",
-            "Latitude": "40.7408",
-            "Longitude": "31.5345",
-            "Depth": "4.7",
-            "ML": "1.2",
-            "Location": "KURKCULER BOLU"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "03:33:36",
-            "Latitude": "39.2210",
-            "Longitude": "41.6718",
-            "Depth": "8.4",
-            "ML": "2.0",
-            "Location": "TORAMAN HINIS ERZURUM"
         }
     ]
 }
