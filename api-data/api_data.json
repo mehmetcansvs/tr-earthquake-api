@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.08",
+            "Time": "11:33:29",
+            "Latitude": "35.3430",
+            "Longitude": "33.8300",
+            "Depth": "12.0",
+            "ML": "1.8",
+            "Location": "KIBRIS ISKELE"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "11:30:35",
+            "Latitude": "39.5303",
+            "Longitude": "28.3805",
+            "Depth": "15.7",
+            "ML": "1.9",
+            "Location": "SEBILLER DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "11:24:30",
+            "Latitude": "38.4738",
+            "Longitude": "25.5402",
+            "Depth": "15.4",
+            "ML": "2.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.08",
             "Time": "09:55:19",
             "Latitude": "36.4663",
             "Longitude": "27.8873",
@@ -4427,33 +4454,6 @@
             "Depth": "13.2",
             "ML": "4.0",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "22:11:30",
-            "Latitude": "34.4965",
-            "Longitude": "32.4460",
-            "Depth": "9.1",
-            "ML": "4.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "22:05:21",
-            "Latitude": "34.7308",
-            "Longitude": "32.4697",
-            "Depth": "5.8",
-            "ML": "2.7",
-            "Location": "KIBRIS RUM KESIMI"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "20:30:51",
-            "Latitude": "39.5315",
-            "Longitude": "27.0507",
-            "Depth": "12.9",
-            "ML": "2.0",
-            "Location": "BUYUKDERE HAVRAN BALIKESIR"
         }
     ]
 }
