@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.08",
+            "Time": "16:22:30",
+            "Latitude": "35.2013",
+            "Longitude": "25.3243",
+            "Depth": "2.7",
+            "ML": "4.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "15:24:48",
+            "Latitude": "37.0400",
+            "Longitude": "30.4087",
+            "Depth": "1.4",
+            "ML": "2.0",
+            "Location": "SOGUTCUK KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.05.08",
             "Time": "14:24:39",
             "Latitude": "38.2525",
             "Longitude": "26.6067",
@@ -4436,24 +4454,6 @@
             "Depth": "8.4",
             "ML": "2.0",
             "Location": "TORAMAN HINIS ERZURUM"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "02:05:32",
-            "Latitude": "37.8932",
-            "Longitude": "30.1210",
-            "Depth": "11.9",
-            "ML": "1.1",
-            "Location": "ASAGI BELTARLA BASMAKCI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "01:56:01",
-            "Latitude": "40.6693",
-            "Longitude": "27.4363",
-            "Depth": "12.2",
-            "ML": "1.1",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
         }
     ]
 }
