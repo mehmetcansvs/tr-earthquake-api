@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.08",
+            "Time": "23:14:21",
+            "Latitude": "37.0142",
+            "Longitude": "27.6727",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "MAZIKOY BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.05.08",
             "Time": "22:21:34",
             "Latitude": "39.4965",
             "Longitude": "32.3397",
@@ -4445,15 +4454,6 @@
             "Depth": "14.7",
             "ML": "1.5",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "08:54:58",
-            "Latitude": "36.9993",
-            "Longitude": "28.3770",
-            "Depth": "16.4",
-            "ML": "1.4",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
