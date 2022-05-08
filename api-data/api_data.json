@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.08",
+            "Time": "22:21:34",
+            "Latitude": "39.4965",
+            "Longitude": "32.3397",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "KARAYAVSAN POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "22:16:54",
+            "Latitude": "37.2998",
+            "Longitude": "28.1378",
+            "Depth": "8.3",
+            "ML": "1.9",
+            "Location": "BOZUYUK YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "22:16:05",
+            "Latitude": "37.2903",
+            "Longitude": "28.1362",
+            "Depth": "7.8",
+            "ML": "2.5",
+            "Location": "BOZUYUK YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "22:08:32",
+            "Latitude": "37.3093",
+            "Longitude": "28.1758",
+            "Depth": "14.3",
+            "ML": "1.6",
+            "Location": "BOZARMUT YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.05.08",
             "Time": "20:29:16",
             "Latitude": "39.3132",
             "Longitude": "27.8863",
@@ -4418,42 +4454,6 @@
             "Depth": "16.4",
             "ML": "1.4",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "08:54:00",
-            "Latitude": "37.5763",
-            "Longitude": "29.1317",
-            "Depth": "5.0",
-            "ML": "1.0",
-            "Location": "AKYAR TAVAS DENIZLI"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "08:49:37",
-            "Latitude": "37.0002",
-            "Longitude": "28.2690",
-            "Depth": "7.6",
-            "ML": "2.2",
-            "Location": "CAMLI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "04:36:28",
-            "Latitude": "39.3207",
-            "Longitude": "41.1543",
-            "Depth": "2.0",
-            "ML": "1.5",
-            "Location": "ALABALIK VARTO MUS"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "04:32:12",
-            "Latitude": "39.3517",
-            "Longitude": "25.8615",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "EGE DENIZI"
         }
     ]
 }
