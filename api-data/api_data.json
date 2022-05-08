@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.08",
+            "Time": "20:29:16",
+            "Latitude": "39.3132",
+            "Longitude": "27.8863",
+            "Depth": "8.8",
+            "ML": "2.5",
+            "Location": "FIRDANLAR KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "20:29:15",
+            "Latitude": "39.6413",
+            "Longitude": "39.7225",
+            "Depth": "5.8",
+            "ML": "2.1",
+            "Location": "MERTEKLI ERZINCAN"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "20:28:00",
+            "Latitude": "40.5413",
+            "Longitude": "27.0993",
+            "Depth": "17.5",
+            "ML": "2.4",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.05.08",
             "Time": "17:57:35",
             "Latitude": "37.0855",
             "Longitude": "28.3680",
@@ -4427,33 +4454,6 @@
             "Depth": "5.4",
             "ML": "1.8",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "04:27:16",
-            "Latitude": "37.1058",
-            "Longitude": "28.5557",
-            "Depth": "7.3",
-            "ML": "2.1",
-            "Location": "KIYRA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "04:09:07",
-            "Latitude": "38.1308",
-            "Longitude": "38.5950",
-            "Depth": "4.6",
-            "ML": "1.4",
-            "Location": "TEKEDERESI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "03:54:23",
-            "Latitude": "37.0347",
-            "Longitude": "27.5603",
-            "Depth": "13.2",
-            "ML": "1.4",
-            "Location": "CAMLIK BODRUM MUGLA"
         }
     ]
 }
