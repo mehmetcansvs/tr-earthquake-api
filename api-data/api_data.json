@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.08",
+            "Time": "05:50:06",
+            "Latitude": "35.8900",
+            "Longitude": "29.3652",
+            "Depth": "19.6",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "05:43:47",
+            "Latitude": "35.7758",
+            "Longitude": "29.3292",
+            "Depth": "9.3",
+            "ML": "3.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "05:34:18",
+            "Latitude": "37.0475",
+            "Longitude": "28.4318",
+            "Depth": "18.6",
+            "ML": "1.3",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "05:23:41",
+            "Latitude": "36.9695",
+            "Longitude": "27.6702",
+            "Depth": "8.1",
+            "ML": "2.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.08",
             "Time": "03:33:58",
             "Latitude": "37.0512",
             "Longitude": "28.4308",
@@ -4418,42 +4454,6 @@
             "Depth": "16.4",
             "ML": "1.7",
             "Location": "TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "11:30:54",
-            "Latitude": "37.9110",
-            "Longitude": "29.0933",
-            "Depth": "5.2",
-            "ML": "1.4",
-            "Location": "PAMUKKALE DENIZLI"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "11:28:41",
-            "Latitude": "37.8382",
-            "Longitude": "29.2278",
-            "Depth": "13.2",
-            "ML": "1.7",
-            "Location": "KOCADERE DENIZLI"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "10:31:24",
-            "Latitude": "38.8980",
-            "Longitude": "43.5308",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "COLPAN VAN"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "10:11:03",
-            "Latitude": "39.5520",
-            "Longitude": "28.2158",
-            "Depth": "5.1",
-            "ML": "1.6",
-            "Location": "TILKICIK KEPSUT BALIKESIR"
         }
     ]
 }
