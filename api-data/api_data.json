@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.08",
+            "Time": "03:33:58",
+            "Latitude": "37.0512",
+            "Longitude": "28.4308",
+            "Depth": "11.2",
+            "ML": "1.9",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "02:28:22",
+            "Latitude": "36.3973",
+            "Longitude": "27.0217",
+            "Depth": "9.9",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "02:14:01",
+            "Latitude": "37.0753",
+            "Longitude": "28.3607",
+            "Depth": "6.3",
+            "ML": "1.7",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.08",
+            "Time": "01:41:10",
+            "Latitude": "40.8505",
+            "Longitude": "30.9957",
+            "Depth": "19.3",
+            "ML": "1.5",
+            "Location": "YAKABASI GUMUSOVA DUZCE"
+        },
+        {
+            "Date": "2022.05.08",
             "Time": "00:01:56",
             "Latitude": "37.5075",
             "Longitude": "37.9668",
@@ -4418,42 +4454,6 @@
             "Depth": "5.1",
             "ML": "1.6",
             "Location": "TILKICIK KEPSUT BALIKESIR"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "09:13:14",
-            "Latitude": "38.0730",
-            "Longitude": "38.0972",
-            "Depth": "5.5",
-            "ML": "1.9",
-            "Location": "YALINKAYA YESILYURT MALATYA"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "08:24:09",
-            "Latitude": "40.3850",
-            "Longitude": "33.1495",
-            "Depth": "19.5",
-            "ML": "1.8",
-            "Location": "DALYASAN CUBUK ANKARA"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "08:19:06",
-            "Latitude": "35.3472",
-            "Longitude": "26.1257",
-            "Depth": "3.4",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.26",
-            "Time": "08:09:03",
-            "Latitude": "38.9310",
-            "Longitude": "43.4950",
-            "Depth": "25.6",
-            "ML": "2.0",
-            "Location": "VAN GOLU"
         }
     ]
 }
