@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.09",
+            "Time": "08:26:16",
+            "Latitude": "35.9852",
+            "Longitude": "28.6793",
+            "Depth": "13.8",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.09",
+            "Time": "07:47:59",
+            "Latitude": "38.2910",
+            "Longitude": "38.8580",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "YEDIYOL PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.05.09",
             "Time": "06:45:33",
             "Latitude": "35.8942",
             "Longitude": "28.6760",
@@ -4436,24 +4454,6 @@
             "Depth": "1.4",
             "ML": "2.2",
             "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "11:33:07",
-            "Latitude": "38.9537",
-            "Longitude": "26.0958",
-            "Depth": "25.9",
-            "ML": "1.9",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "11:21:33",
-            "Latitude": "36.3258",
-            "Longitude": "27.8640",
-            "Depth": "29.4",
-            "ML": "1.7",
-            "Location": "AKDENIZ"
         }
     ]
 }
