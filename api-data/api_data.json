@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.09",
+            "Time": "16:29:39",
+            "Latitude": "36.0763",
+            "Longitude": "33.6552",
+            "Depth": "11.4",
+            "ML": "1.5",
+            "Location": "YESILOVACIK ACIKLARI MERSIN AKDENIZ REVIZE AKDENIZ"
+        },
+        {
+            "Date": "2022.05.09",
             "Time": "14:49:03",
             "Latitude": "38.4003",
             "Longitude": "28.5703",
@@ -775,6 +784,15 @@
             "Location": "YAYAKBASI DUZCE"
         },
         {
+            "Date": "2022.05.07",
+            "Time": "00:35:28",
+            "Latitude": "37.8327",
+            "Longitude": "29.2000",
+            "Depth": "19.5",
+            "ML": "1.2",
+            "Location": "KOCADERE DENIZLI"
+        },
+        {
             "Date": "2022.05.06",
             "Time": "22:53:52",
             "Latitude": "40.8808",
@@ -800,6 +818,15 @@
             "Depth": "9.6",
             "ML": "1.9",
             "Location": "UZUNOLUK BEYAGAC DENIZLI"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "21:52:21",
+            "Latitude": "38.1612",
+            "Longitude": "26.7685",
+            "Depth": "20.2",
+            "ML": "1.4",
+            "Location": "SEFERIHISAR ACIKLARI IZMIR EGE DENIZI"
         },
         {
             "Date": "2022.05.06",
@@ -3674,6 +3701,15 @@
         },
         {
             "Date": "2022.04.29",
+            "Time": "06:55:31",
+            "Latitude": "37.8505",
+            "Longitude": "29.2965",
+            "Depth": "21.1",
+            "ML": "1.4",
+            "Location": "GURLEYIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.04.29",
             "Time": "06:53:46",
             "Latitude": "37.8838",
             "Longitude": "29.2610",
@@ -3743,6 +3779,15 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "IRLIGANLI DENIZLI"
+        },
+        {
+            "Date": "2022.04.29",
+            "Time": "03:03:10",
+            "Latitude": "37.6723",
+            "Longitude": "29.2478",
+            "Depth": "5.1",
+            "ML": "1.1",
+            "Location": "KARATAS DENIZLI"
         },
         {
             "Date": "2022.04.29",
@@ -4409,60 +4454,6 @@
             "Depth": "24.4",
             "ML": "1.8",
             "Location": "AKCABUDAK LICE DIYARBAKIR"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "17:22:42",
-            "Latitude": "37.0542",
-            "Longitude": "28.4143",
-            "Depth": "13.9",
-            "ML": "2.2",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "17:02:19",
-            "Latitude": "40.4387",
-            "Longitude": "28.7850",
-            "Depth": "5.4",
-            "ML": "2.4",
-            "Location": "GEMLIK KORFEZI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "16:32:44",
-            "Latitude": "38.7767",
-            "Longitude": "43.5250",
-            "Depth": "13.5",
-            "ML": "1.6",
-            "Location": "DEGIRMENOZU VAN"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "16:12:57",
-            "Latitude": "40.5092",
-            "Longitude": "32.9683",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "TUTMACBAYINDIR ORTA CANKIRI"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "15:49:30",
-            "Latitude": "39.5522",
-            "Longitude": "25.9260",
-            "Depth": "20.4",
-            "ML": "1.4",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "15:31:17",
-            "Latitude": "38.2105",
-            "Longitude": "30.9302",
-            "Depth": "5.3",
-            "ML": "1.6",
-            "Location": "ASAGITIRTAR YALVAC ISPARTA"
         }
     ]
 }
