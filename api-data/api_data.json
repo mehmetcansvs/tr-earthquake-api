@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.09",
+            "Time": "18:19:37",
+            "Latitude": "36.1087",
+            "Longitude": "33.5757",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.09",
+            "Time": "17:18:33",
+            "Latitude": "36.1655",
+            "Longitude": "33.5588",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.09",
+            "Time": "16:57:37",
+            "Latitude": "39.2357",
+            "Longitude": "23.2202",
+            "Depth": "5.0",
+            "ML": "3.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.09",
             "Time": "16:29:39",
             "Latitude": "36.0763",
             "Longitude": "33.6552",
@@ -4427,33 +4454,6 @@
             "Depth": "2.8",
             "ML": "2.1",
             "Location": "BIRGI URLA IZMIR"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "20:20:19",
-            "Latitude": "37.0142",
-            "Longitude": "28.3357",
-            "Depth": "18.3",
-            "ML": "1.9",
-            "Location": "GOKCE ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "20:10:15",
-            "Latitude": "37.0148",
-            "Longitude": "28.3693",
-            "Depth": "13.0",
-            "ML": "1.7",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "19:23:33",
-            "Latitude": "38.5668",
-            "Longitude": "40.6857",
-            "Depth": "24.4",
-            "ML": "1.8",
-            "Location": "AKCABUDAK LICE DIYARBAKIR"
         }
     ]
 }
