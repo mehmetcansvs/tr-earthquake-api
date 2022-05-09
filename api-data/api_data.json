@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.05.09",
+            "Time": "03:55:31",
+            "Latitude": "37.9385",
+            "Longitude": "28.8138",
+            "Depth": "13.0",
+            "ML": "1.6",
+            "Location": "KIZILDERE BUHARKENT AYDIN"
+        },
+        {
+            "Date": "2022.05.09",
+            "Time": "03:41:52",
+            "Latitude": "40.7645",
+            "Longitude": "30.2520",
+            "Depth": "11.5",
+            "ML": "1.6",
+            "Location": "YUKARIDEREKOY SERDIVAN SAKARYA"
+        },
+        {
+            "Date": "2022.05.09",
+            "Time": "03:40:49",
+            "Latitude": "37.8197",
+            "Longitude": "27.6178",
+            "Depth": "21.6",
+            "ML": "1.4",
+            "Location": "TURANLAR GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.05.09",
+            "Time": "01:39:59",
+            "Latitude": "36.3768",
+            "Longitude": "28.6112",
+            "Depth": "54.9",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
             "Date": "2022.05.08",
             "Time": "23:14:21",
             "Latitude": "37.0142",
@@ -4418,42 +4454,6 @@
             "Depth": "5.4",
             "ML": "2.9",
             "Location": "TAVUKCUKURU BERGAMA IZMIR"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "09:33:54",
-            "Latitude": "37.0777",
-            "Longitude": "28.3522",
-            "Depth": "4.1",
-            "ML": "1.3",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "09:31:19",
-            "Latitude": "39.1240",
-            "Longitude": "27.5828",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "ADIL SOMA MANISA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "09:00:24",
-            "Latitude": "37.3233",
-            "Longitude": "37.1282",
-            "Depth": "1.1",
-            "ML": "1.6",
-            "Location": "CICEK PAZARCIK KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "08:59:38",
-            "Latitude": "36.9922",
-            "Longitude": "28.2073",
-            "Depth": "14.7",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
