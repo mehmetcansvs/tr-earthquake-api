@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.09",
+            "Time": "13:03:38",
+            "Latitude": "36.2557",
+            "Longitude": "33.7277",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "AKDERE SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.05.09",
             "Time": "09:30:07",
             "Latitude": "37.8542",
             "Longitude": "37.6585",
@@ -4445,15 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "YALIKOY CATALCA ISTANBUL"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "13:00:44",
-            "Latitude": "36.9848",
-            "Longitude": "28.2258",
-            "Depth": "7.8",
-            "ML": "1.9",
-            "Location": "CAMLI MARMARIS MUGLA"
         }
     ]
 }
