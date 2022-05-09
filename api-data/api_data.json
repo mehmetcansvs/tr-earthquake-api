@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.09",
+            "Time": "09:30:07",
+            "Latitude": "37.8542",
+            "Longitude": "37.6585",
+            "Depth": "4.6",
+            "ML": "1.8",
+            "Location": "MEYDANKOY GOLBASI ADIYAMAN"
+        },
+        {
+            "Date": "2022.05.09",
+            "Time": "08:43:08",
+            "Latitude": "40.4797",
+            "Longitude": "30.1933",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "CIHADIYE PAMUKOVA SAKARYA"
+        },
+        {
+            "Date": "2022.05.09",
             "Time": "08:26:16",
             "Latitude": "35.9852",
             "Longitude": "28.6793",
@@ -4358,6 +4376,15 @@
         },
         {
             "Date": "2022.04.27",
+            "Time": "16:32:44",
+            "Latitude": "38.7767",
+            "Longitude": "43.5250",
+            "Depth": "13.5",
+            "ML": "1.6",
+            "Location": "DEGIRMENOZU VAN"
+        },
+        {
+            "Date": "2022.04.27",
             "Time": "16:12:57",
             "Latitude": "40.5092",
             "Longitude": "32.9683",
@@ -4427,33 +4454,6 @@
             "Depth": "7.8",
             "ML": "1.9",
             "Location": "CAMLI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "12:23:30",
-            "Latitude": "36.1798",
-            "Longitude": "33.7677",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "AKDERE SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "12:19:42",
-            "Latitude": "37.1317",
-            "Longitude": "28.4022",
-            "Depth": "2.8",
-            "ML": "1.5",
-            "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "12:10:36",
-            "Latitude": "38.8715",
-            "Longitude": "43.5538",
-            "Depth": "1.4",
-            "ML": "2.2",
-            "Location": "ERMISLER VAN"
         }
     ]
 }
