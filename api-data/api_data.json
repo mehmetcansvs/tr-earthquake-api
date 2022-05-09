@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.09",
+            "Time": "14:49:03",
+            "Latitude": "38.4003",
+            "Longitude": "28.5703",
+            "Depth": "10.3",
+            "ML": "2.2",
+            "Location": "ISIKLAR ALASEHIR MANISA"
+        },
+        {
+            "Date": "2022.05.09",
+            "Time": "14:39:59",
+            "Latitude": "40.8862",
+            "Longitude": "31.0703",
+            "Depth": "4.9",
+            "ML": "2.0",
+            "Location": "SARIMESE CILIMLI DUZCE"
+        },
+        {
+            "Date": "2022.05.09",
+            "Time": "14:07:15",
+            "Latitude": "36.1782",
+            "Longitude": "33.5333",
+            "Depth": "0.0",
+            "ML": "0.8",
+            "Location": "KOCASLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.09",
             "Time": "13:03:38",
             "Latitude": "36.2557",
             "Longitude": "33.7277",
@@ -731,6 +758,15 @@
         },
         {
             "Date": "2022.05.07",
+            "Time": "02:51:47",
+            "Latitude": "37.0315",
+            "Longitude": "29.2262",
+            "Depth": "22.1",
+            "ML": "1.5",
+            "Location": "EMECIK CAMELI DENIZLI"
+        },
+        {
+            "Date": "2022.05.07",
             "Time": "00:51:57",
             "Latitude": "40.8360",
             "Longitude": "31.0175",
@@ -800,6 +836,15 @@
             "Depth": "10.3",
             "ML": "2.1",
             "Location": "GEMLIK KORFEZI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.05.06",
+            "Time": "18:23:14",
+            "Latitude": "34.3665",
+            "Longitude": "25.2007",
+            "Depth": "14.1",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.05.06",
@@ -4418,42 +4463,6 @@
             "Depth": "5.3",
             "ML": "1.6",
             "Location": "ASAGITIRTAR YALVAC ISPARTA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "15:16:41",
-            "Latitude": "37.1897",
-            "Longitude": "38.1525",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "SUMAKLI BIRECIK SANLIURFA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "15:07:05",
-            "Latitude": "37.4575",
-            "Longitude": "30.0197",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "PINARBASI KEMER BURDUR"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "14:40:12",
-            "Latitude": "38.4963",
-            "Longitude": "34.1768",
-            "Depth": "13.8",
-            "ML": "1.6",
-            "Location": "YALNIZCEVIZ AKSARAY REVIZE AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "13:11:26",
-            "Latitude": "41.4947",
-            "Longitude": "28.2665",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "YALIKOY CATALCA ISTANBUL"
         }
     ]
 }
