@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.09",
+            "Time": "06:45:33",
+            "Latitude": "35.8942",
+            "Longitude": "28.6760",
+            "Depth": "8.1",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.09",
+            "Time": "06:26:00",
+            "Latitude": "35.9153",
+            "Longitude": "30.5198",
+            "Depth": "13.8",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.09",
+            "Time": "06:06:27",
+            "Latitude": "35.6423",
+            "Longitude": "28.8155",
+            "Depth": "95.1",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.09",
             "Time": "03:55:31",
             "Latitude": "37.9385",
             "Longitude": "28.8138",
@@ -4427,33 +4454,6 @@
             "Depth": "29.4",
             "ML": "1.7",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "11:17:31",
-            "Latitude": "39.9413",
-            "Longitude": "27.0363",
-            "Depth": "8.4",
-            "ML": "1.4",
-            "Location": "TERZIALAN CAN CANAKKALE"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "10:58:06",
-            "Latitude": "39.0495",
-            "Longitude": "42.2965",
-            "Depth": "25.9",
-            "ML": "1.7",
-            "Location": "UCTEPE BULANIK MUS"
-        },
-        {
-            "Date": "2022.04.27",
-            "Time": "10:39:54",
-            "Latitude": "38.9715",
-            "Longitude": "27.2927",
-            "Depth": "5.4",
-            "ML": "2.9",
-            "Location": "TAVUKCUKURU BERGAMA IZMIR"
         }
     ]
 }
