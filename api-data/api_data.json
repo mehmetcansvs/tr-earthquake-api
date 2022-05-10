@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.10",
+            "Time": "18:58:10",
+            "Latitude": "39.4498",
+            "Longitude": "31.5647",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "18:28:57",
+            "Latitude": "37.0128",
+            "Longitude": "27.7240",
+            "Depth": "3.8",
+            "ML": "2.0",
+            "Location": "MAZIKOY BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "17:13:31",
+            "Latitude": "34.8408",
+            "Longitude": "32.0158",
+            "Depth": "47.3",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.10",
             "Time": "16:28:28",
             "Latitude": "38.1258",
             "Longitude": "30.3350",
@@ -4427,33 +4454,6 @@
             "Depth": "7.3",
             "ML": "2.4",
             "Location": "GURCISTAN ERMENISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "18:28:27",
-            "Latitude": "39.4630",
-            "Longitude": "32.3528",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "KARAYAVSAN POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "18:15:50",
-            "Latitude": "40.0910",
-            "Longitude": "23.8902",
-            "Depth": "13.3",
-            "ML": "2.1",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "17:38:53",
-            "Latitude": "35.3343",
-            "Longitude": "23.4842",
-            "Depth": "5.0",
-            "ML": "3.5",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
