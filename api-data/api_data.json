@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.10",
+            "Time": "01:22:32",
+            "Latitude": "39.7948",
+            "Longitude": "41.8667",
+            "Depth": "10.4",
+            "ML": "2.0",
+            "Location": "SARITAS KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "01:01:49",
+            "Latitude": "37.1938",
+            "Longitude": "32.9498",
+            "Depth": "9.0",
+            "ML": "2.5",
+            "Location": "KAZIMKARABEKIR KARAMAN"
+        },
+        {
+            "Date": "2022.05.10",
             "Time": "00:04:35",
             "Latitude": "38.2577",
             "Longitude": "38.6182",
@@ -4436,24 +4454,6 @@
             "Depth": "11.5",
             "ML": "2.2",
             "Location": "BULGARISTAN"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "00:35:00",
-            "Latitude": "39.0505",
-            "Longitude": "29.8568",
-            "Depth": "5.4",
-            "ML": "1.4",
-            "Location": "ISIKLAR ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "00:28:01",
-            "Latitude": "36.9513",
-            "Longitude": "27.6125",
-            "Depth": "12.5",
-            "ML": "1.5",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
