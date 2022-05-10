@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.10",
+            "Time": "05:01:05",
+            "Latitude": "36.7890",
+            "Longitude": "36.1052",
+            "Depth": "17.6",
+            "ML": "1.0",
+            "Location": "YESILKOY DORTYOL HATAY"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "04:51:18",
+            "Latitude": "36.9347",
+            "Longitude": "27.6140",
+            "Depth": "9.8",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "04:23:40",
+            "Latitude": "40.7305",
+            "Longitude": "32.9172",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "YAKUPLAR CERKES CANKIRI"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "02:58:24",
+            "Latitude": "40.6098",
+            "Longitude": "28.8563",
+            "Depth": "17.5",
+            "ML": "1.6",
+            "Location": "ESENKOY CINARCIK YALOVA"
+        },
+        {
+            "Date": "2022.05.10",
             "Time": "01:22:32",
             "Latitude": "39.7948",
             "Longitude": "41.8667",
@@ -4418,42 +4454,6 @@
             "Depth": "15.6",
             "ML": "1.5",
             "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "01:30:15",
-            "Latitude": "37.0185",
-            "Longitude": "28.3982",
-            "Depth": "10.9",
-            "ML": "2.0",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "01:00:24",
-            "Latitude": "40.5457",
-            "Longitude": "30.6002",
-            "Depth": "7.1",
-            "ML": "1.8",
-            "Location": "HANYATAK AKYAZI SAKARYA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "00:55:17",
-            "Latitude": "41.7897",
-            "Longitude": "24.1318",
-            "Depth": "11.7",
-            "ML": "2.0",
-            "Location": "BULGARISTAN"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "00:41:22",
-            "Latitude": "41.8060",
-            "Longitude": "24.1070",
-            "Depth": "11.5",
-            "ML": "2.2",
-            "Location": "BULGARISTAN"
         }
     ]
 }
