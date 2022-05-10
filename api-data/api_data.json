@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.10",
+            "Time": "22:23:57",
+            "Latitude": "38.6753",
+            "Longitude": "31.1193",
+            "Depth": "7.4",
+            "ML": "1.4",
+            "Location": "DIPEVLER BOLVADIN AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "21:44:48",
+            "Latitude": "37.8477",
+            "Longitude": "37.4592",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "DUZBAG CAGLAYANCERIT KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.05.10",
             "Time": "20:43:34",
             "Latitude": "37.8430",
             "Longitude": "37.4505",
@@ -4436,24 +4454,6 @@
             "Depth": "5.3",
             "ML": "2.0",
             "Location": "ZAFERTEPECALKOY ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "19:50:11",
-            "Latitude": "41.1407",
-            "Longitude": "43.9117",
-            "Depth": "6.2",
-            "ML": "1.8",
-            "Location": "GURCISTAN ERMENISTAN ERMENISTAN SINIR BOGESI"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "19:35:05",
-            "Latitude": "40.7240",
-            "Longitude": "35.2013",
-            "Depth": "9.2",
-            "ML": "2.0",
-            "Location": "AKPINAR GUMUSHACIKOY AMASYA"
         }
     ]
 }
