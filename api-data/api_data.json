@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.10",
+            "Time": "20:43:34",
+            "Latitude": "37.8430",
+            "Longitude": "37.4505",
+            "Depth": "6.8",
+            "ML": "2.8",
+            "Location": "DUZBAG CAGLAYANCERIT KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "20:04:46",
+            "Latitude": "36.3628",
+            "Longitude": "29.4710",
+            "Depth": "26.3",
+            "ML": "1.5",
+            "Location": "IKIZCE KAS ANTALYA"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "19:56:37",
+            "Latitude": "36.9878",
+            "Longitude": "28.4415",
+            "Depth": "9.8",
+            "ML": "1.9",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.10",
             "Time": "18:58:10",
             "Latitude": "39.4498",
             "Longitude": "31.5647",
@@ -4427,33 +4454,6 @@
             "Depth": "9.2",
             "ML": "2.0",
             "Location": "AKPINAR GUMUSHACIKOY AMASYA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "19:28:48",
-            "Latitude": "36.8257",
-            "Longitude": "35.9565",
-            "Depth": "17.0",
-            "ML": "1.3",
-            "Location": "ISKENDERUN KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "19:15:42",
-            "Latitude": "37.0748",
-            "Longitude": "28.3807",
-            "Depth": "6.1",
-            "ML": "1.9",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "18:50:28",
-            "Latitude": "41.1237",
-            "Longitude": "43.9168",
-            "Depth": "7.3",
-            "ML": "2.4",
-            "Location": "GURCISTAN ERMENISTAN SINIR BOLGESI"
         }
     ]
 }
