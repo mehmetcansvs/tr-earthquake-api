@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.05.10",
+            "Time": "14:57:05",
+            "Latitude": "40.6140",
+            "Longitude": "28.9378",
+            "Depth": "9.0",
+            "ML": "2.4",
+            "Location": "ESENKOY CINARCIK YALOVA"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "14:32:53",
+            "Latitude": "39.6443",
+            "Longitude": "28.0863",
+            "Depth": "12.4",
+            "ML": "1.7",
+            "Location": "HOTASLAR KEPSUT BALIKESIR"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "14:15:34",
+            "Latitude": "38.1245",
+            "Longitude": "30.3657",
+            "Depth": "7.7",
+            "ML": "2.2",
+            "Location": "INHISAR ULUBORLU ISPARTA"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "14:09:08",
+            "Latitude": "36.9512",
+            "Longitude": "27.6647",
+            "Depth": "7.8",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "13:33:20",
+            "Latitude": "37.1610",
+            "Longitude": "37.2407",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "BOYNO SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "13:30:51",
+            "Latitude": "36.1827",
+            "Longitude": "36.6800",
+            "Depth": "11.3",
+            "ML": "1.9",
+            "Location": "CILVEGOZU REYHANLI HATAY"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "13:25:16",
+            "Latitude": "36.1382",
+            "Longitude": "33.5180",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "13:21:28",
+            "Latitude": "40.0267",
+            "Longitude": "32.9407",
+            "Depth": "29.2",
+            "ML": "1.5",
+            "Location": "PURSAKLAR ANKARA"
+        },
+        {
+            "Date": "2022.05.10",
             "Time": "13:04:47",
             "Latitude": "36.2683",
             "Longitude": "33.7453",
@@ -4382,78 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.3",
             "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "14:31:29",
-            "Latitude": "35.1442",
-            "Longitude": "33.9902",
-            "Depth": "7.6",
-            "ML": "1.8",
-            "Location": "KIBRIS GAZIMAGUSA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "13:37:10",
-            "Latitude": "37.0185",
-            "Longitude": "27.6807",
-            "Depth": "19.3",
-            "ML": "1.6",
-            "Location": "MAZIKOY BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "12:47:08",
-            "Latitude": "36.8820",
-            "Longitude": "27.6178",
-            "Depth": "7.0",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "12:35:04",
-            "Latitude": "37.0082",
-            "Longitude": "28.4628",
-            "Depth": "5.4",
-            "ML": "1.1",
-            "Location": "ESENTEPE ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "12:10:29",
-            "Latitude": "38.6675",
-            "Longitude": "35.7128",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "KAMBER TALAS KAYSERI"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "11:57:53",
-            "Latitude": "36.6860",
-            "Longitude": "36.4798",
-            "Depth": "7.2",
-            "ML": "2.5",
-            "Location": "AKTEPE HASSA HATAY"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "10:33:59",
-            "Latitude": "38.9735",
-            "Longitude": "37.3867",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "DURMEPINAR GURUN SIVAS"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "10:33:50",
-            "Latitude": "35.9057",
-            "Longitude": "30.9613",
-            "Depth": "10.6",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
         }
     ]
 }
