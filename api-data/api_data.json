@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.10",
+            "Time": "16:28:28",
+            "Latitude": "38.1258",
+            "Longitude": "30.3350",
+            "Depth": "8.2",
+            "ML": "2.0",
+            "Location": "KARABEDIR DINAR AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "16:20:05",
+            "Latitude": "36.1010",
+            "Longitude": "33.5418",
+            "Depth": "1.4",
+            "ML": "1.5",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "16:03:37",
+            "Latitude": "40.7485",
+            "Longitude": "31.6107",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "BOLU BOLU"
+        },
+        {
+            "Date": "2022.05.10",
             "Time": "14:57:05",
             "Latitude": "40.6140",
             "Longitude": "28.9378",
@@ -89,6 +116,15 @@
             "Depth": "19.6",
             "ML": "2.0",
             "Location": "SAKIZ ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "11:50:58",
+            "Latitude": "35.5577",
+            "Longitude": "26.0480",
+            "Depth": "8.3",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.05.10",
@@ -4418,42 +4454,6 @@
             "Depth": "5.0",
             "ML": "3.5",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "17:11:56",
-            "Latitude": "41.1343",
-            "Longitude": "43.8772",
-            "Depth": "5.8",
-            "ML": "1.6",
-            "Location": "GURCISTAN ERMENISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "17:01:49",
-            "Latitude": "39.0038",
-            "Longitude": "30.1917",
-            "Depth": "5.3",
-            "ML": "2.4",
-            "Location": "BESKARIS ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "15:10:07",
-            "Latitude": "37.8897",
-            "Longitude": "28.0318",
-            "Depth": "3.7",
-            "ML": "1.4",
-            "Location": "GUZELKOY KOSK AYDIN"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "14:35:49",
-            "Latitude": "36.1150",
-            "Longitude": "33.5272",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "YANISLI GULNAR MERSIN"
         }
     ]
 }
