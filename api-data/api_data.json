@@ -2,12 +2,75 @@
     "data": [
         {
             "Date": "2022.05.11",
+            "Time": "13:06:53",
+            "Latitude": "39.1613",
+            "Longitude": "23.2078",
+            "Depth": "8.9",
+            "ML": "3.8",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "12:39:21",
+            "Latitude": "37.0692",
+            "Longitude": "26.9460",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "12:34:07",
+            "Latitude": "39.8272",
+            "Longitude": "26.2345",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "MECIDIYE EZINE CANAKKALE"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "11:49:21",
+            "Latitude": "38.7820",
+            "Longitude": "25.8422",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "11:46:35",
+            "Latitude": "40.4618",
+            "Longitude": "29.3148",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "ORNEKKOY ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "11:37:44",
+            "Latitude": "36.6300",
+            "Longitude": "36.2582",
+            "Depth": "4.9",
+            "ML": "1.6",
+            "Location": "BITISIK ISKENDERUN HATAY"
+        },
+        {
+            "Date": "2022.05.11",
             "Time": "10:47:12",
             "Latitude": "38.5410",
             "Longitude": "25.6570",
             "Depth": "8.3",
             "ML": "2.6",
             "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "10:12:24",
+            "Latitude": "37.0170",
+            "Longitude": "28.4227",
+            "Depth": "20.9",
+            "ML": "1.4",
+            "Location": "CITLIK ULA MUGLA"
         },
         {
             "Date": "2022.05.11",
@@ -269,6 +332,15 @@
             "Depth": "12.6",
             "ML": "1.1",
             "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "23:38:34",
+            "Latitude": "38.1730",
+            "Longitude": "27.4548",
+            "Depth": "6.9",
+            "ML": "1.4",
+            "Location": "TASKESIK TORBALI IZMIR"
         },
         {
             "Date": "2022.05.10",
@@ -2258,6 +2330,24 @@
             "Depth": "14.2",
             "ML": "1.9",
             "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.05",
+            "Time": "00:13:03",
+            "Latitude": "34.7135",
+            "Longitude": "23.7607",
+            "Depth": "18.4",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.04",
+            "Time": "23:25:58",
+            "Latitude": "35.0842",
+            "Longitude": "25.1817",
+            "Depth": "6.2",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.05.04",
@@ -4373,96 +4463,6 @@
             "Depth": "2.5",
             "ML": "4.5",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "16:32:37",
-            "Latitude": "39.3903",
-            "Longitude": "26.1280",
-            "Depth": "6.9",
-            "ML": "2.0",
-            "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "13:43:46",
-            "Latitude": "34.7222",
-            "Longitude": "24.7552",
-            "Depth": "7.5",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "13:21:54",
-            "Latitude": "40.8737",
-            "Longitude": "31.7065",
-            "Depth": "9.9",
-            "ML": "2.2",
-            "Location": "MESCICELE BOLU"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "13:10:45",
-            "Latitude": "39.6498",
-            "Longitude": "30.7525",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "AKSAKLI SEYITGAZI ESKISEHIR"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "13:00:59",
-            "Latitude": "37.9068",
-            "Longitude": "27.1112",
-            "Depth": "6.6",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "12:55:38",
-            "Latitude": "35.9857",
-            "Longitude": "31.5020",
-            "Depth": "18.8",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "12:52:44",
-            "Latitude": "35.7082",
-            "Longitude": "31.4528",
-            "Depth": "1.1",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "12:28:41",
-            "Latitude": "37.9067",
-            "Longitude": "27.1072",
-            "Depth": "11.7",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "12:21:16",
-            "Latitude": "37.8275",
-            "Longitude": "27.0132",
-            "Depth": "8.1",
-            "ML": "1.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "12:18:24",
-            "Latitude": "39.2230",
-            "Longitude": "27.8280",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "SOGUTALANI KIRKAGAC MANISA"
         }
     ]
 }
