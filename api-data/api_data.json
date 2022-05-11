@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.11",
+            "Time": "20:35:18",
+            "Latitude": "36.4203",
+            "Longitude": "29.1082",
+            "Depth": "14.8",
+            "ML": "2.2",
+            "Location": "BOGAZICI FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "20:07:24",
+            "Latitude": "37.1075",
+            "Longitude": "28.4048",
+            "Depth": "9.3",
+            "ML": "2.0",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "17:49:43",
+            "Latitude": "39.0880",
+            "Longitude": "37.3193",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "HAMAL KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.05.11",
             "Time": "17:37:15",
             "Latitude": "40.4042",
             "Longitude": "28.5452",
@@ -4436,33 +4463,6 @@
             "Depth": "6.0",
             "ML": "1.2",
             "Location": "KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "21:42:12",
-            "Latitude": "39.9933",
-            "Longitude": "41.8305",
-            "Depth": "11.4",
-            "ML": "1.2",
-            "Location": "ESENDERE PASINLER ERZURUM"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "21:10:11",
-            "Latitude": "40.4822",
-            "Longitude": "33.0275",
-            "Depth": "5.3",
-            "ML": "1.6",
-            "Location": "AVCIOVA CUBUK ANKARA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "21:07:33",
-            "Latitude": "37.0460",
-            "Longitude": "28.2002",
-            "Depth": "4.8",
-            "ML": "1.7",
-            "Location": "KIRAN MUGLA"
         }
     ]
 }
