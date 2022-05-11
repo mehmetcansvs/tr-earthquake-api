@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.05.12",
+            "Time": "01:02:34",
+            "Latitude": "38.6765",
+            "Longitude": "39.8920",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "SEYDILI PALU ELAZIG"
+        },
+        {
             "Date": "2022.05.11",
             "Time": "20:35:18",
             "Latitude": "36.4203",
@@ -4454,15 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "BOLUKKAYA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "22:02:30",
-            "Latitude": "39.9767",
-            "Longitude": "41.8633",
-            "Depth": "6.0",
-            "ML": "1.2",
-            "Location": "KOPRUKOY ERZURUM"
         }
     ]
 }
