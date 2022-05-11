@@ -2,6 +2,132 @@
     "data": [
         {
             "Date": "2022.05.11",
+            "Time": "03:15:15",
+            "Latitude": "37.0003",
+            "Longitude": "27.7025",
+            "Depth": "1.7",
+            "ML": "2.1",
+            "Location": "MAZIKOY BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "03:08:26",
+            "Latitude": "39.3018",
+            "Longitude": "43.8975",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "ASAGIYANIKTAS CALDIRAN VAN"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "02:59:06",
+            "Latitude": "37.9870",
+            "Longitude": "37.9928",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "RESADIYE DOGANSEHIR MALATYA"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "02:38:40",
+            "Latitude": "39.3423",
+            "Longitude": "44.0000",
+            "Depth": "13.2",
+            "ML": "1.7",
+            "Location": "SOMKAYA DOGUBAYAZIT AGRI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "02:16:18",
+            "Latitude": "39.0330",
+            "Longitude": "43.7742",
+            "Depth": "18.6",
+            "ML": "1.3",
+            "Location": "ASAGIARGIT MURADIYE VAN"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "02:07:07",
+            "Latitude": "39.1380",
+            "Longitude": "43.8680",
+            "Depth": "21.2",
+            "ML": "1.5",
+            "Location": "AYRANCILAR CALDIRAN VAN"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "01:50:42",
+            "Latitude": "37.9323",
+            "Longitude": "27.1487",
+            "Depth": "5.5",
+            "ML": "2.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "01:43:45",
+            "Latitude": "37.9243",
+            "Longitude": "27.1463",
+            "Depth": "4.1",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "01:41:06",
+            "Latitude": "37.9357",
+            "Longitude": "27.1618",
+            "Depth": "8.6",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "01:37:09",
+            "Latitude": "37.8968",
+            "Longitude": "27.1155",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "01:36:46",
+            "Latitude": "37.9253",
+            "Longitude": "27.1393",
+            "Depth": "4.0",
+            "ML": "2.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "01:36:23",
+            "Latitude": "37.9353",
+            "Longitude": "27.2448",
+            "Depth": "21.2",
+            "ML": "2.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "01:30:06",
+            "Latitude": "38.5638",
+            "Longitude": "43.1323",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "01:11:17",
+            "Latitude": "37.9337",
+            "Longitude": "27.1598",
+            "Depth": "5.5",
+            "ML": "2.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
             "Time": "01:04:13",
             "Latitude": "38.4160",
             "Longitude": "39.1083",
@@ -4337,132 +4463,6 @@
             "Depth": "6.9",
             "ML": "1.8",
             "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "03:36:33",
-            "Latitude": "37.8813",
-            "Longitude": "29.2593",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "IRLIGANLI DENIZLI"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "03:03:10",
-            "Latitude": "37.6723",
-            "Longitude": "29.2478",
-            "Depth": "5.1",
-            "ML": "1.1",
-            "Location": "KARATAS DENIZLI"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "02:50:55",
-            "Latitude": "37.2035",
-            "Longitude": "30.5867",
-            "Depth": "1.1",
-            "ML": "1.6",
-            "Location": "KARAVELILER DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "01:33:05",
-            "Latitude": "37.0005",
-            "Longitude": "27.7225",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "MAZIKOY BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "01:15:52",
-            "Latitude": "37.0490",
-            "Longitude": "28.4207",
-            "Depth": "8.3",
-            "ML": "1.8",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "01:12:04",
-            "Latitude": "37.8548",
-            "Longitude": "26.9217",
-            "Depth": "6.1",
-            "ML": "2.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "00:22:39",
-            "Latitude": "36.9787",
-            "Longitude": "27.6582",
-            "Depth": "5.6",
-            "ML": "2.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "00:12:28",
-            "Latitude": "37.0237",
-            "Longitude": "28.3172",
-            "Depth": "8.2",
-            "ML": "1.4",
-            "Location": "GOKCE ULA MUGLA"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "23:56:40",
-            "Latitude": "39.8822",
-            "Longitude": "41.3888",
-            "Depth": "12.5",
-            "ML": "1.6",
-            "Location": "GERDEKKAYA PASINLER ERZURUM"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "23:42:29",
-            "Latitude": "36.9695",
-            "Longitude": "27.6433",
-            "Depth": "6.5",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "23:40:53",
-            "Latitude": "36.9637",
-            "Longitude": "27.6587",
-            "Depth": "5.3",
-            "ML": "1.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "23:13:07",
-            "Latitude": "40.3643",
-            "Longitude": "42.1655",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "GULLUDAG NARMAN ERZURUM"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "23:04:31",
-            "Latitude": "39.2790",
-            "Longitude": "25.9103",
-            "Depth": "10.1",
-            "ML": "1.4",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.28",
-            "Time": "22:50:50",
-            "Latitude": "37.9323",
-            "Longitude": "26.9418",
-            "Depth": "5.1",
-            "ML": "1.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
