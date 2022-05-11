@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.11",
+            "Time": "16:46:45",
+            "Latitude": "40.6602",
+            "Longitude": "33.1253",
+            "Depth": "5.9",
+            "ML": "1.9",
+            "Location": "KIRSAKAL ORTA CANKIRI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "16:17:06",
+            "Latitude": "38.5717",
+            "Longitude": "25.7268",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "15:32:34",
+            "Latitude": "35.2182",
+            "Longitude": "25.3407",
+            "Depth": "5.2",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.11",
             "Time": "13:49:58",
             "Latitude": "37.9777",
             "Longitude": "37.9652",
@@ -4436,33 +4463,6 @@
             "Depth": "11.5",
             "ML": "3.8",
             "Location": "KIRAN MUGLA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "20:21:38",
-            "Latitude": "38.1853",
-            "Longitude": "30.9848",
-            "Depth": "12.3",
-            "ML": "1.4",
-            "Location": "KOKE GELENDOST ISPARTA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "20:18:09",
-            "Latitude": "36.5122",
-            "Longitude": "27.2533",
-            "Depth": "3.8",
-            "ML": "1.4",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "20:12:39",
-            "Latitude": "38.3465",
-            "Longitude": "26.5432",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "KADIOVACIK URLA IZMIR"
         }
     ]
 }
