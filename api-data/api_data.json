@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.11",
+            "Time": "17:37:15",
+            "Latitude": "40.4042",
+            "Longitude": "28.5452",
+            "Depth": "12.1",
+            "ML": "1.7",
+            "Location": "BALLIKAYA KARACABEY BURSA"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "17:25:23",
+            "Latitude": "40.9298",
+            "Longitude": "31.6747",
+            "Depth": "4.5",
+            "ML": "2.0",
+            "Location": "YAYLATEPE YIGILCA DUZCE"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "17:24:52",
+            "Latitude": "37.1605",
+            "Longitude": "28.2667",
+            "Depth": "5.5",
+            "ML": "2.8",
+            "Location": "DAGDIBI MUGLA"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "17:04:40",
+            "Latitude": "39.5368",
+            "Longitude": "28.4310",
+            "Depth": "7.7",
+            "ML": "1.7",
+            "Location": "GURLEYEN DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.05.11",
             "Time": "16:46:45",
             "Latitude": "40.6602",
             "Longitude": "33.1253",
@@ -4426,42 +4462,6 @@
             "Longitude": "28.2002",
             "Depth": "4.8",
             "ML": "1.7",
-            "Location": "KIRAN MUGLA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "21:01:32",
-            "Latitude": "37.0428",
-            "Longitude": "31.0813",
-            "Depth": "23.8",
-            "ML": "2.0",
-            "Location": "GOKCEPINAR SERIK ANTALYA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "20:51:36",
-            "Latitude": "37.0500",
-            "Longitude": "28.1980",
-            "Depth": "8.1",
-            "ML": "1.6",
-            "Location": "KIRAN MUGLA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "20:38:18",
-            "Latitude": "37.0548",
-            "Longitude": "28.1637",
-            "Depth": "5.2",
-            "ML": "1.1",
-            "Location": "KIRAN MUGLA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "20:35:33",
-            "Latitude": "37.0533",
-            "Longitude": "28.2308",
-            "Depth": "11.5",
-            "ML": "3.8",
             "Location": "KIRAN MUGLA"
         }
     ]
