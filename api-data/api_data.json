@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.11",
+            "Time": "08:55:15",
+            "Latitude": "37.9027",
+            "Longitude": "27.1480",
+            "Depth": "5.1",
+            "ML": "1.4",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "07:29:13",
+            "Latitude": "37.9345",
+            "Longitude": "27.1527",
+            "Depth": "5.3",
+            "ML": "2.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
             "Time": "07:07:49",
             "Latitude": "39.8305",
             "Longitude": "27.6067",
@@ -26,6 +44,15 @@
             "Depth": "8.7",
             "ML": "2.7",
             "Location": "DIKILI ACIKLARI IZMIR EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.11",
+            "Time": "06:04:35",
+            "Latitude": "37.8300",
+            "Longitude": "26.9727",
+            "Depth": "5.3",
+            "ML": "1.0",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
         },
         {
             "Date": "2022.05.11",
@@ -218,6 +245,15 @@
         },
         {
             "Date": "2022.05.10",
+            "Time": "23:05:59",
+            "Latitude": "34.5518",
+            "Longitude": "24.3823",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.10",
             "Time": "22:44:28",
             "Latitude": "37.0177",
             "Longitude": "27.6998",
@@ -314,6 +350,15 @@
             "Depth": "14.6",
             "ML": "2.2",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.10",
+            "Time": "17:37:18",
+            "Latitude": "34.6853",
+            "Longitude": "25.0290",
+            "Depth": "16.0",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.05.10",
@@ -4418,51 +4463,6 @@
             "Depth": "0.0",
             "ML": "2.1",
             "Location": "EGNEZ SOMA MANISA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "08:53:14",
-            "Latitude": "40.4512",
-            "Longitude": "28.5237",
-            "Depth": "8.2",
-            "ML": "1.8",
-            "Location": "ESENCE ACIKLARI BURSA MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "08:45:55",
-            "Latitude": "34.5412",
-            "Longitude": "24.4488",
-            "Depth": "7.6",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "08:32:11",
-            "Latitude": "39.1083",
-            "Longitude": "27.5518",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "DEREKOY SOMA MANISA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "07:55:37",
-            "Latitude": "38.1962",
-            "Longitude": "36.2773",
-            "Depth": "13.4",
-            "ML": "1.8",
-            "Location": "KAYIRCIK TUFANBEYLI ADANA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "07:17:55",
-            "Latitude": "37.8647",
-            "Longitude": "27.1478",
-            "Depth": "11.3",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
