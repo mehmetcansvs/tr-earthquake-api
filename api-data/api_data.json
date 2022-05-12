@@ -1,12 +1,102 @@
 {
     "data": [
         {
+            "Date": "2022.05.13",
+            "Time": "01:00:18",
+            "Latitude": "39.2678",
+            "Longitude": "29.2645",
+            "Depth": "15.6",
+            "ML": "1.6",
+            "Location": "IGDEKOY EMET KUTAHYA"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "00:29:40",
+            "Latitude": "36.1042",
+            "Longitude": "29.0922",
+            "Depth": "18.3",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "00:14:52",
+            "Latitude": "40.4955",
+            "Longitude": "37.1265",
+            "Depth": "3.9",
+            "ML": "1.6",
+            "Location": "YAZICIK NIKSAR TOKAT"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "00:09:08",
+            "Latitude": "36.9707",
+            "Longitude": "27.6838",
+            "Depth": "6.8",
+            "ML": "2.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "23:38:29",
+            "Latitude": "39.8178",
+            "Longitude": "41.8167",
+            "Depth": "3.7",
+            "ML": "2.8",
+            "Location": "YEMLIK KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "23:35:04",
+            "Latitude": "40.0918",
+            "Longitude": "28.5968",
+            "Depth": "10.4",
+            "ML": "1.8",
+            "Location": "DORAK MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "23:25:15",
+            "Latitude": "37.7515",
+            "Longitude": "30.1600",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "ILYAS BURDUR"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "23:04:52",
+            "Latitude": "38.2870",
+            "Longitude": "31.1243",
+            "Depth": "9.1",
+            "ML": "1.4",
+            "Location": "ILEGI YALVAC ISPARTA"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "23:02:45",
+            "Latitude": "38.1247",
+            "Longitude": "25.8072",
+            "Depth": "7.5",
+            "ML": "2.9",
+            "Location": "EGE DENIZI"
+        },
+        {
             "Date": "2022.05.12",
             "Time": "23:01:02",
             "Latitude": "38.1423",
             "Longitude": "25.8635",
             "Depth": "17.0",
             "ML": "3.4",
+            "Location": "SAKIZ ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "22:59:02",
+            "Latitude": "38.1328",
+            "Longitude": "25.8608",
+            "Depth": "14.8",
+            "ML": "2.1",
             "Location": "SAKIZ ADASI EGE DENIZI"
         },
         {
@@ -4364,96 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.6",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "13:05:55",
-            "Latitude": "36.2153",
-            "Longitude": "33.6713",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "ISIKLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "13:04:39",
-            "Latitude": "40.8220",
-            "Longitude": "31.5428",
-            "Depth": "16.8",
-            "ML": "1.4",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "13:01:43",
-            "Latitude": "39.1703",
-            "Longitude": "27.4940",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "CERKEZ HAMIDIYE SOMA MANISA"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "12:17:32",
-            "Latitude": "37.0023",
-            "Longitude": "31.0292",
-            "Depth": "12.5",
-            "ML": "1.9",
-            "Location": "PINARCIK SERIK ANTALYA"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "12:02:08",
-            "Latitude": "33.9852",
-            "Longitude": "34.5668",
-            "Depth": "72.2",
-            "ML": "4.0",
-            "Location": "DOGU AKDENIZ"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "11:48:12",
-            "Latitude": "37.1880",
-            "Longitude": "32.9243",
-            "Depth": "5.8",
-            "ML": "2.5",
-            "Location": "KAZIMKARABEKIR KARAMAN"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "11:36:13",
-            "Latitude": "38.7092",
-            "Longitude": "26.4498",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "TEPEBOZ KARABURUN IZMIR"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "11:29:48",
-            "Latitude": "38.4838",
-            "Longitude": "39.0865",
-            "Depth": "22.4",
-            "ML": "1.7",
-            "Location": "SARITOSUN ELAZIG"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "10:30:59",
-            "Latitude": "34.8562",
-            "Longitude": "24.7990",
-            "Depth": "7.3",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "09:31:54",
-            "Latitude": "36.7022",
-            "Longitude": "28.2612",
-            "Depth": "85.7",
-            "ML": "1.4",
-            "Location": "OSMANIYE MARMARIS MUGLA"
         }
     ]
 }
