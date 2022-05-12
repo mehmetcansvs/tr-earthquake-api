@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.12",
+            "Time": "14:12:07",
+            "Latitude": "37.5997",
+            "Longitude": "29.1225",
+            "Depth": "1.7",
+            "ML": "1.5",
+            "Location": "AKYAR TAVAS DENIZLI"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "13:57:22",
+            "Latitude": "37.8742",
+            "Longitude": "26.8975",
+            "Depth": "10.2",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "12:30:05",
+            "Latitude": "39.8535",
+            "Longitude": "35.2340",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "BAGLARBASI SORGUN YOZGAT"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "12:02:58",
+            "Latitude": "36.8492",
+            "Longitude": "27.7638",
+            "Depth": "5.0",
+            "ML": "1.0",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "12:01:23",
+            "Latitude": "36.1565",
+            "Longitude": "33.5187",
+            "Depth": "0.0",
+            "ML": "0.5",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.12",
             "Time": "11:45:52",
             "Latitude": "38.6545",
             "Longitude": "40.7083",
@@ -4418,51 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.8",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.30",
-            "Time": "18:46:39",
-            "Latitude": "39.0167",
-            "Longitude": "30.1968",
-            "Depth": "8.3",
-            "ML": "2.3",
-            "Location": "YOLCATI ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.04.30",
-            "Time": "17:56:49",
-            "Latitude": "34.9027",
-            "Longitude": "24.2493",
-            "Depth": "8.1",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.30",
-            "Time": "17:00:10",
-            "Latitude": "35.9445",
-            "Longitude": "31.8548",
-            "Depth": "72.5",
-            "ML": "3.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.30",
-            "Time": "15:49:32",
-            "Latitude": "37.0728",
-            "Longitude": "27.9682",
-            "Depth": "0.0",
-            "ML": "2.2",
-            "Location": "PINARKOY MILAS MUGLA"
-        },
-        {
-            "Date": "2022.04.30",
-            "Time": "13:59:28",
-            "Latitude": "37.2268",
-            "Longitude": "32.9317",
-            "Depth": "1.4",
-            "ML": "2.2",
-            "Location": "KAZIMKARABEKIR KARAMAN"
         }
     ]
 }
