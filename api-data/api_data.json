@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.05.12",
+            "Time": "10:56:44",
+            "Latitude": "35.6083",
+            "Longitude": "29.3950",
+            "Depth": "9.4",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "10:46:04",
+            "Latitude": "35.8410",
+            "Longitude": "32.1845",
+            "Depth": "19.2",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "09:30:56",
+            "Latitude": "39.8800",
+            "Longitude": "27.5073",
+            "Depth": "4.9",
+            "ML": "1.7",
+            "Location": "DEREKOY BALYA BALIKESIR"
+        },
+        {
+            "Date": "2022.05.12",
             "Time": "08:45:52",
             "Latitude": "38.4195",
             "Longitude": "30.3533",
             "Depth": "1.3",
             "ML": "1.8",
             "Location": "KARGIN SANDIKLI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "08:37:54",
+            "Latitude": "40.8473",
+            "Longitude": "31.6493",
+            "Depth": "3.7",
+            "ML": "1.6",
+            "Location": "CUKUROREN BOLU"
         },
         {
             "Date": "2022.05.12",
@@ -4427,42 +4463,6 @@
             "Depth": "14.1",
             "ML": "2.1",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.04.30",
-            "Time": "12:25:47",
-            "Latitude": "39.9323",
-            "Longitude": "41.8840",
-            "Depth": "11.1",
-            "ML": "2.1",
-            "Location": "KIYIKONAK KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.04.30",
-            "Time": "12:22:40",
-            "Latitude": "40.1192",
-            "Longitude": "41.8200",
-            "Depth": "7.3",
-            "ML": "2.5",
-            "Location": "YENIKOY PASINLER ERZURUM"
-        },
-        {
-            "Date": "2022.04.30",
-            "Time": "12:21:52",
-            "Latitude": "39.9643",
-            "Longitude": "41.8662",
-            "Depth": "11.1",
-            "ML": "3.1",
-            "Location": "KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.04.30",
-            "Time": "10:56:19",
-            "Latitude": "36.0577",
-            "Longitude": "29.2227",
-            "Depth": "9.9",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
         }
     ]
 }
