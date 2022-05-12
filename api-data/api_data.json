@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.12",
+            "Time": "04:53:32",
+            "Latitude": "40.3567",
+            "Longitude": "27.1052",
+            "Depth": "5.2",
+            "ML": "1.4",
+            "Location": "ESKIBALIKLI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.05.12",
             "Time": "04:08:25",
             "Latitude": "37.9068",
             "Longitude": "27.1093",
@@ -4454,15 +4463,6 @@
             "Depth": "6.0",
             "ML": "3.2",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "22:30:22",
-            "Latitude": "38.2892",
-            "Longitude": "38.8125",
-            "Depth": "11.2",
-            "ML": "1.8",
-            "Location": "BOLUKKAYA PUTURGE MALATYA"
         }
     ]
 }
