@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.12",
+            "Time": "11:45:52",
+            "Latitude": "38.6545",
+            "Longitude": "40.7083",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "YAZKONAGI GENC BINGOL"
+        },
+        {
+            "Date": "2022.05.12",
             "Time": "10:56:44",
             "Latitude": "35.6083",
             "Longitude": "29.3950",
@@ -4454,15 +4463,6 @@
             "Depth": "1.4",
             "ML": "2.2",
             "Location": "KAZIMKARABEKIR KARAMAN"
-        },
-        {
-            "Date": "2022.04.30",
-            "Time": "13:49:47",
-            "Latitude": "39.4332",
-            "Longitude": "25.6755",
-            "Depth": "14.1",
-            "ML": "2.1",
-            "Location": "EGE DENIZI"
         }
     ]
 }
