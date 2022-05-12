@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.12",
+            "Time": "04:08:25",
+            "Latitude": "37.9068",
+            "Longitude": "27.1093",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "03:42:41",
+            "Latitude": "37.3928",
+            "Longitude": "38.6123",
+            "Depth": "7.0",
+            "ML": "2.2",
+            "Location": "YALINTAS BOZOVA SANLIURFA"
+        },
+        {
+            "Date": "2022.05.12",
             "Time": "01:02:34",
             "Latitude": "38.6765",
             "Longitude": "39.8920",
@@ -4444,24 +4462,6 @@
             "Longitude": "38.8125",
             "Depth": "11.2",
             "ML": "1.8",
-            "Location": "BOLUKKAYA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "22:16:39",
-            "Latitude": "36.9712",
-            "Longitude": "27.6650",
-            "Depth": "6.7",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.04.29",
-            "Time": "22:05:16",
-            "Latitude": "38.2890",
-            "Longitude": "38.8070",
-            "Depth": "5.0",
-            "ML": "1.7",
             "Location": "BOLUKKAYA PUTURGE MALATYA"
         }
     ]
