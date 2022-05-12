@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.12",
+            "Time": "19:00:40",
+            "Latitude": "37.0745",
+            "Longitude": "28.4253",
+            "Depth": "3.6",
+            "ML": "1.6",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "18:23:04",
+            "Latitude": "37.1982",
+            "Longitude": "30.7852",
+            "Depth": "105.1",
+            "ML": "2.1",
+            "Location": "KARAOZ AKSU ANTALYA"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "18:16:57",
+            "Latitude": "39.8702",
+            "Longitude": "26.1805",
+            "Depth": "6.5",
+            "ML": "1.9",
+            "Location": "KUMBURUN EZINE CANAKKALE"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "18:12:05",
+            "Latitude": "34.4585",
+            "Longitude": "25.0242",
+            "Depth": "20.4",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.12",
+            "Time": "17:02:41",
+            "Latitude": "39.0125",
+            "Longitude": "32.8092",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "KOZANLI KULU KONYA"
+        },
+        {
+            "Date": "2022.05.12",
             "Time": "14:12:07",
             "Latitude": "37.5997",
             "Longitude": "29.1225",
@@ -4409,51 +4454,6 @@
             "Depth": "7.9",
             "ML": "2.6",
             "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "05:52:44",
-            "Latitude": "37.0413",
-            "Longitude": "28.4158",
-            "Depth": "6.2",
-            "ML": "2.1",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "05:22:41",
-            "Latitude": "37.2157",
-            "Longitude": "32.9478",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "KAZIMKARABEKIR KARAMAN"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "04:54:11",
-            "Latitude": "39.6847",
-            "Longitude": "24.1208",
-            "Depth": "20.2",
-            "ML": "2.3",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "04:33:34",
-            "Latitude": "39.5840",
-            "Longitude": "24.0920",
-            "Depth": "21.1",
-            "ML": "4.5",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "04:25:07",
-            "Latitude": "37.0762",
-            "Longitude": "28.3475",
-            "Depth": "5.9",
-            "ML": "1.8",
-            "Location": "KIZILAGAC ULA MUGLA"
         }
     ]
 }
