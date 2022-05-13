@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.13",
+            "Time": "14:21:24",
+            "Latitude": "36.8943",
+            "Longitude": "27.5115",
+            "Depth": "8.1",
+            "ML": "2.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "14:10:22",
+            "Latitude": "38.3738",
+            "Longitude": "39.0107",
+            "Depth": "13.0",
+            "ML": "2.4",
+            "Location": "DUYGULU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "14:01:38",
+            "Latitude": "38.5995",
+            "Longitude": "42.9133",
+            "Depth": "4.9",
+            "ML": "1.6",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "13:54:14",
+            "Latitude": "37.8418",
+            "Longitude": "26.9205",
+            "Depth": "4.4",
+            "ML": "2.0",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.13",
             "Time": "12:55:05",
             "Latitude": "37.1708",
             "Longitude": "37.2317",
@@ -4418,42 +4454,6 @@
             "Depth": "6.6",
             "ML": "1.9",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "22:39:27",
-            "Latitude": "39.5450",
-            "Longitude": "28.4102",
-            "Depth": "7.8",
-            "ML": "2.0",
-            "Location": "GURLEYEN DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "22:35:52",
-            "Latitude": "41.1110",
-            "Longitude": "43.8993",
-            "Depth": "5.0",
-            "ML": "4.5",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "22:21:29",
-            "Latitude": "37.1980",
-            "Longitude": "32.9660",
-            "Depth": "3.3",
-            "ML": "2.0",
-            "Location": "KAZIMKARABEKIR KARAMAN"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "21:22:36",
-            "Latitude": "36.3393",
-            "Longitude": "28.2167",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "RODOS ADASI AKDENIZ"
         }
     ]
 }
