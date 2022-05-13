@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.13",
+            "Time": "05:43:55",
+            "Latitude": "40.7122",
+            "Longitude": "25.7557",
+            "Depth": "5.1",
+            "ML": "1.4",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.13",
             "Time": "04:13:43",
             "Latitude": "38.5292",
             "Longitude": "26.3865",
@@ -4445,15 +4454,6 @@
             "Depth": "4.7",
             "ML": "2.1",
             "Location": "OTMANLAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "15:08:29",
-            "Latitude": "37.0947",
-            "Longitude": "36.1392",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "ARSLANPINARI TOPRAKKALE OSMANIYE"
         }
     ]
 }
