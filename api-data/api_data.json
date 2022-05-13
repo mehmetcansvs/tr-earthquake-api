@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.13",
+            "Time": "22:01:15",
+            "Latitude": "40.1328",
+            "Longitude": "22.5330",
+            "Depth": "25.3",
+            "ML": "2.9",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "21:41:38",
+            "Latitude": "34.4998",
+            "Longitude": "26.9848",
+            "Depth": "111.8",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "20:42:43",
+            "Latitude": "34.4173",
+            "Longitude": "22.9780",
+            "Depth": "15.0",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.13",
             "Time": "20:36:00",
             "Latitude": "36.8998",
             "Longitude": "27.5112",
@@ -4427,33 +4454,6 @@
             "Depth": "5.0",
             "ML": "3.0",
             "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "06:26:09",
-            "Latitude": "36.3827",
-            "Longitude": "27.1433",
-            "Depth": "11.4",
-            "ML": "1.9",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "06:16:13",
-            "Latitude": "39.9933",
-            "Longitude": "33.9847",
-            "Depth": "5.0",
-            "ML": "3.8",
-            "Location": "YAYLAYURT DELICE KIRIKKALE"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "05:20:42",
-            "Latitude": "36.9658",
-            "Longitude": "27.6565",
-            "Depth": "4.0",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
