@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.13",
+            "Time": "10:31:56",
+            "Latitude": "34.3380",
+            "Longitude": "26.1612",
+            "Depth": "21.8",
+            "ML": "4.1",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "08:52:28",
+            "Latitude": "39.1065",
+            "Longitude": "27.5323",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "DEREKOY SOMA MANISA"
+        },
+        {
+            "Date": "2022.05.13",
             "Time": "05:43:55",
             "Latitude": "40.7122",
             "Longitude": "25.7557",
@@ -2675,6 +2693,15 @@
         },
         {
             "Date": "2022.05.06",
+            "Time": "10:35:10",
+            "Latitude": "40.9002",
+            "Longitude": "33.4830",
+            "Depth": "23.0",
+            "ML": "1.5",
+            "Location": "ESKICE ILGAZ CANKIRI"
+        },
+        {
+            "Date": "2022.05.06",
             "Time": "07:11:33",
             "Latitude": "38.2183",
             "Longitude": "30.9182",
@@ -4427,33 +4454,6 @@
             "Depth": "2.9",
             "ML": "2.8",
             "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "17:39:12",
-            "Latitude": "39.1365",
-            "Longitude": "29.0643",
-            "Depth": "3.4",
-            "ML": "2.4",
-            "Location": "SOGUT SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "17:01:37",
-            "Latitude": "37.8858",
-            "Longitude": "27.1272",
-            "Depth": "15.3",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "16:09:28",
-            "Latitude": "37.0247",
-            "Longitude": "28.9693",
-            "Depth": "4.7",
-            "ML": "2.1",
-            "Location": "OTMANLAR KOYCEGIZ MUGLA"
         }
     ]
 }
