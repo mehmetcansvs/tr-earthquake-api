@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.13",
+            "Time": "12:55:05",
+            "Latitude": "37.1708",
+            "Longitude": "37.2317",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "BOYNO SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "12:09:36",
+            "Latitude": "39.1125",
+            "Longitude": "27.6582",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "11:49:39",
+            "Latitude": "39.4000",
+            "Longitude": "23.8400",
+            "Depth": "4.6",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "11:19:46",
+            "Latitude": "39.5597",
+            "Longitude": "28.4695",
+            "Depth": "13.1",
+            "ML": "2.0",
+            "Location": "GAZELLIDERE DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.05.13",
             "Time": "10:31:56",
             "Latitude": "34.3380",
             "Longitude": "26.1612",
@@ -4418,42 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "RODOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "19:54:18",
-            "Latitude": "37.2207",
-            "Longitude": "35.9295",
-            "Depth": "8.2",
-            "ML": "1.7",
-            "Location": "TEKELI KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "19:47:17",
-            "Latitude": "40.7492",
-            "Longitude": "42.1583",
-            "Depth": "9.6",
-            "ML": "1.8",
-            "Location": "COSKUNLAR OLUR ERZURUM"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "19:06:09",
-            "Latitude": "37.0442",
-            "Longitude": "28.2102",
-            "Depth": "4.0",
-            "ML": "1.9",
-            "Location": "KIRAN MUGLA"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "19:00:59",
-            "Latitude": "37.8015",
-            "Longitude": "26.9282",
-            "Depth": "2.9",
-            "ML": "2.8",
-            "Location": "SISAM ADASI EGE DENIZI"
         }
     ]
 }
