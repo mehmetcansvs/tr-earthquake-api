@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.13",
+            "Time": "04:13:43",
+            "Latitude": "38.5292",
+            "Longitude": "26.3865",
+            "Depth": "7.3",
+            "ML": "2.0",
+            "Location": "KUCUKBAHCE KARABURUN IZMIR"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "03:46:30",
+            "Latitude": "37.0775",
+            "Longitude": "28.4720",
+            "Depth": "3.2",
+            "ML": "1.7",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "03:11:20",
+            "Latitude": "36.9893",
+            "Longitude": "28.2937",
+            "Depth": "13.8",
+            "ML": "2.6",
+            "Location": "CETIBELI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "01:15:59",
+            "Latitude": "36.9747",
+            "Longitude": "28.1288",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.13",
             "Time": "01:00:18",
             "Latitude": "39.2678",
             "Longitude": "29.2645",
@@ -4418,42 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "ARSLANPINARI TOPRAKKALE OSMANIYE"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "13:49:14",
-            "Latitude": "39.4305",
-            "Longitude": "26.2840",
-            "Depth": "11.3",
-            "ML": "1.9",
-            "Location": "EDREMIT KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "13:42:03",
-            "Latitude": "37.8572",
-            "Longitude": "29.5155",
-            "Depth": "3.1",
-            "ML": "1.4",
-            "Location": "BASCESME BOZKURT DENIZLI"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "13:35:15",
-            "Latitude": "40.2775",
-            "Longitude": "27.0588",
-            "Depth": "8.6",
-            "ML": "2.2",
-            "Location": "SELVI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "13:32:50",
-            "Latitude": "34.6732",
-            "Longitude": "32.5970",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
         }
     ]
 }
