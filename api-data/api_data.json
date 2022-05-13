@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.13",
+            "Time": "16:32:21",
+            "Latitude": "34.9293",
+            "Longitude": "24.8072",
+            "Depth": "26.1",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.13",
             "Time": "14:21:24",
             "Latitude": "36.8943",
             "Longitude": "27.5115",
@@ -4445,15 +4454,6 @@
             "Depth": "18.5",
             "ML": "2.4",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "22:43:50",
-            "Latitude": "38.9837",
-            "Longitude": "26.6680",
-            "Depth": "6.6",
-            "ML": "1.9",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         }
     ]
 }
