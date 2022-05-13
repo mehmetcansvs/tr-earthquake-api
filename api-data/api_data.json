@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.13",
+            "Time": "18:29:28",
+            "Latitude": "38.6753",
+            "Longitude": "43.6672",
+            "Depth": "15.2",
+            "ML": "2.8",
+            "Location": "ERCEK VAN"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "18:11:54",
+            "Latitude": "38.6287",
+            "Longitude": "43.6845",
+            "Depth": "11.2",
+            "ML": "2.9",
+            "Location": "KAYMAKLI VAN"
+        },
+        {
+            "Date": "2022.05.13",
+            "Time": "17:59:13",
+            "Latitude": "40.1017",
+            "Longitude": "28.5977",
+            "Depth": "5.1",
+            "ML": "2.1",
+            "Location": "DORAK MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.05.13",
             "Time": "16:32:21",
             "Latitude": "34.9293",
             "Longitude": "24.8072",
@@ -4427,33 +4454,6 @@
             "Depth": "21.9",
             "ML": "1.5",
             "Location": "DAMLI DOGANYOL MALATYA"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "00:40:28",
-            "Latitude": "40.7592",
-            "Longitude": "31.6612",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "YAKUPLAR BOLU"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "23:09:20",
-            "Latitude": "36.2090",
-            "Longitude": "27.4973",
-            "Depth": "7.3",
-            "ML": "2.3",
-            "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.05.01",
-            "Time": "22:55:18",
-            "Latitude": "35.0457",
-            "Longitude": "24.9583",
-            "Depth": "18.5",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
