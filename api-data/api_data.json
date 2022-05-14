@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.14",
+            "Time": "09:09:51",
+            "Latitude": "39.4565",
+            "Longitude": "32.0840",
+            "Depth": "0.0",
+            "ML": "2.0",
+            "Location": "CANAKCI POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "09:00:30",
+            "Latitude": "37.6485",
+            "Longitude": "29.2898",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "KOCAPINAR SERINHISAR DENIZLI"
+        },
+        {
+            "Date": "2022.05.14",
             "Time": "06:39:43",
             "Latitude": "38.1887",
             "Longitude": "26.2092",
@@ -4436,24 +4454,6 @@
             "Depth": "20.8",
             "ML": "0.9",
             "Location": "KUCUKDERE DENIZLI"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "12:54:46",
-            "Latitude": "38.5810",
-            "Longitude": "42.5737",
-            "Depth": "4.4",
-            "ML": "2.1",
-            "Location": "ADABAG TATVAN BITLIS"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "12:19:47",
-            "Latitude": "38.9930",
-            "Longitude": "30.1745",
-            "Depth": "3.2",
-            "ML": "2.1",
-            "Location": "BESKARIS ALTINTAS KUTAHYA"
         }
     ]
 }
