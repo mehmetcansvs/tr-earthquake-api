@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.14",
+            "Time": "06:39:43",
+            "Latitude": "38.1887",
+            "Longitude": "26.2092",
+            "Depth": "6.7",
+            "ML": "3.1",
+            "Location": "CESME ACIKLARI IZMIR EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "06:10:29",
+            "Latitude": "37.1053",
+            "Longitude": "28.3978",
+            "Depth": "11.9",
+            "ML": "1.4",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "05:54:27",
+            "Latitude": "39.1380",
+            "Longitude": "29.0645",
+            "Depth": "10.6",
+            "ML": "3.0",
+            "Location": "SOGUT SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "05:50:40",
+            "Latitude": "34.7975",
+            "Longitude": "24.9993",
+            "Depth": "75.6",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.14",
             "Time": "03:03:37",
             "Latitude": "37.0703",
             "Longitude": "28.1308",
@@ -4418,33 +4454,6 @@
             "Depth": "3.2",
             "ML": "2.1",
             "Location": "BESKARIS ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "12:11:52",
-            "Latitude": "39.0258",
-            "Longitude": "30.1555",
-            "Depth": "5.4",
-            "ML": "1.9",
-            "Location": "OSMANIYE ALTINTAS KUTAHYA REVIZE GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "10:30:16",
-            "Latitude": "37.8640",
-            "Longitude": "26.8723",
-            "Depth": "5.2",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "10:29:30",
-            "Latitude": "37.8738",
-            "Longitude": "26.9002",
-            "Depth": "5.3",
-            "ML": "2.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
