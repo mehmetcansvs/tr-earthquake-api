@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.05.14",
+            "Time": "14:59:01",
+            "Latitude": "37.9337",
+            "Longitude": "27.0600",
+            "Depth": "5.9",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "14:46:09",
+            "Latitude": "36.5900",
+            "Longitude": "27.8168",
+            "Depth": "75.0",
+            "ML": "1.9",
+            "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "13:59:08",
+            "Latitude": "38.2585",
+            "Longitude": "26.2748",
+            "Depth": "14.3",
+            "ML": "1.3",
+            "Location": "OVACIK CESME IZMIR"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "13:45:22",
+            "Latitude": "40.7405",
+            "Longitude": "32.5848",
+            "Depth": "5.2",
+            "ML": "2.5",
+            "Location": "ELOREN GEREDE BOLU"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "13:32:32",
+            "Latitude": "38.1208",
+            "Longitude": "38.4337",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "KARAGOL CELIKHAN ADIYAMAN REVIZE AKDENIZ"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "13:01:26",
+            "Latitude": "38.3012",
+            "Longitude": "38.8373",
+            "Depth": "21.7",
+            "ML": "1.9",
+            "Location": "GUNDEGER PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.05.14",
             "Time": "12:55:11",
             "Latitude": "40.7102",
             "Longitude": "30.6572",
@@ -17,6 +71,15 @@
             "Depth": "0.0",
             "ML": "0.9",
             "Location": "ISIKLI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "12:31:02",
+            "Latitude": "39.2450",
+            "Longitude": "27.7193",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "DENIS SOMA MANISA"
         },
         {
             "Date": "2022.05.14",
@@ -4382,78 +4445,6 @@
             "Depth": "5.4",
             "ML": "1.3",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "04:31:52",
-            "Latitude": "39.3467",
-            "Longitude": "29.0045",
-            "Depth": "5.8",
-            "ML": "1.9",
-            "Location": "ASAGIDOLAYLAR SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "04:06:22",
-            "Latitude": "37.0100",
-            "Longitude": "28.4250",
-            "Depth": "14.0",
-            "ML": "1.3",
-            "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "03:45:15",
-            "Latitude": "41.0518",
-            "Longitude": "33.7375",
-            "Depth": "5.1",
-            "ML": "2.4",
-            "Location": "COMERT ILGAZ CANKIRI"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "03:42:52",
-            "Latitude": "39.5280",
-            "Longitude": "23.6520",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "03:39:13",
-            "Latitude": "38.2855",
-            "Longitude": "38.7663",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "KARSIYAKA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "03:17:47",
-            "Latitude": "37.8920",
-            "Longitude": "27.1330",
-            "Depth": "6.4",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "03:09:07",
-            "Latitude": "36.4558",
-            "Longitude": "27.0452",
-            "Depth": "2.4",
-            "ML": "1.5",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "01:53:29",
-            "Latitude": "37.0347",
-            "Longitude": "28.4253",
-            "Depth": "7.9",
-            "ML": "2.1",
-            "Location": "CITLIK ULA MUGLA"
         }
     ]
 }
