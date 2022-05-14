@@ -2,12 +2,111 @@
     "data": [
         {
             "Date": "2022.05.14",
+            "Time": "12:55:11",
+            "Latitude": "40.7102",
+            "Longitude": "30.6572",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "YUVALIK AKYAZI SAKARYA"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "12:54:32",
+            "Latitude": "36.2565",
+            "Longitude": "33.7060",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "ISIKLI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "12:24:59",
+            "Latitude": "33.9298",
+            "Longitude": "25.5995",
+            "Depth": "6.2",
+            "ML": "3.5",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "12:24:19",
+            "Latitude": "36.9667",
+            "Longitude": "26.8165",
+            "Depth": "17.0",
+            "ML": "1.4",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "12:22:26",
+            "Latitude": "37.0848",
+            "Longitude": "37.1290",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "NARLICA SAHINBEY GAZIANTEP"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "12:22:16",
+            "Latitude": "36.3272",
+            "Longitude": "33.7042",
+            "Depth": "2.9",
+            "ML": "1.1",
+            "Location": "CAMLICA SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "12:21:10",
+            "Latitude": "37.0027",
+            "Longitude": "26.7058",
+            "Depth": "9.3",
+            "ML": "1.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "12:14:51",
+            "Latitude": "37.0955",
+            "Longitude": "27.9743",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "PINARKOY MILAS MUGLA"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "11:03:20",
+            "Latitude": "38.0432",
+            "Longitude": "29.0348",
+            "Depth": "19.8",
+            "ML": "1.5",
+            "Location": "BELENARDIC AKKOY DENIZLI"
+        },
+        {
+            "Date": "2022.05.14",
             "Time": "10:41:01",
             "Latitude": "39.4568",
             "Longitude": "25.8840",
             "Depth": "13.2",
             "ML": "1.5",
             "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "10:36:44",
+            "Latitude": "39.5968",
+            "Longitude": "28.4093",
+            "Depth": "1.2",
+            "ML": "1.5",
+            "Location": "SARNICKOY DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "10:31:39",
+            "Latitude": "38.1862",
+            "Longitude": "26.1922",
+            "Depth": "2.4",
+            "ML": "1.7",
+            "Location": "CESME ACIKLARI IZMIR EGE DENIZI"
         },
         {
             "Date": "2022.05.14",
@@ -4355,105 +4454,6 @@
             "Depth": "7.9",
             "ML": "2.1",
             "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "01:37:16",
-            "Latitude": "37.0905",
-            "Longitude": "28.1920",
-            "Depth": "8.4",
-            "ML": "1.6",
-            "Location": "DENIZOVA MUGLA"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "00:41:17",
-            "Latitude": "40.8683",
-            "Longitude": "31.6922",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "MESCICELE BOLU"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "23:33:16",
-            "Latitude": "38.4012",
-            "Longitude": "42.7845",
-            "Depth": "7.4",
-            "ML": "2.8",
-            "Location": "YOLDONDU GEVAS VAN"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "23:32:58",
-            "Latitude": "37.1388",
-            "Longitude": "42.8418",
-            "Depth": "6.2",
-            "ML": "3.5",
-            "Location": "TURKIYE IRAK SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "22:40:20",
-            "Latitude": "40.8917",
-            "Longitude": "31.5993",
-            "Depth": "4.9",
-            "ML": "3.2",
-            "Location": "YOGUNPELIT YIGILCA DUZCE"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "22:10:34",
-            "Latitude": "40.9103",
-            "Longitude": "31.6117",
-            "Depth": "5.2",
-            "ML": "2.2",
-            "Location": "YOGUNPELIT YIGILCA DUZCE"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "21:25:49",
-            "Latitude": "38.3862",
-            "Longitude": "39.2338",
-            "Depth": "1.8",
-            "ML": "2.3",
-            "Location": "DORTBOLUK SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "21:01:27",
-            "Latitude": "39.0508",
-            "Longitude": "27.8627",
-            "Depth": "7.5",
-            "ML": "1.9",
-            "Location": "MUSALAR AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "20:56:40",
-            "Latitude": "35.3382",
-            "Longitude": "27.2862",
-            "Depth": "57.8",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "20:48:45",
-            "Latitude": "38.8497",
-            "Longitude": "43.5063",
-            "Depth": "21.0",
-            "ML": "1.8",
-            "Location": "KARAAGAC VAN"
-        },
-        {
-            "Date": "2022.05.02",
-            "Time": "20:39:27",
-            "Latitude": "40.8950",
-            "Longitude": "31.5655",
-            "Depth": "14.3",
-            "ML": "1.6",
-            "Location": "CUKUROREN YIGILCA DUZCE"
         }
     ]
 }
