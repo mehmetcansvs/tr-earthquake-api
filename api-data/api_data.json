@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.14",
+            "Time": "23:08:39",
+            "Latitude": "38.7025",
+            "Longitude": "39.8305",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "TASCANAK KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "23:05:26",
+            "Latitude": "38.6697",
+            "Longitude": "39.9387",
+            "Depth": "7.3",
+            "ML": "2.0",
+            "Location": "YESILBAYIR PALU ELAZIG"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "22:16:13",
+            "Latitude": "39.8145",
+            "Longitude": "28.5577",
+            "Depth": "1.0",
+            "ML": "0.9",
+            "Location": "CAKALLAR MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "21:08:46",
+            "Latitude": "39.3973",
+            "Longitude": "22.6823",
+            "Depth": "12.7",
+            "ML": "1.9",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "20:42:17",
+            "Latitude": "40.7337",
+            "Longitude": "32.5883",
+            "Depth": "6.8",
+            "ML": "1.9",
+            "Location": "BERCINCATAK KIZILCAHAMAM ANKARA"
+        },
+        {
+            "Date": "2022.05.14",
             "Time": "20:14:05",
             "Latitude": "41.1292",
             "Longitude": "43.9290",
@@ -4400,51 +4445,6 @@
             "Depth": "3.1",
             "ML": "2.2",
             "Location": "BICIN NURHAK KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "14:42:11",
-            "Latitude": "37.8493",
-            "Longitude": "37.4835",
-            "Depth": "1.1",
-            "ML": "2.6",
-            "Location": "DUZBAG CAGLAYANCERIT KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "13:41:06",
-            "Latitude": "39.5405",
-            "Longitude": "35.9933",
-            "Depth": "9.3",
-            "ML": "2.0",
-            "Location": "KIZILCAOVA AKDAGMADENI YOZGAT"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "13:13:51",
-            "Latitude": "37.8418",
-            "Longitude": "26.9665",
-            "Depth": "14.3",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "12:44:28",
-            "Latitude": "40.5005",
-            "Longitude": "33.1382",
-            "Depth": "10.1",
-            "ML": "1.6",
-            "Location": "ELMALIK ORTA CANKIRI"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "12:09:13",
-            "Latitude": "39.0215",
-            "Longitude": "28.5408",
-            "Depth": "5.3",
-            "ML": "1.4",
-            "Location": "ULACIK DEMIRCI MANISA"
         }
     ]
 }
