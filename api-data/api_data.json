@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.14",
+            "Time": "20:14:05",
+            "Latitude": "41.1292",
+            "Longitude": "43.9290",
+            "Depth": "2.3",
+            "ML": "4.4",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "20:02:06",
+            "Latitude": "38.6385",
+            "Longitude": "37.3892",
+            "Depth": "7.0",
+            "ML": "1.4",
+            "Location": "TEPECIK GURUN SIVAS"
+        },
+        {
+            "Date": "2022.05.14",
             "Time": "18:29:50",
             "Latitude": "40.7793",
             "Longitude": "31.6677",
@@ -17,6 +35,24 @@
             "Depth": "9.9",
             "ML": "2.5",
             "Location": "KARAGOL CELIKHAN ADIYAMAN"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "18:03:45",
+            "Latitude": "39.5455",
+            "Longitude": "24.6582",
+            "Depth": "9.6",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "17:40:00",
+            "Latitude": "36.9432",
+            "Longitude": "27.6655",
+            "Depth": "4.9",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
         },
         {
             "Date": "2022.05.14",
@@ -4409,42 +4445,6 @@
             "Depth": "5.3",
             "ML": "1.4",
             "Location": "ULACIK DEMIRCI MANISA"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "11:29:39",
-            "Latitude": "37.0483",
-            "Longitude": "28.3933",
-            "Depth": "2.5",
-            "ML": "1.2",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "11:17:33",
-            "Latitude": "40.2657",
-            "Longitude": "29.6700",
-            "Depth": "11.5",
-            "ML": "1.8",
-            "Location": "YENISEHIR BURSA"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "10:34:10",
-            "Latitude": "38.9602",
-            "Longitude": "37.3147",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "BOGRUDELIK GURUN SIVAS"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "09:37:32",
-            "Latitude": "39.0458",
-            "Longitude": "37.4147",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "SEKERPINAR KANGAL SIVAS"
         }
     ]
 }
