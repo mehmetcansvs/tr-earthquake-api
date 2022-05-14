@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.14",
+            "Time": "18:29:50",
+            "Latitude": "40.7793",
+            "Longitude": "31.6677",
+            "Depth": "0.0",
+            "ML": "2.2",
+            "Location": "MUSLUKLAR BOLU"
+        },
+        {
+            "Date": "2022.05.14",
+            "Time": "18:08:52",
+            "Latitude": "38.1022",
+            "Longitude": "38.4437",
+            "Depth": "9.9",
+            "ML": "2.5",
+            "Location": "KARAGOL CELIKHAN ADIYAMAN"
+        },
+        {
+            "Date": "2022.05.14",
             "Time": "16:50:41",
             "Latitude": "39.5285",
             "Longitude": "28.3868",
@@ -4427,24 +4445,6 @@
             "Depth": "0.0",
             "ML": "1.7",
             "Location": "SEKERPINAR KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "09:33:05",
-            "Latitude": "37.9137",
-            "Longitude": "35.1538",
-            "Depth": "5.9",
-            "ML": "1.8",
-            "Location": "PINARBASI CAMARDI NIGDE"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "08:51:25",
-            "Latitude": "35.0695",
-            "Longitude": "26.7890",
-            "Depth": "1.2",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
