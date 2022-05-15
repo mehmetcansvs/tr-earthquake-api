@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.15",
+            "Time": "08:34:30",
+            "Latitude": "36.1838",
+            "Longitude": "25.2417",
+            "Depth": "7.8",
+            "ML": "4.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.15",
+            "Time": "07:59:10",
+            "Latitude": "38.4157",
+            "Longitude": "39.3993",
+            "Depth": "3.1",
+            "ML": "1.9",
+            "Location": "ELMASUYU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.05.15",
+            "Time": "07:58:32",
+            "Latitude": "39.5642",
+            "Longitude": "28.8215",
+            "Depth": "12.2",
+            "ML": "2.1",
+            "Location": "AYVACIK DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.05.15",
             "Time": "06:34:45",
             "Latitude": "38.2655",
             "Longitude": "38.7933",
@@ -4409,33 +4436,6 @@
             "Depth": "19.8",
             "ML": "1.4",
             "Location": "DUTKOY CORUM"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "01:50:50",
-            "Latitude": "36.4342",
-            "Longitude": "27.0628",
-            "Depth": "2.9",
-            "ML": "1.7",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "01:43:45",
-            "Latitude": "41.1222",
-            "Longitude": "43.9155",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "01:42:33",
-            "Latitude": "37.0383",
-            "Longitude": "30.3848",
-            "Depth": "12.2",
-            "ML": "0.8",
-            "Location": "SOGUTCUK KORKUTELI ANTALYA"
         }
     ]
 }
