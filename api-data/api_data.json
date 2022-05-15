@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.15",
+            "Time": "06:34:45",
+            "Latitude": "38.2655",
+            "Longitude": "38.7933",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "KARSIYAKA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.05.15",
+            "Time": "06:32:48",
+            "Latitude": "38.2932",
+            "Longitude": "38.7747",
+            "Depth": "6.2",
+            "ML": "2.7",
+            "Location": "KARSIYAKA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.05.15",
+            "Time": "06:12:08",
+            "Latitude": "37.0318",
+            "Longitude": "34.4742",
+            "Depth": "10.2",
+            "ML": "3.7",
+            "Location": "HOROZLU TOROSLAR MERSIN REVIZE YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.15",
             "Time": "04:46:32",
             "Latitude": "40.8287",
             "Longitude": "31.6512",
@@ -4409,42 +4436,6 @@
             "Depth": "12.2",
             "ML": "0.8",
             "Location": "SOGUTCUK KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "01:13:35",
-            "Latitude": "40.8290",
-            "Longitude": "31.5902",
-            "Depth": "18.8",
-            "ML": "1.4",
-            "Location": "KOZLU BOLU"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "00:51:20",
-            "Latitude": "37.0693",
-            "Longitude": "28.4303",
-            "Depth": "11.2",
-            "ML": "2.3",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "00:36:14",
-            "Latitude": "39.0033",
-            "Longitude": "27.8838",
-            "Depth": "4.9",
-            "ML": "1.9",
-            "Location": "DINGILLER AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "23:50:55",
-            "Latitude": "38.8073",
-            "Longitude": "26.8353",
-            "Depth": "15.1",
-            "ML": "2.5",
-            "Location": "CANDARLI KORFEZI EGE DENIZI"
         }
     ]
 }
