@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.15",
+            "Time": "16:05:29",
+            "Latitude": "36.1647",
+            "Longitude": "33.5637",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.15",
+            "Time": "15:21:08",
+            "Latitude": "38.1133",
+            "Longitude": "25.8990",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "SAKIZ ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.15",
+            "Time": "14:19:30",
+            "Latitude": "39.8020",
+            "Longitude": "39.9687",
+            "Depth": "6.5",
+            "ML": "2.3",
+            "Location": "GOLLER CAYIRLI ERZINCAN"
+        },
+        {
+            "Date": "2022.05.15",
+            "Time": "13:30:45",
+            "Latitude": "37.0147",
+            "Longitude": "28.4065",
+            "Depth": "10.5",
+            "ML": "1.7",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.15",
             "Time": "13:30:38",
             "Latitude": "38.5258",
             "Longitude": "39.3193",
@@ -4400,42 +4436,6 @@
             "Depth": "5.0",
             "ML": "1.8",
             "Location": "KOSUKLU GOLBASI ADIYAMAN"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "03:40:33",
-            "Latitude": "35.0217",
-            "Longitude": "26.4437",
-            "Depth": "12.9",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "03:28:36",
-            "Latitude": "38.5060",
-            "Longitude": "39.3893",
-            "Depth": "11.1",
-            "ML": "2.4",
-            "Location": "CEVIZDERE ELAZIG"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "03:13:45",
-            "Latitude": "37.0553",
-            "Longitude": "28.2992",
-            "Depth": "13.5",
-            "ML": "1.3",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "02:59:43",
-            "Latitude": "37.0217",
-            "Longitude": "28.2732",
-            "Depth": "15.6",
-            "ML": "1.0",
-            "Location": "CETIBELI MARMARIS MUGLA"
         }
     ]
 }
