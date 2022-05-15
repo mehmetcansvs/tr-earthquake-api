@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.05.16",
+            "Time": "00:49:55",
+            "Latitude": "36.5643",
+            "Longitude": "28.5342",
+            "Depth": "58.2",
+            "ML": "3.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "00:23:02",
+            "Latitude": "37.8657",
+            "Longitude": "27.6202",
+            "Depth": "5.3",
+            "ML": "1.1",
+            "Location": "GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.05.15",
+            "Time": "23:35:53",
+            "Latitude": "40.8622",
+            "Longitude": "33.6832",
+            "Depth": "8.6",
+            "ML": "1.6",
+            "Location": "SARMASIK ILGAZ CANKIRI"
+        },
+        {
+            "Date": "2022.05.15",
+            "Time": "23:31:56",
+            "Latitude": "38.9082",
+            "Longitude": "42.4328",
+            "Depth": "11.1",
+            "ML": "1.6",
+            "Location": "OTLUYAZI AHLAT BITLIS"
+        },
+        {
             "Date": "2022.05.15",
             "Time": "22:44:29",
             "Latitude": "36.9715",
@@ -4400,42 +4436,6 @@
             "Depth": "5.1",
             "ML": "1.8",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "07:55:41",
-            "Latitude": "39.9290",
-            "Longitude": "42.2748",
-            "Depth": "9.9",
-            "ML": "1.5",
-            "Location": "YESILOZ HORASAN ERZURUM"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "07:37:33",
-            "Latitude": "37.0820",
-            "Longitude": "28.3983",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "07:26:30",
-            "Latitude": "36.4810",
-            "Longitude": "29.0058",
-            "Depth": "15.0",
-            "ML": "2.6",
-            "Location": "OLUDENIZ ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "06:39:05",
-            "Latitude": "37.1945",
-            "Longitude": "36.8818",
-            "Depth": "7.8",
-            "ML": "1.2",
-            "Location": "CAKMAK NURDAGI GAZIANTEP"
         }
     ]
 }
