@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.15",
+            "Time": "04:46:32",
+            "Latitude": "40.8287",
+            "Longitude": "31.6512",
+            "Depth": "13.7",
+            "ML": "1.9",
+            "Location": "CUKUROREN BOLU"
+        },
+        {
+            "Date": "2022.05.15",
             "Time": "04:12:59",
             "Latitude": "36.9493",
             "Longitude": "29.4353",
@@ -4436,15 +4445,6 @@
             "Depth": "15.1",
             "ML": "2.5",
             "Location": "CANDARLI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.03",
-            "Time": "21:50:46",
-            "Latitude": "40.8748",
-            "Longitude": "31.7122",
-            "Depth": "9.8",
-            "ML": "2.1",
-            "Location": "MESCICELE BOLU"
         }
     ]
 }
