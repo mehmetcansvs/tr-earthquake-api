@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.15",
+            "Time": "17:46:39",
+            "Latitude": "36.9575",
+            "Longitude": "27.6477",
+            "Depth": "10.2",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.15",
+            "Time": "16:58:58",
+            "Latitude": "41.0782",
+            "Longitude": "25.9828",
+            "Depth": "10.4",
+            "ML": "3.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.15",
             "Time": "16:05:29",
             "Latitude": "36.1647",
             "Longitude": "33.5637",
@@ -4418,24 +4436,6 @@
             "Depth": "2.4",
             "ML": "1.2",
             "Location": "YESILUZUMLU FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "04:10:09",
-            "Latitude": "40.6947",
-            "Longitude": "31.5575",
-            "Depth": "27.5",
-            "ML": "1.0",
-            "Location": "SULTANBEY BOLU"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "03:45:43",
-            "Latitude": "37.6718",
-            "Longitude": "37.4887",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "KOSUKLU GOLBASI ADIYAMAN"
         }
     ]
 }
