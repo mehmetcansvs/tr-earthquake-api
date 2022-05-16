@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.16",
+            "Time": "04:03:20",
+            "Latitude": "38.9867",
+            "Longitude": "30.2183",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "AYDINLAR ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.05.16",
             "Time": "00:49:55",
             "Latitude": "36.5643",
             "Longitude": "28.5342",
@@ -4427,15 +4436,6 @@
             "Depth": "6.1",
             "ML": "2.5",
             "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "08:46:02",
-            "Latitude": "35.2198",
-            "Longitude": "25.2218",
-            "Depth": "5.1",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
