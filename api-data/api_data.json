@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.16",
+            "Time": "20:58:50",
+            "Latitude": "38.4513",
+            "Longitude": "27.0173",
+            "Depth": "16.0",
+            "ML": "2.8",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "19:40:17",
+            "Latitude": "39.6310",
+            "Longitude": "23.1007",
+            "Depth": "14.2",
+            "ML": "2.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "19:30:51",
+            "Latitude": "36.6113",
+            "Longitude": "31.9703",
+            "Depth": "2.5",
+            "ML": "1.5",
+            "Location": "PASAKOY ALANYA ANTALYA"
+        },
+        {
+            "Date": "2022.05.16",
             "Time": "19:00:37",
             "Latitude": "34.9602",
             "Longitude": "27.7570",
@@ -4409,33 +4436,6 @@
             "Depth": "8.9",
             "ML": "1.4",
             "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "06:11:36",
-            "Latitude": "40.4420",
-            "Longitude": "29.0988",
-            "Depth": "5.0",
-            "ML": "0.9",
-            "Location": "GEMLIK KORFEZI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "05:28:28",
-            "Latitude": "37.8672",
-            "Longitude": "26.9878",
-            "Depth": "14.2",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "04:05:21",
-            "Latitude": "40.4148",
-            "Longitude": "27.1283",
-            "Depth": "8.8",
-            "ML": "2.0",
-            "Location": "DEGIRMENCIK BIGA CANAKKALE"
         }
     ]
 }
