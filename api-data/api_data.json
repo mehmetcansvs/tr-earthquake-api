@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.16",
+            "Time": "05:44:16",
+            "Latitude": "36.4590",
+            "Longitude": "27.0888",
+            "Depth": "4.4",
+            "ML": "1.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "05:36:57",
+            "Latitude": "39.4912",
+            "Longitude": "37.4212",
+            "Depth": "5.8",
+            "ML": "2.5",
+            "Location": "KAPUKAYA ULAS SIVAS"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "04:24:12",
+            "Latitude": "39.9527",
+            "Longitude": "39.6083",
+            "Depth": "6.1",
+            "ML": "2.0",
+            "Location": "ESKIYOL KELKIT GUMUSHANE"
+        },
+        {
+            "Date": "2022.05.16",
             "Time": "04:03:20",
             "Latitude": "38.9867",
             "Longitude": "30.2183",
@@ -4409,33 +4436,6 @@
             "Depth": "6.4",
             "ML": "1.8",
             "Location": "DOGANBEY ACIKLARI AYDIN EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "09:50:59",
-            "Latitude": "37.0073",
-            "Longitude": "30.4273",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "SOGUTCUK KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "09:12:55",
-            "Latitude": "35.0835",
-            "Longitude": "33.7582",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "KIBRIS TUZLA"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "08:50:12",
-            "Latitude": "37.0585",
-            "Longitude": "28.4108",
-            "Depth": "6.1",
-            "ML": "2.5",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
