@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.16",
+            "Time": "07:13:16",
+            "Latitude": "35.1770",
+            "Longitude": "26.8318",
+            "Depth": "5.5",
+            "ML": "3.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "06:45:16",
+            "Latitude": "36.8222",
+            "Longitude": "27.1907",
+            "Depth": "9.5",
+            "ML": "1.5",
+            "Location": "KOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "06:13:24",
+            "Latitude": "39.0480",
+            "Longitude": "43.6695",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "KEMERKOPRU MURADIYE VAN"
+        },
+        {
+            "Date": "2022.05.16",
             "Time": "05:44:16",
             "Latitude": "36.4590",
             "Longitude": "27.0888",
@@ -4409,33 +4436,6 @@
             "Depth": "6.4",
             "ML": "3.0",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "11:10:37",
-            "Latitude": "37.0835",
-            "Longitude": "28.3460",
-            "Depth": "11.5",
-            "ML": "1.4",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "10:26:25",
-            "Latitude": "34.9947",
-            "Longitude": "25.1008",
-            "Depth": "9.3",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "10:22:43",
-            "Latitude": "37.6273",
-            "Longitude": "26.9855",
-            "Depth": "6.4",
-            "ML": "1.8",
-            "Location": "DOGANBEY ACIKLARI AYDIN EGE DENIZI"
         }
     ]
 }
