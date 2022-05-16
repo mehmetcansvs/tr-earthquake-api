@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.16",
+            "Time": "15:22:15",
+            "Latitude": "38.7595",
+            "Longitude": "40.2902",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "AKBULUT PALU ELAZIG"
+        },
+        {
+            "Date": "2022.05.16",
             "Time": "14:37:30",
             "Latitude": "36.9215",
             "Longitude": "27.4538",
@@ -38,6 +47,15 @@
         },
         {
             "Date": "2022.05.16",
+            "Time": "13:09:36",
+            "Latitude": "40.4353",
+            "Longitude": "29.2167",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "CIHATLI GEMLIK BURSA"
+        },
+        {
+            "Date": "2022.05.16",
             "Time": "12:49:50",
             "Latitude": "35.2465",
             "Longitude": "33.3962",
@@ -62,6 +80,15 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "AZIZIYE KINIK IZMIR"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "12:39:36",
+            "Latitude": "35.1740",
+            "Longitude": "25.2273",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.05.16",
@@ -4409,33 +4436,6 @@
             "Depth": "8.6",
             "ML": "1.9",
             "Location": "BESKARIS ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "02:34:33",
-            "Latitude": "35.0803",
-            "Longitude": "24.9762",
-            "Depth": "12.0",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "01:16:50",
-            "Latitude": "37.1902",
-            "Longitude": "28.3217",
-            "Depth": "49.2",
-            "ML": "1.4",
-            "Location": "AKKAYA MUGLA"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "00:43:36",
-            "Latitude": "37.0562",
-            "Longitude": "28.3982",
-            "Depth": "14.2",
-            "ML": "1.9",
-            "Location": "ATAKOY ULA MUGLA"
         }
     ]
 }
