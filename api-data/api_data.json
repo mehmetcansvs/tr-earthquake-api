@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.16",
+            "Time": "07:51:46",
+            "Latitude": "37.3050",
+            "Longitude": "30.6852",
+            "Depth": "14.5",
+            "ML": "1.6",
+            "Location": "DEMIRLI BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.05.16",
             "Time": "07:13:16",
             "Latitude": "35.1770",
             "Longitude": "26.8318",
@@ -4427,15 +4436,6 @@
             "Depth": "12.9",
             "ML": "1.6",
             "Location": "SEKLI BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "13:03:30",
-            "Latitude": "34.3470",
-            "Longitude": "32.6010",
-            "Depth": "6.4",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
         }
     ]
 }
