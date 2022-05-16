@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "Date": "2022.05.17",
+            "Time": "00:52:18",
+            "Latitude": "40.4767",
+            "Longitude": "32.9880",
+            "Depth": "5.5",
+            "ML": "2.9",
+            "Location": "KIZILOREN CUBUK ANKARA"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "00:47:50",
+            "Latitude": "38.3547",
+            "Longitude": "26.6623",
+            "Depth": "11.3",
+            "ML": "1.9",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "00:13:33",
+            "Latitude": "38.6272",
+            "Longitude": "29.7822",
+            "Depth": "6.3",
+            "ML": "1.7",
+            "Location": "ULUPINAR BANAZ USAK"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "23:58:42",
+            "Latitude": "35.2067",
+            "Longitude": "26.1783",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "23:16:04",
+            "Latitude": "37.1647",
+            "Longitude": "30.5982",
+            "Depth": "83.8",
+            "ML": "2.1",
+            "Location": "KOVANLIK DOSEMEALTI ANTALYA"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "23:11:38",
+            "Latitude": "40.7313",
+            "Longitude": "27.4133",
+            "Depth": "11.3",
+            "ML": "1.7",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "22:51:32",
+            "Latitude": "35.2292",
+            "Longitude": "26.1548",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
             "Date": "2022.05.16",
             "Time": "22:32:04",
             "Latitude": "40.4393",
@@ -4391,51 +4454,6 @@
             "Depth": "4.1",
             "ML": "2.1",
             "Location": "BOZKOY GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "10:25:46",
-            "Latitude": "39.6893",
-            "Longitude": "25.6323",
-            "Depth": "7.0",
-            "ML": "2.2",
-            "Location": "EGE DENIZI REVIZE GUNBATMAZ BULANIK MUS"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "09:29:27",
-            "Latitude": "35.0208",
-            "Longitude": "25.7767",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "09:19:31",
-            "Latitude": "37.2697",
-            "Longitude": "36.0017",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "KERIMLI KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "09:16:49",
-            "Latitude": "39.7860",
-            "Longitude": "41.4225",
-            "Depth": "16.0",
-            "ML": "1.7",
-            "Location": "GECITKOY TEKMAN ERZURUM REVIZE KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "07:23:03",
-            "Latitude": "37.2283",
-            "Longitude": "37.6270",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "KABASAKIZ SEHITKAMIL GAZIANTEP"
         }
     ]
 }
