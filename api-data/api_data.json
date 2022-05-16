@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.16",
+            "Time": "10:27:56",
+            "Latitude": "36.7070",
+            "Longitude": "33.5822",
+            "Depth": "10.8",
+            "ML": "2.5",
+            "Location": "CUKURBAG MUT MERSIN"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "10:07:13",
+            "Latitude": "35.0932",
+            "Longitude": "26.8345",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "09:48:56",
+            "Latitude": "34.8582",
+            "Longitude": "22.8743",
+            "Depth": "3.5",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.16",
+            "Time": "08:13:37",
+            "Latitude": "35.2543",
+            "Longitude": "26.7620",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.16",
             "Time": "07:51:46",
             "Latitude": "37.3050",
             "Longitude": "30.6852",
@@ -4400,42 +4436,6 @@
             "Depth": "5.0",
             "ML": "2.3",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "14:55:15",
-            "Latitude": "35.2455",
-            "Longitude": "26.1087",
-            "Depth": "7.6",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "14:55:14",
-            "Latitude": "36.9578",
-            "Longitude": "27.6062",
-            "Depth": "3.6",
-            "ML": "2.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "13:40:45",
-            "Latitude": "35.6313",
-            "Longitude": "23.4900",
-            "Depth": "5.2",
-            "ML": "4.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.04",
-            "Time": "13:35:27",
-            "Latitude": "40.1625",
-            "Longitude": "31.7167",
-            "Depth": "12.9",
-            "ML": "1.6",
-            "Location": "SEKLI BEYPAZARI ANKARA"
         }
     ]
 }
