@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.05.17",
+            "Time": "16:01:03",
+            "Latitude": "41.0837",
+            "Longitude": "25.9818",
+            "Depth": "7.3",
+            "ML": "3.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "15:19:58",
+            "Latitude": "34.7822",
+            "Longitude": "24.6607",
+            "Depth": "16.5",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "15:05:45",
+            "Latitude": "39.1425",
+            "Longitude": "29.4297",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "AKKAYA GEDIZ KUTAHYA"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "15:00:58",
+            "Latitude": "36.8560",
+            "Longitude": "38.2805",
+            "Depth": "3.2",
+            "ML": "2.3",
+            "Location": "YUMURTALIK SURUC SANLIURFA"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "13:54:42",
+            "Latitude": "40.3495",
+            "Longitude": "27.2952",
+            "Depth": "13.9",
+            "ML": "2.0",
+            "Location": "CESMEALTI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "13:53:52",
+            "Latitude": "40.1632",
+            "Longitude": "41.0383",
+            "Depth": "7.8",
+            "ML": "1.8",
+            "Location": "AGCAKENT AZIZIYE ERZURUM"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "12:58:16",
+            "Latitude": "41.1738",
+            "Longitude": "28.7657",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "ARNAVUTKOY ISTANBUL"
+        },
+        {
+            "Date": "2022.05.17",
             "Time": "12:56:38",
             "Latitude": "37.1828",
             "Longitude": "28.9128",
@@ -17,6 +80,24 @@
             "Depth": "12.2",
             "ML": "1.9",
             "Location": "ESENLER BEYAGAC DENIZLI"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "12:52:23",
+            "Latitude": "36.2710",
+            "Longitude": "33.7167",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "AKDERE SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "12:22:50",
+            "Latitude": "37.7815",
+            "Longitude": "27.2542",
+            "Depth": "6.9",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
         },
         {
             "Date": "2022.05.17",
@@ -4373,87 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.3",
             "Location": "CERKES CANKIRI"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "10:35:10",
-            "Latitude": "40.9002",
-            "Longitude": "33.4830",
-            "Depth": "23.0",
-            "ML": "1.5",
-            "Location": "ESKICE ILGAZ CANKIRI"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "07:11:33",
-            "Latitude": "38.2183",
-            "Longitude": "30.9182",
-            "Depth": "11.4",
-            "ML": "1.4",
-            "Location": "ASAGITIRTAR YALVAC ISPARTA"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "06:44:52",
-            "Latitude": "39.5137",
-            "Longitude": "28.3852",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "TASPINAR DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "05:45:30",
-            "Latitude": "35.2765",
-            "Longitude": "23.5657",
-            "Depth": "12.9",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "04:43:57",
-            "Latitude": "37.8817",
-            "Longitude": "26.9220",
-            "Depth": "3.3",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "04:21:37",
-            "Latitude": "37.8693",
-            "Longitude": "26.9558",
-            "Depth": "7.9",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "04:18:22",
-            "Latitude": "37.8955",
-            "Longitude": "27.1490",
-            "Depth": "6.3",
-            "ML": "2.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "04:09:26",
-            "Latitude": "37.8620",
-            "Longitude": "26.9775",
-            "Depth": "7.9",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "02:18:05",
-            "Latitude": "39.2560",
-            "Longitude": "26.7042",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "KUCUKKOY AYVALIK BALIKESIR"
         }
     ]
 }
