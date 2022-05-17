@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.17",
+            "Time": "06:46:33",
+            "Latitude": "37.1673",
+            "Longitude": "28.9187",
+            "Depth": "7.9",
+            "ML": "2.0",
+            "Location": "ESENLER BEYAGAC DENIZLI"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "06:31:27",
+            "Latitude": "37.1955",
+            "Longitude": "28.9223",
+            "Depth": "4.2",
+            "ML": "1.5",
+            "Location": "ESENLER BEYAGAC DENIZLI"
+        },
+        {
+            "Date": "2022.05.17",
             "Time": "06:04:27",
             "Latitude": "40.5198",
             "Longitude": "30.7498",
@@ -4436,24 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.5",
             "Location": "PINARBASI AKSEKI ANTALYA"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "18:53:22",
-            "Latitude": "37.1772",
-            "Longitude": "37.6663",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "BOYLUCA NIZIP GAZIANTEP"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "18:01:34",
-            "Latitude": "37.8685",
-            "Longitude": "26.9708",
-            "Depth": "20.7",
-            "ML": "2.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
