@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.17",
+            "Time": "18:28:17",
+            "Latitude": "40.9300",
+            "Longitude": "29.7672",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "CUMAKOY KORFEZ KOCAELI"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "17:58:14",
+            "Latitude": "41.0908",
+            "Longitude": "26.0022",
+            "Depth": "5.3",
+            "ML": "2.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "17:35:10",
+            "Latitude": "36.1598",
+            "Longitude": "33.5565",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "17:21:27",
+            "Latitude": "39.4418",
+            "Longitude": "31.5797",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "16:37:14",
+            "Latitude": "37.9895",
+            "Longitude": "28.9008",
+            "Depth": "4.6",
+            "ML": "1.3",
+            "Location": "SAZAK SARAYKOY DENIZLI"
+        },
+        {
+            "Date": "2022.05.17",
             "Time": "16:01:03",
             "Latitude": "41.0837",
             "Longitude": "25.9818",
@@ -4409,51 +4454,6 @@
             "Depth": "5.4",
             "ML": "2.4",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "13:03:51",
-            "Latitude": "36.5977",
-            "Longitude": "34.1905",
-            "Depth": "11.6",
-            "ML": "1.6",
-            "Location": "CIRIS ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "12:24:19",
-            "Latitude": "41.2800",
-            "Longitude": "28.8612",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "AGACLI EYUP ISTANBUL"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "12:17:45",
-            "Latitude": "39.4462",
-            "Longitude": "32.3472",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "SIVRI POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "12:06:02",
-            "Latitude": "37.2533",
-            "Longitude": "34.7560",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "GULEK TARSUS MERSIN"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "11:00:27",
-            "Latitude": "40.8058",
-            "Longitude": "32.9007",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "CERKES CANKIRI"
         }
     ]
 }
