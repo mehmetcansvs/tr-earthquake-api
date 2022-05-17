@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.17",
+            "Time": "09:38:47",
+            "Latitude": "36.8695",
+            "Longitude": "27.5260",
+            "Depth": "5.2",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "09:34:44",
+            "Latitude": "39.4217",
+            "Longitude": "27.9045",
+            "Depth": "15.5",
+            "ML": "1.1",
+            "Location": "BAYAT BALIKESIR"
+        },
+        {
+            "Date": "2022.05.17",
             "Time": "07:02:53",
             "Latitude": "38.6900",
             "Longitude": "32.7602",
@@ -4436,24 +4454,6 @@
             "Depth": "11.0",
             "ML": "3.1",
             "Location": "SELCIKLI AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "20:29:45",
-            "Latitude": "35.6330",
-            "Longitude": "31.5875",
-            "Depth": "4.3",
-            "ML": "3.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "20:19:23",
-            "Latitude": "38.6428",
-            "Longitude": "43.1812",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "MOLLAKASIM VAN"
         }
     ]
 }
