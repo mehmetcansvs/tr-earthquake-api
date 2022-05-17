@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.17",
+            "Time": "03:40:21",
+            "Latitude": "40.7742",
+            "Longitude": "31.5200",
+            "Depth": "2.2",
+            "ML": "1.7",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "02:36:17",
+            "Latitude": "35.7460",
+            "Longitude": "26.9547",
+            "Depth": "8.6",
+            "ML": "3.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "02:08:59",
+            "Latitude": "40.8098",
+            "Longitude": "31.5178",
+            "Depth": "9.4",
+            "ML": "1.7",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "01:16:24",
+            "Latitude": "40.5615",
+            "Longitude": "41.9823",
+            "Depth": "14.9",
+            "ML": "2.2",
+            "Location": "SENDURAK OLTU ERZURUM"
+        },
+        {
+            "Date": "2022.05.17",
             "Time": "00:52:18",
             "Latitude": "40.4767",
             "Longitude": "32.9880",
@@ -4418,42 +4454,6 @@
             "Depth": "5.4",
             "ML": "1.6",
             "Location": "DEREKOY SOMA MANISA"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "12:22:59",
-            "Latitude": "34.2597",
-            "Longitude": "24.5193",
-            "Depth": "22.4",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "11:52:03",
-            "Latitude": "34.1988",
-            "Longitude": "24.2542",
-            "Depth": "82.2",
-            "ML": "3.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "11:17:01",
-            "Latitude": "37.9017",
-            "Longitude": "27.6362",
-            "Depth": "5.4",
-            "ML": "1.9",
-            "Location": "ALANGULLU GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.05.05",
-            "Time": "11:07:43",
-            "Latitude": "37.9500",
-            "Longitude": "27.6360",
-            "Depth": "4.1",
-            "ML": "2.1",
-            "Location": "BOZKOY GERMENCIK AYDIN"
         }
     ]
 }
