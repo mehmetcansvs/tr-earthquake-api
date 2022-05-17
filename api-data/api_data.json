@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.05.18",
+            "Time": "00:48:40",
+            "Latitude": "36.0827",
+            "Longitude": "26.0595",
+            "Depth": "129.3",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "23:50:25",
+            "Latitude": "38.5642",
+            "Longitude": "31.9710",
+            "Depth": "5.3",
+            "ML": "2.2",
+            "Location": "BUYUKOBA ILGIN KONYA"
+        },
+        {
             "Date": "2022.05.17",
             "Time": "22:43:18",
             "Latitude": "37.1943",
@@ -4436,24 +4454,6 @@
             "Depth": "5.8",
             "ML": "2.7",
             "Location": "YENIKOY REFAHIYE ERZINCAN"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "20:15:57",
-            "Latitude": "37.0857",
-            "Longitude": "28.9643",
-            "Depth": "14.5",
-            "ML": "1.9",
-            "Location": "OTMANLAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "19:41:10",
-            "Latitude": "36.2143",
-            "Longitude": "27.0523",
-            "Depth": "8.5",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
         }
     ]
 }
