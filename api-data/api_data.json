@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.17",
+            "Time": "20:57:42",
+            "Latitude": "37.8195",
+            "Longitude": "26.9570",
+            "Depth": "6.1",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "20:17:44",
+            "Latitude": "40.4435",
+            "Longitude": "26.9318",
+            "Depth": "15.7",
+            "ML": "1.2",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "20:09:42",
+            "Latitude": "37.7953",
+            "Longitude": "30.0660",
+            "Depth": "13.1",
+            "ML": "1.7",
+            "Location": "CIGRI BASMAKCI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "19:59:00",
+            "Latitude": "39.9558",
+            "Longitude": "26.0665",
+            "Depth": "15.3",
+            "ML": "1.2",
+            "Location": "UVECIK ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "19:57:05",
+            "Latitude": "38.7783",
+            "Longitude": "25.5628",
+            "Depth": "15.8",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.17",
             "Time": "18:28:17",
             "Latitude": "40.9300",
             "Longitude": "29.7672",
@@ -4409,51 +4454,6 @@
             "Depth": "14.1",
             "ML": "2.2",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "17:05:45",
-            "Latitude": "36.2645",
-            "Longitude": "27.0265",
-            "Depth": "3.1",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "17:01:31",
-            "Latitude": "36.2585",
-            "Longitude": "27.0595",
-            "Depth": "6.0",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "16:44:23",
-            "Latitude": "37.0480",
-            "Longitude": "37.0302",
-            "Depth": "1.7",
-            "ML": "1.7",
-            "Location": "ORTAKLAR SAHINBEY GAZIANTEP"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "14:27:37",
-            "Latitude": "39.3013",
-            "Longitude": "40.6562",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "CEVRELI ADAKLI BINGOL"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "14:14:23",
-            "Latitude": "37.5788",
-            "Longitude": "26.9378",
-            "Depth": "5.4",
-            "ML": "2.4",
-            "Location": "EGE DENIZI"
         }
     ]
 }
