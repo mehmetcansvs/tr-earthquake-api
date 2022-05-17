@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.17",
+            "Time": "12:03:45",
+            "Latitude": "36.9685",
+            "Longitude": "28.4142",
+            "Depth": "23.9",
+            "ML": "2.6",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "11:52:14",
+            "Latitude": "40.7427",
+            "Longitude": "31.5790",
+            "Depth": "18.3",
+            "ML": "1.1",
+            "Location": "BOLU"
+        },
+        {
+            "Date": "2022.05.17",
+            "Time": "10:44:03",
+            "Latitude": "37.6393",
+            "Longitude": "29.1223",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "PINARLIK TAVAS DENIZLI"
+        },
+        {
+            "Date": "2022.05.17",
             "Time": "09:38:47",
             "Latitude": "36.8695",
             "Longitude": "27.5260",
@@ -4427,33 +4454,6 @@
             "Depth": "8.8",
             "ML": "1.5",
             "Location": "MALTEPE CAY AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "00:59:38",
-            "Latitude": "37.0347",
-            "Longitude": "35.9290",
-            "Depth": "13.7",
-            "ML": "2.1",
-            "Location": "HAMDILLI CEYHAN ADANA"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "00:49:35",
-            "Latitude": "37.6952",
-            "Longitude": "29.3230",
-            "Depth": "9.3",
-            "ML": "1.5",
-            "Location": "AYDINLAR HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.05.06",
-            "Time": "00:21:47",
-            "Latitude": "39.0650",
-            "Longitude": "27.9030",
-            "Depth": "11.0",
-            "ML": "3.1",
-            "Location": "SELCIKLI AKHISAR MANISA"
         }
     ]
 }
