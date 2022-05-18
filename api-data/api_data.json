@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.18",
+            "Time": "13:53:54",
+            "Latitude": "37.5182",
+            "Longitude": "29.5305",
+            "Depth": "23.8",
+            "ML": "2.1",
+            "Location": "PINARBASI ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "13:25:03",
+            "Latitude": "38.1270",
+            "Longitude": "25.8525",
+            "Depth": "4.9",
+            "ML": "2.1",
+            "Location": "SAKIZ ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "13:20:27",
+            "Latitude": "37.6810",
+            "Longitude": "31.2547",
+            "Depth": "15.4",
+            "ML": "2.2",
+            "Location": "ELDERE AKSU ISPARTA"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "13:17:47",
+            "Latitude": "36.5630",
+            "Longitude": "29.3062",
+            "Depth": "27.7",
+            "ML": "1.8",
+            "Location": "CALTIOZU FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "13:16:52",
+            "Latitude": "38.2497",
+            "Longitude": "30.8240",
+            "Depth": "9.2",
+            "ML": "1.9",
+            "Location": "TASEVI YALVAC ISPARTA"
+        },
+        {
+            "Date": "2022.05.18",
             "Time": "12:58:58",
             "Latitude": "38.3210",
             "Longitude": "38.8123",
@@ -4409,51 +4454,6 @@
             "Depth": "5.2",
             "ML": "1.7",
             "Location": "BALABANTAS SARIKAMIS KARS"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "10:13:59",
-            "Latitude": "35.7412",
-            "Longitude": "26.2072",
-            "Depth": "7.2",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "09:58:02",
-            "Latitude": "38.6250",
-            "Longitude": "43.4663",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "COMAKLI VAN"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "07:25:19",
-            "Latitude": "38.6460",
-            "Longitude": "43.2410",
-            "Depth": "23.6",
-            "ML": "1.8",
-            "Location": "DIBEKDUZU VAN"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "06:02:36",
-            "Latitude": "36.4387",
-            "Longitude": "27.2185",
-            "Depth": "6.1",
-            "ML": "1.7",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "05:59:33",
-            "Latitude": "39.3120",
-            "Longitude": "40.9017",
-            "Depth": "4.8",
-            "ML": "1.8",
-            "Location": "TASLICAY KARLIOVA BINGOL"
         }
     ]
 }
