@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.18",
+            "Time": "15:36:46",
+            "Latitude": "38.1272",
+            "Longitude": "30.8455",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "AKKECILI SENIRKENT ISPARTA"
+        },
+        {
+            "Date": "2022.05.18",
             "Time": "13:53:54",
             "Latitude": "37.5182",
             "Longitude": "29.5305",
@@ -4445,15 +4454,6 @@
             "Depth": "12.4",
             "ML": "1.5",
             "Location": "DAVUTLAR MANISA"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "11:05:13",
-            "Latitude": "40.2423",
-            "Longitude": "42.1332",
-            "Depth": "5.2",
-            "ML": "1.7",
-            "Location": "BALABANTAS SARIKAMIS KARS"
         }
     ]
 }
