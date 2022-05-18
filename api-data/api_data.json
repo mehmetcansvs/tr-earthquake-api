@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.18",
+            "Time": "08:35:41",
+            "Latitude": "35.1605",
+            "Longitude": "25.3033",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.18",
             "Time": "04:42:49",
             "Latitude": "39.9253",
             "Longitude": "42.0420",
@@ -4445,15 +4454,6 @@
             "Depth": "17.3",
             "ML": "1.6",
             "Location": "MEHMETLER TIRE IZMIR"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "02:51:47",
-            "Latitude": "37.0315",
-            "Longitude": "29.2262",
-            "Depth": "22.1",
-            "ML": "1.5",
-            "Location": "EMECIK CAMELI DENIZLI"
         }
     ]
 }
