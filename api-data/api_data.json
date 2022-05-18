@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.05.18",
+            "Time": "20:21:39",
+            "Latitude": "36.5007",
+            "Longitude": "26.8112",
+            "Depth": "124.2",
+            "ML": "4.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "19:29:09",
+            "Latitude": "38.1460",
+            "Longitude": "25.8095",
+            "Depth": "13.2",
+            "ML": "2.4",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.18",
             "Time": "18:03:58",
             "Latitude": "36.7292",
             "Longitude": "28.2318",
             "Depth": "70.3",
             "ML": "2.3",
             "Location": "OSMANIYE MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "17:25:21",
+            "Latitude": "39.6905",
+            "Longitude": "23.2723",
+            "Depth": "13.1",
+            "ML": "2.6",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "17:24:24",
+            "Latitude": "36.1503",
+            "Longitude": "33.5495",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "17:22:43",
+            "Latitude": "36.4340",
+            "Longitude": "34.4707",
+            "Depth": "10.0",
+            "ML": "1.8",
+            "Location": "ERDEMLI ACIKLARI MERSIN AKDENIZ"
         },
         {
             "Date": "2022.05.18",
@@ -4409,51 +4454,6 @@
             "Depth": "5.2",
             "ML": "1.8",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "16:37:40",
-            "Latitude": "37.9042",
-            "Longitude": "32.5193",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "15:57:28",
-            "Latitude": "40.9192",
-            "Longitude": "29.8093",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "CAVUSLU DERINCE KOCAELI"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "13:00:46",
-            "Latitude": "41.1762",
-            "Longitude": "41.7610",
-            "Depth": "13.6",
-            "ML": "2.4",
-            "Location": "FISTIKLI ARTVIN"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "12:27:48",
-            "Latitude": "38.0555",
-            "Longitude": "32.6253",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "SARICALAR SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "12:17:07",
-            "Latitude": "36.9057",
-            "Longitude": "27.5780",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
