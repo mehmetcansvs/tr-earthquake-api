@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.18",
+            "Time": "12:58:58",
+            "Latitude": "38.3210",
+            "Longitude": "38.8123",
+            "Depth": "7.2",
+            "ML": "2.4",
+            "Location": "BOLUKKAYA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "12:31:26",
+            "Latitude": "40.4943",
+            "Longitude": "29.2350",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "FINDIKLI ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "11:36:28",
+            "Latitude": "37.9708",
+            "Longitude": "27.1637",
+            "Depth": "4.6",
+            "ML": "2.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "11:35:41",
+            "Latitude": "37.1593",
+            "Longitude": "28.2387",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "ALGI MUGLA"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "11:35:23",
+            "Latitude": "35.3742",
+            "Longitude": "26.8135",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.18",
             "Time": "08:35:41",
             "Latitude": "35.1605",
             "Longitude": "25.3033",
@@ -4409,51 +4454,6 @@
             "Depth": "4.8",
             "ML": "1.8",
             "Location": "TASLICAY KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "05:27:29",
-            "Latitude": "39.2925",
-            "Longitude": "40.8052",
-            "Depth": "5.7",
-            "ML": "2.2",
-            "Location": "KARLICA KARLIOVA BINGOL"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "04:35:48",
-            "Latitude": "39.4353",
-            "Longitude": "32.7160",
-            "Depth": "7.8",
-            "ML": "2.0",
-            "Location": "CULUK HAYMANA ANKARA"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "04:23:19",
-            "Latitude": "40.8352",
-            "Longitude": "27.8862",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "03:52:02",
-            "Latitude": "37.1767",
-            "Longitude": "32.9733",
-            "Depth": "12.7",
-            "ML": "2.3",
-            "Location": "YOLLARBASI KARAMAN"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "03:10:23",
-            "Latitude": "37.9982",
-            "Longitude": "27.5137",
-            "Depth": "17.3",
-            "ML": "1.6",
-            "Location": "MEHMETLER TIRE IZMIR"
         }
     ]
 }
