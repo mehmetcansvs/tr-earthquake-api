@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.18",
+            "Time": "04:42:49",
+            "Latitude": "39.9253",
+            "Longitude": "42.0420",
+            "Depth": "11.2",
+            "ML": "1.2",
+            "Location": "HARCLI HORASAN ERZURUM"
+        },
+        {
+            "Date": "2022.05.18",
             "Time": "03:44:04",
             "Latitude": "38.4787",
             "Longitude": "44.2792",
@@ -4445,15 +4454,6 @@
             "Depth": "22.1",
             "ML": "1.5",
             "Location": "EMECIK CAMELI DENIZLI"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "00:51:57",
-            "Latitude": "40.8360",
-            "Longitude": "31.0175",
-            "Depth": "12.8",
-            "ML": "2.9",
-            "Location": "YAYAKBASI DUZCE"
         }
     ]
 }
