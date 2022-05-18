@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.18",
+            "Time": "18:03:58",
+            "Latitude": "36.7292",
+            "Longitude": "28.2318",
+            "Depth": "70.3",
+            "ML": "2.3",
+            "Location": "OSMANIYE MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.05.18",
             "Time": "15:36:46",
             "Latitude": "38.1272",
             "Longitude": "30.8455",
@@ -4445,15 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.6",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "11:13:38",
-            "Latitude": "38.8125",
-            "Longitude": "27.3505",
-            "Depth": "12.4",
-            "ML": "1.5",
-            "Location": "DAVUTLAR MANISA"
         }
     ]
 }
