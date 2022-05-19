@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.19",
+            "Time": "20:15:09",
+            "Latitude": "40.2662",
+            "Longitude": "41.0685",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "BASOVACIK AZIZIYE ERZURUM"
+        },
+        {
+            "Date": "2022.05.19",
+            "Time": "20:01:42",
+            "Latitude": "37.7852",
+            "Longitude": "30.0567",
+            "Depth": "3.0",
+            "ML": "2.2",
+            "Location": "CIGRI BASMAKCI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.05.19",
             "Time": "18:19:47",
             "Latitude": "38.7948",
             "Longitude": "33.6248",
@@ -4436,24 +4454,6 @@
             "Depth": "26.0",
             "ML": "1.6",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "06:45:43",
-            "Latitude": "35.9148",
-            "Longitude": "29.3193",
-            "Depth": "12.6",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "06:19:59",
-            "Latitude": "40.6163",
-            "Longitude": "32.7717",
-            "Depth": "8.5",
-            "ML": "1.4",
-            "Location": "YAGCIHUSEYIN KIZILCAHAMAM ANKARA"
         }
     ]
 }
