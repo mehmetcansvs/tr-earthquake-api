@@ -20,12 +20,30 @@
         },
         {
             "Date": "2022.05.19",
+            "Time": "19:38:52",
+            "Latitude": "38.1385",
+            "Longitude": "25.8763",
+            "Depth": "8.9",
+            "ML": "1.8",
+            "Location": "SAKIZ ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.19",
             "Time": "18:19:47",
             "Latitude": "38.7948",
             "Longitude": "33.6248",
             "Depth": "4.5",
             "ML": "1.8",
             "Location": "KARANDERE SEREFLIKOCHISAR ANKARA"
+        },
+        {
+            "Date": "2022.05.19",
+            "Time": "17:17:45",
+            "Latitude": "38.0963",
+            "Longitude": "30.0542",
+            "Depth": "3.5",
+            "ML": "1.5",
+            "Location": "AVDAN DINAR AFYONKARAHISAR"
         },
         {
             "Date": "2022.05.19",
@@ -4436,24 +4454,6 @@
             "Depth": "8.4",
             "ML": "1.6",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "06:53:08",
-            "Latitude": "37.7303",
-            "Longitude": "29.7692",
-            "Depth": "8.1",
-            "ML": "1.5",
-            "Location": "GOLCUK CARDAK DENIZLI"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "06:46:29",
-            "Latitude": "35.8058",
-            "Longitude": "33.4565",
-            "Depth": "26.0",
-            "ML": "1.6",
-            "Location": "AKDENIZ"
         }
     ]
 }
