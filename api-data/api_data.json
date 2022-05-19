@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.19",
+            "Time": "07:20:12",
+            "Latitude": "37.0947",
+            "Longitude": "28.4762",
+            "Depth": "3.0",
+            "ML": "1.4",
+            "Location": "CICEKLI ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.19",
+            "Time": "06:34:42",
+            "Latitude": "36.9895",
+            "Longitude": "27.6568",
+            "Depth": "7.2",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.19",
+            "Time": "06:08:10",
+            "Latitude": "34.1308",
+            "Longitude": "22.2067",
+            "Depth": "74.9",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.19",
+            "Time": "06:03:35",
+            "Latitude": "37.6068",
+            "Longitude": "35.6018",
+            "Depth": "5.2",
+            "ML": "2.0",
+            "Location": "GOKGOZ KOZAN ADANA"
+        },
+        {
+            "Date": "2022.05.19",
+            "Time": "05:28:10",
+            "Latitude": "36.2403",
+            "Longitude": "25.2975",
+            "Depth": "23.7",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.19",
             "Time": "04:31:23",
             "Latitude": "40.0455",
             "Longitude": "41.2912",
@@ -71,6 +116,15 @@
             "Depth": "2.3",
             "ML": "1.3",
             "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.05.18",
+            "Time": "22:14:13",
+            "Latitude": "38.4892",
+            "Longitude": "43.7810",
+            "Depth": "9.9",
+            "ML": "1.6",
+            "Location": "KARLIYAMAC OZALP VAN"
         },
         {
             "Date": "2022.05.18",
@@ -4400,60 +4454,6 @@
             "Depth": "19.3",
             "ML": "1.5",
             "Location": "YAKABASI GUMUSOVA DUZCE"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "01:13:24",
-            "Latitude": "37.0300",
-            "Longitude": "28.3285",
-            "Depth": "3.9",
-            "ML": "1.4",
-            "Location": "GOKCE ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "00:01:56",
-            "Latitude": "37.5075",
-            "Longitude": "37.9668",
-            "Depth": "6.1",
-            "ML": "2.1",
-            "Location": "COMAK BESNI ADIYAMAN"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "23:43:32",
-            "Latitude": "37.0580",
-            "Longitude": "28.2290",
-            "Depth": "13.1",
-            "ML": "1.6",
-            "Location": "KIRAN MUGLA"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "22:56:02",
-            "Latitude": "37.0920",
-            "Longitude": "28.2548",
-            "Depth": "9.7",
-            "ML": "1.7",
-            "Location": "DERINKUYU MUGLA"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "21:54:13",
-            "Latitude": "37.0453",
-            "Longitude": "28.2740",
-            "Depth": "4.5",
-            "ML": "1.3",
-            "Location": "KUYUCAK MUGLA"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "21:32:05",
-            "Latitude": "37.8755",
-            "Longitude": "29.4388",
-            "Depth": "12.7",
-            "ML": "2.8",
-            "Location": "YOKUSBASI HONAZ DENIZLI"
         }
     ]
 }
