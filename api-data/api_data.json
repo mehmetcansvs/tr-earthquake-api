@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.05.19",
+            "Time": "02:55:02",
+            "Latitude": "37.8542",
+            "Longitude": "27.3585",
+            "Depth": "6.6",
+            "ML": "3.1",
+            "Location": "YENIKOY KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.05.19",
+            "Time": "02:19:29",
+            "Latitude": "40.0483",
+            "Longitude": "27.4265",
+            "Depth": "8.4",
+            "ML": "2.0",
+            "Location": "TABANKOY YENICE CANAKKALE"
+        },
+        {
             "Date": "2022.05.18",
             "Time": "20:21:39",
             "Latitude": "36.5007",
@@ -4436,24 +4454,6 @@
             "Depth": "4.7",
             "ML": "1.7",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "18:04:01",
-            "Latitude": "38.5013",
-            "Longitude": "25.8558",
-            "Depth": "8.0",
-            "ML": "2.3",
-            "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.07",
-            "Time": "17:22:55",
-            "Latitude": "37.8910",
-            "Longitude": "26.8393",
-            "Depth": "5.2",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
