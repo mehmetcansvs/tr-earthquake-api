@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.19",
+            "Time": "12:00:07",
+            "Latitude": "37.0248",
+            "Longitude": "28.3645",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.19",
             "Time": "10:44:42",
             "Latitude": "37.2637",
             "Longitude": "37.0488",
@@ -4445,15 +4454,6 @@
             "Depth": "8.6",
             "ML": "1.1",
             "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "04:22:01",
-            "Latitude": "37.0340",
-            "Longitude": "34.4412",
-            "Depth": "4.8",
-            "ML": "1.5",
-            "Location": "HOROZLU TOROSLAR MERSIN"
         }
     ]
 }
