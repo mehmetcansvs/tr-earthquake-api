@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.20",
+            "Time": "05:28:21",
+            "Latitude": "38.7408",
+            "Longitude": "26.6418",
+            "Depth": "7.7",
+            "ML": "2.2",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "03:51:17",
+            "Latitude": "38.4198",
+            "Longitude": "42.0237",
+            "Depth": "2.1",
+            "ML": "1.9",
+            "Location": "KONUKSAYAR BITLIS"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "02:49:40",
+            "Latitude": "40.5872",
+            "Longitude": "36.8768",
+            "Depth": "6.3",
+            "ML": "2.0",
+            "Location": "SAHINLI NIKSAR TOKAT"
+        },
+        {
+            "Date": "2022.05.20",
             "Time": "02:15:14",
             "Latitude": "37.9178",
             "Longitude": "26.9107",
@@ -4427,33 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.7",
             "Location": "KALEMKOY KINIK IZMIR"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "13:41:34",
-            "Latitude": "37.1765",
-            "Longitude": "28.5488",
-            "Depth": "5.1",
-            "ML": "1.3",
-            "Location": "YAYLASOGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "11:33:29",
-            "Latitude": "35.3430",
-            "Longitude": "33.8300",
-            "Depth": "12.0",
-            "ML": "1.8",
-            "Location": "KIBRIS ISKELE"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "11:30:35",
-            "Latitude": "39.5303",
-            "Longitude": "28.3805",
-            "Depth": "15.7",
-            "ML": "1.9",
-            "Location": "SEBILLER DURSUNBEY BALIKESIR"
         }
     ]
 }
