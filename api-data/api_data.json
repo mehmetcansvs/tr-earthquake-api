@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.05.20",
-            "Time": "15:01:35",
-            "Latitude": "39.9070",
-            "Longitude": "30.3760",
-            "Depth": "14.2",
-            "ML": "1.7",
-            "Location": "KARACOBANPINARI TEPEBASI ESKISEHIR"
+            "Time": "15:36:10",
+            "Latitude": "36.9743",
+            "Longitude": "27.6572",
+            "Depth": "7.4",
+            "ML": "2.0",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "15:33:17",
+            "Latitude": "36.1962",
+            "Longitude": "33.6915",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "YESILOVACIK SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "15:31:44",
+            "Latitude": "36.1760",
+            "Longitude": "33.7110",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "YESILOVACIK SILIFKE MERSIN REVIZE KARACOBANPINARI TEPEBASI ESKISEHIR"
         },
         {
             "Date": "2022.05.20",
@@ -4427,33 +4445,6 @@
             "Depth": "8.1",
             "ML": "2.2",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "06:26:00",
-            "Latitude": "35.9153",
-            "Longitude": "30.5198",
-            "Depth": "13.8",
-            "ML": "2.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "06:06:27",
-            "Latitude": "35.6423",
-            "Longitude": "28.8155",
-            "Depth": "95.1",
-            "ML": "2.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "03:55:31",
-            "Latitude": "37.9385",
-            "Longitude": "28.8138",
-            "Depth": "13.0",
-            "ML": "1.6",
-            "Location": "KIZILDERE BUHARKENT AYDIN"
         }
     ]
 }
