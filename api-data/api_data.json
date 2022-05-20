@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.20",
+            "Time": "07:05:07",
+            "Latitude": "38.8962",
+            "Longitude": "26.1802",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "06:08:42",
+            "Latitude": "38.0570",
+            "Longitude": "42.7258",
+            "Depth": "1.5",
+            "ML": "2.1",
+            "Location": "YAYLAKONAK BAHCESARAY VAN"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "05:52:49",
+            "Latitude": "34.9530",
+            "Longitude": "32.1810",
+            "Depth": "12.7",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.20",
             "Time": "05:28:21",
             "Latitude": "38.7408",
             "Longitude": "26.6418",
@@ -4427,33 +4454,6 @@
             "Depth": "1.4",
             "ML": "2.0",
             "Location": "SOGUTCUK KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "14:24:39",
-            "Latitude": "38.2525",
-            "Longitude": "26.6067",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "ZEYTINLER URLA IZMIR"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "14:10:21",
-            "Latitude": "39.1362",
-            "Longitude": "26.8948",
-            "Depth": "7.5",
-            "ML": "2.0",
-            "Location": "KABAKUM DIKILI IZMIR"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "13:42:35",
-            "Latitude": "39.0573",
-            "Longitude": "27.5058",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "KALEMKOY KINIK IZMIR"
         }
     ]
 }
