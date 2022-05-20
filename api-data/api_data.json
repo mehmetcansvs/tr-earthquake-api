@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.20",
+            "Time": "17:31:12",
+            "Latitude": "37.8923",
+            "Longitude": "30.9455",
+            "Depth": "6.4",
+            "ML": "2.4",
+            "Location": "SORKUNCAK EGIRDIR ISPARTA"
+        },
+        {
+            "Date": "2022.05.20",
             "Time": "15:36:10",
             "Latitude": "36.9743",
             "Longitude": "27.6572",
@@ -4436,15 +4445,6 @@
             "Depth": "5.0",
             "ML": "2.1",
             "Location": "YEDIYOL PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "06:45:33",
-            "Latitude": "35.8942",
-            "Longitude": "28.6760",
-            "Depth": "8.1",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
         }
     ]
 }
