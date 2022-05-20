@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.20",
+            "Time": "02:15:14",
+            "Latitude": "37.9178",
+            "Longitude": "26.9107",
+            "Depth": "7.5",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "01:41:14",
+            "Latitude": "35.1613",
+            "Longitude": "23.2172",
+            "Depth": "5.4",
+            "ML": "3.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "01:31:51",
+            "Latitude": "38.8932",
+            "Longitude": "26.1812",
+            "Depth": "2.7",
+            "ML": "2.1",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "01:00:27",
+            "Latitude": "38.1150",
+            "Longitude": "25.9032",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "SAKIZ ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.20",
             "Time": "00:27:17",
             "Latitude": "37.7798",
             "Longitude": "30.0472",
@@ -4418,42 +4454,6 @@
             "Depth": "15.7",
             "ML": "1.9",
             "Location": "SEBILLER DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "11:24:30",
-            "Latitude": "38.4738",
-            "Longitude": "25.5402",
-            "Depth": "15.4",
-            "ML": "2.2",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "09:55:19",
-            "Latitude": "36.4663",
-            "Longitude": "27.8873",
-            "Depth": "8.8",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "08:22:01",
-            "Latitude": "39.0643",
-            "Longitude": "29.6603",
-            "Depth": "14.8",
-            "ML": "1.4",
-            "Location": "YAGMURLAR GEDIZ KUTAHYA"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "08:12:51",
-            "Latitude": "37.0425",
-            "Longitude": "28.3610",
-            "Depth": "10.8",
-            "ML": "1.2",
-            "Location": "GOKOVA ULA MUGLA"
         }
     ]
 }
