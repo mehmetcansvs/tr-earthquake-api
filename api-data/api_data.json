@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.20",
+            "Time": "12:00:27",
+            "Latitude": "39.0600",
+            "Longitude": "29.7052",
+            "Depth": "4.8",
+            "ML": "2.5",
+            "Location": "CAMDIBI ASLANAPA KUTAHYA"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "11:38:57",
+            "Latitude": "39.0640",
+            "Longitude": "29.7032",
+            "Depth": "2.6",
+            "ML": "2.2",
+            "Location": "CAMDIBI ASLANAPA KUTAHYA"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "11:32:23",
+            "Latitude": "40.7153",
+            "Longitude": "32.3768",
+            "Depth": "11.9",
+            "ML": "1.9",
+            "Location": "KULEF GEREDE BOLU"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "11:22:29",
+            "Latitude": "38.8782",
+            "Longitude": "26.1897",
+            "Depth": "3.6",
+            "ML": "2.0",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "11:19:10",
+            "Latitude": "38.4185",
+            "Longitude": "39.1658",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "KAVAKKOY SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.05.20",
             "Time": "08:52:51",
             "Latitude": "39.1003",
             "Longitude": "27.5880",
@@ -4409,51 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "MAZIKOY BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "22:21:34",
-            "Latitude": "39.4965",
-            "Longitude": "32.3397",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "KARAYAVSAN POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "22:16:54",
-            "Latitude": "37.2998",
-            "Longitude": "28.1378",
-            "Depth": "8.3",
-            "ML": "1.9",
-            "Location": "BOZUYUK YATAGAN MUGLA"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "22:16:05",
-            "Latitude": "37.2903",
-            "Longitude": "28.1362",
-            "Depth": "7.8",
-            "ML": "2.5",
-            "Location": "BOZUYUK YATAGAN MUGLA"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "22:08:32",
-            "Latitude": "37.3093",
-            "Longitude": "28.1758",
-            "Depth": "14.3",
-            "ML": "1.6",
-            "Location": "BOZARMUT YATAGAN MUGLA"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "20:29:16",
-            "Latitude": "39.3132",
-            "Longitude": "27.8863",
-            "Depth": "8.8",
-            "ML": "2.5",
-            "Location": "FIRDANLAR KIRKAGAC MANISA"
         }
     ]
 }
