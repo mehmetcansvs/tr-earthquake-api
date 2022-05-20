@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.20",
+            "Time": "15:01:35",
+            "Latitude": "39.9070",
+            "Longitude": "30.3760",
+            "Depth": "14.2",
+            "ML": "1.7",
+            "Location": "KARACOBANPINARI TEPEBASI ESKISEHIR"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "13:45:10",
+            "Latitude": "36.3603",
+            "Longitude": "36.6675",
+            "Depth": "6.1",
+            "ML": "2.2",
+            "Location": "BUKULMEZ REYHANLI HATAY"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "13:04:02",
+            "Latitude": "40.6180",
+            "Longitude": "33.4003",
+            "Depth": "12.9",
+            "ML": "2.4",
+            "Location": "MARUF KORGUN CANKIRI"
+        },
+        {
+            "Date": "2022.05.20",
             "Time": "12:00:27",
             "Latitude": "39.0600",
             "Longitude": "29.7052",
@@ -1888,6 +1915,15 @@
             "Longitude": "26.3493",
             "Depth": "11.2",
             "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.15",
+            "Time": "03:28:56",
+            "Latitude": "35.6087",
+            "Longitude": "26.3360",
+            "Depth": "6.7",
+            "ML": "2.6",
             "Location": "AKDENIZ"
         },
         {
@@ -4418,42 +4454,6 @@
             "Depth": "13.0",
             "ML": "1.6",
             "Location": "KIZILDERE BUHARKENT AYDIN"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "03:41:52",
-            "Latitude": "40.7645",
-            "Longitude": "30.2520",
-            "Depth": "11.5",
-            "ML": "1.6",
-            "Location": "YUKARIDEREKOY SERDIVAN SAKARYA"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "03:40:49",
-            "Latitude": "37.8197",
-            "Longitude": "27.6178",
-            "Depth": "21.6",
-            "ML": "1.4",
-            "Location": "TURANLAR GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "01:39:59",
-            "Latitude": "36.3768",
-            "Longitude": "28.6112",
-            "Depth": "54.9",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "23:14:21",
-            "Latitude": "37.0142",
-            "Longitude": "27.6727",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "MAZIKOY BODRUM MUGLA"
         }
     ]
 }
