@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.20",
+            "Time": "08:29:08",
+            "Latitude": "39.0613",
+            "Longitude": "39.3275",
+            "Depth": "5.4",
+            "ML": "3.3",
+            "Location": "CIGIRLI HOZAT TUNCELI"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "07:21:28",
+            "Latitude": "38.9042",
+            "Longitude": "26.1830",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.20",
             "Time": "07:05:07",
             "Latitude": "38.8962",
             "Longitude": "26.1802",
@@ -4436,24 +4454,6 @@
             "Depth": "4.4",
             "ML": "3.7",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "16:22:30",
-            "Latitude": "35.2013",
-            "Longitude": "25.3243",
-            "Depth": "2.7",
-            "ML": "4.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.08",
-            "Time": "15:24:48",
-            "Latitude": "37.0400",
-            "Longitude": "30.4087",
-            "Depth": "1.4",
-            "ML": "2.0",
-            "Location": "SOGUTCUK KORKUTELI ANTALYA"
         }
     ]
 }
