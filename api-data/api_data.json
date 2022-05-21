@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.21",
+            "Time": "18:55:36",
+            "Latitude": "36.3060",
+            "Longitude": "27.1428",
+            "Depth": "9.2",
+            "ML": "2.3",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.21",
+            "Time": "18:03:01",
+            "Latitude": "36.9018",
+            "Longitude": "28.2997",
+            "Depth": "17.2",
+            "ML": "1.8",
+            "Location": "BELDIBI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.05.21",
+            "Time": "17:25:24",
+            "Latitude": "36.9050",
+            "Longitude": "28.2835",
+            "Depth": "12.0",
+            "ML": "2.3",
+            "Location": "BELDIBI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.05.21",
             "Time": "15:24:33",
             "Latitude": "40.2522",
             "Longitude": "31.7062",
@@ -4427,33 +4454,6 @@
             "Depth": "10.0",
             "ML": "1.8",
             "Location": "BAYRAMIC GONEN BALIKESIR"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "08:08:19",
-            "Latitude": "37.1007",
-            "Longitude": "30.5793",
-            "Depth": "7.9",
-            "ML": "1.9",
-            "Location": "BIYIKLI DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "07:57:11",
-            "Latitude": "38.5818",
-            "Longitude": "39.4988",
-            "Depth": "14.0",
-            "ML": "2.6",
-            "Location": "KORUCU ELAZIG"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "06:45:25",
-            "Latitude": "34.7100",
-            "Longitude": "27.1765",
-            "Depth": "18.3",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
