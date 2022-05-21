@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.05.22",
+            "Time": "00:49:11",
+            "Latitude": "38.7615",
+            "Longitude": "42.2038",
+            "Depth": "5.3",
+            "ML": "2.4",
+            "Location": "GUZELSU AHLAT BITLIS"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "00:18:55",
+            "Latitude": "38.9352",
+            "Longitude": "26.3145",
+            "Depth": "8.8",
+            "ML": "2.0",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.21",
+            "Time": "23:58:21",
+            "Latitude": "40.8162",
+            "Longitude": "31.5148",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
             "Date": "2022.05.21",
             "Time": "19:36:47",
             "Latitude": "38.6543",
@@ -4427,33 +4454,6 @@
             "Depth": "8.3",
             "ML": "2.4",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "11:09:43",
-            "Latitude": "39.0488",
-            "Longitude": "37.3783",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "SEKERPINAR KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "09:16:04",
-            "Latitude": "38.8122",
-            "Longitude": "31.5380",
-            "Depth": "6.6",
-            "ML": "1.6",
-            "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "09:07:38",
-            "Latitude": "37.1410",
-            "Longitude": "26.6765",
-            "Depth": "19.2",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
