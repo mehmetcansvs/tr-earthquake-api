@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.21",
+            "Time": "06:44:51",
+            "Latitude": "36.4057",
+            "Longitude": "27.1163",
+            "Depth": "2.3",
+            "ML": "1.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.21",
+            "Time": "06:04:46",
+            "Latitude": "36.4373",
+            "Longitude": "27.0247",
+            "Depth": "119.0",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.21",
+            "Time": "06:00:51",
+            "Latitude": "35.4128",
+            "Longitude": "24.5198",
+            "Depth": "27.4",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.21",
+            "Time": "05:39:55",
+            "Latitude": "37.0612",
+            "Longitude": "28.3818",
+            "Depth": "8.0",
+            "ML": "2.5",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.21",
             "Time": "05:26:50",
             "Latitude": "37.0103",
             "Longitude": "28.3265",
@@ -29,6 +65,15 @@
         },
         {
             "Date": "2022.05.21",
+            "Time": "04:55:10",
+            "Latitude": "40.8787",
+            "Longitude": "31.7073",
+            "Depth": "5.3",
+            "ML": "1.3",
+            "Location": "MESCICELE BOLU"
+        },
+        {
+            "Date": "2022.05.21",
             "Time": "04:53:59",
             "Latitude": "37.8198",
             "Longitude": "26.4908",
@@ -53,6 +98,15 @@
             "Depth": "5.0",
             "ML": "3.0",
             "Location": "SUCEKEN BATMAN"
+        },
+        {
+            "Date": "2022.05.21",
+            "Time": "02:17:38",
+            "Latitude": "37.6952",
+            "Longitude": "27.0167",
+            "Depth": "17.1",
+            "ML": "1.2",
+            "Location": "MILLI PARK KUSADASI AYDIN"
         },
         {
             "Date": "2022.05.21",
@@ -4400,60 +4454,6 @@
             "Depth": "1.2",
             "ML": "2.0",
             "Location": "KIYRA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "23:38:41",
-            "Latitude": "35.0508",
-            "Longitude": "25.0448",
-            "Depth": "7.7",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "23:27:37",
-            "Latitude": "39.5470",
-            "Longitude": "26.1690",
-            "Depth": "6.5",
-            "ML": "1.8",
-            "Location": "TASAGIL AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "23:00:49",
-            "Latitude": "37.4138",
-            "Longitude": "35.0538",
-            "Depth": "12.1",
-            "ML": "2.2",
-            "Location": "CEVLIK KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "22:47:38",
-            "Latitude": "37.1173",
-            "Longitude": "28.3132",
-            "Depth": "20.1",
-            "ML": "1.1",
-            "Location": "YENICE MUGLA"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "22:16:57",
-            "Latitude": "35.3068",
-            "Longitude": "25.8202",
-            "Depth": "8.6",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "22:13:36",
-            "Latitude": "37.4247",
-            "Longitude": "27.2415",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "YALIKOY DIDIM AYDIN"
         }
     ]
 }
