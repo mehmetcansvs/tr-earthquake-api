@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.05.21",
+            "Time": "03:43:21",
+            "Latitude": "40.3497",
+            "Longitude": "27.9803",
+            "Depth": "5.2",
+            "ML": "1.9",
+            "Location": "BANDIRMA BALIKESIR"
+        },
+        {
+            "Date": "2022.05.21",
+            "Time": "03:30:07",
+            "Latitude": "37.7482",
+            "Longitude": "41.3295",
+            "Depth": "5.0",
+            "ML": "3.0",
+            "Location": "SUCEKEN BATMAN"
+        },
+        {
             "Date": "2022.05.20",
             "Time": "23:41:23",
             "Latitude": "39.0925",
@@ -4435,16 +4453,7 @@
             "Longitude": "33.6552",
             "Depth": "11.4",
             "ML": "1.5",
-            "Location": "YESILOVACIK ACIKLARI MERSIN AKDENIZ REVIZE AKDENIZ"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "15:28:43",
-            "Latitude": "36.1830",
-            "Longitude": "25.2443",
-            "Depth": "10.5",
-            "ML": "3.3",
-            "Location": "AKDENIZ"
+            "Location": "YESILOVACIK ACIKLARI MERSIN AKDENIZ REVIZE"
         }
     ]
 }
