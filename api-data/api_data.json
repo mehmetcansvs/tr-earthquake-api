@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.21",
+            "Time": "09:41:02",
+            "Latitude": "39.9517",
+            "Longitude": "28.7818",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "OMERALTI MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.05.21",
+            "Time": "08:51:21",
+            "Latitude": "37.6538",
+            "Longitude": "29.6422",
+            "Depth": "5.0",
+            "ML": "1.0",
+            "Location": "HAYRIYE CARDAK DENIZLI"
+        },
+        {
+            "Date": "2022.05.21",
             "Time": "06:44:51",
             "Latitude": "36.4057",
             "Longitude": "27.1163",
@@ -4436,24 +4454,6 @@
             "Depth": "5.4",
             "ML": "2.3",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "01:01:49",
-            "Latitude": "37.1938",
-            "Longitude": "32.9498",
-            "Depth": "9.0",
-            "ML": "2.5",
-            "Location": "KAZIMKARABEKIR KARAMAN"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "00:04:35",
-            "Latitude": "38.2577",
-            "Longitude": "38.6182",
-            "Depth": "7.2",
-            "ML": "2.3",
-            "Location": "PELITLI MALATYA"
         }
     ]
 }
