@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.21",
+            "Time": "15:24:33",
+            "Latitude": "40.2522",
+            "Longitude": "31.7062",
+            "Depth": "13.9",
+            "ML": "1.6",
+            "Location": "DUDAS BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.05.21",
+            "Time": "14:57:00",
+            "Latitude": "38.1438",
+            "Longitude": "38.5723",
+            "Depth": "4.4",
+            "ML": "1.6",
+            "Location": "ARIKONAK SINCIK ADIYAMAN"
+        },
+        {
+            "Date": "2022.05.21",
             "Time": "14:10:05",
             "Latitude": "34.7757",
             "Longitude": "24.7948",
@@ -26,6 +44,15 @@
             "Depth": "9.4",
             "ML": "2.2",
             "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.21",
+            "Time": "13:04:14",
+            "Latitude": "37.3863",
+            "Longitude": "35.2748",
+            "Depth": "5.3",
+            "ML": "1.6",
+            "Location": "FILIKLI KARAISALI ADANA"
         },
         {
             "Date": "2022.05.21",
@@ -4427,33 +4454,6 @@
             "Depth": "18.3",
             "ML": "2.7",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "05:37:22",
-            "Latitude": "35.1092",
-            "Longitude": "25.3452",
-            "Depth": "6.9",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "05:01:05",
-            "Latitude": "36.7890",
-            "Longitude": "36.1052",
-            "Depth": "17.6",
-            "ML": "1.0",
-            "Location": "YESILKOY DORTYOL HATAY"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "04:51:18",
-            "Latitude": "36.9347",
-            "Longitude": "27.6140",
-            "Depth": "9.8",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
