@@ -11,6 +11,15 @@
         },
         {
             "Date": "2022.05.21",
+            "Time": "06:37:17",
+            "Latitude": "34.8327",
+            "Longitude": "24.8040",
+            "Depth": "19.9",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.21",
             "Time": "06:04:46",
             "Latitude": "36.4373",
             "Longitude": "27.0247",
@@ -4445,15 +4454,6 @@
             "Depth": "7.2",
             "ML": "2.3",
             "Location": "PELITLI MALATYA"
-        },
-        {
-            "Date": "2022.05.09",
-            "Time": "23:57:48",
-            "Latitude": "37.0987",
-            "Longitude": "28.5717",
-            "Depth": "1.2",
-            "ML": "2.0",
-            "Location": "KIYRA ULA MUGLA"
         }
     ]
 }
