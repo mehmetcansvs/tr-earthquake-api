@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.22",
+            "Time": "22:54:27",
+            "Latitude": "37.7843",
+            "Longitude": "27.3533",
+            "Depth": "11.9",
+            "ML": "1.9",
+            "Location": "YAYLAKOY KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "21:19:28",
+            "Latitude": "40.7780",
+            "Longitude": "30.9983",
+            "Depth": "9.0",
+            "ML": "2.3",
+            "Location": "GOLYAKA DUZCE"
+        },
+        {
+            "Date": "2022.05.22",
             "Time": "21:00:57",
             "Latitude": "40.4850",
             "Longitude": "27.5487",
@@ -4435,24 +4453,6 @@
             "Longitude": "27.1487",
             "Depth": "5.5",
             "ML": "2.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "01:43:45",
-            "Latitude": "37.9243",
-            "Longitude": "27.1463",
-            "Depth": "4.1",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "01:41:06",
-            "Latitude": "37.9357",
-            "Longitude": "27.1618",
-            "Depth": "8.6",
-            "ML": "1.6",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
