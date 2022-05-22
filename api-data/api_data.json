@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.22",
+            "Time": "21:00:57",
+            "Latitude": "40.4850",
+            "Longitude": "27.5487",
+            "Depth": "18.3",
+            "ML": "1.8",
+            "Location": "HARMANLI ERDEK BALIKESIR"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "20:41:50",
+            "Latitude": "38.9755",
+            "Longitude": "26.0005",
+            "Depth": "14.2",
+            "ML": "2.2",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "19:30:04",
+            "Latitude": "39.5282",
+            "Longitude": "25.9108",
+            "Depth": "13.3",
+            "ML": "1.3",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "19:25:26",
+            "Latitude": "39.3925",
+            "Longitude": "25.9305",
+            "Depth": "17.1",
+            "ML": "1.4",
+            "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "19:01:15",
+            "Latitude": "37.2475",
+            "Longitude": "29.2878",
+            "Depth": "15.9",
+            "ML": "1.7",
+            "Location": "KELEKCI ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.05.22",
             "Time": "17:25:37",
             "Latitude": "39.5248",
             "Longitude": "25.9227",
@@ -4408,51 +4453,6 @@
             "Longitude": "27.1618",
             "Depth": "8.6",
             "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "01:37:09",
-            "Latitude": "37.8968",
-            "Longitude": "27.1155",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "01:36:46",
-            "Latitude": "37.9253",
-            "Longitude": "27.1393",
-            "Depth": "4.0",
-            "ML": "2.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "01:36:23",
-            "Latitude": "37.9353",
-            "Longitude": "27.2448",
-            "Depth": "21.2",
-            "ML": "2.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "01:30:06",
-            "Latitude": "38.5638",
-            "Longitude": "43.1323",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "01:11:17",
-            "Latitude": "37.9337",
-            "Longitude": "27.1598",
-            "Depth": "5.5",
-            "ML": "2.6",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
