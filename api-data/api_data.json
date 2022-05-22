@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.05.22",
+            "Time": "10:52:51",
+            "Latitude": "40.0317",
+            "Longitude": "27.0395",
+            "Depth": "3.6",
+            "ML": "1.0",
+            "Location": "CAN CANAKKALE"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "10:51:29",
+            "Latitude": "40.7090",
+            "Longitude": "30.3248",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "UZUNKUM SAPANCA SAKARYA"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "10:36:46",
+            "Latitude": "38.9148",
+            "Longitude": "43.5487",
+            "Depth": "20.5",
+            "ML": "2.2",
+            "Location": "COLPAN VAN"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "10:22:35",
+            "Latitude": "34.0917",
+            "Longitude": "25.8060",
+            "Depth": "15.1",
+            "ML": "3.7",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "10:12:48",
+            "Latitude": "40.5765",
+            "Longitude": "27.7413",
+            "Depth": "11.8",
+            "ML": "1.5",
+            "Location": "ASMALI MARMARA BALIKESIR"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "09:43:28",
+            "Latitude": "38.9553",
+            "Longitude": "26.2990",
+            "Depth": "10.3",
+            "ML": "1.7",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.22",
             "Time": "08:45:34",
             "Latitude": "39.0438",
             "Longitude": "37.3503",
@@ -4400,60 +4454,6 @@
             "Depth": "9.8",
             "ML": "1.9",
             "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "18:58:10",
-            "Latitude": "39.4498",
-            "Longitude": "31.5647",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "18:28:57",
-            "Latitude": "37.0128",
-            "Longitude": "27.7240",
-            "Depth": "3.8",
-            "ML": "2.0",
-            "Location": "MAZIKOY BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "18:00:57",
-            "Latitude": "35.7945",
-            "Longitude": "31.0612",
-            "Depth": "14.6",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "17:37:18",
-            "Latitude": "34.6853",
-            "Longitude": "25.0290",
-            "Depth": "16.0",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "17:13:31",
-            "Latitude": "34.8408",
-            "Longitude": "32.0158",
-            "Depth": "47.3",
-            "ML": "2.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "16:28:28",
-            "Latitude": "38.1258",
-            "Longitude": "30.3350",
-            "Depth": "8.2",
-            "ML": "2.0",
-            "Location": "KARABEDIR DINAR AFYONKARAHISAR"
         }
     ]
 }
