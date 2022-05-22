@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.05.22",
+            "Time": "05:58:49",
+            "Latitude": "39.9677",
+            "Longitude": "23.4532",
+            "Depth": "12.3",
+            "ML": "1.6",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "05:44:57",
+            "Latitude": "37.8390",
+            "Longitude": "29.2368",
+            "Depth": "12.8",
+            "ML": "1.3",
+            "Location": "KOCADERE DENIZLI"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "05:30:46",
+            "Latitude": "40.4285",
+            "Longitude": "30.0985",
+            "Depth": "8.0",
+            "ML": "1.1",
+            "Location": "BAYAT GEYVE SAKARYA"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "05:28:01",
+            "Latitude": "40.4242",
+            "Longitude": "30.1108",
+            "Depth": "3.3",
+            "ML": "1.7",
+            "Location": "TASOLUK GEYVE SAKARYA"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "04:31:44",
+            "Latitude": "34.9765",
+            "Longitude": "33.8373",
+            "Depth": "50.8",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "04:18:24",
+            "Latitude": "39.6747",
+            "Longitude": "26.3533",
+            "Depth": "12.2",
+            "ML": "1.7",
+            "Location": "CAKMAKLAR AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.05.22",
             "Time": "04:04:00",
             "Latitude": "37.0675",
             "Longitude": "28.3543",
@@ -4400,60 +4454,6 @@
             "Depth": "3.9",
             "ML": "1.8",
             "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "15:58:01",
-            "Latitude": "38.5665",
-            "Longitude": "25.7307",
-            "Depth": "6.0",
-            "ML": "2.4",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "14:57:05",
-            "Latitude": "40.6140",
-            "Longitude": "28.9378",
-            "Depth": "9.0",
-            "ML": "2.4",
-            "Location": "ESENKOY CINARCIK YALOVA"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "14:32:53",
-            "Latitude": "39.6443",
-            "Longitude": "28.0863",
-            "Depth": "12.4",
-            "ML": "1.7",
-            "Location": "HOTASLAR KEPSUT BALIKESIR"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "14:15:34",
-            "Latitude": "38.1245",
-            "Longitude": "30.3657",
-            "Depth": "7.7",
-            "ML": "2.2",
-            "Location": "INHISAR ULUBORLU ISPARTA"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "14:09:08",
-            "Latitude": "36.9512",
-            "Longitude": "27.6647",
-            "Depth": "7.8",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "13:33:20",
-            "Latitude": "37.1610",
-            "Longitude": "37.2407",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "BOYNO SEHITKAMIL GAZIANTEP"
         }
     ]
 }
