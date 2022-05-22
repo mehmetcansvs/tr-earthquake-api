@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.22",
+            "Time": "14:06:29",
+            "Latitude": "38.1925",
+            "Longitude": "30.8213",
+            "Depth": "13.3",
+            "ML": "1.4",
+            "Location": "GENCALI SENIRKENT ISPARTA"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "13:54:16",
+            "Latitude": "37.4555",
+            "Longitude": "26.4342",
+            "Depth": "9.3",
+            "ML": "1.5",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "13:52:29",
+            "Latitude": "39.8190",
+            "Longitude": "30.5362",
+            "Depth": "3.4",
+            "ML": "2.7",
+            "Location": "TEPEBASI ESKISEHIR"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "13:16:13",
+            "Latitude": "37.2215",
+            "Longitude": "32.9302",
+            "Depth": "10.0",
+            "ML": "1.6",
+            "Location": "KAZIMKARABEKIR KARAMAN"
+        },
+        {
+            "Date": "2022.05.22",
             "Time": "13:02:49",
             "Latitude": "42.5440",
             "Longitude": "43.4053",
@@ -4418,42 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.2",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "22:44:28",
-            "Latitude": "37.0177",
-            "Longitude": "27.6998",
-            "Depth": "7.7",
-            "ML": "2.3",
-            "Location": "MAZIKOY BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "22:35:09",
-            "Latitude": "38.5823",
-            "Longitude": "25.7815",
-            "Depth": "8.8",
-            "ML": "2.0",
-            "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "22:23:57",
-            "Latitude": "38.6753",
-            "Longitude": "31.1193",
-            "Depth": "7.4",
-            "ML": "1.4",
-            "Location": "DIPEVLER BOLVADIN AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "21:44:48",
-            "Latitude": "37.8477",
-            "Longitude": "37.4592",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "DUZBAG CAGLAYANCERIT KAHRAMANMARAS"
         }
     ]
 }
