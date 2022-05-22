@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.22",
+            "Time": "17:25:37",
+            "Latitude": "39.5248",
+            "Longitude": "25.9227",
+            "Depth": "7.3",
+            "ML": "1.4",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "17:18:21",
+            "Latitude": "39.5193",
+            "Longitude": "25.9587",
+            "Depth": "11.9",
+            "ML": "1.2",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.22",
             "Time": "16:52:21",
             "Latitude": "36.9750",
             "Longitude": "28.2528",
@@ -4436,24 +4454,6 @@
             "Depth": "5.5",
             "ML": "2.6",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "01:04:13",
-            "Latitude": "38.4160",
-            "Longitude": "39.1083",
-            "Depth": "3.4",
-            "ML": "2.0",
-            "Location": "KAMISLIK SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "00:50:42",
-            "Latitude": "34.8213",
-            "Longitude": "24.2075",
-            "Depth": "24.9",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
