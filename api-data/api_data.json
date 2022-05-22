@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.05.22",
+            "Time": "04:04:00",
+            "Latitude": "37.0675",
+            "Longitude": "28.3543",
+            "Depth": "6.0",
+            "ML": "1.6",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "03:48:17",
+            "Latitude": "37.0718",
+            "Longitude": "28.3815",
+            "Depth": "6.5",
+            "ML": "2.1",
+            "Location": "KIZILAGAC ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "02:59:39",
+            "Latitude": "38.1235",
+            "Longitude": "27.4287",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "TULUM TORBALI IZMIR"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "02:14:06",
+            "Latitude": "36.7458",
+            "Longitude": "27.8200",
+            "Depth": "8.1",
+            "ML": "1.7",
+            "Location": "EMECIK DATCA MUGLA"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "01:25:38",
+            "Latitude": "40.6750",
+            "Longitude": "31.5090",
+            "Depth": "12.3",
+            "ML": "1.5",
+            "Location": "CEPNI BOLU"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "01:21:42",
+            "Latitude": "38.6668",
+            "Longitude": "24.6542",
+            "Depth": "11.1",
+            "ML": "2.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.22",
             "Time": "00:49:11",
             "Latitude": "38.7615",
             "Longitude": "42.2038",
@@ -4400,60 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.8",
             "Location": "BOYNO SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "13:30:51",
-            "Latitude": "36.1827",
-            "Longitude": "36.6800",
-            "Depth": "11.3",
-            "ML": "1.9",
-            "Location": "CILVEGOZU REYHANLI HATAY"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "13:25:16",
-            "Latitude": "36.1382",
-            "Longitude": "33.5180",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "13:21:28",
-            "Latitude": "40.0267",
-            "Longitude": "32.9407",
-            "Depth": "29.2",
-            "ML": "1.5",
-            "Location": "PURSAKLAR ANKARA"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "13:04:47",
-            "Latitude": "36.2683",
-            "Longitude": "33.7453",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "AKDERE SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "11:57:01",
-            "Latitude": "38.1500",
-            "Longitude": "25.9635",
-            "Depth": "19.6",
-            "ML": "2.0",
-            "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "11:50:58",
-            "Latitude": "35.5577",
-            "Longitude": "26.0480",
-            "Depth": "8.3",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
