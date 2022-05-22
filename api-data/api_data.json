@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.22",
+            "Time": "13:02:49",
+            "Latitude": "42.5440",
+            "Longitude": "43.4053",
+            "Depth": "7.3",
+            "ML": "2.7",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "12:47:34",
+            "Latitude": "37.3248",
+            "Longitude": "30.5162",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "UGURLU BUCAK BURDUR"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "12:45:40",
+            "Latitude": "38.1910",
+            "Longitude": "30.9203",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "AKDAG GELENDOST ISPARTA"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "12:38:43",
+            "Latitude": "41.1245",
+            "Longitude": "28.9713",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "KAGITHANE ISTANBUL"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "12:28:44",
+            "Latitude": "39.1493",
+            "Longitude": "27.6578",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "OGECLI KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.05.22",
             "Time": "10:52:51",
             "Latitude": "40.0317",
             "Longitude": "27.0395",
@@ -4409,51 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.6",
             "Location": "DUZBAG CAGLAYANCERIT KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "20:47:21",
-            "Latitude": "37.0213",
-            "Longitude": "28.4403",
-            "Depth": "24.0",
-            "ML": "1.1",
-            "Location": "KIZILYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "20:43:34",
-            "Latitude": "37.8430",
-            "Longitude": "37.4505",
-            "Depth": "6.8",
-            "ML": "2.8",
-            "Location": "DUZBAG CAGLAYANCERIT KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "20:36:55",
-            "Latitude": "36.9848",
-            "Longitude": "27.6542",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "20:04:46",
-            "Latitude": "36.3628",
-            "Longitude": "29.4710",
-            "Depth": "26.3",
-            "ML": "1.5",
-            "Location": "IKIZCE KAS ANTALYA"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "19:56:37",
-            "Latitude": "36.9878",
-            "Longitude": "28.4415",
-            "Depth": "9.8",
-            "ML": "1.9",
-            "Location": "YESILCAM ULA MUGLA"
         }
     ]
 }
