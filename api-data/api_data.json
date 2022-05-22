@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.22",
+            "Time": "16:52:21",
+            "Latitude": "36.9750",
+            "Longitude": "28.2528",
+            "Depth": "8.0",
+            "ML": "1.6",
+            "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "16:18:01",
+            "Latitude": "36.9830",
+            "Longitude": "27.3733",
+            "Depth": "9.7",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "15:41:02",
+            "Latitude": "36.1687",
+            "Longitude": "27.4628",
+            "Depth": "13.4",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.22",
             "Time": "14:06:29",
             "Latitude": "38.1925",
             "Longitude": "30.8213",
@@ -4426,33 +4453,6 @@
             "Longitude": "24.2075",
             "Depth": "24.9",
             "ML": "2.1",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "00:22:07",
-            "Latitude": "37.0578",
-            "Longitude": "28.3778",
-            "Depth": "12.6",
-            "ML": "1.1",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "23:38:34",
-            "Latitude": "38.1730",
-            "Longitude": "27.4548",
-            "Depth": "6.9",
-            "ML": "1.4",
-            "Location": "TASKESIK TORBALI IZMIR"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "23:05:59",
-            "Latitude": "34.5518",
-            "Longitude": "24.3823",
-            "Depth": "5.0",
-            "ML": "2.2",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
