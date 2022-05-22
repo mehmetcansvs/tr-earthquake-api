@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.22",
+            "Time": "08:45:34",
+            "Latitude": "39.0438",
+            "Longitude": "37.3503",
+            "Depth": "0.0",
+            "ML": "2.1",
+            "Location": "SEKERPINAR KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "08:04:33",
+            "Latitude": "35.8858",
+            "Longitude": "30.3835",
+            "Depth": "7.9",
+            "ML": "2.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.22",
+            "Time": "07:05:12",
+            "Latitude": "37.1807",
+            "Longitude": "29.5348",
+            "Depth": "8.7",
+            "ML": "1.7",
+            "Location": "YUSUFCA GOLHISAR BURDUR"
+        },
+        {
+            "Date": "2022.05.22",
             "Time": "05:58:49",
             "Latitude": "39.9677",
             "Longitude": "23.4532",
@@ -4427,33 +4454,6 @@
             "Depth": "8.2",
             "ML": "2.0",
             "Location": "KARABEDIR DINAR AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "16:20:05",
-            "Latitude": "36.1010",
-            "Longitude": "33.5418",
-            "Depth": "1.4",
-            "ML": "1.5",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "16:03:37",
-            "Latitude": "40.7485",
-            "Longitude": "31.6107",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "BOLU BOLU"
-        },
-        {
-            "Date": "2022.05.10",
-            "Time": "15:58:23",
-            "Latitude": "38.5475",
-            "Longitude": "25.8110",
-            "Depth": "3.9",
-            "ML": "1.8",
-            "Location": "SAKIZ ADASI EGE DENIZI"
         }
     ]
 }
