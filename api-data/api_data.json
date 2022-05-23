@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.23",
+            "Time": "19:46:43",
+            "Latitude": "39.8587",
+            "Longitude": "41.8198",
+            "Depth": "13.0",
+            "ML": "1.9",
+            "Location": "MARIFET KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.05.23",
             "Time": "17:08:28",
             "Latitude": "40.5858",
             "Longitude": "28.8942",
@@ -4436,15 +4445,6 @@
             "Depth": "12.1",
             "ML": "1.7",
             "Location": "BALLIKAYA KARACABEY BURSA"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "17:25:23",
-            "Latitude": "40.9298",
-            "Longitude": "31.6747",
-            "Depth": "4.5",
-            "ML": "2.0",
-            "Location": "YAYLATEPE YIGILCA DUZCE"
         }
     ]
 }
