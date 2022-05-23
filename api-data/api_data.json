@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.05.24",
+            "Time": "00:35:26",
+            "Latitude": "39.2598",
+            "Longitude": "33.0727",
+            "Depth": "2.5",
+            "ML": "1.6",
+            "Location": "KARAHAMZALI BALA ANKARA"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "23:13:34",
+            "Latitude": "37.8137",
+            "Longitude": "26.9005",
+            "Depth": "9.1",
+            "ML": "2.7",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
             "Date": "2022.05.23",
             "Time": "21:43:20",
             "Latitude": "34.9927",
@@ -4427,24 +4445,6 @@
             "Depth": "14.8",
             "ML": "2.2",
             "Location": "BOGAZICI FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "20:21:26",
-            "Latitude": "39.9770",
-            "Longitude": "33.3212",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "IRMAK YAHSIHAN KIRIKKALE"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "20:07:24",
-            "Latitude": "37.1075",
-            "Longitude": "28.4048",
-            "Depth": "9.3",
-            "ML": "2.0",
-            "Location": "ULA MUGLA"
         }
     ]
 }
