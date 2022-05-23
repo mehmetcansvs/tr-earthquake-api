@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.23",
+            "Time": "16:33:38",
+            "Latitude": "36.1993",
+            "Longitude": "25.3083",
+            "Depth": "14.8",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "16:21:00",
+            "Latitude": "36.5433",
+            "Longitude": "34.1447",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "KARAAHMETLI ERDEMLI MERSIN"
+        },
+        {
+            "Date": "2022.05.23",
             "Time": "15:21:39",
             "Latitude": "37.0467",
             "Longitude": "28.4055",
@@ -1136,6 +1154,15 @@
         },
         {
             "Date": "2022.05.20",
+            "Time": "11:46:52",
+            "Latitude": "39.0790",
+            "Longitude": "29.7377",
+            "Depth": "5.1",
+            "ML": "1.9",
+            "Location": "CAMDIBI ASLANAPA KUTAHYA"
+        },
+        {
+            "Date": "2022.05.20",
             "Time": "11:38:57",
             "Latitude": "39.0640",
             "Longitude": "29.7032",
@@ -1169,6 +1196,15 @@
             "Depth": "5.4",
             "ML": "2.0",
             "Location": "KAVAKKOY SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.05.20",
+            "Time": "11:17:20",
+            "Latitude": "37.6927",
+            "Longitude": "36.2913",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "OSMANCIK ANDIRIN KAHRAMANMARAS"
         },
         {
             "Date": "2022.05.20",
@@ -4409,42 +4445,6 @@
             "Depth": "5.5",
             "ML": "2.8",
             "Location": "DAGDIBI MUGLA"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "17:04:40",
-            "Latitude": "39.5368",
-            "Longitude": "28.4310",
-            "Depth": "7.7",
-            "ML": "1.7",
-            "Location": "GURLEYEN DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "16:46:45",
-            "Latitude": "40.6602",
-            "Longitude": "33.1253",
-            "Depth": "5.9",
-            "ML": "1.9",
-            "Location": "KIRSAKAL ORTA CANKIRI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "16:19:40",
-            "Latitude": "38.6025",
-            "Longitude": "25.8467",
-            "Depth": "12.3",
-            "ML": "2.0",
-            "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "16:17:06",
-            "Latitude": "38.5717",
-            "Longitude": "25.7268",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "EGE DENIZI"
         }
     ]
 }
