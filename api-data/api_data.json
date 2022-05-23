@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.23",
+            "Time": "21:43:20",
+            "Latitude": "34.9927",
+            "Longitude": "35.7907",
+            "Depth": "4.7",
+            "ML": "3.2",
+            "Location": "DOGU AKDENIZ"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "21:34:13",
+            "Latitude": "39.1607",
+            "Longitude": "29.0365",
+            "Depth": "7.2",
+            "ML": "3.2",
+            "Location": "KARACAOREN SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "21:03:00",
+            "Latitude": "37.5640",
+            "Longitude": "35.6470",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "AKARCA KOZAN ADANA"
+        },
+        {
+            "Date": "2022.05.23",
             "Time": "19:46:43",
             "Latitude": "39.8587",
             "Longitude": "41.8198",
@@ -4418,33 +4445,6 @@
             "Depth": "9.3",
             "ML": "2.0",
             "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "19:22:19",
-            "Latitude": "39.0055",
-            "Longitude": "27.8985",
-            "Depth": "7.5",
-            "ML": "1.7",
-            "Location": "YENICE AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "17:49:43",
-            "Latitude": "39.0880",
-            "Longitude": "37.3193",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "HAMAL KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "17:37:15",
-            "Latitude": "40.4042",
-            "Longitude": "28.5452",
-            "Depth": "12.1",
-            "ML": "1.7",
-            "Location": "BALLIKAYA KARACABEY BURSA"
         }
     ]
 }
