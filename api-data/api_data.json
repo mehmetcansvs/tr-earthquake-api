@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.05.23",
+            "Time": "12:02:24",
+            "Latitude": "36.7490",
+            "Longitude": "38.4110",
+            "Depth": "2.8",
+            "ML": "1.9",
+            "Location": "TURKIYE SURIYE SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "11:58:12",
+            "Latitude": "37.8473",
+            "Longitude": "29.4582",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "ALIKURT BOZKURT DENIZLI"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "11:50:54",
+            "Latitude": "38.6500",
+            "Longitude": "38.1598",
+            "Depth": "21.3",
+            "ML": "1.4",
+            "Location": "FETHIYE YAZIHAN MALATYA"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "11:42:51",
+            "Latitude": "34.6945",
+            "Longitude": "24.8243",
+            "Depth": "19.7",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "11:35:39",
+            "Latitude": "36.1340",
+            "Longitude": "27.5427",
+            "Depth": "17.2",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "11:22:42",
+            "Latitude": "36.1217",
+            "Longitude": "35.5282",
+            "Depth": "8.7",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "11:18:25",
+            "Latitude": "39.4648",
+            "Longitude": "33.4955",
+            "Depth": "4.6",
+            "ML": "1.6",
+            "Location": "CELEBI KIRIKKALE"
+        },
+        {
+            "Date": "2022.05.23",
             "Time": "10:24:11",
             "Latitude": "39.5548",
             "Longitude": "26.0400",
@@ -4382,69 +4445,6 @@
             "Depth": "13.2",
             "ML": "1.7",
             "Location": "YENIBAGLAR BOZKURT DENIZLI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "12:44:01",
-            "Latitude": "38.9123",
-            "Longitude": "28.0588",
-            "Depth": "3.3",
-            "ML": "1.8",
-            "Location": "GOCEK AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "12:41:38",
-            "Latitude": "38.7880",
-            "Longitude": "25.8865",
-            "Depth": "8.8",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "12:39:21",
-            "Latitude": "37.0692",
-            "Longitude": "26.9460",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "12:34:07",
-            "Latitude": "39.8272",
-            "Longitude": "26.2345",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "MECIDIYE EZINE CANAKKALE"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "11:49:21",
-            "Latitude": "38.7820",
-            "Longitude": "25.8422",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "11:46:35",
-            "Latitude": "40.4618",
-            "Longitude": "29.3148",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "ORNEKKOY ORHANGAZI BURSA"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "11:37:44",
-            "Latitude": "36.6300",
-            "Longitude": "36.2582",
-            "Depth": "4.9",
-            "ML": "1.6",
-            "Location": "BITISIK ISKENDERUN HATAY"
         }
     ]
 }
