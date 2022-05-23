@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.23",
+            "Time": "06:26:55",
+            "Latitude": "37.7358",
+            "Longitude": "37.3787",
+            "Depth": "5.7",
+            "ML": "2.0",
+            "Location": "KUCUKUNGUT CAGLAYANCERIT KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.05.23",
             "Time": "05:27:03",
             "Latitude": "36.4303",
             "Longitude": "27.0825",
@@ -4445,15 +4454,6 @@
             "Depth": "3.4",
             "ML": "1.8",
             "Location": "HACILAR CERKES CANKIRI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "05:00:25",
-            "Latitude": "37.0132",
-            "Longitude": "27.7098",
-            "Depth": "8.4",
-            "ML": "1.7",
-            "Location": "MAZIKOY BODRUM MUGLA"
         }
     ]
 }
