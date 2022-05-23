@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.23",
+            "Time": "05:27:03",
+            "Latitude": "36.4303",
+            "Longitude": "27.0825",
+            "Depth": "3.1",
+            "ML": "1.5",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "05:25:06",
+            "Latitude": "36.4553",
+            "Longitude": "27.1290",
+            "Depth": "6.0",
+            "ML": "1.6",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.23",
+            "Time": "05:14:17",
+            "Latitude": "37.7217",
+            "Longitude": "37.4067",
+            "Depth": "7.5",
+            "ML": "2.1",
+            "Location": "BOZLAR CAGLAYANCERIT KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.05.23",
             "Time": "03:08:33",
             "Latitude": "37.0685",
             "Longitude": "28.4010",
@@ -4427,33 +4454,6 @@
             "Depth": "8.4",
             "ML": "1.7",
             "Location": "MAZIKOY BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "04:32:11",
-            "Latitude": "37.8238",
-            "Longitude": "43.7818",
-            "Depth": "8.9",
-            "ML": "1.9",
-            "Location": "AYDEMIR BASKALE VAN"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "04:17:09",
-            "Latitude": "40.6893",
-            "Longitude": "32.9127",
-            "Depth": "1.7",
-            "ML": "1.3",
-            "Location": "ELDEN ORTA CANKIRI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "03:50:12",
-            "Latitude": "36.9547",
-            "Longitude": "27.6973",
-            "Depth": "6.6",
-            "ML": "1.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
