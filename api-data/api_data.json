@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.23",
+            "Time": "08:14:50",
+            "Latitude": "39.2382",
+            "Longitude": "41.1120",
+            "Depth": "5.2",
+            "ML": "2.0",
+            "Location": "YORGANCAYIR KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.05.23",
             "Time": "06:26:55",
             "Latitude": "37.7358",
             "Longitude": "37.3787",
@@ -4445,15 +4454,6 @@
             "Depth": "5.3",
             "ML": "1.0",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "05:16:57",
-            "Latitude": "40.7080",
-            "Longitude": "32.9838",
-            "Depth": "3.4",
-            "ML": "1.8",
-            "Location": "HACILAR CERKES CANKIRI"
         }
     ]
 }
