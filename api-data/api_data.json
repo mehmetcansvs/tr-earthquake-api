@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.23",
+            "Time": "17:08:28",
+            "Latitude": "40.5858",
+            "Longitude": "28.8942",
+            "Depth": "12.2",
+            "ML": "2.6",
+            "Location": "ESENKOY CINARCIK YALOVA"
+        },
+        {
+            "Date": "2022.05.23",
             "Time": "16:33:38",
             "Latitude": "36.1993",
             "Longitude": "25.3083",
@@ -4436,15 +4445,6 @@
             "Depth": "4.5",
             "ML": "2.0",
             "Location": "YAYLATEPE YIGILCA DUZCE"
-        },
-        {
-            "Date": "2022.05.11",
-            "Time": "17:24:52",
-            "Latitude": "37.1605",
-            "Longitude": "28.2667",
-            "Depth": "5.5",
-            "ML": "2.8",
-            "Location": "DAGDIBI MUGLA"
         }
     ]
 }
