@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.24",
+            "Time": "16:26:42",
+            "Latitude": "36.1210",
+            "Longitude": "33.5473",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "16:17:08",
+            "Latitude": "36.9443",
+            "Longitude": "28.2288",
+            "Depth": "15.2",
+            "ML": "1.9",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "15:56:27",
+            "Latitude": "36.1925",
+            "Longitude": "29.1217",
+            "Depth": "16.6",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "15:54:08",
+            "Latitude": "40.6827",
+            "Longitude": "26.5990",
+            "Depth": "1.0",
+            "ML": "0.8",
+            "Location": "GOKCETEPE KESAN EDIRNE"
+        },
+        {
+            "Date": "2022.05.24",
             "Time": "14:35:34",
             "Latitude": "39.6283",
             "Longitude": "29.4900",
@@ -4418,42 +4454,6 @@
             "Depth": "9.4",
             "ML": "2.0",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "10:46:04",
-            "Latitude": "35.8410",
-            "Longitude": "32.1845",
-            "Depth": "19.2",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "09:30:56",
-            "Latitude": "39.8800",
-            "Longitude": "27.5073",
-            "Depth": "4.9",
-            "ML": "1.7",
-            "Location": "DEREKOY BALYA BALIKESIR"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "08:45:52",
-            "Latitude": "38.4195",
-            "Longitude": "30.3533",
-            "Depth": "1.3",
-            "ML": "1.8",
-            "Location": "KARGIN SANDIKLI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "08:37:54",
-            "Latitude": "40.8473",
-            "Longitude": "31.6493",
-            "Depth": "3.7",
-            "ML": "1.6",
-            "Location": "CUKUROREN BOLU"
         }
     ]
 }
