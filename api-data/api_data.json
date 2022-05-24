@@ -1,6 +1,60 @@
 {
     "data": [
         {
+            "Date": "2022.05.25",
+            "Time": "00:12:59",
+            "Latitude": "38.5835",
+            "Longitude": "25.7213",
+            "Depth": "17.8",
+            "ML": "2.5",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "23:30:47",
+            "Latitude": "38.3002",
+            "Longitude": "38.8095",
+            "Depth": "7.2",
+            "ML": "1.4",
+            "Location": "BOLUKKAYA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "23:30:09",
+            "Latitude": "36.3798",
+            "Longitude": "33.8708",
+            "Depth": "10.6",
+            "ML": "2.0",
+            "Location": "BAHCEDERESI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "23:24:15",
+            "Latitude": "38.6767",
+            "Longitude": "43.0873",
+            "Depth": "17.9",
+            "ML": "1.5",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "23:23:46",
+            "Latitude": "38.6842",
+            "Longitude": "43.0822",
+            "Depth": "5.3",
+            "ML": "1.7",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "23:17:00",
+            "Latitude": "38.6678",
+            "Longitude": "43.0758",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "VAN GOLU"
+        },
+        {
             "Date": "2022.05.24",
             "Time": "23:07:33",
             "Latitude": "41.1207",
@@ -4400,60 +4454,6 @@
             "Depth": "9.1",
             "ML": "1.4",
             "Location": "ILEGI YALVAC ISPARTA"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "23:02:45",
-            "Latitude": "38.1247",
-            "Longitude": "25.8072",
-            "Depth": "7.5",
-            "ML": "2.9",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "23:01:02",
-            "Latitude": "38.1423",
-            "Longitude": "25.8635",
-            "Depth": "17.0",
-            "ML": "3.4",
-            "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "22:59:02",
-            "Latitude": "38.1328",
-            "Longitude": "25.8608",
-            "Depth": "14.8",
-            "ML": "2.1",
-            "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "21:49:13",
-            "Latitude": "40.5433",
-            "Longitude": "27.4157",
-            "Depth": "13.3",
-            "ML": "1.6",
-            "Location": "EKINLIK MARMARA BALIKESIR"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "21:14:23",
-            "Latitude": "40.6797",
-            "Longitude": "35.3123",
-            "Depth": "8.5",
-            "ML": "1.8",
-            "Location": "PINARBASI MECITOZU CORUM"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "20:52:41",
-            "Latitude": "40.4885",
-            "Longitude": "30.3618",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "AHIBABA GEYVE SAKARYA"
         }
     ]
 }
