@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.24",
+            "Time": "08:42:21",
+            "Latitude": "37.0603",
+            "Longitude": "28.3515",
+            "Depth": "6.1",
+            "ML": "1.4",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "07:41:52",
+            "Latitude": "37.1285",
+            "Longitude": "28.7388",
+            "Depth": "22.8",
+            "ML": "2.2",
+            "Location": "TURGUT ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "07:23:44",
+            "Latitude": "40.4492",
+            "Longitude": "32.8690",
+            "Depth": "9.2",
+            "ML": "2.5",
+            "Location": "YILDIRIMEVCI CUBUK ANKARA"
+        },
+        {
+            "Date": "2022.05.24",
             "Time": "05:16:05",
             "Latitude": "36.4488",
             "Longitude": "27.0275",
@@ -4427,33 +4454,6 @@
             "Depth": "5.4",
             "ML": "1.8",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "03:42:41",
-            "Latitude": "37.3928",
-            "Longitude": "38.6123",
-            "Depth": "7.0",
-            "ML": "2.2",
-            "Location": "YALINTAS BOZOVA SANLIURFA"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "03:32:46",
-            "Latitude": "37.8877",
-            "Longitude": "29.4035",
-            "Depth": "12.8",
-            "ML": "1.2",
-            "Location": "BELEVI CAL DENIZLI"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "01:37:41",
-            "Latitude": "40.8387",
-            "Longitude": "31.6277",
-            "Depth": "2.8",
-            "ML": "1.0",
-            "Location": "CUKUROREN BOLU"
         }
     ]
 }
