@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.24",
+            "Time": "11:52:47",
+            "Latitude": "40.4865",
+            "Longitude": "29.2703",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "FINDIKLI ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.05.24",
             "Time": "10:26:34",
             "Latitude": "36.4142",
             "Longitude": "27.0748",
@@ -4445,15 +4454,6 @@
             "Depth": "9.8",
             "ML": "1.7",
             "Location": "DIKILI ACIKLARI IZMIR EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "04:53:32",
-            "Latitude": "40.3567",
-            "Longitude": "27.1052",
-            "Depth": "5.2",
-            "ML": "1.4",
-            "Location": "ESKIBALIKLI BIGA CANAKKALE"
         }
     ]
 }
