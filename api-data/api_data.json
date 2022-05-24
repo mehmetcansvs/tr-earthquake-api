@@ -2,12 +2,66 @@
     "data": [
         {
             "Date": "2022.05.24",
+            "Time": "14:35:34",
+            "Latitude": "39.6283",
+            "Longitude": "29.4900",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "TUNCBILEK TAVSANLI KUTAHYA"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "14:09:11",
+            "Latitude": "38.1070",
+            "Longitude": "38.5130",
+            "Depth": "15.0",
+            "ML": "1.9",
+            "Location": "GECITLI SINCIK ADIYAMAN"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "12:56:18",
+            "Latitude": "38.7932",
+            "Longitude": "40.3385",
+            "Depth": "5.4",
+            "ML": "2.8",
+            "Location": "BEYDOGAN PALU ELAZIG"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "12:48:31",
+            "Latitude": "37.0573",
+            "Longitude": "28.3897",
+            "Depth": "1.7",
+            "ML": "1.8",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "12:25:10",
+            "Latitude": "38.4995",
+            "Longitude": "34.1998",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "BEBEK AKSARAY"
+        },
+        {
+            "Date": "2022.05.24",
             "Time": "11:52:47",
             "Latitude": "40.4865",
             "Longitude": "29.2703",
             "Depth": "0.0",
             "ML": "1.7",
             "Location": "FINDIKLI ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "11:45:14",
+            "Latitude": "39.5243",
+            "Longitude": "26.1735",
+            "Depth": "13.1",
+            "ML": "1.1",
+            "Location": "CAMKALABAK AYVACIK CANAKKALE"
         },
         {
             "Date": "2022.05.24",
@@ -4400,60 +4454,6 @@
             "Depth": "3.7",
             "ML": "1.6",
             "Location": "CUKUROREN BOLU"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "07:26:15",
-            "Latitude": "39.4995",
-            "Longitude": "28.4193",
-            "Depth": "5.3",
-            "ML": "1.2",
-            "Location": "KURSU BIGADIC BALIKESIR"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "07:07:13",
-            "Latitude": "40.7132",
-            "Longitude": "25.7597",
-            "Depth": "8.4",
-            "ML": "1.7",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "06:21:49",
-            "Latitude": "39.5320",
-            "Longitude": "28.3802",
-            "Depth": "7.2",
-            "ML": "3.0",
-            "Location": "SEBILLER DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "06:19:07",
-            "Latitude": "38.5043",
-            "Longitude": "39.2978",
-            "Depth": "4.9",
-            "ML": "2.3",
-            "Location": "BEKCITEPE SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "05:53:10",
-            "Latitude": "37.1447",
-            "Longitude": "35.8798",
-            "Depth": "23.1",
-            "ML": "1.4",
-            "Location": "KARAKAYALI CEYHAN ADANA"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "05:37:06",
-            "Latitude": "38.9952",
-            "Longitude": "26.7105",
-            "Depth": "9.8",
-            "ML": "1.7",
-            "Location": "DIKILI ACIKLARI IZMIR EGE DENIZI"
         }
     ]
 }
