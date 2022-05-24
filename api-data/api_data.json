@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.24",
+            "Time": "10:26:34",
+            "Latitude": "36.4142",
+            "Longitude": "27.0748",
+            "Depth": "6.9",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.24",
             "Time": "08:42:21",
             "Latitude": "37.0603",
             "Longitude": "28.3515",
@@ -4445,15 +4454,6 @@
             "Depth": "5.2",
             "ML": "1.4",
             "Location": "ESKIBALIKLI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "04:08:25",
-            "Latitude": "37.9068",
-            "Longitude": "27.1093",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
