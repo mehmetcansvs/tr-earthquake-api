@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.24",
+            "Time": "19:05:34",
+            "Latitude": "36.9133",
+            "Longitude": "28.4120",
+            "Depth": "20.5",
+            "ML": "1.2",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "18:53:42",
+            "Latitude": "35.8955",
+            "Longitude": "31.2963",
+            "Depth": "11.4",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "17:42:07",
+            "Latitude": "38.7478",
+            "Longitude": "43.5312",
+            "Depth": "20.1",
+            "ML": "1.2",
+            "Location": "DEGIRMENOZU VAN"
+        },
+        {
+            "Date": "2022.05.24",
             "Time": "16:26:42",
             "Latitude": "36.1210",
             "Longitude": "33.5473",
@@ -4427,33 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.0",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "12:01:23",
-            "Latitude": "36.1565",
-            "Longitude": "33.5187",
-            "Depth": "0.0",
-            "ML": "0.5",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "11:45:52",
-            "Latitude": "38.6545",
-            "Longitude": "40.7083",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "YAZKONAGI GENC BINGOL"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "10:56:44",
-            "Latitude": "35.6083",
-            "Longitude": "29.3950",
-            "Depth": "9.4",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
         }
     ]
 }
