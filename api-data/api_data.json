@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.24",
+            "Time": "05:16:05",
+            "Latitude": "36.4488",
+            "Longitude": "27.0275",
+            "Depth": "16.2",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.24",
+            "Time": "05:15:46",
+            "Latitude": "37.0670",
+            "Longitude": "28.4003",
+            "Depth": "11.1",
+            "ML": "1.4",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.24",
             "Time": "04:14:22",
             "Latitude": "35.0630",
             "Longitude": "35.8027",
@@ -4436,24 +4454,6 @@
             "Depth": "2.8",
             "ML": "1.0",
             "Location": "CUKUROREN BOLU"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "01:02:34",
-            "Latitude": "38.6765",
-            "Longitude": "39.8920",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "SEYDILI PALU ELAZIG"
-        },
-        {
-            "Date": "2022.05.12",
-            "Time": "00:19:42",
-            "Latitude": "37.3968",
-            "Longitude": "29.1627",
-            "Depth": "14.3",
-            "ML": "1.5",
-            "Location": "NIKFER TAVAS DENIZLI"
         }
     ]
 }
