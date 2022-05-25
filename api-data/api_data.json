@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.05.26",
+            "Time": "00:43:38",
+            "Latitude": "39.5757",
+            "Longitude": "33.8065",
+            "Depth": "5.4",
+            "ML": "1.4",
+            "Location": "EFENDIKOY KESKIN KIRIKKALE"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "23:35:39",
+            "Latitude": "37.0440",
+            "Longitude": "28.3780",
+            "Depth": "8.8",
+            "ML": "2.8",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
             "Date": "2022.05.25",
             "Time": "22:59:28",
             "Latitude": "39.1712",
@@ -4435,24 +4453,6 @@
             "Longitude": "28.1463",
             "Depth": "15.5",
             "ML": "1.5",
-            "Location": "SARNICKOY MUGLA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "01:59:04",
-            "Latitude": "37.0712",
-            "Longitude": "28.1525",
-            "Depth": "18.4",
-            "ML": "1.4",
-            "Location": "SARNICKOY MUGLA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "01:45:53",
-            "Latitude": "37.0832",
-            "Longitude": "28.1435",
-            "Depth": "16.5",
-            "ML": "1.3",
             "Location": "SARNICKOY MUGLA"
         }
     ]
