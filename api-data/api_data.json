@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.25",
+            "Time": "11:27:25",
+            "Latitude": "37.0732",
+            "Longitude": "28.4638",
+            "Depth": "7.0",
+            "ML": "2.5",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.25",
             "Time": "10:24:47",
             "Latitude": "40.8542",
             "Longitude": "23.1488",
@@ -4445,15 +4454,6 @@
             "Depth": "4.9",
             "ML": "1.6",
             "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "13:54:14",
-            "Latitude": "37.8418",
-            "Longitude": "26.9205",
-            "Depth": "4.4",
-            "ML": "2.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
