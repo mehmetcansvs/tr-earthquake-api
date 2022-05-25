@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.25",
+            "Time": "10:24:47",
+            "Latitude": "40.8542",
+            "Longitude": "23.1488",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "10:23:52",
+            "Latitude": "38.4037",
+            "Longitude": "39.0960",
+            "Depth": "7.1",
+            "ML": "2.4",
+            "Location": "KAMISLIK SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "09:29:00",
+            "Latitude": "39.4598",
+            "Longitude": "44.4925",
+            "Depth": "19.1",
+            "ML": "2.2",
+            "Location": "TURKIYE IRAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.05.25",
             "Time": "08:07:00",
             "Latitude": "38.7710",
             "Longitude": "26.7265",
@@ -4427,33 +4454,6 @@
             "Depth": "4.4",
             "ML": "2.0",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "12:55:05",
-            "Latitude": "37.1708",
-            "Longitude": "37.2317",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "BOYNO SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "12:09:36",
-            "Latitude": "39.1125",
-            "Longitude": "27.6582",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "11:49:39",
-            "Latitude": "39.4000",
-            "Longitude": "23.8400",
-            "Depth": "4.6",
-            "ML": "2.5",
-            "Location": "YUNANISTAN"
         }
     ]
 }
