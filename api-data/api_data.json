@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.25",
+            "Time": "05:26:42",
+            "Latitude": "35.9923",
+            "Longitude": "31.0028",
+            "Depth": "86.7",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.25",
             "Time": "03:55:18",
             "Latitude": "40.3978",
             "Longitude": "30.6075",
@@ -4445,15 +4454,6 @@
             "Depth": "3.2",
             "ML": "1.7",
             "Location": "ELMALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "03:11:20",
-            "Latitude": "36.9893",
-            "Longitude": "28.2937",
-            "Depth": "13.8",
-            "ML": "2.6",
-            "Location": "CETIBELI MARMARIS MUGLA"
         }
     ]
 }
