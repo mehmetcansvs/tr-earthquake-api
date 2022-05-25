@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.25",
+            "Time": "22:59:28",
+            "Latitude": "39.1712",
+            "Longitude": "25.7720",
+            "Depth": "6.2",
+            "ML": "1.6",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "22:52:43",
+            "Latitude": "40.7752",
+            "Longitude": "27.3423",
+            "Depth": "9.4",
+            "ML": "0.9",
+            "Location": "UCMAKDERE SARKOY TEKIRDAG"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "21:49:09",
+            "Latitude": "36.2797",
+            "Longitude": "27.0095",
+            "Depth": "6.3",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.25",
             "Time": "20:39:47",
             "Latitude": "37.5703",
             "Longitude": "35.7082",
@@ -4427,33 +4454,6 @@
             "Depth": "16.5",
             "ML": "1.3",
             "Location": "SARNICKOY MUGLA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "01:43:51",
-            "Latitude": "37.0447",
-            "Longitude": "28.0967",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "SARNICKOY MUGLA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "01:42:06",
-            "Latitude": "37.0447",
-            "Longitude": "28.1340",
-            "Depth": "15.4",
-            "ML": "3.3",
-            "Location": "SARNICKOY MUGLA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "01:08:49",
-            "Latitude": "38.1985",
-            "Longitude": "26.1968",
-            "Depth": "17.5",
-            "ML": "4.3",
-            "Location": "CESME ACIKLARI IZMIR EGE DENIZI REVIZE"
         }
     ]
 }
