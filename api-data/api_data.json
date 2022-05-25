@@ -2,12 +2,84 @@
     "data": [
         {
             "Date": "2022.05.25",
+            "Time": "15:14:56",
+            "Latitude": "36.4273",
+            "Longitude": "27.0813",
+            "Depth": "4.7",
+            "ML": "1.9",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "14:23:46",
+            "Latitude": "39.8687",
+            "Longitude": "25.4385",
+            "Depth": "5.8",
+            "ML": "1.6",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "12:36:39",
+            "Latitude": "37.0415",
+            "Longitude": "28.4403",
+            "Depth": "18.4",
+            "ML": "1.1",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "12:33:26",
+            "Latitude": "37.0313",
+            "Longitude": "28.4502",
+            "Depth": "6.9",
+            "ML": "1.8",
+            "Location": "KIZILYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "12:28:27",
+            "Latitude": "39.4180",
+            "Longitude": "33.3602",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "KALDIRIM CELEBI KIRIKKALE"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "12:15:51",
+            "Latitude": "36.8900",
+            "Longitude": "29.1945",
+            "Depth": "7.4",
+            "ML": "1.3",
+            "Location": "KARABAYIR CAMELI DENIZLI"
+        },
+        {
+            "Date": "2022.05.25",
             "Time": "11:27:25",
             "Latitude": "37.0732",
             "Longitude": "28.4638",
             "Depth": "7.0",
             "ML": "2.5",
             "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "11:21:05",
+            "Latitude": "36.9282",
+            "Longitude": "28.2353",
+            "Depth": "3.5",
+            "ML": "1.6",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "11:17:49",
+            "Latitude": "37.0553",
+            "Longitude": "28.4027",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "ATAKOY ULA MUGLA"
         },
         {
             "Date": "2022.05.25",
@@ -26,6 +98,15 @@
             "Depth": "7.1",
             "ML": "2.4",
             "Location": "KAMISLIK SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.05.25",
+            "Time": "09:34:19",
+            "Latitude": "37.8950",
+            "Longitude": "26.5990",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "EGE DENIZI"
         },
         {
             "Date": "2022.05.25",
@@ -4373,87 +4454,6 @@
             "Depth": "78.7",
             "ML": "2.8",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "18:29:28",
-            "Latitude": "38.6753",
-            "Longitude": "43.6672",
-            "Depth": "15.2",
-            "ML": "2.8",
-            "Location": "ERCEK VAN"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "18:11:54",
-            "Latitude": "38.6287",
-            "Longitude": "43.6845",
-            "Depth": "11.2",
-            "ML": "2.9",
-            "Location": "KAYMAKLI VAN"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "18:00:41",
-            "Latitude": "34.5582",
-            "Longitude": "24.0168",
-            "Depth": "9.3",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "17:59:13",
-            "Latitude": "40.1017",
-            "Longitude": "28.5977",
-            "Depth": "5.1",
-            "ML": "2.1",
-            "Location": "DORAK MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "17:37:21",
-            "Latitude": "35.2968",
-            "Longitude": "25.2225",
-            "Depth": "7.1",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "16:32:21",
-            "Latitude": "34.9293",
-            "Longitude": "24.8072",
-            "Depth": "26.1",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "14:21:24",
-            "Latitude": "36.8943",
-            "Longitude": "27.5115",
-            "Depth": "8.1",
-            "ML": "2.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "14:10:22",
-            "Latitude": "38.3738",
-            "Longitude": "39.0107",
-            "Depth": "13.0",
-            "ML": "2.4",
-            "Location": "DUYGULU SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.05.13",
-            "Time": "14:01:38",
-            "Latitude": "38.5995",
-            "Longitude": "42.9133",
-            "Depth": "4.9",
-            "ML": "1.6",
-            "Location": "VAN GOLU"
         }
     ]
 }
