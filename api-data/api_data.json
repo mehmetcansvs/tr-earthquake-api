@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.26",
+            "Time": "20:50:26",
+            "Latitude": "38.2987",
+            "Longitude": "27.2758",
+            "Depth": "13.4",
+            "ML": "1.8",
+            "Location": "KARACAAGAC BUCA IZMIR"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "20:25:06",
+            "Latitude": "36.0243",
+            "Longitude": "31.6433",
+            "Depth": "86.2",
+            "ML": "3.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "19:52:57",
+            "Latitude": "35.1747",
+            "Longitude": "25.1938",
+            "Depth": "5.4",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "19:28:35",
+            "Latitude": "35.7745",
+            "Longitude": "27.9780",
+            "Depth": "3.1",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
             "Time": "19:02:43",
             "Latitude": "36.3838",
             "Longitude": "27.0807",
@@ -4418,42 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "YUVALIK AKYAZI SAKARYA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "12:54:32",
-            "Latitude": "36.2565",
-            "Longitude": "33.7060",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "ISIKLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "12:31:02",
-            "Latitude": "39.2450",
-            "Longitude": "27.7193",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "DENIS SOMA MANISA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "12:24:59",
-            "Latitude": "33.9298",
-            "Longitude": "25.5995",
-            "Depth": "6.2",
-            "ML": "3.5",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "12:24:19",
-            "Latitude": "36.9667",
-            "Longitude": "26.8165",
-            "Depth": "17.0",
-            "ML": "1.4",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
