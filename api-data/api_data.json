@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.26",
+            "Time": "12:58:56",
+            "Latitude": "37.2420",
+            "Longitude": "27.8857",
+            "Depth": "14.3",
+            "ML": "1.4",
+            "Location": "CAMLIBELEN MILAS MUGLA"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "12:13:31",
+            "Latitude": "37.3817",
+            "Longitude": "35.0367",
+            "Depth": "16.8",
+            "ML": "1.5",
+            "Location": "CEVLIK KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.05.26",
             "Time": "10:53:11",
             "Latitude": "39.3675",
             "Longitude": "25.5758",
@@ -17,6 +35,15 @@
             "Depth": "9.4",
             "ML": "2.0",
             "Location": "KAVAKKOY SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "10:19:01",
+            "Latitude": "36.2612",
+            "Longitude": "28.6740",
+            "Depth": "28.5",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.05.26",
@@ -4427,33 +4454,6 @@
             "Depth": "8.7",
             "ML": "1.7",
             "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "09:29:20",
-            "Latitude": "36.9688",
-            "Longitude": "27.6533",
-            "Depth": "7.4",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "09:09:51",
-            "Latitude": "39.4565",
-            "Longitude": "32.0840",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "CANAKCI POLATLI ANKARA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "09:00:30",
-            "Latitude": "37.6485",
-            "Longitude": "29.2898",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "KOCAPINAR SERINHISAR DENIZLI"
         }
     ]
 }
