@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.26",
+            "Time": "10:53:11",
+            "Latitude": "39.3675",
+            "Longitude": "25.5758",
+            "Depth": "1.8",
+            "ML": "2.4",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "10:45:02",
+            "Latitude": "38.4112",
+            "Longitude": "39.1425",
+            "Depth": "9.4",
+            "ML": "2.0",
+            "Location": "KAVAKKOY SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "09:33:00",
+            "Latitude": "37.7620",
+            "Longitude": "26.4633",
+            "Depth": "8.2",
+            "ML": "1.9",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "09:19:25",
+            "Latitude": "36.2842",
+            "Longitude": "26.9957",
+            "Depth": "8.0",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
             "Time": "08:56:09",
             "Latitude": "36.0642",
             "Longitude": "28.9547",
@@ -4418,42 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "KOCAPINAR SERINHISAR DENIZLI"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "06:39:43",
-            "Latitude": "38.1887",
-            "Longitude": "26.2092",
-            "Depth": "6.7",
-            "ML": "3.1",
-            "Location": "CESME ACIKLARI IZMIR EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "06:10:29",
-            "Latitude": "37.1053",
-            "Longitude": "28.3978",
-            "Depth": "11.9",
-            "ML": "1.4",
-            "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "05:54:27",
-            "Latitude": "39.1380",
-            "Longitude": "29.0645",
-            "Depth": "10.6",
-            "ML": "3.0",
-            "Location": "SOGUT SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "05:50:40",
-            "Latitude": "34.7975",
-            "Longitude": "24.9993",
-            "Depth": "75.6",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
