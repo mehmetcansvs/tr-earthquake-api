@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.26",
+            "Time": "14:57:51",
+            "Latitude": "41.3643",
+            "Longitude": "33.4010",
+            "Depth": "12.0",
+            "ML": "2.0",
+            "Location": "BEZIRGAN DADAY KASTAMONU"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "13:34:49",
+            "Latitude": "40.2227",
+            "Longitude": "31.7222",
+            "Depth": "7.5",
+            "ML": "2.3",
+            "Location": "SEKLI BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "13:13:26",
+            "Latitude": "37.5872",
+            "Longitude": "35.5075",
+            "Depth": "5.3",
+            "ML": "1.5",
+            "Location": "KARAHAN ALADAG ADANA"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "12:59:30",
+            "Latitude": "37.1667",
+            "Longitude": "27.8843",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "KARACAAGAC MILAS MUGLA"
+        },
+        {
+            "Date": "2022.05.26",
             "Time": "12:58:56",
             "Latitude": "37.2420",
             "Longitude": "27.8857",
@@ -4418,42 +4454,6 @@
             "Depth": "8.0",
             "ML": "2.0",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "10:07:34",
-            "Latitude": "38.1805",
-            "Longitude": "26.1985",
-            "Depth": "7.7",
-            "ML": "2.1",
-            "Location": "CESME ACIKLARI IZMIR EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "10:01:35",
-            "Latitude": "37.0790",
-            "Longitude": "28.3972",
-            "Depth": "5.5",
-            "ML": "2.2",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "09:41:41",
-            "Latitude": "39.0445",
-            "Longitude": "25.9512",
-            "Depth": "7.4",
-            "ML": "1.6",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "09:38:09",
-            "Latitude": "38.1732",
-            "Longitude": "26.1713",
-            "Depth": "8.7",
-            "ML": "1.7",
-            "Location": "SAKIZ ADASI EGE DENIZI"
         }
     ]
 }
