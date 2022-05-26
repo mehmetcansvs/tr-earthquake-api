@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.26",
+            "Time": "06:50:38",
+            "Latitude": "36.4107",
+            "Longitude": "27.1050",
+            "Depth": "10.1",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "06:10:50",
+            "Latitude": "36.0867",
+            "Longitude": "29.0327",
+            "Depth": "18.1",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
             "Time": "05:12:53",
             "Latitude": "36.9532",
             "Longitude": "27.6680",
@@ -4436,24 +4454,6 @@
             "Depth": "14.8",
             "ML": "2.2",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "03:03:37",
-            "Latitude": "37.0703",
-            "Longitude": "28.1308",
-            "Depth": "8.3",
-            "ML": "2.1",
-            "Location": "SARNICKOY MUGLA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "02:30:57",
-            "Latitude": "37.2928",
-            "Longitude": "38.6922",
-            "Depth": "10.9",
-            "ML": "2.0",
-            "Location": "KIRKPINAR SANLIURFA"
         }
     ]
 }
