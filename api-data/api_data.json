@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.05.26",
+            "Time": "19:02:43",
+            "Latitude": "36.3838",
+            "Longitude": "27.0807",
+            "Depth": "9.1",
+            "ML": "1.9",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "18:47:38",
+            "Latitude": "40.7938",
+            "Longitude": "29.0067",
+            "Depth": "8.6",
+            "ML": "2.4",
+            "Location": "CINARCIK ACIKLARI YALOVA MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "18:46:52",
+            "Latitude": "40.7990",
+            "Longitude": "29.0102",
+            "Depth": "11.3",
+            "ML": "1.8",
+            "Location": "CINARCIK ACIKLARI YALOVA MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "17:53:49",
+            "Latitude": "35.7492",
+            "Longitude": "26.9547",
+            "Depth": "8.4",
+            "ML": "3.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "17:45:21",
+            "Latitude": "39.4568",
+            "Longitude": "27.9763",
+            "Depth": "5.6",
+            "ML": "1.7",
+            "Location": "KUCUKYENIKOY BIGADIC BALIKESIR"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "17:39:55",
+            "Latitude": "38.2780",
+            "Longitude": "27.2682",
+            "Depth": "6.5",
+            "ML": "1.9",
+            "Location": "YOGURTCULAR TORBALI IZMIR"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "17:32:48",
+            "Latitude": "39.7075",
+            "Longitude": "30.1598",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "KUMBET INONU ESKISEHIR"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "17:29:24",
+            "Latitude": "34.8990",
+            "Longitude": "24.1018",
+            "Depth": "19.3",
+            "ML": "1.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
             "Time": "16:21:35",
             "Latitude": "37.2820",
             "Longitude": "37.4140",
@@ -4382,78 +4454,6 @@
             "Depth": "17.0",
             "ML": "1.4",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "12:22:26",
-            "Latitude": "37.0848",
-            "Longitude": "37.1290",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "NARLICA SAHINBEY GAZIANTEP"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "12:22:16",
-            "Latitude": "36.3272",
-            "Longitude": "33.7042",
-            "Depth": "2.9",
-            "ML": "1.1",
-            "Location": "CAMLICA SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "12:21:10",
-            "Latitude": "37.0027",
-            "Longitude": "26.7058",
-            "Depth": "9.3",
-            "ML": "1.7",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "12:14:51",
-            "Latitude": "37.0955",
-            "Longitude": "27.9743",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "PINARKOY MILAS MUGLA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "11:03:20",
-            "Latitude": "38.0432",
-            "Longitude": "29.0348",
-            "Depth": "19.8",
-            "ML": "1.5",
-            "Location": "BELENARDIC AKKOY DENIZLI"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "10:45:34",
-            "Latitude": "34.8783",
-            "Longitude": "24.8585",
-            "Depth": "8.8",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "10:41:01",
-            "Latitude": "39.4568",
-            "Longitude": "25.8840",
-            "Depth": "13.2",
-            "ML": "1.5",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "10:36:44",
-            "Latitude": "39.5968",
-            "Longitude": "28.4093",
-            "Depth": "1.2",
-            "ML": "1.5",
-            "Location": "SARNICKOY DURSUNBEY BALIKESIR"
         }
     ]
 }
