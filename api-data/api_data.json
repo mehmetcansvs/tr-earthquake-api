@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.26",
+            "Time": "16:21:35",
+            "Latitude": "37.2820",
+            "Longitude": "37.4140",
+            "Depth": "7.2",
+            "ML": "1.6",
+            "Location": "TEKIRSIN SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "16:02:12",
+            "Latitude": "36.1143",
+            "Longitude": "33.5287",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "15:56:49",
+            "Latitude": "40.6813",
+            "Longitude": "32.3045",
+            "Depth": "2.8",
+            "ML": "2.1",
+            "Location": "BUNUS GEREDE BOLU"
+        },
+        {
+            "Date": "2022.05.26",
             "Time": "14:57:51",
             "Latitude": "41.3643",
             "Longitude": "33.4010",
@@ -4427,33 +4454,6 @@
             "Depth": "1.2",
             "ML": "1.5",
             "Location": "SARNICKOY DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "10:31:39",
-            "Latitude": "38.1862",
-            "Longitude": "26.1922",
-            "Depth": "2.4",
-            "ML": "1.7",
-            "Location": "CESME ACIKLARI IZMIR EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "10:26:33",
-            "Latitude": "35.4298",
-            "Longitude": "25.3278",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "10:22:00",
-            "Latitude": "36.9680",
-            "Longitude": "27.6750",
-            "Depth": "8.0",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
