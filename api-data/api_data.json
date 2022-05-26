@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.26",
+            "Time": "08:56:09",
+            "Latitude": "36.0642",
+            "Longitude": "28.9547",
+            "Depth": "26.4",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
+            "Time": "07:48:06",
+            "Latitude": "34.9468",
+            "Longitude": "24.0420",
+            "Depth": "19.8",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.26",
             "Time": "06:50:38",
             "Latitude": "36.4107",
             "Longitude": "27.1050",
@@ -4436,24 +4454,6 @@
             "Depth": "75.6",
             "ML": "2.7",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "05:23:12",
-            "Latitude": "35.7440",
-            "Longitude": "26.9850",
-            "Depth": "9.6",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "04:35:54",
-            "Latitude": "35.1317",
-            "Longitude": "24.2822",
-            "Depth": "14.8",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
