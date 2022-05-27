@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.27",
+            "Time": "19:16:08",
+            "Latitude": "40.1373",
+            "Longitude": "27.2270",
+            "Depth": "7.9",
+            "ML": "2.3",
+            "Location": "YESILKOY BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "17:03:52",
+            "Latitude": "37.0383",
+            "Longitude": "28.4760",
+            "Depth": "8.8",
+            "ML": "1.7",
+            "Location": "ORNEKKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.27",
             "Time": "16:38:27",
             "Latitude": "37.0438",
             "Longitude": "28.4420",
@@ -4445,24 +4463,6 @@
             "Depth": "3.5",
             "ML": "2.3",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "08:13:37",
-            "Latitude": "35.2543",
-            "Longitude": "26.7620",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "07:51:46",
-            "Latitude": "37.3050",
-            "Longitude": "30.6852",
-            "Depth": "14.5",
-            "ML": "1.6",
-            "Location": "DEMIRLI BUCAK BURDUR"
         }
     ]
 }
