@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.05.28",
+            "Time": "00:26:27",
+            "Latitude": "37.8710",
+            "Longitude": "33.8663",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "GOLOREN EMIRGAZI KONYA"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "21:16:38",
+            "Latitude": "36.6087",
+            "Longitude": "27.6867",
+            "Depth": "77.3",
+            "ML": "2.3",
+            "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "20:46:28",
+            "Latitude": "39.1580",
+            "Longitude": "27.6417",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "SARIKAYA SOMA MANISA"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "19:41:07",
+            "Latitude": "40.1535",
+            "Longitude": "27.2115",
+            "Depth": "12.1",
+            "ML": "1.6",
+            "Location": "KAPANBELENI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "19:28:19",
+            "Latitude": "37.0527",
+            "Longitude": "29.5283",
+            "Depth": "14.6",
+            "ML": "1.7",
+            "Location": "EVCILER GOLHISAR BURDUR"
+        },
+        {
             "Date": "2022.05.27",
             "Time": "19:16:08",
             "Latitude": "40.1373",
@@ -8,6 +53,24 @@
             "Depth": "7.9",
             "ML": "2.3",
             "Location": "YESILKOY BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "18:55:04",
+            "Latitude": "40.1418",
+            "Longitude": "27.2385",
+            "Depth": "12.5",
+            "ML": "1.5",
+            "Location": "ELMALI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "18:38:10",
+            "Latitude": "38.8033",
+            "Longitude": "25.9917",
+            "Depth": "5.5",
+            "ML": "1.9",
+            "Location": "EGE DENIZI"
         },
         {
             "Date": "2022.05.27",
@@ -4400,69 +4463,6 @@
             "Depth": "22.2",
             "ML": "1.5",
             "Location": "DEREKOY MUT MERSIN"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "11:30:17",
-            "Latitude": "39.9833",
-            "Longitude": "26.1428",
-            "Depth": "4.4",
-            "ML": "0.8",
-            "Location": "YENIKOY EZINE CANAKKALE"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "11:24:31",
-            "Latitude": "35.3092",
-            "Longitude": "25.3810",
-            "Depth": "2.2",
-            "ML": "1.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "11:17:05",
-            "Latitude": "37.2260",
-            "Longitude": "37.2393",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "ULKERLI SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "10:28:15",
-            "Latitude": "39.3737",
-            "Longitude": "33.2185",
-            "Depth": "8.0",
-            "ML": "1.4",
-            "Location": "SUYUGUZEL BALA ANKARA"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "10:27:56",
-            "Latitude": "36.7070",
-            "Longitude": "33.5822",
-            "Depth": "10.8",
-            "ML": "2.5",
-            "Location": "CUKURBAG MUT MERSIN"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "10:07:13",
-            "Latitude": "35.0932",
-            "Longitude": "26.8345",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "09:48:56",
-            "Latitude": "34.8582",
-            "Longitude": "22.8743",
-            "Depth": "3.5",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
