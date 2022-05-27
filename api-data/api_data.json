@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.27",
+            "Time": "03:23:00",
+            "Latitude": "41.1337",
+            "Longitude": "24.2172",
+            "Depth": "6.1",
+            "ML": "1.4",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "03:17:22",
+            "Latitude": "39.4683",
+            "Longitude": "44.2933",
+            "Depth": "7.1",
+            "ML": "2.0",
+            "Location": "HALAC DOGUBAYAZIT AGRI"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "02:23:35",
+            "Latitude": "38.7095",
+            "Longitude": "27.8653",
+            "Depth": "5.6",
+            "ML": "2.1",
+            "Location": "KAYAALTI GOLMARMARA MANISA"
+        },
+        {
+            "Date": "2022.05.27",
             "Time": "01:04:32",
             "Latitude": "38.2962",
             "Longitude": "27.2510",
@@ -4436,33 +4463,6 @@
             "Depth": "2.3",
             "ML": "4.4",
             "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "20:02:06",
-            "Latitude": "38.6385",
-            "Longitude": "37.3892",
-            "Depth": "7.0",
-            "ML": "1.4",
-            "Location": "TEPECIK GURUN SIVAS"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "18:29:50",
-            "Latitude": "40.7793",
-            "Longitude": "31.6677",
-            "Depth": "0.0",
-            "ML": "2.2",
-            "Location": "MUSLUKLAR BOLU"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "18:08:52",
-            "Latitude": "38.1022",
-            "Longitude": "38.4437",
-            "Depth": "9.9",
-            "ML": "2.5",
-            "Location": "KARAGOL CELIKHAN ADIYAMAN"
         }
     ]
 }
