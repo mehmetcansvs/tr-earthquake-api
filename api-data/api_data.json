@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.27",
+            "Time": "05:39:22",
+            "Latitude": "37.4138",
+            "Longitude": "29.3477",
+            "Depth": "5.9",
+            "ML": "1.5",
+            "Location": "ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "05:07:30",
+            "Latitude": "37.0087",
+            "Longitude": "28.4305",
+            "Depth": "9.5",
+            "ML": "2.5",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "04:16:02",
+            "Latitude": "38.3468",
+            "Longitude": "30.6723",
+            "Depth": "5.2",
+            "ML": "1.0",
+            "Location": "UZUNPINAR SUHUT AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.05.27",
             "Time": "03:23:00",
             "Latitude": "41.1337",
             "Longitude": "24.2172",
@@ -4436,33 +4463,6 @@
             "Depth": "1.0",
             "ML": "0.9",
             "Location": "CAKALLAR MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "21:08:46",
-            "Latitude": "39.3973",
-            "Longitude": "22.6823",
-            "Depth": "12.7",
-            "ML": "1.9",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "20:42:17",
-            "Latitude": "40.7337",
-            "Longitude": "32.5883",
-            "Depth": "6.8",
-            "ML": "1.9",
-            "Location": "BERCINCATAK KIZILCAHAMAM ANKARA"
-        },
-        {
-            "Date": "2022.05.14",
-            "Time": "20:14:05",
-            "Latitude": "41.1292",
-            "Longitude": "43.9290",
-            "Depth": "2.3",
-            "ML": "4.4",
-            "Location": "ERMENISTAN"
         }
     ]
 }
