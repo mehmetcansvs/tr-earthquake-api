@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.28",
+            "Time": "04:19:14",
+            "Latitude": "37.0370",
+            "Longitude": "28.4410",
+            "Depth": "11.0",
+            "ML": "1.6",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.28",
+            "Time": "04:10:26",
+            "Latitude": "37.0735",
+            "Longitude": "28.4563",
+            "Depth": "8.4",
+            "ML": "1.4",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.28",
             "Time": "02:39:16",
             "Latitude": "34.6813",
             "Longitude": "24.5780",
@@ -44,6 +62,15 @@
             "Depth": "7.6",
             "ML": "1.9",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.28",
+            "Time": "00:17:16",
+            "Latitude": "37.8565",
+            "Longitude": "26.8222",
+            "Depth": "4.4",
+            "ML": "1.3",
+            "Location": "EGE DENIZI"
         },
         {
             "Date": "2022.05.27",
@@ -4436,33 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "KIBRIS DEGIRMENLIK"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "12:48:31",
-            "Latitude": "38.3712",
-            "Longitude": "26.6677",
-            "Depth": "12.4",
-            "ML": "1.3",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "12:42:31",
-            "Latitude": "39.1113",
-            "Longitude": "27.4808",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "AZIZIYE KINIK IZMIR"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "12:39:36",
-            "Latitude": "35.1740",
-            "Longitude": "25.2273",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
