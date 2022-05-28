@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.28",
+            "Time": "15:03:20",
+            "Latitude": "39.2547",
+            "Longitude": "27.7392",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "TEKELI ISIKLAR SOMA MANISA"
+        },
+        {
+            "Date": "2022.05.28",
+            "Time": "13:18:40",
+            "Latitude": "36.6348",
+            "Longitude": "27.9758",
+            "Depth": "12.0",
+            "ML": "2.1",
+            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.05.28",
             "Time": "11:39:21",
             "Latitude": "37.0847",
             "Longitude": "28.4657",
@@ -4445,24 +4463,6 @@
             "Depth": "14.2",
             "ML": "2.2",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "19:30:51",
-            "Latitude": "36.6113",
-            "Longitude": "31.9703",
-            "Depth": "2.5",
-            "ML": "1.5",
-            "Location": "PASAKOY ALANYA ANTALYA"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "19:00:37",
-            "Latitude": "34.9602",
-            "Longitude": "27.7570",
-            "Depth": "5.7",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
         }
     ]
 }
