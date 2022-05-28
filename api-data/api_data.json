@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.28",
+            "Time": "16:37:26",
+            "Latitude": "37.0675",
+            "Longitude": "27.8128",
+            "Depth": "10.6",
+            "ML": "1.5",
+            "Location": "FESLEGEN MILAS MUGLA"
+        },
+        {
+            "Date": "2022.05.28",
+            "Time": "16:25:35",
+            "Latitude": "35.0398",
+            "Longitude": "23.6205",
+            "Depth": "13.7",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.28",
             "Time": "15:03:20",
             "Latitude": "39.2547",
             "Longitude": "27.7392",
@@ -4445,24 +4463,6 @@
             "Depth": "6.1",
             "ML": "2.7",
             "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "20:58:50",
-            "Latitude": "38.4513",
-            "Longitude": "27.0173",
-            "Depth": "16.0",
-            "ML": "2.8",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "19:40:17",
-            "Latitude": "39.6310",
-            "Longitude": "23.1007",
-            "Depth": "14.2",
-            "ML": "2.2",
-            "Location": "YUNANISTAN"
         }
     ]
 }
