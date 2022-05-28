@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.28",
+            "Time": "11:39:21",
+            "Latitude": "37.0847",
+            "Longitude": "28.4657",
+            "Depth": "6.0",
+            "ML": "2.0",
+            "Location": "CICEKLI ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.28",
             "Time": "10:52:43",
             "Latitude": "41.6963",
             "Longitude": "23.7797",
@@ -4454,15 +4463,6 @@
             "Depth": "5.7",
             "ML": "3.0",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "18:06:45",
-            "Latitude": "39.9305",
-            "Longitude": "41.1150",
-            "Depth": "25.0",
-            "ML": "1.5",
-            "Location": "AZIZIYE ERZURUM"
         }
     ]
 }
