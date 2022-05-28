@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.28",
+            "Time": "20:22:09",
+            "Latitude": "39.3663",
+            "Longitude": "44.4645",
+            "Depth": "5.0",
+            "ML": "3.2",
+            "Location": "SARICAVUS DOGUBAYAZIT AGRI"
+        },
+        {
+            "Date": "2022.05.28",
+            "Time": "19:18:36",
+            "Latitude": "37.8772",
+            "Longitude": "26.9263",
+            "Depth": "5.8",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.28",
+            "Time": "19:07:31",
+            "Latitude": "37.0742",
+            "Longitude": "28.4653",
+            "Depth": "8.6",
+            "ML": "1.9",
+            "Location": "ELMALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.28",
             "Time": "18:22:22",
             "Latitude": "37.8607",
             "Longitude": "26.9420",
@@ -4436,33 +4463,6 @@
             "Depth": "11.3",
             "ML": "1.7",
             "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "22:51:32",
-            "Latitude": "35.2292",
-            "Longitude": "26.1548",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "22:32:04",
-            "Latitude": "40.4393",
-            "Longitude": "27.8650",
-            "Depth": "5.5",
-            "ML": "1.2",
-            "Location": "YUKARIYAPICI ERDEK BALIKESIR"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "22:06:41",
-            "Latitude": "39.7207",
-            "Longitude": "25.6115",
-            "Depth": "9.7",
-            "ML": "1.3",
-            "Location": "EGE DENIZI"
         }
     ]
 }
