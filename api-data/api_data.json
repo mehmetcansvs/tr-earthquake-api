@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.05.28",
+            "Time": "02:39:16",
+            "Latitude": "34.6813",
+            "Longitude": "24.5780",
+            "Depth": "2.8",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.28",
+            "Time": "02:04:06",
+            "Latitude": "38.5022",
+            "Longitude": "39.2658",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "BEKCITEPE SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.05.28",
+            "Time": "01:15:05",
+            "Latitude": "39.7888",
+            "Longitude": "33.0632",
+            "Depth": "2.4",
+            "ML": "2.5",
+            "Location": "DELILER ELMADAG ANKARA"
+        },
+        {
+            "Date": "2022.05.28",
             "Time": "00:26:27",
             "Latitude": "37.8710",
             "Longitude": "33.8663",
             "Depth": "5.0",
             "ML": "2.2",
             "Location": "GOLOREN EMIRGAZI KONYA"
+        },
+        {
+            "Date": "2022.05.28",
+            "Time": "00:19:09",
+            "Latitude": "38.9757",
+            "Longitude": "25.9958",
+            "Depth": "7.6",
+            "ML": "1.9",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.27",
+            "Time": "22:16:19",
+            "Latitude": "40.5627",
+            "Longitude": "36.9658",
+            "Depth": "5.8",
+            "ML": "1.9",
+            "Location": "SULUGOL NIKSAR TOKAT"
         },
         {
             "Date": "2022.05.27",
@@ -4418,51 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.6",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "12:26:32",
-            "Latitude": "38.0872",
-            "Longitude": "32.6637",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "KARAOMERLER SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "12:03:23",
-            "Latitude": "39.8007",
-            "Longitude": "26.2507",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "GOKCEBAYIR EZINE CANAKKALE"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "11:50:15",
-            "Latitude": "36.1913",
-            "Longitude": "33.5033",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "KOCASLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "11:40:49",
-            "Latitude": "37.7200",
-            "Longitude": "27.1467",
-            "Depth": "4.1",
-            "ML": "1.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "11:39:02",
-            "Latitude": "36.6138",
-            "Longitude": "33.6710",
-            "Depth": "22.2",
-            "ML": "1.5",
-            "Location": "DEREKOY MUT MERSIN"
         }
     ]
 }
