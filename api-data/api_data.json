@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.28",
+            "Time": "22:56:16",
+            "Latitude": "34.5620",
+            "Longitude": "26.6308",
+            "Depth": "11.1",
+            "ML": "3.2",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.28",
             "Time": "20:22:09",
             "Latitude": "39.3663",
             "Longitude": "44.4645",
@@ -4454,15 +4463,6 @@
             "Depth": "83.8",
             "ML": "2.1",
             "Location": "KOVANLIK DOSEMEALTI ANTALYA"
-        },
-        {
-            "Date": "2022.05.16",
-            "Time": "23:11:38",
-            "Latitude": "40.7313",
-            "Longitude": "27.4133",
-            "Depth": "11.3",
-            "ML": "1.7",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
         }
     ]
 }
