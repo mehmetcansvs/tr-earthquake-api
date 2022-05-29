@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.29",
+            "Time": "17:12:36",
+            "Latitude": "40.7035",
+            "Longitude": "27.4630",
+            "Depth": "15.5",
+            "ML": "2.3",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.05.29",
             "Time": "16:50:39",
             "Latitude": "36.5817",
             "Longitude": "25.5412",
@@ -4454,15 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.7",
             "Location": "AKKAYA GEDIZ KUTAHYA"
-        },
-        {
-            "Date": "2022.05.17",
-            "Time": "15:00:58",
-            "Latitude": "36.8560",
-            "Longitude": "38.2805",
-            "Depth": "3.2",
-            "ML": "2.3",
-            "Location": "YUMURTALIK SURUC SANLIURFA"
         }
     ]
 }
