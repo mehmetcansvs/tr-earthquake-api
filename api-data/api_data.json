@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.05.30",
+            "Time": "00:34:10",
+            "Latitude": "36.4020",
+            "Longitude": "27.0033",
+            "Depth": "9.1",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "00:21:39",
+            "Latitude": "36.9685",
+            "Longitude": "27.3755",
+            "Depth": "11.3",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
             "Date": "2022.05.29",
             "Time": "22:54:42",
             "Latitude": "36.2050",
@@ -16,6 +34,15 @@
             "Longitude": "27.8885",
             "Depth": "16.7",
             "ML": "1.8",
+            "Location": "SELCIKLI AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.05.29",
+            "Time": "22:21:09",
+            "Latitude": "39.0903",
+            "Longitude": "27.8903",
+            "Depth": "16.6",
+            "ML": "1.3",
             "Location": "SELCIKLI AKHISAR MANISA"
         },
         {
@@ -4436,33 +4463,6 @@
             "Depth": "18.6",
             "ML": "2.0",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "02:29:16",
-            "Latitude": "37.0352",
-            "Longitude": "26.5802",
-            "Depth": "7.6",
-            "ML": "1.5",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "02:26:25",
-            "Latitude": "37.1523",
-            "Longitude": "28.7575",
-            "Depth": "11.7",
-            "ML": "1.2",
-            "Location": "TURGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "02:11:14",
-            "Latitude": "37.8687",
-            "Longitude": "29.4333",
-            "Depth": "11.4",
-            "ML": "1.1",
-            "Location": "YOKUSBASI HONAZ DENIZLI"
         }
     ]
 }
