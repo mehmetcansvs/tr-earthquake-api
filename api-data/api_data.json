@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.05.29",
+            "Time": "06:42:42",
+            "Latitude": "38.9428",
+            "Longitude": "30.0167",
+            "Depth": "2.5",
+            "ML": "1.7",
+            "Location": "ALLIOREN DUMLUPINAR KUTAHYA"
+        },
+        {
+            "Date": "2022.05.29",
             "Time": "06:11:36",
             "Latitude": "40.4305",
             "Longitude": "32.8385",
@@ -17,6 +26,24 @@
             "Depth": "2.3",
             "ML": "1.9",
             "Location": "YAYLALIOZU BALA ANKARA"
+        },
+        {
+            "Date": "2022.05.29",
+            "Time": "05:50:37",
+            "Latitude": "36.3145",
+            "Longitude": "36.0648",
+            "Depth": "6.6",
+            "ML": "1.7",
+            "Location": "KARLISU HATAY"
+        },
+        {
+            "Date": "2022.05.29",
+            "Time": "05:42:59",
+            "Latitude": "37.8173",
+            "Longitude": "29.3762",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "ASAGIDAGDERE HONAZ DENIZLI"
         },
         {
             "Date": "2022.05.29",
@@ -4436,33 +4463,6 @@
             "Depth": "18.3",
             "ML": "1.1",
             "Location": "BOLU"
-        },
-        {
-            "Date": "2022.05.17",
-            "Time": "10:44:03",
-            "Latitude": "37.6393",
-            "Longitude": "29.1223",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "PINARLIK TAVAS DENIZLI"
-        },
-        {
-            "Date": "2022.05.17",
-            "Time": "09:38:47",
-            "Latitude": "36.8695",
-            "Longitude": "27.5260",
-            "Depth": "5.2",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.17",
-            "Time": "09:34:44",
-            "Latitude": "39.4217",
-            "Longitude": "27.9045",
-            "Depth": "15.5",
-            "ML": "1.1",
-            "Location": "BAYAT BALIKESIR"
         }
     ]
 }
