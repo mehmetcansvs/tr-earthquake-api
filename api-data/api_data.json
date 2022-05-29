@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.05.29",
+            "Time": "19:24:49",
+            "Latitude": "36.6197",
+            "Longitude": "28.1792",
+            "Depth": "10.2",
+            "ML": "1.6",
+            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.05.29",
+            "Time": "18:30:12",
+            "Latitude": "38.9383",
+            "Longitude": "25.9735",
+            "Depth": "15.2",
+            "ML": "2.5",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.29",
+            "Time": "18:18:57",
+            "Latitude": "39.0273",
+            "Longitude": "38.8388",
+            "Depth": "23.1",
+            "ML": "1.5",
+            "Location": "YUNBUKEN CEMISGEZEK TUNCELI"
+        },
+        {
+            "Date": "2022.05.29",
+            "Time": "17:46:53",
+            "Latitude": "40.1497",
+            "Longitude": "27.2117",
+            "Depth": "14.0",
+            "ML": "1.5",
+            "Location": "KAPANBELENI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.05.29",
+            "Time": "17:36:59",
+            "Latitude": "39.1755",
+            "Longitude": "40.3948",
+            "Depth": "10.1",
+            "ML": "2.1",
+            "Location": "HASBAGLAR ADAKLI BINGOL"
+        },
+        {
+            "Date": "2022.05.29",
+            "Time": "17:31:00",
+            "Latitude": "36.4133",
+            "Longitude": "27.1190",
+            "Depth": "7.7",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.29",
             "Time": "17:12:36",
             "Latitude": "40.7035",
             "Longitude": "27.4630",
@@ -4409,60 +4463,6 @@
             "Depth": "5.3",
             "ML": "2.0",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.17",
-            "Time": "17:35:10",
-            "Latitude": "36.1598",
-            "Longitude": "33.5565",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.05.17",
-            "Time": "17:21:27",
-            "Latitude": "39.4418",
-            "Longitude": "31.5797",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.05.17",
-            "Time": "16:37:14",
-            "Latitude": "37.9895",
-            "Longitude": "28.9008",
-            "Depth": "4.6",
-            "ML": "1.3",
-            "Location": "SAZAK SARAYKOY DENIZLI"
-        },
-        {
-            "Date": "2022.05.17",
-            "Time": "16:01:03",
-            "Latitude": "41.0837",
-            "Longitude": "25.9818",
-            "Depth": "7.3",
-            "ML": "3.2",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.17",
-            "Time": "15:19:58",
-            "Latitude": "34.7822",
-            "Longitude": "24.6607",
-            "Depth": "16.5",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.17",
-            "Time": "15:05:45",
-            "Latitude": "39.1425",
-            "Longitude": "29.4297",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "AKKAYA GEDIZ KUTAHYA"
         }
     ]
 }
