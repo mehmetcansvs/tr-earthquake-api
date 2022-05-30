@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.05.31",
+            "Time": "00:13:18",
+            "Latitude": "39.2938",
+            "Longitude": "29.1902",
+            "Depth": "11.4",
+            "ML": "1.9",
+            "Location": "YENICE EMET KUTAHYA"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "23:47:46",
+            "Latitude": "40.0858",
+            "Longitude": "28.8258",
+            "Depth": "5.3",
+            "ML": "1.7",
+            "Location": "UCPINAR NILUFER BURSA"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "23:24:42",
+            "Latitude": "37.4952",
+            "Longitude": "35.8470",
+            "Depth": "19.7",
+            "ML": "1.6",
+            "Location": "DURMUSLU KOZAN ADANA"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "23:20:56",
+            "Latitude": "38.0218",
+            "Longitude": "29.0243",
+            "Depth": "8.6",
+            "ML": "2.0",
+            "Location": "TEPEKOY SARAYKOY DENIZLI"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "23:19:57",
+            "Latitude": "38.9765",
+            "Longitude": "23.9898",
+            "Depth": "13.4",
+            "ML": "1.8",
+            "Location": "YUNANISTAN"
+        },
+        {
             "Date": "2022.05.30",
             "Time": "22:55:00",
             "Latitude": "39.0077",
@@ -4409,51 +4454,6 @@
             "Depth": "8.9",
             "ML": "1.8",
             "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "18:19:47",
-            "Latitude": "38.7948",
-            "Longitude": "33.6248",
-            "Depth": "4.5",
-            "ML": "1.8",
-            "Location": "KARANDERE SEREFLIKOCHISAR ANKARA"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "17:17:45",
-            "Latitude": "38.0963",
-            "Longitude": "30.0542",
-            "Depth": "3.5",
-            "ML": "1.5",
-            "Location": "AVDAN DINAR AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "17:08:41",
-            "Latitude": "37.7878",
-            "Longitude": "30.0615",
-            "Depth": "3.2",
-            "ML": "2.3",
-            "Location": "CIGRI BASMAKCI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "16:31:00",
-            "Latitude": "40.6085",
-            "Longitude": "32.9965",
-            "Depth": "8.1",
-            "ML": "2.4",
-            "Location": "DODURGA ORTA CANKIRI"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "14:52:33",
-            "Latitude": "41.6990",
-            "Longitude": "23.6742",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "BULGARISTAN"
         }
     ]
 }
