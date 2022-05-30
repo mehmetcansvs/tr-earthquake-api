@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.30",
+            "Time": "07:03:23",
+            "Latitude": "40.8368",
+            "Longitude": "31.0157",
+            "Depth": "10.1",
+            "ML": "1.7",
+            "Location": "YAYAKBASI DUZCE"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "06:48:52",
+            "Latitude": "37.1163",
+            "Longitude": "29.0175",
+            "Depth": "6.8",
+            "ML": "2.3",
+            "Location": "SANDALCIK ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.05.30",
             "Time": "06:14:58",
             "Latitude": "39.5240",
             "Longitude": "27.1050",
@@ -4445,24 +4463,6 @@
             "Depth": "4.9",
             "ML": "2.1",
             "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "13:20:27",
-            "Latitude": "37.6810",
-            "Longitude": "31.2547",
-            "Depth": "15.4",
-            "ML": "2.2",
-            "Location": "ELDERE AKSU ISPARTA"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "13:17:47",
-            "Latitude": "36.5630",
-            "Longitude": "29.3062",
-            "Depth": "27.7",
-            "ML": "1.8",
-            "Location": "CALTIOZU FETHIYE MUGLA"
         }
     ]
 }
