@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.30",
+            "Time": "21:07:19",
+            "Latitude": "37.4107",
+            "Longitude": "35.9577",
+            "Depth": "15.2",
+            "ML": "3.6",
+            "Location": "KUCUKCINAR SUMBAS OSMANIYE"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "18:54:13",
+            "Latitude": "35.7767",
+            "Longitude": "26.4665",
+            "Depth": "18.3",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.30",
             "Time": "18:40:02",
             "Latitude": "39.4685",
             "Longitude": "32.3593",
@@ -4436,24 +4454,6 @@
             "Depth": "23.7",
             "ML": "1.5",
             "Location": "YAKA BASMAKCI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "12:00:07",
-            "Latitude": "37.0248",
-            "Longitude": "28.3645",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "10:44:42",
-            "Latitude": "37.2637",
-            "Longitude": "37.0488",
-            "Depth": "0.0",
-            "ML": "2.2",
-            "Location": "KARAHUYUK PAZARCIK KAHRAMANMARAS"
         }
     ]
 }
