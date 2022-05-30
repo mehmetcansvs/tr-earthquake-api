@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.05.30",
+            "Time": "11:05:28",
+            "Latitude": "34.8823",
+            "Longitude": "24.9757",
+            "Depth": "7.4",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "10:46:46",
+            "Latitude": "36.9815",
+            "Longitude": "23.9358",
+            "Depth": "8.3",
+            "ML": "3.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "10:45:57",
+            "Latitude": "40.0148",
+            "Longitude": "26.9855",
+            "Depth": "1.0",
+            "ML": "1.2",
+            "Location": "DURALI CAN CANAKKALE"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "10:38:17",
+            "Latitude": "39.0030",
+            "Longitude": "27.8495",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "GOKCEAHMET AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "10:02:49",
+            "Latitude": "34.8727",
+            "Longitude": "24.9950",
+            "Depth": "6.9",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "09:07:31",
+            "Latitude": "38.9987",
+            "Longitude": "27.8350",
+            "Depth": "7.6",
+            "ML": "1.4",
+            "Location": "GOKCEAHMET AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "08:43:51",
+            "Latitude": "39.6552",
+            "Longitude": "24.5147",
+            "Depth": "10.3",
+            "ML": "1.6",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.30",
             "Time": "07:50:53",
             "Latitude": "39.5758",
             "Longitude": "25.9690",
@@ -4400,69 +4463,6 @@
             "Depth": "2.3",
             "ML": "1.3",
             "Location": "CAMLI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "22:14:13",
-            "Latitude": "38.4892",
-            "Longitude": "43.7810",
-            "Depth": "9.9",
-            "ML": "1.6",
-            "Location": "KARLIYAMAC OZALP VAN"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "20:21:39",
-            "Latitude": "36.5007",
-            "Longitude": "26.8112",
-            "Depth": "124.2",
-            "ML": "4.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "19:29:09",
-            "Latitude": "38.1460",
-            "Longitude": "25.8095",
-            "Depth": "13.2",
-            "ML": "2.4",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "18:03:58",
-            "Latitude": "36.7292",
-            "Longitude": "28.2318",
-            "Depth": "70.3",
-            "ML": "2.3",
-            "Location": "OSMANIYE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "17:25:21",
-            "Latitude": "39.6905",
-            "Longitude": "23.2723",
-            "Depth": "13.1",
-            "ML": "2.6",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "17:24:24",
-            "Latitude": "36.1503",
-            "Longitude": "33.5495",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "17:22:43",
-            "Latitude": "36.4340",
-            "Longitude": "34.4707",
-            "Depth": "10.0",
-            "ML": "1.8",
-            "Location": "ERDEMLI ACIKLARI MERSIN AKDENIZ"
         }
     ]
 }
