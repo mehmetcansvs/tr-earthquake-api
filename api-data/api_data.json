@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.30",
+            "Time": "16:00:21",
+            "Latitude": "35.0468",
+            "Longitude": "25.3948",
+            "Depth": "79.0",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI AKDENIZ REVIZE MUSALAR AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "15:37:27",
+            "Latitude": "36.1503",
+            "Longitude": "33.5282",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "14:57:09",
+            "Latitude": "35.3257",
+            "Longitude": "25.2197",
+            "Depth": "19.3",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.30",
             "Time": "14:16:42",
             "Latitude": "38.3382",
             "Longitude": "31.7575",
@@ -4427,42 +4454,6 @@
             "Depth": "74.9",
             "ML": "2.9",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "06:03:35",
-            "Latitude": "37.6068",
-            "Longitude": "35.6018",
-            "Depth": "5.2",
-            "ML": "2.0",
-            "Location": "GOKGOZ KOZAN ADANA"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "05:28:10",
-            "Latitude": "36.2403",
-            "Longitude": "25.2975",
-            "Depth": "23.7",
-            "ML": "1.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "04:31:23",
-            "Latitude": "40.0455",
-            "Longitude": "41.2912",
-            "Depth": "8.0",
-            "ML": "1.5",
-            "Location": "AKDAG YAKUTIYE ERZURUM"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "04:13:52",
-            "Latitude": "37.8075",
-            "Longitude": "27.0675",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
