@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.30",
+            "Time": "18:40:02",
+            "Latitude": "39.4685",
+            "Longitude": "32.3593",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "KARAYAVSAN POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "18:25:53",
+            "Latitude": "38.5695",
+            "Longitude": "30.8440",
+            "Depth": "2.4",
+            "ML": "2.3",
+            "Location": "KIZILDAG AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "18:22:11",
+            "Latitude": "39.4725",
+            "Longitude": "32.3457",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "KARAYAVSAN POLATLI ANKARA"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "17:44:24",
+            "Latitude": "37.1053",
+            "Longitude": "29.2228",
+            "Depth": "7.8",
+            "ML": "2.3",
+            "Location": "KOCAOVA CAMELI DENIZLI"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "17:32:59",
+            "Latitude": "37.2078",
+            "Longitude": "36.0685",
+            "Depth": "8.5",
+            "ML": "3.3",
+            "Location": "ORHANIYE OSMANIYE"
+        },
+        {
+            "Date": "2022.05.30",
             "Time": "16:00:21",
             "Latitude": "35.0468",
             "Longitude": "25.3948",
@@ -4409,51 +4454,6 @@
             "Depth": "0.0",
             "ML": "2.2",
             "Location": "KARAHUYUK PAZARCIK KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "10:07:39",
-            "Latitude": "37.8865",
-            "Longitude": "27.1227",
-            "Depth": "6.0",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "09:45:11",
-            "Latitude": "37.8352",
-            "Longitude": "29.7350",
-            "Depth": "10.5",
-            "ML": "1.5",
-            "Location": "CARDAK DENIZLI"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "07:20:12",
-            "Latitude": "37.0947",
-            "Longitude": "28.4762",
-            "Depth": "3.0",
-            "ML": "1.4",
-            "Location": "CICEKLI ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "06:34:42",
-            "Latitude": "36.9895",
-            "Longitude": "27.6568",
-            "Depth": "7.2",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "06:08:10",
-            "Latitude": "34.1308",
-            "Longitude": "22.2067",
-            "Depth": "74.9",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
