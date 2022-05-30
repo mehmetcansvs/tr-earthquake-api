@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.30",
+            "Time": "06:14:58",
+            "Latitude": "39.5240",
+            "Longitude": "27.1050",
+            "Depth": "12.1",
+            "ML": "1.7",
+            "Location": "KUCUKDERE HAVRAN BALIKESIR"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "05:05:20",
+            "Latitude": "40.4640",
+            "Longitude": "32.9230",
+            "Depth": "8.0",
+            "ML": "1.7",
+            "Location": "ULUAGAC CUBUK ANKARA"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "05:02:31",
+            "Latitude": "38.8138",
+            "Longitude": "26.4040",
+            "Depth": "1.0",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "04:40:39",
+            "Latitude": "37.0638",
+            "Longitude": "28.3573",
+            "Depth": "5.6",
+            "ML": "1.7",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.30",
             "Time": "04:24:25",
             "Latitude": "37.3498",
             "Longitude": "43.4112",
@@ -29,12 +65,30 @@
         },
         {
             "Date": "2022.05.30",
+            "Time": "02:35:03",
+            "Latitude": "38.9920",
+            "Longitude": "27.8733",
+            "Depth": "7.3",
+            "ML": "1.5",
+            "Location": "KARABORKLU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.05.30",
             "Time": "02:21:00",
             "Latitude": "38.9953",
             "Longitude": "27.8318",
             "Depth": "6.8",
             "ML": "3.2",
             "Location": "GOKCEAHMET AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "02:02:45",
+            "Latitude": "38.3967",
+            "Longitude": "28.4890",
+            "Depth": "9.3",
+            "ML": "0.7",
+            "Location": "AKKECILI ALASEHIR MANISA"
         },
         {
             "Date": "2022.05.30",
@@ -4409,60 +4463,6 @@
             "Depth": "27.7",
             "ML": "1.8",
             "Location": "CALTIOZU FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "13:16:52",
-            "Latitude": "38.2497",
-            "Longitude": "30.8240",
-            "Depth": "9.2",
-            "ML": "1.9",
-            "Location": "TASEVI YALVAC ISPARTA"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "12:58:58",
-            "Latitude": "38.3210",
-            "Longitude": "38.8123",
-            "Depth": "7.2",
-            "ML": "2.4",
-            "Location": "BOLUKKAYA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "12:31:26",
-            "Latitude": "40.4943",
-            "Longitude": "29.2350",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "FINDIKLI ORHANGAZI BURSA"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "11:36:28",
-            "Latitude": "37.9708",
-            "Longitude": "27.1637",
-            "Depth": "4.6",
-            "ML": "2.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "11:35:41",
-            "Latitude": "37.1593",
-            "Longitude": "28.2387",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "ALGI MUGLA"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "11:35:23",
-            "Latitude": "35.3742",
-            "Longitude": "26.8135",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
