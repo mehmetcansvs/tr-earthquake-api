@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.30",
+            "Time": "07:50:53",
+            "Latitude": "39.5758",
+            "Longitude": "25.9690",
+            "Depth": "9.0",
+            "ML": "2.1",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "07:38:24",
+            "Latitude": "37.7738",
+            "Longitude": "27.0115",
+            "Depth": "4.9",
+            "ML": "1.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "07:33:35",
+            "Latitude": "37.0877",
+            "Longitude": "28.4740",
+            "Depth": "7.5",
+            "ML": "1.6",
+            "Location": "CICEKLI ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.30",
             "Time": "07:03:23",
             "Latitude": "40.8368",
             "Longitude": "31.0157",
@@ -4436,33 +4463,6 @@
             "Depth": "10.0",
             "ML": "1.8",
             "Location": "ERDEMLI ACIKLARI MERSIN AKDENIZ"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "15:36:46",
-            "Latitude": "38.1272",
-            "Longitude": "30.8455",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "AKKECILI SENIRKENT ISPARTA"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "13:53:54",
-            "Latitude": "37.5182",
-            "Longitude": "29.5305",
-            "Depth": "23.8",
-            "ML": "2.1",
-            "Location": "PINARBASI ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.05.18",
-            "Time": "13:25:03",
-            "Latitude": "38.1270",
-            "Longitude": "25.8525",
-            "Depth": "4.9",
-            "ML": "2.1",
-            "Location": "SAKIZ ADASI EGE DENIZI"
         }
     ]
 }
