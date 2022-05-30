@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.05.30",
+            "Time": "14:16:42",
+            "Latitude": "38.3382",
+            "Longitude": "31.7575",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "BOGAZKENT ILGIN KONYA"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "14:03:20",
+            "Latitude": "36.6003",
+            "Longitude": "36.2892",
+            "Depth": "12.5",
+            "ML": "1.7",
+            "Location": "GUZELKOY ISKENDERUN HATAY"
+        },
+        {
+            "Date": "2022.05.30",
             "Time": "12:47:13",
             "Latitude": "40.2478",
             "Longitude": "40.9968",
             "Depth": "15.6",
             "ML": "2.4",
             "Location": "TOPRAKKALE AZIZIYE ERZURUM"
+        },
+        {
+            "Date": "2022.05.30",
+            "Time": "12:11:11",
+            "Latitude": "39.8870",
+            "Longitude": "39.1225",
+            "Depth": "5.3",
+            "ML": "2.0",
+            "Location": "KOCYATAGI ERZINCAN"
         },
         {
             "Date": "2022.05.30",
@@ -4436,33 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "04:11:10",
-            "Latitude": "39.7293",
-            "Longitude": "42.1925",
-            "Depth": "9.0",
-            "ML": "1.6",
-            "Location": "KOYCEGIZ KARAYAZI ERZURUM"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "02:55:02",
-            "Latitude": "37.8542",
-            "Longitude": "27.3585",
-            "Depth": "6.6",
-            "ML": "3.1",
-            "Location": "YENIKOY KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.05.19",
-            "Time": "02:19:29",
-            "Latitude": "40.0483",
-            "Longitude": "27.4265",
-            "Depth": "8.4",
-            "ML": "2.0",
-            "Location": "TABANKOY YENICE CANAKKALE"
         }
     ]
 }
