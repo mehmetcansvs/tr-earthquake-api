@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.06.01",
+            "Time": "01:04:01",
+            "Latitude": "39.1520",
+            "Longitude": "29.0533",
+            "Depth": "11.7",
+            "ML": "1.7",
+            "Location": "AHLATLICESME SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "00:35:31",
+            "Latitude": "36.5140",
+            "Longitude": "27.1455",
+            "Depth": "6.7",
+            "ML": "2.1",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "22:47:13",
+            "Latitude": "35.3030",
+            "Longitude": "23.3098",
+            "Depth": "13.2",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
             "Date": "2022.05.31",
             "Time": "22:33:16",
             "Latitude": "40.8337",
@@ -4436,33 +4463,6 @@
             "Depth": "1.0",
             "ML": "1.8",
             "Location": "GURLEYEN DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "23:23:10",
-            "Latitude": "36.3227",
-            "Longitude": "29.7465",
-            "Depth": "2.3",
-            "ML": "1.7",
-            "Location": "KASABA KAS ANTALYA"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "22:00:51",
-            "Latitude": "40.7887",
-            "Longitude": "27.8828",
-            "Depth": "7.3",
-            "ML": "1.9",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "21:29:03",
-            "Latitude": "38.2430",
-            "Longitude": "28.7118",
-            "Depth": "10.1",
-            "ML": "1.8",
-            "Location": "DOGUSLAR SARIGOL MANISA"
         }
     ]
 }
