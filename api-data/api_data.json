@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.31",
+            "Time": "18:51:18",
+            "Latitude": "39.3733",
+            "Longitude": "31.5378",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "ASAGIKEPEN SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "18:45:43",
+            "Latitude": "38.9767",
+            "Longitude": "29.7222",
+            "Depth": "2.9",
+            "ML": "4.4",
+            "Location": "CUKUROREN GEDIZ KUTAHYA"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "17:21:15",
+            "Latitude": "36.1022",
+            "Longitude": "28.1277",
+            "Depth": "46.4",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.31",
             "Time": "15:56:43",
             "Latitude": "37.8642",
             "Longitude": "27.1940",
@@ -4436,33 +4463,6 @@
             "Depth": "7.3",
             "ML": "2.3",
             "Location": "GANIEFENDICIFTLIGI ERZINCAN"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "18:00:23",
-            "Latitude": "38.9662",
-            "Longitude": "27.0690",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "ZEYTINDAG BERGAMA IZMIR"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "17:55:47",
-            "Latitude": "37.0947",
-            "Longitude": "28.5903",
-            "Depth": "13.4",
-            "ML": "1.8",
-            "Location": "ARICILAR ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "17:31:12",
-            "Latitude": "37.8923",
-            "Longitude": "30.9455",
-            "Depth": "6.4",
-            "ML": "2.4",
-            "Location": "SORKUNCAK EGIRDIR ISPARTA"
         }
     ]
 }
