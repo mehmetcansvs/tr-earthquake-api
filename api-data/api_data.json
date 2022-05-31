@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.05.31",
+            "Time": "09:37:28",
+            "Latitude": "35.3053",
+            "Longitude": "26.2432",
+            "Depth": "11.0",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "09:25:15",
+            "Latitude": "39.0457",
+            "Longitude": "37.4067",
+            "Depth": "13.4",
+            "ML": "2.0",
+            "Location": "SEKERPINAR KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "09:23:41",
+            "Latitude": "38.0792",
+            "Longitude": "27.2318",
+            "Depth": "2.7",
+            "ML": "1.9",
+            "Location": "CAKALTEPE MENDERES IZMIR"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "08:51:14",
+            "Latitude": "37.8033",
+            "Longitude": "27.1763",
+            "Depth": "3.2",
+            "ML": "1.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.31",
             "Time": "07:07:03",
             "Latitude": "39.5492",
             "Longitude": "28.3787",
@@ -4418,42 +4454,6 @@
             "Depth": "2.6",
             "ML": "2.2",
             "Location": "CAMDIBI ASLANAPA KUTAHYA"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "11:32:23",
-            "Latitude": "40.7153",
-            "Longitude": "32.3768",
-            "Depth": "11.9",
-            "ML": "1.9",
-            "Location": "KULEF GEREDE BOLU"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "11:22:29",
-            "Latitude": "38.8782",
-            "Longitude": "26.1897",
-            "Depth": "3.6",
-            "ML": "2.0",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "11:19:10",
-            "Latitude": "38.4185",
-            "Longitude": "39.1658",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "KAVAKKOY SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "11:17:20",
-            "Latitude": "37.6927",
-            "Longitude": "36.2913",
-            "Depth": "5.4",
-            "ML": "1.9",
-            "Location": "OSMANCIK ANDIRIN KAHRAMANMARAS"
         }
     ]
 }
