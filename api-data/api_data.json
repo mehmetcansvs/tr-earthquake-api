@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.31",
+            "Time": "14:26:17",
+            "Latitude": "36.1305",
+            "Longitude": "33.5077",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "13:41:50",
+            "Latitude": "36.4005",
+            "Longitude": "27.0440",
+            "Depth": "5.6",
+            "ML": "3.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.31",
             "Time": "13:10:32",
             "Latitude": "37.7305",
             "Longitude": "27.0292",
@@ -4445,15 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "YESILOVACIK SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "15:31:44",
-            "Latitude": "36.1760",
-            "Longitude": "33.7110",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "YESILOVACIK SILIFKE MERSIN REVIZE KARACOBANPINARI TEPEBASI ESKISEHIR"
         }
     ]
 }
