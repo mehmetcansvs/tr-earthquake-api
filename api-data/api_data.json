@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.31",
+            "Time": "05:59:48",
+            "Latitude": "35.9300",
+            "Longitude": "31.7993",
+            "Depth": "28.4",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "05:56:45",
+            "Latitude": "37.8315",
+            "Longitude": "29.7152",
+            "Depth": "12.0",
+            "ML": "1.5",
+            "Location": "CARDAK DENIZLI"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "05:23:17",
+            "Latitude": "38.1577",
+            "Longitude": "38.5948",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "TEKEDERESI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.05.31",
             "Time": "04:06:06",
             "Latitude": "37.5813",
             "Longitude": "29.9312",
@@ -4427,33 +4454,6 @@
             "Depth": "7.7",
             "ML": "2.2",
             "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "03:51:17",
-            "Latitude": "38.4198",
-            "Longitude": "42.0237",
-            "Depth": "2.1",
-            "ML": "1.9",
-            "Location": "KONUKSAYAR BITLIS"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "02:49:40",
-            "Latitude": "40.5872",
-            "Longitude": "36.8768",
-            "Depth": "6.3",
-            "ML": "2.0",
-            "Location": "SAHINLI NIKSAR TOKAT"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "02:15:14",
-            "Latitude": "37.9178",
-            "Longitude": "26.9107",
-            "Depth": "7.5",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
