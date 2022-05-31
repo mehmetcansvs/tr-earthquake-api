@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.05.31",
+            "Time": "15:56:43",
+            "Latitude": "37.8642",
+            "Longitude": "27.1940",
+            "Depth": "4.7",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "14:26:56",
+            "Latitude": "38.8000",
+            "Longitude": "28.9597",
+            "Depth": "8.2",
+            "ML": "2.0",
+            "Location": "KABAKLAR SELENDI MANISA"
+        },
+        {
+            "Date": "2022.05.31",
             "Time": "14:26:17",
             "Latitude": "36.1305",
             "Longitude": "33.5077",
@@ -4445,24 +4463,6 @@
             "Depth": "6.4",
             "ML": "2.4",
             "Location": "SORKUNCAK EGIRDIR ISPARTA"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "15:36:10",
-            "Latitude": "36.9743",
-            "Longitude": "27.6572",
-            "Depth": "7.4",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "15:33:17",
-            "Latitude": "36.1962",
-            "Longitude": "33.6915",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "YESILOVACIK SILIFKE MERSIN"
         }
     ]
 }
