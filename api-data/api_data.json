@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.05.31",
+            "Time": "13:10:32",
+            "Latitude": "37.7305",
+            "Longitude": "27.0292",
+            "Depth": "1.6",
+            "ML": "3.1",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "12:56:37",
+            "Latitude": "39.0823",
+            "Longitude": "25.9333",
+            "Depth": "5.6",
+            "ML": "2.0",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "12:55:29",
+            "Latitude": "37.0885",
+            "Longitude": "28.4020",
+            "Depth": "3.5",
+            "ML": "1.9",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "12:26:56",
+            "Latitude": "38.1210",
+            "Longitude": "38.4925",
+            "Depth": "6.9",
+            "ML": "2.1",
+            "Location": "AKSU SINCIK ADIYAMAN"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "11:38:04",
+            "Latitude": "36.4668",
+            "Longitude": "27.7373",
+            "Depth": "3.7",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.31",
             "Time": "09:37:28",
             "Latitude": "35.3053",
             "Longitude": "26.2432",
@@ -4409,51 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "YESILOVACIK SILIFKE MERSIN REVIZE KARACOBANPINARI TEPEBASI ESKISEHIR"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "13:45:10",
-            "Latitude": "36.3603",
-            "Longitude": "36.6675",
-            "Depth": "6.1",
-            "ML": "2.2",
-            "Location": "BUKULMEZ REYHANLI HATAY"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "13:04:02",
-            "Latitude": "40.6180",
-            "Longitude": "33.4003",
-            "Depth": "12.9",
-            "ML": "2.4",
-            "Location": "MARUF KORGUN CANKIRI"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "12:00:27",
-            "Latitude": "39.0600",
-            "Longitude": "29.7052",
-            "Depth": "4.8",
-            "ML": "2.5",
-            "Location": "CAMDIBI ASLANAPA KUTAHYA"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "11:46:52",
-            "Latitude": "39.0790",
-            "Longitude": "29.7377",
-            "Depth": "5.1",
-            "ML": "1.9",
-            "Location": "CAMDIBI ASLANAPA KUTAHYA"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "11:38:57",
-            "Latitude": "39.0640",
-            "Longitude": "29.7032",
-            "Depth": "2.6",
-            "ML": "2.2",
-            "Location": "CAMDIBI ASLANAPA KUTAHYA"
         }
     ]
 }
