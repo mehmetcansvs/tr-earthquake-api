@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.05.31",
+            "Time": "20:55:10",
+            "Latitude": "36.4288",
+            "Longitude": "27.0087",
+            "Depth": "2.1",
+            "ML": "3.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "20:45:04",
+            "Latitude": "38.8403",
+            "Longitude": "27.5805",
+            "Depth": "10.0",
+            "ML": "3.3",
+            "Location": "TASDIBI SARUHANLI MANISA"
+        },
+        {
+            "Date": "2022.05.31",
+            "Time": "19:21:21",
+            "Latitude": "36.4100",
+            "Longitude": "27.0935",
+            "Depth": "9.2",
+            "ML": "2.1",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.05.31",
             "Time": "18:51:18",
             "Latitude": "39.3733",
             "Longitude": "31.5378",
@@ -4436,33 +4463,6 @@
             "Depth": "6.5",
             "ML": "1.5",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "19:15:23",
-            "Latitude": "40.8608",
-            "Longitude": "27.5827",
-            "Depth": "20.0",
-            "ML": "1.6",
-            "Location": "TEKIRDAG ACIKLARI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "19:04:20",
-            "Latitude": "38.5782",
-            "Longitude": "43.6883",
-            "Depth": "12.7",
-            "ML": "2.7",
-            "Location": "ORTANCA VAN"
-        },
-        {
-            "Date": "2022.05.20",
-            "Time": "18:26:25",
-            "Latitude": "39.6672",
-            "Longitude": "39.6168",
-            "Depth": "7.3",
-            "ML": "2.3",
-            "Location": "GANIEFENDICIFTLIGI ERZINCAN"
         }
     ]
 }
