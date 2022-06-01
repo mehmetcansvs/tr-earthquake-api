@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.01",
+            "Time": "23:49:24",
+            "Latitude": "38.5083",
+            "Longitude": "39.3188",
+            "Depth": "8.0",
+            "ML": "2.4",
+            "Location": "GUNEYKOY SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "23:29:25",
+            "Latitude": "39.5320",
+            "Longitude": "26.1647",
+            "Depth": "10.9",
+            "ML": "2.3",
+            "Location": "YUKARIKOY AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.06.01",
             "Time": "23:09:13",
             "Latitude": "39.6897",
             "Longitude": "27.6635",
@@ -4445,24 +4463,6 @@
             "Depth": "8.1",
             "ML": "1.7",
             "Location": "EMECIK DATCA MUGLA"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "01:25:38",
-            "Latitude": "40.6750",
-            "Longitude": "31.5090",
-            "Depth": "12.3",
-            "ML": "1.5",
-            "Location": "CEPNI BOLU"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "01:21:42",
-            "Latitude": "38.6668",
-            "Longitude": "24.6542",
-            "Depth": "11.1",
-            "ML": "2.2",
-            "Location": "EGE DENIZI"
         }
     ]
 }
