@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.01",
+            "Time": "08:07:41",
+            "Latitude": "38.4093",
+            "Longitude": "43.4882",
+            "Depth": "12.2",
+            "ML": "2.8",
+            "Location": "TASKONAK VAN"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "07:42:51",
+            "Latitude": "40.1783",
+            "Longitude": "31.7422",
+            "Depth": "8.0",
+            "ML": "2.4",
+            "Location": "HIRKATEPE BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.06.01",
             "Time": "06:39:06",
             "Latitude": "39.4822",
             "Longitude": "31.5115",
@@ -4445,24 +4463,6 @@
             "Depth": "19.9",
             "ML": "1.8",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "06:04:46",
-            "Latitude": "36.4373",
-            "Longitude": "27.0247",
-            "Depth": "119.0",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "06:00:51",
-            "Latitude": "35.4128",
-            "Longitude": "24.5198",
-            "Depth": "27.4",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
