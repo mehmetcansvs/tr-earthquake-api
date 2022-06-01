@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.01",
+            "Time": "17:34:41",
+            "Latitude": "37.8015",
+            "Longitude": "26.9397",
+            "Depth": "18.5",
+            "ML": "2.3",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "17:21:10",
+            "Latitude": "34.8408",
+            "Longitude": "23.0040",
+            "Depth": "11.1",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "17:11:42",
+            "Latitude": "40.2750",
+            "Longitude": "27.0623",
+            "Depth": "15.3",
+            "ML": "1.7",
+            "Location": "SELVI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.01",
             "Time": "16:30:57",
             "Latitude": "40.2910",
             "Longitude": "27.0575",
@@ -4436,33 +4463,6 @@
             "Depth": "9.2",
             "ML": "2.3",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "18:03:01",
-            "Latitude": "36.9018",
-            "Longitude": "28.2997",
-            "Depth": "17.2",
-            "ML": "1.8",
-            "Location": "BELDIBI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "17:25:24",
-            "Latitude": "36.9050",
-            "Longitude": "28.2835",
-            "Depth": "12.0",
-            "ML": "2.3",
-            "Location": "BELDIBI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "15:24:33",
-            "Latitude": "40.2522",
-            "Longitude": "31.7062",
-            "Depth": "13.9",
-            "ML": "1.6",
-            "Location": "DUDAS BEYPAZARI ANKARA"
         }
     ]
 }
