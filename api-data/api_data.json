@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.01",
+            "Time": "16:30:57",
+            "Latitude": "40.2910",
+            "Longitude": "27.0575",
+            "Depth": "6.6",
+            "ML": "2.3",
+            "Location": "SELVI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "16:15:24",
+            "Latitude": "38.6323",
+            "Longitude": "31.0502",
+            "Depth": "18.0",
+            "ML": "1.2",
+            "Location": "YESILYURT CAY AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "16:00:22",
+            "Latitude": "39.4878",
+            "Longitude": "31.4983",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2022.06.01",
             "Time": "14:59:01",
             "Latitude": "36.9492",
             "Longitude": "27.7415",
@@ -53,6 +80,24 @@
             "Depth": "4.7",
             "ML": "2.3",
             "Location": "HISARLI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "11:10:39",
+            "Latitude": "37.0548",
+            "Longitude": "27.9767",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "OREN MILAS MUGLA"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "11:08:40",
+            "Latitude": "36.9540",
+            "Longitude": "27.9042",
+            "Depth": "17.2",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
         },
         {
             "Date": "2022.06.01",
@@ -4418,51 +4463,6 @@
             "Depth": "13.9",
             "ML": "1.6",
             "Location": "DUDAS BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "14:57:00",
-            "Latitude": "38.1438",
-            "Longitude": "38.5723",
-            "Depth": "4.4",
-            "ML": "1.6",
-            "Location": "ARIKONAK SINCIK ADIYAMAN"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "14:10:05",
-            "Latitude": "34.7757",
-            "Longitude": "24.7948",
-            "Depth": "8.1",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "13:43:37",
-            "Latitude": "36.3962",
-            "Longitude": "28.2858",
-            "Depth": "68.8",
-            "ML": "3.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "13:11:40",
-            "Latitude": "38.9770",
-            "Longitude": "26.3955",
-            "Depth": "9.4",
-            "ML": "2.2",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "13:04:14",
-            "Latitude": "37.3863",
-            "Longitude": "35.2748",
-            "Depth": "5.3",
-            "ML": "1.6",
-            "Location": "FILIKLI KARAISALI ADANA"
         }
     ]
 }
