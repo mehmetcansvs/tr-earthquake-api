@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.01",
+            "Time": "09:36:25",
+            "Latitude": "36.4460",
+            "Longitude": "27.1192",
+            "Depth": "5.2",
+            "ML": "1.9",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.01",
             "Time": "08:07:41",
             "Latitude": "38.4093",
             "Longitude": "43.4882",
@@ -4454,15 +4463,6 @@
             "Depth": "2.3",
             "ML": "1.8",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "06:37:17",
-            "Latitude": "34.8327",
-            "Longitude": "24.8040",
-            "Depth": "19.9",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
