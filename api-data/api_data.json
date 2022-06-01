@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.01",
+            "Time": "21:06:46",
+            "Latitude": "36.4540",
+            "Longitude": "27.1163",
+            "Depth": "10.6",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "20:52:47",
+            "Latitude": "40.2722",
+            "Longitude": "27.0647",
+            "Depth": "9.7",
+            "ML": "2.1",
+            "Location": "SELVI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "19:48:19",
+            "Latitude": "39.1110",
+            "Longitude": "27.7888",
+            "Depth": "16.7",
+            "ML": "2.1",
+            "Location": "KARAKURT KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.06.01",
             "Time": "17:34:41",
             "Latitude": "37.8015",
             "Longitude": "26.9397",
@@ -4436,33 +4463,6 @@
             "Depth": "8.8",
             "ML": "2.0",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "23:58:21",
-            "Latitude": "40.8162",
-            "Longitude": "31.5148",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "19:36:47",
-            "Latitude": "38.6543",
-            "Longitude": "33.5143",
-            "Depth": "4.7",
-            "ML": "2.1",
-            "Location": "KARAMOLLAUSAGI SEREFLIKOCHISAR ANKARA"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "18:55:36",
-            "Latitude": "36.3060",
-            "Longitude": "27.1428",
-            "Depth": "9.2",
-            "ML": "2.3",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
