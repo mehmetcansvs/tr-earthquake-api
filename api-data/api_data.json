@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.01",
+            "Time": "12:13:16",
+            "Latitude": "41.2327",
+            "Longitude": "40.5023",
+            "Depth": "4.3",
+            "ML": "2.9",
+            "Location": "RIZE ACIKLARI KARADENIZ"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "11:48:00",
+            "Latitude": "40.2728",
+            "Longitude": "27.0468",
+            "Depth": "4.7",
+            "ML": "2.3",
+            "Location": "HISARLI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.01",
             "Time": "09:36:25",
             "Latitude": "36.4460",
             "Longitude": "27.1192",
@@ -4445,24 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.7",
             "Location": "OMERALTI MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "08:51:21",
-            "Latitude": "37.6538",
-            "Longitude": "29.6422",
-            "Depth": "5.0",
-            "ML": "1.0",
-            "Location": "HAYRIYE CARDAK DENIZLI"
-        },
-        {
-            "Date": "2022.05.21",
-            "Time": "06:44:51",
-            "Latitude": "36.4057",
-            "Longitude": "27.1163",
-            "Depth": "2.3",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
