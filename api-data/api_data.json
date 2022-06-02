@@ -101,6 +101,15 @@
         },
         {
             "Date": "2022.06.01",
+            "Time": "23:52:01",
+            "Latitude": "34.6393",
+            "Longitude": "24.1897",
+            "Depth": "4.0",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.01",
             "Time": "23:49:24",
             "Latitude": "38.5083",
             "Longitude": "39.3188",
@@ -290,12 +299,30 @@
         },
         {
             "Date": "2022.06.01",
+            "Time": "09:45:35",
+            "Latitude": "36.1317",
+            "Longitude": "25.7308",
+            "Depth": "21.1",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.01",
             "Time": "09:36:25",
             "Latitude": "36.4460",
             "Longitude": "27.1192",
             "Depth": "5.2",
             "ML": "1.9",
             "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "09:30:55",
+            "Latitude": "35.3250",
+            "Longitude": "26.1255",
+            "Depth": "16.5",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.06.01",
@@ -386,6 +413,15 @@
             "Depth": "25.3",
             "ML": "2.2",
             "Location": "AVSAR ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.01",
+            "Time": "04:01:45",
+            "Latitude": "36.0838",
+            "Longitude": "23.6497",
+            "Depth": "26.6",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.06.01",
@@ -4427,42 +4463,6 @@
             "Depth": "15.1",
             "ML": "3.7",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "10:12:48",
-            "Latitude": "40.5765",
-            "Longitude": "27.7413",
-            "Depth": "11.8",
-            "ML": "1.5",
-            "Location": "ASMALI MARMARA BALIKESIR"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "09:43:28",
-            "Latitude": "38.9553",
-            "Longitude": "26.2990",
-            "Depth": "10.3",
-            "ML": "1.7",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "08:45:34",
-            "Latitude": "39.0438",
-            "Longitude": "37.3503",
-            "Depth": "0.0",
-            "ML": "2.1",
-            "Location": "SEKERPINAR KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "08:04:33",
-            "Latitude": "35.8858",
-            "Longitude": "30.3835",
-            "Depth": "7.9",
-            "ML": "2.4",
-            "Location": "AKDENIZ"
         }
     ]
 }
