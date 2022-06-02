@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.06.02",
+            "Time": "04:12:30",
+            "Latitude": "40.4165",
+            "Longitude": "30.7830",
+            "Depth": "12.9",
+            "ML": "1.8",
+            "Location": "GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.06.02",
+            "Time": "02:42:21",
+            "Latitude": "37.5998",
+            "Longitude": "29.9365",
+            "Depth": "2.2",
+            "ML": "2.5",
+            "Location": "YARISLI YESILOVA BURDUR"
+        },
+        {
+            "Date": "2022.06.02",
+            "Time": "02:37:52",
+            "Latitude": "37.5887",
+            "Longitude": "29.9328",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "YARISLI YESILOVA BURDUR"
+        },
+        {
+            "Date": "2022.06.02",
+            "Time": "02:20:15",
+            "Latitude": "38.4022",
+            "Longitude": "23.4852",
+            "Depth": "5.1",
+            "ML": "3.1",
+            "Location": "YUNANISTAN"
+        },
+        {
             "Date": "2022.06.01",
             "Time": "23:49:24",
             "Latitude": "38.5083",
@@ -4427,42 +4463,6 @@
             "Depth": "12.2",
             "ML": "1.7",
             "Location": "CAKMAKLAR AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "04:04:00",
-            "Latitude": "37.0675",
-            "Longitude": "28.3543",
-            "Depth": "6.0",
-            "ML": "1.6",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "03:48:17",
-            "Latitude": "37.0718",
-            "Longitude": "28.3815",
-            "Depth": "6.5",
-            "ML": "2.1",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "02:59:39",
-            "Latitude": "38.1235",
-            "Longitude": "27.4287",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "TULUM TORBALI IZMIR"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "02:14:06",
-            "Latitude": "36.7458",
-            "Longitude": "27.8200",
-            "Depth": "8.1",
-            "ML": "1.7",
-            "Location": "EMECIK DATCA MUGLA"
         }
     ]
 }
