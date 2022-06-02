@@ -20,6 +20,15 @@
         },
         {
             "Date": "2022.06.02",
+            "Time": "08:17:42",
+            "Latitude": "37.0310",
+            "Longitude": "28.3295",
+            "Depth": "6.9",
+            "ML": "1.3",
+            "Location": "GOKCE ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.02",
             "Time": "07:58:12",
             "Latitude": "34.5058",
             "Longitude": "26.4115",
@@ -4454,15 +4463,6 @@
             "Depth": "3.6",
             "ML": "1.0",
             "Location": "CAN CANAKKALE"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "10:51:29",
-            "Latitude": "40.7090",
-            "Longitude": "30.3248",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "UZUNKUM SAPANCA SAKARYA"
         }
     ]
 }
