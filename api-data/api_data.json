@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.02",
+            "Time": "07:58:12",
+            "Latitude": "34.5058",
+            "Longitude": "26.4115",
+            "Depth": "86.0",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.02",
             "Time": "07:24:02",
             "Latitude": "38.4767",
             "Longitude": "39.2112",
@@ -4454,15 +4463,6 @@
             "Depth": "7.9",
             "ML": "2.4",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "07:05:12",
-            "Latitude": "37.1807",
-            "Longitude": "29.5348",
-            "Depth": "8.7",
-            "ML": "1.7",
-            "Location": "YUSUFCA GOLHISAR BURDUR"
         }
     ]
 }
