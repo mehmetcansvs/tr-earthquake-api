@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.06.02",
+            "Time": "13:22:00",
+            "Latitude": "39.7885",
+            "Longitude": "35.1782",
+            "Depth": "13.2",
+            "ML": "1.6",
+            "Location": "SORGUN YOZGAT"
+        },
+        {
+            "Date": "2022.06.02",
             "Time": "12:45:35",
             "Latitude": "38.6002",
             "Longitude": "31.4328",
             "Depth": "20.2",
             "ML": "1.5",
             "Location": "UCKUYU SULTANDAGI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.02",
+            "Time": "11:59:32",
+            "Latitude": "39.3327",
+            "Longitude": "33.4297",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "KUCUKCAMILI BALA ANKARA"
+        },
+        {
+            "Date": "2022.06.02",
+            "Time": "11:14:59",
+            "Latitude": "40.1498",
+            "Longitude": "31.7603",
+            "Depth": "12.7",
+            "ML": "2.4",
+            "Location": "CANTIRLI BEYPAZARI ANKARA"
         },
         {
             "Date": "2022.06.02",
@@ -4436,33 +4463,6 @@
             "Depth": "5.4",
             "ML": "1.8",
             "Location": "AKDAG GELENDOST ISPARTA"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "12:38:43",
-            "Latitude": "41.1245",
-            "Longitude": "28.9713",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "KAGITHANE ISTANBUL"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "12:28:44",
-            "Latitude": "39.1493",
-            "Longitude": "27.6578",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "OGECLI KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "10:52:51",
-            "Latitude": "40.0317",
-            "Longitude": "27.0395",
-            "Depth": "3.6",
-            "ML": "1.0",
-            "Location": "CAN CANAKKALE"
         }
     ]
 }
