@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.02",
+            "Time": "07:24:02",
+            "Latitude": "38.4767",
+            "Longitude": "39.2112",
+            "Depth": "14.6",
+            "ML": "2.3",
+            "Location": "DEDEYOLU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.06.02",
             "Time": "04:28:53",
             "Latitude": "34.8692",
             "Longitude": "24.8072",
@@ -4454,15 +4463,6 @@
             "Depth": "8.7",
             "ML": "1.7",
             "Location": "YUSUFCA GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "05:58:49",
-            "Latitude": "39.9677",
-            "Longitude": "23.4532",
-            "Depth": "12.3",
-            "ML": "1.6",
-            "Location": "YUNANISTAN"
         }
     ]
 }
