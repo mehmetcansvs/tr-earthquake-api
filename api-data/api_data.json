@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.06.03",
+            "Time": "00:29:34",
+            "Latitude": "37.0172",
+            "Longitude": "28.3322",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "GOKCE ULA MUGLA"
+        },
+        {
             "Date": "2022.06.02",
             "Time": "19:38:15",
             "Latitude": "37.8240",
@@ -4454,15 +4463,6 @@
             "Depth": "7.3",
             "ML": "2.7",
             "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "12:47:34",
-            "Latitude": "37.3248",
-            "Longitude": "30.5162",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "UGURLU BUCAK BURDUR"
         }
     ]
 }
