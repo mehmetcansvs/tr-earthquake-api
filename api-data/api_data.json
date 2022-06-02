@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.02",
+            "Time": "19:38:15",
+            "Latitude": "37.8240",
+            "Longitude": "27.2320",
+            "Depth": "9.5",
+            "ML": "1.9",
+            "Location": "KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.06.02",
             "Time": "13:22:00",
             "Latitude": "39.7885",
             "Longitude": "35.1782",
@@ -4454,15 +4463,6 @@
             "Depth": "5.0",
             "ML": "1.8",
             "Location": "UGURLU BUCAK BURDUR"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "12:45:40",
-            "Latitude": "38.1910",
-            "Longitude": "30.9203",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "AKDAG GELENDOST ISPARTA"
         }
     ]
 }
