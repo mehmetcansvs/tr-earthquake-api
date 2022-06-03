@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.03",
+            "Time": "02:01:59",
+            "Latitude": "35.9372",
+            "Longitude": "29.7017",
+            "Depth": "47.5",
+            "ML": "2.3",
+            "Location": "KAS ACIKLARI ANTALYA AKDENIZ"
+        },
+        {
+            "Date": "2022.06.03",
             "Time": "00:29:34",
             "Latitude": "37.0172",
             "Longitude": "28.3322",
@@ -4454,15 +4463,6 @@
             "Depth": "10.0",
             "ML": "1.6",
             "Location": "KAZIMKARABEKIR KARAMAN"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "13:02:49",
-            "Latitude": "42.5440",
-            "Longitude": "43.4053",
-            "Depth": "7.3",
-            "ML": "2.7",
-            "Location": "GURCISTAN"
         }
     ]
 }
