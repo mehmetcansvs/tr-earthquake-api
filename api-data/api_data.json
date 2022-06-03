@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.03",
+            "Time": "08:09:49",
+            "Latitude": "37.0422",
+            "Longitude": "28.3598",
+            "Depth": "2.9",
+            "ML": "1.2",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.03",
+            "Time": "07:01:53",
+            "Latitude": "37.7925",
+            "Longitude": "26.8868",
+            "Depth": "10.4",
+            "ML": "1.5",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.03",
             "Time": "05:45:22",
             "Latitude": "37.0408",
             "Longitude": "28.4213",
@@ -4445,24 +4463,6 @@
             "Depth": "15.9",
             "ML": "1.7",
             "Location": "KELEKCI ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "17:25:37",
-            "Latitude": "39.5248",
-            "Longitude": "25.9227",
-            "Depth": "7.3",
-            "ML": "1.4",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "17:18:21",
-            "Latitude": "39.5193",
-            "Longitude": "25.9587",
-            "Depth": "11.9",
-            "ML": "1.2",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
         }
     ]
 }
