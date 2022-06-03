@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.03",
+            "Time": "13:29:09",
+            "Latitude": "36.9102",
+            "Longitude": "28.8625",
+            "Depth": "6.8",
+            "ML": "1.6",
+            "Location": "PINAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.06.03",
+            "Time": "13:04:31",
+            "Latitude": "34.6938",
+            "Longitude": "24.6647",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.03",
             "Time": "11:17:53",
             "Latitude": "38.6345",
             "Longitude": "27.5013",
@@ -4445,24 +4463,6 @@
             "Depth": "19.3",
             "ML": "1.1",
             "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "23:50:32",
-            "Latitude": "40.8567",
-            "Longitude": "31.5067",
-            "Depth": "7.6",
-            "ML": "1.4",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "23:44:20",
-            "Latitude": "38.7247",
-            "Longitude": "43.1553",
-            "Depth": "15.8",
-            "ML": "1.8",
-            "Location": "VAN GOLU"
         }
     ]
 }
