@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.06.03",
+            "Time": "05:45:22",
+            "Latitude": "37.0408",
+            "Longitude": "28.4213",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.03",
+            "Time": "04:05:13",
+            "Latitude": "35.2533",
+            "Longitude": "25.3387",
+            "Depth": "5.7",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.03",
+            "Time": "03:38:26",
+            "Latitude": "35.1647",
+            "Longitude": "25.3183",
+            "Depth": "11.3",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.03",
+            "Time": "03:22:13",
+            "Latitude": "37.8950",
+            "Longitude": "26.9718",
+            "Depth": "5.3",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.03",
+            "Time": "03:03:25",
+            "Latitude": "37.1053",
+            "Longitude": "28.4248",
+            "Depth": "2.8",
+            "ML": "1.3",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.03",
+            "Time": "02:26:20",
+            "Latitude": "38.3438",
+            "Longitude": "23.1258",
+            "Depth": "12.5",
+            "ML": "2.6",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.03",
+            "Time": "02:14:27",
+            "Latitude": "35.3223",
+            "Longitude": "26.1132",
+            "Depth": "8.4",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.03",
             "Time": "02:01:59",
             "Latitude": "35.9372",
             "Longitude": "29.7017",
@@ -4400,69 +4463,6 @@
             "Depth": "11.9",
             "ML": "1.2",
             "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "16:52:21",
-            "Latitude": "36.9750",
-            "Longitude": "28.2528",
-            "Depth": "8.0",
-            "ML": "1.6",
-            "Location": "CAMLI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "16:18:01",
-            "Latitude": "36.9830",
-            "Longitude": "27.3733",
-            "Depth": "9.7",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "15:41:02",
-            "Latitude": "36.1687",
-            "Longitude": "27.4628",
-            "Depth": "13.4",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "14:06:29",
-            "Latitude": "38.1925",
-            "Longitude": "30.8213",
-            "Depth": "13.3",
-            "ML": "1.4",
-            "Location": "GENCALI SENIRKENT ISPARTA"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "13:54:16",
-            "Latitude": "37.4555",
-            "Longitude": "26.4342",
-            "Depth": "9.3",
-            "ML": "1.5",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "13:52:29",
-            "Latitude": "39.8190",
-            "Longitude": "30.5362",
-            "Depth": "3.4",
-            "ML": "2.7",
-            "Location": "TEPEBASI ESKISEHIR"
-        },
-        {
-            "Date": "2022.05.22",
-            "Time": "13:16:13",
-            "Latitude": "37.2215",
-            "Longitude": "32.9302",
-            "Depth": "10.0",
-            "ML": "1.6",
-            "Location": "KAZIMKARABEKIR KARAMAN"
         }
     ]
 }
