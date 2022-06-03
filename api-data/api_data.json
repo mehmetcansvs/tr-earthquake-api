@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.03",
+            "Time": "19:05:10",
+            "Latitude": "35.9765",
+            "Longitude": "27.5827",
+            "Depth": "22.6",
+            "ML": "4.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.03",
+            "Time": "17:52:39",
+            "Latitude": "39.7378",
+            "Longitude": "41.0598",
+            "Depth": "1.7",
+            "ML": "2.8",
+            "Location": "TASAGIL CAT ERZURUM"
+        },
+        {
+            "Date": "2022.06.03",
             "Time": "16:00:49",
             "Latitude": "39.1855",
             "Longitude": "32.6122",
@@ -4445,24 +4463,6 @@
             "Depth": "6.0",
             "ML": "1.6",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.23",
-            "Time": "05:14:17",
-            "Latitude": "37.7217",
-            "Longitude": "37.4067",
-            "Depth": "7.5",
-            "ML": "2.1",
-            "Location": "BOZLAR CAGLAYANCERIT KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.05.23",
-            "Time": "03:08:33",
-            "Latitude": "37.0685",
-            "Longitude": "28.4010",
-            "Depth": "6.8",
-            "ML": "1.4",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
