@@ -2,6 +2,105 @@
     "data": [
         {
             "Date": "2022.06.04",
+            "Time": "16:44:17",
+            "Latitude": "35.0617",
+            "Longitude": "25.3017",
+            "Depth": "5.2",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "16:33:06",
+            "Latitude": "35.2942",
+            "Longitude": "25.3353",
+            "Depth": "5.9",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "16:09:29",
+            "Latitude": "35.3023",
+            "Longitude": "25.3225",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI AKDENIZ REVIZE GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "16:01:43",
+            "Latitude": "40.8498",
+            "Longitude": "28.2943",
+            "Depth": "7.5",
+            "ML": "2.5",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "15:53:45",
+            "Latitude": "39.8828",
+            "Longitude": "39.8443",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "YAYLAKENT CAYIRLI ERZINCAN"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "15:48:11",
+            "Latitude": "35.2115",
+            "Longitude": "25.3240",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "15:30:43",
+            "Latitude": "34.9507",
+            "Longitude": "25.2958",
+            "Depth": "8.7",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "15:26:06",
+            "Latitude": "35.2742",
+            "Longitude": "25.3753",
+            "Depth": "7.5",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "15:15:47",
+            "Latitude": "35.3432",
+            "Longitude": "25.3077",
+            "Depth": "8.5",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "15:05:37",
+            "Latitude": "35.1757",
+            "Longitude": "25.3508",
+            "Depth": "5.4",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "14:37:16",
+            "Latitude": "35.3945",
+            "Longitude": "25.3803",
+            "Depth": "7.1",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.04",
             "Time": "14:00:38",
             "Latitude": "35.9147",
             "Longitude": "27.6358",
@@ -4364,114 +4463,6 @@
             "Depth": "8.0",
             "ML": "1.1",
             "Location": "GERDEK BOZOVA SANLIURFA"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "02:03:26",
-            "Latitude": "40.5833",
-            "Longitude": "23.3758",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "01:32:34",
-            "Latitude": "34.8580",
-            "Longitude": "24.8252",
-            "Depth": "23.3",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "00:12:59",
-            "Latitude": "38.5835",
-            "Longitude": "25.7213",
-            "Depth": "17.8",
-            "ML": "2.5",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "23:30:47",
-            "Latitude": "38.3002",
-            "Longitude": "38.8095",
-            "Depth": "7.2",
-            "ML": "1.4",
-            "Location": "BOLUKKAYA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "23:30:09",
-            "Latitude": "36.3798",
-            "Longitude": "33.8708",
-            "Depth": "10.6",
-            "ML": "2.0",
-            "Location": "BAHCEDERESI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "23:24:15",
-            "Latitude": "38.6767",
-            "Longitude": "43.0873",
-            "Depth": "17.9",
-            "ML": "1.5",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "23:23:46",
-            "Latitude": "38.6842",
-            "Longitude": "43.0822",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "23:17:00",
-            "Latitude": "38.6678",
-            "Longitude": "43.0758",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "23:07:33",
-            "Latitude": "41.1207",
-            "Longitude": "43.8975",
-            "Depth": "8.5",
-            "ML": "2.7",
-            "Location": "ERMENISTAN GURCISTAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "22:49:08",
-            "Latitude": "38.6602",
-            "Longitude": "43.0667",
-            "Depth": "5.4",
-            "ML": "2.6",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "22:18:20",
-            "Latitude": "39.1578",
-            "Longitude": "25.7550",
-            "Depth": "9.2",
-            "ML": "3.2",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "22:16:12",
-            "Latitude": "39.1595",
-            "Longitude": "25.7740",
-            "Depth": "9.5",
-            "ML": "1.9",
-            "Location": "EGE DENIZI"
         }
     ]
 }
