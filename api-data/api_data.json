@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.04",
+            "Time": "20:34:19",
+            "Latitude": "38.4542",
+            "Longitude": "39.2150",
+            "Depth": "7.2",
+            "ML": "2.4",
+            "Location": "ALINCIK SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "19:51:13",
+            "Latitude": "40.8115",
+            "Longitude": "27.7447",
+            "Depth": "9.9",
+            "ML": "2.0",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.06.04",
             "Time": "18:53:34",
             "Latitude": "35.1595",
             "Longitude": "25.3372",
@@ -4445,24 +4463,6 @@
             "Depth": "3.9",
             "ML": "1.8",
             "Location": "SELIMIYE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "03:39:59",
-            "Latitude": "38.5825",
-            "Longitude": "27.6013",
-            "Depth": "8.1",
-            "ML": "1.6",
-            "Location": "HAMZABEYLI MANISA"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "03:14:14",
-            "Latitude": "37.8257",
-            "Longitude": "29.5042",
-            "Depth": "7.1",
-            "ML": "1.5",
-            "Location": "YENIBAGLAR BOZKURT DENIZLI"
         }
     ]
 }
