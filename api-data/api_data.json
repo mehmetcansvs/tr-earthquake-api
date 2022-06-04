@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.06.04",
+            "Time": "06:55:33",
+            "Latitude": "38.4683",
+            "Longitude": "43.2745",
+            "Depth": "4.0",
+            "ML": "2.7",
+            "Location": "EDREMIT VAN"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "06:09:25",
+            "Latitude": "39.8308",
+            "Longitude": "27.9812",
+            "Depth": "4.9",
+            "ML": "1.7",
+            "Location": "YAYLABAYIR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "06:04:51",
+            "Latitude": "40.0963",
+            "Longitude": "27.4045",
+            "Depth": "15.2",
+            "ML": "1.8",
+            "Location": "TABANKOY YENICE CANAKKALE"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "06:01:30",
+            "Latitude": "39.8220",
+            "Longitude": "27.9520",
+            "Depth": "5.6",
+            "ML": "3.5",
+            "Location": "CAYPINAR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.04",
             "Time": "05:30:19",
             "Latitude": "39.9393",
             "Longitude": "27.7875",
             "Depth": "29.0",
             "ML": "1.3",
             "Location": "YARISALANI BALYA BALIKESIR"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "04:19:14",
+            "Latitude": "39.5618",
+            "Longitude": "27.6645",
+            "Depth": "5.3",
+            "ML": "1.3",
+            "Location": "KUTLUDUGUN BALIKESIR"
         },
         {
             "Date": "2022.06.04",
@@ -4427,51 +4472,6 @@
             "Depth": "16.6",
             "ML": "2.1",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "15:54:08",
-            "Latitude": "40.6827",
-            "Longitude": "26.5990",
-            "Depth": "1.0",
-            "ML": "0.8",
-            "Location": "GOKCETEPE KESAN EDIRNE"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "14:35:34",
-            "Latitude": "39.6283",
-            "Longitude": "29.4900",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "TUNCBILEK TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "14:09:11",
-            "Latitude": "38.1070",
-            "Longitude": "38.5130",
-            "Depth": "15.0",
-            "ML": "1.9",
-            "Location": "GECITLI SINCIK ADIYAMAN"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "12:56:18",
-            "Latitude": "38.7932",
-            "Longitude": "40.3385",
-            "Depth": "5.4",
-            "ML": "2.8",
-            "Location": "BEYDOGAN PALU ELAZIG"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "12:48:31",
-            "Latitude": "37.0573",
-            "Longitude": "28.3897",
-            "Depth": "1.7",
-            "ML": "1.8",
-            "Location": "ATAKOY ULA MUGLA"
         }
     ]
 }
