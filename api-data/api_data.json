@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.06.05",
+            "Time": "00:45:11",
+            "Latitude": "39.8280",
+            "Longitude": "27.8963",
+            "Depth": "10.3",
+            "ML": "1.6",
+            "Location": "HALKAPINAR BALIKESIR"
+        },
+        {
             "Date": "2022.06.04",
             "Time": "21:18:15",
             "Latitude": "39.7718",
@@ -4454,15 +4463,6 @@
             "Depth": "1.5",
             "ML": "0.5",
             "Location": "HAMIDIYE NURDAGI GAZIANTEP"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "04:29:25",
-            "Latitude": "35.9803",
-            "Longitude": "28.1428",
-            "Depth": "37.5",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
