@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.06.04",
+            "Time": "08:21:51",
+            "Latitude": "40.6207",
+            "Longitude": "28.8610",
+            "Depth": "17.5",
+            "ML": "1.6",
+            "Location": "ESENKOY CINARCIK YALOVA"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "07:57:40",
+            "Latitude": "40.8908",
+            "Longitude": "33.7288",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "YERKUYU ILGAZ CANKIRI"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "07:55:42",
+            "Latitude": "39.8487",
+            "Longitude": "27.9550",
+            "Depth": "8.8",
+            "ML": "2.1",
+            "Location": "YAYLABAYIR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "07:12:36",
+            "Latitude": "39.7908",
+            "Longitude": "27.8892",
+            "Depth": "18.2",
+            "ML": "1.5",
+            "Location": "KARACAOREN BALIKESIR"
+        },
+        {
+            "Date": "2022.06.04",
             "Time": "06:55:33",
             "Latitude": "38.4683",
             "Longitude": "43.2745",
             "Depth": "4.0",
             "ML": "2.7",
             "Location": "EDREMIT VAN"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "06:24:24",
+            "Latitude": "39.9250",
+            "Longitude": "24.3052",
+            "Depth": "19.1",
+            "ML": "2.4",
+            "Location": "YUNANISTAN"
         },
         {
             "Date": "2022.06.04",
@@ -4427,51 +4472,6 @@
             "Depth": "20.5",
             "ML": "1.2",
             "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "18:53:42",
-            "Latitude": "35.8955",
-            "Longitude": "31.2963",
-            "Depth": "11.4",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "17:42:07",
-            "Latitude": "38.7478",
-            "Longitude": "43.5312",
-            "Depth": "20.1",
-            "ML": "1.2",
-            "Location": "DEGIRMENOZU VAN"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "16:26:42",
-            "Latitude": "36.1210",
-            "Longitude": "33.5473",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "16:17:08",
-            "Latitude": "36.9443",
-            "Longitude": "28.2288",
-            "Depth": "15.2",
-            "ML": "1.9",
-            "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.05.24",
-            "Time": "15:56:27",
-            "Latitude": "36.1925",
-            "Longitude": "29.1217",
-            "Depth": "16.6",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
         }
     ]
 }
