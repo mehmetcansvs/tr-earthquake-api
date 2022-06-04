@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.04",
+            "Time": "21:18:15",
+            "Latitude": "39.7718",
+            "Longitude": "27.9365",
+            "Depth": "4.5",
+            "ML": "1.7",
+            "Location": "DAVUTLAR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "21:15:42",
+            "Latitude": "39.8180",
+            "Longitude": "27.9317",
+            "Depth": "3.0",
+            "ML": "1.9",
+            "Location": "HALKAPINAR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.04",
             "Time": "20:34:19",
             "Latitude": "38.4542",
             "Longitude": "39.2150",
@@ -4445,24 +4463,6 @@
             "Depth": "37.5",
             "ML": "1.9",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "03:55:18",
-            "Latitude": "40.3978",
-            "Longitude": "30.6075",
-            "Depth": "10.4",
-            "ML": "1.3",
-            "Location": "EKINCILER GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "03:54:08",
-            "Latitude": "36.7250",
-            "Longitude": "28.0677",
-            "Depth": "3.9",
-            "ML": "1.8",
-            "Location": "SELIMIYE MARMARIS MUGLA"
         }
     ]
 }
