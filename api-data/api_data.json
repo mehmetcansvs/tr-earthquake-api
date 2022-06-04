@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.04",
+            "Time": "18:53:34",
+            "Latitude": "35.1595",
+            "Longitude": "25.3372",
+            "Depth": "7.8",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "18:46:47",
+            "Latitude": "35.2768",
+            "Longitude": "25.3223",
+            "Depth": "5.2",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "18:21:52",
+            "Latitude": "40.8022",
+            "Longitude": "27.7268",
+            "Depth": "15.8",
+            "ML": "2.6",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.06.04",
+            "Time": "17:08:12",
+            "Latitude": "36.2922",
+            "Longitude": "33.5197",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "KORUCUK GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.06.04",
             "Time": "16:44:17",
             "Latitude": "35.0617",
             "Longitude": "25.3017",
@@ -4427,42 +4463,6 @@
             "Depth": "7.1",
             "ML": "1.5",
             "Location": "YENIBAGLAR BOZKURT DENIZLI"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "03:05:52",
-            "Latitude": "35.1145",
-            "Longitude": "24.3153",
-            "Depth": "2.0",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "03:05:07",
-            "Latitude": "37.8107",
-            "Longitude": "29.4910",
-            "Depth": "13.2",
-            "ML": "1.8",
-            "Location": "SAPACA HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "02:55:00",
-            "Latitude": "36.9272",
-            "Longitude": "28.2042",
-            "Depth": "15.0",
-            "ML": "1.3",
-            "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "02:38:20",
-            "Latitude": "37.2385",
-            "Longitude": "38.4237",
-            "Depth": "8.0",
-            "ML": "1.1",
-            "Location": "GERDEK BOZOVA SANLIURFA"
         }
     ]
 }
