@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.05",
+            "Time": "01:22:24",
+            "Latitude": "39.1260",
+            "Longitude": "43.8142",
+            "Depth": "38.7",
+            "ML": "1.3",
+            "Location": "GONDERME MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.05",
+            "Time": "01:05:53",
+            "Latitude": "34.8675",
+            "Longitude": "23.1440",
+            "Depth": "21.9",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.05",
             "Time": "00:45:11",
             "Latitude": "39.8280",
             "Longitude": "27.8963",
@@ -4445,24 +4463,6 @@
             "Depth": "5.3",
             "ML": "1.5",
             "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "05:26:42",
-            "Latitude": "35.9923",
-            "Longitude": "31.0028",
-            "Depth": "86.7",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "04:31:43",
-            "Latitude": "37.1143",
-            "Longitude": "36.8952",
-            "Depth": "1.5",
-            "ML": "0.5",
-            "Location": "HAMIDIYE NURDAGI GAZIANTEP"
         }
     ]
 }
