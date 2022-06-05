@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.05",
+            "Time": "13:34:37",
+            "Latitude": "40.2408",
+            "Longitude": "27.1477",
+            "Depth": "10.3",
+            "ML": "1.9",
+            "Location": "PEKMEZLI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.05",
+            "Time": "13:31:00",
+            "Latitude": "39.8480",
+            "Longitude": "27.9592",
+            "Depth": "16.0",
+            "ML": "3.3",
+            "Location": "YAYLABAYIR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.05",
+            "Time": "13:28:13",
+            "Latitude": "39.8257",
+            "Longitude": "27.9692",
+            "Depth": "12.8",
+            "ML": "3.2",
+            "Location": "YAYLABAYIR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.05",
             "Time": "11:51:10",
             "Latitude": "37.0420",
             "Longitude": "28.8678",
@@ -4436,33 +4463,6 @@
             "Depth": "8.9",
             "ML": "2.1",
             "Location": "ORTAKKALE SARIKAMIS KARS"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "17:25:02",
-            "Latitude": "37.0343",
-            "Longitude": "28.3498",
-            "Depth": "6.3",
-            "ML": "2.2",
-            "Location": "AKCAPINAR ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "17:22:06",
-            "Latitude": "38.4072",
-            "Longitude": "39.1378",
-            "Depth": "11.1",
-            "ML": "1.9",
-            "Location": "KAVAKKOY SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "17:11:52",
-            "Latitude": "35.7173",
-            "Longitude": "26.9382",
-            "Depth": "11.5",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
