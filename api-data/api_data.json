@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.05",
+            "Time": "05:53:29",
+            "Latitude": "35.1325",
+            "Longitude": "24.8073",
+            "Depth": "20.5",
+            "ML": "1.6",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.05",
             "Time": "04:04:17",
             "Latitude": "35.3137",
             "Longitude": "25.4052",
@@ -4454,15 +4463,6 @@
             "Depth": "10.2",
             "ML": "2.7",
             "Location": "CANDARLI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "07:22:42",
-            "Latitude": "40.4790",
-            "Longitude": "41.7212",
-            "Depth": "21.8",
-            "ML": "1.9",
-            "Location": "INANMIS OLTU ERZURUM"
         }
     ]
 }
