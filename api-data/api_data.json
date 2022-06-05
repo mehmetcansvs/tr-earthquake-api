@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.05",
+            "Time": "20:22:02",
+            "Latitude": "36.0605",
+            "Longitude": "38.9687",
+            "Depth": "5.0",
+            "ML": "3.2",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2022.06.05",
+            "Time": "19:52:05",
+            "Latitude": "40.0635",
+            "Longitude": "40.8637",
+            "Depth": "8.4",
+            "ML": "2.0",
+            "Location": "GOLOREN ASKALE ERZURUM"
+        },
+        {
+            "Date": "2022.06.05",
             "Time": "14:56:09",
             "Latitude": "40.2548",
             "Longitude": "27.0403",
@@ -4445,24 +4463,6 @@
             "Depth": "12.8",
             "ML": "2.1",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "17:59:28",
-            "Latitude": "39.5270",
-            "Longitude": "26.0185",
-            "Depth": "5.5",
-            "ML": "1.6",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "17:58:44",
-            "Latitude": "39.5283",
-            "Longitude": "26.0295",
-            "Depth": "11.3",
-            "ML": "1.4",
-            "Location": "BABAKALE AYVACIK CANAKKALE"
         }
     ]
 }
