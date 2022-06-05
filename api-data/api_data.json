@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.05",
+            "Time": "11:51:10",
+            "Latitude": "37.0420",
+            "Longitude": "28.8678",
+            "Depth": "7.2",
+            "ML": "2.5",
+            "Location": "OTMANLAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.06.05",
             "Time": "09:58:29",
             "Latitude": "37.0448",
             "Longitude": "28.3873",
@@ -4454,15 +4463,6 @@
             "Depth": "11.5",
             "ML": "2.9",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "15:14:56",
-            "Latitude": "36.4273",
-            "Longitude": "27.0813",
-            "Depth": "4.7",
-            "ML": "1.9",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
