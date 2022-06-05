@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.05",
+            "Time": "04:04:17",
+            "Latitude": "35.3137",
+            "Longitude": "25.4052",
+            "Depth": "8.9",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.05",
             "Time": "01:22:24",
             "Latitude": "39.1260",
             "Longitude": "43.8142",
@@ -4454,15 +4463,6 @@
             "Depth": "21.8",
             "ML": "1.9",
             "Location": "INANMIS OLTU ERZURUM"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "06:51:58",
-            "Latitude": "38.7113",
-            "Longitude": "43.0762",
-            "Depth": "5.3",
-            "ML": "1.5",
-            "Location": "VAN GOLU"
         }
     ]
 }
