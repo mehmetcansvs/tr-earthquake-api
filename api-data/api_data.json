@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.05",
+            "Time": "09:58:29",
+            "Latitude": "37.0448",
+            "Longitude": "28.3873",
+            "Depth": "5.3",
+            "ML": "2.5",
+            "Location": "ATAKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.05",
+            "Time": "09:31:26",
+            "Latitude": "34.4317",
+            "Longitude": "24.7772",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.05",
             "Time": "09:05:45",
             "Latitude": "39.8192",
             "Longitude": "27.9457",
@@ -4445,24 +4463,6 @@
             "Depth": "4.7",
             "ML": "1.9",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "14:23:46",
-            "Latitude": "39.8687",
-            "Longitude": "25.4385",
-            "Depth": "5.8",
-            "ML": "1.6",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "12:36:39",
-            "Latitude": "37.0415",
-            "Longitude": "28.4403",
-            "Depth": "18.4",
-            "ML": "1.1",
-            "Location": "ELMALI ULA MUGLA"
         }
     ]
 }
