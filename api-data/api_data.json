@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.05",
+            "Time": "14:56:09",
+            "Latitude": "40.2548",
+            "Longitude": "27.0403",
+            "Depth": "2.7",
+            "ML": "2.1",
+            "Location": "KOZCESME BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.05",
             "Time": "13:34:37",
             "Latitude": "40.2408",
             "Longitude": "27.1477",
@@ -4454,15 +4463,6 @@
             "Depth": "11.3",
             "ML": "1.4",
             "Location": "BABAKALE AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "17:41:37",
-            "Latitude": "39.9807",
-            "Longitude": "42.6122",
-            "Depth": "8.9",
-            "ML": "2.1",
-            "Location": "ORTAKKALE SARIKAMIS KARS"
         }
     ]
 }
