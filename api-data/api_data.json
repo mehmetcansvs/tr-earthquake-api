@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.05",
+            "Time": "22:39:07",
+            "Latitude": "39.8337",
+            "Longitude": "27.9398",
+            "Depth": "13.8",
+            "ML": "1.8",
+            "Location": "YAYLABAYIR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.05",
             "Time": "20:22:02",
             "Latitude": "36.0605",
             "Longitude": "38.9687",
@@ -4454,15 +4463,6 @@
             "Depth": "11.5",
             "ML": "2.0",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "19:34:43",
-            "Latitude": "39.5200",
-            "Longitude": "24.1067",
-            "Depth": "12.8",
-            "ML": "2.1",
-            "Location": "EGE DENIZI"
         }
     ]
 }
