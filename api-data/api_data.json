@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.06.06",
+            "Time": "16:51:47",
+            "Latitude": "40.4918",
+            "Longitude": "29.1703",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "SAHINYURDU GEMLIK BURSA"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "16:50:49",
+            "Latitude": "36.1408",
+            "Longitude": "33.5592",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "16:35:48",
+            "Latitude": "39.8467",
+            "Longitude": "27.9427",
+            "Depth": "2.3",
+            "ML": "2.3",
+            "Location": "YAYLABAYIR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "16:26:23",
+            "Latitude": "39.1625",
+            "Longitude": "27.5815",
+            "Depth": "5.3",
+            "ML": "1.6",
+            "Location": "DARKALE SOMA MANISA"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "15:07:35",
+            "Latitude": "36.1105",
+            "Longitude": "33.5420",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.06.06",
             "Time": "13:19:03",
             "Latitude": "37.5677",
             "Longitude": "36.3895",
@@ -44,6 +89,15 @@
             "Depth": "9.2",
             "ML": "2.3",
             "Location": "CAYIRHAN NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "09:18:37",
+            "Latitude": "37.8590",
+            "Longitude": "27.3528",
+            "Depth": "9.8",
+            "ML": "1.9",
+            "Location": "YENIKOY KUSADASI AYDIN"
         },
         {
             "Date": "2022.06.06",
@@ -4418,60 +4472,6 @@
             "Depth": "19.3",
             "ML": "1.7",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "16:21:35",
-            "Latitude": "37.2820",
-            "Longitude": "37.4140",
-            "Depth": "7.2",
-            "ML": "1.6",
-            "Location": "TEKIRSIN SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "16:02:12",
-            "Latitude": "36.1143",
-            "Longitude": "33.5287",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "15:56:49",
-            "Latitude": "40.6813",
-            "Longitude": "32.3045",
-            "Depth": "2.8",
-            "ML": "2.1",
-            "Location": "BUNUS GEREDE BOLU"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "14:57:51",
-            "Latitude": "41.3643",
-            "Longitude": "33.4010",
-            "Depth": "12.0",
-            "ML": "2.0",
-            "Location": "BEZIRGAN DADAY KASTAMONU"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "13:34:49",
-            "Latitude": "40.2227",
-            "Longitude": "31.7222",
-            "Depth": "7.5",
-            "ML": "2.3",
-            "Location": "SEKLI BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "13:13:26",
-            "Latitude": "37.5872",
-            "Longitude": "35.5075",
-            "Depth": "5.3",
-            "ML": "1.5",
-            "Location": "KARAHAN ALADAG ADANA"
         }
     ]
 }
