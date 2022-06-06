@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.06",
+            "Time": "02:49:06",
+            "Latitude": "38.9377",
+            "Longitude": "26.0933",
+            "Depth": "9.6",
+            "ML": "2.3",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "01:51:44",
+            "Latitude": "35.2830",
+            "Longitude": "25.3378",
+            "Depth": "7.8",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.06",
             "Time": "00:50:02",
             "Latitude": "39.7555",
             "Longitude": "41.9590",
@@ -4454,24 +4472,6 @@
             "Depth": "9.4",
             "ML": "0.9",
             "Location": "UCMAKDERE SARKOY TEKIRDAG"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "21:49:09",
-            "Latitude": "36.2797",
-            "Longitude": "27.0095",
-            "Depth": "6.3",
-            "ML": "1.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.25",
-            "Time": "20:39:47",
-            "Latitude": "37.5703",
-            "Longitude": "35.7082",
-            "Depth": "6.6",
-            "ML": "1.8",
-            "Location": "KUYTUCAK KOZAN ADANA"
         }
     ]
 }
