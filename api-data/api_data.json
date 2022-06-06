@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.06",
+            "Time": "10:08:24",
+            "Latitude": "40.0558",
+            "Longitude": "31.6630",
+            "Depth": "9.2",
+            "ML": "2.3",
+            "Location": "CAYIRHAN NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2022.06.06",
             "Time": "07:39:14",
             "Latitude": "34.8563",
             "Longitude": "24.9217",
@@ -4463,15 +4472,6 @@
             "Depth": "25.8",
             "ML": "2.7",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "10:19:01",
-            "Latitude": "36.2612",
-            "Longitude": "28.6740",
-            "Depth": "28.5",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
         }
     ]
 }
