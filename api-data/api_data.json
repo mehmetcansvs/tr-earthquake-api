@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.06.06",
+            "Time": "20:15:19",
+            "Latitude": "40.3603",
+            "Longitude": "30.6350",
+            "Depth": "4.6",
+            "ML": "1.9",
+            "Location": "KARACALAR GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "19:58:08",
+            "Latitude": "36.6048",
+            "Longitude": "27.9440",
+            "Depth": "69.8",
+            "ML": "3.1",
+            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "19:51:35",
+            "Latitude": "37.4995",
+            "Longitude": "38.8678",
+            "Depth": "7.4",
+            "ML": "2.1",
+            "Location": "KIRBASI HILVAN SANLIURFA"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "19:45:41",
+            "Latitude": "37.0765",
+            "Longitude": "28.4082",
+            "Depth": "4.4",
+            "ML": "2.5",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "19:30:36",
+            "Latitude": "37.5410",
+            "Longitude": "38.8362",
+            "Depth": "5.2",
+            "ML": "2.6",
+            "Location": "CAT HILVAN SANLIURFA"
+        },
+        {
+            "Date": "2022.06.06",
             "Time": "18:55:03",
             "Latitude": "39.0623",
             "Longitude": "24.4908",
@@ -4427,51 +4472,6 @@
             "Depth": "9.1",
             "ML": "1.9",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "18:47:38",
-            "Latitude": "40.7938",
-            "Longitude": "29.0067",
-            "Depth": "8.6",
-            "ML": "2.4",
-            "Location": "CINARCIK ACIKLARI YALOVA MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "18:46:52",
-            "Latitude": "40.7990",
-            "Longitude": "29.0102",
-            "Depth": "11.3",
-            "ML": "1.8",
-            "Location": "CINARCIK ACIKLARI YALOVA MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "17:53:49",
-            "Latitude": "35.7492",
-            "Longitude": "26.9547",
-            "Depth": "8.4",
-            "ML": "3.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "17:45:21",
-            "Latitude": "39.4568",
-            "Longitude": "27.9763",
-            "Depth": "5.6",
-            "ML": "1.7",
-            "Location": "KUCUKYENIKOY BIGADIC BALIKESIR"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "17:39:55",
-            "Latitude": "38.2780",
-            "Longitude": "27.2682",
-            "Depth": "6.5",
-            "ML": "1.9",
-            "Location": "YOGURTCULAR TORBALI IZMIR"
         }
     ]
 }
