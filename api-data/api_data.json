@@ -11,6 +11,15 @@
         },
         {
             "Date": "2022.06.06",
+            "Time": "08:40:54",
+            "Latitude": "34.9147",
+            "Longitude": "25.2662",
+            "Depth": "5.5",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.06",
             "Time": "07:39:14",
             "Latitude": "34.8563",
             "Longitude": "24.9217",
@@ -4463,15 +4472,6 @@
             "Depth": "9.4",
             "ML": "2.0",
             "Location": "KAVAKKOY SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "10:44:00",
-            "Latitude": "35.4942",
-            "Longitude": "23.1748",
-            "Depth": "25.8",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
