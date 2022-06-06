@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.06",
+            "Time": "18:55:03",
+            "Latitude": "39.0623",
+            "Longitude": "24.4908",
+            "Depth": "11.9",
+            "ML": "2.7",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "17:59:45",
+            "Latitude": "39.8000",
+            "Longitude": "28.0128",
+            "Depth": "17.8",
+            "ML": "1.7",
+            "Location": "KAYALIDERE SUSURLUK BALIKESIR"
+        },
+        {
+            "Date": "2022.06.06",
             "Time": "16:51:47",
             "Latitude": "40.4918",
             "Longitude": "29.1703",
@@ -4454,24 +4472,6 @@
             "Depth": "6.5",
             "ML": "1.9",
             "Location": "YOGURTCULAR TORBALI IZMIR"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "17:32:48",
-            "Latitude": "39.7075",
-            "Longitude": "30.1598",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "KUMBET INONU ESKISEHIR"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "17:29:24",
-            "Latitude": "34.8990",
-            "Longitude": "24.1018",
-            "Depth": "19.3",
-            "ML": "1.7",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
