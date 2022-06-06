@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.06.06",
+            "Time": "13:19:03",
+            "Latitude": "37.5677",
+            "Longitude": "36.3895",
+            "Depth": "8.7",
+            "ML": "2.3",
+            "Location": "ARIKLAR ANDIRIN KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "13:01:28",
+            "Latitude": "36.0992",
+            "Longitude": "33.8070",
+            "Depth": "2.4",
+            "ML": "1.1",
+            "Location": "YESILOVACIK ACIKLARI MERSIN AKDENIZ"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "12:40:17",
+            "Latitude": "38.7657",
+            "Longitude": "31.6720",
+            "Depth": "20.3",
+            "ML": "1.6",
+            "Location": "KOCYAZI YUNAK KONYA"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "11:36:30",
+            "Latitude": "39.2592",
+            "Longitude": "27.7118",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.06.06",
             "Time": "10:08:24",
             "Latitude": "40.0558",
             "Longitude": "31.6630",
             "Depth": "9.2",
             "ML": "2.3",
             "Location": "CAYIRHAN NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "09:13:25",
+            "Latitude": "35.2462",
+            "Longitude": "25.3117",
+            "Depth": "28.8",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.06.06",
@@ -4427,51 +4472,6 @@
             "Depth": "5.3",
             "ML": "1.5",
             "Location": "KARAHAN ALADAG ADANA"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "12:59:30",
-            "Latitude": "37.1667",
-            "Longitude": "27.8843",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "KARACAAGAC MILAS MUGLA"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "12:58:56",
-            "Latitude": "37.2420",
-            "Longitude": "27.8857",
-            "Depth": "14.3",
-            "ML": "1.4",
-            "Location": "CAMLIBELEN MILAS MUGLA"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "12:13:31",
-            "Latitude": "37.3817",
-            "Longitude": "35.0367",
-            "Depth": "16.8",
-            "ML": "1.5",
-            "Location": "CEVLIK KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "10:53:11",
-            "Latitude": "39.3675",
-            "Longitude": "25.5758",
-            "Depth": "1.8",
-            "ML": "2.4",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "10:45:02",
-            "Latitude": "38.4112",
-            "Longitude": "39.1425",
-            "Depth": "9.4",
-            "ML": "2.0",
-            "Location": "KAVAKKOY SIVRICE ELAZIG"
         }
     ]
 }
