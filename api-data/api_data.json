@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.06",
+            "Time": "06:27:08",
+            "Latitude": "38.8405",
+            "Longitude": "27.5770",
+            "Depth": "5.9",
+            "ML": "1.6",
+            "Location": "TASDIBI SARUHANLI MANISA"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "06:16:31",
+            "Latitude": "41.1645",
+            "Longitude": "42.8010",
+            "Depth": "13.3",
+            "ML": "2.4",
+            "Location": "BALIKCILAR ARDAHAN"
+        },
+        {
+            "Date": "2022.06.06",
             "Time": "05:41:58",
             "Latitude": "39.4485",
             "Longitude": "33.0637",
@@ -17,6 +35,15 @@
             "Depth": "6.8",
             "ML": "2.1",
             "Location": "CIMEN ERCIS VAN"
+        },
+        {
+            "Date": "2022.06.06",
+            "Time": "05:27:48",
+            "Latitude": "42.1958",
+            "Longitude": "24.0752",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "BULGARISTAN"
         },
         {
             "Date": "2022.06.06",
@@ -4445,33 +4472,6 @@
             "Depth": "19.8",
             "ML": "2.9",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "06:50:38",
-            "Latitude": "36.4107",
-            "Longitude": "27.1050",
-            "Depth": "10.1",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "06:10:50",
-            "Latitude": "36.0867",
-            "Longitude": "29.0327",
-            "Depth": "18.1",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.26",
-            "Time": "05:12:53",
-            "Latitude": "36.9532",
-            "Longitude": "27.6680",
-            "Depth": "5.1",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
