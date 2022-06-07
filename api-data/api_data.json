@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.07",
+            "Time": "08:10:58",
+            "Latitude": "39.9673",
+            "Longitude": "28.0115",
+            "Depth": "11.8",
+            "ML": "0.9",
+            "Location": "YAYLA MANYAS BALIKESIR"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "08:06:03",
+            "Latitude": "40.2792",
+            "Longitude": "36.3543",
+            "Depth": "2.2",
+            "ML": "4.0",
+            "Location": "KUCUKBAGLAR TOKAT"
+        },
+        {
+            "Date": "2022.06.07",
             "Time": "06:42:45",
             "Latitude": "39.8112",
             "Longitude": "27.9685",
@@ -38,6 +56,15 @@
         },
         {
             "Date": "2022.06.07",
+            "Time": "03:56:42",
+            "Latitude": "35.3108",
+            "Longitude": "25.2977",
+            "Depth": "8.7",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.07",
             "Time": "03:06:41",
             "Latitude": "39.8470",
             "Longitude": "41.9698",
@@ -62,6 +89,15 @@
             "Depth": "5.4",
             "ML": "2.2",
             "Location": "GOLGEN SANLIURFA"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "02:35:05",
+            "Latitude": "34.3857",
+            "Longitude": "26.6095",
+            "Depth": "15.9",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.06.07",
@@ -4436,42 +4472,6 @@
             "Depth": "4.0",
             "ML": "1.8",
             "Location": "YENIASLAN KOYULHISAR SIVAS"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "03:23:00",
-            "Latitude": "41.1337",
-            "Longitude": "24.2172",
-            "Depth": "6.1",
-            "ML": "1.4",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "03:17:22",
-            "Latitude": "39.4683",
-            "Longitude": "44.2933",
-            "Depth": "7.1",
-            "ML": "2.0",
-            "Location": "HALAC DOGUBAYAZIT AGRI"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "03:16:09",
-            "Latitude": "41.1305",
-            "Longitude": "43.8823",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "02:23:35",
-            "Latitude": "38.7095",
-            "Longitude": "27.8653",
-            "Depth": "5.6",
-            "ML": "2.1",
-            "Location": "KAYAALTI GOLMARMARA MANISA"
         }
     ]
 }
