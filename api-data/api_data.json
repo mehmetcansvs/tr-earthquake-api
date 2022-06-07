@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.07",
+            "Time": "18:34:21",
+            "Latitude": "39.4388",
+            "Longitude": "31.5678",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "18:22:27",
+            "Latitude": "36.0807",
+            "Longitude": "27.5698",
+            "Depth": "14.2",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.07",
             "Time": "16:11:26",
             "Latitude": "36.6145",
             "Longitude": "27.9627",
@@ -4444,24 +4462,6 @@
             "Longitude": "25.7923",
             "Depth": "7.1",
             "ML": "2.3",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "10:21:52",
-            "Latitude": "39.2277",
-            "Longitude": "25.8465",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "10:19:04",
-            "Latitude": "39.1780",
-            "Longitude": "25.7600",
-            "Depth": "6.0",
-            "ML": "2.1",
             "Location": "EGE DENIZI"
         }
     ]
