@@ -2,12 +2,66 @@
     "data": [
         {
             "Date": "2022.06.07",
+            "Time": "12:30:51",
+            "Latitude": "38.2647",
+            "Longitude": "38.6492",
+            "Depth": "16.2",
+            "ML": "1.7",
+            "Location": "PELITLI MALATYA"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "11:59:24",
+            "Latitude": "37.0727",
+            "Longitude": "34.6280",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "BOZTEPE TARSUS MERSIN"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "11:57:47",
+            "Latitude": "36.2087",
+            "Longitude": "33.5430",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "TEPE GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "11:44:09",
+            "Latitude": "38.8042",
+            "Longitude": "43.5653",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "AKCIFT VAN"
+        },
+        {
+            "Date": "2022.06.07",
             "Time": "11:01:12",
             "Latitude": "38.8027",
             "Longitude": "43.6168",
             "Depth": "5.0",
             "ML": "4.1",
             "Location": "KUSCU MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "10:35:57",
+            "Latitude": "35.0315",
+            "Longitude": "25.0170",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "10:32:08",
+            "Latitude": "37.8695",
+            "Longitude": "32.7565",
+            "Depth": "5.1",
+            "ML": "1.5",
+            "Location": "BAKIRTOLU KARATAY KONYA"
         },
         {
             "Date": "2022.06.07",
@@ -4418,60 +4472,6 @@
             "Depth": "5.9",
             "ML": "1.5",
             "Location": "ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "05:32:26",
-            "Latitude": "37.8880",
-            "Longitude": "27.5233",
-            "Depth": "8.8",
-            "ML": "1.6",
-            "Location": "ORTAKLAR GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "05:17:08",
-            "Latitude": "37.8295",
-            "Longitude": "27.5683",
-            "Depth": "13.1",
-            "ML": "1.1",
-            "Location": "UZUMLU GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "05:13:43",
-            "Latitude": "38.0275",
-            "Longitude": "26.1442",
-            "Depth": "13.6",
-            "ML": "1.8",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "05:08:41",
-            "Latitude": "36.4110",
-            "Longitude": "27.1387",
-            "Depth": "8.9",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "05:07:30",
-            "Latitude": "37.0087",
-            "Longitude": "28.4305",
-            "Depth": "9.5",
-            "ML": "2.5",
-            "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "04:38:14",
-            "Latitude": "40.8565",
-            "Longitude": "31.6923",
-            "Depth": "8.2",
-            "ML": "1.5",
-            "Location": "MESCICELE BOLU"
         }
     ]
 }
