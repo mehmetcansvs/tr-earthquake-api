@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.07",
+            "Time": "11:01:12",
+            "Latitude": "38.8027",
+            "Longitude": "43.6168",
+            "Depth": "5.0",
+            "ML": "4.1",
+            "Location": "KUSCU MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "09:53:24",
+            "Latitude": "40.1625",
+            "Longitude": "28.0727",
+            "Depth": "10.5",
+            "ML": "1.5",
+            "Location": "DOGA BANDIRMA BALIKESIR"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "09:50:59",
+            "Latitude": "40.3773",
+            "Longitude": "30.6220",
+            "Depth": "4.8",
+            "ML": "1.5",
+            "Location": "KARACALAR GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "09:16:37",
+            "Latitude": "36.0050",
+            "Longitude": "29.1047",
+            "Depth": "25.8",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.07",
             "Time": "08:10:58",
             "Latitude": "39.9673",
             "Longitude": "28.0115",
@@ -4436,42 +4472,6 @@
             "Depth": "8.2",
             "ML": "1.5",
             "Location": "MESCICELE BOLU"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "04:28:11",
-            "Latitude": "38.2203",
-            "Longitude": "34.9242",
-            "Depth": "16.4",
-            "ML": "1.2",
-            "Location": "EDIKLI NIGDE"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "04:16:02",
-            "Latitude": "38.3468",
-            "Longitude": "30.6723",
-            "Depth": "5.2",
-            "ML": "1.0",
-            "Location": "UZUNPINAR SUHUT AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "04:15:41",
-            "Latitude": "37.9933",
-            "Longitude": "30.6440",
-            "Depth": "4.8",
-            "ML": "1.4",
-            "Location": "KAPICAK ATABEY ISPARTA"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "03:49:29",
-            "Latitude": "40.3817",
-            "Longitude": "37.8040",
-            "Depth": "4.0",
-            "ML": "1.8",
-            "Location": "YENIASLAN KOYULHISAR SIVAS"
         }
     ]
 }
