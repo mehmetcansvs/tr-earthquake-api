@@ -2,12 +2,75 @@
     "data": [
         {
             "Date": "2022.06.07",
+            "Time": "13:39:33",
+            "Latitude": "38.4343",
+            "Longitude": "39.1682",
+            "Depth": "13.1",
+            "ML": "2.3",
+            "Location": "KAVAKKOY SIVRICE ELAZIG REVIZE YURUKYAYLA INONU ESKISEHIR"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "13:06:23",
+            "Latitude": "37.9702",
+            "Longitude": "28.8390",
+            "Depth": "8.8",
+            "ML": "1.6",
+            "Location": "KIZILDERE BUHARKENT AYDIN"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "13:03:13",
+            "Latitude": "39.9042",
+            "Longitude": "27.9610",
+            "Depth": "13.1",
+            "ML": "1.7",
+            "Location": "TASKESIGI BALIKESIR"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "12:43:50",
+            "Latitude": "37.2677",
+            "Longitude": "31.8968",
+            "Depth": "0.0",
+            "ML": "2.1",
+            "Location": "MADENLI SEYDISEHIR KONYA"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "12:43:24",
+            "Latitude": "37.9457",
+            "Longitude": "28.7663",
+            "Depth": "17.1",
+            "ML": "1.6",
+            "Location": "KABAAGAC SARAYKOY DENIZLI"
+        },
+        {
+            "Date": "2022.06.07",
             "Time": "12:30:51",
             "Latitude": "38.2647",
             "Longitude": "38.6492",
             "Depth": "16.2",
             "ML": "1.7",
             "Location": "PELITLI MALATYA"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "12:19:17",
+            "Latitude": "39.8948",
+            "Longitude": "28.9718",
+            "Depth": "7.5",
+            "ML": "1.8",
+            "Location": "SERCELER ORHANELI BURSA"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "12:04:05",
+            "Latitude": "39.9117",
+            "Longitude": "40.3762",
+            "Depth": "26.9",
+            "ML": "2.0",
+            "Location": "YAZIOREN TERCAN ERZINCAN"
         },
         {
             "Date": "2022.06.07",
@@ -4400,78 +4463,6 @@
             "Depth": "11.9",
             "ML": "1.7",
             "Location": "OLUKBASI ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "07:33:58",
-            "Latitude": "38.9840",
-            "Longitude": "30.1590",
-            "Depth": "5.1",
-            "ML": "1.9",
-            "Location": "BESKARIS ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "07:29:06",
-            "Latitude": "35.2892",
-            "Longitude": "26.2352",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "07:14:14",
-            "Latitude": "35.2897",
-            "Longitude": "25.2555",
-            "Depth": "7.0",
-            "ML": "1.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "06:24:57",
-            "Latitude": "37.0563",
-            "Longitude": "28.4190",
-            "Depth": "7.7",
-            "ML": "2.1",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "06:10:58",
-            "Latitude": "37.9672",
-            "Longitude": "27.1555",
-            "Depth": "5.3",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "05:53:28",
-            "Latitude": "39.8597",
-            "Longitude": "30.7748",
-            "Depth": "14.6",
-            "ML": "1.6",
-            "Location": "KIZILCAOREN TEPEBASI ESKISEHIR"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "05:47:25",
-            "Latitude": "35.2957",
-            "Longitude": "25.9010",
-            "Depth": "12.7",
-            "ML": "1.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "05:39:22",
-            "Latitude": "37.4138",
-            "Longitude": "29.3477",
-            "Depth": "5.9",
-            "ML": "1.5",
-            "Location": "ACIPAYAM DENIZLI"
         }
     ]
 }
