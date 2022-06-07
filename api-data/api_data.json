@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.07",
+            "Time": "23:51:29",
+            "Latitude": "39.8143",
+            "Longitude": "27.9685",
+            "Depth": "5.9",
+            "ML": "2.4",
+            "Location": "CAYPINAR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "23:06:15",
+            "Latitude": "39.7998",
+            "Longitude": "27.9663",
+            "Depth": "7.6",
+            "ML": "3.4",
+            "Location": "CAYPINAR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.07",
             "Time": "19:13:24",
             "Latitude": "36.0667",
             "Longitude": "27.6425",
@@ -26,6 +44,15 @@
             "Depth": "14.2",
             "ML": "2.8",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "17:39:59",
+            "Latitude": "39.9933",
+            "Longitude": "26.1697",
+            "Depth": "15.9",
+            "ML": "1.5",
+            "Location": "SEDDULBAHIR ECEABAT CANAKKALE"
         },
         {
             "Date": "2022.06.07",
@@ -4445,24 +4472,6 @@
             "Depth": "17.6",
             "ML": "1.6",
             "Location": "GELINBUGDAY ARABAN GAZIANTEP"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "11:43:48",
-            "Latitude": "40.6703",
-            "Longitude": "28.4855",
-            "Depth": "5.5",
-            "ML": "2.4",
-            "Location": "MARMARA DENIZI REVIZE EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "10:28:39",
-            "Latitude": "39.5053",
-            "Longitude": "26.2387",
-            "Depth": "10.6",
-            "ML": "2.2",
-            "Location": "BEKTAS AYVACIK CANAKKALE"
         }
     ]
 }
