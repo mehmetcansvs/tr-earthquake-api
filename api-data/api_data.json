@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.08",
+            "Time": "06:31:48",
+            "Latitude": "39.4673",
+            "Longitude": "25.7490",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "06:12:23",
+            "Latitude": "39.8498",
+            "Longitude": "27.9617",
+            "Depth": "7.5",
+            "ML": "1.4",
+            "Location": "YAYLABAYIR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.08",
             "Time": "05:38:28",
             "Latitude": "39.4837",
             "Longitude": "25.7250",
@@ -53,6 +71,15 @@
             "Depth": "6.6",
             "ML": "2.4",
             "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "05:01:04",
+            "Latitude": "38.2432",
+            "Longitude": "33.5128",
+            "Depth": "27.3",
+            "ML": "1.4",
+            "Location": "SULTANHANI AKSARAY"
         },
         {
             "Date": "2022.06.08",
@@ -197,6 +224,15 @@
             "Depth": "0.0",
             "ML": "1.9",
             "Location": "KEMALIYE ARIFIYE SAKARYA"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "19:38:10",
+            "Latitude": "38.1625",
+            "Longitude": "42.8742",
+            "Depth": "2.7",
+            "ML": "2.9",
+            "Location": "UNLUCE BAHCESARAY VAN"
         },
         {
             "Date": "2022.06.07",
@@ -4436,42 +4472,6 @@
             "Depth": "77.3",
             "ML": "2.3",
             "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "20:46:28",
-            "Latitude": "39.1580",
-            "Longitude": "27.6417",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "SARIKAYA SOMA MANISA"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "19:41:07",
-            "Latitude": "40.1535",
-            "Longitude": "27.2115",
-            "Depth": "12.1",
-            "ML": "1.6",
-            "Location": "KAPANBELENI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "19:28:19",
-            "Latitude": "37.0527",
-            "Longitude": "29.5283",
-            "Depth": "14.6",
-            "ML": "1.7",
-            "Location": "EVCILER GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "19:16:08",
-            "Latitude": "40.1373",
-            "Longitude": "27.2270",
-            "Depth": "7.9",
-            "ML": "2.3",
-            "Location": "YESILKOY BIGA CANAKKALE"
         }
     ]
 }
