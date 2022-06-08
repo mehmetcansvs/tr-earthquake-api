@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.08",
+            "Time": "11:00:52",
+            "Latitude": "39.9703",
+            "Longitude": "27.0627",
+            "Depth": "9.1",
+            "ML": "0.9",
+            "Location": "KARAKOCA CAN CANAKKALE"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "10:51:18",
+            "Latitude": "37.2198",
+            "Longitude": "28.4567",
+            "Depth": "1.1",
+            "ML": "2.3",
+            "Location": "ORTAKOY MUGLA"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "10:06:20",
+            "Latitude": "39.5915",
+            "Longitude": "35.3915",
+            "Depth": "12.6",
+            "ML": "1.9",
+            "Location": "SOYLEMEZ SARIKAYA YOZGAT"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "09:19:44",
+            "Latitude": "39.4878",
+            "Longitude": "25.7328",
+            "Depth": "9.3",
+            "ML": "2.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.08",
             "Time": "09:02:03",
             "Latitude": "37.8158",
             "Longitude": "27.3432",
@@ -278,6 +314,15 @@
             "Depth": "14.2",
             "ML": "2.8",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.07",
+            "Time": "18:18:28",
+            "Latitude": "39.1415",
+            "Longitude": "24.6267",
+            "Depth": "25.1",
+            "ML": "1.6",
+            "Location": "EGE DENIZI"
         },
         {
             "Date": "2022.06.07",
@@ -4427,51 +4472,6 @@
             "Depth": "5.0",
             "ML": "2.2",
             "Location": "GOLOREN EMIRGAZI KONYA"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "00:19:09",
-            "Latitude": "38.9757",
-            "Longitude": "25.9958",
-            "Depth": "7.6",
-            "ML": "1.9",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "00:17:16",
-            "Latitude": "37.8565",
-            "Longitude": "26.8222",
-            "Depth": "4.4",
-            "ML": "1.3",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "23:58:17",
-            "Latitude": "38.9727",
-            "Longitude": "25.9947",
-            "Depth": "14.4",
-            "ML": "1.8",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "23:38:51",
-            "Latitude": "38.9940",
-            "Longitude": "27.8470",
-            "Depth": "10.0",
-            "ML": "1.4",
-            "Location": "GOKCEAHMET AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "22:16:19",
-            "Latitude": "40.5627",
-            "Longitude": "36.9658",
-            "Depth": "5.8",
-            "ML": "1.9",
-            "Location": "SULUGOL NIKSAR TOKAT"
         }
     ]
 }
