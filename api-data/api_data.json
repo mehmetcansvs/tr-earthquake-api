@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.06.08",
+            "Time": "16:33:30",
+            "Latitude": "39.8200",
+            "Longitude": "27.9508",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "CAYPINAR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.08",
             "Time": "15:01:56",
             "Latitude": "36.9193",
             "Longitude": "27.7925",
             "Depth": "8.0",
             "ML": "2.1",
             "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "15:01:27",
+            "Latitude": "39.4872",
+            "Longitude": "25.7833",
+            "Depth": "7.7",
+            "ML": "1.7",
+            "Location": "EGE DENIZI"
         },
         {
             "Date": "2022.06.08",
@@ -4454,24 +4472,6 @@
             "Depth": "21.4",
             "ML": "1.6",
             "Location": "SARIVELILER MUT MERSIN"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "16:37:26",
-            "Latitude": "37.0675",
-            "Longitude": "27.8128",
-            "Depth": "10.6",
-            "ML": "1.5",
-            "Location": "FESLEGEN MILAS MUGLA"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "16:25:35",
-            "Latitude": "35.0398",
-            "Longitude": "23.6205",
-            "Depth": "13.7",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
