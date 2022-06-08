@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.06.09",
+            "Time": "00:30:44",
+            "Latitude": "39.4790",
+            "Longitude": "25.7677",
+            "Depth": "8.5",
+            "ML": "2.3",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "19:45:10",
+            "Latitude": "37.0627",
+            "Longitude": "29.0672",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "YOLCATI ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "19:22:23",
+            "Latitude": "40.0685",
+            "Longitude": "27.0897",
+            "Depth": "5.8",
+            "ML": "1.0",
+            "Location": "YUVALAR CAN CANAKKALE"
+        },
+        {
             "Date": "2022.06.08",
             "Time": "18:31:59",
             "Latitude": "39.2912",
@@ -4445,33 +4472,6 @@
             "Depth": "24.3",
             "ML": "1.4",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "20:22:09",
-            "Latitude": "39.3663",
-            "Longitude": "44.4645",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "SARICAVUS DOGUBAYAZIT AGRI"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "19:18:36",
-            "Latitude": "37.8772",
-            "Longitude": "26.9263",
-            "Depth": "5.8",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "19:07:31",
-            "Latitude": "37.0742",
-            "Longitude": "28.4653",
-            "Depth": "8.6",
-            "ML": "1.9",
-            "Location": "ELMALI ULA MUGLA"
         }
     ]
 }
