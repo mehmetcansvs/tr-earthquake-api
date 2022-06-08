@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.08",
+            "Time": "09:02:03",
+            "Latitude": "37.8158",
+            "Longitude": "27.3432",
+            "Depth": "4.8",
+            "ML": "2.1",
+            "Location": "KIRAZLI KUSADASI AYDIN"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "08:18:31",
+            "Latitude": "40.3072",
+            "Longitude": "41.0805",
+            "Depth": "17.4",
+            "ML": "1.9",
+            "Location": "BASKENT AZIZIYE ERZURUM"
+        },
+        {
+            "Date": "2022.06.08",
             "Time": "06:31:48",
             "Latitude": "39.4673",
             "Longitude": "25.7490",
@@ -4454,24 +4472,6 @@
             "Depth": "5.8",
             "ML": "1.9",
             "Location": "SULUGOL NIKSAR TOKAT"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "22:00:02",
-            "Latitude": "37.0708",
-            "Longitude": "28.4567",
-            "Depth": "18.5",
-            "ML": "1.4",
-            "Location": "ELMALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.27",
-            "Time": "21:16:38",
-            "Latitude": "36.6087",
-            "Longitude": "27.6867",
-            "Depth": "77.3",
-            "ML": "2.3",
-            "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
         }
     ]
 }
