@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.08",
+            "Time": "17:38:31",
+            "Latitude": "37.0635",
+            "Longitude": "29.0673",
+            "Depth": "9.6",
+            "ML": "2.0",
+            "Location": "YOLCATI ACIPAYAM DENIZLI"
+        },
+        {
+            "Date": "2022.06.08",
             "Time": "16:33:30",
             "Latitude": "39.8200",
             "Longitude": "27.9508",
@@ -4463,15 +4472,6 @@
             "Depth": "9.8",
             "ML": "1.5",
             "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "17:02:33",
-            "Latitude": "36.5420",
-            "Longitude": "33.4875",
-            "Depth": "21.4",
-            "ML": "1.6",
-            "Location": "SARIVELILER MUT MERSIN"
         }
     ]
 }
