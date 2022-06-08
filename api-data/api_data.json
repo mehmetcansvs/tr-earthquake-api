@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.08",
+            "Time": "17:55:44",
+            "Latitude": "39.0360",
+            "Longitude": "25.9943",
+            "Depth": "7.1",
+            "ML": "2.0",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.08",
             "Time": "17:38:31",
             "Latitude": "37.0635",
             "Longitude": "29.0673",
@@ -4463,15 +4472,6 @@
             "Depth": "7.6",
             "ML": "3.2",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "17:39:45",
-            "Latitude": "39.4717",
-            "Longitude": "25.8967",
-            "Depth": "9.8",
-            "ML": "1.5",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
         }
     ]
 }
