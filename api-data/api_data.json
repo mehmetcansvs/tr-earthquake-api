@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.08",
+            "Time": "18:31:59",
+            "Latitude": "39.2912",
+            "Longitude": "29.3265",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "UZUNCAM EMET KUTAHYA"
+        },
+        {
+            "Date": "2022.06.08",
             "Time": "17:55:44",
             "Latitude": "39.0360",
             "Longitude": "25.9943",
@@ -4463,15 +4472,6 @@
             "Depth": "8.6",
             "ML": "1.9",
             "Location": "ELMALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "18:22:22",
-            "Latitude": "37.8607",
-            "Longitude": "26.9420",
-            "Depth": "7.6",
-            "ML": "3.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
