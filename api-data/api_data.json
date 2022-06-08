@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.06.08",
+            "Time": "12:54:57",
+            "Latitude": "39.8805",
+            "Longitude": "27.9495",
+            "Depth": "11.7",
+            "ML": "1.9",
+            "Location": "CANACIK BALIKESIR"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "12:50:51",
+            "Latitude": "39.8387",
+            "Longitude": "28.0013",
+            "Depth": "23.9",
+            "ML": "1.2",
+            "Location": "ODALIDAM SUSURLUK BALIKESIR"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "12:36:07",
+            "Latitude": "37.0442",
+            "Longitude": "29.0467",
+            "Depth": "2.0",
+            "ML": "2.6",
+            "Location": "KARACAM KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "12:04:07",
+            "Latitude": "37.2142",
+            "Longitude": "27.8107",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "ULAS MILAS MUGLA"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "12:02:59",
+            "Latitude": "37.1663",
+            "Longitude": "27.9203",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "KARACAAGAC MILAS MUGLA"
+        },
+        {
+            "Date": "2022.06.08",
             "Time": "11:00:52",
             "Latitude": "39.9703",
             "Longitude": "27.0627",
@@ -17,6 +62,24 @@
             "Depth": "1.1",
             "ML": "2.3",
             "Location": "ORTAKOY MUGLA"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "10:37:10",
+            "Latitude": "38.5802",
+            "Longitude": "31.5660",
+            "Depth": "6.1",
+            "ML": "2.1",
+            "Location": "PAZARKAYA TUZLUKCU KONYA"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "10:31:32",
+            "Latitude": "35.4777",
+            "Longitude": "25.3640",
+            "Depth": "15.5",
+            "ML": "1.7",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.06.08",
@@ -4409,69 +4472,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "06:03:36",
-            "Latitude": "37.8625",
-            "Longitude": "26.9738",
-            "Depth": "7.3",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "04:19:14",
-            "Latitude": "37.0370",
-            "Longitude": "28.4410",
-            "Depth": "11.0",
-            "ML": "1.6",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "04:10:26",
-            "Latitude": "37.0735",
-            "Longitude": "28.4563",
-            "Depth": "8.4",
-            "ML": "1.4",
-            "Location": "ELMALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "02:39:16",
-            "Latitude": "34.6813",
-            "Longitude": "24.5780",
-            "Depth": "2.8",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "02:04:06",
-            "Latitude": "38.5022",
-            "Longitude": "39.2658",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "BEKCITEPE SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "01:15:05",
-            "Latitude": "39.7888",
-            "Longitude": "33.0632",
-            "Depth": "2.4",
-            "ML": "2.5",
-            "Location": "DELILER ELMADAG ANKARA"
-        },
-        {
-            "Date": "2022.05.28",
-            "Time": "00:26:27",
-            "Latitude": "37.8710",
-            "Longitude": "33.8663",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "GOLOREN EMIRGAZI KONYA"
         }
     ]
 }
