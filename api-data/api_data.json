@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.06.09",
+            "Time": "18:38:08",
+            "Latitude": "39.4607",
+            "Longitude": "31.5638",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "18:05:40",
+            "Latitude": "38.9180",
+            "Longitude": "37.8625",
+            "Depth": "5.5",
+            "ML": "2.1",
+            "Location": "DEREKOY HEKIMHAN MALATYA"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "17:54:45",
+            "Latitude": "39.0065",
+            "Longitude": "27.8580",
+            "Depth": "3.8",
+            "ML": "1.7",
+            "Location": "GOKCEAHMET AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "17:41:31",
+            "Latitude": "39.0143",
+            "Longitude": "27.8793",
+            "Depth": "7.4",
+            "ML": "1.4",
+            "Location": "DINGILLER AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "17:33:25",
+            "Latitude": "39.0282",
+            "Longitude": "27.8642",
+            "Depth": "7.4",
+            "ML": "1.7",
+            "Location": "MUSALAR AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "17:22:18",
+            "Latitude": "39.0010",
+            "Longitude": "27.8670",
+            "Depth": "7.2",
+            "ML": "1.4",
+            "Location": "KARABORKLU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "17:19:12",
+            "Latitude": "38.9910",
+            "Longitude": "27.8725",
+            "Depth": "7.5",
+            "ML": "1.2",
+            "Location": "KARABORKLU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "17:15:08",
+            "Latitude": "39.0087",
+            "Longitude": "27.8568",
+            "Depth": "10.6",
+            "ML": "3.5",
+            "Location": "GOKCEAHMET AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.09",
             "Time": "16:57:34",
             "Latitude": "40.4742",
             "Longitude": "28.9125",
@@ -4400,78 +4472,6 @@
             "Depth": "11.0",
             "ML": "1.9",
             "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "21:09:36",
-            "Latitude": "40.3187",
-            "Longitude": "44.7822",
-            "Depth": "6.2",
-            "ML": "3.1",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "20:44:00",
-            "Latitude": "36.1653",
-            "Longitude": "27.6297",
-            "Depth": "9.3",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "20:41:50",
-            "Latitude": "37.0495",
-            "Longitude": "28.3957",
-            "Depth": "21.7",
-            "ML": "1.1",
-            "Location": "ATAKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "20:01:32",
-            "Latitude": "35.0430",
-            "Longitude": "24.9810",
-            "Depth": "4.0",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "20:00:10",
-            "Latitude": "37.8805",
-            "Longitude": "26.9285",
-            "Depth": "9.3",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "19:49:52",
-            "Latitude": "34.8318",
-            "Longitude": "24.8590",
-            "Depth": "8.7",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "19:24:49",
-            "Latitude": "36.6197",
-            "Longitude": "28.1792",
-            "Depth": "10.2",
-            "ML": "1.6",
-            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "18:30:12",
-            "Latitude": "38.9383",
-            "Longitude": "25.9735",
-            "Depth": "15.2",
-            "ML": "2.5",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         }
     ]
 }
