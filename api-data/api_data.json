@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.06.09",
+            "Time": "10:23:10",
+            "Latitude": "38.4585",
+            "Longitude": "39.5670",
+            "Depth": "9.3",
+            "ML": "2.5",
+            "Location": "CITLIKOY MADEN ELAZIG"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "10:22:18",
+            "Latitude": "38.5850",
+            "Longitude": "39.5677",
+            "Depth": "5.0",
+            "ML": "3.6",
+            "Location": "DEGIRMENONU ELAZIG"
+        },
+        {
+            "Date": "2022.06.09",
             "Time": "08:35:59",
             "Latitude": "39.4768",
             "Longitude": "25.7875",
             "Depth": "9.3",
             "ML": "2.1",
             "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "08:20:30",
+            "Latitude": "35.1637",
+            "Longitude": "23.0023",
+            "Depth": "14.2",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.06.09",
@@ -206,6 +233,15 @@
             "Depth": "18.3",
             "ML": "1.2",
             "Location": "BARBAROS URLA IZMIR"
+        },
+        {
+            "Date": "2022.06.08",
+            "Time": "19:49:40",
+            "Latitude": "34.7143",
+            "Longitude": "24.9573",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.06.08",
@@ -4436,42 +4472,6 @@
             "Depth": "4.9",
             "ML": "2.1",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "14:55:37",
-            "Latitude": "35.1888",
-            "Longitude": "33.7945",
-            "Depth": "9.6",
-            "ML": "2.1",
-            "Location": "KIBRIS TUZLA"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "14:46:00",
-            "Latitude": "37.0785",
-            "Longitude": "28.2667",
-            "Depth": "5.4",
-            "ML": "2.7",
-            "Location": "KUYUCAK MUGLA"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "14:45:51",
-            "Latitude": "37.7432",
-            "Longitude": "27.0308",
-            "Depth": "6.4",
-            "ML": "2.7",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "14:29:29",
-            "Latitude": "37.2052",
-            "Longitude": "28.9405",
-            "Depth": "9.1",
-            "ML": "2.2",
-            "Location": "ESENLER BEYAGAC DENIZLI"
         }
     ]
 }
