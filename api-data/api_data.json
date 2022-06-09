@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.09",
+            "Time": "20:57:53",
+            "Latitude": "35.1307",
+            "Longitude": "32.9600",
+            "Depth": "9.6",
+            "ML": "1.5",
+            "Location": "KIBRIS GUZELYURT"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "20:37:43",
+            "Latitude": "38.9895",
+            "Longitude": "27.8692",
+            "Depth": "7.6",
+            "ML": "1.4",
+            "Location": "KARABORKLU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.09",
             "Time": "18:38:08",
             "Latitude": "39.4607",
             "Longitude": "31.5638",
@@ -4454,24 +4472,6 @@
             "Depth": "7.5",
             "ML": "3.0",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "21:36:20",
-            "Latitude": "38.8372",
-            "Longitude": "31.5147",
-            "Depth": "4.5",
-            "ML": "1.3",
-            "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "21:32:08",
-            "Latitude": "37.0645",
-            "Longitude": "28.4387",
-            "Depth": "11.0",
-            "ML": "1.9",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
