@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.09",
+            "Time": "08:35:59",
+            "Latitude": "39.4768",
+            "Longitude": "25.7875",
+            "Depth": "9.3",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "06:33:53",
+            "Latitude": "38.8122",
+            "Longitude": "27.5673",
+            "Depth": "7.7",
+            "ML": "1.6",
+            "Location": "CAKMAKLI SARUHANLI MANISA"
+        },
+        {
+            "Date": "2022.06.09",
             "Time": "06:03:39",
             "Latitude": "37.0473",
             "Longitude": "28.4113",
@@ -4454,24 +4472,6 @@
             "Depth": "9.1",
             "ML": "2.2",
             "Location": "ESENLER BEYAGAC DENIZLI"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "10:15:52",
-            "Latitude": "37.7405",
-            "Longitude": "29.1762",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "OVACIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "09:18:53",
-            "Latitude": "37.0925",
-            "Longitude": "29.2360",
-            "Depth": "11.0",
-            "ML": "2.0",
-            "Location": "KOCAOVA CAMELI DENIZLI"
         }
     ]
 }
