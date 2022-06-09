@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.09",
+            "Time": "04:04:32",
+            "Latitude": "36.4733",
+            "Longitude": "28.7677",
+            "Depth": "14.3",
+            "ML": "1.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "03:38:39",
+            "Latitude": "36.4312",
+            "Longitude": "27.0370",
+            "Depth": "1.8",
+            "ML": "1.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "03:37:13",
+            "Latitude": "36.4278",
+            "Longitude": "27.0763",
+            "Depth": "5.3",
+            "ML": "1.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "02:41:32",
+            "Latitude": "39.9607",
+            "Longitude": "32.7312",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "YENIMAHALLE ANKARA"
+        },
+        {
+            "Date": "2022.06.09",
             "Time": "00:51:39",
             "Latitude": "38.8128",
             "Longitude": "43.5403",
@@ -4436,42 +4472,6 @@
             "Depth": "2.3",
             "ML": "1.9",
             "Location": "YAYLALIOZU BALA ANKARA"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "05:50:37",
-            "Latitude": "36.3145",
-            "Longitude": "36.0648",
-            "Depth": "6.6",
-            "ML": "1.7",
-            "Location": "KARLISU HATAY"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "05:42:59",
-            "Latitude": "37.8173",
-            "Longitude": "29.3762",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "ASAGIDAGDERE HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "05:41:48",
-            "Latitude": "37.9177",
-            "Longitude": "26.6670",
-            "Depth": "6.3",
-            "ML": "2.1",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "04:06:33",
-            "Latitude": "37.7677",
-            "Longitude": "36.2992",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "CIGSAR ANDIRIN KAHRAMANMARAS"
         }
     ]
 }
