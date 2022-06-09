@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.06.09",
+            "Time": "15:16:18",
+            "Latitude": "38.0447",
+            "Longitude": "32.6385",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "SARICALAR SELCUKLU KONYA"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "15:14:33",
+            "Latitude": "38.6888",
+            "Longitude": "39.8567",
+            "Depth": "10.7",
+            "ML": "3.1",
+            "Location": "SEYDILI PALU ELAZIG"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "13:20:06",
+            "Latitude": "36.8773",
+            "Longitude": "23.3263",
+            "Depth": "27.9",
+            "ML": "3.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "13:03:38",
+            "Latitude": "38.9408",
+            "Longitude": "30.1507",
+            "Depth": "5.7",
+            "ML": "1.9",
+            "Location": "HAMUR DUMLUPINAR KUTAHYA"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "11:09:12",
+            "Latitude": "35.2185",
+            "Longitude": "25.3222",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "10:47:15",
+            "Latitude": "39.1125",
+            "Longitude": "41.6488",
+            "Depth": "7.1",
+            "ML": "2.6",
+            "Location": "OMCALI VARTO MUS"
+        },
+        {
+            "Date": "2022.06.09",
             "Time": "10:23:10",
             "Latitude": "38.4585",
             "Longitude": "39.5670",
@@ -4418,60 +4472,6 @@
             "Depth": "14.0",
             "ML": "1.5",
             "Location": "KAPANBELENI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "17:36:59",
-            "Latitude": "39.1755",
-            "Longitude": "40.3948",
-            "Depth": "10.1",
-            "ML": "2.1",
-            "Location": "HASBAGLAR ADAKLI BINGOL"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "17:31:00",
-            "Latitude": "36.4133",
-            "Longitude": "27.1190",
-            "Depth": "7.7",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "17:12:36",
-            "Latitude": "40.7035",
-            "Longitude": "27.4630",
-            "Depth": "15.5",
-            "ML": "2.3",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "16:50:39",
-            "Latitude": "36.5817",
-            "Longitude": "25.5412",
-            "Depth": "137.3",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "16:41:34",
-            "Latitude": "38.8753",
-            "Longitude": "35.5972",
-            "Depth": "8.7",
-            "ML": "1.4",
-            "Location": "SARAYCIK KOCASINAN KAYSERI"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "15:07:43",
-            "Latitude": "37.7803",
-            "Longitude": "27.0175",
-            "Depth": "4.9",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
