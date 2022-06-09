@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.09",
+            "Time": "22:59:31",
+            "Latitude": "36.9615",
+            "Longitude": "30.1153",
+            "Depth": "7.8",
+            "ML": "1.5",
+            "Location": "ULUCAK KORKUTELI ANTALYA"
+        },
+        {
+            "Date": "2022.06.09",
+            "Time": "22:42:05",
+            "Latitude": "38.1310",
+            "Longitude": "35.1728",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "HACIBEYLI NIGDE"
+        },
+        {
+            "Date": "2022.06.09",
             "Time": "20:57:53",
             "Latitude": "35.1307",
             "Longitude": "32.9600",
@@ -4454,24 +4472,6 @@
             "Depth": "16.6",
             "ML": "1.3",
             "Location": "SELCIKLI AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "22:10:10",
-            "Latitude": "37.0712",
-            "Longitude": "28.3723",
-            "Depth": "15.8",
-            "ML": "1.0",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.29",
-            "Time": "21:55:36",
-            "Latitude": "37.8643",
-            "Longitude": "26.9442",
-            "Depth": "7.5",
-            "ML": "3.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
