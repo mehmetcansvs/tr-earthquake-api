@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.06.10",
+            "Time": "13:05:12",
+            "Latitude": "38.9183",
+            "Longitude": "43.5445",
+            "Depth": "7.2",
+            "ML": "2.2",
+            "Location": "COLPAN VAN"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "12:23:21",
+            "Latitude": "39.8350",
+            "Longitude": "27.9867",
+            "Depth": "21.0",
+            "ML": "1.5",
+            "Location": "ODALIDAM SUSURLUK BALIKESIR"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "12:16:12",
+            "Latitude": "37.1683",
+            "Longitude": "37.2785",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "SAMMEZREASI SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "12:00:58",
+            "Latitude": "40.3565",
+            "Longitude": "26.9593",
+            "Depth": "5.0",
+            "ML": "1.3",
+            "Location": "GURECI LAPSEKI CANAKKALE"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "11:59:22",
+            "Latitude": "37.3038",
+            "Longitude": "26.5235",
+            "Depth": "13.7",
+            "ML": "1.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "11:54:20",
+            "Latitude": "34.9730",
+            "Longitude": "34.0202",
+            "Depth": "18.2",
+            "ML": "1.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "11:21:11",
+            "Latitude": "37.5870",
+            "Longitude": "32.5813",
+            "Depth": "6.2",
+            "ML": "1.6",
+            "Location": "SECME CUMRA KONYA"
+        },
+        {
+            "Date": "2022.06.10",
             "Time": "10:37:20",
             "Latitude": "38.7748",
             "Longitude": "43.6572",
@@ -4416,62 +4479,8 @@
             "Latitude": "35.0468",
             "Longitude": "25.3948",
             "Depth": "79.0",
-            "ML": "3.4",
-            "Location": "GIRIT ADASI AKDENIZ REVIZE MUSALAR AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "15:37:27",
-            "Latitude": "36.1503",
-            "Longitude": "33.5282",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "14:57:09",
-            "Latitude": "35.3257",
-            "Longitude": "25.2197",
-            "Depth": "19.3",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "14:16:42",
-            "Latitude": "38.3382",
-            "Longitude": "31.7575",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "BOGAZKENT ILGIN KONYA"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "14:03:20",
-            "Latitude": "36.6003",
-            "Longitude": "36.2892",
-            "Depth": "12.5",
-            "ML": "1.7",
-            "Location": "GUZELKOY ISKENDERUN HATAY"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "12:47:13",
-            "Latitude": "40.2478",
-            "Longitude": "40.9968",
-            "Depth": "15.6",
-            "ML": "2.4",
-            "Location": "TOPRAKKALE AZIZIYE ERZURUM"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "12:11:11",
-            "Latitude": "39.8870",
-            "Longitude": "39.1225",
-            "Depth": "5.3",
-            "ML": "2.0",
-            "Location": "KOCYATAGI ERZINCAN"
+            "ML": "3.6",
+            "Location": "GIRIT ADASI AKDENIZ REVIZE"
         }
     ]
 }
