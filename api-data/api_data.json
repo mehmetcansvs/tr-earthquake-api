@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.10",
+            "Time": "06:23:54",
+            "Latitude": "34.6293",
+            "Longitude": "28.2343",
+            "Depth": "86.0",
+            "ML": "3.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.10",
             "Time": "06:07:33",
             "Latitude": "36.4383",
             "Longitude": "27.1243",
@@ -35,6 +44,24 @@
             "Depth": "29.4",
             "ML": "4.9",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "04:39:58",
+            "Latitude": "34.7067",
+            "Longitude": "25.4115",
+            "Depth": "14.9",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "04:39:43",
+            "Latitude": "40.2095",
+            "Longitude": "33.4067",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "KILCAK KALECIK ANKARA"
         },
         {
             "Date": "2022.06.10",
@@ -4445,33 +4472,6 @@
             "Depth": "8.0",
             "ML": "1.7",
             "Location": "ULUAGAC CUBUK ANKARA"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "05:02:31",
-            "Latitude": "38.8138",
-            "Longitude": "26.4040",
-            "Depth": "1.0",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "04:40:39",
-            "Latitude": "37.0638",
-            "Longitude": "28.3573",
-            "Depth": "5.6",
-            "ML": "1.7",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "04:24:25",
-            "Latitude": "37.3498",
-            "Longitude": "43.4112",
-            "Depth": "15.1",
-            "ML": "2.4",
-            "Location": "CIGLI CUKURCA HAKKARI"
         }
     ]
 }
