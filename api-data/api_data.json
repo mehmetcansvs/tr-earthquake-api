@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.10",
+            "Time": "06:07:33",
+            "Latitude": "36.4383",
+            "Longitude": "27.1243",
+            "Depth": "3.3",
+            "ML": "1.8",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "05:08:13",
+            "Latitude": "35.2428",
+            "Longitude": "33.7935",
+            "Depth": "7.4",
+            "ML": "1.5",
+            "Location": "KIBRIS ISKELE"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "05:05:52",
+            "Latitude": "35.1327",
+            "Longitude": "33.8068",
+            "Depth": "13.7",
+            "ML": "2.1",
+            "Location": "KIBRIS TUZLA"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "04:40:18",
+            "Latitude": "34.7313",
+            "Longitude": "33.9135",
+            "Depth": "29.4",
+            "ML": "4.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.10",
             "Time": "01:48:59",
             "Latitude": "38.7983",
             "Longitude": "43.5460",
@@ -4436,42 +4472,6 @@
             "Depth": "15.1",
             "ML": "2.4",
             "Location": "CIGLI CUKURCA HAKKARI"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "04:04:36",
-            "Latitude": "35.7837",
-            "Longitude": "27.1022",
-            "Depth": "8.0",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "03:28:41",
-            "Latitude": "39.0408",
-            "Longitude": "44.1138",
-            "Depth": "5.7",
-            "ML": "1.5",
-            "Location": "YUKARIGULDEREN CALDIRAN VAN"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "02:35:03",
-            "Latitude": "38.9920",
-            "Longitude": "27.8733",
-            "Depth": "7.3",
-            "ML": "1.5",
-            "Location": "KARABORKLU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "02:21:00",
-            "Latitude": "38.9953",
-            "Longitude": "27.8318",
-            "Depth": "6.8",
-            "ML": "3.2",
-            "Location": "GOKCEAHMET AKHISAR MANISA"
         }
     ]
 }
