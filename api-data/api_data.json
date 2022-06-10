@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.10",
+            "Time": "17:56:39",
+            "Latitude": "37.6538",
+            "Longitude": "35.5712",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "KOPRUCUK ALADAG ADANA"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "17:52:37",
+            "Latitude": "37.8745",
+            "Longitude": "27.9233",
+            "Depth": "5.3",
+            "ML": "1.9",
+            "Location": "PINARDERE AYDIN"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "17:44:58",
+            "Latitude": "39.8770",
+            "Longitude": "28.8497",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "IKIZOLUK ORHANELI BURSA"
+        },
+        {
+            "Date": "2022.06.10",
             "Time": "17:07:26",
             "Latitude": "38.8460",
             "Longitude": "43.4613",
@@ -4454,33 +4481,6 @@
             "Depth": "19.7",
             "ML": "1.6",
             "Location": "DURMUSLU KOZAN ADANA"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "23:20:56",
-            "Latitude": "38.0218",
-            "Longitude": "29.0243",
-            "Depth": "8.6",
-            "ML": "2.0",
-            "Location": "TEPEKOY SARAYKOY DENIZLI"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "23:19:57",
-            "Latitude": "38.9765",
-            "Longitude": "23.9898",
-            "Depth": "13.4",
-            "ML": "1.8",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "22:55:00",
-            "Latitude": "39.0077",
-            "Longitude": "27.8487",
-            "Depth": "7.1",
-            "ML": "2.3",
-            "Location": "GOKCEAHMET AKHISAR MANISA"
         }
     ]
 }
