@@ -2,6 +2,87 @@
     "data": [
         {
             "Date": "2022.06.10",
+            "Time": "10:37:20",
+            "Latitude": "38.7748",
+            "Longitude": "43.6572",
+            "Depth": "23.7",
+            "ML": "2.5",
+            "Location": "SURUYOLU MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "10:19:55",
+            "Latitude": "38.8508",
+            "Longitude": "43.3253",
+            "Depth": "8.5",
+            "ML": "2.0",
+            "Location": "HALKALI VAN"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "09:55:00",
+            "Latitude": "38.8295",
+            "Longitude": "43.6917",
+            "Depth": "8.2",
+            "ML": "2.3",
+            "Location": "AKBULAK MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "09:50:58",
+            "Latitude": "38.8797",
+            "Longitude": "43.8942",
+            "Depth": "12.0",
+            "ML": "2.2",
+            "Location": "ASAGIAKCAGUL OZALP VAN"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "09:25:54",
+            "Latitude": "38.7655",
+            "Longitude": "43.3872",
+            "Depth": "9.5",
+            "ML": "2.0",
+            "Location": "PIRGARIP VAN"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "09:21:43",
+            "Latitude": "38.8217",
+            "Longitude": "43.5340",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "BAGDASAN VAN"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "09:15:05",
+            "Latitude": "37.6397",
+            "Longitude": "30.5302",
+            "Depth": "5.1",
+            "ML": "1.6",
+            "Location": "AGLASUN BURDUR"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "09:14:36",
+            "Latitude": "38.8072",
+            "Longitude": "43.4980",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "DEREBEY VAN"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "09:12:42",
+            "Latitude": "38.8562",
+            "Longitude": "43.4687",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "KARAAGAC VAN"
+        },
+        {
+            "Date": "2022.06.10",
             "Time": "09:07:10",
             "Latitude": "38.8563",
             "Longitude": "43.4565",
@@ -17,6 +98,15 @@
             "Depth": "7.0",
             "ML": "4.5",
             "Location": "SURUYOLU MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "08:54:43",
+            "Latitude": "35.7523",
+            "Longitude": "26.9102",
+            "Depth": "1.7",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.06.10",
@@ -4382,96 +4472,6 @@
             "Depth": "5.3",
             "ML": "2.0",
             "Location": "KOCYATAGI ERZINCAN"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "11:46:51",
-            "Latitude": "37.1688",
-            "Longitude": "37.2273",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "YESILCE SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "11:23:13",
-            "Latitude": "39.5968",
-            "Longitude": "29.3187",
-            "Depth": "18.2",
-            "ML": "1.5",
-            "Location": "DUTLAR TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "11:05:28",
-            "Latitude": "34.8823",
-            "Longitude": "24.9757",
-            "Depth": "7.4",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "10:46:46",
-            "Latitude": "36.9815",
-            "Longitude": "23.9358",
-            "Depth": "8.3",
-            "ML": "3.0",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "10:45:57",
-            "Latitude": "40.0148",
-            "Longitude": "26.9855",
-            "Depth": "1.0",
-            "ML": "1.2",
-            "Location": "DURALI CAN CANAKKALE"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "10:38:17",
-            "Latitude": "39.0030",
-            "Longitude": "27.8495",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "GOKCEAHMET AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "10:02:49",
-            "Latitude": "34.8727",
-            "Longitude": "24.9950",
-            "Depth": "6.9",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "09:07:31",
-            "Latitude": "38.9987",
-            "Longitude": "27.8350",
-            "Depth": "7.6",
-            "ML": "1.4",
-            "Location": "GOKCEAHMET AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "08:43:51",
-            "Latitude": "39.6552",
-            "Longitude": "24.5147",
-            "Depth": "10.3",
-            "ML": "1.6",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "07:50:53",
-            "Latitude": "39.5758",
-            "Longitude": "25.9690",
-            "Depth": "9.0",
-            "ML": "2.1",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
         }
     ]
 }
