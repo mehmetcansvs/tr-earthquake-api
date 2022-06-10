@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.10",
+            "Time": "01:48:59",
+            "Latitude": "38.7983",
+            "Longitude": "43.5460",
+            "Depth": "3.8",
+            "ML": "2.0",
+            "Location": "DEGIRMENOZU VAN"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "01:42:31",
+            "Latitude": "35.2972",
+            "Longitude": "25.3110",
+            "Depth": "7.9",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.10",
+            "Time": "01:31:18",
+            "Latitude": "38.3613",
+            "Longitude": "23.4255",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.10",
             "Time": "00:14:15",
             "Latitude": "37.0895",
             "Longitude": "29.5832",
@@ -4445,33 +4472,6 @@
             "Depth": "6.8",
             "ML": "3.2",
             "Location": "GOKCEAHMET AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "02:02:45",
-            "Latitude": "38.3967",
-            "Longitude": "28.4890",
-            "Depth": "9.3",
-            "ML": "0.7",
-            "Location": "AKKECILI ALASEHIR MANISA"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "01:49:47",
-            "Latitude": "39.0348",
-            "Longitude": "23.5992",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.05.30",
-            "Time": "00:34:10",
-            "Latitude": "36.4020",
-            "Longitude": "27.0033",
-            "Depth": "9.1",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
         }
     ]
 }
