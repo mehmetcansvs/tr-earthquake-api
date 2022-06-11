@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.11",
+            "Time": "08:37:02",
+            "Latitude": "37.2780",
+            "Longitude": "31.1192",
+            "Depth": "148.4",
+            "ML": "2.3",
+            "Location": "BALLIBUCAK MANAVGAT ANTALYA"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "08:11:36",
+            "Latitude": "37.0832",
+            "Longitude": "28.4083",
+            "Depth": "2.6",
+            "ML": "1.1",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "07:00:51",
+            "Latitude": "37.0377",
+            "Longitude": "28.3690",
+            "Depth": "6.6",
+            "ML": "2.2",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.11",
             "Time": "06:35:22",
             "Latitude": "35.6000",
             "Longitude": "27.1985",
@@ -4454,33 +4481,6 @@
             "Depth": "9.2",
             "ML": "2.1",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.31",
-            "Time": "18:51:18",
-            "Latitude": "39.3733",
-            "Longitude": "31.5378",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "ASAGIKEPEN SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.05.31",
-            "Time": "18:45:43",
-            "Latitude": "38.9767",
-            "Longitude": "29.7222",
-            "Depth": "2.9",
-            "ML": "4.4",
-            "Location": "CUKUROREN GEDIZ KUTAHYA"
-        },
-        {
-            "Date": "2022.05.31",
-            "Time": "17:21:15",
-            "Latitude": "36.1022",
-            "Longitude": "28.1277",
-            "Depth": "46.4",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
