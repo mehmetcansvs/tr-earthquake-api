@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.06.11",
+            "Time": "23:01:11",
+            "Latitude": "38.8353",
+            "Longitude": "43.5250",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "BAGDASAN VAN"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "22:25:15",
+            "Latitude": "37.9260",
+            "Longitude": "26.3558",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "21:53:35",
+            "Latitude": "38.2618",
+            "Longitude": "38.7005",
+            "Depth": "6.5",
+            "ML": "3.3",
+            "Location": "CAYKOY PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "21:51:33",
+            "Latitude": "39.6025",
+            "Longitude": "25.9755",
+            "Depth": "9.9",
+            "ML": "1.2",
+            "Location": "TAVAKLI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "21:46:57",
+            "Latitude": "39.5873",
+            "Longitude": "26.0172",
+            "Depth": "7.9",
+            "ML": "1.7",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "21:44:06",
+            "Latitude": "40.2128",
+            "Longitude": "27.7105",
+            "Depth": "8.5",
+            "ML": "2.1",
+            "Location": "BOSTANCI GONEN BALIKESIR"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "21:13:59",
+            "Latitude": "38.7690",
+            "Longitude": "25.5770",
+            "Depth": "8.2",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.11",
             "Time": "21:04:20",
             "Latitude": "38.8492",
             "Longitude": "43.4760",
@@ -53,6 +116,15 @@
             "Depth": "15.8",
             "ML": "1.2",
             "Location": "KOZLUDERE KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "18:53:34",
+            "Latitude": "35.2767",
+            "Longitude": "25.3420",
+            "Depth": "6.1",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.06.11",
@@ -4409,78 +4481,6 @@
             "Depth": "0.0",
             "ML": "1.8",
             "Location": "DUNDAR ORHANELI BURSA"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "12:13:16",
-            "Latitude": "41.2327",
-            "Longitude": "40.5023",
-            "Depth": "4.3",
-            "ML": "2.9",
-            "Location": "RIZE ACIKLARI KARADENIZ"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "11:48:00",
-            "Latitude": "40.2728",
-            "Longitude": "27.0468",
-            "Depth": "4.7",
-            "ML": "2.3",
-            "Location": "HISARLI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "11:10:39",
-            "Latitude": "37.0548",
-            "Longitude": "27.9767",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "OREN MILAS MUGLA"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "11:08:40",
-            "Latitude": "36.9540",
-            "Longitude": "27.9042",
-            "Depth": "17.2",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "09:45:35",
-            "Latitude": "36.1317",
-            "Longitude": "25.7308",
-            "Depth": "21.1",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "09:36:25",
-            "Latitude": "36.4460",
-            "Longitude": "27.1192",
-            "Depth": "5.2",
-            "ML": "1.9",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "09:30:55",
-            "Latitude": "35.3250",
-            "Longitude": "26.1255",
-            "Depth": "16.5",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "08:07:41",
-            "Latitude": "38.4093",
-            "Longitude": "43.4882",
-            "Depth": "12.2",
-            "ML": "2.8",
-            "Location": "TASKONAK VAN"
         }
     ]
 }
