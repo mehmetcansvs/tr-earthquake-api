@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.11",
+            "Time": "13:55:55",
+            "Latitude": "38.9495",
+            "Longitude": "30.2705",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "YENICE IHSANIYE AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.11",
             "Time": "12:01:35",
             "Latitude": "37.1063",
             "Longitude": "35.7433",
@@ -4472,15 +4481,6 @@
             "Depth": "18.6",
             "ML": "1.5",
             "Location": "ACIKUYU KULU KONYA"
-        },
-        {
-            "Date": "2022.05.31",
-            "Time": "20:55:10",
-            "Latitude": "36.4288",
-            "Longitude": "27.0087",
-            "Depth": "2.1",
-            "ML": "3.4",
-            "Location": "AKDENIZ"
         }
     ]
 }
