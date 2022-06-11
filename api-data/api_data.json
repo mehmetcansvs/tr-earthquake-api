@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.06.11",
+            "Time": "23:44:26",
+            "Latitude": "38.5982",
+            "Longitude": "30.8852",
+            "Depth": "7.8",
+            "ML": "0.8",
+            "Location": "MALTEPE CAY AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "23:32:27",
+            "Latitude": "39.0885",
+            "Longitude": "27.7750",
+            "Depth": "9.9",
+            "ML": "1.8",
+            "Location": "ILYASLAR KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "23:20:20",
+            "Latitude": "35.3473",
+            "Longitude": "27.6757",
+            "Depth": "17.0",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.11",
             "Time": "23:01:11",
             "Latitude": "38.8353",
             "Longitude": "43.5250",
             "Depth": "5.0",
             "ML": "2.5",
             "Location": "BAGDASAN VAN"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "22:26:45",
+            "Latitude": "37.8378",
+            "Longitude": "26.3863",
+            "Depth": "11.8",
+            "ML": "1.2",
+            "Location": "ONIKI ADALAR AKDENIZ"
         },
         {
             "Date": "2022.06.11",
@@ -4445,42 +4481,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "14:59:01",
-            "Latitude": "36.9492",
-            "Longitude": "27.7415",
-            "Depth": "5.4",
-            "ML": "2.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "14:54:23",
-            "Latitude": "38.8407",
-            "Longitude": "26.4035",
-            "Depth": "10.8",
-            "ML": "2.2",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "14:53:43",
-            "Latitude": "39.5025",
-            "Longitude": "26.0898",
-            "Depth": "8.0",
-            "ML": "2.0",
-            "Location": "BABAKALE AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "13:21:57",
-            "Latitude": "39.8948",
-            "Longitude": "28.8497",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "DUNDAR ORHANELI BURSA"
         }
     ]
 }
