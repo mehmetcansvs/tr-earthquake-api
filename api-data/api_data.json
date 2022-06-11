@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.11",
+            "Time": "11:02:41",
+            "Latitude": "38.9817",
+            "Longitude": "27.8728",
+            "Depth": "5.1",
+            "ML": "2.1",
+            "Location": "KARABORKLU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.11",
             "Time": "08:37:02",
             "Latitude": "37.2780",
             "Longitude": "31.1192",
@@ -4471,15 +4480,6 @@
             "Longitude": "27.0730",
             "Depth": "11.8",
             "ML": "2.2",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.31",
-            "Time": "19:21:21",
-            "Latitude": "36.4100",
-            "Longitude": "27.0935",
-            "Depth": "9.2",
-            "ML": "2.1",
             "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
