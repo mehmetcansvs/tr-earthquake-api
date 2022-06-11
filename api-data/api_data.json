@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.06.11",
+            "Time": "18:13:58",
+            "Latitude": "38.8107",
+            "Longitude": "43.4863",
+            "Depth": "5.0",
+            "ML": "3.1",
+            "Location": "DEREBEY VAN"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "18:09:46",
+            "Latitude": "40.7093",
+            "Longitude": "27.4540",
+            "Depth": "11.5",
+            "ML": "2.1",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "17:51:09",
+            "Latitude": "38.8735",
+            "Longitude": "29.0992",
+            "Depth": "5.5",
+            "ML": "1.6",
+            "Location": "KARAKUR SAPHANE KUTAHYA"
+        },
+        {
+            "Date": "2022.06.11",
             "Time": "16:17:35",
             "Latitude": "40.5310",
             "Longitude": "29.2793",
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "HAMZALI ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "16:12:57",
+            "Latitude": "34.2008",
+            "Longitude": "26.2565",
+            "Depth": "6.7",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.06.11",
@@ -4445,42 +4481,6 @@
             "Depth": "7.0",
             "ML": "1.4",
             "Location": "SOFULAR BALA ANKARA"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "05:08:26",
-            "Latitude": "38.2390",
-            "Longitude": "39.3257",
-            "Depth": "5.5",
-            "ML": "2.2",
-            "Location": "AKTAS CUNGUS DIYARBAKIR"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "05:02:46",
-            "Latitude": "35.0470",
-            "Longitude": "32.2782",
-            "Depth": "6.0",
-            "ML": "3.4",
-            "Location": "KIBRIS RUM KESIMI"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "04:51:33",
-            "Latitude": "36.5032",
-            "Longitude": "29.7477",
-            "Depth": "25.3",
-            "ML": "2.2",
-            "Location": "AVSAR ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "04:01:45",
-            "Latitude": "36.0838",
-            "Longitude": "23.6497",
-            "Depth": "26.6",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
