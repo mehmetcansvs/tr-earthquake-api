@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.11",
+            "Time": "01:08:26",
+            "Latitude": "38.8213",
+            "Longitude": "43.5225",
+            "Depth": "5.0",
+            "ML": "3.6",
+            "Location": "BAGDASAN VAN"
+        },
+        {
+            "Date": "2022.06.11",
             "Time": "00:51:14",
             "Latitude": "37.0718",
             "Longitude": "28.4153",
@@ -4472,15 +4481,6 @@
             "Depth": "7.4",
             "ML": "2.0",
             "Location": "AKTEPE KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.05.31",
-            "Time": "05:59:48",
-            "Latitude": "35.9300",
-            "Longitude": "31.7993",
-            "Depth": "28.4",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
         }
     ]
 }
