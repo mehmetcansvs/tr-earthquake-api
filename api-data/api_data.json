@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.11",
+            "Time": "12:01:35",
+            "Latitude": "37.1063",
+            "Longitude": "35.7433",
+            "Depth": "16.6",
+            "ML": "2.3",
+            "Location": "TATLIKUYU CEYHAN ADANA"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "11:58:00",
+            "Latitude": "36.9048",
+            "Longitude": "38.8700",
+            "Depth": "6.9",
+            "ML": "2.0",
+            "Location": "KARATEPE AKCAKALE SANLIURFA"
+        },
+        {
+            "Date": "2022.06.11",
             "Time": "11:02:41",
             "Latitude": "38.9817",
             "Longitude": "27.8728",
@@ -4463,24 +4481,6 @@
             "Depth": "2.1",
             "ML": "3.4",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.05.31",
-            "Time": "20:45:04",
-            "Latitude": "38.8403",
-            "Longitude": "27.5805",
-            "Depth": "10.0",
-            "ML": "3.3",
-            "Location": "TASDIBI SARUHANLI MANISA"
-        },
-        {
-            "Date": "2022.05.31",
-            "Time": "20:16:09",
-            "Latitude": "36.4342",
-            "Longitude": "27.0730",
-            "Depth": "11.8",
-            "ML": "2.2",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
