@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.06.11",
+            "Time": "16:17:35",
+            "Latitude": "40.5310",
+            "Longitude": "29.2793",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "HAMZALI ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.06.11",
             "Time": "13:55:55",
             "Latitude": "38.9495",
             "Longitude": "30.2705",
             "Depth": "5.0",
             "ML": "2.9",
             "Location": "YENICE IHSANIYE AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "13:24:50",
+            "Latitude": "39.3408",
+            "Longitude": "40.5670",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "CATMAOLUK ADAKLI BINGOL"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "13:12:27",
+            "Latitude": "40.7707",
+            "Longitude": "27.4270",
+            "Depth": "25.7",
+            "ML": "1.7",
+            "Location": "UCMAKDERE SARKOY TEKIRDAG"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "12:39:54",
+            "Latitude": "39.7727",
+            "Longitude": "35.1657",
+            "Depth": "8.0",
+            "ML": "1.6",
+            "Location": "KUCUKKOHNE SORGUN YOZGAT"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "12:01:42",
+            "Latitude": "38.1647",
+            "Longitude": "30.8838",
+            "Depth": "12.8",
+            "ML": "1.5",
+            "Location": "AKDAG GELENDOST ISPARTA"
         },
         {
             "Date": "2022.06.11",
@@ -29,12 +74,57 @@
         },
         {
             "Date": "2022.06.11",
+            "Time": "11:16:33",
+            "Latitude": "39.1452",
+            "Longitude": "27.5970",
+            "Depth": "0.0",
+            "ML": "2.0",
+            "Location": "DARKALE SOMA MANISA"
+        },
+        {
+            "Date": "2022.06.11",
             "Time": "11:02:41",
             "Latitude": "38.9817",
             "Longitude": "27.8728",
             "Depth": "5.1",
             "ML": "2.1",
             "Location": "KARABORKLU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "10:11:45",
+            "Latitude": "40.5585",
+            "Longitude": "36.5908",
+            "Depth": "11.0",
+            "ML": "1.7",
+            "Location": "CANBOLAT ERBAA TOKAT"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "10:04:48",
+            "Latitude": "39.1083",
+            "Longitude": "27.5832",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "ADIL SOMA MANISA"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "10:04:01",
+            "Latitude": "37.8953",
+            "Longitude": "37.9952",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "ERKENEK DOGANSEHIR MALATYA"
+        },
+        {
+            "Date": "2022.06.11",
+            "Time": "09:40:24",
+            "Latitude": "38.9485",
+            "Longitude": "43.5305",
+            "Depth": "3.4",
+            "ML": "1.6",
+            "Location": "COLPAN VAN"
         },
         {
             "Date": "2022.06.11",
@@ -4391,96 +4481,6 @@
             "Depth": "26.6",
             "ML": "2.0",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "03:47:37",
-            "Latitude": "38.9327",
-            "Longitude": "43.5720",
-            "Depth": "7.6",
-            "ML": "2.1",
-            "Location": "CAKIRBEY VAN"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "02:54:28",
-            "Latitude": "39.0602",
-            "Longitude": "27.8700",
-            "Depth": "15.9",
-            "ML": "1.7",
-            "Location": "SELCIKLI AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "02:25:52",
-            "Latitude": "37.1597",
-            "Longitude": "35.8432",
-            "Depth": "3.6",
-            "ML": "1.3",
-            "Location": "YESILBAHCE CEYHAN ADANA"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "02:16:01",
-            "Latitude": "37.1538",
-            "Longitude": "35.8870",
-            "Depth": "6.3",
-            "ML": "1.9",
-            "Location": "ELMAGOLU CEYHAN ADANA"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "01:14:25",
-            "Latitude": "38.1297",
-            "Longitude": "25.8230",
-            "Depth": "7.9",
-            "ML": "2.2",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "01:04:01",
-            "Latitude": "39.1520",
-            "Longitude": "29.0533",
-            "Depth": "11.7",
-            "ML": "1.7",
-            "Location": "AHLATLICESME SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "00:35:31",
-            "Latitude": "36.5140",
-            "Longitude": "27.1455",
-            "Depth": "6.7",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.05.31",
-            "Time": "22:47:13",
-            "Latitude": "35.3030",
-            "Longitude": "23.3098",
-            "Depth": "13.2",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.05.31",
-            "Time": "22:33:16",
-            "Latitude": "40.8337",
-            "Longitude": "28.1607",
-            "Depth": "14.4",
-            "ML": "2.3",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.05.31",
-            "Time": "21:32:02",
-            "Latitude": "38.8030",
-            "Longitude": "33.0207",
-            "Depth": "18.6",
-            "ML": "1.5",
-            "Location": "ACIKUYU KULU KONYA"
         }
     ]
 }
