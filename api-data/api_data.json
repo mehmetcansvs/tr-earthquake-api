@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.12",
+            "Time": "06:34:51",
+            "Latitude": "36.2930",
+            "Longitude": "27.5772",
+            "Depth": "31.0",
+            "ML": "2.0",
+            "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.06.12",
             "Time": "04:03:48",
             "Latitude": "36.9823",
             "Longitude": "27.6572",
@@ -4472,15 +4481,6 @@
             "Depth": "4.0",
             "ML": "2.2",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "23:49:24",
-            "Latitude": "38.5083",
-            "Longitude": "39.3188",
-            "Depth": "8.0",
-            "ML": "2.4",
-            "Location": "GUNEYKOY SIVRICE ELAZIG"
         }
     ]
 }
