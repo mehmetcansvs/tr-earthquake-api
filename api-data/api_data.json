@@ -1,6 +1,114 @@
 {
     "data": [
         {
+            "Date": "2022.06.12",
+            "Time": "04:03:48",
+            "Latitude": "36.9823",
+            "Longitude": "27.6572",
+            "Depth": "7.4",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "03:30:22",
+            "Latitude": "35.1092",
+            "Longitude": "24.8987",
+            "Depth": "22.1",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "02:39:23",
+            "Latitude": "36.5770",
+            "Longitude": "34.2093",
+            "Depth": "37.0",
+            "ML": "2.0",
+            "Location": "BATISANDAL ERDEMLI MERSIN"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "02:36:36",
+            "Latitude": "34.6865",
+            "Longitude": "25.2047",
+            "Depth": "23.7",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "02:35:48",
+            "Latitude": "40.4323",
+            "Longitude": "26.2950",
+            "Depth": "11.4",
+            "ML": "1.4",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "01:58:39",
+            "Latitude": "38.5162",
+            "Longitude": "39.1737",
+            "Depth": "19.1",
+            "ML": "1.7",
+            "Location": "DEDEPINARI ELAZIG"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "01:53:24",
+            "Latitude": "36.0470",
+            "Longitude": "28.3092",
+            "Depth": "29.5",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "01:44:42",
+            "Latitude": "39.4182",
+            "Longitude": "23.9362",
+            "Depth": "12.8",
+            "ML": "2.0",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "01:35:08",
+            "Latitude": "39.8422",
+            "Longitude": "27.9487",
+            "Depth": "8.4",
+            "ML": "1.6",
+            "Location": "YAYLABAYIR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "01:17:06",
+            "Latitude": "38.8315",
+            "Longitude": "43.5035",
+            "Depth": "7.1",
+            "ML": "1.9",
+            "Location": "KARAAGAC VAN"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "01:04:15",
+            "Latitude": "40.7590",
+            "Longitude": "27.3107",
+            "Depth": "14.8",
+            "ML": "1.7",
+            "Location": "GUZELKOY SARKOY TEKIRDAG"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "01:03:42",
+            "Latitude": "36.9332",
+            "Longitude": "24.9043",
+            "Depth": "142.2",
+            "ML": "2.5",
+            "Location": "EGE DENIZI"
+        },
+        {
             "Date": "2022.06.11",
             "Time": "23:44:26",
             "Latitude": "38.5982",
@@ -4373,114 +4481,6 @@
             "Depth": "8.0",
             "ML": "2.4",
             "Location": "GUNEYKOY SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "23:29:25",
-            "Latitude": "39.5320",
-            "Longitude": "26.1647",
-            "Depth": "10.9",
-            "ML": "2.3",
-            "Location": "YUKARIKOY AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "23:09:13",
-            "Latitude": "39.6897",
-            "Longitude": "27.6635",
-            "Depth": "9.6",
-            "ML": "2.0",
-            "Location": "HACIHUSEYIN BALYA BALIKESIR"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "22:56:40",
-            "Latitude": "37.0710",
-            "Longitude": "28.3880",
-            "Depth": "3.1",
-            "ML": "2.1",
-            "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "21:06:46",
-            "Latitude": "36.4540",
-            "Longitude": "27.1163",
-            "Depth": "10.6",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "20:52:47",
-            "Latitude": "40.2722",
-            "Longitude": "27.0647",
-            "Depth": "9.7",
-            "ML": "2.1",
-            "Location": "SELVI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "19:48:19",
-            "Latitude": "39.1110",
-            "Longitude": "27.7888",
-            "Depth": "16.7",
-            "ML": "2.1",
-            "Location": "KARAKURT KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "17:34:41",
-            "Latitude": "37.8015",
-            "Longitude": "26.9397",
-            "Depth": "18.5",
-            "ML": "2.3",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "17:21:10",
-            "Latitude": "34.8408",
-            "Longitude": "23.0040",
-            "Depth": "11.1",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "17:11:42",
-            "Latitude": "40.2750",
-            "Longitude": "27.0623",
-            "Depth": "15.3",
-            "ML": "1.7",
-            "Location": "SELVI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "16:30:57",
-            "Latitude": "40.2910",
-            "Longitude": "27.0575",
-            "Depth": "6.6",
-            "ML": "2.3",
-            "Location": "SELVI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "16:15:24",
-            "Latitude": "38.6323",
-            "Longitude": "31.0502",
-            "Depth": "18.0",
-            "ML": "1.2",
-            "Location": "YESILYURT CAY AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "16:00:22",
-            "Latitude": "39.4878",
-            "Longitude": "31.4983",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "SIVRIHISAR ESKISEHIR"
         }
     ]
 }
