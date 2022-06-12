@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.12",
+            "Time": "19:35:04",
+            "Latitude": "34.6950",
+            "Longitude": "33.9377",
+            "Depth": "29.3",
+            "ML": "3.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.12",
             "Time": "18:57:22",
             "Latitude": "39.3075",
             "Longitude": "29.4885",
@@ -4472,15 +4481,6 @@
             "Depth": "2.9",
             "ML": "1.2",
             "Location": "GOKOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.03",
-            "Time": "07:01:53",
-            "Latitude": "37.7925",
-            "Longitude": "26.8868",
-            "Depth": "10.4",
-            "ML": "1.5",
-            "Location": "SISAM ADASI EGE DENIZI"
         }
     ]
 }
