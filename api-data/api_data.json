@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.06.12",
+            "Time": "08:36:01",
+            "Latitude": "38.6007",
+            "Longitude": "30.8832",
+            "Depth": "5.3",
+            "ML": "1.2",
+            "Location": "MALTEPE CAY AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "08:18:16",
+            "Latitude": "38.0797",
+            "Longitude": "32.7225",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "KARAOMERLER SELCUKLU KONYA"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "07:38:50",
+            "Latitude": "37.6335",
+            "Longitude": "27.0220",
+            "Depth": "8.3",
+            "ML": "1.8",
+            "Location": "DOGANBEY ACIKLARI AYDIN EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "07:29:02",
+            "Latitude": "36.1070",
+            "Longitude": "31.3647",
+            "Depth": "17.0",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "07:11:09",
+            "Latitude": "35.0630",
+            "Longitude": "23.3992",
+            "Depth": "26.4",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.12",
+            "Time": "07:10:36",
+            "Latitude": "38.6763",
+            "Longitude": "43.0802",
+            "Depth": "4.0",
+            "ML": "2.4",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.06.12",
             "Time": "06:34:51",
             "Latitude": "36.2930",
             "Longitude": "27.5772",
@@ -4427,60 +4481,6 @@
             "Depth": "2.2",
             "ML": "2.5",
             "Location": "YARISLI YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.06.02",
-            "Time": "02:37:52",
-            "Latitude": "37.5887",
-            "Longitude": "29.9328",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "YARISLI YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.06.02",
-            "Time": "02:27:56",
-            "Latitude": "39.3725",
-            "Longitude": "27.8665",
-            "Depth": "5.8",
-            "ML": "1.5",
-            "Location": "KOZDEREGUVEN BALIKESIR"
-        },
-        {
-            "Date": "2022.06.02",
-            "Time": "02:23:46",
-            "Latitude": "37.1075",
-            "Longitude": "28.4405",
-            "Depth": "2.5",
-            "ML": "1.5",
-            "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.02",
-            "Time": "02:20:15",
-            "Latitude": "38.4022",
-            "Longitude": "23.4852",
-            "Depth": "5.1",
-            "ML": "3.1",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.02",
-            "Time": "00:55:36",
-            "Latitude": "35.2010",
-            "Longitude": "33.0823",
-            "Depth": "7.0",
-            "ML": "2.2",
-            "Location": "KIBRIS ZUMRUTKOY"
-        },
-        {
-            "Date": "2022.06.01",
-            "Time": "23:52:01",
-            "Latitude": "34.6393",
-            "Longitude": "24.1897",
-            "Depth": "4.0",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
