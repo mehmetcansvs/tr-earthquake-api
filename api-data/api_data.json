@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.06.13",
+            "Time": "14:05:03",
+            "Latitude": "41.2015",
+            "Longitude": "24.8785",
+            "Depth": "5.4",
+            "ML": "2.3",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.13",
+            "Time": "13:43:32",
+            "Latitude": "37.0277",
+            "Longitude": "28.3955",
+            "Depth": "9.3",
+            "ML": "1.4",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.13",
+            "Time": "13:29:14",
+            "Latitude": "38.8650",
+            "Longitude": "43.4943",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.06.13",
+            "Time": "12:39:00",
+            "Latitude": "38.4578",
+            "Longitude": "28.3005",
+            "Depth": "27.8",
+            "ML": "1.4",
+            "Location": "KOSEALI SALIHLI MANISA"
+        },
+        {
+            "Date": "2022.06.13",
+            "Time": "12:35:48",
+            "Latitude": "39.6623",
+            "Longitude": "30.1117",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "KUMBETYENIKOY INONU ESKISEHIR"
+        },
+        {
+            "Date": "2022.06.13",
+            "Time": "12:21:30",
+            "Latitude": "39.0715",
+            "Longitude": "37.3645",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "SEKERPINAR KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.06.13",
             "Time": "11:22:40",
             "Latitude": "38.7990",
             "Longitude": "43.4435",
@@ -4427,60 +4481,6 @@
             "Depth": "4.9",
             "ML": "1.9",
             "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "02:30:54",
-            "Latitude": "39.8410",
-            "Longitude": "27.9967",
-            "Depth": "5.1",
-            "ML": "1.4",
-            "Location": "ASMALIDERE SUSURLUK BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "02:28:23",
-            "Latitude": "39.8095",
-            "Longitude": "27.8737",
-            "Depth": "18.0",
-            "ML": "1.5",
-            "Location": "SAMLI BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "02:26:31",
-            "Latitude": "39.9085",
-            "Longitude": "27.9830",
-            "Depth": "12.1",
-            "ML": "1.5",
-            "Location": "TASKESIGI BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "02:25:28",
-            "Latitude": "39.8357",
-            "Longitude": "27.9400",
-            "Depth": "24.7",
-            "ML": "1.8",
-            "Location": "YAYLABAYIR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "02:24:09",
-            "Latitude": "39.8442",
-            "Longitude": "27.9862",
-            "Depth": "5.2",
-            "ML": "1.8",
-            "Location": "YAYLABAYIR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "02:22:34",
-            "Latitude": "39.7897",
-            "Longitude": "27.9382",
-            "Depth": "14.7",
-            "ML": "3.2",
-            "Location": "DAVUTLAR BALIKESIR"
         }
     ]
 }
