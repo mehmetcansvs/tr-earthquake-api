@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.06.13",
+            "Time": "03:47:02",
+            "Latitude": "38.8190",
+            "Longitude": "43.5168",
+            "Depth": "16.5",
+            "ML": "1.6",
+            "Location": "BAGDASAN VAN"
+        },
+        {
+            "Date": "2022.06.13",
+            "Time": "03:30:39",
+            "Latitude": "38.8508",
+            "Longitude": "43.5552",
+            "Depth": "1.0",
+            "ML": "2.1",
+            "Location": "BAGDASAN VAN"
+        },
+        {
+            "Date": "2022.06.13",
+            "Time": "02:09:18",
+            "Latitude": "38.8277",
+            "Longitude": "43.4220",
+            "Depth": "7.4",
+            "ML": "2.2",
+            "Location": "GEDIKBULAK VAN"
+        },
+        {
+            "Date": "2022.06.13",
+            "Time": "01:34:56",
+            "Latitude": "38.8248",
+            "Longitude": "43.4568",
+            "Depth": "16.1",
+            "ML": "1.8",
+            "Location": "GEDIKBULAK VAN"
+        },
+        {
+            "Date": "2022.06.13",
+            "Time": "01:29:54",
+            "Latitude": "38.8562",
+            "Longitude": "43.5415",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "BAGDASAN VAN"
+        },
+        {
+            "Date": "2022.06.13",
             "Time": "00:56:15",
             "Latitude": "38.7668",
             "Longitude": "43.5155",
@@ -4435,51 +4480,6 @@
             "Longitude": "27.9448",
             "Depth": "10.1",
             "ML": "4.9",
-            "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "01:38:50",
-            "Latitude": "39.8295",
-            "Longitude": "27.9435",
-            "Depth": "19.4",
-            "ML": "2.2",
-            "Location": "YAYLABAYIR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "01:36:44",
-            "Latitude": "39.8647",
-            "Longitude": "27.9048",
-            "Depth": "21.4",
-            "ML": "2.3",
-            "Location": "YAGCILAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "01:36:03",
-            "Latitude": "39.7883",
-            "Longitude": "27.9107",
-            "Depth": "17.8",
-            "ML": "2.4",
-            "Location": "KARACAOREN BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "01:35:37",
-            "Latitude": "39.7865",
-            "Longitude": "27.9660",
-            "Depth": "4.6",
-            "ML": "2.3",
-            "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "01:33:42",
-            "Latitude": "39.8205",
-            "Longitude": "27.9587",
-            "Depth": "8.9",
-            "ML": "2.9",
             "Location": "CAYPINAR BALIKESIR"
         }
     ]
