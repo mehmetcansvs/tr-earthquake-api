@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.13",
+            "Time": "20:06:56",
+            "Latitude": "36.5367",
+            "Longitude": "28.9765",
+            "Depth": "13.6",
+            "ML": "1.8",
+            "Location": "OLUDENIZ ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.06.13",
             "Time": "18:11:22",
             "Latitude": "38.8908",
             "Longitude": "43.7027",
@@ -4472,15 +4481,6 @@
             "Depth": "13.0",
             "ML": "1.9",
             "Location": "YAYLABAYIR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "03:20:14",
-            "Latitude": "39.8832",
-            "Longitude": "27.8290",
-            "Depth": "27.6",
-            "ML": "1.1",
-            "Location": "HISARALAN BALIKESIR"
         }
     ]
 }
