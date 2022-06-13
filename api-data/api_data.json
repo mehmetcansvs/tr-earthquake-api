@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.13",
+            "Time": "22:19:32",
+            "Latitude": "37.1675",
+            "Longitude": "28.0772",
+            "Depth": "15.2",
+            "ML": "2.5",
+            "Location": "CIRPI MUGLA"
+        },
+        {
+            "Date": "2022.06.13",
             "Time": "20:06:56",
             "Latitude": "36.5367",
             "Longitude": "28.9765",
@@ -4472,15 +4481,6 @@
             "Depth": "10.7",
             "ML": "1.3",
             "Location": "CAVUSKOY ULUS BARTIN"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "03:24:24",
-            "Latitude": "39.8297",
-            "Longitude": "27.9775",
-            "Depth": "13.0",
-            "ML": "1.9",
-            "Location": "YAYLABAYIR BALIKESIR"
         }
     ]
 }
