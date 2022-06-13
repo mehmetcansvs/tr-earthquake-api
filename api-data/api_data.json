@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.13",
+            "Time": "18:11:22",
+            "Latitude": "38.8908",
+            "Longitude": "43.7027",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "TOPUZARPA MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.13",
             "Time": "16:58:06",
             "Latitude": "38.9762",
             "Longitude": "43.7827",
@@ -4472,15 +4481,6 @@
             "Depth": "27.6",
             "ML": "1.1",
             "Location": "HISARALAN BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "03:12:42",
-            "Latitude": "40.1618",
-            "Longitude": "27.7207",
-            "Depth": "11.1",
-            "ML": "1.4",
-            "Location": "CALIOBA GONEN BALIKESIR"
         }
     ]
 }
