@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.13",
+            "Time": "10:13:20",
+            "Latitude": "38.7835",
+            "Longitude": "43.5242",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "MEYDANCIK VAN"
+        },
+        {
+            "Date": "2022.06.13",
+            "Time": "09:45:50",
+            "Latitude": "39.2312",
+            "Longitude": "29.2940",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "HAMAMKOY HISARCIK KUTAHYA"
+        },
+        {
+            "Date": "2022.06.13",
             "Time": "06:29:29",
             "Latitude": "36.8440",
             "Longitude": "26.6843",
@@ -4462,24 +4480,6 @@
             "Longitude": "27.9698",
             "Depth": "13.2",
             "ML": "3.0",
-            "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "02:15:07",
-            "Latitude": "39.8120",
-            "Longitude": "27.9682",
-            "Depth": "10.5",
-            "ML": "2.0",
-            "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "02:13:06",
-            "Latitude": "39.8170",
-            "Longitude": "27.9695",
-            "Depth": "10.5",
-            "ML": "2.2",
             "Location": "CAYPINAR BALIKESIR"
         }
     ]
