@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.06.15",
+            "Time": "00:39:49",
+            "Latitude": "38.9072",
+            "Longitude": "43.5125",
+            "Depth": "8.0",
+            "ML": "2.2",
+            "Location": "COLPAN VAN"
+        },
+        {
+            "Date": "2022.06.14",
+            "Time": "23:35:24",
+            "Latitude": "38.8392",
+            "Longitude": "43.5273",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "BAGDASAN VAN"
+        },
+        {
             "Date": "2022.06.14",
             "Time": "22:07:46",
             "Latitude": "38.1630",
@@ -4472,24 +4490,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "KORUCUK GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "16:44:17",
-            "Latitude": "35.0617",
-            "Longitude": "25.3017",
-            "Depth": "5.2",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "16:33:06",
-            "Latitude": "35.2942",
-            "Longitude": "25.3353",
-            "Depth": "5.9",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
