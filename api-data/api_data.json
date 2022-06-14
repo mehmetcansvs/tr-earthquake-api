@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.14",
+            "Time": "09:28:15",
+            "Latitude": "40.7033",
+            "Longitude": "27.4698",
+            "Depth": "11.8",
+            "ML": "1.8",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.06.14",
             "Time": "08:23:50",
             "Latitude": "40.7005",
             "Longitude": "30.3077",
@@ -4471,15 +4480,6 @@
             "Longitude": "25.3508",
             "Depth": "5.4",
             "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "14:37:16",
-            "Latitude": "35.3945",
-            "Longitude": "25.3803",
-            "Depth": "7.1",
-            "ML": "2.0",
             "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
