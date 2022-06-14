@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.14",
+            "Time": "06:07:00",
+            "Latitude": "36.7007",
+            "Longitude": "28.2378",
+            "Depth": "4.8",
+            "ML": "1.3",
+            "Location": "OSMANIYE MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.06.14",
+            "Time": "05:25:55",
+            "Latitude": "38.8563",
+            "Longitude": "43.5212",
+            "Depth": "11.8",
+            "ML": "2.3",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.06.14",
             "Time": "04:27:31",
             "Latitude": "36.7608",
             "Longitude": "28.0587",
@@ -4463,24 +4481,6 @@
             "Depth": "19.0",
             "ML": "1.6",
             "Location": "YAYLA MANYAS BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "09:13:01",
-            "Latitude": "39.7725",
-            "Longitude": "27.9607",
-            "Depth": "6.7",
-            "ML": "2.2",
-            "Location": "IBIRLER BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "09:09:56",
-            "Latitude": "37.5968",
-            "Longitude": "30.0388",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "DUGER BURDUR"
         }
     ]
 }
