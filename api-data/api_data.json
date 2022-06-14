@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.14",
+            "Time": "08:23:50",
+            "Latitude": "40.7005",
+            "Longitude": "30.3077",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "UZUNKUM SAPANCA SAKARYA"
+        },
+        {
+            "Date": "2022.06.14",
+            "Time": "08:18:26",
+            "Latitude": "38.8747",
+            "Longitude": "43.6227",
+            "Depth": "15.4",
+            "ML": "2.5",
+            "Location": "KELLE VAN"
+        },
+        {
+            "Date": "2022.06.14",
+            "Time": "07:58:19",
+            "Latitude": "38.8352",
+            "Longitude": "43.5802",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "AKCIFT VAN"
+        },
+        {
+            "Date": "2022.06.14",
             "Time": "07:41:48",
             "Latitude": "38.7257",
             "Longitude": "43.5747",
@@ -4454,33 +4481,6 @@
             "Depth": "7.1",
             "ML": "2.0",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "14:00:38",
-            "Latitude": "35.9147",
-            "Longitude": "27.6358",
-            "Depth": "7.4",
-            "ML": "2.4",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "12:38:57",
-            "Latitude": "39.8235",
-            "Longitude": "27.9697",
-            "Depth": "6.4",
-            "ML": "2.3",
-            "Location": "YAYLABAYIR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "12:20:00",
-            "Latitude": "39.8662",
-            "Longitude": "27.9042",
-            "Depth": "18.0",
-            "ML": "1.7",
-            "Location": "YAGCILAR BALIKESIR"
         }
     ]
 }
