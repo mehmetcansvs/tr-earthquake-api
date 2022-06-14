@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.14",
+            "Time": "16:21:19",
+            "Latitude": "36.1795",
+            "Longitude": "27.8018",
+            "Depth": "81.6",
+            "ML": "2.5",
+            "Location": "RODOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.14",
             "Time": "12:16:32",
             "Latitude": "38.3128",
             "Longitude": "38.1312",
@@ -4480,7 +4489,7 @@
             "Longitude": "25.3225",
             "Depth": "5.4",
             "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ REVIZE GIRIT ADASI AKDENIZ"
+            "Location": "GIRIT ADASI AKDENIZ REVIZE"
         }
     ]
 }
