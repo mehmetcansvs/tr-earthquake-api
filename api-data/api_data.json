@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.15",
+            "Time": "19:47:30",
+            "Latitude": "38.8703",
+            "Longitude": "43.5330",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.06.15",
             "Time": "18:32:39",
             "Latitude": "35.8183",
             "Longitude": "32.8775",
@@ -4481,15 +4490,6 @@
             "Depth": "6.8",
             "ML": "2.1",
             "Location": "CIMEN ERCIS VAN"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "05:27:48",
-            "Latitude": "42.1958",
-            "Longitude": "24.0752",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "BULGARISTAN"
         }
     ]
 }
