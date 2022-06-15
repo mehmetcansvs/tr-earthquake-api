@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.06.16",
+            "Time": "00:22:39",
+            "Latitude": "37.8490",
+            "Longitude": "26.7913",
+            "Depth": "5.3",
+            "ML": "3.3",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "23:12:07",
+            "Latitude": "39.6165",
+            "Longitude": "26.3987",
+            "Depth": "9.4",
+            "ML": "2.2",
+            "Location": "AYVACIK CANAKKALE"
+        },
+        {
             "Date": "2022.06.15",
             "Time": "22:55:07",
             "Latitude": "39.8153",
@@ -4472,24 +4490,6 @@
             "Depth": "5.1",
             "ML": "1.2",
             "Location": "AZIZIYE SUSURLUK BALIKESIR"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "07:02:51",
-            "Latitude": "37.9792",
-            "Longitude": "29.1290",
-            "Depth": "23.5",
-            "ML": "1.8",
-            "Location": "HAYTABEY DENIZLI"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "06:27:08",
-            "Latitude": "38.8405",
-            "Longitude": "27.5770",
-            "Depth": "5.9",
-            "ML": "1.6",
-            "Location": "TASDIBI SARUHANLI MANISA"
         }
     ]
 }
