@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.06.15",
+            "Time": "22:55:07",
+            "Latitude": "39.8153",
+            "Longitude": "27.9383",
+            "Depth": "4.6",
+            "ML": "3.3",
+            "Location": "CAYPINAR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "22:33:38",
+            "Latitude": "39.6422",
+            "Longitude": "26.4473",
+            "Depth": "11.3",
+            "ML": "1.7",
+            "Location": "SULEYMANKOY AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.06.15",
             "Time": "19:47:30",
             "Latitude": "38.8703",
             "Longitude": "43.5330",
             "Depth": "5.0",
             "ML": "2.9",
             "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "19:37:43",
+            "Latitude": "38.4087",
+            "Longitude": "36.2422",
+            "Depth": "16.2",
+            "ML": "1.4",
+            "Location": "MIRZAAGA SARIZ KAYSERI"
         },
         {
             "Date": "2022.06.15",
@@ -4463,33 +4490,6 @@
             "Depth": "5.9",
             "ML": "1.6",
             "Location": "TASDIBI SARUHANLI MANISA"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "06:16:31",
-            "Latitude": "41.1645",
-            "Longitude": "42.8010",
-            "Depth": "13.3",
-            "ML": "2.4",
-            "Location": "BALIKCILAR ARDAHAN"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "05:41:58",
-            "Latitude": "39.4485",
-            "Longitude": "33.0637",
-            "Depth": "10.0",
-            "ML": "2.2",
-            "Location": "AFSAR BALA ANKARA"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "05:37:47",
-            "Latitude": "39.0613",
-            "Longitude": "43.0998",
-            "Depth": "6.8",
-            "ML": "2.1",
-            "Location": "CIMEN ERCIS VAN"
         }
     ]
 }
