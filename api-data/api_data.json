@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.15",
+            "Time": "10:51:57",
+            "Latitude": "38.6748",
+            "Longitude": "43.5802",
+            "Depth": "22.2",
+            "ML": "2.5",
+            "Location": "KOZLUCA VAN"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "10:33:43",
+            "Latitude": "34.4905",
+            "Longitude": "24.0957",
+            "Depth": "15.3",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "09:43:55",
+            "Latitude": "39.8288",
+            "Longitude": "27.9610",
+            "Depth": "14.2",
+            "ML": "1.9",
+            "Location": "YAYLABAYIR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "08:20:50",
+            "Latitude": "34.9000",
+            "Longitude": "24.9122",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.15",
             "Time": "08:01:45",
             "Latitude": "38.7982",
             "Longitude": "43.4608",
@@ -4454,42 +4490,6 @@
             "Depth": "9.6",
             "ML": "2.8",
             "Location": "CIFTECESMELER GONEN BALIKESIR"
-        },
-        {
-            "Date": "2022.06.05",
-            "Time": "04:53:15",
-            "Latitude": "39.8433",
-            "Longitude": "27.8965",
-            "Depth": "24.4",
-            "ML": "1.5",
-            "Location": "YAGCILAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.05",
-            "Time": "04:16:25",
-            "Latitude": "39.9758",
-            "Longitude": "27.5815",
-            "Depth": "16.2",
-            "ML": "1.8",
-            "Location": "SOGUTKOY GONEN BALIKESIR"
-        },
-        {
-            "Date": "2022.06.05",
-            "Time": "04:04:17",
-            "Latitude": "35.3137",
-            "Longitude": "25.4052",
-            "Depth": "8.9",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.05",
-            "Time": "03:58:10",
-            "Latitude": "39.7193",
-            "Longitude": "27.9107",
-            "Depth": "16.2",
-            "ML": "1.1",
-            "Location": "ZIYARETLI BALIKESIR"
         }
     ]
 }
