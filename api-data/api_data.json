@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.15",
+            "Time": "12:50:49",
+            "Latitude": "37.9158",
+            "Longitude": "26.8703",
+            "Depth": "9.0",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "11:29:59",
+            "Latitude": "40.7177",
+            "Longitude": "32.3267",
+            "Depth": "7.6",
+            "ML": "1.8",
+            "Location": "AGIZORENGUNEY GEREDE BOLU"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "11:21:50",
+            "Latitude": "37.6743",
+            "Longitude": "36.4322",
+            "Depth": "14.0",
+            "ML": "1.9",
+            "Location": "KALEBOYNU ANDIRIN KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.06.15",
             "Time": "10:51:57",
             "Latitude": "38.6748",
             "Longitude": "43.5802",
@@ -4463,33 +4490,6 @@
             "Depth": "21.5",
             "ML": "1.5",
             "Location": "BOGAZKOY BALIKESIR"
-        },
-        {
-            "Date": "2022.06.05",
-            "Time": "06:46:35",
-            "Latitude": "39.8932",
-            "Longitude": "27.8720",
-            "Depth": "22.0",
-            "ML": "1.4",
-            "Location": "DUZOBA BALIKESIR"
-        },
-        {
-            "Date": "2022.06.05",
-            "Time": "05:53:29",
-            "Latitude": "35.1325",
-            "Longitude": "24.8073",
-            "Depth": "20.5",
-            "ML": "1.6",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.05",
-            "Time": "05:15:19",
-            "Latitude": "40.2678",
-            "Longitude": "27.5418",
-            "Depth": "9.6",
-            "ML": "2.8",
-            "Location": "CIFTECESMELER GONEN BALIKESIR"
         }
     ]
 }
