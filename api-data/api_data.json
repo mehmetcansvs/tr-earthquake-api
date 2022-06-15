@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.15",
+            "Time": "18:32:39",
+            "Latitude": "35.8183",
+            "Longitude": "32.8775",
+            "Depth": "12.1",
+            "ML": "1.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "18:07:22",
+            "Latitude": "37.0218",
+            "Longitude": "27.8047",
+            "Depth": "5.5",
+            "ML": "1.3",
+            "Location": "COKERTME MILAS MUGLA"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "17:13:17",
+            "Latitude": "39.8643",
+            "Longitude": "26.0975",
+            "Depth": "22.8",
+            "ML": "1.4",
+            "Location": "BOZCAADA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.15",
             "Time": "15:24:05",
             "Latitude": "39.0457",
             "Longitude": "43.5297",
@@ -359,6 +386,15 @@
             "Depth": "7.8",
             "ML": "1.8",
             "Location": "YAYLABAYIR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.14",
+            "Time": "22:53:39",
+            "Latitude": "36.9645",
+            "Longitude": "30.9457",
+            "Depth": "30.5",
+            "ML": "1.4",
+            "Location": "ABDURRAHMANLAR SERIK ANTALYA"
         },
         {
             "Date": "2022.06.14",
@@ -4454,42 +4490,6 @@
             "Depth": "5.0",
             "ML": "1.9",
             "Location": "BULGARISTAN"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "05:24:30",
-            "Latitude": "38.4807",
-            "Longitude": "39.1848",
-            "Depth": "1.1",
-            "ML": "1.8",
-            "Location": "DEDEYOLU SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "05:21:50",
-            "Latitude": "38.6418",
-            "Longitude": "30.8768",
-            "Depth": "5.8",
-            "ML": "1.0",
-            "Location": "KADIKOY CAY AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "05:19:13",
-            "Latitude": "39.8058",
-            "Longitude": "27.9347",
-            "Depth": "10.7",
-            "ML": "1.3",
-            "Location": "HALKAPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "05:02:39",
-            "Latitude": "34.2933",
-            "Longitude": "25.6308",
-            "Depth": "14.1",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
