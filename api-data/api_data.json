@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.06.15",
+            "Time": "03:34:58",
+            "Latitude": "37.1873",
+            "Longitude": "28.9670",
+            "Depth": "1.8",
+            "ML": "2.2",
+            "Location": "UZUNOLUK BEYAGAC DENIZLI"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "03:17:26",
+            "Latitude": "38.7872",
+            "Longitude": "43.6557",
+            "Depth": "14.0",
+            "ML": "2.0",
+            "Location": "KUSCU MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "03:15:15",
+            "Latitude": "38.8738",
+            "Longitude": "43.5627",
+            "Depth": "11.3",
+            "ML": "1.7",
+            "Location": "CAKIRBEY VAN"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "02:58:27",
+            "Latitude": "38.8078",
+            "Longitude": "43.3780",
+            "Depth": "10.5",
+            "ML": "1.5",
+            "Location": "YAYLIYAKA VAN"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "02:16:13",
+            "Latitude": "40.8618",
+            "Longitude": "30.7505",
+            "Depth": "7.9",
+            "ML": "2.1",
+            "Location": "KAHRAMAN HENDEK SAKARYA"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "01:44:15",
+            "Latitude": "38.8902",
+            "Longitude": "43.5402",
+            "Depth": "1.2",
+            "ML": "1.9",
+            "Location": "COLPAN VAN"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "01:07:56",
+            "Latitude": "40.8817",
+            "Longitude": "31.8822",
+            "Depth": "7.2",
+            "ML": "1.8",
+            "Location": "KAYABASI MENGEN BOLU"
+        },
+        {
+            "Date": "2022.06.15",
             "Time": "00:39:49",
             "Latitude": "38.9072",
             "Longitude": "43.5125",
@@ -4427,69 +4490,6 @@
             "Depth": "4.5",
             "ML": "1.7",
             "Location": "DAVUTLAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "21:15:42",
-            "Latitude": "39.8180",
-            "Longitude": "27.9317",
-            "Depth": "3.0",
-            "ML": "1.9",
-            "Location": "HALKAPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "20:34:19",
-            "Latitude": "38.4542",
-            "Longitude": "39.2150",
-            "Depth": "7.2",
-            "ML": "2.4",
-            "Location": "ALINCIK SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "19:51:13",
-            "Latitude": "40.8115",
-            "Longitude": "27.7447",
-            "Depth": "9.9",
-            "ML": "2.0",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "18:53:34",
-            "Latitude": "35.1595",
-            "Longitude": "25.3372",
-            "Depth": "7.8",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "18:46:47",
-            "Latitude": "35.2768",
-            "Longitude": "25.3223",
-            "Depth": "5.2",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "18:21:52",
-            "Latitude": "40.8022",
-            "Longitude": "27.7268",
-            "Depth": "15.8",
-            "ML": "2.6",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.04",
-            "Time": "17:08:12",
-            "Latitude": "36.2922",
-            "Longitude": "33.5197",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "KORUCUK GULNAR MERSIN"
         }
     ]
 }
