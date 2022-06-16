@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.16",
+            "Time": "06:43:49",
+            "Latitude": "40.1935",
+            "Longitude": "31.6940",
+            "Depth": "11.8",
+            "ML": "2.1",
+            "Location": "SEKLI BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "05:21:53",
+            "Latitude": "40.7805",
+            "Longitude": "27.6098",
+            "Depth": "6.2",
+            "ML": "1.9",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.06.16",
             "Time": "05:09:28",
             "Latitude": "39.0758",
             "Longitude": "25.5185",
@@ -4472,24 +4490,6 @@
             "Depth": "4.4",
             "ML": "2.5",
             "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "19:30:36",
-            "Latitude": "37.5410",
-            "Longitude": "38.8362",
-            "Depth": "5.2",
-            "ML": "2.6",
-            "Location": "CAT HILVAN SANLIURFA"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "18:55:03",
-            "Latitude": "39.0623",
-            "Longitude": "24.4908",
-            "Depth": "11.9",
-            "ML": "2.7",
-            "Location": "EGE DENIZI"
         }
     ]
 }
