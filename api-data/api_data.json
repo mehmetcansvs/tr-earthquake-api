@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.06.17",
+            "Time": "00:21:05",
+            "Latitude": "39.8260",
+            "Longitude": "27.9442",
+            "Depth": "7.0",
+            "ML": "1.9",
+            "Location": "YAYLABAYIR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "23:30:05",
+            "Latitude": "39.0082",
+            "Longitude": "30.2022",
+            "Depth": "4.8",
+            "ML": "3.3",
+            "Location": "BESKARIS ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "23:27:01",
+            "Latitude": "39.0882",
+            "Longitude": "35.9875",
+            "Depth": "1.8",
+            "ML": "2.4",
+            "Location": "SARIOGLAN KAYSERI"
+        },
+        {
             "Date": "2022.06.16",
             "Time": "23:00:38",
             "Latitude": "35.8437",
@@ -4463,33 +4490,6 @@
             "Depth": "2.2",
             "ML": "4.0",
             "Location": "KUCUKBAGLAR TOKAT"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "06:42:45",
-            "Latitude": "39.8112",
-            "Longitude": "27.9685",
-            "Depth": "13.7",
-            "ML": "1.5",
-            "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "05:05:11",
-            "Latitude": "38.2932",
-            "Longitude": "38.8707",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "YEDIYOL PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "04:44:56",
-            "Latitude": "36.4358",
-            "Longitude": "29.1973",
-            "Depth": "15.5",
-            "ML": "2.5",
-            "Location": "BOGAZICI FETHIYE MUGLA"
         }
     ]
 }
