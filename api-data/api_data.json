@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.16",
+            "Time": "09:12:54",
+            "Latitude": "36.8920",
+            "Longitude": "27.7092",
+            "Depth": "13.1",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.16",
             "Time": "08:35:01",
             "Latitude": "36.9315",
             "Longitude": "35.6907",
@@ -4481,15 +4490,6 @@
             "Depth": "14.7",
             "ML": "1.6",
             "Location": "INECIK KARABURUN IZMIR"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "20:15:19",
-            "Latitude": "40.3603",
-            "Longitude": "30.6350",
-            "Depth": "4.6",
-            "ML": "1.9",
-            "Location": "KARACALAR GOYNUK BOLU"
         }
     ]
 }
