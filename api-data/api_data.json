@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.16",
+            "Time": "18:56:48",
+            "Latitude": "36.1478",
+            "Longitude": "33.5497",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "18:53:28",
+            "Latitude": "38.7693",
+            "Longitude": "43.5475",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "DEGIRMENOZU VAN"
+        },
+        {
+            "Date": "2022.06.16",
             "Time": "16:25:17",
             "Latitude": "36.9462",
             "Longitude": "27.6658",
@@ -4472,24 +4490,6 @@
             "Depth": "29.8",
             "ML": "1.5",
             "Location": "KARATASLAR KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "02:58:48",
-            "Latitude": "37.0872",
-            "Longitude": "28.9740",
-            "Depth": "16.7",
-            "ML": "1.8",
-            "Location": "OTMANLAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "02:58:02",
-            "Latitude": "37.4515",
-            "Longitude": "38.9350",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "GOLGEN SANLIURFA"
         }
     ]
 }
