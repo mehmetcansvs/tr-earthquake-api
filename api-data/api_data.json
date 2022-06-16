@@ -2,12 +2,93 @@
     "data": [
         {
             "Date": "2022.06.16",
+            "Time": "03:02:23",
+            "Latitude": "37.0287",
+            "Longitude": "35.5712",
+            "Depth": "4.1",
+            "ML": "1.9",
+            "Location": "CIHADIYE SARICAM ADANA"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "02:50:55",
+            "Latitude": "38.3042",
+            "Longitude": "38.9633",
+            "Depth": "13.4",
+            "ML": "1.5",
+            "Location": "KOLDERE DOGANYOL MALATYA"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "02:10:17",
+            "Latitude": "39.8653",
+            "Longitude": "25.9730",
+            "Depth": "7.5",
+            "ML": "1.5",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "02:09:05",
+            "Latitude": "37.9243",
+            "Longitude": "26.8503",
+            "Depth": "4.5",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "01:42:56",
+            "Latitude": "40.5530",
+            "Longitude": "30.6078",
+            "Depth": "15.2",
+            "ML": "1.5",
+            "Location": "HANYATAK AKYAZI SAKARYA"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "01:01:49",
+            "Latitude": "39.0125",
+            "Longitude": "43.6217",
+            "Depth": "4.8",
+            "ML": "2.1",
+            "Location": "KECIKIRAN MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "00:31:50",
+            "Latitude": "35.9342",
+            "Longitude": "29.3323",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.16",
             "Time": "00:22:39",
             "Latitude": "37.8490",
             "Longitude": "26.7913",
             "Depth": "5.3",
             "ML": "3.3",
             "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "00:00:30",
+            "Latitude": "39.8380",
+            "Longitude": "25.9640",
+            "Depth": "7.0",
+            "ML": "1.7",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.15",
+            "Time": "23:52:35",
+            "Latitude": "38.9245",
+            "Longitude": "43.5355",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "COLPAN VAN"
         },
         {
             "Date": "2022.06.15",
@@ -4409,87 +4490,6 @@
             "Depth": "2.4",
             "ML": "1.1",
             "Location": "YESILOVACIK ACIKLARI MERSIN AKDENIZ"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "12:40:17",
-            "Latitude": "38.7657",
-            "Longitude": "31.6720",
-            "Depth": "20.3",
-            "ML": "1.6",
-            "Location": "KOCYAZI YUNAK KONYA"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "11:36:30",
-            "Latitude": "39.2592",
-            "Longitude": "27.7118",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "KOZLUOREN SOMA MANISA"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "10:08:24",
-            "Latitude": "40.0558",
-            "Longitude": "31.6630",
-            "Depth": "9.2",
-            "ML": "2.3",
-            "Location": "CAYIRHAN NALLIHAN ANKARA"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "09:18:37",
-            "Latitude": "37.8590",
-            "Longitude": "27.3528",
-            "Depth": "9.8",
-            "ML": "1.9",
-            "Location": "YENIKOY KUSADASI AYDIN"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "09:13:25",
-            "Latitude": "35.2462",
-            "Longitude": "25.3117",
-            "Depth": "28.8",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "08:40:54",
-            "Latitude": "34.9147",
-            "Longitude": "25.2662",
-            "Depth": "5.5",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "07:39:14",
-            "Latitude": "34.8563",
-            "Longitude": "24.9217",
-            "Depth": "11.2",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "07:24:54",
-            "Latitude": "39.0923",
-            "Longitude": "43.0798",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "ORTAYAYLA ERCIS VAN"
-        },
-        {
-            "Date": "2022.06.06",
-            "Time": "07:11:44",
-            "Latitude": "39.8552",
-            "Longitude": "28.1640",
-            "Depth": "5.1",
-            "ML": "1.2",
-            "Location": "AZIZIYE SUSURLUK BALIKESIR"
         }
     ]
 }
