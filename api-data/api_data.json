@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.16",
+            "Time": "16:25:17",
+            "Latitude": "36.9462",
+            "Longitude": "27.6658",
+            "Depth": "8.5",
+            "ML": "2.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "16:24:39",
+            "Latitude": "36.9423",
+            "Longitude": "27.6365",
+            "Depth": "12.0",
+            "ML": "3.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.16",
             "Time": "14:53:31",
             "Latitude": "38.0673",
             "Longitude": "27.2423",
@@ -4472,24 +4490,6 @@
             "Depth": "5.4",
             "ML": "2.2",
             "Location": "GOLGEN SANLIURFA"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "02:35:05",
-            "Latitude": "34.3857",
-            "Longitude": "26.6095",
-            "Depth": "15.9",
-            "ML": "3.1",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "02:26:38",
-            "Latitude": "39.6287",
-            "Longitude": "26.3708",
-            "Depth": "4.6",
-            "ML": "1.6",
-            "Location": "BUDAKLAR AYVACIK CANAKKALE"
         }
     ]
 }
