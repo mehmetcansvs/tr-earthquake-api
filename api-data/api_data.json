@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.16",
+            "Time": "23:00:38",
+            "Latitude": "35.8437",
+            "Longitude": "29.8237",
+            "Depth": "10.1",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.16",
+            "Time": "22:20:42",
+            "Latitude": "35.8290",
+            "Longitude": "29.7737",
+            "Depth": "10.6",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.16",
             "Time": "20:28:19",
             "Latitude": "39.1020",
             "Longitude": "36.0267",
@@ -4472,24 +4490,6 @@
             "Depth": "15.5",
             "ML": "2.5",
             "Location": "BOGAZICI FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "04:10:32",
-            "Latitude": "39.2625",
-            "Longitude": "25.8398",
-            "Depth": "5.4",
-            "ML": "1.8",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "03:56:42",
-            "Latitude": "35.3108",
-            "Longitude": "25.2977",
-            "Depth": "8.7",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
