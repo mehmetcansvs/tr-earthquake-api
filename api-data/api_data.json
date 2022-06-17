@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.17",
+            "Time": "08:53:43",
+            "Latitude": "37.9865",
+            "Longitude": "27.1703",
+            "Depth": "4.6",
+            "ML": "2.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.17",
+            "Time": "08:13:11",
+            "Latitude": "40.7263",
+            "Longitude": "31.5228",
+            "Depth": "12.5",
+            "ML": "1.8",
+            "Location": "KARAKOY BOLU"
+        },
+        {
+            "Date": "2022.06.17",
+            "Time": "08:01:52",
+            "Latitude": "38.8330",
+            "Longitude": "43.4572",
+            "Depth": "12.8",
+            "ML": "1.9",
+            "Location": "GEDIKBULAK VAN"
+        },
+        {
+            "Date": "2022.06.17",
             "Time": "06:16:36",
             "Latitude": "37.8397",
             "Longitude": "27.2068",
@@ -4472,33 +4499,6 @@
             "Depth": "15.9",
             "ML": "1.5",
             "Location": "SEDDULBAHIR ECEABAT CANAKKALE"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "16:11:26",
-            "Latitude": "36.6145",
-            "Longitude": "27.9627",
-            "Depth": "9.1",
-            "ML": "2.2",
-            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "15:01:18",
-            "Latitude": "37.0508",
-            "Longitude": "29.0838",
-            "Depth": "1.8",
-            "ML": "2.1",
-            "Location": "YOLCATI ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "14:51:50",
-            "Latitude": "38.6277",
-            "Longitude": "31.6653",
-            "Depth": "24.7",
-            "ML": "1.3",
-            "Location": "AYRITEPE YUNAK KONYA"
         }
     ]
 }
