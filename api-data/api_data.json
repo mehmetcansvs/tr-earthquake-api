@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.17",
+            "Time": "20:46:31",
+            "Latitude": "38.8540",
+            "Longitude": "43.4190",
+            "Depth": "7.0",
+            "ML": "2.6",
+            "Location": "KUMLUCA VAN"
+        },
+        {
+            "Date": "2022.06.17",
             "Time": "18:27:23",
             "Latitude": "39.8230",
             "Longitude": "27.9885",
@@ -4481,15 +4490,6 @@
             "Depth": "1.7",
             "ML": "1.7",
             "Location": "BAGLICA SARIGOL MANISA"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "23:51:29",
-            "Latitude": "39.8143",
-            "Longitude": "27.9685",
-            "Depth": "5.9",
-            "ML": "2.4",
-            "Location": "CAYPINAR BALIKESIR"
         }
     ]
 }
