@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.17",
+            "Time": "18:27:23",
+            "Latitude": "39.8230",
+            "Longitude": "27.9885",
+            "Depth": "4.8",
+            "ML": "2.2",
+            "Location": "ODALIDAM SUSURLUK BALIKESIR"
+        },
+        {
+            "Date": "2022.06.17",
+            "Time": "17:44:48",
+            "Latitude": "38.7962",
+            "Longitude": "27.7940",
+            "Depth": "6.4",
+            "ML": "2.8",
+            "Location": "SAZOBA AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.17",
             "Time": "15:27:40",
             "Latitude": "35.7408",
             "Longitude": "28.5825",
@@ -4472,24 +4490,6 @@
             "Depth": "5.9",
             "ML": "2.4",
             "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "23:46:26",
-            "Latitude": "39.4312",
-            "Longitude": "28.3773",
-            "Depth": "13.9",
-            "ML": "1.3",
-            "Location": "TOZAGAN BIGADIC BALIKESIR"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "23:15:52",
-            "Latitude": "38.4105",
-            "Longitude": "42.8958",
-            "Depth": "26.6",
-            "ML": "1.9",
-            "Location": "ALTINSAC GEVAS VAN"
         }
     ]
 }
