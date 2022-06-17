@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.17",
+            "Time": "15:27:40",
+            "Latitude": "35.7408",
+            "Longitude": "28.5825",
+            "Depth": "4.7",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.17",
             "Time": "15:24:58",
             "Latitude": "36.6068",
             "Longitude": "34.2283",
@@ -4481,15 +4490,6 @@
             "Depth": "26.6",
             "ML": "1.9",
             "Location": "ALTINSAC GEVAS VAN"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "23:06:15",
-            "Latitude": "39.7998",
-            "Longitude": "27.9663",
-            "Depth": "7.6",
-            "ML": "3.4",
-            "Location": "CAYPINAR BALIKESIR"
         }
     ]
 }
