@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.17",
+            "Time": "04:09:45",
+            "Latitude": "41.0212",
+            "Longitude": "43.8962",
+            "Depth": "5.0",
+            "ML": "3.7",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.06.17",
+            "Time": "03:41:20",
+            "Latitude": "36.9365",
+            "Longitude": "27.6647",
+            "Depth": "6.9",
+            "ML": "3.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.17",
+            "Time": "02:52:33",
+            "Latitude": "38.9748",
+            "Longitude": "30.2072",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "AYDINLAR ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.06.17",
+            "Time": "02:23:40",
+            "Latitude": "38.9953",
+            "Longitude": "30.2043",
+            "Depth": "1.3",
+            "ML": "2.5",
+            "Location": "BESKARIS ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.06.17",
             "Time": "00:21:05",
             "Latitude": "39.8260",
             "Longitude": "27.9442",
@@ -4454,42 +4490,6 @@
             "Depth": "10.5",
             "ML": "1.5",
             "Location": "DOGA BANDIRMA BALIKESIR"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "09:50:59",
-            "Latitude": "40.3773",
-            "Longitude": "30.6220",
-            "Depth": "4.8",
-            "ML": "1.5",
-            "Location": "KARACALAR GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "09:16:37",
-            "Latitude": "36.0050",
-            "Longitude": "29.1047",
-            "Depth": "25.8",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "08:10:58",
-            "Latitude": "39.9673",
-            "Longitude": "28.0115",
-            "Depth": "11.8",
-            "ML": "0.9",
-            "Location": "YAYLA MANYAS BALIKESIR"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "08:06:03",
-            "Latitude": "40.2792",
-            "Longitude": "36.3543",
-            "Depth": "2.2",
-            "ML": "4.0",
-            "Location": "KUCUKBAGLAR TOKAT"
         }
     ]
 }
