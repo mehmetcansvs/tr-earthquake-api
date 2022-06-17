@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.17",
+            "Time": "15:24:58",
+            "Latitude": "36.6068",
+            "Longitude": "34.2283",
+            "Depth": "6.9",
+            "ML": "1.6",
+            "Location": "UCTEPE ERDEMLI MERSIN"
+        },
+        {
+            "Date": "2022.06.17",
+            "Time": "15:20:50",
+            "Latitude": "39.1060",
+            "Longitude": "36.0145",
+            "Depth": "8.1",
+            "ML": "2.0",
+            "Location": "TATILI SARIOGLAN KAYSERI REVIZE FUADIYE CEKEREK YOZGAT"
+        },
+        {
+            "Date": "2022.06.17",
+            "Time": "13:18:23",
+            "Latitude": "38.7638",
+            "Longitude": "43.5210",
+            "Depth": "9.3",
+            "ML": "2.0",
+            "Location": "DEGIRMENOZU VAN"
+        },
+        {
+            "Date": "2022.06.17",
             "Time": "12:36:14",
             "Latitude": "39.0075",
             "Longitude": "37.5283",
@@ -4463,42 +4490,6 @@
             "Depth": "7.6",
             "ML": "3.4",
             "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "21:45:46",
-            "Latitude": "38.1858",
-            "Longitude": "42.8633",
-            "Depth": "13.8",
-            "ML": "2.6",
-            "Location": "BAHCESARAY VAN"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "21:26:33",
-            "Latitude": "38.3687",
-            "Longitude": "42.7902",
-            "Depth": "13.8",
-            "ML": "1.6",
-            "Location": "KUSLUK GEVAS VAN"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "21:18:43",
-            "Latitude": "38.2953",
-            "Longitude": "42.7332",
-            "Depth": "17.1",
-            "ML": "1.6",
-            "Location": "DALDERE GEVAS VAN"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "20:28:10",
-            "Latitude": "40.6902",
-            "Longitude": "30.4262",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "KEMALIYE ARIFIYE SAKARYA"
         }
     ]
 }
