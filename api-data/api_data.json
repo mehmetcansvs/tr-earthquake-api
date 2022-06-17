@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.17",
+            "Time": "12:36:14",
+            "Latitude": "39.0075",
+            "Longitude": "37.5283",
+            "Depth": "27.5",
+            "ML": "1.6",
+            "Location": "KARLIK KULUNCAK MALATYA"
+        },
+        {
+            "Date": "2022.06.17",
+            "Time": "11:52:10",
+            "Latitude": "37.2178",
+            "Longitude": "37.2450",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "YIGINLI SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.06.17",
             "Time": "11:09:36",
             "Latitude": "39.1417",
             "Longitude": "27.5180",
@@ -4481,24 +4499,6 @@
             "Depth": "0.0",
             "ML": "1.9",
             "Location": "KEMALIYE ARIFIYE SAKARYA"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "19:38:10",
-            "Latitude": "38.1625",
-            "Longitude": "42.8742",
-            "Depth": "2.7",
-            "ML": "2.9",
-            "Location": "UNLUCE BAHCESARAY VAN"
-        },
-        {
-            "Date": "2022.06.07",
-            "Time": "19:13:24",
-            "Latitude": "36.0667",
-            "Longitude": "27.6425",
-            "Depth": "10.0",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
         }
     ]
 }
