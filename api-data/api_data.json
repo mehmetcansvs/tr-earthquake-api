@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.06.18",
+            "Time": "18:55:11",
+            "Latitude": "38.9410",
+            "Longitude": "33.6262",
+            "Depth": "4.1",
+            "ML": "1.5",
+            "Location": "SEYMENLI SEREFLIKOCHISAR ANKARA"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "18:09:21",
+            "Latitude": "39.5967",
+            "Longitude": "29.3853",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "KOPRUCEK TAVSANLI KUTAHYA"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "18:03:45",
+            "Latitude": "39.3400",
+            "Longitude": "41.9987",
+            "Depth": "1.8",
+            "ML": "2.3",
+            "Location": "BURNAZ KARACOBAN ERZURUM"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "18:00:32",
+            "Latitude": "39.3278",
+            "Longitude": "42.0133",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "BUDAKLI KARACOBAN ERZURUM"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "17:36:07",
+            "Latitude": "37.8518",
+            "Longitude": "27.0473",
+            "Depth": "5.1",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "17:17:22",
+            "Latitude": "40.4470",
+            "Longitude": "29.2125",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "CIHATLI GEMLIK BURSA"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "17:14:32",
+            "Latitude": "38.3445",
+            "Longitude": "39.1117",
+            "Depth": "7.4",
+            "ML": "1.7",
+            "Location": "AKSEKI SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.06.18",
             "Time": "16:18:57",
             "Latitude": "35.4293",
             "Longitude": "26.0365",
@@ -4427,69 +4490,6 @@
             "Depth": "9.6",
             "ML": "2.0",
             "Location": "YOLCATI ACIPAYAM DENIZLI"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "16:33:30",
-            "Latitude": "39.8200",
-            "Longitude": "27.9508",
-            "Depth": "5.4",
-            "ML": "2.5",
-            "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "15:01:56",
-            "Latitude": "36.9193",
-            "Longitude": "27.7925",
-            "Depth": "8.0",
-            "ML": "2.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "15:01:27",
-            "Latitude": "39.4872",
-            "Longitude": "25.7833",
-            "Depth": "7.7",
-            "ML": "1.7",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "14:43:51",
-            "Latitude": "38.5957",
-            "Longitude": "43.0172",
-            "Depth": "23.8",
-            "ML": "2.3",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "14:38:33",
-            "Latitude": "35.2817",
-            "Longitude": "25.3340",
-            "Depth": "1.4",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "13:36:03",
-            "Latitude": "38.6678",
-            "Longitude": "31.0978",
-            "Depth": "20.5",
-            "ML": "1.8",
-            "Location": "BOLVADIN AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "13:34:34",
-            "Latitude": "35.8172",
-            "Longitude": "30.8480",
-            "Depth": "18.3",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
