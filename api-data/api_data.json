@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.18",
+            "Time": "06:35:59",
+            "Latitude": "37.9587",
+            "Longitude": "28.7997",
+            "Depth": "3.2",
+            "ML": "1.8",
+            "Location": "KIZILDERE BUHARKENT AYDIN"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "06:25:13",
+            "Latitude": "37.7392",
+            "Longitude": "37.4672",
+            "Depth": "3.8",
+            "ML": "2.4",
+            "Location": "YESILOVA GOLBASI ADIYAMAN"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "06:06:57",
+            "Latitude": "40.1735",
+            "Longitude": "23.9208",
+            "Depth": "8.8",
+            "ML": "2.4",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.18",
             "Time": "06:05:07",
             "Latitude": "36.4457",
             "Longitude": "27.0927",
@@ -4463,33 +4490,6 @@
             "Depth": "15.5",
             "ML": "1.7",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "10:06:20",
-            "Latitude": "39.5915",
-            "Longitude": "35.3915",
-            "Depth": "12.6",
-            "ML": "1.9",
-            "Location": "SOYLEMEZ SARIKAYA YOZGAT"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "09:19:44",
-            "Latitude": "39.4878",
-            "Longitude": "25.7328",
-            "Depth": "9.3",
-            "ML": "2.2",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "09:02:03",
-            "Latitude": "37.8158",
-            "Longitude": "27.3432",
-            "Depth": "4.8",
-            "ML": "2.1",
-            "Location": "KIRAZLI KUSADASI AYDIN"
         }
     ]
 }
