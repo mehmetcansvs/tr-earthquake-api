@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.18",
+            "Time": "20:55:14",
+            "Latitude": "36.7388",
+            "Longitude": "31.9537",
+            "Depth": "5.3",
+            "ML": "2.1",
+            "Location": "BAYIRKOY ALANYA ANTALYA"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "19:48:07",
+            "Latitude": "39.9597",
+            "Longitude": "25.6608",
+            "Depth": "9.6",
+            "ML": "2.3",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.18",
             "Time": "18:55:11",
             "Latitude": "38.9410",
             "Longitude": "33.6262",
@@ -4472,24 +4490,6 @@
             "Depth": "7.1",
             "ML": "2.0",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "17:44:33",
-            "Latitude": "34.6402",
-            "Longitude": "23.7130",
-            "Depth": "15.9",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "17:38:31",
-            "Latitude": "37.0635",
-            "Longitude": "29.0673",
-            "Depth": "9.6",
-            "ML": "2.0",
-            "Location": "YOLCATI ACIPAYAM DENIZLI"
         }
     ]
 }
