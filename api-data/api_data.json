@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.18",
+            "Time": "12:03:41",
+            "Latitude": "37.2432",
+            "Longitude": "35.0555",
+            "Depth": "10.6",
+            "ML": "1.2",
+            "Location": "KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "11:13:38",
+            "Latitude": "37.9748",
+            "Longitude": "27.2360",
+            "Depth": "5.5",
+            "ML": "2.1",
+            "Location": "ZEYTINKOY SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "11:13:15",
+            "Latitude": "40.2988",
+            "Longitude": "29.5067",
+            "Depth": "1.4",
+            "ML": "1.3",
+            "Location": "SELIMIYE YENISEHIR BURSA"
+        },
+        {
+            "Date": "2022.06.18",
             "Time": "10:03:03",
             "Latitude": "37.8255",
             "Longitude": "26.9832",
@@ -4463,33 +4490,6 @@
             "Depth": "17.0",
             "ML": "2.4",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "12:04:07",
-            "Latitude": "37.2142",
-            "Longitude": "27.8107",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "ULAS MILAS MUGLA"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "12:02:59",
-            "Latitude": "37.1663",
-            "Longitude": "27.9203",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "KARACAAGAC MILAS MUGLA"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "12:01:44",
-            "Latitude": "40.1235",
-            "Longitude": "33.2892",
-            "Depth": "5.3",
-            "ML": "1.5",
-            "Location": "ESKIKOY KALECIK ANKARA"
         }
     ]
 }
