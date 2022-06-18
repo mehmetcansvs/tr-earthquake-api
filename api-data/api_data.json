@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.06.18",
+            "Time": "16:18:57",
+            "Latitude": "35.4293",
+            "Longitude": "26.0365",
+            "Depth": "6.3",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "16:10:36",
+            "Latitude": "38.8843",
+            "Longitude": "43.5265",
+            "Depth": "1.4",
+            "ML": "2.6",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "15:11:07",
+            "Latitude": "38.9005",
+            "Longitude": "43.8230",
+            "Depth": "22.9",
+            "ML": "2.1",
+            "Location": "GULTEPE MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "14:50:13",
+            "Latitude": "35.0815",
+            "Longitude": "23.7495",
+            "Depth": "53.8",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "14:31:15",
+            "Latitude": "38.6123",
+            "Longitude": "30.7175",
+            "Depth": "5.2",
+            "ML": "2.0",
+            "Location": "ISIKLAR AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "14:11:57",
+            "Latitude": "39.7325",
+            "Longitude": "35.1705",
+            "Depth": "13.9",
+            "ML": "1.6",
+            "Location": "AKOLUK SORGUN YOZGAT"
+        },
+        {
+            "Date": "2022.06.18",
             "Time": "13:52:37",
             "Latitude": "38.5267",
             "Longitude": "39.1962",
@@ -4436,60 +4490,6 @@
             "Depth": "18.3",
             "ML": "2.9",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "13:19:42",
-            "Latitude": "36.9695",
-            "Longitude": "35.5315",
-            "Depth": "24.3",
-            "ML": "2.2",
-            "Location": "HASANBEYLI SARICAM ADANA"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "12:56:56",
-            "Latitude": "39.7600",
-            "Longitude": "27.9318",
-            "Depth": "5.1",
-            "ML": "1.6",
-            "Location": "IBIRLER BALIKESIR"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "12:56:08",
-            "Latitude": "39.7968",
-            "Longitude": "27.9845",
-            "Depth": "6.9",
-            "ML": "1.8",
-            "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "12:54:57",
-            "Latitude": "39.8805",
-            "Longitude": "27.9495",
-            "Depth": "11.7",
-            "ML": "1.9",
-            "Location": "CANACIK BALIKESIR"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "12:50:51",
-            "Latitude": "39.8387",
-            "Longitude": "28.0013",
-            "Depth": "23.9",
-            "ML": "1.2",
-            "Location": "ODALIDAM SUSURLUK BALIKESIR"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "12:36:07",
-            "Latitude": "37.0442",
-            "Longitude": "29.0467",
-            "Depth": "2.0",
-            "ML": "2.6",
-            "Location": "KARACAM KOYCEGIZ MUGLA"
         }
     ]
 }
