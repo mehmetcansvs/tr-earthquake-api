@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.18",
+            "Time": "02:48:08",
+            "Latitude": "37.7605",
+            "Longitude": "32.0807",
+            "Depth": "9.9",
+            "ML": "0.9",
+            "Location": "YATAGAN MERAM KONYA"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "02:28:31",
+            "Latitude": "40.7463",
+            "Longitude": "25.6870",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "01:14:06",
+            "Latitude": "40.6327",
+            "Longitude": "29.1117",
+            "Depth": "13.2",
+            "ML": "1.5",
+            "Location": "CINARCIK YALOVA"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "00:45:57",
+            "Latitude": "38.7142",
+            "Longitude": "31.3813",
+            "Depth": "17.4",
+            "ML": "1.4",
+            "Location": "CUKURCAK SULTANDAGI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.18",
             "Time": "00:43:42",
             "Latitude": "38.7440",
             "Longitude": "43.9828",
@@ -29,12 +65,39 @@
         },
         {
             "Date": "2022.06.17",
+            "Time": "21:53:27",
+            "Latitude": "37.9930",
+            "Longitude": "27.1803",
+            "Depth": "2.6",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.17",
             "Time": "20:46:31",
             "Latitude": "38.8540",
             "Longitude": "43.4190",
             "Depth": "7.0",
             "ML": "2.6",
             "Location": "KUMLUCA VAN"
+        },
+        {
+            "Date": "2022.06.17",
+            "Time": "19:53:29",
+            "Latitude": "39.1182",
+            "Longitude": "29.1330",
+            "Depth": "13.8",
+            "ML": "1.5",
+            "Location": "SENKOY SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.06.17",
+            "Time": "19:34:59",
+            "Latitude": "37.1163",
+            "Longitude": "28.3402",
+            "Depth": "21.6",
+            "ML": "1.6",
+            "Location": "DOGAN MUGLA"
         },
         {
             "Date": "2022.06.17",
@@ -4427,69 +4490,6 @@
             "Depth": "4.7",
             "ML": "2.1",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "05:04:07",
-            "Latitude": "39.4872",
-            "Longitude": "25.7493",
-            "Depth": "6.6",
-            "ML": "2.4",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "05:01:04",
-            "Latitude": "38.2432",
-            "Longitude": "33.5128",
-            "Depth": "27.3",
-            "ML": "1.4",
-            "Location": "SULTANHANI AKSARAY"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "04:57:16",
-            "Latitude": "39.4858",
-            "Longitude": "25.7510",
-            "Depth": "7.2",
-            "ML": "3.2",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "04:25:30",
-            "Latitude": "39.6763",
-            "Longitude": "26.0975",
-            "Depth": "3.7",
-            "ML": "1.6",
-            "Location": "TAVAKLI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "03:27:18",
-            "Latitude": "34.3880",
-            "Longitude": "31.3693",
-            "Depth": "20.7",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "03:05:34",
-            "Latitude": "36.7155",
-            "Longitude": "28.0505",
-            "Depth": "8.8",
-            "ML": "1.3",
-            "Location": "BOZBURUN MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "02:40:43",
-            "Latitude": "38.1538",
-            "Longitude": "42.8663",
-            "Depth": "2.5",
-            "ML": "2.2",
-            "Location": "UNLUCE BAHCESARAY VAN"
         }
     ]
 }
