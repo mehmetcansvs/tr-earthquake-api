@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.18",
+            "Time": "22:15:16",
+            "Latitude": "36.7687",
+            "Longitude": "28.2845",
+            "Depth": "72.6",
+            "ML": "3.9",
+            "Location": "TURUNC MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.06.18",
+            "Time": "21:15:33",
+            "Latitude": "37.9820",
+            "Longitude": "27.1792",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.18",
             "Time": "20:55:14",
             "Latitude": "36.7388",
             "Longitude": "31.9537",
@@ -4472,24 +4490,6 @@
             "Depth": "5.8",
             "ML": "1.0",
             "Location": "YUVALAR CAN CANAKKALE"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "18:31:59",
-            "Latitude": "39.2912",
-            "Longitude": "29.3265",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "UZUNCAM EMET KUTAHYA"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "17:55:44",
-            "Latitude": "39.0360",
-            "Longitude": "25.9943",
-            "Depth": "7.1",
-            "ML": "2.0",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         }
     ]
 }
