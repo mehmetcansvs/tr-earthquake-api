@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.18",
+            "Time": "13:52:37",
+            "Latitude": "38.5267",
+            "Longitude": "39.1962",
+            "Depth": "12.9",
+            "ML": "2.1",
+            "Location": "KAVAKTEPE ELAZIG"
+        },
+        {
+            "Date": "2022.06.18",
             "Time": "12:03:41",
             "Latitude": "37.2432",
             "Longitude": "35.0555",
@@ -4481,15 +4490,6 @@
             "Depth": "2.0",
             "ML": "2.6",
             "Location": "KARACAM KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "12:07:50",
-            "Latitude": "34.7828",
-            "Longitude": "23.3347",
-            "Depth": "17.0",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
