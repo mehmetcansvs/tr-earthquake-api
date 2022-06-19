@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.06.20",
+            "Time": "00:30:11",
+            "Latitude": "35.8808",
+            "Longitude": "29.8435",
+            "Depth": "10.6",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "00:21:40",
+            "Latitude": "37.9658",
+            "Longitude": "28.8178",
+            "Depth": "16.2",
+            "ML": "1.3",
+            "Location": "KIZILDERE BUHARKENT AYDIN"
+        },
+        {
+            "Date": "2022.06.19",
+            "Time": "23:37:08",
+            "Latitude": "39.5313",
+            "Longitude": "26.0412",
+            "Depth": "10.5",
+            "ML": "1.7",
+            "Location": "BABAKALE AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.06.19",
+            "Time": "23:32:27",
+            "Latitude": "38.8195",
+            "Longitude": "43.4272",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "GEDIKBULAK VAN"
+        },
+        {
+            "Date": "2022.06.19",
+            "Time": "23:27:37",
+            "Latitude": "39.1343",
+            "Longitude": "31.1905",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "DAGINIK EMIRDAG AFYONKARAHISAR"
+        },
+        {
             "Date": "2022.06.19",
             "Time": "22:19:13",
             "Latitude": "37.8082",
@@ -4445,51 +4490,6 @@
             "Depth": "3.2",
             "ML": "2.2",
             "Location": "YAKUPLAR TURGUTLU MANISA"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "16:06:19",
-            "Latitude": "37.6015",
-            "Longitude": "27.0987",
-            "Depth": "19.4",
-            "ML": "1.9",
-            "Location": "DOGANBEY ACIKLARI AYDIN EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "15:17:04",
-            "Latitude": "37.9157",
-            "Longitude": "28.7578",
-            "Depth": "5.7",
-            "ML": "1.8",
-            "Location": "TEKKEKOY SARAYKOY DENIZLI"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "15:16:18",
-            "Latitude": "38.0447",
-            "Longitude": "32.6385",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "SARICALAR SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "15:14:33",
-            "Latitude": "38.6888",
-            "Longitude": "39.8567",
-            "Depth": "10.7",
-            "ML": "3.1",
-            "Location": "SEYDILI PALU ELAZIG"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "13:20:06",
-            "Latitude": "36.8773",
-            "Longitude": "23.3263",
-            "Depth": "27.9",
-            "ML": "3.2",
-            "Location": "YUNANISTAN"
         }
     ]
 }
