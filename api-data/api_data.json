@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.19",
+            "Time": "05:07:21",
+            "Latitude": "38.8225",
+            "Longitude": "43.5602",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "AKCIFT VAN"
+        },
+        {
+            "Date": "2022.06.19",
             "Time": "03:10:59",
             "Latitude": "38.8643",
             "Longitude": "43.5988",
@@ -4481,15 +4490,6 @@
             "Depth": "11.7",
             "ML": "1.4",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "23:32:57",
-            "Latitude": "36.1058",
-            "Longitude": "29.0553",
-            "Depth": "21.0",
-            "ML": "1.6",
-            "Location": "AKDENIZ"
         }
     ]
 }
