@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.19",
+            "Time": "17:54:16",
+            "Latitude": "38.2232",
+            "Longitude": "38.6250",
+            "Depth": "4.2",
+            "ML": "2.0",
+            "Location": "SOGUTLU PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.06.19",
+            "Time": "17:17:53",
+            "Latitude": "35.7170",
+            "Longitude": "28.5743",
+            "Depth": "14.3",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.19",
+            "Time": "17:07:03",
+            "Latitude": "38.8002",
+            "Longitude": "26.8342",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "CANDARLI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.19",
             "Time": "16:36:10",
             "Latitude": "34.7505",
             "Longitude": "24.1300",
@@ -4463,33 +4490,6 @@
             "Depth": "14.3",
             "ML": "1.6",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "03:38:39",
-            "Latitude": "36.4312",
-            "Longitude": "27.0370",
-            "Depth": "1.8",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "03:37:13",
-            "Latitude": "36.4278",
-            "Longitude": "27.0763",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "02:41:32",
-            "Latitude": "39.9607",
-            "Longitude": "32.7312",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "YENIMAHALLE ANKARA"
         }
     ]
 }
