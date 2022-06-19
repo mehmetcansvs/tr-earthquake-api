@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.19",
+            "Time": "14:03:18",
+            "Latitude": "40.1220",
+            "Longitude": "31.7503",
+            "Depth": "2.8",
+            "ML": "2.7",
+            "Location": "CANTIRLI BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.06.19",
+            "Time": "13:43:20",
+            "Latitude": "37.5802",
+            "Longitude": "29.9677",
+            "Depth": "12.6",
+            "ML": "2.0",
+            "Location": "YARISLI YESILOVA BURDUR"
+        },
+        {
+            "Date": "2022.06.19",
             "Time": "12:18:43",
             "Latitude": "38.8595",
             "Longitude": "43.5760",
@@ -4472,24 +4490,6 @@
             "Depth": "12.8",
             "ML": "2.2",
             "Location": "YANAL BASKALE VAN"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "00:30:44",
-            "Latitude": "39.4790",
-            "Longitude": "25.7677",
-            "Depth": "8.5",
-            "ML": "2.3",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "00:28:31",
-            "Latitude": "39.4743",
-            "Longitude": "25.7550",
-            "Depth": "4.3",
-            "ML": "1.7",
-            "Location": "EGE DENIZI"
         }
     ]
 }
