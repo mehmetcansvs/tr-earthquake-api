@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.19",
+            "Time": "11:03:46",
+            "Latitude": "38.5727",
+            "Longitude": "31.2113",
+            "Depth": "7.6",
+            "ML": "3.0",
+            "Location": "DOGANCIK SULTANDAGI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.19",
+            "Time": "08:34:12",
+            "Latitude": "38.1615",
+            "Longitude": "27.1295",
+            "Depth": "9.3",
+            "ML": "1.5",
+            "Location": "SASAL MENDERES IZMIR"
+        },
+        {
+            "Date": "2022.06.19",
             "Time": "05:07:21",
             "Latitude": "38.8225",
             "Longitude": "43.5602",
@@ -4472,24 +4490,6 @@
             "Depth": "5.0",
             "ML": "2.0",
             "Location": "SOGUTLU PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "00:06:54",
-            "Latitude": "39.4750",
-            "Longitude": "25.7698",
-            "Depth": "8.1",
-            "ML": "1.7",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.08",
-            "Time": "23:47:59",
-            "Latitude": "39.4778",
-            "Longitude": "25.7460",
-            "Depth": "11.7",
-            "ML": "1.4",
-            "Location": "EGE DENIZI"
         }
     ]
 }
