@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.19",
+            "Time": "16:36:10",
+            "Latitude": "34.7505",
+            "Longitude": "24.1300",
+            "Depth": "22.9",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.19",
             "Time": "14:03:18",
             "Latitude": "40.1220",
             "Longitude": "31.7503",
@@ -20,12 +29,30 @@
         },
         {
             "Date": "2022.06.19",
+            "Time": "12:43:16",
+            "Latitude": "34.8693",
+            "Longitude": "23.6688",
+            "Depth": "27.2",
+            "ML": "3.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.19",
             "Time": "12:18:43",
             "Latitude": "38.8595",
             "Longitude": "43.5760",
             "Depth": "5.0",
             "ML": "3.6",
             "Location": "AKCIFT VAN"
+        },
+        {
+            "Date": "2022.06.19",
+            "Time": "12:18:20",
+            "Latitude": "37.6862",
+            "Longitude": "27.6115",
+            "Depth": "8.8",
+            "ML": "1.7",
+            "Location": "AVCILAR SOKE AYDIN"
         },
         {
             "Date": "2022.06.19",
@@ -4463,33 +4490,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "YENIMAHALLE ANKARA"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "02:23:06",
-            "Latitude": "35.0723",
-            "Longitude": "25.2965",
-            "Depth": "3.5",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "00:51:39",
-            "Latitude": "38.8128",
-            "Longitude": "43.5403",
-            "Depth": "6.5",
-            "ML": "2.2",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "00:49:57",
-            "Latitude": "38.2693",
-            "Longitude": "44.2500",
-            "Depth": "12.8",
-            "ML": "2.2",
-            "Location": "YANAL BASKALE VAN"
         }
     ]
 }
