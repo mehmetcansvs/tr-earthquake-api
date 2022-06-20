@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.20",
+            "Time": "12:00:12",
+            "Latitude": "36.8928",
+            "Longitude": "38.8268",
+            "Depth": "7.5",
+            "ML": "2.0",
+            "Location": "ASAGICINPOLAT AKCAKALE SANLIURFA"
+        },
+        {
+            "Date": "2022.06.20",
             "Time": "10:19:50",
             "Latitude": "40.6847",
             "Longitude": "32.2880",
@@ -4481,15 +4490,6 @@
             "Depth": "5.0",
             "ML": "2.0",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "00:14:15",
-            "Latitude": "37.0895",
-            "Longitude": "29.5832",
-            "Depth": "22.4",
-            "ML": "0.9",
-            "Location": "KARGALI GOLHISAR BURDUR"
         }
     ]
 }
