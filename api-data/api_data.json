@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.06.20",
+            "Time": "10:19:50",
+            "Latitude": "40.6847",
+            "Longitude": "32.2880",
+            "Depth": "8.1",
+            "ML": "1.9",
+            "Location": "YAKABOY GEREDE BOLU"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "10:16:23",
+            "Latitude": "39.1450",
+            "Longitude": "27.5030",
+            "Depth": "0.0",
+            "ML": "1.1",
+            "Location": "HACIYUSUF SOMA MANISA"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "10:13:22",
+            "Latitude": "36.5640",
+            "Longitude": "27.8987",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "09:44:00",
+            "Latitude": "37.0037",
+            "Longitude": "34.4278",
+            "Depth": "15.0",
+            "ML": "1.6",
+            "Location": "CAGLARCA TOROSLAR MERSIN"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "09:39:31",
+            "Latitude": "39.8093",
+            "Longitude": "25.6072",
+            "Depth": "6.8",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "09:37:52",
+            "Latitude": "36.6548",
+            "Longitude": "36.5215",
+            "Depth": "15.0",
+            "ML": "1.8",
+            "Location": "MAZMANLI HASSA HATAY"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "09:35:47",
+            "Latitude": "35.9995",
+            "Longitude": "29.9028",
+            "Depth": "26.3",
+            "ML": "2.1",
+            "Location": "KAS ACIKLARI ANTALYA AKDENIZ"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "09:08:33",
+            "Latitude": "38.0065",
+            "Longitude": "27.1417",
+            "Depth": "6.6",
+            "ML": "2.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.20",
             "Time": "08:13:12",
             "Latitude": "39.1985",
             "Longitude": "29.4105",
@@ -4418,78 +4490,6 @@
             "Depth": "22.4",
             "ML": "0.9",
             "Location": "KARGALI GOLHISAR BURDUR"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "23:44:16",
-            "Latitude": "38.6013",
-            "Longitude": "31.6227",
-            "Depth": "6.7",
-            "ML": "1.6",
-            "Location": "MEVLUTLU TUZLUKCU KONYA"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "22:59:31",
-            "Latitude": "36.9615",
-            "Longitude": "30.1153",
-            "Depth": "7.8",
-            "ML": "1.5",
-            "Location": "ULUCAK KORKUTELI ANTALYA"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "22:56:33",
-            "Latitude": "35.2863",
-            "Longitude": "25.3340",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "22:51:18",
-            "Latitude": "34.9705",
-            "Longitude": "23.2962",
-            "Depth": "18.2",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "22:42:05",
-            "Latitude": "38.1310",
-            "Longitude": "35.1728",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "HACIBEYLI NIGDE"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "20:57:53",
-            "Latitude": "35.1307",
-            "Longitude": "32.9600",
-            "Depth": "9.6",
-            "ML": "1.5",
-            "Location": "KIBRIS GUZELYURT"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "20:37:43",
-            "Latitude": "38.9895",
-            "Longitude": "27.8692",
-            "Depth": "7.6",
-            "ML": "1.4",
-            "Location": "KARABORKLU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "18:38:08",
-            "Latitude": "39.4607",
-            "Longitude": "31.5638",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
         }
     ]
 }
