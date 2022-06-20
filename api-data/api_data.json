@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.20",
+            "Time": "05:42:04",
+            "Latitude": "37.8023",
+            "Longitude": "26.9407",
+            "Depth": "9.8",
+            "ML": "3.1",
+            "Location": "SISAM ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "05:16:33",
+            "Latitude": "39.5308",
+            "Longitude": "28.7452",
+            "Depth": "14.6",
+            "ML": "1.7",
+            "Location": "AKYAYLA DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.06.20",
             "Time": "04:19:02",
             "Latitude": "37.9728",
             "Longitude": "28.9830",
@@ -4472,24 +4490,6 @@
             "Depth": "7.4",
             "ML": "1.4",
             "Location": "DINGILLER AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "17:33:25",
-            "Latitude": "39.0282",
-            "Longitude": "27.8642",
-            "Depth": "7.4",
-            "ML": "1.7",
-            "Location": "MUSALAR AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "17:22:18",
-            "Latitude": "39.0010",
-            "Longitude": "27.8670",
-            "Depth": "7.2",
-            "ML": "1.4",
-            "Location": "KARABORKLU AKHISAR MANISA"
         }
     ]
 }
