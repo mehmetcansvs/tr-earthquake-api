@@ -92,6 +92,15 @@
         },
         {
             "Date": "2022.06.20",
+            "Time": "09:01:45",
+            "Latitude": "35.8432",
+            "Longitude": "25.5008",
+            "Depth": "7.5",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.20",
             "Time": "08:13:12",
             "Latitude": "39.1985",
             "Longitude": "29.4105",
@@ -4481,15 +4490,6 @@
             "Depth": "3.8",
             "ML": "2.0",
             "Location": "DEGIRMENOZU VAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "01:42:31",
-            "Latitude": "35.2972",
-            "Longitude": "25.3110",
-            "Depth": "7.9",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
