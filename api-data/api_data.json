@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.06.20",
+            "Time": "19:04:44",
+            "Latitude": "39.5895",
+            "Longitude": "26.0152",
+            "Depth": "4.3",
+            "ML": "1.4",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "18:54:41",
+            "Latitude": "40.1230",
+            "Longitude": "34.8788",
+            "Depth": "8.1",
+            "ML": "1.5",
+            "Location": "FAKILAR ALACA CORUM"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "18:30:32",
+            "Latitude": "37.8890",
+            "Longitude": "26.9893",
+            "Depth": "21.2",
+            "ML": "1.4",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "18:28:27",
+            "Latitude": "40.2785",
+            "Longitude": "34.8918",
+            "Depth": "8.8",
+            "ML": "1.7",
+            "Location": "CIRCIR ALACA CORUM"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "18:21:58",
+            "Latitude": "38.9410",
+            "Longitude": "43.7425",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "KOSK KOYU MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "17:56:37",
+            "Latitude": "39.0148",
+            "Longitude": "43.7017",
+            "Depth": "5.0",
+            "ML": "3.8",
+            "Location": "KEMERKOPRU MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "17:54:36",
+            "Latitude": "39.0235",
+            "Longitude": "43.2832",
+            "Depth": "9.6",
+            "ML": "1.3",
+            "Location": "CATAKDIBI ERCIS VAN"
+        },
+        {
+            "Date": "2022.06.20",
             "Time": "13:17:13",
             "Latitude": "36.2682",
             "Longitude": "33.7080",
@@ -4427,69 +4490,6 @@
             "Depth": "86.0",
             "ML": "3.6",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "06:07:33",
-            "Latitude": "36.4383",
-            "Longitude": "27.1243",
-            "Depth": "3.3",
-            "ML": "1.8",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "05:08:13",
-            "Latitude": "35.2428",
-            "Longitude": "33.7935",
-            "Depth": "7.4",
-            "ML": "1.5",
-            "Location": "KIBRIS ISKELE"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "05:05:52",
-            "Latitude": "35.1327",
-            "Longitude": "33.8068",
-            "Depth": "13.7",
-            "ML": "2.1",
-            "Location": "KIBRIS TUZLA"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "04:40:18",
-            "Latitude": "34.7313",
-            "Longitude": "33.9135",
-            "Depth": "29.4",
-            "ML": "4.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "04:39:58",
-            "Latitude": "34.7067",
-            "Longitude": "25.4115",
-            "Depth": "14.9",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "04:39:43",
-            "Latitude": "40.2095",
-            "Longitude": "33.4067",
-            "Depth": "5.4",
-            "ML": "2.0",
-            "Location": "KILCAK KALECIK ANKARA"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "01:48:59",
-            "Latitude": "38.7983",
-            "Longitude": "43.5460",
-            "Depth": "3.8",
-            "ML": "2.0",
-            "Location": "DEGIRMENOZU VAN"
         }
     ]
 }
