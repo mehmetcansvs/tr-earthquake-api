@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.20",
+            "Time": "22:40:14",
+            "Latitude": "37.1030",
+            "Longitude": "28.3887",
+            "Depth": "5.1",
+            "ML": "2.4",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "21:28:43",
+            "Latitude": "37.8998",
+            "Longitude": "27.6200",
+            "Depth": "5.9",
+            "ML": "1.1",
+            "Location": "ALANGULLU GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "21:22:34",
+            "Latitude": "36.4340",
+            "Longitude": "27.1088",
+            "Depth": "5.4",
+            "ML": "2.1",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.20",
             "Time": "21:11:21",
             "Latitude": "38.9588",
             "Longitude": "43.8435",
@@ -4463,33 +4490,6 @@
             "Depth": "5.0",
             "ML": "2.6",
             "Location": "KARAAGAC VAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "09:07:10",
-            "Latitude": "38.8563",
-            "Longitude": "43.4565",
-            "Depth": "5.0",
-            "ML": "3.3",
-            "Location": "GEDIKBULAK VAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "09:02:28",
-            "Latitude": "38.7685",
-            "Longitude": "43.6598",
-            "Depth": "7.0",
-            "ML": "4.5",
-            "Location": "SURUYOLU MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "08:54:43",
-            "Latitude": "35.7523",
-            "Longitude": "26.9102",
-            "Depth": "1.7",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
         }
     ]
 }
