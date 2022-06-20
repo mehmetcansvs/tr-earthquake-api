@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.20",
+            "Time": "08:13:12",
+            "Latitude": "39.1985",
+            "Longitude": "29.4105",
+            "Depth": "7.5",
+            "ML": "1.6",
+            "Location": "KARBASAN HISARCIK KUTAHYA"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "08:03:09",
+            "Latitude": "37.8757",
+            "Longitude": "26.9903",
+            "Depth": "3.4",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.20",
             "Time": "05:42:04",
             "Latitude": "37.8023",
             "Longitude": "26.9407",
@@ -4472,24 +4490,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "18:05:40",
-            "Latitude": "38.9180",
-            "Longitude": "37.8625",
-            "Depth": "5.5",
-            "ML": "2.1",
-            "Location": "DEREKOY HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "17:54:45",
-            "Latitude": "39.0065",
-            "Longitude": "27.8580",
-            "Depth": "3.8",
-            "ML": "1.7",
-            "Location": "GOKCEAHMET AKHISAR MANISA"
         }
     ]
 }
