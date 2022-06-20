@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.20",
+            "Time": "13:17:13",
+            "Latitude": "36.2682",
+            "Longitude": "33.7080",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "ISIKLI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.06.20",
             "Time": "12:00:12",
             "Latitude": "36.8928",
             "Longitude": "38.8268",
@@ -4481,15 +4490,6 @@
             "Depth": "7.9",
             "ML": "2.4",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "01:31:18",
-            "Latitude": "38.3613",
-            "Longitude": "23.4255",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "YUNANISTAN"
         }
     ]
 }
