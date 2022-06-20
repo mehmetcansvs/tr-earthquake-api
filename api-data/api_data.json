@@ -20,6 +20,15 @@
         },
         {
             "Date": "2022.06.20",
+            "Time": "04:32:16",
+            "Latitude": "35.1815",
+            "Longitude": "25.3132",
+            "Depth": "9.1",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.20",
             "Time": "04:19:02",
             "Latitude": "37.9728",
             "Longitude": "28.9830",
@@ -4481,15 +4490,6 @@
             "Depth": "3.8",
             "ML": "1.7",
             "Location": "GOKCEAHMET AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.06.09",
-            "Time": "17:41:31",
-            "Latitude": "39.0143",
-            "Longitude": "27.8793",
-            "Depth": "7.4",
-            "ML": "1.4",
-            "Location": "DINGILLER AKHISAR MANISA"
         }
     ]
 }
