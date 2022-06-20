@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.06.20",
+            "Time": "21:11:21",
+            "Latitude": "38.9588",
+            "Longitude": "43.8435",
+            "Depth": "15.3",
+            "ML": "2.1",
+            "Location": "ADAKLI MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "19:47:01",
+            "Latitude": "39.5875",
+            "Longitude": "26.0688",
+            "Depth": "8.0",
+            "ML": "1.7",
+            "Location": "GULPINAR AYVACIK ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "19:39:38",
+            "Latitude": "36.1268",
+            "Longitude": "31.1880",
+            "Depth": "9.8",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "19:32:37",
+            "Latitude": "37.0230",
+            "Longitude": "43.5288",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "IRAK"
+        },
+        {
+            "Date": "2022.06.20",
+            "Time": "19:23:18",
+            "Latitude": "36.8675",
+            "Longitude": "27.7533",
+            "Depth": "5.3",
+            "ML": "1.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.20",
             "Time": "19:04:44",
             "Latitude": "39.5895",
             "Longitude": "26.0152",
@@ -4444,51 +4489,6 @@
             "Longitude": "26.9102",
             "Depth": "1.7",
             "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "08:02:41",
-            "Latitude": "39.7622",
-            "Longitude": "27.9283",
-            "Depth": "3.8",
-            "ML": "1.4",
-            "Location": "IBIRLER BALIKESIR"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "07:56:37",
-            "Latitude": "36.9497",
-            "Longitude": "27.6043",
-            "Depth": "1.2",
-            "ML": "1.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "07:32:59",
-            "Latitude": "37.0710",
-            "Longitude": "28.3462",
-            "Depth": "5.2",
-            "ML": "1.9",
-            "Location": "KIZILAGAC ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "07:31:20",
-            "Latitude": "35.2315",
-            "Longitude": "33.3138",
-            "Depth": "17.2",
-            "ML": "1.5",
-            "Location": "KIBRIS LEFKOSA"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "06:23:54",
-            "Latitude": "34.6293",
-            "Longitude": "28.2343",
-            "Depth": "86.0",
-            "ML": "3.6",
             "Location": "AKDENIZ"
         }
     ]
