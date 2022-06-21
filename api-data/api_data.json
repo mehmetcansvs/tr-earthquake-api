@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.06.21",
+            "Time": "08:01:14",
+            "Latitude": "35.2712",
+            "Longitude": "25.2808",
+            "Depth": "7.2",
+            "ML": "3.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "06:14:09",
+            "Latitude": "35.2592",
+            "Longitude": "26.1675",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.21",
             "Time": "06:06:09",
             "Latitude": "38.9873",
             "Longitude": "43.7578",
             "Depth": "8.5",
             "ML": "2.0",
             "Location": "MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "04:45:45",
+            "Latitude": "35.0745",
+            "Longitude": "25.1648",
+            "Depth": "9.0",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.06.21",
@@ -4463,33 +4490,6 @@
             "Depth": "21.0",
             "ML": "1.5",
             "Location": "ODALIDAM SUSURLUK BALIKESIR"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "12:16:12",
-            "Latitude": "37.1683",
-            "Longitude": "37.2785",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "SAMMEZREASI SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "12:00:58",
-            "Latitude": "40.3565",
-            "Longitude": "26.9593",
-            "Depth": "5.0",
-            "ML": "1.3",
-            "Location": "GURECI LAPSEKI CANAKKALE"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "11:59:22",
-            "Latitude": "37.3038",
-            "Longitude": "26.5235",
-            "Depth": "13.7",
-            "ML": "1.7",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
