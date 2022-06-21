@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.21",
+            "Time": "14:07:07",
+            "Latitude": "38.8027",
+            "Longitude": "43.5332",
+            "Depth": "5.8",
+            "ML": "3.0",
+            "Location": "DEREBEY VAN"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "13:43:59",
+            "Latitude": "39.0752",
+            "Longitude": "29.0497",
+            "Depth": "7.1",
+            "ML": "2.3",
+            "Location": "KALKAN SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "12:56:31",
+            "Latitude": "37.9992",
+            "Longitude": "27.1753",
+            "Depth": "6.4",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.21",
             "Time": "12:53:12",
             "Latitude": "37.9580",
             "Longitude": "28.7970",
@@ -20,12 +47,30 @@
         },
         {
             "Date": "2022.06.21",
+            "Time": "11:42:05",
+            "Latitude": "38.8487",
+            "Longitude": "44.5690",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "TURKIYE IRAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.06.21",
             "Time": "11:13:41",
             "Latitude": "37.7220",
             "Longitude": "37.4082",
             "Depth": "22.4",
             "ML": "1.8",
             "Location": "BOZLAR CAGLAYANCERIT KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "11:11:09",
+            "Latitude": "35.4358",
+            "Longitude": "25.3648",
+            "Depth": "7.9",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.06.21",
@@ -4445,51 +4490,6 @@
             "Depth": "1.7",
             "ML": "2.5",
             "Location": "GEDIKBULAK VAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "16:48:02",
-            "Latitude": "36.6290",
-            "Longitude": "36.3063",
-            "Depth": "13.3",
-            "ML": "1.8",
-            "Location": "KALEDIBI ISKENDERUN HATAY"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "16:12:39",
-            "Latitude": "39.6977",
-            "Longitude": "39.8428",
-            "Depth": "1.0",
-            "ML": "2.1",
-            "Location": "KUREYSLI SARIKAYA UZUMLU ERZINCAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "15:22:09",
-            "Latitude": "36.1240",
-            "Longitude": "31.4037",
-            "Depth": "18.8",
-            "ML": "3.6",
-            "Location": "ANTALYA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "15:02:57",
-            "Latitude": "39.5590",
-            "Longitude": "39.9125",
-            "Depth": "1.4",
-            "ML": "2.4",
-            "Location": "SENEK PULUMUR TUNCELI"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "14:40:40",
-            "Latitude": "37.0220",
-            "Longitude": "29.5220",
-            "Depth": "19.3",
-            "ML": "2.0",
-            "Location": "CATAK ALTINYAYLA BURDUR"
         }
     ]
 }
