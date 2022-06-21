@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.06.21",
+            "Time": "03:47:23",
+            "Latitude": "40.9293",
+            "Longitude": "24.0427",
+            "Depth": "6.6",
+            "ML": "1.4",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "03:28:29",
+            "Latitude": "36.3625",
+            "Longitude": "34.7247",
+            "Depth": "25.2",
+            "ML": "3.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "03:18:50",
+            "Latitude": "37.7900",
+            "Longitude": "27.0365",
+            "Depth": "1.6",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "01:34:44",
+            "Latitude": "35.1893",
+            "Longitude": "23.3027",
+            "Depth": "29.9",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "01:22:30",
+            "Latitude": "36.4098",
+            "Longitude": "28.8882",
+            "Depth": "16.6",
+            "ML": "2.7",
+            "Location": "OLUDENIZ ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.06.21",
             "Time": "00:19:11",
             "Latitude": "37.0547",
             "Longitude": "28.3677",
@@ -4445,51 +4490,6 @@
             "Depth": "23.7",
             "ML": "2.5",
             "Location": "SURUYOLU MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "10:19:55",
-            "Latitude": "38.8508",
-            "Longitude": "43.3253",
-            "Depth": "8.5",
-            "ML": "2.0",
-            "Location": "HALKALI VAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "09:55:00",
-            "Latitude": "38.8295",
-            "Longitude": "43.6917",
-            "Depth": "8.2",
-            "ML": "2.3",
-            "Location": "AKBULAK MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "09:50:58",
-            "Latitude": "38.8797",
-            "Longitude": "43.8942",
-            "Depth": "12.0",
-            "ML": "2.2",
-            "Location": "ASAGIAKCAGUL OZALP VAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "09:25:54",
-            "Latitude": "38.7655",
-            "Longitude": "43.3872",
-            "Depth": "9.5",
-            "ML": "2.0",
-            "Location": "PIRGARIP VAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "09:21:43",
-            "Latitude": "38.8217",
-            "Longitude": "43.5340",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "BAGDASAN VAN"
         }
     ]
 }
