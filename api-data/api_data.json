@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.21",
+            "Time": "17:30:09",
+            "Latitude": "38.8095",
+            "Longitude": "43.6110",
+            "Depth": "12.2",
+            "ML": "3.0",
+            "Location": "KUSCU MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "17:13:16",
+            "Latitude": "38.9593",
+            "Longitude": "43.3153",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "CELEBIBAGI ERCIS VAN"
+        },
+        {
+            "Date": "2022.06.21",
             "Time": "14:07:07",
             "Latitude": "38.8027",
             "Longitude": "43.5332",
@@ -4472,24 +4490,6 @@
             "Depth": "5.3",
             "ML": "1.9",
             "Location": "PINARDERE AYDIN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "17:44:58",
-            "Latitude": "39.8770",
-            "Longitude": "28.8497",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "IKIZOLUK ORHANELI BURSA"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "17:07:26",
-            "Latitude": "38.8460",
-            "Longitude": "43.4613",
-            "Depth": "1.7",
-            "ML": "2.5",
-            "Location": "GEDIKBULAK VAN"
         }
     ]
 }
