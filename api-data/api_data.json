@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.21",
+            "Time": "12:53:12",
+            "Latitude": "37.9580",
+            "Longitude": "28.7970",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "KIZILDERE BUHARKENT AYDIN"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "11:48:31",
+            "Latitude": "39.7318",
+            "Longitude": "30.9942",
+            "Depth": "7.6",
+            "ML": "2.1",
+            "Location": "AKTEPE ALPU ESKISEHIR"
+        },
+        {
+            "Date": "2022.06.21",
+            "Time": "11:13:41",
+            "Latitude": "37.7220",
+            "Longitude": "37.4082",
+            "Depth": "22.4",
+            "ML": "1.8",
+            "Location": "BOZLAR CAGLAYANCERIT KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.06.21",
             "Time": "10:49:43",
             "Latitude": "36.9338",
             "Longitude": "27.6407",
@@ -4463,33 +4490,6 @@
             "Depth": "19.3",
             "ML": "2.0",
             "Location": "CATAK ALTINYAYLA BURDUR"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "14:32:50",
-            "Latitude": "38.8410",
-            "Longitude": "43.4688",
-            "Depth": "13.1",
-            "ML": "2.0",
-            "Location": "KARAAGAC VAN"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "14:03:39",
-            "Latitude": "38.8963",
-            "Longitude": "43.4450",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "13:34:51",
-            "Latitude": "39.6290",
-            "Longitude": "30.8073",
-            "Depth": "8.6",
-            "ML": "1.3",
-            "Location": "YAHNIKAPAN ODUNPAZARI ESKISEHIR"
         }
     ]
 }
