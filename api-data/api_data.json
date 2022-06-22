@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.06.22",
+            "Time": "13:49:27",
+            "Latitude": "38.6615",
+            "Longitude": "39.5698",
+            "Depth": "9.9",
+            "ML": "2.6",
+            "Location": "CATAKBASI KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "13:40:08",
+            "Latitude": "38.6705",
+            "Longitude": "30.9378",
+            "Depth": "6.4",
+            "ML": "0.7",
+            "Location": "KADIKOY CAY AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "13:28:40",
+            "Latitude": "38.5955",
+            "Longitude": "31.3977",
+            "Depth": "6.2",
+            "ML": "2.8",
+            "Location": "UCKUYU SULTANDAGI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "12:36:31",
+            "Latitude": "39.9625",
+            "Longitude": "28.8853",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "YORUCEKLER ORHANELI BURSA"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "12:12:34",
+            "Latitude": "39.5907",
+            "Longitude": "29.4443",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "KAYAARASI TAVSANLI KUTAHYA"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "12:03:01",
+            "Latitude": "39.3370",
+            "Longitude": "33.4242",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "KUCUKCAMILI BALA ANKARA"
+        },
+        {
+            "Date": "2022.06.22",
             "Time": "10:19:32",
             "Latitude": "40.3475",
             "Longitude": "24.2553",
@@ -4436,60 +4490,6 @@
             "Depth": "88.2",
             "ML": "2.1",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "03:51:34",
-            "Latitude": "40.7192",
-            "Longitude": "33.1708",
-            "Depth": "5.9",
-            "ML": "1.1",
-            "Location": "SUNURLU KURSUNLU CANKIRI"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "03:25:31",
-            "Latitude": "39.8075",
-            "Longitude": "27.9410",
-            "Depth": "12.4",
-            "ML": "1.4",
-            "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "03:18:13",
-            "Latitude": "38.8057",
-            "Longitude": "43.5588",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "AKCIFT VAN"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "03:01:40",
-            "Latitude": "39.8292",
-            "Longitude": "27.9518",
-            "Depth": "12.7",
-            "ML": "1.5",
-            "Location": "YAYLABAYIR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "02:57:11",
-            "Latitude": "38.9062",
-            "Longitude": "43.5068",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "COLPAN VAN"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "02:51:50",
-            "Latitude": "39.7615",
-            "Longitude": "37.5572",
-            "Depth": "7.3",
-            "ML": "2.0",
-            "Location": "TOPCUYENIKOY HAFIK SIVAS"
         }
     ]
 }
