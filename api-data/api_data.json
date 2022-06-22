@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.22",
+            "Time": "17:20:49",
+            "Latitude": "39.5827",
+            "Longitude": "39.4040",
+            "Depth": "5.2",
+            "ML": "1.8",
+            "Location": "CAKIRLAR KEMAH ERZINCAN"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "17:06:38",
+            "Latitude": "39.4998",
+            "Longitude": "35.3168",
+            "Depth": "7.5",
+            "ML": "1.2",
+            "Location": "TOMARCAHUYUGU SARIKAYA YOZGAT"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "16:52:09",
+            "Latitude": "39.4767",
+            "Longitude": "31.6043",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2022.06.22",
             "Time": "16:04:35",
             "Latitude": "35.7808",
             "Longitude": "30.9190",
@@ -4463,33 +4490,6 @@
             "Depth": "30.9",
             "ML": "2.0",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "05:52:17",
-            "Latitude": "35.1803",
-            "Longitude": "25.3253",
-            "Depth": "7.7",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "05:25:47",
-            "Latitude": "38.9938",
-            "Longitude": "27.8437",
-            "Depth": "9.8",
-            "ML": "2.2",
-            "Location": "GOKCEAHMET AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "05:05:52",
-            "Latitude": "35.9992",
-            "Longitude": "31.3470",
-            "Depth": "19.7",
-            "ML": "4.5",
-            "Location": "AKDENIZ"
         }
     ]
 }
