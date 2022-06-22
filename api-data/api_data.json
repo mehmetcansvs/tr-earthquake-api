@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.22",
+            "Time": "10:19:32",
+            "Latitude": "40.3475",
+            "Longitude": "24.2553",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "09:38:19",
+            "Latitude": "40.1072",
+            "Longitude": "27.2220",
+            "Depth": "9.8",
+            "ML": "2.0",
+            "Location": "YESILKOY BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "09:37:51",
+            "Latitude": "40.0727",
+            "Longitude": "27.2418",
+            "Depth": "10.7",
+            "ML": "1.9",
+            "Location": "ILICABASI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "09:25:19",
+            "Latitude": "40.0912",
+            "Longitude": "27.2530",
+            "Depth": "15.6",
+            "ML": "1.2",
+            "Location": "ILICABASI BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.22",
             "Time": "07:24:34",
             "Latitude": "34.6650",
             "Longitude": "23.3395",
@@ -4454,42 +4490,6 @@
             "Depth": "10.2",
             "ML": "1.0",
             "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "00:23:45",
-            "Latitude": "36.1870",
-            "Longitude": "28.4497",
-            "Depth": "27.3",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "00:10:16",
-            "Latitude": "36.4597",
-            "Longitude": "26.8055",
-            "Depth": "121.0",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "23:49:28",
-            "Latitude": "36.5917",
-            "Longitude": "36.4673",
-            "Depth": "10.1",
-            "ML": "1.6",
-            "Location": "AYGIRGOLU KIRIKHAN HATAY"
-        },
-        {
-            "Date": "2022.06.10",
-            "Time": "22:51:47",
-            "Latitude": "37.8813",
-            "Longitude": "27.9442",
-            "Depth": "4.8",
-            "ML": "1.7",
-            "Location": "EMIRDOGAN AYDIN"
         }
     ]
 }
