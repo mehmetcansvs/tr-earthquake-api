@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.22",
+            "Time": "19:20:54",
+            "Latitude": "37.4158",
+            "Longitude": "36.9420",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "KUYUMCULAR TURKOGLU KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.06.22",
             "Time": "17:20:49",
             "Latitude": "39.5827",
             "Longitude": "39.4040",
@@ -4481,15 +4490,6 @@
             "Depth": "11.3",
             "ML": "2.9",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "06:01:22",
-            "Latitude": "38.3518",
-            "Longitude": "23.5828",
-            "Depth": "30.9",
-            "ML": "2.0",
-            "Location": "YUNANISTAN"
         }
     ]
 }
