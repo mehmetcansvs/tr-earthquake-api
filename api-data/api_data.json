@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.06.22",
+            "Time": "19:41:06",
+            "Latitude": "38.1932",
+            "Longitude": "38.2132",
+            "Depth": "16.6",
+            "ML": "2.1",
+            "Location": "ATALAR YESILYURT MALATYA"
+        },
+        {
+            "Date": "2022.06.22",
             "Time": "19:20:54",
             "Latitude": "37.4158",
             "Longitude": "36.9420",
             "Depth": "5.0",
             "ML": "2.2",
             "Location": "KUYUMCULAR TURKOGLU KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "19:20:37",
+            "Latitude": "40.8767",
+            "Longitude": "28.0925",
+            "Depth": "6.6",
+            "ML": "1.6",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "18:05:42",
+            "Latitude": "36.3345",
+            "Longitude": "33.5000",
+            "Depth": "0.0",
+            "ML": "0.9",
+            "Location": "KAVAKOLUGU GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "17:47:06",
+            "Latitude": "39.1967",
+            "Longitude": "41.6062",
+            "Depth": "12.2",
+            "ML": "2.2",
+            "Location": "SAHVERDI HINIS ERZURUM"
         },
         {
             "Date": "2022.06.22",
@@ -4454,42 +4490,6 @@
             "Depth": "12.8",
             "ML": "1.5",
             "Location": "AKDAG GELENDOST ISPARTA"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "12:01:35",
-            "Latitude": "37.1063",
-            "Longitude": "35.7433",
-            "Depth": "16.6",
-            "ML": "2.3",
-            "Location": "TATLIKUYU CEYHAN ADANA"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "11:58:00",
-            "Latitude": "36.9048",
-            "Longitude": "38.8700",
-            "Depth": "6.9",
-            "ML": "2.0",
-            "Location": "KARATEPE AKCAKALE SANLIURFA"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "11:16:33",
-            "Latitude": "39.1452",
-            "Longitude": "27.5970",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "DARKALE SOMA MANISA"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "11:02:41",
-            "Latitude": "38.9817",
-            "Longitude": "27.8728",
-            "Depth": "5.1",
-            "ML": "2.1",
-            "Location": "KARABORKLU AKHISAR MANISA"
         }
     ]
 }
