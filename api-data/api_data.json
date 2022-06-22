@@ -38,6 +38,33 @@
         },
         {
             "Date": "2022.06.22",
+            "Time": "09:09:25",
+            "Latitude": "37.4363",
+            "Longitude": "26.5958",
+            "Depth": "11.2",
+            "ML": "1.6",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "09:04:04",
+            "Latitude": "39.5375",
+            "Longitude": "28.4107",
+            "Depth": "5.5",
+            "ML": "1.7",
+            "Location": "GURLEYEN DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "08:31:55",
+            "Latitude": "39.0728",
+            "Longitude": "27.5208",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "EGNEZ SOMA MANISA"
+        },
+        {
+            "Date": "2022.06.22",
             "Time": "07:24:34",
             "Latitude": "34.6650",
             "Longitude": "23.3395",
@@ -4463,33 +4490,6 @@
             "Depth": "7.3",
             "ML": "2.0",
             "Location": "TOPCUYENIKOY HAFIK SIVAS"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "02:19:20",
-            "Latitude": "39.6803",
-            "Longitude": "39.6562",
-            "Depth": "1.0",
-            "ML": "1.8",
-            "Location": "DENIZDAMI UZUMLU ERZINCAN"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "01:08:26",
-            "Latitude": "38.8213",
-            "Longitude": "43.5225",
-            "Depth": "5.0",
-            "ML": "3.6",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "00:51:14",
-            "Latitude": "37.0718",
-            "Longitude": "28.4153",
-            "Depth": "10.2",
-            "ML": "1.0",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
