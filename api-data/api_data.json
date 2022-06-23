@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.23",
+            "Time": "17:22:09",
+            "Latitude": "39.5848",
+            "Longitude": "27.0945",
+            "Depth": "7.2",
+            "ML": "2.1",
+            "Location": "CAMDIBI HAVRAN BALIKESIR"
+        },
+        {
+            "Date": "2022.06.23",
             "Time": "16:51:22",
             "Latitude": "36.1447",
             "Longitude": "33.5540",
@@ -4481,15 +4490,6 @@
             "Depth": "7.8",
             "ML": "0.8",
             "Location": "MALTEPE CAY AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "23:32:27",
-            "Latitude": "39.0885",
-            "Longitude": "27.7750",
-            "Depth": "9.9",
-            "ML": "1.8",
-            "Location": "ILYASLAR KIRKAGAC MANISA"
         }
     ]
 }
