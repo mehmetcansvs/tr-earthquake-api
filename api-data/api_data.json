@@ -1,6 +1,96 @@
 {
     "data": [
         {
+            "Date": "2022.06.23",
+            "Time": "03:28:33",
+            "Latitude": "40.2068",
+            "Longitude": "33.3923",
+            "Depth": "9.0",
+            "ML": "2.7",
+            "Location": "KILCAK KALECIK ANKARA"
+        },
+        {
+            "Date": "2022.06.23",
+            "Time": "02:25:21",
+            "Latitude": "35.7775",
+            "Longitude": "30.9590",
+            "Depth": "14.0",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.23",
+            "Time": "02:08:33",
+            "Latitude": "37.6552",
+            "Longitude": "37.9162",
+            "Depth": "6.6",
+            "ML": "2.2",
+            "Location": "YELBASTI BESNI ADIYAMAN"
+        },
+        {
+            "Date": "2022.06.23",
+            "Time": "01:44:22",
+            "Latitude": "40.9525",
+            "Longitude": "35.7553",
+            "Depth": "5.3",
+            "ML": "2.1",
+            "Location": "KAYACIK HAVZA SAMSUN"
+        },
+        {
+            "Date": "2022.06.23",
+            "Time": "00:00:37",
+            "Latitude": "39.8238",
+            "Longitude": "24.0875",
+            "Depth": "17.2",
+            "ML": "2.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "23:08:18",
+            "Latitude": "36.1572",
+            "Longitude": "35.9805",
+            "Depth": "3.9",
+            "ML": "1.6",
+            "Location": "BATIAYAZ SAMANDAG HATAY"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "22:06:02",
+            "Latitude": "40.1602",
+            "Longitude": "31.7185",
+            "Depth": "9.9",
+            "ML": "2.3",
+            "Location": "SEKLI BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "20:57:55",
+            "Latitude": "38.2615",
+            "Longitude": "30.7005",
+            "Depth": "27.4",
+            "ML": "1.3",
+            "Location": "OYNAGAN SUHUT AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "20:42:12",
+            "Latitude": "40.1422",
+            "Longitude": "41.2437",
+            "Depth": "16.6",
+            "ML": "2.5",
+            "Location": "AKDAG YAKUTIYE ERZURUM"
+        },
+        {
+            "Date": "2022.06.22",
+            "Time": "19:50:54",
+            "Latitude": "36.9267",
+            "Longitude": "27.5208",
+            "Depth": "7.9",
+            "ML": "2.0",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
             "Date": "2022.06.22",
             "Time": "19:41:06",
             "Latitude": "38.1932",
@@ -4400,96 +4490,6 @@
             "Depth": "11.5",
             "ML": "2.1",
             "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "17:51:09",
-            "Latitude": "38.8735",
-            "Longitude": "29.0992",
-            "Depth": "5.5",
-            "ML": "1.6",
-            "Location": "KARAKUR SAPHANE KUTAHYA"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "16:34:42",
-            "Latitude": "37.2075",
-            "Longitude": "37.5140",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "BUYUKKARAKUYU YAVUZELI GAZIANTEP"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "16:17:35",
-            "Latitude": "40.5310",
-            "Longitude": "29.2793",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "HAMZALI ORHANGAZI BURSA"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "16:12:57",
-            "Latitude": "34.2008",
-            "Longitude": "26.2565",
-            "Depth": "6.7",
-            "ML": "3.1",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "14:51:51",
-            "Latitude": "34.4323",
-            "Longitude": "23.8540",
-            "Depth": "15.6",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "13:55:55",
-            "Latitude": "38.9495",
-            "Longitude": "30.2705",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "YENICE IHSANIYE AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "13:24:50",
-            "Latitude": "39.3408",
-            "Longitude": "40.5670",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "CATMAOLUK ADAKLI BINGOL"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "13:12:27",
-            "Latitude": "40.7707",
-            "Longitude": "27.4270",
-            "Depth": "25.7",
-            "ML": "1.7",
-            "Location": "UCMAKDERE SARKOY TEKIRDAG"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "12:39:54",
-            "Latitude": "39.7727",
-            "Longitude": "35.1657",
-            "Depth": "8.0",
-            "ML": "1.6",
-            "Location": "KUCUKKOHNE SORGUN YOZGAT"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "12:01:42",
-            "Latitude": "38.1647",
-            "Longitude": "30.8838",
-            "Depth": "12.8",
-            "ML": "1.5",
-            "Location": "AKDAG GELENDOST ISPARTA"
         }
     ]
 }
