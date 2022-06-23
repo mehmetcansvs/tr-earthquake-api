@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.23",
+            "Time": "16:51:22",
+            "Latitude": "36.1447",
+            "Longitude": "33.5540",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.06.23",
             "Time": "14:49:45",
             "Latitude": "39.2925",
             "Longitude": "41.0510",
@@ -20,12 +29,30 @@
         },
         {
             "Date": "2022.06.23",
+            "Time": "14:36:33",
+            "Latitude": "38.7420",
+            "Longitude": "43.4480",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "YEMLICE VAN"
+        },
+        {
+            "Date": "2022.06.23",
             "Time": "14:10:25",
             "Latitude": "38.5252",
             "Longitude": "39.4512",
             "Depth": "5.0",
             "ML": "3.0",
             "Location": "GOLARDI ELAZIG"
+        },
+        {
+            "Date": "2022.06.23",
+            "Time": "13:45:51",
+            "Latitude": "38.9160",
+            "Longitude": "27.8373",
+            "Depth": "13.7",
+            "ML": "1.3",
+            "Location": "AKHISAR MANISA"
         },
         {
             "Date": "2022.06.23",
@@ -4463,33 +4490,6 @@
             "Depth": "9.9",
             "ML": "1.8",
             "Location": "ILYASLAR KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "23:20:20",
-            "Latitude": "35.3473",
-            "Longitude": "27.6757",
-            "Depth": "17.0",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "23:01:11",
-            "Latitude": "38.8353",
-            "Longitude": "43.5250",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "22:26:45",
-            "Latitude": "37.8378",
-            "Longitude": "26.3863",
-            "Depth": "11.8",
-            "ML": "1.2",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
