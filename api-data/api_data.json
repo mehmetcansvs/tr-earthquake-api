@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.23",
+            "Time": "09:55:04",
+            "Latitude": "36.8132",
+            "Longitude": "35.9803",
+            "Depth": "5.3",
+            "ML": "2.4",
+            "Location": "ISKENDERUN KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.23",
             "Time": "07:31:20",
             "Latitude": "36.9535",
             "Longitude": "27.6197",
@@ -4481,15 +4490,6 @@
             "Depth": "8.2",
             "ML": "2.0",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.11",
-            "Time": "21:04:20",
-            "Latitude": "38.8492",
-            "Longitude": "43.4760",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "KARAAGAC VAN"
         }
     ]
 }
