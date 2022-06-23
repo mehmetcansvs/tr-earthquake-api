@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.23",
+            "Time": "23:36:06",
+            "Latitude": "35.0582",
+            "Longitude": "23.2222",
+            "Depth": "23.9",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.23",
+            "Time": "23:06:37",
+            "Latitude": "35.2410",
+            "Longitude": "25.3633",
+            "Depth": "7.5",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.23",
             "Time": "19:27:36",
             "Latitude": "36.3753",
             "Longitude": "29.9195",
@@ -4472,24 +4490,6 @@
             "Depth": "7.1",
             "ML": "1.9",
             "Location": "KARAAGAC VAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "01:14:10",
-            "Latitude": "36.9495",
-            "Longitude": "27.7822",
-            "Depth": "6.5",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "01:04:15",
-            "Latitude": "40.7590",
-            "Longitude": "27.3107",
-            "Depth": "14.8",
-            "ML": "1.7",
-            "Location": "GUZELKOY SARKOY TEKIRDAG"
         }
     ]
 }
