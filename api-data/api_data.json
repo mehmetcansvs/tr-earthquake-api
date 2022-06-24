@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.24",
+            "Time": "17:25:58",
+            "Latitude": "36.8072",
+            "Longitude": "27.2715",
+            "Depth": "14.6",
+            "ML": "2.2",
+            "Location": "KOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "17:25:14",
+            "Latitude": "36.8422",
+            "Longitude": "27.4357",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "17:18:23",
+            "Latitude": "39.9152",
+            "Longitude": "36.3718",
+            "Depth": "7.3",
+            "ML": "2.1",
+            "Location": "KAMAN YILDIZELI SIVAS"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "17:17:49",
+            "Latitude": "39.8160",
+            "Longitude": "27.9310",
+            "Depth": "14.4",
+            "ML": "2.3",
+            "Location": "HALKAPINAR BALIKESIR"
+        },
+        {
+            "Date": "2022.06.24",
             "Time": "16:33:53",
             "Latitude": "41.1015",
             "Longitude": "28.9848",
@@ -4454,42 +4490,6 @@
             "Depth": "18.0",
             "ML": "1.7",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "13:38:08",
-            "Latitude": "37.0257",
-            "Longitude": "28.4343",
-            "Depth": "8.7",
-            "ML": "1.8",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "13:35:43",
-            "Latitude": "37.4353",
-            "Longitude": "36.3532",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "BESBUCAK ANDIRIN KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "12:59:20",
-            "Latitude": "41.7230",
-            "Longitude": "32.6652",
-            "Depth": "9.4",
-            "ML": "1.4",
-            "Location": "SOGUTLU BARTIN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "12:47:34",
-            "Latitude": "37.8037",
-            "Longitude": "27.1315",
-            "Depth": "2.9",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
