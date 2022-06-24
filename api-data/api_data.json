@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.24",
+            "Time": "12:23:05",
+            "Latitude": "39.0123",
+            "Longitude": "27.8600",
+            "Depth": "7.2",
+            "ML": "1.9",
+            "Location": "GOKCEAHMET AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "11:40:08",
+            "Latitude": "34.8458",
+            "Longitude": "24.8973",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "11:20:01",
+            "Latitude": "38.3350",
+            "Longitude": "26.0057",
+            "Depth": "16.8",
+            "ML": "2.2",
+            "Location": "SAKIZ ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "11:05:23",
+            "Latitude": "39.8715",
+            "Longitude": "28.9567",
+            "Depth": "5.2",
+            "ML": "1.5",
+            "Location": "SERCELER ORHANELI BURSA"
+        },
+        {
+            "Date": "2022.06.24",
             "Time": "10:49:04",
             "Latitude": "35.9945",
             "Longitude": "23.3030",
@@ -4454,42 +4490,6 @@
             "Depth": "31.0",
             "ML": "2.0",
             "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "04:03:48",
-            "Latitude": "36.9823",
-            "Longitude": "27.6572",
-            "Depth": "7.4",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "03:30:22",
-            "Latitude": "35.1092",
-            "Longitude": "24.8987",
-            "Depth": "22.1",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "02:39:23",
-            "Latitude": "36.5770",
-            "Longitude": "34.2093",
-            "Depth": "37.0",
-            "ML": "2.0",
-            "Location": "BATISANDAL ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "02:36:36",
-            "Latitude": "34.6865",
-            "Longitude": "25.2047",
-            "Depth": "23.7",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
