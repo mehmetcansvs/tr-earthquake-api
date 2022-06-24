@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.24",
+            "Time": "20:04:37",
+            "Latitude": "37.8713",
+            "Longitude": "26.9770",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "18:22:47",
+            "Latitude": "39.0073",
+            "Longitude": "27.9020",
+            "Depth": "13.1",
+            "ML": "1.8",
+            "Location": "YENICE AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "17:41:58",
+            "Latitude": "37.8645",
+            "Longitude": "26.9488",
+            "Depth": "5.3",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.24",
             "Time": "17:25:58",
             "Latitude": "36.8072",
             "Longitude": "27.2715",
@@ -4463,33 +4490,6 @@
             "Depth": "5.0",
             "ML": "2.9",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "15:05:05",
-            "Latitude": "35.8173",
-            "Longitude": "30.9777",
-            "Depth": "16.1",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "13:56:33",
-            "Latitude": "41.0053",
-            "Longitude": "42.9142",
-            "Depth": "3.0",
-            "ML": "3.2",
-            "Location": "OTBICEN ARDAHAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "13:43:12",
-            "Latitude": "39.9028",
-            "Longitude": "24.0468",
-            "Depth": "18.0",
-            "ML": "1.7",
-            "Location": "YUNANISTAN"
         }
     ]
 }
