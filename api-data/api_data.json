@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.06.24",
+            "Time": "01:56:05",
+            "Latitude": "38.5227",
+            "Longitude": "39.3495",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "CEVIZDERE ELAZIG"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "01:07:03",
+            "Latitude": "38.7550",
+            "Longitude": "39.5497",
+            "Depth": "10.0",
+            "ML": "1.8",
+            "Location": "VALI FAHRIBEY KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "00:48:20",
+            "Latitude": "38.0148",
+            "Longitude": "29.0803",
+            "Depth": "13.1",
+            "ML": "2.5",
+            "Location": "EYMIR DENIZLI"
+        },
+        {
             "Date": "2022.06.23",
             "Time": "23:36:06",
             "Latitude": "35.0582",
@@ -4463,33 +4490,6 @@
             "Depth": "29.5",
             "ML": "3.0",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "01:44:42",
-            "Latitude": "39.4182",
-            "Longitude": "23.9362",
-            "Depth": "12.8",
-            "ML": "2.0",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "01:35:08",
-            "Latitude": "39.8422",
-            "Longitude": "27.9487",
-            "Depth": "8.4",
-            "ML": "1.6",
-            "Location": "YAYLABAYIR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "01:17:06",
-            "Latitude": "38.8315",
-            "Longitude": "43.5035",
-            "Depth": "7.1",
-            "ML": "1.9",
-            "Location": "KARAAGAC VAN"
         }
     ]
 }
