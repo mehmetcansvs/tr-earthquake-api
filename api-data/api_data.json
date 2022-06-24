@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.24",
+            "Time": "08:23:46",
+            "Latitude": "39.0153",
+            "Longitude": "26.8732",
+            "Depth": "3.9",
+            "ML": "1.8",
+            "Location": "KATIRALANI DIKILI IZMIR"
+        },
+        {
+            "Date": "2022.06.24",
             "Time": "01:56:05",
             "Latitude": "38.5227",
             "Longitude": "39.3495",
@@ -4481,15 +4490,6 @@
             "Depth": "19.1",
             "ML": "1.7",
             "Location": "DEDEPINARI ELAZIG"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "01:53:24",
-            "Latitude": "36.0470",
-            "Longitude": "28.3092",
-            "Depth": "29.5",
-            "ML": "3.0",
-            "Location": "AKDENIZ"
         }
     ]
 }
