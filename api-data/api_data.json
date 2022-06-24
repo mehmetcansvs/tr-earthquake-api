@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.24",
+            "Time": "10:49:04",
+            "Latitude": "35.9945",
+            "Longitude": "23.3030",
+            "Depth": "5.3",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "10:18:08",
+            "Latitude": "38.6328",
+            "Longitude": "31.0905",
+            "Depth": "10.0",
+            "ML": "1.4",
+            "Location": "CAYIRPINAR CAY AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.24",
             "Time": "08:23:46",
             "Latitude": "39.0153",
             "Longitude": "26.8732",
@@ -4472,24 +4490,6 @@
             "Depth": "23.7",
             "ML": "2.1",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "02:35:48",
-            "Latitude": "40.4323",
-            "Longitude": "26.2950",
-            "Depth": "11.4",
-            "ML": "1.4",
-            "Location": "SAROS KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "01:58:39",
-            "Latitude": "38.5162",
-            "Longitude": "39.1737",
-            "Depth": "19.1",
-            "ML": "1.7",
-            "Location": "DEDEPINARI ELAZIG"
         }
     ]
 }
