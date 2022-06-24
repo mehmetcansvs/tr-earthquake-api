@@ -2,6 +2,87 @@
     "data": [
         {
             "Date": "2022.06.24",
+            "Time": "14:54:09",
+            "Latitude": "38.9382",
+            "Longitude": "26.0958",
+            "Depth": "6.7",
+            "ML": "2.6",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "14:11:13",
+            "Latitude": "39.8087",
+            "Longitude": "35.1843",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "SORGUN YOZGAT"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "14:07:56",
+            "Latitude": "36.1553",
+            "Longitude": "33.5320",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "13:46:26",
+            "Latitude": "40.1948",
+            "Longitude": "30.7642",
+            "Depth": "10.0",
+            "ML": "1.7",
+            "Location": "ASAGIKINIK GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "13:44:36",
+            "Latitude": "38.2210",
+            "Longitude": "38.8385",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "ORMELI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "13:44:25",
+            "Latitude": "39.9802",
+            "Longitude": "25.6760",
+            "Depth": "5.3",
+            "ML": "1.5",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "13:41:43",
+            "Latitude": "40.2350",
+            "Longitude": "30.8035",
+            "Depth": "20.4",
+            "ML": "1.7",
+            "Location": "HIMMETOGLU GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "13:27:08",
+            "Latitude": "38.7912",
+            "Longitude": "31.1232",
+            "Depth": "5.2",
+            "ML": "1.5",
+            "Location": "KARAYOKUS BOLVADIN AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.24",
+            "Time": "12:57:44",
+            "Latitude": "34.4778",
+            "Longitude": "24.6082",
+            "Depth": "1.0",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.24",
             "Time": "12:23:05",
             "Latitude": "39.0123",
             "Longitude": "27.8600",
@@ -4409,87 +4490,6 @@
             "Depth": "7.0",
             "ML": "1.8",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "10:09:12",
-            "Latitude": "38.8193",
-            "Longitude": "43.6385",
-            "Depth": "17.5",
-            "ML": "3.2",
-            "Location": "ERISEN MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "09:43:54",
-            "Latitude": "38.1365",
-            "Longitude": "25.8398",
-            "Depth": "9.9",
-            "ML": "2.5",
-            "Location": "SAKIZ ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "08:36:01",
-            "Latitude": "38.6007",
-            "Longitude": "30.8832",
-            "Depth": "5.3",
-            "ML": "1.2",
-            "Location": "MALTEPE CAY AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "08:18:16",
-            "Latitude": "38.0797",
-            "Longitude": "32.7225",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "KARAOMERLER SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "07:38:50",
-            "Latitude": "37.6335",
-            "Longitude": "27.0220",
-            "Depth": "8.3",
-            "ML": "1.8",
-            "Location": "DOGANBEY ACIKLARI AYDIN EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "07:29:02",
-            "Latitude": "36.1070",
-            "Longitude": "31.3647",
-            "Depth": "17.0",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "07:11:09",
-            "Latitude": "35.0630",
-            "Longitude": "23.3992",
-            "Depth": "26.4",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "07:10:36",
-            "Latitude": "38.6763",
-            "Longitude": "43.0802",
-            "Depth": "4.0",
-            "ML": "2.4",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "06:34:51",
-            "Latitude": "36.2930",
-            "Longitude": "27.5772",
-            "Depth": "31.0",
-            "ML": "2.0",
-            "Location": "DATCA ACIKLARI MUGLA AKDENIZ"
         }
     ]
 }
