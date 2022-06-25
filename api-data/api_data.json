@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.06.25",
+            "Time": "08:32:24",
+            "Latitude": "38.1810",
+            "Longitude": "28.4110",
+            "Depth": "20.9",
+            "ML": "1.5",
+            "Location": "TASLIYATAK KIRAZ IZMIR"
+        },
+        {
+            "Date": "2022.06.25",
+            "Time": "08:27:00",
+            "Latitude": "41.0627",
+            "Longitude": "42.0288",
+            "Depth": "5.3",
+            "ML": "2.4",
+            "Location": "TORBALI ARDANUC ARTVIN"
+        },
+        {
+            "Date": "2022.06.25",
+            "Time": "07:54:59",
+            "Latitude": "39.5970",
+            "Longitude": "25.9968",
+            "Depth": "9.9",
+            "ML": "2.3",
+            "Location": "TAVAKLI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.25",
+            "Time": "07:46:09",
+            "Latitude": "36.7060",
+            "Longitude": "29.3615",
+            "Depth": "7.0",
+            "ML": "1.9",
+            "Location": "ATLIDERE FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.06.25",
+            "Time": "07:14:53",
+            "Latitude": "36.8023",
+            "Longitude": "27.3217",
+            "Depth": "5.8",
+            "ML": "2.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.25",
             "Time": "05:54:29",
             "Latitude": "40.6623",
             "Longitude": "31.5290",
@@ -4445,51 +4490,6 @@
             "Depth": "13.4",
             "ML": "1.5",
             "Location": "DEGIRMENOZU VAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "21:57:38",
-            "Latitude": "38.8263",
-            "Longitude": "43.3688",
-            "Depth": "14.9",
-            "ML": "1.5",
-            "Location": "YAYLIYAKA VAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "21:54:39",
-            "Latitude": "38.9210",
-            "Longitude": "43.3762",
-            "Depth": "9.4",
-            "ML": "2.2",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "21:48:31",
-            "Latitude": "38.8517",
-            "Longitude": "43.5180",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "21:46:07",
-            "Latitude": "38.8423",
-            "Longitude": "43.4872",
-            "Depth": "1.7",
-            "ML": "2.5",
-            "Location": "KARAAGAC VAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "21:44:48",
-            "Latitude": "38.8363",
-            "Longitude": "43.3457",
-            "Depth": "7.4",
-            "ML": "2.3",
-            "Location": "HALKALI VAN"
         }
     ]
 }
