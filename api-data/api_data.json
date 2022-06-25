@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.25",
+            "Time": "18:12:29",
+            "Latitude": "35.0820",
+            "Longitude": "23.4253",
+            "Depth": "28.2",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.25",
             "Time": "15:57:00",
             "Latitude": "37.9845",
             "Longitude": "35.5852",
@@ -4481,15 +4490,6 @@
             "Depth": "10.2",
             "ML": "1.9",
             "Location": "BOZDAG ODEMIS IZMIR"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "04:59:19",
-            "Latitude": "41.6412",
-            "Longitude": "32.6575",
-            "Depth": "11.3",
-            "ML": "1.8",
-            "Location": "ABDURRAHMAN ULUS BARTIN"
         }
     ]
 }
