@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.25",
+            "Time": "05:13:42",
+            "Latitude": "41.0183",
+            "Longitude": "24.8953",
+            "Depth": "8.4",
+            "ML": "1.9",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.25",
+            "Time": "04:48:31",
+            "Latitude": "40.6682",
+            "Longitude": "31.5527",
+            "Depth": "22.9",
+            "ML": "2.2",
+            "Location": "SULTAN BOLU"
+        },
+        {
+            "Date": "2022.06.25",
             "Time": "02:36:26",
             "Latitude": "39.1993",
             "Longitude": "27.4832",
@@ -4472,24 +4490,6 @@
             "Depth": "6.5",
             "ML": "2.2",
             "Location": "HALKALI VAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "21:40:53",
-            "Latitude": "38.8392",
-            "Longitude": "43.5197",
-            "Depth": "5.0",
-            "ML": "2.9",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "21:35:17",
-            "Latitude": "38.8018",
-            "Longitude": "43.6332",
-            "Depth": "5.0",
-            "ML": "5.2",
-            "Location": "KUSCU MURADIYE VAN"
         }
     ]
 }
