@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.25",
+            "Time": "05:54:29",
+            "Latitude": "40.6623",
+            "Longitude": "31.5290",
+            "Depth": "18.1",
+            "ML": "1.9",
+            "Location": "CEPNI BOLU"
+        },
+        {
+            "Date": "2022.06.25",
             "Time": "05:13:42",
             "Latitude": "41.0183",
             "Longitude": "24.8953",
@@ -4480,15 +4489,6 @@
             "Longitude": "43.3457",
             "Depth": "7.4",
             "ML": "2.3",
-            "Location": "HALKALI VAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "21:43:05",
-            "Latitude": "38.8285",
-            "Longitude": "43.3005",
-            "Depth": "6.5",
-            "ML": "2.2",
             "Location": "HALKALI VAN"
         }
     ]
