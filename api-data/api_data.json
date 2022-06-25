@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.25",
+            "Time": "21:35:02",
+            "Latitude": "40.7505",
+            "Longitude": "29.0813",
+            "Depth": "10.6",
+            "ML": "1.9",
+            "Location": "CINARCIK ACIKLARI YALOVA MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.06.25",
+            "Time": "21:34:52",
+            "Latitude": "40.7550",
+            "Longitude": "29.1355",
+            "Depth": "1.9",
+            "ML": "2.0",
+            "Location": "YALOVA ACIKLARI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.06.25",
             "Time": "18:30:04",
             "Latitude": "35.1513",
             "Longitude": "26.8812",
@@ -17,6 +35,15 @@
             "Depth": "8.9",
             "ML": "2.3",
             "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.25",
+            "Time": "18:25:37",
+            "Latitude": "37.1258",
+            "Longitude": "27.6207",
+            "Depth": "7.3",
+            "ML": "1.7",
+            "Location": "KEMER BODRUM MUGLA"
         },
         {
             "Date": "2022.06.25",
@@ -4463,33 +4490,6 @@
             "Depth": "8.1",
             "ML": "2.5",
             "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "10:32:06",
-            "Latitude": "40.2842",
-            "Longitude": "42.5178",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "HANDERE SARIKAMIS KARS"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "10:30:53",
-            "Latitude": "40.8447",
-            "Longitude": "27.8390",
-            "Depth": "7.0",
-            "ML": "2.1",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "10:13:20",
-            "Latitude": "38.7835",
-            "Longitude": "43.5242",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "MEYDANCIK VAN"
         }
     ]
 }
