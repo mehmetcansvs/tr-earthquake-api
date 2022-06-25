@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.25",
+            "Time": "02:36:26",
+            "Latitude": "39.1993",
+            "Longitude": "27.4832",
+            "Depth": "7.9",
+            "ML": "2.5",
+            "Location": "CERKEZ HAMIDIYE SOMA MANISA"
+        },
+        {
+            "Date": "2022.06.25",
+            "Time": "02:29:06",
+            "Latitude": "37.6470",
+            "Longitude": "25.9960",
+            "Depth": "12.6",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.25",
             "Time": "00:06:55",
             "Latitude": "38.5333",
             "Longitude": "44.0052",
@@ -4472,24 +4490,6 @@
             "Depth": "5.0",
             "ML": "5.2",
             "Location": "KUSCU MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "19:35:04",
-            "Latitude": "34.6950",
-            "Longitude": "33.9377",
-            "Depth": "29.3",
-            "ML": "3.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.12",
-            "Time": "18:57:22",
-            "Latitude": "39.3075",
-            "Longitude": "29.4885",
-            "Depth": "14.3",
-            "ML": "1.3",
-            "Location": "CERTE EMET KUTAHYA"
         }
     ]
 }
