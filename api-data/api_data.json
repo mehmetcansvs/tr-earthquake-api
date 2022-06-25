@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.25",
+            "Time": "14:22:49",
+            "Latitude": "36.1965",
+            "Longitude": "33.6873",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "YESILOVACIK SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.06.25",
             "Time": "12:46:02",
             "Latitude": "39.1378",
             "Longitude": "27.5800",
@@ -4481,15 +4490,6 @@
             "Depth": "16.1",
             "ML": "1.8",
             "Location": "GEDIKBULAK VAN"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "01:29:54",
-            "Latitude": "38.8562",
-            "Longitude": "43.5415",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "BAGDASAN VAN"
         }
     ]
 }
