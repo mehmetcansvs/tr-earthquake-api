@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.26",
+            "Time": "04:37:27",
+            "Latitude": "38.6027",
+            "Longitude": "27.9563",
+            "Depth": "6.6",
+            "ML": "2.8",
+            "Location": "TEKELIOGLU SALIHLI MANISA"
+        },
+        {
+            "Date": "2022.06.26",
             "Time": "04:00:52",
             "Latitude": "38.9932",
             "Longitude": "27.8690",
@@ -4481,15 +4490,6 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "14:05:03",
-            "Latitude": "41.2015",
-            "Longitude": "24.8785",
-            "Depth": "5.4",
-            "ML": "2.3",
-            "Location": "YUNANISTAN"
         }
     ]
 }
