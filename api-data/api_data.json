@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.26",
+            "Time": "22:45:03",
+            "Latitude": "38.3792",
+            "Longitude": "39.0973",
+            "Depth": "6.4",
+            "ML": "1.9",
+            "Location": "KALABA SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "22:22:23",
+            "Latitude": "38.8717",
+            "Longitude": "43.6823",
+            "Depth": "6.1",
+            "ML": "2.1",
+            "Location": "TOPUZARPA MURADIYE VAN"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "22:20:02",
+            "Latitude": "35.6410",
+            "Longitude": "26.6843",
+            "Depth": "6.7",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.26",
             "Time": "20:27:01",
             "Latitude": "39.1090",
             "Longitude": "27.8232",
@@ -4454,33 +4481,6 @@
             "Depth": "0.0",
             "ML": "0.9",
             "Location": "KARADIGINDERESI MERAM KONYA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "10:46:13",
-            "Latitude": "35.1725",
-            "Longitude": "25.3272",
-            "Depth": "5.5",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "09:28:15",
-            "Latitude": "40.7033",
-            "Longitude": "27.4698",
-            "Depth": "11.8",
-            "ML": "1.8",
-            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "08:23:50",
-            "Latitude": "40.7005",
-            "Longitude": "30.3077",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "UZUNKUM SAPANCA SAKARYA"
         }
     ]
 }
