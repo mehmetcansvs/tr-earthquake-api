@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.26",
+            "Time": "20:27:01",
+            "Latitude": "39.1090",
+            "Longitude": "27.8232",
+            "Depth": "15.6",
+            "ML": "2.4",
+            "Location": "KARAKURT KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "19:22:38",
+            "Latitude": "37.4743",
+            "Longitude": "38.3665",
+            "Depth": "0.0",
+            "ML": "2.0",
+            "Location": "DUTLUCA BOZOVA SANLIURFA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "19:19:57",
+            "Latitude": "40.7907",
+            "Longitude": "27.7287",
+            "Depth": "12.4",
+            "ML": "2.7",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.06.26",
             "Time": "18:42:16",
             "Latitude": "39.0970",
             "Longitude": "27.8177",
@@ -4454,33 +4481,6 @@
             "Depth": "0.0",
             "ML": "1.8",
             "Location": "UZUNKUM SAPANCA SAKARYA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "08:18:26",
-            "Latitude": "38.8747",
-            "Longitude": "43.6227",
-            "Depth": "15.4",
-            "ML": "2.5",
-            "Location": "KELLE VAN"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "07:58:19",
-            "Latitude": "38.8352",
-            "Longitude": "43.5802",
-            "Depth": "5.0",
-            "ML": "3.4",
-            "Location": "AKCIFT VAN"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "07:41:48",
-            "Latitude": "38.7257",
-            "Longitude": "43.5747",
-            "Depth": "26.1",
-            "ML": "2.4",
-            "Location": "ASAGIGOLALAN VAN"
         }
     ]
 }
