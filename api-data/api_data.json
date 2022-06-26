@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.06.27",
+            "Time": "00:27:25",
+            "Latitude": "40.7290",
+            "Longitude": "29.1758",
+            "Depth": "6.0",
+            "ML": "1.6",
+            "Location": "YALOVA ACIKLARI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "23:52:04",
+            "Latitude": "38.8803",
+            "Longitude": "43.5128",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "ERMISLER VAN"
+        },
+        {
             "Date": "2022.06.26",
             "Time": "22:45:03",
             "Latitude": "38.3792",
@@ -35,6 +53,24 @@
             "Depth": "15.6",
             "ML": "2.4",
             "Location": "KARAKURT KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "20:21:15",
+            "Latitude": "36.8962",
+            "Longitude": "38.2250",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "KARACA SURUC SANLIURFA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "19:47:19",
+            "Latitude": "39.9505",
+            "Longitude": "26.1795",
+            "Depth": "3.3",
+            "ML": "1.2",
+            "Location": "YENIKOY EZINE CANAKKALE"
         },
         {
             "Date": "2022.06.26",
@@ -4445,42 +4481,6 @@
             "Depth": "3.3",
             "ML": "3.0",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "12:01:08",
-            "Latitude": "37.1690",
-            "Longitude": "37.2280",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "YESILCE SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "11:57:48",
-            "Latitude": "35.0197",
-            "Longitude": "25.2562",
-            "Depth": "10.1",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "11:57:48",
-            "Latitude": "35.4007",
-            "Longitude": "25.3037",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "11:45:27",
-            "Latitude": "37.7055",
-            "Longitude": "32.3492",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "KARADIGINDERESI MERAM KONYA"
         }
     ]
 }
