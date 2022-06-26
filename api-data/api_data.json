@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.26",
+            "Time": "18:42:16",
+            "Latitude": "39.0970",
+            "Longitude": "27.8177",
+            "Depth": "5.9",
+            "ML": "2.6",
+            "Location": "KARAKURT KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "17:14:14",
+            "Latitude": "37.0455",
+            "Longitude": "28.9640",
+            "Depth": "13.7",
+            "ML": "1.7",
+            "Location": "OTMANLAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.06.26",
             "Time": "15:37:58",
             "Latitude": "36.7448",
             "Longitude": "30.1795",
@@ -4463,24 +4481,6 @@
             "Depth": "26.1",
             "ML": "2.4",
             "Location": "ASAGIGOLALAN VAN"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "07:39:05",
-            "Latitude": "40.2585",
-            "Longitude": "33.4510",
-            "Depth": "12.5",
-            "ML": "2.0",
-            "Location": "CANDIR KALECIK ANKARA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "07:27:09",
-            "Latitude": "38.9172",
-            "Longitude": "43.4897",
-            "Depth": "4.0",
-            "ML": "2.4",
-            "Location": "VAN GOLU"
         }
     ]
 }
