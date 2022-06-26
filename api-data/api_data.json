@@ -2,6 +2,87 @@
     "data": [
         {
             "Date": "2022.06.26",
+            "Time": "10:58:11",
+            "Latitude": "39.4190",
+            "Longitude": "26.1450",
+            "Depth": "15.5",
+            "ML": "1.6",
+            "Location": "KOYUNEVI AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "10:13:21",
+            "Latitude": "36.8707",
+            "Longitude": "30.0852",
+            "Depth": "13.5",
+            "ML": "1.5",
+            "Location": "OZDEMIR ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "10:04:35",
+            "Latitude": "36.7823",
+            "Longitude": "30.1667",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "OVACIK ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "09:59:42",
+            "Latitude": "39.9945",
+            "Longitude": "24.3718",
+            "Depth": "14.9",
+            "ML": "3.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "09:58:21",
+            "Latitude": "36.7842",
+            "Longitude": "30.1688",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "OVACIK ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "09:38:15",
+            "Latitude": "36.8007",
+            "Longitude": "30.1395",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "OVACIK ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "09:36:11",
+            "Latitude": "38.8938",
+            "Longitude": "43.5327",
+            "Depth": "9.1",
+            "ML": "1.7",
+            "Location": "COLPAN VAN"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "09:35:55",
+            "Latitude": "40.0048",
+            "Longitude": "24.3505",
+            "Depth": "8.2",
+            "ML": "2.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "09:25:04",
+            "Latitude": "40.0000",
+            "Longitude": "24.3858",
+            "Depth": "15.7",
+            "ML": "3.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.26",
             "Time": "08:48:35",
             "Latitude": "36.7582",
             "Longitude": "30.1680",
@@ -17,6 +98,15 @@
             "Depth": "2.9",
             "ML": "1.4",
             "Location": "OVACIK ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "08:12:21",
+            "Latitude": "34.9638",
+            "Longitude": "23.2008",
+            "Depth": "24.1",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.06.26",
@@ -4400,96 +4490,6 @@
             "Depth": "13.5",
             "ML": "1.6",
             "Location": "SELIMIYE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "02:51:29",
-            "Latitude": "36.7235",
-            "Longitude": "28.0350",
-            "Depth": "1.9",
-            "ML": "1.7",
-            "Location": "BOZBURUN MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "02:49:55",
-            "Latitude": "36.7560",
-            "Longitude": "28.0173",
-            "Depth": "5.3",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "02:48:32",
-            "Latitude": "36.7580",
-            "Longitude": "28.0670",
-            "Depth": "6.6",
-            "ML": "2.9",
-            "Location": "TURGUTKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "02:47:39",
-            "Latitude": "36.7457",
-            "Longitude": "28.0640",
-            "Depth": "6.6",
-            "ML": "2.7",
-            "Location": "SELIMIYE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "02:43:28",
-            "Latitude": "36.4655",
-            "Longitude": "27.0748",
-            "Depth": "3.0",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "01:18:12",
-            "Latitude": "38.8615",
-            "Longitude": "43.4837",
-            "Depth": "6.9",
-            "ML": "2.2",
-            "Location": "KARAAGAC VAN"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "01:08:35",
-            "Latitude": "38.8393",
-            "Longitude": "43.5143",
-            "Depth": "5.0",
-            "ML": "3.4",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "22:19:32",
-            "Latitude": "37.1675",
-            "Longitude": "28.0772",
-            "Depth": "15.2",
-            "ML": "2.5",
-            "Location": "CIRPI MUGLA"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "20:06:56",
-            "Latitude": "36.5367",
-            "Longitude": "28.9765",
-            "Depth": "13.6",
-            "ML": "1.8",
-            "Location": "OLUDENIZ ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "18:11:22",
-            "Latitude": "38.8908",
-            "Longitude": "43.7027",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "TOPUZARPA MURADIYE VAN"
         }
     ]
 }
