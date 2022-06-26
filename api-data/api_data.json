@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.06.26",
+            "Time": "14:54:28",
+            "Latitude": "39.1863",
+            "Longitude": "29.4440",
+            "Depth": "6.1",
+            "ML": "1.4",
+            "Location": "PUSATLAR CAVDARHISAR KUTAHYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "14:43:57",
+            "Latitude": "37.0362",
+            "Longitude": "28.2213",
+            "Depth": "2.3",
+            "ML": "1.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "14:10:19",
+            "Latitude": "34.6933",
+            "Longitude": "33.0152",
+            "Depth": "4.1",
+            "ML": "2.1",
+            "Location": "GUNEY KIBRIS"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "13:38:47",
+            "Latitude": "36.2568",
+            "Longitude": "33.6862",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "ISIKLI SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "13:23:32",
+            "Latitude": "34.6492",
+            "Longitude": "33.0037",
+            "Depth": "4.8",
+            "ML": "3.0",
+            "Location": "GUNEY KIBRIS"
+        },
+        {
+            "Date": "2022.06.26",
             "Time": "12:46:47",
             "Latitude": "37.0543",
             "Longitude": "28.2470",
@@ -4436,51 +4481,6 @@
             "Depth": "2.5",
             "ML": "3.3",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "06:07:00",
-            "Latitude": "36.7007",
-            "Longitude": "28.2378",
-            "Depth": "4.8",
-            "ML": "1.3",
-            "Location": "OSMANIYE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "05:27:28",
-            "Latitude": "38.9102",
-            "Longitude": "43.4978",
-            "Depth": "26.3",
-            "ML": "1.9",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "05:25:55",
-            "Latitude": "38.8563",
-            "Longitude": "43.5212",
-            "Depth": "11.8",
-            "ML": "2.3",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "04:27:31",
-            "Latitude": "36.7608",
-            "Longitude": "28.0587",
-            "Depth": "3.9",
-            "ML": "3.2",
-            "Location": "TURGUTKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "04:19:03",
-            "Latitude": "36.7462",
-            "Longitude": "28.0345",
-            "Depth": "12.8",
-            "ML": "1.4",
-            "Location": "SELIMIYE MARMARIS MUGLA"
         }
     ]
 }
