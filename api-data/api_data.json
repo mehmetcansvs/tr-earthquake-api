@@ -2,6 +2,105 @@
     "data": [
         {
             "Date": "2022.06.26",
+            "Time": "12:46:47",
+            "Latitude": "37.0543",
+            "Longitude": "28.2470",
+            "Depth": "8.0",
+            "ML": "2.2",
+            "Location": "KIRAN MUGLA REVIZE FAHRALI CAYIRALAN YOZGAT"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "12:38:19",
+            "Latitude": "40.1443",
+            "Longitude": "31.8377",
+            "Depth": "0.0",
+            "ML": "2.1",
+            "Location": "KUYUCAK BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "12:14:47",
+            "Latitude": "36.8212",
+            "Longitude": "30.1442",
+            "Depth": "8.2",
+            "ML": "1.8",
+            "Location": "OVACIK ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "12:13:40",
+            "Latitude": "37.8902",
+            "Longitude": "25.2708",
+            "Depth": "5.5",
+            "ML": "2.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "11:58:57",
+            "Latitude": "37.0507",
+            "Longitude": "28.2243",
+            "Depth": "5.1",
+            "ML": "2.1",
+            "Location": "KIRAN MUGLA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "11:38:13",
+            "Latitude": "38.9328",
+            "Longitude": "43.4543",
+            "Depth": "11.0",
+            "ML": "2.2",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "11:29:46",
+            "Latitude": "36.7402",
+            "Longitude": "30.1698",
+            "Depth": "6.3",
+            "ML": "1.8",
+            "Location": "OVACIK ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "11:29:03",
+            "Latitude": "36.7857",
+            "Longitude": "30.1712",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "OVACIK ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "11:28:28",
+            "Latitude": "36.8227",
+            "Longitude": "30.1280",
+            "Depth": "3.9",
+            "ML": "1.7",
+            "Location": "KARAKOY ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "11:21:32",
+            "Latitude": "36.7308",
+            "Longitude": "30.2027",
+            "Depth": "3.2",
+            "ML": "2.1",
+            "Location": "OVACIK ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "11:20:08",
+            "Latitude": "36.8912",
+            "Longitude": "30.0727",
+            "Depth": "12.9",
+            "ML": "1.6",
+            "Location": "OZDEMIR ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
             "Time": "10:58:11",
             "Latitude": "39.4190",
             "Longitude": "26.1450",
@@ -4381,114 +4480,6 @@
             "Longitude": "28.0345",
             "Depth": "12.8",
             "ML": "1.4",
-            "Location": "SELIMIYE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "04:17:44",
-            "Latitude": "36.7597",
-            "Longitude": "28.0507",
-            "Depth": "2.8",
-            "ML": "2.4",
-            "Location": "TURGUTKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "04:10:52",
-            "Latitude": "36.7412",
-            "Longitude": "28.0352",
-            "Depth": "11.1",
-            "ML": "1.8",
-            "Location": "SELIMIYE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "03:41:52",
-            "Latitude": "36.7643",
-            "Longitude": "28.0562",
-            "Depth": "5.7",
-            "ML": "3.5",
-            "Location": "TURGUTKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "03:26:14",
-            "Latitude": "36.7787",
-            "Longitude": "28.0620",
-            "Depth": "6.3",
-            "ML": "2.1",
-            "Location": "TURGUTKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "03:23:44",
-            "Latitude": "36.7907",
-            "Longitude": "28.0553",
-            "Depth": "8.3",
-            "ML": "2.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "03:14:35",
-            "Latitude": "36.7248",
-            "Longitude": "28.0382",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "BOZBURUN MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "03:13:04",
-            "Latitude": "36.7770",
-            "Longitude": "28.0617",
-            "Depth": "6.1",
-            "ML": "3.6",
-            "Location": "TURGUTKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "03:12:04",
-            "Latitude": "36.7380",
-            "Longitude": "28.0640",
-            "Depth": "11.6",
-            "ML": "2.6",
-            "Location": "SELIMIYE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "03:11:09",
-            "Latitude": "36.7727",
-            "Longitude": "28.0590",
-            "Depth": "7.5",
-            "ML": "2.9",
-            "Location": "TURGUTKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "03:07:38",
-            "Latitude": "36.7498",
-            "Longitude": "28.0660",
-            "Depth": "7.3",
-            "ML": "3.6",
-            "Location": "TURGUTKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "02:56:54",
-            "Latitude": "36.7763",
-            "Longitude": "28.0548",
-            "Depth": "3.6",
-            "ML": "1.8",
-            "Location": "TURGUTKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "02:53:30",
-            "Latitude": "36.7345",
-            "Longitude": "28.0645",
-            "Depth": "13.5",
-            "ML": "1.6",
             "Location": "SELIMIYE MARMARIS MUGLA"
         }
     ]
