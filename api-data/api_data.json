@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.26",
+            "Time": "15:37:58",
+            "Latitude": "36.7448",
+            "Longitude": "30.1795",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "OVACIK ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "15:21:03",
+            "Latitude": "36.4650",
+            "Longitude": "27.1453",
+            "Depth": "5.3",
+            "ML": "2.3",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.26",
             "Time": "14:54:28",
             "Latitude": "39.1863",
             "Longitude": "29.4440",
@@ -4463,24 +4481,6 @@
             "Depth": "4.0",
             "ML": "2.4",
             "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "07:23:20",
-            "Latitude": "38.8592",
-            "Longitude": "43.4817",
-            "Depth": "1.6",
-            "ML": "2.6",
-            "Location": "KARAAGAC VAN"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "06:53:08",
-            "Latitude": "35.2615",
-            "Longitude": "26.2797",
-            "Depth": "2.5",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
