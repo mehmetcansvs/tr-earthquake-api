@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.06.26",
+            "Time": "04:00:52",
+            "Latitude": "38.9932",
+            "Longitude": "27.8690",
+            "Depth": "6.5",
+            "ML": "1.8",
+            "Location": "KARABORKLU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "02:40:09",
+            "Latitude": "36.8612",
+            "Longitude": "27.7250",
+            "Depth": "3.1",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "02:38:38",
+            "Latitude": "36.9137",
+            "Longitude": "27.7760",
+            "Depth": "13.7",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "02:26:28",
+            "Latitude": "37.0320",
+            "Longitude": "28.3665",
+            "Depth": "2.1",
+            "ML": "1.4",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.26",
+            "Time": "02:21:36",
+            "Latitude": "40.1435",
+            "Longitude": "31.6822",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "ULUKOY NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2022.06.26",
             "Time": "00:33:19",
             "Latitude": "36.9002",
             "Longitude": "27.6347",
@@ -4445,51 +4490,6 @@
             "Depth": "5.4",
             "ML": "2.3",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "13:50:29",
-            "Latitude": "39.1528",
-            "Longitude": "29.3685",
-            "Depth": "28.0",
-            "ML": "1.1",
-            "Location": "YESILOVA GEDIZ KUTAHYA"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "13:43:32",
-            "Latitude": "37.0277",
-            "Longitude": "28.3955",
-            "Depth": "9.3",
-            "ML": "1.4",
-            "Location": "SIRINKOY ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "13:29:14",
-            "Latitude": "38.8650",
-            "Longitude": "43.4943",
-            "Depth": "5.0",
-            "ML": "3.3",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "12:39:00",
-            "Latitude": "38.4578",
-            "Longitude": "28.3005",
-            "Depth": "27.8",
-            "ML": "1.4",
-            "Location": "KOSEALI SALIHLI MANISA"
-        },
-        {
-            "Date": "2022.06.13",
-            "Time": "12:35:48",
-            "Latitude": "39.6623",
-            "Longitude": "30.1117",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "KUMBETYENIKOY INONU ESKISEHIR"
         }
     ]
 }
