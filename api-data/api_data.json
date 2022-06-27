@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.27",
+            "Time": "06:11:49",
+            "Latitude": "36.3370",
+            "Longitude": "28.4653",
+            "Depth": "19.0",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "05:13:55",
+            "Latitude": "38.1847",
+            "Longitude": "30.7330",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "GENCALI SENIRKENT ISPARTA"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "05:07:04",
+            "Latitude": "38.6020",
+            "Longitude": "44.2673",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "BEYARSLAN SARAY VAN"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "04:59:09",
+            "Latitude": "40.8732",
+            "Longitude": "35.9683",
+            "Depth": "8.8",
+            "ML": "2.3",
+            "Location": "CAKIRGUMUS LADIK SAMSUN"
+        },
+        {
+            "Date": "2022.06.27",
             "Time": "03:53:15",
             "Latitude": "38.9768",
             "Longitude": "29.9407",
@@ -11,12 +47,75 @@
         },
         {
             "Date": "2022.06.27",
+            "Time": "03:43:03",
+            "Latitude": "38.6095",
+            "Longitude": "27.7888",
+            "Depth": "9.5",
+            "ML": "1.5",
+            "Location": "AKKOY TURGUTLU MANISA"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "03:38:34",
+            "Latitude": "39.3678",
+            "Longitude": "31.5222",
+            "Depth": "5.3",
+            "ML": "1.2",
+            "Location": "ASAGIKEPEN SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "03:27:54",
+            "Latitude": "39.0728",
+            "Longitude": "29.8343",
+            "Depth": "5.0",
+            "ML": "1.2",
+            "Location": "ASLIHANLAR ASLANAPA KUTAHYA"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "03:25:20",
+            "Latitude": "37.5612",
+            "Longitude": "29.2408",
+            "Depth": "4.1",
+            "ML": "0.9",
+            "Location": "SERINHISAR DENIZLI"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "03:02:48",
+            "Latitude": "40.3098",
+            "Longitude": "34.3587",
+            "Depth": "17.9",
+            "ML": "1.8",
+            "Location": "IKIZLI SUNGURLU CORUM"
+        },
+        {
+            "Date": "2022.06.27",
             "Time": "02:59:15",
             "Latitude": "35.2180",
             "Longitude": "26.8723",
             "Depth": "4.4",
             "ML": "3.1",
             "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "02:07:02",
+            "Latitude": "34.7955",
+            "Longitude": "22.9223",
+            "Depth": "12.0",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "01:34:23",
+            "Latitude": "37.0343",
+            "Longitude": "28.2305",
+            "Depth": "2.1",
+            "ML": "1.2",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
         },
         {
             "Date": "2022.06.27",
@@ -4382,105 +4481,6 @@
             "Depth": "11.3",
             "ML": "1.7",
             "Location": "CAKIRBEY VAN"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "02:58:27",
-            "Latitude": "38.8078",
-            "Longitude": "43.3780",
-            "Depth": "10.5",
-            "ML": "1.5",
-            "Location": "YAYLIYAKA VAN"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "02:16:13",
-            "Latitude": "40.8618",
-            "Longitude": "30.7505",
-            "Depth": "7.9",
-            "ML": "2.1",
-            "Location": "KAHRAMAN HENDEK SAKARYA"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "02:12:12",
-            "Latitude": "37.8895",
-            "Longitude": "26.7865",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "01:44:15",
-            "Latitude": "38.8902",
-            "Longitude": "43.5402",
-            "Depth": "1.2",
-            "ML": "1.9",
-            "Location": "COLPAN VAN"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "01:07:56",
-            "Latitude": "40.8817",
-            "Longitude": "31.8822",
-            "Depth": "7.2",
-            "ML": "1.8",
-            "Location": "KAYABASI MENGEN BOLU"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "00:39:49",
-            "Latitude": "38.9072",
-            "Longitude": "43.5125",
-            "Depth": "8.0",
-            "ML": "2.2",
-            "Location": "COLPAN VAN"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "23:35:24",
-            "Latitude": "38.8392",
-            "Longitude": "43.5273",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "23:25:58",
-            "Latitude": "35.8850",
-            "Longitude": "35.8948",
-            "Depth": "17.3",
-            "ML": "1.5",
-            "Location": "DENIZGOREN YAYLADAGI HATAY"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "23:19:43",
-            "Latitude": "39.8265",
-            "Longitude": "27.9628",
-            "Depth": "7.8",
-            "ML": "1.8",
-            "Location": "YAYLABAYIR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "22:53:39",
-            "Latitude": "36.9645",
-            "Longitude": "30.9457",
-            "Depth": "30.5",
-            "ML": "1.4",
-            "Location": "ABDURRAHMANLAR SERIK ANTALYA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "22:07:46",
-            "Latitude": "38.1630",
-            "Longitude": "30.8698",
-            "Depth": "12.5",
-            "ML": "1.5",
-            "Location": "AKDAG GELENDOST ISPARTA"
         }
     ]
 }
