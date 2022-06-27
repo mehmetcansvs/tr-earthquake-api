@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.27",
+            "Time": "07:30:32",
+            "Latitude": "39.8880",
+            "Longitude": "28.1872",
+            "Depth": "3.9",
+            "ML": "1.5",
+            "Location": "KOCAPINAR SUSURLUK BALIKESIR"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "07:08:26",
+            "Latitude": "39.6135",
+            "Longitude": "39.7405",
+            "Depth": "4.1",
+            "ML": "2.3",
+            "Location": "ULUKOY ERZINCAN"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "06:49:30",
+            "Latitude": "41.0802",
+            "Longitude": "43.9135",
+            "Depth": "5.0",
+            "ML": "3.7",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "06:40:33",
+            "Latitude": "37.3767",
+            "Longitude": "35.0228",
+            "Depth": "1.9",
+            "ML": "1.9",
+            "Location": "GILDIRLI KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.06.27",
             "Time": "06:11:49",
             "Latitude": "36.3370",
             "Longitude": "28.4653",
@@ -4445,42 +4481,6 @@
             "Depth": "12.5",
             "ML": "2.2",
             "Location": "GOKCEAHMET AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "04:15:56",
-            "Latitude": "40.7602",
-            "Longitude": "35.8915",
-            "Depth": "10.6",
-            "ML": "1.6",
-            "Location": "ORMANOZU AMASYA"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "03:34:58",
-            "Latitude": "37.1873",
-            "Longitude": "28.9670",
-            "Depth": "1.8",
-            "ML": "2.2",
-            "Location": "UZUNOLUK BEYAGAC DENIZLI"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "03:17:26",
-            "Latitude": "38.7872",
-            "Longitude": "43.6557",
-            "Depth": "14.0",
-            "ML": "2.0",
-            "Location": "KUSCU MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "03:15:15",
-            "Latitude": "38.8738",
-            "Longitude": "43.5627",
-            "Depth": "11.3",
-            "ML": "1.7",
-            "Location": "CAKIRBEY VAN"
         }
     ]
 }
