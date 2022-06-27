@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.27",
+            "Time": "18:20:20",
+            "Latitude": "38.2768",
+            "Longitude": "42.8528",
+            "Depth": "21.9",
+            "ML": "2.7",
+            "Location": "YANIKCAY GEVAS VAN"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "17:22:21",
+            "Latitude": "37.3898",
+            "Longitude": "38.6357",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "TATARHUYUK BOZOVA SANLIURFA"
+        },
+        {
+            "Date": "2022.06.27",
             "Time": "16:07:15",
             "Latitude": "39.4358",
             "Longitude": "33.0907",
@@ -4463,24 +4481,6 @@
             "Depth": "10.1",
             "ML": "1.9",
             "Location": "AKARKOY KAZIMKARABEKIR KARAMAN"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "13:57:53",
-            "Latitude": "38.7917",
-            "Longitude": "43.5660",
-            "Depth": "5.0",
-            "ML": "3.0",
-            "Location": "YUKARIGOLALAN VAN"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "13:49:13",
-            "Latitude": "36.1757",
-            "Longitude": "33.4918",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "YANISLI GULNAR MERSIN"
         }
     ]
 }
