@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.06.27",
+            "Time": "15:05:39",
+            "Latitude": "37.6267",
+            "Longitude": "26.1725",
+            "Depth": "15.7",
+            "ML": "1.9",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "14:42:36",
+            "Latitude": "36.1385",
+            "Longitude": "33.5458",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "14:35:54",
+            "Latitude": "38.1578",
+            "Longitude": "42.7873",
+            "Depth": "10.3",
+            "ML": "2.5",
+            "Location": "BAHCESARAY VAN"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "13:20:52",
+            "Latitude": "38.2547",
+            "Longitude": "42.8177",
+            "Depth": "2.8",
+            "ML": "1.8",
+            "Location": "TORELI GEVAS VAN"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "13:20:09",
+            "Latitude": "38.1868",
+            "Longitude": "42.7950",
+            "Depth": "7.9",
+            "ML": "2.3",
+            "Location": "BAHCESARAY VAN"
+        },
+        {
+            "Date": "2022.06.27",
             "Time": "11:54:14",
             "Latitude": "40.6895",
             "Longitude": "30.5962",
@@ -4436,51 +4481,6 @@
             "Depth": "6.8",
             "ML": "2.9",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "13:04:02",
-            "Latitude": "40.7950",
-            "Longitude": "31.4917",
-            "Depth": "5.1",
-            "ML": "1.1",
-            "Location": "KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "13:03:43",
-            "Latitude": "39.2368",
-            "Longitude": "27.6880",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "EVCILER SOMA MANISA"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "13:00:37",
-            "Latitude": "36.4498",
-            "Longitude": "27.0805",
-            "Depth": "6.5",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "12:53:37",
-            "Latitude": "36.3972",
-            "Longitude": "27.1993",
-            "Depth": "16.1",
-            "ML": "1.7",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "12:50:49",
-            "Latitude": "37.9158",
-            "Longitude": "26.8703",
-            "Depth": "9.0",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
