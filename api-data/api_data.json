@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.27",
+            "Time": "16:07:15",
+            "Latitude": "39.4358",
+            "Longitude": "33.0907",
+            "Depth": "21.5",
+            "ML": "1.7",
+            "Location": "AFSAR BALA ANKARA"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "15:53:56",
+            "Latitude": "39.1518",
+            "Longitude": "29.4155",
+            "Depth": "4.5",
+            "ML": "1.5",
+            "Location": "YESILOVA GEDIZ KUTAHYA"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "15:05:40",
+            "Latitude": "37.7058",
+            "Longitude": "26.2607",
+            "Depth": "5.3",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.27",
             "Time": "15:05:39",
             "Latitude": "37.6267",
             "Longitude": "26.1725",
@@ -4454,33 +4481,6 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "13:36:01",
-            "Latitude": "39.6083",
-            "Longitude": "33.7757",
-            "Depth": "11.1",
-            "ML": "1.5",
-            "Location": "YONCALI KESKIN KIRIKKALE"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "13:25:42",
-            "Latitude": "40.1662",
-            "Longitude": "28.9102",
-            "Depth": "9.0",
-            "ML": "1.7",
-            "Location": "YAYLACIK NILUFER BURSA"
-        },
-        {
-            "Date": "2022.06.15",
-            "Time": "13:11:43",
-            "Latitude": "34.3312",
-            "Longitude": "23.9392",
-            "Depth": "6.8",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
