@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.27",
+            "Time": "03:53:15",
+            "Latitude": "38.9768",
+            "Longitude": "29.9407",
+            "Depth": "5.3",
+            "ML": "1.8",
+            "Location": "YESILYURT ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "02:59:15",
+            "Latitude": "35.2180",
+            "Longitude": "26.8723",
+            "Depth": "4.4",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "00:51:46",
+            "Latitude": "36.2960",
+            "Longitude": "29.7720",
+            "Depth": "5.4",
+            "ML": "1.1",
+            "Location": "CERLER KAS ANTALYA"
+        },
+        {
+            "Date": "2022.06.27",
+            "Time": "00:47:12",
+            "Latitude": "40.7700",
+            "Longitude": "30.9255",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "BEKIROGLU GOLYAKA DUZCE"
+        },
+        {
+            "Date": "2022.06.27",
             "Time": "00:27:25",
             "Latitude": "40.7290",
             "Longitude": "29.1758",
@@ -4445,42 +4481,6 @@
             "Depth": "12.5",
             "ML": "1.5",
             "Location": "AKDAG GELENDOST ISPARTA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "19:34:31",
-            "Latitude": "38.8977",
-            "Longitude": "43.5370",
-            "Depth": "9.8",
-            "ML": "2.2",
-            "Location": "COLPAN VAN"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "16:21:19",
-            "Latitude": "36.1795",
-            "Longitude": "27.8018",
-            "Depth": "81.6",
-            "ML": "2.5",
-            "Location": "RODOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "12:16:32",
-            "Latitude": "38.3128",
-            "Longitude": "38.1312",
-            "Depth": "8.1",
-            "ML": "1.5",
-            "Location": "KUYULU YESILYURT MALATYA"
-        },
-        {
-            "Date": "2022.06.14",
-            "Time": "12:01:58",
-            "Latitude": "35.1728",
-            "Longitude": "25.2848",
-            "Depth": "3.3",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
