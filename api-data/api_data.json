@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.28",
+            "Time": "09:57:06",
+            "Latitude": "39.0733",
+            "Longitude": "27.5567",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "EGNEZ SOMA MANISA"
+        },
+        {
+            "Date": "2022.06.28",
+            "Time": "09:56:08",
+            "Latitude": "39.1215",
+            "Longitude": "27.5027",
+            "Depth": "8.7",
+            "ML": "1.5",
+            "Location": "AZIZIYE KINIK IZMIR"
+        },
+        {
+            "Date": "2022.06.28",
             "Time": "07:50:09",
             "Latitude": "39.5385",
             "Longitude": "26.1698",
@@ -4463,24 +4481,6 @@
             "Depth": "4.5",
             "ML": "1.5",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "01:42:56",
-            "Latitude": "40.5530",
-            "Longitude": "30.6078",
-            "Depth": "15.2",
-            "ML": "1.5",
-            "Location": "HANYATAK AKYAZI SAKARYA"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "01:08:36",
-            "Latitude": "35.3958",
-            "Longitude": "27.4973",
-            "Depth": "12.5",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
         }
     ]
 }
