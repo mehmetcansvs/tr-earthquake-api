@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.28",
+            "Time": "23:28:20",
+            "Latitude": "35.9783",
+            "Longitude": "28.9457",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.28",
             "Time": "20:14:37",
             "Latitude": "37.8560",
             "Longitude": "26.7258",
@@ -4463,15 +4472,6 @@
             "Depth": "2.4",
             "ML": "1.5",
             "Location": "OVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "16:25:17",
-            "Latitude": "36.9462",
-            "Longitude": "27.6658",
-            "Depth": "8.5",
-            "ML": "2.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
