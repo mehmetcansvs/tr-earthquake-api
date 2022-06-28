@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.28",
+            "Time": "07:27:20",
+            "Latitude": "36.7475",
+            "Longitude": "30.1690",
+            "Depth": "3.3",
+            "ML": "1.6",
+            "Location": "OVACIK ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.06.28",
             "Time": "06:12:08",
             "Latitude": "38.5593",
             "Longitude": "43.1822",
@@ -4472,15 +4481,6 @@
             "Depth": "5.3",
             "ML": "3.3",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "00:07:55",
-            "Latitude": "34.8450",
-            "Longitude": "23.1730",
-            "Depth": "13.6",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
