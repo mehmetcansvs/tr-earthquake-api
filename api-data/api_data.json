@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.06.28",
+            "Time": "19:05:06",
+            "Latitude": "40.1968",
+            "Longitude": "25.1450",
+            "Depth": "12.5",
+            "ML": "2.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.28",
+            "Time": "19:03:03",
+            "Latitude": "34.6357",
+            "Longitude": "33.0812",
+            "Depth": "7.2",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.28",
+            "Time": "18:10:23",
+            "Latitude": "39.6498",
+            "Longitude": "44.0360",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "KARABULAK DOGUBAYAZIT AGRI"
+        },
+        {
+            "Date": "2022.06.28",
+            "Time": "17:56:53",
+            "Latitude": "39.7283",
+            "Longitude": "43.7843",
+            "Depth": "22.7",
+            "ML": "2.8",
+            "Location": "TUTAK DOGUBAYAZIT AGRI"
+        },
+        {
+            "Date": "2022.06.28",
+            "Time": "17:14:12",
+            "Latitude": "39.1663",
+            "Longitude": "41.7027",
+            "Depth": "5.7",
+            "ML": "2.6",
+            "Location": "ESENLI HINIS ERZURUM"
+        },
+        {
+            "Date": "2022.06.28",
             "Time": "15:53:55",
             "Latitude": "38.4470",
             "Longitude": "39.2813",
@@ -4427,51 +4472,6 @@
             "Depth": "12.0",
             "ML": "3.1",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "14:53:31",
-            "Latitude": "38.0673",
-            "Longitude": "27.2423",
-            "Depth": "5.3",
-            "ML": "1.7",
-            "Location": "CAKALTEPE MENDERES IZMIR"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "14:14:15",
-            "Latitude": "37.0603",
-            "Longitude": "28.2240",
-            "Depth": "6.0",
-            "ML": "1.8",
-            "Location": "KIRAN MUGLA"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "13:42:32",
-            "Latitude": "34.8597",
-            "Longitude": "23.3417",
-            "Depth": "28.2",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "13:17:41",
-            "Latitude": "37.2632",
-            "Longitude": "31.8642",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "MADENLI SEYDISEHIR KONYA"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "13:03:22",
-            "Latitude": "39.6788",
-            "Longitude": "30.7863",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "TURKMENTOKAT ODUNPAZARI ESKISEHIR"
         }
     ]
 }
