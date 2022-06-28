@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.28",
+            "Time": "07:50:09",
+            "Latitude": "39.5385",
+            "Longitude": "26.1698",
+            "Depth": "9.6",
+            "ML": "2.0",
+            "Location": "YUKARIKOY AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.06.28",
+            "Time": "07:46:38",
+            "Latitude": "39.5488",
+            "Longitude": "26.1955",
+            "Depth": "9.2",
+            "ML": "1.8",
+            "Location": "YUKARIKOY AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.06.28",
+            "Time": "07:42:34",
+            "Latitude": "39.5502",
+            "Longitude": "26.2240",
+            "Depth": "5.4",
+            "ML": "1.6",
+            "Location": "TABAKLAR AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.06.28",
             "Time": "07:27:20",
             "Latitude": "36.7475",
             "Longitude": "30.1690",
@@ -4454,33 +4481,6 @@
             "Depth": "12.5",
             "ML": "2.3",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "01:01:49",
-            "Latitude": "39.0125",
-            "Longitude": "43.6217",
-            "Depth": "4.8",
-            "ML": "2.1",
-            "Location": "KECIKIRAN MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "00:31:50",
-            "Latitude": "35.9342",
-            "Longitude": "29.3323",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "00:22:39",
-            "Latitude": "37.8490",
-            "Longitude": "26.7913",
-            "Depth": "5.3",
-            "ML": "3.3",
-            "Location": "EGE DENIZI"
         }
     ]
 }
