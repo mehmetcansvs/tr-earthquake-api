@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.06.28",
+            "Time": "15:53:55",
+            "Latitude": "38.4470",
+            "Longitude": "39.2813",
+            "Depth": "3.4",
+            "ML": "2.0",
+            "Location": "SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.06.28",
+            "Time": "15:40:19",
+            "Latitude": "37.0630",
+            "Longitude": "28.3630",
+            "Depth": "5.1",
+            "ML": "1.6",
+            "Location": "GOKOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.06.28",
+            "Time": "15:28:32",
+            "Latitude": "37.8868",
+            "Longitude": "26.8240",
+            "Depth": "3.7",
+            "ML": "1.7",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.28",
+            "Time": "14:30:10",
+            "Latitude": "37.3105",
+            "Longitude": "37.2427",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "SULUKLU SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.06.28",
             "Time": "14:06:15",
             "Latitude": "39.9870",
             "Longitude": "26.9712",
             "Depth": "7.5",
             "ML": "1.3",
             "Location": "KUCUKPASA CAN CANAKKALE"
+        },
+        {
+            "Date": "2022.06.28",
+            "Time": "14:04:37",
+            "Latitude": "36.3075",
+            "Longitude": "24.5258",
+            "Depth": "9.3",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.06.28",
@@ -4427,51 +4472,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "TURKMENTOKAT ODUNPAZARI ESKISEHIR"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "12:55:20",
-            "Latitude": "40.8527",
-            "Longitude": "27.9957",
-            "Depth": "7.7",
-            "ML": "2.0",
-            "Location": "MARMARA EREGLISI ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "12:51:04",
-            "Latitude": "37.0578",
-            "Longitude": "28.2835",
-            "Depth": "5.2",
-            "ML": "1.5",
-            "Location": "KUYUCAK MUGLA"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "12:49:05",
-            "Latitude": "38.0853",
-            "Longitude": "31.8613",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "YUKARICIGIL ILGIN KONYA"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "12:40:57",
-            "Latitude": "39.2135",
-            "Longitude": "41.7662",
-            "Depth": "11.6",
-            "ML": "2.0",
-            "Location": "CILLIGOL HINIS ERZURUM"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "11:42:22",
-            "Latitude": "40.4775",
-            "Longitude": "29.2907",
-            "Depth": "0.0",
-            "ML": "1.9",
-            "Location": "CELTIKCI ORHANGAZI BURSA"
         }
     ]
 }
