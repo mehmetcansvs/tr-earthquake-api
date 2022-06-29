@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.29",
+            "Time": "06:47:51",
+            "Latitude": "34.9780",
+            "Longitude": "33.1405",
+            "Depth": "7.6",
+            "ML": "1.9",
+            "Location": "KIBRIS ZUMRUTKOY"
+        },
+        {
+            "Date": "2022.06.29",
             "Time": "04:18:26",
             "Latitude": "36.3933",
             "Longitude": "23.3457",
@@ -4463,15 +4472,6 @@
             "Depth": "10.6",
             "ML": "2.5",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "21:14:41",
-            "Latitude": "39.1048",
-            "Longitude": "36.0050",
-            "Depth": "3.3",
-            "ML": "1.8",
-            "Location": "TATILI SARIOGLAN KAYSERI"
         }
     ]
 }
