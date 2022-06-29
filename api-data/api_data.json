@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.29",
+            "Time": "19:13:20",
+            "Latitude": "38.7598",
+            "Longitude": "43.3753",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "TABANLI VAN"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "19:11:51",
+            "Latitude": "40.0833",
+            "Longitude": "31.7372",
+            "Depth": "14.3",
+            "ML": "2.5",
+            "Location": "CAYIRHAN NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2022.06.29",
             "Time": "16:13:58",
             "Latitude": "36.3847",
             "Longitude": "27.1635",
@@ -4454,24 +4472,6 @@
             "Depth": "7.2",
             "ML": "1.7",
             "Location": "DEMIRTAS DIKILI IZMIR"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "04:09:45",
-            "Latitude": "41.0212",
-            "Longitude": "43.8962",
-            "Depth": "5.0",
-            "ML": "3.7",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "03:41:20",
-            "Latitude": "36.9365",
-            "Longitude": "27.6647",
-            "Depth": "6.9",
-            "ML": "3.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
