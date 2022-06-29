@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "Date": "2022.06.30",
+            "Time": "00:42:08",
+            "Latitude": "39.0833",
+            "Longitude": "37.7237",
+            "Depth": "2.3",
+            "ML": "2.2",
+            "Location": "AKCAMAGARA KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "00:06:48",
+            "Latitude": "38.4450",
+            "Longitude": "31.7995",
+            "Depth": "7.6",
+            "ML": "2.3",
+            "Location": "KONARI TUZLUKCU KONYA"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "23:57:13",
+            "Latitude": "39.0265",
+            "Longitude": "41.9788",
+            "Depth": "2.8",
+            "ML": "2.0",
+            "Location": "HOSGELDI BULANIK MUS"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "23:38:01",
+            "Latitude": "39.0890",
+            "Longitude": "37.7917",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "TASLI KANGAL SIVAS"
+        },
+        {
             "Date": "2022.06.29",
             "Time": "22:51:44",
             "Latitude": "39.0718",
@@ -4436,42 +4472,6 @@
             "Depth": "8.9",
             "ML": "2.1",
             "Location": "YAYLABAYIR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "09:55:43",
-            "Latitude": "38.7432",
-            "Longitude": "43.3835",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "TABANLI VAN"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "08:53:43",
-            "Latitude": "37.9865",
-            "Longitude": "27.1703",
-            "Depth": "4.6",
-            "ML": "2.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "08:13:11",
-            "Latitude": "40.7263",
-            "Longitude": "31.5228",
-            "Depth": "12.5",
-            "ML": "1.8",
-            "Location": "KARAKOY BOLU"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "08:01:52",
-            "Latitude": "38.8330",
-            "Longitude": "43.4572",
-            "Depth": "12.8",
-            "ML": "1.9",
-            "Location": "GEDIKBULAK VAN"
         }
     ]
 }
