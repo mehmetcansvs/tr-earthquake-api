@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.29",
+            "Time": "16:13:58",
+            "Latitude": "36.3847",
+            "Longitude": "27.1635",
+            "Depth": "7.1",
+            "ML": "2.1",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "15:27:17",
+            "Latitude": "40.5350",
+            "Longitude": "29.2408",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "HAMZALI ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "15:25:15",
+            "Latitude": "40.4928",
+            "Longitude": "29.1240",
+            "Depth": "3.4",
+            "ML": "1.6",
+            "Location": "HAYDARIYE GEMLIK BURSA"
+        },
+        {
+            "Date": "2022.06.29",
             "Time": "13:37:05",
             "Latitude": "39.4905",
             "Longitude": "25.9495",
@@ -4445,33 +4472,6 @@
             "Depth": "6.9",
             "ML": "3.3",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "02:52:33",
-            "Latitude": "38.9748",
-            "Longitude": "30.2072",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "AYDINLAR ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "02:23:40",
-            "Latitude": "38.9953",
-            "Longitude": "30.2043",
-            "Depth": "1.3",
-            "ML": "2.5",
-            "Location": "BESKARIS ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "02:00:27",
-            "Latitude": "37.0168",
-            "Longitude": "28.5027",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "SARAYYANI ULA MUGLA"
         }
     ]
 }
