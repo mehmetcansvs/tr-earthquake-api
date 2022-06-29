@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.06.29",
+            "Time": "13:10:38",
+            "Latitude": "41.3618",
+            "Longitude": "43.9912",
+            "Depth": "7.5",
+            "ML": "2.9",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "13:04:07",
+            "Latitude": "36.1727",
+            "Longitude": "33.8873",
+            "Depth": "12.2",
+            "ML": "1.1",
+            "Location": "SILIFKE ACIKLARI MERSIN AKDENIZ"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "12:59:09",
+            "Latitude": "39.8463",
+            "Longitude": "35.2535",
+            "Depth": "5.1",
+            "ML": "1.7",
+            "Location": "BAGLARBASI SORGUN YOZGAT"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "12:53:11",
+            "Latitude": "37.2063",
+            "Longitude": "27.9382",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "KAYADERE MILAS MUGLA"
+        },
+        {
+            "Date": "2022.06.29",
             "Time": "10:36:20",
             "Latitude": "38.9747",
             "Longitude": "26.5737",
@@ -4436,42 +4472,6 @@
             "Depth": "3.3",
             "ML": "1.9",
             "Location": "TATILI SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "23:30:05",
-            "Latitude": "39.0082",
-            "Longitude": "30.2022",
-            "Depth": "4.8",
-            "ML": "3.3",
-            "Location": "BESKARIS ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "23:27:01",
-            "Latitude": "39.0882",
-            "Longitude": "35.9875",
-            "Depth": "1.8",
-            "ML": "2.4",
-            "Location": "SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "23:00:38",
-            "Latitude": "35.8437",
-            "Longitude": "29.8237",
-            "Depth": "10.1",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "22:29:15",
-            "Latitude": "38.8117",
-            "Longitude": "43.4213",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "GEDIKBULAK VAN"
         }
     ]
 }
