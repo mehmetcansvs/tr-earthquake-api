@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.06.29",
+            "Time": "02:31:16",
+            "Latitude": "35.3478",
+            "Longitude": "25.2448",
+            "Depth": "3.7",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "01:58:06",
+            "Latitude": "39.0998",
+            "Longitude": "27.8378",
+            "Depth": "7.7",
+            "ML": "2.2",
+            "Location": "KARAKURT KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "01:46:12",
+            "Latitude": "40.6470",
+            "Longitude": "35.4173",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "YAYLACIK MERZIFON AMASYA"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "01:36:28",
+            "Latitude": "40.6385",
+            "Longitude": "35.4262",
+            "Depth": "6.0",
+            "ML": "1.7",
+            "Location": "KONAC MECITOZU CORUM"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "01:31:52",
+            "Latitude": "39.8210",
+            "Longitude": "25.5647",
+            "Depth": "7.1",
+            "ML": "1.8",
+            "Location": "EGE DENIZI"
+        },
+        {
             "Date": "2022.06.28",
             "Time": "23:28:20",
             "Latitude": "35.9783",
@@ -4427,51 +4472,6 @@
             "Depth": "4.4",
             "ML": "1.4",
             "Location": "HALKAPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "20:28:19",
-            "Latitude": "39.1020",
-            "Longitude": "36.0267",
-            "Depth": "4.1",
-            "ML": "2.3",
-            "Location": "TATILI SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "19:30:50",
-            "Latitude": "38.9395",
-            "Longitude": "27.8678",
-            "Depth": "16.0",
-            "ML": "1.5",
-            "Location": "AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "18:56:48",
-            "Latitude": "36.1478",
-            "Longitude": "33.5497",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "18:53:28",
-            "Latitude": "38.7693",
-            "Longitude": "43.5475",
-            "Depth": "5.0",
-            "ML": "3.4",
-            "Location": "DEGIRMENOZU VAN"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "18:45:44",
-            "Latitude": "39.9722",
-            "Longitude": "26.4200",
-            "Depth": "2.4",
-            "ML": "1.5",
-            "Location": "OVACIK CANAKKALE"
         }
     ]
 }
