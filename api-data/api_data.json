@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.29",
+            "Time": "04:18:26",
+            "Latitude": "36.3933",
+            "Longitude": "23.3457",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "04:16:31",
+            "Latitude": "34.5688",
+            "Longitude": "33.0933",
+            "Depth": "1.4",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.29",
             "Time": "02:31:16",
             "Latitude": "35.3478",
             "Longitude": "25.2448",
@@ -4454,24 +4472,6 @@
             "Depth": "3.3",
             "ML": "1.8",
             "Location": "TATILI SARIOGLAN KAYSERI"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "21:10:20",
-            "Latitude": "38.8813",
-            "Longitude": "43.5498",
-            "Depth": "5.7",
-            "ML": "2.0",
-            "Location": "COLPAN VAN"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "20:55:08",
-            "Latitude": "39.8143",
-            "Longitude": "27.9153",
-            "Depth": "4.4",
-            "ML": "1.4",
-            "Location": "HALKAPINAR BALIKESIR"
         }
     ]
 }
