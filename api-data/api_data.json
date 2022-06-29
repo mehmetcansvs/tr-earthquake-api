@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.29",
+            "Time": "13:37:05",
+            "Latitude": "39.4905",
+            "Longitude": "25.9495",
+            "Depth": "10.2",
+            "ML": "1.9",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "13:23:49",
+            "Latitude": "38.4577",
+            "Longitude": "26.9327",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "13:14:44",
+            "Latitude": "36.0617",
+            "Longitude": "33.5757",
+            "Depth": "2.9",
+            "ML": "1.9",
+            "Location": "AYDINLIK ACIKLARI MERSIN AKDENIZ"
+        },
+        {
+            "Date": "2022.06.29",
             "Time": "13:10:38",
             "Latitude": "41.3618",
             "Longitude": "43.9912",
@@ -35,6 +62,15 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "KAYADERE MILAS MUGLA"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "12:34:47",
+            "Latitude": "39.1462",
+            "Longitude": "37.4927",
+            "Depth": "18.5",
+            "ML": "1.3",
+            "Location": "YESILDERE KANGAL SIVAS"
         },
         {
             "Date": "2022.06.29",
@@ -4436,42 +4472,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "SARAYYANI ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "01:28:19",
-            "Latitude": "39.8500",
-            "Longitude": "27.9313",
-            "Depth": "9.9",
-            "ML": "1.6",
-            "Location": "YAGCILAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "00:57:21",
-            "Latitude": "39.5895",
-            "Longitude": "27.0250",
-            "Depth": "12.3",
-            "ML": "1.6",
-            "Location": "EDREMIT BALIKESIR"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "00:21:05",
-            "Latitude": "39.8260",
-            "Longitude": "27.9442",
-            "Depth": "7.0",
-            "ML": "1.9",
-            "Location": "YAYLABAYIR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "23:35:32",
-            "Latitude": "39.0727",
-            "Longitude": "36.0132",
-            "Depth": "3.3",
-            "ML": "1.9",
-            "Location": "TATILI SARIOGLAN KAYSERI"
         }
     ]
 }
