@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.06.29",
+            "Time": "10:36:20",
+            "Latitude": "38.9747",
+            "Longitude": "26.5737",
+            "Depth": "10.7",
+            "ML": "1.9",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.29",
             "Time": "06:47:51",
             "Latitude": "34.9780",
             "Longitude": "33.1405",
@@ -4463,15 +4472,6 @@
             "Depth": "5.0",
             "ML": "1.7",
             "Location": "GEDIKBULAK VAN"
-        },
-        {
-            "Date": "2022.06.16",
-            "Time": "22:20:42",
-            "Latitude": "35.8290",
-            "Longitude": "29.7737",
-            "Depth": "10.6",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
         }
     ]
 }
