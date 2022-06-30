@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.06.30",
+            "Time": "18:26:41",
+            "Latitude": "37.3448",
+            "Longitude": "35.0022",
+            "Depth": "4.9",
+            "ML": "2.1",
+            "Location": "KARAKILIC KARAISALI ADANA"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "17:32:27",
+            "Latitude": "38.5720",
+            "Longitude": "39.6687",
+            "Depth": "6.8",
+            "ML": "2.4",
+            "Location": "KUMYAZI MADEN ELAZIG"
+        },
+        {
+            "Date": "2022.06.30",
             "Time": "16:09:45",
             "Latitude": "39.5310",
             "Longitude": "31.5230",
@@ -4463,24 +4481,6 @@
             "Depth": "27.1",
             "ML": "3.2",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "06:35:59",
-            "Latitude": "37.9587",
-            "Longitude": "28.7997",
-            "Depth": "3.2",
-            "ML": "1.8",
-            "Location": "KIZILDERE BUHARKENT AYDIN"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "06:25:13",
-            "Latitude": "37.7392",
-            "Longitude": "37.4672",
-            "Depth": "3.8",
-            "ML": "2.4",
-            "Location": "YESILOVA GOLBASI ADIYAMAN"
         }
     ]
 }
