@@ -2,12 +2,48 @@
     "data": [
         {
             "Date": "2022.06.30",
+            "Time": "06:44:17",
+            "Latitude": "36.8728",
+            "Longitude": "26.4048",
+            "Depth": "5.6",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.30",
             "Time": "06:09:08",
             "Latitude": "38.4370",
             "Longitude": "27.1602",
             "Depth": "4.9",
             "ML": "2.6",
             "Location": "KONAK IZMIR"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "05:44:57",
+            "Latitude": "38.7928",
+            "Longitude": "31.5333",
+            "Depth": "7.9",
+            "ML": "1.4",
+            "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "05:38:50",
+            "Latitude": "36.9430",
+            "Longitude": "27.5937",
+            "Depth": "15.4",
+            "ML": "1.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "05:35:08",
+            "Latitude": "36.8275",
+            "Longitude": "28.0502",
+            "Depth": "8.3",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
         },
         {
             "Date": "2022.06.30",
@@ -25,6 +61,15 @@
             "Longitude": "37.7697",
             "Depth": "5.0",
             "ML": "2.8",
+            "Location": "KARAPINAR HEKIMHAN MALATYA"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "04:43:47",
+            "Latitude": "39.0545",
+            "Longitude": "37.7890",
+            "Depth": "3.6",
+            "ML": "1.8",
             "Location": "KARAPINAR HEKIMHAN MALATYA"
         },
         {
@@ -4436,42 +4481,6 @@
             "Depth": "4.8",
             "ML": "2.2",
             "Location": "ODALIDAM SUSURLUK BALIKESIR"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "17:44:48",
-            "Latitude": "38.7962",
-            "Longitude": "27.7940",
-            "Depth": "6.4",
-            "ML": "2.8",
-            "Location": "SAZOBA AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "15:27:40",
-            "Latitude": "35.7408",
-            "Longitude": "28.5825",
-            "Depth": "4.7",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "15:24:58",
-            "Latitude": "36.6068",
-            "Longitude": "34.2283",
-            "Depth": "6.9",
-            "ML": "1.6",
-            "Location": "UCTEPE ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "15:20:50",
-            "Latitude": "39.1060",
-            "Longitude": "36.0145",
-            "Depth": "8.1",
-            "ML": "2.0",
-            "Location": "TATILI SARIOGLAN KAYSERI REVIZE FUADIYE CEKEREK YOZGAT"
         }
     ]
 }
