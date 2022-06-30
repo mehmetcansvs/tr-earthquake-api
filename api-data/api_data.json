@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.30",
+            "Time": "14:19:45",
+            "Latitude": "36.2218",
+            "Longitude": "27.1103",
+            "Depth": "5.7",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "13:33:03",
+            "Latitude": "39.9473",
+            "Longitude": "28.8170",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "KARINCALI ORHANELI BURSA"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "13:04:06",
+            "Latitude": "36.1958",
+            "Longitude": "27.0658",
+            "Depth": "8.9",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.30",
             "Time": "13:02:51",
             "Latitude": "36.2725",
             "Longitude": "27.0513",
@@ -26,6 +53,15 @@
             "Depth": "14.5",
             "ML": "2.0",
             "Location": "PINARLI ERCIS VAN"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "11:50:45",
+            "Latitude": "37.7823",
+            "Longitude": "30.5105",
+            "Depth": "1.9",
+            "ML": "1.6",
+            "Location": "DEREGUMU ISPARTA"
         },
         {
             "Date": "2022.06.30",
@@ -227,6 +263,15 @@
         },
         {
             "Date": "2022.06.29",
+            "Time": "23:38:12",
+            "Latitude": "40.3798",
+            "Longitude": "25.9018",
+            "Depth": "10.4",
+            "ML": "1.7",
+            "Location": "KALEKOY GOKCEADA CANAKKALE"
+        },
+        {
+            "Date": "2022.06.29",
             "Time": "23:38:01",
             "Latitude": "39.0890",
             "Longitude": "37.7917",
@@ -272,6 +317,15 @@
         },
         {
             "Date": "2022.06.29",
+            "Time": "22:20:12",
+            "Latitude": "38.9663",
+            "Longitude": "37.8503",
+            "Depth": "8.4",
+            "ML": "1.6",
+            "Location": "DAVULKU HEKIMHAN MALATYA"
+        },
+        {
+            "Date": "2022.06.29",
             "Time": "22:04:33",
             "Latitude": "39.0777",
             "Longitude": "37.7743",
@@ -287,6 +341,15 @@
             "Depth": "19.7",
             "ML": "3.4",
             "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "21:22:32",
+            "Latitude": "38.9022",
+            "Longitude": "37.8757",
+            "Depth": "10.5",
+            "ML": "1.5",
+            "Location": "HACILAR HEKIMHAN MALATYA"
         },
         {
             "Date": "2022.06.29",
@@ -431,6 +494,15 @@
             "Depth": "7.6",
             "ML": "1.9",
             "Location": "KIBRIS ZUMRUTKOY"
+        },
+        {
+            "Date": "2022.06.29",
+            "Time": "06:46:37",
+            "Latitude": "37.8325",
+            "Longitude": "26.7993",
+            "Depth": "8.8",
+            "ML": "1.7",
+            "Location": "EGE DENIZI"
         },
         {
             "Date": "2022.06.29",
@@ -4409,78 +4481,6 @@
             "Depth": "8.4",
             "ML": "1.9",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "05:33:49",
-            "Latitude": "36.7810",
-            "Longitude": "27.7828",
-            "Depth": "10.4",
-            "ML": "2.6",
-            "Location": "EMECIK DATCA MUGLA"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "05:29:28",
-            "Latitude": "36.7768",
-            "Longitude": "27.8007",
-            "Depth": "5.5",
-            "ML": "2.2",
-            "Location": "EMECIK DATCA MUGLA"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "05:22:16",
-            "Latitude": "37.1068",
-            "Longitude": "28.4220",
-            "Depth": "11.0",
-            "ML": "1.9",
-            "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "05:13:54",
-            "Latitude": "36.7902",
-            "Longitude": "27.7833",
-            "Depth": "10.1",
-            "ML": "2.7",
-            "Location": "EMECIK DATCA MUGLA"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "04:01:44",
-            "Latitude": "38.8545",
-            "Longitude": "43.5440",
-            "Depth": "5.9",
-            "ML": "1.9",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "02:48:08",
-            "Latitude": "37.7605",
-            "Longitude": "32.0807",
-            "Depth": "9.9",
-            "ML": "0.9",
-            "Location": "YATAGAN MERAM KONYA"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "02:28:31",
-            "Latitude": "40.7463",
-            "Longitude": "25.6870",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "01:14:06",
-            "Latitude": "40.6327",
-            "Longitude": "29.1117",
-            "Depth": "13.2",
-            "ML": "1.5",
-            "Location": "CINARCIK YALOVA"
         }
     ]
 }
