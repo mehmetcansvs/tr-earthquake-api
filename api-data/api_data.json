@@ -2,11 +2,29 @@
     "data": [
         {
             "Date": "2022.06.30",
+            "Time": "08:32:05",
+            "Latitude": "38.4042",
+            "Longitude": "31.7453",
+            "Depth": "22.7",
+            "ML": "1.8",
+            "Location": "KOKLUCE TUZLUKCU KONYA"
+        },
+        {
+            "Date": "2022.06.30",
             "Time": "06:44:17",
             "Latitude": "36.8728",
             "Longitude": "26.4048",
             "Depth": "5.6",
             "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "06:42:48",
+            "Latitude": "36.2705",
+            "Longitude": "27.0648",
+            "Depth": "21.4",
+            "ML": "2.3",
             "Location": "AKDENIZ"
         },
         {
@@ -4463,24 +4481,6 @@
             "Depth": "13.8",
             "ML": "1.5",
             "Location": "SENKOY SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "19:34:59",
-            "Latitude": "37.1163",
-            "Longitude": "28.3402",
-            "Depth": "21.6",
-            "ML": "1.6",
-            "Location": "DOGAN MUGLA"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "18:27:23",
-            "Latitude": "39.8230",
-            "Longitude": "27.9885",
-            "Depth": "4.8",
-            "ML": "2.2",
-            "Location": "ODALIDAM SUSURLUK BALIKESIR"
         }
     ]
 }
