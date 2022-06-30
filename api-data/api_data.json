@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.30",
+            "Time": "06:09:08",
+            "Latitude": "38.4370",
+            "Longitude": "27.1602",
+            "Depth": "4.9",
+            "ML": "2.6",
+            "Location": "KONAK IZMIR"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "05:21:15",
+            "Latitude": "36.2577",
+            "Longitude": "27.0617",
+            "Depth": "1.8",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "05:19:29",
+            "Latitude": "39.0667",
+            "Longitude": "37.7697",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "KARAPINAR HEKIMHAN MALATYA"
+        },
+        {
+            "Date": "2022.06.30",
             "Time": "03:50:03",
             "Latitude": "38.0432",
             "Longitude": "27.2593",
@@ -26,6 +53,15 @@
             "Depth": "5.5",
             "ML": "2.0",
             "Location": "DARICILAR DAZKIRI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "02:46:04",
+            "Latitude": "39.0452",
+            "Longitude": "37.7717",
+            "Depth": "6.7",
+            "ML": "1.5",
+            "Location": "KARAPINAR HEKIMHAN MALATYA"
         },
         {
             "Date": "2022.06.30",
@@ -4436,42 +4472,6 @@
             "Depth": "8.1",
             "ML": "2.0",
             "Location": "TATILI SARIOGLAN KAYSERI REVIZE FUADIYE CEKEREK YOZGAT"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "13:18:23",
-            "Latitude": "38.7638",
-            "Longitude": "43.5210",
-            "Depth": "9.3",
-            "ML": "2.0",
-            "Location": "DEGIRMENOZU VAN"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "12:36:14",
-            "Latitude": "39.0075",
-            "Longitude": "37.5283",
-            "Depth": "27.5",
-            "ML": "1.6",
-            "Location": "KARLIK KULUNCAK MALATYA"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "11:52:10",
-            "Latitude": "37.2178",
-            "Longitude": "37.2450",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "YIGINLI SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "11:09:36",
-            "Latitude": "39.1417",
-            "Longitude": "27.5180",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "HACIYUSUF SOMA MANISA"
         }
     ]
 }
