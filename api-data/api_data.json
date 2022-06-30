@@ -2,12 +2,75 @@
     "data": [
         {
             "Date": "2022.06.30",
+            "Time": "13:02:51",
+            "Latitude": "36.2725",
+            "Longitude": "27.0513",
+            "Depth": "8.7",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "12:56:02",
+            "Latitude": "36.2513",
+            "Longitude": "27.0395",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "11:54:07",
+            "Latitude": "39.1580",
+            "Longitude": "43.1770",
+            "Depth": "14.5",
+            "ML": "2.0",
+            "Location": "PINARLI ERCIS VAN"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "11:37:50",
+            "Latitude": "40.8515",
+            "Longitude": "31.7020",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "MESCICELE BOLU"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "11:04:30",
+            "Latitude": "40.0727",
+            "Longitude": "34.6803",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "SULUDERE ALACA CORUM"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "10:53:52",
+            "Latitude": "36.5512",
+            "Longitude": "27.9825",
+            "Depth": "10.0",
+            "ML": "1.8",
+            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.06.30",
             "Time": "10:17:01",
             "Latitude": "37.9047",
             "Longitude": "27.0342",
             "Depth": "5.0",
             "ML": "2.3",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "08:35:36",
+            "Latitude": "39.1105",
+            "Longitude": "27.6507",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "KIRKAGAC MANISA"
         },
         {
             "Date": "2022.06.30",
@@ -4418,69 +4481,6 @@
             "Depth": "13.2",
             "ML": "1.5",
             "Location": "CINARCIK YALOVA"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "00:45:57",
-            "Latitude": "38.7142",
-            "Longitude": "31.3813",
-            "Depth": "17.4",
-            "ML": "1.4",
-            "Location": "CUKURCAK SULTANDAGI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "00:43:52",
-            "Latitude": "40.2232",
-            "Longitude": "31.9100",
-            "Depth": "4.4",
-            "ML": "2.0",
-            "Location": "GEYIKPINARI BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "00:43:42",
-            "Latitude": "38.7440",
-            "Longitude": "43.9828",
-            "Depth": "25.2",
-            "ML": "2.2",
-            "Location": "SEHITTEPE OZALP VAN"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "23:52:47",
-            "Latitude": "38.8172",
-            "Longitude": "43.5067",
-            "Depth": "5.0",
-            "ML": "3.7",
-            "Location": "DEREBEY VAN"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "23:30:50",
-            "Latitude": "37.9798",
-            "Longitude": "27.2042",
-            "Depth": "4.2",
-            "ML": "2.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "21:53:27",
-            "Latitude": "37.9930",
-            "Longitude": "27.1803",
-            "Depth": "2.6",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "20:46:31",
-            "Latitude": "38.8540",
-            "Longitude": "43.4190",
-            "Depth": "7.0",
-            "ML": "2.6",
-            "Location": "KUMLUCA VAN"
         }
     ]
 }
