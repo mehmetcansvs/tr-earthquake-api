@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.06.30",
+            "Time": "03:50:03",
+            "Latitude": "38.0432",
+            "Longitude": "27.2593",
+            "Depth": "4.9",
+            "ML": "1.4",
+            "Location": "GOLOVA MENDERES IZMIR"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "03:20:41",
+            "Latitude": "37.9402",
+            "Longitude": "27.1165",
+            "Depth": "5.9",
+            "ML": "2.0",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.06.30",
+            "Time": "02:59:46",
+            "Latitude": "37.8568",
+            "Longitude": "29.7228",
+            "Depth": "5.5",
+            "ML": "2.0",
+            "Location": "DARICILAR DAZKIRI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.06.30",
             "Time": "00:42:08",
             "Latitude": "39.0833",
             "Longitude": "37.7237",
@@ -4445,33 +4472,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "HACIYUSUF SOMA MANISA"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "10:20:24",
-            "Latitude": "35.1252",
-            "Longitude": "24.2663",
-            "Depth": "5.0",
-            "ML": "3.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "10:17:40",
-            "Latitude": "38.7948",
-            "Longitude": "43.6290",
-            "Depth": "12.5",
-            "ML": "2.3",
-            "Location": "KUSCU MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.17",
-            "Time": "10:14:10",
-            "Latitude": "39.8422",
-            "Longitude": "27.9747",
-            "Depth": "8.9",
-            "ML": "2.1",
-            "Location": "YAYLABAYIR BALIKESIR"
         }
     ]
 }
