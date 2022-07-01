@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.07.01",
+            "Time": "16:36:55",
+            "Latitude": "36.5527",
+            "Longitude": "28.1483",
+            "Depth": "22.8",
+            "ML": "1.9",
+            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
+        },
+        {
+            "Date": "2022.07.01",
             "Time": "15:07:43",
             "Latitude": "36.9425",
             "Longitude": "27.8678",
             "Depth": "10.9",
             "ML": "2.4",
             "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.01",
+            "Time": "14:38:16",
+            "Latitude": "38.7082",
+            "Longitude": "26.4675",
+            "Depth": "8.8",
+            "ML": "1.9",
+            "Location": "TEPEBOZ KARABURUN IZMIR"
         },
         {
             "Date": "2022.07.01",
@@ -4463,24 +4481,6 @@
             "Depth": "5.0",
             "ML": "3.2",
             "Location": "SAGLAMTAS VAN"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "02:30:54",
-            "Latitude": "38.9927",
-            "Longitude": "30.1912",
-            "Depth": "3.6",
-            "ML": "1.7",
-            "Location": "BESKARIS ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "02:02:25",
-            "Latitude": "37.9598",
-            "Longitude": "26.9765",
-            "Depth": "5.8",
-            "ML": "2.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
