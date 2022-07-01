@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.01",
+            "Time": "19:02:19",
+            "Latitude": "38.7690",
+            "Longitude": "43.3680",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "SAHGELDI VAN"
+        },
+        {
+            "Date": "2022.07.01",
             "Time": "16:36:55",
             "Latitude": "36.5527",
             "Longitude": "28.1483",
@@ -4472,15 +4481,6 @@
             "Depth": "5.0",
             "ML": "2.6",
             "Location": "AKCIFT VAN"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "03:10:59",
-            "Latitude": "38.8643",
-            "Longitude": "43.5988",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "SAGLAMTAS VAN"
         }
     ]
 }
