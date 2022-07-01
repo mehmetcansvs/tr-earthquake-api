@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.01",
+            "Time": "20:56:17",
+            "Latitude": "38.8467",
+            "Longitude": "43.5022",
+            "Depth": "2.9",
+            "ML": "2.2",
+            "Location": "KARAAGAC VAN"
+        },
+        {
+            "Date": "2022.07.01",
             "Time": "19:02:19",
             "Latitude": "38.7690",
             "Longitude": "43.3680",
@@ -4472,15 +4481,6 @@
             "Depth": "5.6",
             "ML": "1.6",
             "Location": "SARISU KIRAZ IZMIR"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "05:07:21",
-            "Latitude": "38.8225",
-            "Longitude": "43.5602",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "AKCIFT VAN"
         }
     ]
 }
