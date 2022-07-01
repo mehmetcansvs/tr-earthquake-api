@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.07.02",
+            "Time": "00:24:34",
+            "Latitude": "36.2310",
+            "Longitude": "36.0165",
+            "Depth": "12.1",
+            "ML": "2.8",
+            "Location": "YAYLACIK HATAY"
+        },
+        {
+            "Date": "2022.07.01",
+            "Time": "23:58:00",
+            "Latitude": "38.3410",
+            "Longitude": "38.7562",
+            "Depth": "3.0",
+            "ML": "1.9",
+            "Location": "SARIOT KALE MALATYA"
+        },
+        {
             "Date": "2022.07.01",
             "Time": "22:29:02",
             "Latitude": "40.6007",
@@ -4463,24 +4481,6 @@
             "Depth": "8.8",
             "ML": "1.7",
             "Location": "AVCILAR SOKE AYDIN"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "11:03:46",
-            "Latitude": "38.5727",
-            "Longitude": "31.2113",
-            "Depth": "7.6",
-            "ML": "3.0",
-            "Location": "DOGANCIK SULTANDAGI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "08:34:12",
-            "Latitude": "38.1615",
-            "Longitude": "27.1295",
-            "Depth": "9.3",
-            "ML": "1.5",
-            "Location": "SASAL MENDERES IZMIR"
         }
     ]
 }
