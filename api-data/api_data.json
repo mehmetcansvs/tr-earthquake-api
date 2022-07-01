@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.01",
+            "Time": "10:56:54",
+            "Latitude": "36.7207",
+            "Longitude": "28.1323",
+            "Depth": "58.0",
+            "ML": "2.8",
+            "Location": "BAYIR MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.01",
+            "Time": "08:16:50",
+            "Latitude": "37.8310",
+            "Longitude": "29.6443",
+            "Depth": "4.7",
+            "ML": "1.2",
+            "Location": "CARDAK DENIZLI"
+        },
+        {
+            "Date": "2022.07.01",
             "Time": "06:53:24",
             "Latitude": "35.3642",
             "Longitude": "23.1575",
@@ -4463,24 +4481,6 @@
             "Depth": "7.4",
             "ML": "1.7",
             "Location": "AKSEKI SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "16:18:57",
-            "Latitude": "35.4293",
-            "Longitude": "26.0365",
-            "Depth": "6.3",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "16:10:36",
-            "Latitude": "38.8843",
-            "Longitude": "43.5265",
-            "Depth": "1.4",
-            "ML": "2.6",
-            "Location": "ERMISLER VAN"
         }
     ]
 }
