@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.01",
+            "Time": "05:34:04",
+            "Latitude": "38.5850",
+            "Longitude": "43.0195",
+            "Depth": "20.5",
+            "ML": "1.9",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.07.01",
+            "Time": "04:49:50",
+            "Latitude": "34.2578",
+            "Longitude": "25.1213",
+            "Depth": "15.7",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.01",
             "Time": "03:14:44",
             "Latitude": "39.6372",
             "Longitude": "38.5070",
@@ -4463,24 +4481,6 @@
             "Depth": "13.9",
             "ML": "1.6",
             "Location": "AKOLUK SORGUN YOZGAT"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "13:52:37",
-            "Latitude": "38.5267",
-            "Longitude": "39.1962",
-            "Depth": "12.9",
-            "ML": "2.1",
-            "Location": "KAVAKTEPE ELAZIG"
-        },
-        {
-            "Date": "2022.06.18",
-            "Time": "12:03:41",
-            "Latitude": "37.2432",
-            "Longitude": "35.0555",
-            "Depth": "10.6",
-            "ML": "1.2",
-            "Location": "KARAISALI ADANA"
         }
     ]
 }
