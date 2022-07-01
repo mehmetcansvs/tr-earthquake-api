@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.01",
+            "Time": "22:29:02",
+            "Latitude": "40.6007",
+            "Longitude": "35.7112",
+            "Depth": "6.3",
+            "ML": "2.5",
+            "Location": "AYDOGDU AMASYA"
+        },
+        {
+            "Date": "2022.07.01",
             "Time": "20:56:17",
             "Latitude": "38.8467",
             "Longitude": "43.5022",
@@ -4472,15 +4481,6 @@
             "Depth": "9.3",
             "ML": "1.5",
             "Location": "SASAL MENDERES IZMIR"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "07:06:58",
-            "Latitude": "38.2957",
-            "Longitude": "28.3332",
-            "Depth": "5.6",
-            "ML": "1.6",
-            "Location": "SARISU KIRAZ IZMIR"
         }
     ]
 }
