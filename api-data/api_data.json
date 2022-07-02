@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.07.02",
+            "Time": "04:36:23",
+            "Latitude": "38.9178",
+            "Longitude": "43.5482",
+            "Depth": "9.3",
+            "ML": "2.4",
+            "Location": "COLPAN VAN"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "04:28:56",
+            "Latitude": "39.8705",
+            "Longitude": "24.0962",
+            "Depth": "11.9",
+            "ML": "2.2",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "04:15:18",
+            "Latitude": "39.7232",
+            "Longitude": "24.0088",
+            "Depth": "15.0",
+            "ML": "2.6",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "04:05:07",
+            "Latitude": "34.8937",
+            "Longitude": "24.0255",
+            "Depth": "16.5",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "03:57:45",
+            "Latitude": "34.7963",
+            "Longitude": "25.6682",
+            "Depth": "13.9",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "03:42:51",
+            "Latitude": "34.9115",
+            "Longitude": "24.2187",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.02",
             "Time": "02:01:32",
             "Latitude": "38.4728",
             "Longitude": "39.2612",
@@ -4427,60 +4481,6 @@
             "Depth": "13.5",
             "ML": "1.8",
             "Location": "BEKIRLER SUTCULER ISPARTA"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "17:54:16",
-            "Latitude": "38.2232",
-            "Longitude": "38.6250",
-            "Depth": "4.2",
-            "ML": "2.0",
-            "Location": "SOGUTLU PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "17:17:53",
-            "Latitude": "35.7170",
-            "Longitude": "28.5743",
-            "Depth": "14.3",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "17:07:03",
-            "Latitude": "38.8002",
-            "Longitude": "26.8342",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "CANDARLI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "16:36:10",
-            "Latitude": "34.7505",
-            "Longitude": "24.1300",
-            "Depth": "22.9",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "14:03:18",
-            "Latitude": "40.1220",
-            "Longitude": "31.7503",
-            "Depth": "2.8",
-            "ML": "2.7",
-            "Location": "CANTIRLI BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "13:43:20",
-            "Latitude": "37.5802",
-            "Longitude": "29.9677",
-            "Depth": "12.6",
-            "ML": "2.0",
-            "Location": "YARISLI YESILOVA BURDUR"
         }
     ]
 }
