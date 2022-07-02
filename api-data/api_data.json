@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.07.02",
+            "Time": "12:59:14",
+            "Latitude": "39.5098",
+            "Longitude": "29.6692",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "ALIKOY TAVSANLI KUTAHYA"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "12:20:24",
+            "Latitude": "37.7948",
+            "Longitude": "29.3685",
+            "Depth": "2.8",
+            "ML": "1.6",
+            "Location": "DERECIFTLIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "12:17:34",
+            "Latitude": "37.8013",
+            "Longitude": "29.3550",
+            "Depth": "1.7",
+            "ML": "1.8",
+            "Location": "DERECIFTLIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "11:49:38",
+            "Latitude": "40.5667",
+            "Longitude": "27.3415",
+            "Depth": "17.7",
+            "ML": "1.5",
+            "Location": "MUREFTE ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "11:49:02",
+            "Latitude": "37.2048",
+            "Longitude": "37.2252",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "UCGOZE SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "11:21:12",
+            "Latitude": "39.1912",
+            "Longitude": "26.5062",
+            "Depth": "8.7",
+            "ML": "1.6",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "11:20:21",
+            "Latitude": "36.9735",
+            "Longitude": "27.2482",
+            "Depth": "19.5",
+            "ML": "1.5",
+            "Location": "AKYARLAR BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.07.02",
             "Time": "10:26:10",
             "Latitude": "39.6658",
             "Longitude": "29.4977",
@@ -4418,69 +4481,6 @@
             "Depth": "7.5",
             "ML": "1.6",
             "Location": "KARBASAN HISARCIK KUTAHYA"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "08:03:09",
-            "Latitude": "37.8757",
-            "Longitude": "26.9903",
-            "Depth": "3.4",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "05:42:04",
-            "Latitude": "37.8023",
-            "Longitude": "26.9407",
-            "Depth": "9.8",
-            "ML": "3.1",
-            "Location": "SISAM ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "05:16:33",
-            "Latitude": "39.5308",
-            "Longitude": "28.7452",
-            "Depth": "14.6",
-            "ML": "1.7",
-            "Location": "AKYAYLA DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "04:32:16",
-            "Latitude": "35.1815",
-            "Longitude": "25.3132",
-            "Depth": "9.1",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "04:19:02",
-            "Latitude": "37.9728",
-            "Longitude": "28.9830",
-            "Depth": "6.1",
-            "ML": "2.0",
-            "Location": "AHMETLI SARAYKOY DENIZLI"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "03:50:58",
-            "Latitude": "39.0458",
-            "Longitude": "26.0960",
-            "Depth": "8.5",
-            "ML": "2.2",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "03:03:19",
-            "Latitude": "37.8695",
-            "Longitude": "27.2317",
-            "Depth": "8.2",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
