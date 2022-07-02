@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.02",
+            "Time": "16:23:30",
+            "Latitude": "38.3102",
+            "Longitude": "38.8698",
+            "Depth": "14.8",
+            "ML": "1.8",
+            "Location": "CIGIRLI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "16:08:21",
+            "Latitude": "36.1332",
+            "Longitude": "33.5473",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "15:59:47",
+            "Latitude": "41.1135",
+            "Longitude": "26.6340",
+            "Depth": "7.7",
+            "ML": "1.4",
+            "Location": "KARAPINAR UZUNKOPRU EDIRNE"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "15:19:41",
+            "Latitude": "34.9092",
+            "Longitude": "30.3205",
+            "Depth": "28.1",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.02",
             "Time": "14:36:05",
             "Latitude": "38.7157",
             "Longitude": "26.4433",
@@ -4445,42 +4481,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "ISIKLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "12:00:12",
-            "Latitude": "36.8928",
-            "Longitude": "38.8268",
-            "Depth": "7.5",
-            "ML": "2.0",
-            "Location": "ASAGICINPOLAT AKCAKALE SANLIURFA"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "10:19:50",
-            "Latitude": "40.6847",
-            "Longitude": "32.2880",
-            "Depth": "8.1",
-            "ML": "1.9",
-            "Location": "YAKABOY GEREDE BOLU"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "10:16:23",
-            "Latitude": "39.1450",
-            "Longitude": "27.5030",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "HACIYUSUF SOMA MANISA"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "10:13:22",
-            "Latitude": "36.5640",
-            "Longitude": "27.8987",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
         }
     ]
 }
