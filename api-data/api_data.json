@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.02",
+            "Time": "06:54:16",
+            "Latitude": "38.4603",
+            "Longitude": "39.2985",
+            "Depth": "2.3",
+            "ML": "2.9",
+            "Location": "SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.07.02",
             "Time": "04:36:23",
             "Latitude": "38.9178",
             "Longitude": "43.5482",
@@ -62,6 +71,24 @@
             "Depth": "14.3",
             "ML": "1.7",
             "Location": "ALINCIK SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "01:55:27",
+            "Latitude": "37.8743",
+            "Longitude": "30.5613",
+            "Depth": "4.6",
+            "ML": "1.5",
+            "Location": "BOZANONU ISPARTA"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "01:54:18",
+            "Latitude": "41.0182",
+            "Longitude": "32.3500",
+            "Depth": "1.0",
+            "ML": "2.2",
+            "Location": "SOFULAR ESKIPAZAR KARABUK"
         },
         {
             "Date": "2022.07.02",
@@ -4454,33 +4481,6 @@
             "Depth": "10.7",
             "ML": "2.1",
             "Location": "GEDIKYOLU ELAZIG"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "19:37:16",
-            "Latitude": "40.7435",
-            "Longitude": "28.1677",
-            "Depth": "15.5",
-            "ML": "2.0",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "19:20:02",
-            "Latitude": "36.6173",
-            "Longitude": "25.9105",
-            "Depth": "8.4",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "19:07:50",
-            "Latitude": "37.4417",
-            "Longitude": "30.9297",
-            "Depth": "13.5",
-            "ML": "1.8",
-            "Location": "BEKIRLER SUTCULER ISPARTA"
         }
     ]
 }
