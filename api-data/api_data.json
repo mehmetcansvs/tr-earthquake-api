@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.07.03",
+            "Time": "00:29:39",
+            "Latitude": "35.8298",
+            "Longitude": "25.4087",
+            "Depth": "27.9",
+            "ML": "3.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
             "Date": "2022.07.02",
             "Time": "22:42:26",
             "Latitude": "40.5270",
@@ -4472,15 +4481,6 @@
             "Depth": "4.3",
             "ML": "1.4",
             "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "18:54:41",
-            "Latitude": "40.1230",
-            "Longitude": "34.8788",
-            "Depth": "8.1",
-            "ML": "1.5",
-            "Location": "FAKILAR ALACA CORUM"
         }
     ]
 }
