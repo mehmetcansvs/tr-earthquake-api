@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.02",
+            "Time": "02:01:32",
+            "Latitude": "38.4728",
+            "Longitude": "39.2612",
+            "Depth": "14.3",
+            "ML": "1.7",
+            "Location": "ALINCIK SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "01:18:38",
+            "Latitude": "35.1743",
+            "Longitude": "32.3223",
+            "Depth": "9.8",
+            "ML": "3.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "00:57:07",
+            "Latitude": "36.7472",
+            "Longitude": "28.1250",
+            "Depth": "64.5",
+            "ML": "2.2",
+            "Location": "TURGUTKOY MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.02",
             "Time": "00:24:34",
             "Latitude": "36.2310",
             "Longitude": "36.0165",
@@ -4454,33 +4481,6 @@
             "Depth": "12.6",
             "ML": "2.0",
             "Location": "YARISLI YESILOVA BURDUR"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "12:43:16",
-            "Latitude": "34.8693",
-            "Longitude": "23.6688",
-            "Depth": "27.2",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "12:18:43",
-            "Latitude": "38.8595",
-            "Longitude": "43.5760",
-            "Depth": "5.0",
-            "ML": "3.6",
-            "Location": "AKCIFT VAN"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "12:18:20",
-            "Latitude": "37.6862",
-            "Longitude": "27.6115",
-            "Depth": "8.8",
-            "ML": "1.7",
-            "Location": "AVCILAR SOKE AYDIN"
         }
     ]
 }
