@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.02",
+            "Time": "22:42:26",
+            "Latitude": "40.5270",
+            "Longitude": "26.4602",
+            "Depth": "12.0",
+            "ML": "2.1",
+            "Location": "SAROS KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "22:30:03",
+            "Latitude": "37.8715",
+            "Longitude": "27.5603",
+            "Depth": "13.9",
+            "ML": "1.8",
+            "Location": "KIZILCAPINAR GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "21:29:18",
+            "Latitude": "39.1415",
+            "Longitude": "30.6335",
+            "Depth": "8.3",
+            "ML": "2.0",
+            "Location": "OYNAS SEYITGAZI ESKISEHIR"
+        },
+        {
+            "Date": "2022.07.02",
             "Time": "20:07:20",
             "Latitude": "37.1427",
             "Longitude": "28.6860",
@@ -4454,33 +4481,6 @@
             "Depth": "8.1",
             "ML": "1.5",
             "Location": "FAKILAR ALACA CORUM"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "18:30:32",
-            "Latitude": "37.8890",
-            "Longitude": "26.9893",
-            "Depth": "21.2",
-            "ML": "1.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "18:28:27",
-            "Latitude": "40.2785",
-            "Longitude": "34.8918",
-            "Depth": "8.8",
-            "ML": "1.7",
-            "Location": "CIRCIR ALACA CORUM"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "18:21:58",
-            "Latitude": "38.9410",
-            "Longitude": "43.7425",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "KOSK KOYU MURADIYE VAN"
         }
     ]
 }
