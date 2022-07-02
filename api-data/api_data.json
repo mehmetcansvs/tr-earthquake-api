@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.07.02",
+            "Time": "08:19:48",
+            "Latitude": "37.7625",
+            "Longitude": "27.0548",
+            "Depth": "7.8",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "08:17:20",
+            "Latitude": "38.3388",
+            "Longitude": "34.1220",
+            "Depth": "10.5",
+            "ML": "2.1",
+            "Location": "SEVINCLI AKSARAY"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "08:13:56",
+            "Latitude": "34.4292",
+            "Longitude": "23.8155",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "08:00:50",
+            "Latitude": "40.2215",
+            "Longitude": "28.9348",
+            "Depth": "7.7",
+            "ML": "1.7",
+            "Location": "NILUFER BURSA"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "07:51:23",
+            "Latitude": "38.4635",
+            "Longitude": "39.4293",
+            "Depth": "13.0",
+            "ML": "1.5",
+            "Location": "YONCAPINAR MADEN ELAZIG"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "07:25:24",
+            "Latitude": "37.0828",
+            "Longitude": "28.6238",
+            "Depth": "10.3",
+            "ML": "2.0",
+            "Location": "KAVAKCALI ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.02",
             "Time": "06:54:16",
             "Latitude": "38.4603",
             "Longitude": "39.2985",
@@ -11,12 +65,30 @@
         },
         {
             "Date": "2022.07.02",
+            "Time": "05:55:10",
+            "Latitude": "38.9137",
+            "Longitude": "26.1043",
+            "Depth": "2.1",
+            "ML": "2.1",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.02",
             "Time": "04:36:23",
             "Latitude": "38.9178",
             "Longitude": "43.5482",
             "Depth": "9.3",
             "ML": "2.4",
             "Location": "COLPAN VAN"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "04:29:37",
+            "Latitude": "37.3743",
+            "Longitude": "37.0710",
+            "Depth": "5.7",
+            "ML": "2.0",
+            "Location": "ARSLANBEY PAZARCIK KAHRAMANMARAS"
         },
         {
             "Date": "2022.07.02",
@@ -53,6 +125,24 @@
             "Depth": "13.9",
             "ML": "2.3",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "03:56:37",
+            "Latitude": "40.4213",
+            "Longitude": "29.0822",
+            "Depth": "9.0",
+            "ML": "1.3",
+            "Location": "GEMLIK KORFEZI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.07.02",
+            "Time": "03:55:13",
+            "Latitude": "39.3895",
+            "Longitude": "41.0162",
+            "Depth": "5.1",
+            "ML": "1.4",
+            "Location": "KUMBET KARLIOVA BINGOL"
         },
         {
             "Date": "2022.07.02",
@@ -4391,96 +4481,6 @@
             "Depth": "10.5",
             "ML": "1.7",
             "Location": "BABAKALE AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "23:32:27",
-            "Latitude": "38.8195",
-            "Longitude": "43.4272",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "GEDIKBULAK VAN"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "23:27:37",
-            "Latitude": "39.1343",
-            "Longitude": "31.1905",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "DAGINIK EMIRDAG AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "22:19:13",
-            "Latitude": "37.8082",
-            "Longitude": "29.3628",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "DERECIFTLIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "22:14:19",
-            "Latitude": "37.8050",
-            "Longitude": "29.3565",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "DERECIFTLIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "21:44:23",
-            "Latitude": "39.0440",
-            "Longitude": "43.7263",
-            "Depth": "9.1",
-            "ML": "2.4",
-            "Location": "KEMERKOPRU MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "21:19:49",
-            "Latitude": "37.9795",
-            "Longitude": "27.1810",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "21:11:12",
-            "Latitude": "38.9645",
-            "Longitude": "29.8963",
-            "Depth": "5.4",
-            "ML": "2.4",
-            "Location": "OYSU ALTINTAS KUTAHYA"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "20:59:51",
-            "Latitude": "38.9732",
-            "Longitude": "25.8745",
-            "Depth": "10.1",
-            "ML": "1.7",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "20:48:00",
-            "Latitude": "39.9247",
-            "Longitude": "32.4158",
-            "Depth": "1.5",
-            "ML": "2.2",
-            "Location": "AYAS ANKARA"
-        },
-        {
-            "Date": "2022.06.19",
-            "Time": "20:19:34",
-            "Latitude": "38.6288",
-            "Longitude": "39.6703",
-            "Depth": "10.7",
-            "ML": "2.1",
-            "Location": "GEDIKYOLU ELAZIG"
         }
     ]
 }
