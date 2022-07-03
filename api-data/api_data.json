@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.03",
+            "Time": "08:36:37",
+            "Latitude": "37.8188",
+            "Longitude": "27.5640",
+            "Depth": "13.1",
+            "ML": "1.8",
+            "Location": "UZUMLU GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "07:21:00",
+            "Latitude": "37.8005",
+            "Longitude": "29.3650",
+            "Depth": "7.4",
+            "ML": "1.9",
+            "Location": "DERECIFTLIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.07.03",
             "Time": "06:55:52",
             "Latitude": "37.9815",
             "Longitude": "27.1312",
@@ -4463,24 +4481,6 @@
             "Depth": "1.6",
             "ML": "1.8",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "01:34:44",
-            "Latitude": "35.1893",
-            "Longitude": "23.3027",
-            "Depth": "29.9",
-            "ML": "3.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "01:22:30",
-            "Latitude": "36.4098",
-            "Longitude": "28.8882",
-            "Depth": "16.6",
-            "ML": "2.7",
-            "Location": "OLUDENIZ ACIKLARI MUGLA AKDENIZ"
         }
     ]
 }
