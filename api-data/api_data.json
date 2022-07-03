@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.03",
+            "Time": "12:15:03",
+            "Latitude": "40.1583",
+            "Longitude": "31.7738",
+            "Depth": "2.8",
+            "ML": "2.6",
+            "Location": "CANTIRLI BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "11:31:24",
+            "Latitude": "35.7888",
+            "Longitude": "29.3230",
+            "Depth": "8.4",
+            "ML": "1.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.03",
             "Time": "10:09:28",
             "Latitude": "36.2290",
             "Longitude": "36.1563",
@@ -4463,24 +4481,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "YUKARIAYAZCA OZALP VAN"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "03:47:23",
-            "Latitude": "40.9293",
-            "Longitude": "24.0427",
-            "Depth": "6.6",
-            "ML": "1.4",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "03:28:29",
-            "Latitude": "36.3625",
-            "Longitude": "34.7247",
-            "Depth": "25.2",
-            "ML": "3.1",
-            "Location": "AKDENIZ"
         }
     ]
 }
