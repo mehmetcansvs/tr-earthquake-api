@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.03",
+            "Time": "04:10:35",
+            "Latitude": "39.3138",
+            "Longitude": "43.7950",
+            "Depth": "1.0",
+            "ML": "1.9",
+            "Location": "ATADAMI DIYADIN AGRI"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "03:57:13",
+            "Latitude": "40.4050",
+            "Longitude": "42.1392",
+            "Depth": "1.2",
+            "ML": "2.1",
+            "Location": "SULEYMANLI OLTU ERZURUM"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "03:00:35",
+            "Latitude": "34.3765",
+            "Longitude": "25.0768",
+            "Depth": "1.0",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "02:42:28",
+            "Latitude": "40.8312",
+            "Longitude": "31.0300",
+            "Depth": "7.4",
+            "ML": "2.1",
+            "Location": "KOPRUBASI OMEREFENDI DUZCE"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "01:37:16",
+            "Latitude": "38.9613",
+            "Longitude": "27.8762",
+            "Depth": "6.2",
+            "ML": "1.9",
+            "Location": "CAMONU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.07.03",
             "Time": "00:29:39",
             "Latitude": "35.8298",
             "Longitude": "25.4087",
@@ -4436,51 +4481,6 @@
             "Depth": "15.3",
             "ML": "2.1",
             "Location": "ADAKLI MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "19:47:01",
-            "Latitude": "39.5875",
-            "Longitude": "26.0688",
-            "Depth": "8.0",
-            "ML": "1.7",
-            "Location": "GULPINAR AYVACIK ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "19:39:38",
-            "Latitude": "36.1268",
-            "Longitude": "31.1880",
-            "Depth": "9.8",
-            "ML": "2.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "19:32:37",
-            "Latitude": "37.0230",
-            "Longitude": "43.5288",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "IRAK"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "19:23:18",
-            "Latitude": "36.8675",
-            "Longitude": "27.7533",
-            "Depth": "5.3",
-            "ML": "1.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "19:04:44",
-            "Latitude": "39.5895",
-            "Longitude": "26.0152",
-            "Depth": "4.3",
-            "ML": "1.4",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
         }
     ]
 }
