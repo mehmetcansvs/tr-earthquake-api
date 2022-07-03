@@ -2,12 +2,12 @@
     "data": [
         {
             "Date": "2022.07.03",
-            "Time": "18:14:49",
-            "Latitude": "40.2858",
-            "Longitude": "36.3312",
-            "Depth": "5.4",
-            "ML": "2.8",
-            "Location": "TASLIK PAZAR TOKAT"
+            "Time": "20:36:49",
+            "Latitude": "40.7722",
+            "Longitude": "27.4380",
+            "Depth": "15.4",
+            "ML": "2.7",
+            "Location": "YENIKOY TEKIRDAG ACIKLARI MARMARA DENIZI REVIZE TASLIK PAZAR TOKAT"
         },
         {
             "Date": "2022.07.03",
@@ -4472,15 +4472,6 @@
             "Depth": "2.5",
             "ML": "1.5",
             "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "08:01:14",
-            "Latitude": "35.2712",
-            "Longitude": "25.2808",
-            "Depth": "7.2",
-            "ML": "3.2",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
