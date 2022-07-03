@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.03",
+            "Time": "16:24:22",
+            "Latitude": "36.3963",
+            "Longitude": "27.1772",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "16:14:49",
+            "Latitude": "36.2237",
+            "Longitude": "26.8525",
+            "Depth": "10.6",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "15:14:00",
+            "Latitude": "35.2055",
+            "Longitude": "25.3028",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.03",
             "Time": "12:15:03",
             "Latitude": "40.1583",
             "Longitude": "31.7738",
@@ -4454,33 +4481,6 @@
             "Depth": "8.5",
             "ML": "2.0",
             "Location": "MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "04:45:45",
-            "Latitude": "35.0745",
-            "Longitude": "25.1648",
-            "Depth": "9.0",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "04:27:14",
-            "Latitude": "39.0083",
-            "Longitude": "43.6405",
-            "Depth": "6.2",
-            "ML": "2.0",
-            "Location": "ALKASNAK MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "04:21:45",
-            "Latitude": "38.6497",
-            "Longitude": "43.8577",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "YUKARIAYAZCA OZALP VAN"
         }
     ]
 }
