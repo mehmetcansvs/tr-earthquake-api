@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.07.04",
+            "Time": "00:03:13",
+            "Latitude": "40.2773",
+            "Longitude": "36.3322",
+            "Depth": "5.4",
+            "ML": "2.5",
+            "Location": "TASLIK PAZAR TOKAT"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "23:55:06",
+            "Latitude": "40.2928",
+            "Longitude": "36.3343",
+            "Depth": "3.5",
+            "ML": "3.4",
+            "Location": "TASLIK PAZAR TOKAT"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "23:53:28",
+            "Latitude": "40.2912",
+            "Longitude": "36.3477",
+            "Depth": "4.6",
+            "ML": "1.4",
+            "Location": "KUCUKBAGLAR TOKAT"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "23:38:26",
+            "Latitude": "40.2940",
+            "Longitude": "36.3410",
+            "Depth": "5.4",
+            "ML": "2.1",
+            "Location": "KUCUKBAGLAR TOKAT"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "23:38:11",
+            "Latitude": "40.3025",
+            "Longitude": "36.3888",
+            "Depth": "15.1",
+            "ML": "1.9",
+            "Location": "GULPINAR TOKAT"
+        },
+        {
             "Date": "2022.07.03",
             "Time": "22:44:50",
             "Latitude": "36.5253",
@@ -4427,51 +4472,6 @@
             "Depth": "7.1",
             "ML": "2.3",
             "Location": "KALKAN SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "12:56:31",
-            "Latitude": "37.9992",
-            "Longitude": "27.1753",
-            "Depth": "6.4",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "12:53:12",
-            "Latitude": "37.9580",
-            "Longitude": "28.7970",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "KIZILDERE BUHARKENT AYDIN"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "11:48:31",
-            "Latitude": "39.7318",
-            "Longitude": "30.9942",
-            "Depth": "7.6",
-            "ML": "2.1",
-            "Location": "AKTEPE ALPU ESKISEHIR"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "11:42:05",
-            "Latitude": "38.8487",
-            "Longitude": "44.5690",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "TURKIYE IRAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "11:13:41",
-            "Latitude": "37.7220",
-            "Longitude": "37.4082",
-            "Depth": "22.4",
-            "ML": "1.8",
-            "Location": "BOZLAR CAGLAYANCERIT KAHRAMANMARAS"
         }
     ]
 }
