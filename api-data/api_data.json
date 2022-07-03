@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.03",
+            "Time": "06:00:55",
+            "Latitude": "37.9633",
+            "Longitude": "27.6543",
+            "Depth": "7.8",
+            "ML": "1.9",
+            "Location": "BOZKOY GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "05:58:01",
+            "Latitude": "37.9680",
+            "Longitude": "27.6313",
+            "Depth": "7.6",
+            "ML": "1.8",
+            "Location": "BOZKOY GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "05:49:40",
+            "Latitude": "37.7937",
+            "Longitude": "29.3480",
+            "Depth": "9.0",
+            "ML": "1.7",
+            "Location": "DERECIFTLIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "05:17:45",
+            "Latitude": "39.1163",
+            "Longitude": "25.6640",
+            "Depth": "10.1",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.03",
             "Time": "04:10:35",
             "Latitude": "39.3138",
             "Longitude": "43.7950",
@@ -4445,42 +4481,6 @@
             "Depth": "10.9",
             "ML": "2.3",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "22:40:14",
-            "Latitude": "37.1030",
-            "Longitude": "28.3887",
-            "Depth": "5.1",
-            "ML": "2.4",
-            "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "21:28:43",
-            "Latitude": "37.8998",
-            "Longitude": "27.6200",
-            "Depth": "5.9",
-            "ML": "1.1",
-            "Location": "ALANGULLU GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "21:22:34",
-            "Latitude": "36.4340",
-            "Longitude": "27.1088",
-            "Depth": "5.4",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.20",
-            "Time": "21:11:21",
-            "Latitude": "38.9588",
-            "Longitude": "43.8435",
-            "Depth": "15.3",
-            "ML": "2.1",
-            "Location": "ADAKLI MURADIYE VAN"
         }
     ]
 }
