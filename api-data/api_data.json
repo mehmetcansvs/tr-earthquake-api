@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.03",
+            "Time": "18:14:49",
+            "Latitude": "40.2858",
+            "Longitude": "36.3312",
+            "Depth": "5.4",
+            "ML": "2.8",
+            "Location": "TASLIK PAZAR TOKAT"
+        },
+        {
+            "Date": "2022.07.03",
+            "Time": "18:04:48",
+            "Latitude": "40.2898",
+            "Longitude": "36.3260",
+            "Depth": "7.7",
+            "ML": "1.9",
+            "Location": "TASLIK PAZAR TOKAT"
+        },
+        {
+            "Date": "2022.07.03",
             "Time": "16:24:22",
             "Latitude": "36.3963",
             "Longitude": "27.1772",
@@ -4463,24 +4481,6 @@
             "Depth": "7.2",
             "ML": "3.2",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "06:14:09",
-            "Latitude": "35.2592",
-            "Longitude": "26.1675",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "06:06:09",
-            "Latitude": "38.9873",
-            "Longitude": "43.7578",
-            "Depth": "8.5",
-            "ML": "2.0",
-            "Location": "MURADIYE VAN"
         }
     ]
 }
