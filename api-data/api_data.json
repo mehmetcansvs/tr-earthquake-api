@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.04",
+            "Time": "10:12:46",
+            "Latitude": "35.3552",
+            "Longitude": "25.3347",
+            "Depth": "5.7",
+            "ML": "3.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.04",
             "Time": "08:38:15",
             "Latitude": "40.1007",
             "Longitude": "24.4293",
@@ -4463,15 +4472,6 @@
             "Depth": "3.4",
             "ML": "2.1",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "21:13:51",
-            "Latitude": "37.9018",
-            "Longitude": "25.2530",
-            "Depth": "9.2",
-            "ML": "2.2",
-            "Location": "EGE DENIZI"
         }
     ]
 }
