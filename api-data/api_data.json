@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.04",
+            "Time": "18:56:10",
+            "Latitude": "35.6072",
+            "Longitude": "28.7957",
+            "Depth": "5.7",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "18:27:16",
+            "Latitude": "37.2852",
+            "Longitude": "39.0465",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "GURPINAR SANLIURFA"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "18:22:14",
+            "Latitude": "37.2902",
+            "Longitude": "39.0553",
+            "Depth": "1.6",
+            "ML": "2.9",
+            "Location": "GURPINAR SANLIURFA"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "18:13:54",
+            "Latitude": "37.0903",
+            "Longitude": "28.4305",
+            "Depth": "7.4",
+            "ML": "1.4",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "16:25:50",
+            "Latitude": "37.2380",
+            "Longitude": "37.4805",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "CAYKUYU SEHITKAMIL GAZIANTEP"
+        },
+        {
+            "Date": "2022.07.04",
             "Time": "15:50:13",
             "Latitude": "40.0175",
             "Longitude": "35.2338",
@@ -4418,51 +4463,6 @@
             "Depth": "15.6",
             "ML": "1.2",
             "Location": "ILICABASI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "09:09:25",
-            "Latitude": "37.4363",
-            "Longitude": "26.5958",
-            "Depth": "11.2",
-            "ML": "1.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "09:04:04",
-            "Latitude": "39.5375",
-            "Longitude": "28.4107",
-            "Depth": "5.5",
-            "ML": "1.7",
-            "Location": "GURLEYEN DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "08:31:55",
-            "Latitude": "39.0728",
-            "Longitude": "27.5208",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "EGNEZ SOMA MANISA"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "07:24:34",
-            "Latitude": "34.6650",
-            "Longitude": "23.3395",
-            "Depth": "17.1",
-            "ML": "3.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "07:06:25",
-            "Latitude": "39.3905",
-            "Longitude": "32.8510",
-            "Depth": "10.4",
-            "ML": "1.4",
-            "Location": "KARACAOREN GOLBASI ANKARA"
         }
     ]
 }
