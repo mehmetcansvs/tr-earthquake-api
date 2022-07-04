@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.04",
+            "Time": "15:50:13",
+            "Latitude": "40.0175",
+            "Longitude": "35.2338",
+            "Depth": "11.1",
+            "ML": "2.2",
+            "Location": "EYMIR SORGUN YOZGAT"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "15:45:58",
+            "Latitude": "38.3935",
+            "Longitude": "26.4192",
+            "Depth": "10.6",
+            "ML": "2.6",
+            "Location": "ILDIR CESME IZMIR"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "15:28:09",
+            "Latitude": "34.3877",
+            "Longitude": "26.1078",
+            "Depth": "31.5",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "15:19:22",
+            "Latitude": "40.2527",
+            "Longitude": "33.2610",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "ASAGIEMIRLER CUBUK ANKARA"
+        },
+        {
+            "Date": "2022.07.04",
             "Time": "14:34:56",
             "Latitude": "38.9692",
             "Longitude": "27.8778",
@@ -4427,42 +4463,6 @@
             "Depth": "10.4",
             "ML": "1.4",
             "Location": "KARACAOREN GOLBASI ANKARA"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "06:19:58",
-            "Latitude": "40.1350",
-            "Longitude": "31.6690",
-            "Depth": "3.2",
-            "ML": "2.4",
-            "Location": "ULUKOY NALLIHAN ANKARA"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "04:35:48",
-            "Latitude": "38.9732",
-            "Longitude": "25.8567",
-            "Depth": "10.8",
-            "ML": "1.6",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "03:53:10",
-            "Latitude": "38.5588",
-            "Longitude": "39.3278",
-            "Depth": "4.1",
-            "ML": "1.9",
-            "Location": "IKITEPE ELAZIG"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "03:23:08",
-            "Latitude": "36.9878",
-            "Longitude": "28.7905",
-            "Depth": "7.5",
-            "ML": "1.5",
-            "Location": "CAYHISAR KOYCEGIZ MUGLA"
         }
     ]
 }
