@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.04",
+            "Time": "22:48:57",
+            "Latitude": "38.2983",
+            "Longitude": "30.7810",
+            "Depth": "2.1",
+            "ML": "1.3",
+            "Location": "KILICKAYA SUHUT AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "22:46:54",
+            "Latitude": "36.4427",
+            "Longitude": "27.1637",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "22:29:50",
+            "Latitude": "37.0797",
+            "Longitude": "36.8120",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "KATRANCI NURDAGI GAZIANTEP"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "22:17:58",
+            "Latitude": "36.1765",
+            "Longitude": "27.7528",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "RODOS ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.04",
             "Time": "20:55:44",
             "Latitude": "37.7687",
             "Longitude": "27.0768",
@@ -4427,42 +4463,6 @@
             "Depth": "20.8",
             "ML": "1.0",
             "Location": "ASAGIGULLUCE SELENDI MANISA"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "11:35:24",
-            "Latitude": "39.1657",
-            "Longitude": "41.4610",
-            "Depth": "4.1",
-            "ML": "2.0",
-            "Location": "VARTO MUS"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "10:38:29",
-            "Latitude": "39.1638",
-            "Longitude": "27.6640",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "OGECLI KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "10:19:32",
-            "Latitude": "40.3475",
-            "Longitude": "24.2553",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "09:38:19",
-            "Latitude": "40.1072",
-            "Longitude": "27.2220",
-            "Depth": "9.8",
-            "ML": "2.0",
-            "Location": "YESILKOY BIGA CANAKKALE"
         }
     ]
 }
