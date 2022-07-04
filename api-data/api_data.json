@@ -1,6 +1,78 @@
 {
     "data": [
         {
+            "Date": "2022.07.05",
+            "Time": "00:37:13",
+            "Latitude": "36.2553",
+            "Longitude": "27.0083",
+            "Depth": "4.4",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "00:26:18",
+            "Latitude": "36.1357",
+            "Longitude": "28.6310",
+            "Depth": "29.8",
+            "ML": "1.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "00:23:56",
+            "Latitude": "36.4420",
+            "Longitude": "27.1553",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "00:12:56",
+            "Latitude": "40.3420",
+            "Longitude": "36.0638",
+            "Depth": "3.5",
+            "ML": "1.4",
+            "Location": "KIZKAYASI TURHAL TOKAT"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "23:54:49",
+            "Latitude": "35.5648",
+            "Longitude": "28.8180",
+            "Depth": "6.9",
+            "ML": "2.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "23:33:20",
+            "Latitude": "40.9738",
+            "Longitude": "43.8467",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "23:26:22",
+            "Latitude": "35.9343",
+            "Longitude": "26.4817",
+            "Depth": "26.9",
+            "ML": "3.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "23:25:55",
+            "Latitude": "38.8135",
+            "Longitude": "42.9612",
+            "Depth": "6.0",
+            "ML": "2.0",
+            "Location": "KARSIYAKA ADILCEVAZ BITLIS"
+        },
+        {
             "Date": "2022.07.04",
             "Time": "22:48:57",
             "Latitude": "38.2983",
@@ -4391,78 +4463,6 @@
             "Depth": "6.4",
             "ML": "0.7",
             "Location": "KADIKOY CAY AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "13:28:40",
-            "Latitude": "38.5955",
-            "Longitude": "31.3977",
-            "Depth": "6.2",
-            "ML": "2.8",
-            "Location": "UCKUYU SULTANDAGI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "13:13:27",
-            "Latitude": "40.0405",
-            "Longitude": "27.2323",
-            "Depth": "15.2",
-            "ML": "1.3",
-            "Location": "ASMALI CAN CANAKKALE"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "13:10:47",
-            "Latitude": "39.7480",
-            "Longitude": "34.0025",
-            "Depth": "28.3",
-            "ML": "1.4",
-            "Location": "OCAKBASI DELICE KIRIKKALE"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "12:39:08",
-            "Latitude": "39.4963",
-            "Longitude": "29.1103",
-            "Depth": "3.9",
-            "ML": "2.1",
-            "Location": "BALIKOY TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "12:36:31",
-            "Latitude": "39.9625",
-            "Longitude": "28.8853",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "YORUCEKLER ORHANELI BURSA"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "12:12:34",
-            "Latitude": "39.5907",
-            "Longitude": "29.4443",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "KAYAARASI TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "12:03:01",
-            "Latitude": "39.3370",
-            "Longitude": "33.4242",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "KUCUKCAMILI BALA ANKARA"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "11:42:06",
-            "Latitude": "38.7148",
-            "Longitude": "28.7770",
-            "Depth": "20.8",
-            "ML": "1.0",
-            "Location": "ASAGIGULLUCE SELENDI MANISA"
         }
     ]
 }
