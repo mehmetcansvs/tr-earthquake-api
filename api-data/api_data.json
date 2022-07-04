@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.04",
+            "Time": "12:41:46",
+            "Latitude": "40.5760",
+            "Longitude": "29.3305",
+            "Depth": "0.0",
+            "ML": "1.0",
+            "Location": "SUGOREN YALOVA"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "12:34:45",
+            "Latitude": "39.0850",
+            "Longitude": "32.7345",
+            "Depth": "10.1",
+            "ML": "1.6",
+            "Location": "BURUNAGIL KULU KONYA"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "12:10:28",
+            "Latitude": "39.7023",
+            "Longitude": "30.1008",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "KUMBETAKPINAR INONU ESKISEHIR"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "11:59:23",
+            "Latitude": "37.0792",
+            "Longitude": "25.8982",
+            "Depth": "7.8",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "11:30:35",
+            "Latitude": "36.9327",
+            "Longitude": "28.4118",
+            "Depth": "24.2",
+            "ML": "1.2",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.04",
             "Time": "10:12:46",
             "Latitude": "35.3552",
             "Longitude": "25.3347",
@@ -4427,51 +4472,6 @@
             "Depth": "6.7",
             "ML": "1.6",
             "Location": "YESILKOY SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "23:34:35",
-            "Latitude": "39.0980",
-            "Longitude": "29.0645",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "KALKAN SIMAV KUTAHYA"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "22:49:23",
-            "Latitude": "40.7300",
-            "Longitude": "27.8703",
-            "Depth": "15.7",
-            "ML": "1.6",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "22:49:00",
-            "Latitude": "40.3808",
-            "Longitude": "27.0773",
-            "Depth": "4.1",
-            "ML": "1.5",
-            "Location": "BEKIRLI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "22:43:47",
-            "Latitude": "37.9275",
-            "Longitude": "27.3937",
-            "Depth": "5.5",
-            "ML": "1.5",
-            "Location": "ACARLAR SELCUK IZMIR"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "22:17:35",
-            "Latitude": "36.4445",
-            "Longitude": "27.1293",
-            "Depth": "3.4",
-            "ML": "2.1",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
