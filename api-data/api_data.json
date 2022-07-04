@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.04",
+            "Time": "08:38:15",
+            "Latitude": "40.1007",
+            "Longitude": "24.4293",
+            "Depth": "9.4",
+            "ML": "2.1",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "08:11:08",
+            "Latitude": "37.9045",
+            "Longitude": "27.0012",
+            "Depth": "10.5",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.04",
             "Time": "04:22:20",
             "Latitude": "39.1253",
             "Longitude": "27.8063",
@@ -4454,24 +4472,6 @@
             "Depth": "9.2",
             "ML": "2.2",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "17:30:09",
-            "Latitude": "38.8095",
-            "Longitude": "43.6110",
-            "Depth": "12.2",
-            "ML": "3.0",
-            "Location": "KUSCU MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "17:13:16",
-            "Latitude": "38.9593",
-            "Longitude": "43.3153",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "CELEBIBAGI ERCIS VAN"
         }
     ]
 }
