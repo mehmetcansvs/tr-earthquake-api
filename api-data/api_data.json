@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.04",
+            "Time": "04:22:20",
+            "Latitude": "39.1253",
+            "Longitude": "27.8063",
+            "Depth": "3.5",
+            "ML": "1.8",
+            "Location": "KARAKURT KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "02:45:21",
+            "Latitude": "43.2988",
+            "Longitude": "42.8522",
+            "Depth": "5.0",
+            "ML": "3.5",
+            "Location": "RUSYA"
+        },
+        {
+            "Date": "2022.07.04",
             "Time": "00:03:13",
             "Latitude": "40.2773",
             "Longitude": "36.3322",
@@ -4454,24 +4472,6 @@
             "Depth": "5.0",
             "ML": "2.5",
             "Location": "CELEBIBAGI ERCIS VAN"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "14:07:07",
-            "Latitude": "38.8027",
-            "Longitude": "43.5332",
-            "Depth": "5.8",
-            "ML": "3.0",
-            "Location": "DEREBEY VAN"
-        },
-        {
-            "Date": "2022.06.21",
-            "Time": "13:43:59",
-            "Latitude": "39.0752",
-            "Longitude": "29.0497",
-            "Depth": "7.1",
-            "ML": "2.3",
-            "Location": "KALKAN SIMAV KUTAHYA"
         }
     ]
 }
