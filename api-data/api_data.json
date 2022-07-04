@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.04",
+            "Time": "20:55:44",
+            "Latitude": "37.7687",
+            "Longitude": "27.0768",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "19:57:21",
+            "Latitude": "37.2502",
+            "Longitude": "39.1030",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "AKTAS SANLIURFA"
+        },
+        {
+            "Date": "2022.07.04",
             "Time": "18:56:10",
             "Latitude": "35.6072",
             "Longitude": "28.7957",
@@ -4445,24 +4463,6 @@
             "Depth": "9.8",
             "ML": "2.0",
             "Location": "YESILKOY BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "09:37:51",
-            "Latitude": "40.0727",
-            "Longitude": "27.2418",
-            "Depth": "10.7",
-            "ML": "1.9",
-            "Location": "ILICABASI BIGA CANAKKALE"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "09:25:19",
-            "Latitude": "40.0912",
-            "Longitude": "27.2530",
-            "Depth": "15.6",
-            "ML": "1.2",
-            "Location": "ILICABASI BIGA CANAKKALE"
         }
     ]
 }
