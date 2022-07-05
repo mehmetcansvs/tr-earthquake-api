@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.07.05",
+            "Time": "13:10:13",
+            "Latitude": "36.1128",
+            "Longitude": "33.5428",
+            "Depth": "0.0",
+            "ML": "1.8",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "13:02:17",
+            "Latitude": "40.2775",
+            "Longitude": "29.4628",
+            "Depth": "3.6",
+            "ML": "1.3",
+            "Location": "FETHIYE YENISEHIR BURSA"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "10:27:53",
+            "Latitude": "37.9925",
+            "Longitude": "26.9868",
+            "Depth": "18.5",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "10:21:50",
+            "Latitude": "37.9512",
+            "Longitude": "27.2925",
+            "Depth": "24.1",
+            "ML": "1.5",
+            "Location": "ZEYTINKOY SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "10:21:12",
+            "Latitude": "37.9292",
+            "Longitude": "27.2510",
+            "Depth": "6.1",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "10:20:00",
+            "Latitude": "37.9262",
+            "Longitude": "27.2295",
+            "Depth": "5.7",
+            "ML": "2.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.05",
             "Time": "09:41:44",
             "Latitude": "37.9422",
             "Longitude": "27.2412",
@@ -11,12 +65,57 @@
         },
         {
             "Date": "2022.07.05",
+            "Time": "09:39:58",
+            "Latitude": "37.9142",
+            "Longitude": "27.2533",
+            "Depth": "10.7",
+            "ML": "1.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "09:29:48",
+            "Latitude": "37.9375",
+            "Longitude": "27.2255",
+            "Depth": "4.8",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI REVIZE ACARLAR SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.07.05",
             "Time": "08:54:47",
             "Latitude": "37.9628",
             "Longitude": "27.3458",
             "Depth": "4.3",
             "ML": "2.8",
             "Location": "SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "08:49:53",
+            "Latitude": "37.9045",
+            "Longitude": "27.3168",
+            "Depth": "9.8",
+            "ML": "2.0",
+            "Location": "SULTANIYE SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "08:47:08",
+            "Latitude": "37.9220",
+            "Longitude": "27.2810",
+            "Depth": "9.9",
+            "ML": "1.9",
+            "Location": "SULTANIYE SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "08:46:19",
+            "Latitude": "37.9240",
+            "Longitude": "27.2662",
+            "Depth": "6.6",
+            "ML": "2.1",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
         },
         {
             "Date": "2022.07.05",
@@ -4355,114 +4454,6 @@
             "Depth": "27.4",
             "ML": "1.3",
             "Location": "OYNAGAN SUHUT AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "20:42:12",
-            "Latitude": "40.1422",
-            "Longitude": "41.2437",
-            "Depth": "16.6",
-            "ML": "2.5",
-            "Location": "AKDAG YAKUTIYE ERZURUM"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "19:50:54",
-            "Latitude": "36.9267",
-            "Longitude": "27.5208",
-            "Depth": "7.9",
-            "ML": "2.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "19:41:06",
-            "Latitude": "38.1932",
-            "Longitude": "38.2132",
-            "Depth": "16.6",
-            "ML": "2.1",
-            "Location": "ATALAR YESILYURT MALATYA"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "19:20:54",
-            "Latitude": "37.4158",
-            "Longitude": "36.9420",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "KUYUMCULAR TURKOGLU KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "19:20:37",
-            "Latitude": "40.8767",
-            "Longitude": "28.0925",
-            "Depth": "6.6",
-            "ML": "1.6",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "18:28:16",
-            "Latitude": "38.1710",
-            "Longitude": "27.5187",
-            "Depth": "2.9",
-            "ML": "1.6",
-            "Location": "ARIKBASI BAYINDIR IZMIR"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "18:05:42",
-            "Latitude": "36.3345",
-            "Longitude": "33.5000",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "KAVAKOLUGU GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "17:47:06",
-            "Latitude": "39.1967",
-            "Longitude": "41.6062",
-            "Depth": "12.2",
-            "ML": "2.2",
-            "Location": "SAHVERDI HINIS ERZURUM"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "17:20:49",
-            "Latitude": "39.5827",
-            "Longitude": "39.4040",
-            "Depth": "5.2",
-            "ML": "1.8",
-            "Location": "CAKIRLAR KEMAH ERZINCAN"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "17:06:38",
-            "Latitude": "39.4998",
-            "Longitude": "35.3168",
-            "Depth": "7.5",
-            "ML": "1.2",
-            "Location": "TOMARCAHUYUGU SARIKAYA YOZGAT"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "16:52:09",
-            "Latitude": "39.4767",
-            "Longitude": "31.6043",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "16:49:56",
-            "Latitude": "39.8855",
-            "Longitude": "28.8753",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "IKIZOLUK ORHANELI BURSA"
         }
     ]
 }
