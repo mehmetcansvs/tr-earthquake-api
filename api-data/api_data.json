@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.05",
+            "Time": "09:41:44",
+            "Latitude": "37.9422",
+            "Longitude": "27.2412",
+            "Depth": "15.5",
+            "ML": "2.1",
+            "Location": "ZEYTINKOY SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.07.05",
             "Time": "08:54:47",
             "Latitude": "37.9628",
             "Longitude": "27.3458",
@@ -4454,15 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.6",
             "Location": "IKIZOLUK ORHANELI BURSA"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "16:04:35",
-            "Latitude": "35.7808",
-            "Longitude": "30.9190",
-            "Depth": "7.2",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
