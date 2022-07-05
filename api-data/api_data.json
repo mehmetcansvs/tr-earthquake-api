@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.05",
+            "Time": "22:19:52",
+            "Latitude": "39.8163",
+            "Longitude": "26.1348",
+            "Depth": "11.1",
+            "ML": "1.2",
+            "Location": "GEYIKLI EZINE CANAKKALE ACIKLARI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "21:53:55",
+            "Latitude": "40.1443",
+            "Longitude": "27.2953",
+            "Depth": "11.6",
+            "ML": "2.0",
+            "Location": "ARABAALAN BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "21:25:16",
+            "Latitude": "40.8197",
+            "Longitude": "28.1717",
+            "Depth": "11.6",
+            "ML": "1.9",
+            "Location": "SILIVRI ACIKLARI ISTANBUL MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.07.05",
             "Time": "18:09:09",
             "Latitude": "37.2277",
             "Longitude": "27.9378",
@@ -4427,33 +4454,6 @@
             "Depth": "5.3",
             "ML": "2.4",
             "Location": "ISKENDERUN KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "07:31:20",
-            "Latitude": "36.9535",
-            "Longitude": "27.6197",
-            "Depth": "4.1",
-            "ML": "1.0",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "07:03:45",
-            "Latitude": "37.0625",
-            "Longitude": "28.4100",
-            "Depth": "1.9",
-            "ML": "1.0",
-            "Location": "YESILOVA ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "06:58:13",
-            "Latitude": "34.8002",
-            "Longitude": "23.8193",
-            "Depth": "27.0",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
