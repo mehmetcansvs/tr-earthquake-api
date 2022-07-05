@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.05",
+            "Time": "03:36:31",
+            "Latitude": "36.5750",
+            "Longitude": "31.4380",
+            "Depth": "55.4",
+            "ML": "2.1",
+            "Location": "MANAVGAT ACIKLARI ANTALYA AKDENIZ"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "02:06:57",
+            "Latitude": "40.7952",
+            "Longitude": "34.6537",
+            "Depth": "14.4",
+            "ML": "2.4",
+            "Location": "AGACCAMI OGUZLAR CORUM"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "01:56:07",
+            "Latitude": "36.5978",
+            "Longitude": "36.4327",
+            "Depth": "5.6",
+            "ML": "2.8",
+            "Location": "KARAMANKASI KIRIKHAN HATAY"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "01:31:03",
+            "Latitude": "37.8448",
+            "Longitude": "27.0400",
+            "Depth": "5.5",
+            "ML": "2.0",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.05",
             "Time": "00:37:13",
             "Latitude": "36.2553",
             "Longitude": "27.0083",
@@ -4427,42 +4463,6 @@
             "Depth": "53.6",
             "ML": "1.8",
             "Location": "GUNLUCE ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "14:46:27",
-            "Latitude": "37.2785",
-            "Longitude": "35.9965",
-            "Depth": "10.5",
-            "ML": "2.2",
-            "Location": "KERIMLI KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "14:29:24",
-            "Latitude": "37.8927",
-            "Longitude": "29.2173",
-            "Depth": "28.4",
-            "ML": "1.6",
-            "Location": "IRLIGANLI DENIZLI"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "13:49:27",
-            "Latitude": "38.6615",
-            "Longitude": "39.5698",
-            "Depth": "9.9",
-            "ML": "2.6",
-            "Location": "CATAKBASI KOVANCILAR ELAZIG"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "13:40:08",
-            "Latitude": "38.6705",
-            "Longitude": "30.9378",
-            "Depth": "6.4",
-            "ML": "0.7",
-            "Location": "KADIKOY CAY AFYONKARAHISAR"
         }
     ]
 }
