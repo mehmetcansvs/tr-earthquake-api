@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.05",
+            "Time": "08:54:47",
+            "Latitude": "37.9628",
+            "Longitude": "27.3458",
+            "Depth": "4.3",
+            "ML": "2.8",
+            "Location": "SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.07.05",
             "Time": "04:38:45",
             "Latitude": "39.7547",
             "Longitude": "41.9542",
@@ -4454,15 +4463,6 @@
             "Depth": "7.2",
             "ML": "2.9",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "15:38:55",
-            "Latitude": "38.4893",
-            "Longitude": "34.1852",
-            "Depth": "4.1",
-            "ML": "1.7",
-            "Location": "YALNIZCEVIZ AKSARAY"
         }
     ]
 }
