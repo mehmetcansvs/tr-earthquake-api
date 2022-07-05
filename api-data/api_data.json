@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.05",
+            "Time": "04:38:45",
+            "Latitude": "39.7547",
+            "Longitude": "41.9542",
+            "Depth": "6.9",
+            "ML": "2.0",
+            "Location": "PAYVEREN KARAYAZI ERZURUM"
+        },
+        {
+            "Date": "2022.07.05",
             "Time": "03:36:31",
             "Latitude": "36.5750",
             "Longitude": "31.4380",
@@ -4454,15 +4463,6 @@
             "Depth": "4.1",
             "ML": "1.7",
             "Location": "YALNIZCEVIZ AKSARAY"
-        },
-        {
-            "Date": "2022.06.22",
-            "Time": "15:25:55",
-            "Latitude": "36.6573",
-            "Longitude": "28.3703",
-            "Depth": "53.6",
-            "ML": "1.8",
-            "Location": "GUNLUCE ACIKLARI MUGLA AKDENIZ"
         }
     ]
 }
