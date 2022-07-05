@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.07.06",
+            "Time": "00:20:19",
+            "Latitude": "36.9520",
+            "Longitude": "28.7283",
+            "Depth": "10.2",
+            "ML": "1.5",
+            "Location": "ZEYTINALANI KOYCEGIZ MUGLA"
+        },
+        {
             "Date": "2022.07.05",
             "Time": "22:19:52",
             "Latitude": "39.8163",
@@ -4445,15 +4454,6 @@
             "Depth": "11.3",
             "ML": "1.4",
             "Location": "TIRAZLI KARABAGLAR IZMIR"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "09:55:04",
-            "Latitude": "36.8132",
-            "Longitude": "35.9803",
-            "Depth": "5.3",
-            "ML": "2.4",
-            "Location": "ISKENDERUN KORFEZI AKDENIZ"
         }
     ]
 }
