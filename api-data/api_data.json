@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.05",
+            "Time": "18:09:09",
+            "Latitude": "37.2277",
+            "Longitude": "27.9378",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "KAYADERE MILAS MUGLA"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "17:52:25",
+            "Latitude": "39.5833",
+            "Longitude": "29.4923",
+            "Depth": "0.0",
+            "ML": "2.0",
+            "Location": "KAYAARASI TAVSANLI KUTAHYA"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "17:18:17",
+            "Latitude": "39.4495",
+            "Longitude": "31.5712",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
+        },
+        {
+            "Date": "2022.07.05",
             "Time": "15:29:24",
             "Latitude": "36.0707",
             "Longitude": "33.6072",
@@ -4427,33 +4454,6 @@
             "Depth": "27.0",
             "ML": "3.3",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "05:03:38",
-            "Latitude": "34.5890",
-            "Longitude": "32.1845",
-            "Depth": "10.0",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "04:05:34",
-            "Latitude": "38.7010",
-            "Longitude": "44.4377",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "TURKIYE IRAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "03:54:01",
-            "Latitude": "36.0378",
-            "Longitude": "29.1033",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "AKDENIZ"
         }
     ]
 }
