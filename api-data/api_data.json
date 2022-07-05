@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.05",
+            "Time": "15:29:24",
+            "Latitude": "36.0707",
+            "Longitude": "33.6072",
+            "Depth": "7.9",
+            "ML": "1.5",
+            "Location": "YESILOVACIK ACIKLARI MERSIN AKDENIZ"
+        },
+        {
+            "Date": "2022.07.05",
             "Time": "14:20:35",
             "Latitude": "40.1797",
             "Longitude": "31.7595",
@@ -44,6 +53,15 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "KANLIPINAR ODUNPAZARI ESKISEHIR"
+        },
+        {
+            "Date": "2022.07.05",
+            "Time": "11:46:35",
+            "Latitude": "35.0910",
+            "Longitude": "24.0767",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.05",
@@ -398,6 +416,15 @@
         },
         {
             "Date": "2022.07.04",
+            "Time": "15:28:14",
+            "Latitude": "35.4602",
+            "Longitude": "25.8777",
+            "Depth": "18.8",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.04",
             "Time": "15:28:09",
             "Latitude": "34.3877",
             "Longitude": "26.1078",
@@ -503,6 +530,15 @@
             "Depth": "5.7",
             "ML": "3.3",
             "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.04",
+            "Time": "09:16:13",
+            "Latitude": "36.2652",
+            "Longitude": "27.0218",
+            "Depth": "20.3",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.07.04",
@@ -4418,42 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.5",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "03:28:33",
-            "Latitude": "40.2068",
-            "Longitude": "33.3923",
-            "Depth": "9.0",
-            "ML": "2.7",
-            "Location": "KILCAK KALECIK ANKARA"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "02:25:21",
-            "Latitude": "35.7775",
-            "Longitude": "30.9590",
-            "Depth": "14.0",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "02:08:33",
-            "Latitude": "37.6552",
-            "Longitude": "37.9162",
-            "Depth": "6.6",
-            "ML": "2.2",
-            "Location": "YELBASTI BESNI ADIYAMAN"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "01:44:22",
-            "Latitude": "40.9525",
-            "Longitude": "35.7553",
-            "Depth": "5.3",
-            "ML": "2.1",
-            "Location": "KAYACIK HAVZA SAMSUN"
         }
     ]
 }
