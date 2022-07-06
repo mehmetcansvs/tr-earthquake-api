@@ -2,12 +2,30 @@
     "data": [
         {
             "Date": "2022.07.06",
+            "Time": "08:33:48",
+            "Latitude": "36.3408",
+            "Longitude": "27.1277",
+            "Depth": "5.4",
+            "ML": "2.6",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.07.06",
             "Time": "07:14:48",
             "Latitude": "37.7997",
             "Longitude": "29.5157",
             "Depth": "7.1",
             "ML": "2.2",
             "Location": "YENIBAGLAR BOZKURT DENIZLI"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "07:13:28",
+            "Latitude": "40.1638",
+            "Longitude": "34.2043",
+            "Depth": "5.3",
+            "ML": "1.8",
+            "Location": "AYDOGAN SUNGURLU CORUM"
         },
         {
             "Date": "2022.07.06",
@@ -4436,24 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "BEYNAM BALA ANKARA"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "18:06:22",
-            "Latitude": "39.4708",
-            "Longitude": "29.3833",
-            "Depth": "6.2",
-            "ML": "1.9",
-            "Location": "AGAKOY TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "17:22:09",
-            "Latitude": "39.5848",
-            "Longitude": "27.0945",
-            "Depth": "7.2",
-            "ML": "2.1",
-            "Location": "CAMDIBI HAVRAN BALIKESIR"
         }
     ]
 }
