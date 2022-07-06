@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.07.07",
+            "Time": "00:42:27",
+            "Latitude": "37.7972",
+            "Longitude": "29.3683",
+            "Depth": "8.0",
+            "ML": "1.4",
+            "Location": "DERECIFTLIK HONAZ DENIZLI REVIZE KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "23:48:55",
+            "Latitude": "38.0108",
+            "Longitude": "32.4867",
+            "Depth": "11.6",
+            "ML": "1.1",
+            "Location": "SIZMA SELCUKLU KONYA"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "23:26:20",
+            "Latitude": "38.8125",
+            "Longitude": "43.5657",
+            "Depth": "17.9",
+            "ML": "1.8",
+            "Location": "AKCIFT VAN"
+        },
+        {
             "Date": "2022.07.06",
             "Time": "22:46:26",
             "Latitude": "40.1660",
@@ -4418,42 +4445,6 @@
             "Depth": "7.3",
             "ML": "2.1",
             "Location": "KAMAN YILDIZELI SIVAS"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "17:17:49",
-            "Latitude": "39.8160",
-            "Longitude": "27.9310",
-            "Depth": "14.4",
-            "ML": "2.3",
-            "Location": "HALKAPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "16:33:53",
-            "Latitude": "41.1015",
-            "Longitude": "28.9848",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "KAGITHANE ISTANBUL"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "16:26:38",
-            "Latitude": "36.3228",
-            "Longitude": "33.9102",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "GULUMPASALI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "16:08:40",
-            "Latitude": "39.4292",
-            "Longitude": "40.3427",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "KABAYEL YEDISU BINGOL"
         }
     ]
 }
