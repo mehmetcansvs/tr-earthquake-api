@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.06",
+            "Time": "18:08:40",
+            "Latitude": "37.2188",
+            "Longitude": "27.9378",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "KAYADERE MILAS MUGLA"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "17:26:05",
+            "Latitude": "38.8168",
+            "Longitude": "37.8337",
+            "Depth": "8.4",
+            "ML": "1.4",
+            "Location": "DURSUNLU HEKIMHAN MALATYA"
+        },
+        {
+            "Date": "2022.07.06",
             "Time": "15:34:09",
             "Latitude": "35.6418",
             "Longitude": "27.1208",
@@ -4436,24 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "13:46:26",
-            "Latitude": "40.1948",
-            "Longitude": "30.7642",
-            "Depth": "10.0",
-            "ML": "1.7",
-            "Location": "ASAGIKINIK GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "13:44:36",
-            "Latitude": "38.2210",
-            "Longitude": "38.8385",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "ORMELI PUTURGE MALATYA"
         }
     ]
 }
