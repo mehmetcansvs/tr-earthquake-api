@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.06",
+            "Time": "15:34:09",
+            "Latitude": "35.6418",
+            "Longitude": "27.1208",
+            "Depth": "4.9",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "15:02:55",
+            "Latitude": "39.5355",
+            "Longitude": "29.5837",
+            "Depth": "0.0",
+            "ML": "1.2",
+            "Location": "KAYI TAVSANLI KUTAHYA"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "14:29:57",
+            "Latitude": "36.4168",
+            "Longitude": "27.1647",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.07.06",
             "Time": "13:36:09",
             "Latitude": "36.1638",
             "Longitude": "33.5317",
@@ -4427,33 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.8",
             "Location": "ORMELI PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "13:44:25",
-            "Latitude": "39.9802",
-            "Longitude": "25.6760",
-            "Depth": "5.3",
-            "ML": "1.5",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "13:41:43",
-            "Latitude": "40.2350",
-            "Longitude": "30.8035",
-            "Depth": "20.4",
-            "ML": "1.7",
-            "Location": "HIMMETOGLU GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "13:27:08",
-            "Latitude": "38.7912",
-            "Longitude": "31.1232",
-            "Depth": "5.2",
-            "ML": "1.5",
-            "Location": "KARAYOKUS BOLVADIN AFYONKARAHISAR"
         }
     ]
 }
