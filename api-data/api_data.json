@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.06",
+            "Time": "22:46:26",
+            "Latitude": "40.1660",
+            "Longitude": "31.8127",
+            "Depth": "14.5",
+            "ML": "1.9",
+            "Location": "KUYUCAK BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "22:38:54",
+            "Latitude": "37.9795",
+            "Longitude": "27.1607",
+            "Depth": "6.3",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "22:37:57",
+            "Latitude": "36.7823",
+            "Longitude": "27.4185",
+            "Depth": "6.1",
+            "ML": "1.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.06",
             "Time": "21:07:26",
             "Latitude": "38.3982",
             "Longitude": "32.3728",
@@ -4427,33 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.7",
             "Location": "KABAYEL YEDISU BINGOL"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "16:00:24",
-            "Latitude": "36.8077",
-            "Longitude": "27.4315",
-            "Depth": "9.0",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "15:54:05",
-            "Latitude": "37.9003",
-            "Longitude": "26.9937",
-            "Depth": "2.6",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "15:52:15",
-            "Latitude": "37.8813",
-            "Longitude": "27.2142",
-            "Depth": "1.8",
-            "ML": "1.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
