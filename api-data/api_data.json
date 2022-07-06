@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.06",
+            "Time": "05:32:06",
+            "Latitude": "39.1342",
+            "Longitude": "27.6702",
+            "Depth": "6.7",
+            "ML": "2.4",
+            "Location": "OGECLI KIRKAGAC MANISA"
+        },
+        {
+            "Date": "2022.07.06",
             "Time": "04:37:06",
             "Latitude": "36.6647",
             "Longitude": "36.6040",
@@ -4445,15 +4454,6 @@
             "Depth": "18.3",
             "ML": "1.9",
             "Location": "TASLIYAYLA SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.06.23",
-            "Time": "14:36:33",
-            "Latitude": "38.7420",
-            "Longitude": "43.4480",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "YEMLICE VAN"
         }
     ]
 }
