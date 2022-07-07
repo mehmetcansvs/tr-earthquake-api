@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.07.07",
+            "Time": "05:01:38",
+            "Latitude": "40.0262",
+            "Longitude": "40.0965",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "UMURLU OTLUKBELI ERZINCAN"
+        },
+        {
+            "Date": "2022.07.07",
             "Time": "04:24:27",
             "Latitude": "37.8572",
             "Longitude": "27.0658",
             "Depth": "1.1",
             "ML": "2.2",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.07",
+            "Time": "04:20:44",
+            "Latitude": "38.1102",
+            "Longitude": "23.9032",
+            "Depth": "4.6",
+            "ML": "2.6",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.07.07",
+            "Time": "03:48:40",
+            "Latitude": "35.3827",
+            "Longitude": "25.3285",
+            "Depth": "12.1",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.07",
@@ -4418,33 +4445,6 @@
             "Depth": "5.4",
             "ML": "2.2",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "18:22:47",
-            "Latitude": "39.0073",
-            "Longitude": "27.9020",
-            "Depth": "13.1",
-            "ML": "1.8",
-            "Location": "YENICE AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "17:41:58",
-            "Latitude": "37.8645",
-            "Longitude": "26.9488",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "17:25:58",
-            "Latitude": "36.8072",
-            "Longitude": "27.2715",
-            "Depth": "14.6",
-            "ML": "2.2",
-            "Location": "KOS ADASI AKDENIZ"
         }
     ]
 }
