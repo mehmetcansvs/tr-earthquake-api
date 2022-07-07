@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.07",
+            "Time": "14:47:12",
+            "Latitude": "39.6453",
+            "Longitude": "39.8872",
+            "Depth": "10.6",
+            "ML": "2.4",
+            "Location": "PINARLIKAYA UZUMLU ERZINCAN"
+        },
+        {
+            "Date": "2022.07.07",
+            "Time": "14:14:23",
+            "Latitude": "36.1338",
+            "Longitude": "33.5842",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.07.07",
             "Time": "13:04:02",
             "Latitude": "35.3888",
             "Longitude": "33.6567",
@@ -317,12 +335,30 @@
         },
         {
             "Date": "2022.07.06",
+            "Time": "13:13:18",
+            "Latitude": "35.0657",
+            "Longitude": "23.1420",
+            "Depth": "22.4",
+            "ML": "2.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.06",
             "Time": "13:04:19",
             "Latitude": "38.8402",
             "Longitude": "27.6818",
             "Depth": "1.7",
             "ML": "1.3",
             "Location": "DILEK SARUHANLI MANISA"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "12:54:06",
+            "Latitude": "35.3312",
+            "Longitude": "25.3300",
+            "Depth": "8.2",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.06",
@@ -407,6 +443,24 @@
         },
         {
             "Date": "2022.07.06",
+            "Time": "11:32:32",
+            "Latitude": "40.0287",
+            "Longitude": "29.1250",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "KARAISLAH OSMANGAZI BURSA"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "11:28:25",
+            "Latitude": "35.9535",
+            "Longitude": "24.0698",
+            "Depth": "17.3",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.06",
             "Time": "11:27:24",
             "Latitude": "36.0345",
             "Longitude": "31.5328",
@@ -443,6 +497,24 @@
         },
         {
             "Date": "2022.07.06",
+            "Time": "08:31:13",
+            "Latitude": "35.6063",
+            "Longitude": "25.3453",
+            "Depth": "14.2",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "07:29:16",
+            "Latitude": "36.1005",
+            "Longitude": "24.5402",
+            "Depth": "24.3",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.06",
             "Time": "07:14:48",
             "Latitude": "37.7997",
             "Longitude": "29.5157",
@@ -476,6 +548,24 @@
             "Depth": "5.0",
             "ML": "2.3",
             "Location": "BOGAZLI OTLUKBELI ERZINCAN"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "06:35:41",
+            "Latitude": "35.4267",
+            "Longitude": "25.3457",
+            "Depth": "9.5",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "05:36:15",
+            "Latitude": "36.0888",
+            "Longitude": "26.2718",
+            "Depth": "23.7",
+            "ML": "1.9",
+            "Location": "AKDENIZ"
         },
         {
             "Date": "2022.07.06",
@@ -4355,96 +4445,6 @@
             "Depth": "17.8",
             "ML": "1.7",
             "Location": "GOKCELER MANISA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "11:48:37",
-            "Latitude": "37.3938",
-            "Longitude": "28.0030",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "ZEYTIN YATAGAN MUGLA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "11:19:33",
-            "Latitude": "39.4747",
-            "Longitude": "33.5018",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "KARAYAKUP CELEBI KIRIKKALE"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "10:34:07",
-            "Latitude": "38.9708",
-            "Longitude": "26.0653",
-            "Depth": "22.3",
-            "ML": "1.6",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "10:02:50",
-            "Latitude": "40.1510",
-            "Longitude": "31.6867",
-            "Depth": "0.0",
-            "ML": "2.3",
-            "Location": "ULUKOY NALLIHAN ANKARA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "09:35:54",
-            "Latitude": "38.3232",
-            "Longitude": "28.6378",
-            "Depth": "13.3",
-            "ML": "1.5",
-            "Location": "SUBASI ALASEHIR MANISA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "09:22:34",
-            "Latitude": "39.2382",
-            "Longitude": "27.8828",
-            "Depth": "5.5",
-            "ML": "1.2",
-            "Location": "COBANLAR KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "09:17:06",
-            "Latitude": "40.5913",
-            "Longitude": "28.8888",
-            "Depth": "13.0",
-            "ML": "1.3",
-            "Location": "ESENKOY CINARCIK YALOVA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "08:32:24",
-            "Latitude": "38.1810",
-            "Longitude": "28.4110",
-            "Depth": "20.9",
-            "ML": "1.5",
-            "Location": "TASLIYATAK KIRAZ IZMIR"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "08:27:00",
-            "Latitude": "41.0627",
-            "Longitude": "42.0288",
-            "Depth": "5.3",
-            "ML": "2.4",
-            "Location": "TORBALI ARDANUC ARTVIN"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "07:54:59",
-            "Latitude": "39.5970",
-            "Longitude": "25.9968",
-            "Depth": "9.9",
-            "ML": "2.3",
-            "Location": "TAVAKLI ACIKLARI CANAKKALE EGE DENIZI"
         }
     ]
 }
