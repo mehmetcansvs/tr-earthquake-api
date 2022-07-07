@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.07",
+            "Time": "18:13:16",
+            "Latitude": "38.7622",
+            "Longitude": "43.6542",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "SURUYOLU MURADIYE VAN"
+        },
+        {
+            "Date": "2022.07.07",
+            "Time": "17:55:12",
+            "Latitude": "39.8157",
+            "Longitude": "27.9637",
+            "Depth": "8.5",
+            "ML": "1.9",
+            "Location": "CAYPINAR BALIKESIR"
+        },
+        {
+            "Date": "2022.07.07",
             "Time": "15:25:26",
             "Latitude": "41.1400",
             "Longitude": "28.9860",
@@ -4427,24 +4445,6 @@
             "Depth": "15.4",
             "ML": "1.5",
             "Location": "KIRIK DOMANIC KUTAHYA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "12:39:32",
-            "Latitude": "39.4680",
-            "Longitude": "29.6650",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "VAKIF TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "12:30:02",
-            "Latitude": "39.8847",
-            "Longitude": "28.8292",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "YENIDANISMENT ORHANELI BURSA"
         }
     ]
 }
