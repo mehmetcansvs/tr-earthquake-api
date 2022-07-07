@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.07",
+            "Time": "04:24:27",
+            "Latitude": "37.8572",
+            "Longitude": "27.0658",
+            "Depth": "1.1",
+            "ML": "2.2",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.07",
+            "Time": "01:31:13",
+            "Latitude": "40.2075",
+            "Longitude": "34.1975",
+            "Depth": "4.4",
+            "ML": "2.1",
+            "Location": "TERZILI SUNGURLU CORUM"
+        },
+        {
+            "Date": "2022.07.07",
             "Time": "00:42:27",
             "Latitude": "37.7972",
             "Longitude": "29.3683",
@@ -4427,24 +4445,6 @@
             "Depth": "14.6",
             "ML": "2.2",
             "Location": "KOS ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "17:25:14",
-            "Latitude": "36.8422",
-            "Longitude": "27.4357",
-            "Depth": "5.0",
-            "ML": "1.9",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "17:18:23",
-            "Latitude": "39.9152",
-            "Longitude": "36.3718",
-            "Depth": "7.3",
-            "ML": "2.1",
-            "Location": "KAMAN YILDIZELI SIVAS"
         }
     ]
 }
