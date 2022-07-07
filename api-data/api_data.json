@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.07",
+            "Time": "10:40:23",
+            "Latitude": "37.7382",
+            "Longitude": "36.0307",
+            "Depth": "8.7",
+            "ML": "2.8",
+            "Location": "AKOLUK FEKE ADANA"
+        },
+        {
+            "Date": "2022.07.07",
+            "Time": "09:55:04",
+            "Latitude": "39.2712",
+            "Longitude": "27.5302",
+            "Depth": "21.5",
+            "ML": "1.6",
+            "Location": "URUZLAR SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.07",
+            "Time": "09:24:28",
+            "Latitude": "40.7982",
+            "Longitude": "29.0392",
+            "Depth": "10.0",
+            "ML": "2.2",
+            "Location": "CINARCIK ACIKLARI YALOVA MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.07.07",
             "Time": "08:13:04",
             "Latitude": "38.3330",
             "Longitude": "32.4990",
@@ -4418,33 +4445,6 @@
             "Depth": "12.6",
             "ML": "2.0",
             "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "00:06:55",
-            "Latitude": "38.5333",
-            "Longitude": "44.0052",
-            "Depth": "16.9",
-            "ML": "1.8",
-            "Location": "KASIKARA OZALP VAN"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "23:26:36",
-            "Latitude": "40.5538",
-            "Longitude": "34.5697",
-            "Depth": "9.6",
-            "ML": "1.8",
-            "Location": "IGDELI CORUM"
-        },
-        {
-            "Date": "2022.06.24",
-            "Time": "22:32:07",
-            "Latitude": "37.8480",
-            "Longitude": "29.5578",
-            "Depth": "17.9",
-            "ML": "1.3",
-            "Location": "BASCESME BOZKURT DENIZLI"
         }
     ]
 }
