@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.07",
+            "Time": "13:04:02",
+            "Latitude": "35.3888",
+            "Longitude": "33.6567",
+            "Depth": "22.3",
+            "ML": "1.7",
+            "Location": "KIBRIS BESPARMAK"
+        },
+        {
+            "Date": "2022.07.07",
+            "Time": "12:45:52",
+            "Latitude": "35.3098",
+            "Longitude": "33.3895",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "KIBRIS GIRNE"
+        },
+        {
+            "Date": "2022.07.07",
+            "Time": "11:21:09",
+            "Latitude": "37.7778",
+            "Longitude": "29.3635",
+            "Depth": "20.0",
+            "ML": "1.4",
+            "Location": "DERECIFTLIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.07.07",
             "Time": "10:40:23",
             "Latitude": "37.7382",
             "Longitude": "36.0307",
@@ -17,6 +44,15 @@
             "Depth": "21.5",
             "ML": "1.6",
             "Location": "URUZLAR SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.07",
+            "Time": "09:32:42",
+            "Latitude": "40.6715",
+            "Longitude": "34.9177",
+            "Depth": "2.7",
+            "ML": "2.1",
+            "Location": "OSMANIYE CORUM"
         },
         {
             "Date": "2022.07.07",
@@ -100,6 +136,15 @@
             "Location": "DERECIFTLIK HONAZ DENIZLI REVIZE KIZILAGIL BOLU"
         },
         {
+            "Date": "2022.07.07",
+            "Time": "00:21:36",
+            "Latitude": "35.1485",
+            "Longitude": "23.5957",
+            "Depth": "28.5",
+            "ML": "1.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
             "Date": "2022.07.06",
             "Time": "23:48:55",
             "Latitude": "38.0108",
@@ -110,12 +155,30 @@
         },
         {
             "Date": "2022.07.06",
+            "Time": "23:30:52",
+            "Latitude": "35.4455",
+            "Longitude": "25.2990",
+            "Depth": "8.6",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.06",
             "Time": "23:26:20",
             "Latitude": "38.8125",
             "Longitude": "43.5657",
             "Depth": "17.9",
             "ML": "1.8",
             "Location": "AKCIFT VAN"
+        },
+        {
+            "Date": "2022.07.06",
+            "Time": "23:04:15",
+            "Latitude": "35.0442",
+            "Longitude": "25.2873",
+            "Depth": "11.7",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.06",
@@ -4382,69 +4445,6 @@
             "Depth": "9.9",
             "ML": "2.3",
             "Location": "TAVAKLI ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "07:46:09",
-            "Latitude": "36.7060",
-            "Longitude": "29.3615",
-            "Depth": "7.0",
-            "ML": "1.9",
-            "Location": "ATLIDERE FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "07:14:53",
-            "Latitude": "36.8023",
-            "Longitude": "27.3217",
-            "Depth": "5.8",
-            "ML": "2.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "05:54:29",
-            "Latitude": "40.6623",
-            "Longitude": "31.5290",
-            "Depth": "18.1",
-            "ML": "1.9",
-            "Location": "CEPNI BOLU"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "05:13:42",
-            "Latitude": "41.0183",
-            "Longitude": "24.8953",
-            "Depth": "8.4",
-            "ML": "1.9",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "04:48:31",
-            "Latitude": "40.6682",
-            "Longitude": "31.5527",
-            "Depth": "22.9",
-            "ML": "2.2",
-            "Location": "SULTAN BOLU"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "02:36:26",
-            "Latitude": "39.1993",
-            "Longitude": "27.4832",
-            "Depth": "7.9",
-            "ML": "2.5",
-            "Location": "CERKEZ HAMIDIYE SOMA MANISA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "02:29:06",
-            "Latitude": "37.6470",
-            "Longitude": "25.9960",
-            "Depth": "12.6",
-            "ML": "2.0",
-            "Location": "ONIKI ADALAR AKDENIZ"
         }
     ]
 }
