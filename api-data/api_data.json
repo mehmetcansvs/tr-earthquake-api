@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.07",
+            "Time": "15:25:26",
+            "Latitude": "41.1400",
+            "Longitude": "28.9860",
+            "Depth": "0.0",
+            "ML": "0.8",
+            "Location": "SARIYER ISTANBUL"
+        },
+        {
+            "Date": "2022.07.07",
             "Time": "14:47:12",
             "Latitude": "39.6453",
             "Longitude": "39.8872",
@@ -26,6 +35,15 @@
             "Depth": "22.3",
             "ML": "1.7",
             "Location": "KIBRIS BESPARMAK"
+        },
+        {
+            "Date": "2022.07.07",
+            "Time": "12:55:02",
+            "Latitude": "35.1552",
+            "Longitude": "25.1073",
+            "Depth": "20.2",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.07",
@@ -4427,24 +4445,6 @@
             "Depth": "0.0",
             "ML": "1.7",
             "Location": "YENIDANISMENT ORHANELI BURSA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "12:25:35",
-            "Latitude": "39.8917",
-            "Longitude": "28.8032",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "CIVILI ORHANELI BURSA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "11:52:22",
-            "Latitude": "38.5688",
-            "Longitude": "27.2995",
-            "Depth": "17.8",
-            "ML": "1.7",
-            "Location": "GOKCELER MANISA"
         }
     ]
 }
