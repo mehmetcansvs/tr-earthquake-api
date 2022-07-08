@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.07.08",
+            "Time": "16:17:34",
+            "Latitude": "36.9700",
+            "Longitude": "27.6813",
+            "Depth": "4.1",
+            "ML": "1.8",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "16:08:08",
+            "Latitude": "39.0560",
+            "Longitude": "37.3487",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "SEKERPINAR KANGAL SIVAS"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "16:06:16",
+            "Latitude": "38.4827",
+            "Longitude": "39.1980",
+            "Depth": "11.4",
+            "ML": "2.1",
+            "Location": "DEDEYOLU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "15:56:47",
+            "Latitude": "37.0395",
+            "Longitude": "28.4310",
+            "Depth": "2.9",
+            "ML": "1.2",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "15:52:46",
+            "Latitude": "38.9775",
+            "Longitude": "27.8515",
+            "Depth": "6.6",
+            "ML": "2.0",
+            "Location": "KARABORKLU AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "15:47:52",
+            "Latitude": "40.0672",
+            "Longitude": "28.6230",
+            "Depth": "14.0",
+            "ML": "1.6",
+            "Location": "INCEALIPINAR MUSTAFAKEMALPASA BURSA"
+        },
+        {
+            "Date": "2022.07.08",
             "Time": "15:09:35",
             "Latitude": "38.9213",
             "Longitude": "29.1452",
@@ -4391,60 +4445,6 @@
             "Depth": "13.5",
             "ML": "1.5",
             "Location": "OZDEMIR ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "10:04:35",
-            "Latitude": "36.7823",
-            "Longitude": "30.1667",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "OVACIK ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "09:59:42",
-            "Latitude": "39.9945",
-            "Longitude": "24.3718",
-            "Depth": "14.9",
-            "ML": "3.2",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "09:58:21",
-            "Latitude": "36.7842",
-            "Longitude": "30.1688",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "OVACIK ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "09:38:15",
-            "Latitude": "36.8007",
-            "Longitude": "30.1395",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "OVACIK ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "09:36:11",
-            "Latitude": "38.8938",
-            "Longitude": "43.5327",
-            "Depth": "9.1",
-            "ML": "1.7",
-            "Location": "COLPAN VAN"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "09:35:55",
-            "Latitude": "40.0048",
-            "Longitude": "24.3505",
-            "Depth": "8.2",
-            "ML": "2.2",
-            "Location": "YUNANISTAN"
         }
     ]
 }
