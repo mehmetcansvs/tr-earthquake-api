@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.08",
+            "Time": "22:54:43",
+            "Latitude": "38.7115",
+            "Longitude": "43.7145",
+            "Depth": "5.7",
+            "ML": "3.0",
+            "Location": "YUKARIGUNEYCE VAN"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "20:28:36",
+            "Latitude": "37.1703",
+            "Longitude": "34.5505",
+            "Depth": "29.0",
+            "ML": "2.3",
+            "Location": "CAMLIYAYLA MERSIN"
+        },
+        {
+            "Date": "2022.07.08",
             "Time": "20:23:13",
             "Latitude": "38.5558",
             "Longitude": "31.2180",
@@ -26,6 +44,15 @@
             "Depth": "19.9",
             "ML": "1.4",
             "Location": "SOGUTKOY MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "18:03:32",
+            "Latitude": "34.8300",
+            "Longitude": "24.7305",
+            "Depth": "3.2",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.07.08",
@@ -4418,33 +4445,6 @@
             "Depth": "5.5",
             "ML": "2.2",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "11:58:57",
-            "Latitude": "37.0507",
-            "Longitude": "28.2243",
-            "Depth": "5.1",
-            "ML": "2.1",
-            "Location": "KIRAN MUGLA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "11:38:13",
-            "Latitude": "38.9328",
-            "Longitude": "43.4543",
-            "Depth": "11.0",
-            "ML": "2.2",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "11:29:46",
-            "Latitude": "36.7402",
-            "Longitude": "30.1698",
-            "Depth": "6.3",
-            "ML": "1.8",
-            "Location": "OVACIK ELMALI ANTALYA"
         }
     ]
 }
