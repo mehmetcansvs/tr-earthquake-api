@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.08",
+            "Time": "06:15:10",
+            "Latitude": "40.4188",
+            "Longitude": "30.7468",
+            "Depth": "7.5",
+            "ML": "1.6",
+            "Location": "BULANIK GOYNUK BOLU"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "06:08:08",
+            "Latitude": "40.5197",
+            "Longitude": "32.9447",
+            "Depth": "10.4",
+            "ML": "2.0",
+            "Location": "TUTMACBAYINDIR ORTA CANKIRI"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "03:36:39",
+            "Latitude": "36.9887",
+            "Longitude": "28.3982",
+            "Depth": "5.2",
+            "ML": "1.3",
+            "Location": "YESILCAM ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "03:20:52",
+            "Latitude": "40.8723",
+            "Longitude": "31.4073",
+            "Depth": "7.6",
+            "ML": "1.6",
+            "Location": "KIRIK YIGILCA DUZCE"
+        },
+        {
+            "Date": "2022.07.08",
             "Time": "00:48:32",
             "Latitude": "35.7872",
             "Longitude": "25.5188",
@@ -4409,42 +4445,6 @@
             "Depth": "1.9",
             "ML": "2.0",
             "Location": "YALOVA ACIKLARI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "18:30:04",
-            "Latitude": "35.1513",
-            "Longitude": "26.8812",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "18:28:18",
-            "Latitude": "35.2130",
-            "Longitude": "26.8570",
-            "Depth": "8.9",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "18:25:37",
-            "Latitude": "37.1258",
-            "Longitude": "27.6207",
-            "Depth": "7.3",
-            "ML": "1.7",
-            "Location": "KEMER BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "18:12:29",
-            "Latitude": "35.0820",
-            "Longitude": "23.4253",
-            "Depth": "28.2",
-            "ML": "3.1",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
