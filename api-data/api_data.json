@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.08",
+            "Time": "06:48:44",
+            "Latitude": "38.8658",
+            "Longitude": "43.5383",
+            "Depth": "5.8",
+            "ML": "2.6",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "06:42:42",
+            "Latitude": "40.7802",
+            "Longitude": "28.1060",
+            "Depth": "5.3",
+            "ML": "2.0",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.07.08",
             "Time": "06:15:10",
             "Latitude": "40.4188",
             "Longitude": "30.7468",
@@ -4427,24 +4445,6 @@
             "Depth": "7.9",
             "ML": "3.0",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "21:35:02",
-            "Latitude": "40.7505",
-            "Longitude": "29.0813",
-            "Depth": "10.6",
-            "ML": "1.9",
-            "Location": "CINARCIK ACIKLARI YALOVA MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.25",
-            "Time": "21:34:52",
-            "Latitude": "40.7550",
-            "Longitude": "29.1355",
-            "Depth": "1.9",
-            "ML": "2.0",
-            "Location": "YALOVA ACIKLARI MARMARA DENIZI"
         }
     ]
 }
