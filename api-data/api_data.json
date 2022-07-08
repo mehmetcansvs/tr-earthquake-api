@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.08",
+            "Time": "17:33:52",
+            "Latitude": "38.8058",
+            "Longitude": "43.5095",
+            "Depth": "17.6",
+            "ML": "2.1",
+            "Location": "DEREBEY VAN"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "17:19:26",
+            "Latitude": "37.0392",
+            "Longitude": "28.2995",
+            "Depth": "14.2",
+            "ML": "1.9",
+            "Location": "AKYAKA ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "17:02:57",
+            "Latitude": "37.6940",
+            "Longitude": "27.2850",
+            "Depth": "5.7",
+            "ML": "1.7",
+            "Location": "GULLUBAHCE SOKE AYDIN"
+        },
+        {
+            "Date": "2022.07.08",
             "Time": "16:17:34",
             "Latitude": "36.9700",
             "Longitude": "27.6813",
@@ -4418,33 +4445,6 @@
             "Depth": "3.2",
             "ML": "2.1",
             "Location": "OVACIK ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "11:20:08",
-            "Latitude": "36.8912",
-            "Longitude": "30.0727",
-            "Depth": "12.9",
-            "ML": "1.6",
-            "Location": "OZDEMIR ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "10:58:11",
-            "Latitude": "39.4190",
-            "Longitude": "26.1450",
-            "Depth": "15.5",
-            "ML": "1.6",
-            "Location": "KOYUNEVI AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "10:13:21",
-            "Latitude": "36.8707",
-            "Longitude": "30.0852",
-            "Depth": "13.5",
-            "ML": "1.5",
-            "Location": "OZDEMIR ELMALI ANTALYA"
         }
     ]
 }
