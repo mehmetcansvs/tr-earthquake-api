@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.08",
+            "Time": "20:23:13",
+            "Latitude": "38.5558",
+            "Longitude": "31.2180",
+            "Depth": "11.7",
+            "ML": "1.5",
+            "Location": "DOGANCIK SULTANDAGI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "19:44:07",
+            "Latitude": "38.7970",
+            "Longitude": "43.5427",
+            "Depth": "23.8",
+            "ML": "1.9",
+            "Location": "DEGIRMENOZU VAN"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "19:33:20",
+            "Latitude": "36.6622",
+            "Longitude": "28.1190",
+            "Depth": "19.9",
+            "ML": "1.4",
+            "Location": "SOGUTKOY MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.08",
             "Time": "17:33:52",
             "Latitude": "38.8058",
             "Longitude": "43.5095",
@@ -4417,33 +4444,6 @@
             "Longitude": "30.1698",
             "Depth": "6.3",
             "ML": "1.8",
-            "Location": "OVACIK ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "11:29:03",
-            "Latitude": "36.7857",
-            "Longitude": "30.1712",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "OVACIK ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "11:28:28",
-            "Latitude": "36.8227",
-            "Longitude": "30.1280",
-            "Depth": "3.9",
-            "ML": "1.7",
-            "Location": "KARAKOY ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "11:21:32",
-            "Latitude": "36.7308",
-            "Longitude": "30.2027",
-            "Depth": "3.2",
-            "ML": "2.1",
             "Location": "OVACIK ELMALI ANTALYA"
         }
     ]
