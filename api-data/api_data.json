@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.08",
+            "Time": "10:25:10",
+            "Latitude": "40.7223",
+            "Longitude": "28.1967",
+            "Depth": "8.1",
+            "ML": "1.5",
+            "Location": "MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "09:46:12",
+            "Latitude": "39.5232",
+            "Longitude": "25.9357",
+            "Depth": "13.5",
+            "ML": "1.8",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.08",
+            "Time": "09:22:22",
+            "Latitude": "36.9652",
+            "Longitude": "27.6722",
+            "Depth": "7.9",
+            "ML": "3.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.08",
             "Time": "08:08:30",
             "Latitude": "40.7002",
             "Longitude": "32.9682",
@@ -4418,33 +4445,6 @@
             "Depth": "6.5",
             "ML": "1.8",
             "Location": "KARABORKLU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "02:40:09",
-            "Latitude": "36.8612",
-            "Longitude": "27.7250",
-            "Depth": "3.1",
-            "ML": "1.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "02:38:38",
-            "Latitude": "36.9137",
-            "Longitude": "27.7760",
-            "Depth": "13.7",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "02:26:28",
-            "Latitude": "37.0320",
-            "Longitude": "28.3665",
-            "Depth": "2.1",
-            "ML": "1.4",
-            "Location": "SIRINKOY ULA MUGLA"
         }
     ]
 }
