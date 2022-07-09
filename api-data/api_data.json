@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.09",
+            "Time": "15:20:22",
+            "Latitude": "39.6448",
+            "Longitude": "41.0918",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "BUDAKLAR CAT ERZURUM"
+        },
+        {
+            "Date": "2022.07.09",
             "Time": "14:20:46",
             "Latitude": "38.5575",
             "Longitude": "44.5475",
@@ -4445,15 +4454,6 @@
             "Depth": "12.0",
             "ML": "2.9",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "01:34:23",
-            "Latitude": "37.0343",
-            "Longitude": "28.2305",
-            "Depth": "2.1",
-            "ML": "1.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
