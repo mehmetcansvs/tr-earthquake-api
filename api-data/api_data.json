@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.09",
+            "Time": "04:52:12",
+            "Latitude": "37.7908",
+            "Longitude": "37.7085",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "AKCAKAYA GOLBASI ADIYAMAN"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "04:51:29",
+            "Latitude": "40.1847",
+            "Longitude": "31.8563",
+            "Depth": "16.0",
+            "ML": "2.0",
+            "Location": "BAGOZU BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "04:39:22",
+            "Latitude": "38.9525",
+            "Longitude": "42.4078",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "ERICEK BULANIK MUS"
+        },
+        {
+            "Date": "2022.07.09",
             "Time": "02:58:18",
             "Latitude": "36.7320",
             "Longitude": "28.0537",
@@ -4427,33 +4454,6 @@
             "Depth": "13.7",
             "ML": "1.7",
             "Location": "OTMANLAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "15:37:58",
-            "Latitude": "36.7448",
-            "Longitude": "30.1795",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "OVACIK ELMALI ANTALYA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "15:21:03",
-            "Latitude": "36.4650",
-            "Longitude": "27.1453",
-            "Depth": "5.3",
-            "ML": "2.3",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "14:54:28",
-            "Latitude": "39.1863",
-            "Longitude": "29.4440",
-            "Depth": "6.1",
-            "ML": "1.4",
-            "Location": "PUSATLAR CAVDARHISAR KUTAHYA"
         }
     ]
 }
