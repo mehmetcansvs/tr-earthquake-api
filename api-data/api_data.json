@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.09",
+            "Time": "21:15:14",
+            "Latitude": "37.1090",
+            "Longitude": "29.2307",
+            "Depth": "8.3",
+            "ML": "1.7",
+            "Location": "KOCAOVA CAMELI DENIZLI"
+        },
+        {
+            "Date": "2022.07.09",
             "Time": "20:56:10",
             "Latitude": "38.6563",
             "Longitude": "29.2785",
@@ -4445,15 +4454,6 @@
             "Depth": "5.1",
             "ML": "1.8",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "05:13:55",
-            "Latitude": "38.1847",
-            "Longitude": "30.7330",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "GENCALI SENIRKENT ISPARTA"
         }
     ]
 }
