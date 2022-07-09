@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.09",
+            "Time": "14:20:46",
+            "Latitude": "38.5575",
+            "Longitude": "44.5475",
+            "Depth": "16.2",
+            "ML": "2.6",
+            "Location": "TURKIYE IRAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "13:36:38",
+            "Latitude": "38.3245",
+            "Longitude": "38.8263",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "UYANIK KALE MALATYA"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "13:20:54",
+            "Latitude": "36.9295",
+            "Longitude": "27.3087",
+            "Depth": "5.6",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "13:17:48",
+            "Latitude": "38.8835",
+            "Longitude": "43.5195",
+            "Depth": "8.5",
+            "ML": "2.5",
+            "Location": "ERMISLER VAN"
+        },
+        {
+            "Date": "2022.07.09",
             "Time": "11:21:30",
             "Latitude": "38.2935",
             "Longitude": "38.9583",
@@ -4418,42 +4454,6 @@
             "Depth": "2.1",
             "ML": "1.2",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "00:51:46",
-            "Latitude": "36.2960",
-            "Longitude": "29.7720",
-            "Depth": "5.4",
-            "ML": "1.1",
-            "Location": "CERLER KAS ANTALYA"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "00:47:12",
-            "Latitude": "40.7700",
-            "Longitude": "30.9255",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "BEKIROGLU GOLYAKA DUZCE"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "00:27:25",
-            "Latitude": "40.7290",
-            "Longitude": "29.1758",
-            "Depth": "6.0",
-            "ML": "1.6",
-            "Location": "YALOVA ACIKLARI MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "23:52:04",
-            "Latitude": "38.8803",
-            "Longitude": "43.5128",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "ERMISLER VAN"
         }
     ]
 }
