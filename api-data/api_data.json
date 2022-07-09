@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.09",
+            "Time": "07:13:00",
+            "Latitude": "39.9033",
+            "Longitude": "41.7048",
+            "Depth": "11.2",
+            "ML": "1.8",
+            "Location": "YASTIKTEPE PASINLER ERZURUM"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "06:57:37",
+            "Latitude": "38.7128",
+            "Longitude": "44.2612",
+            "Depth": "17.0",
+            "ML": "2.2",
+            "Location": "BAKISIK SARAY VAN"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "06:26:31",
+            "Latitude": "38.6987",
+            "Longitude": "44.1625",
+            "Depth": "9.6",
+            "ML": "2.9",
+            "Location": "SIRIMLI SARAY VAN"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "06:16:06",
+            "Latitude": "36.9535",
+            "Longitude": "27.3390",
+            "Depth": "6.4",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.09",
             "Time": "04:52:12",
             "Latitude": "37.7908",
             "Longitude": "37.7085",
@@ -4418,42 +4454,6 @@
             "Depth": "3.3",
             "ML": "1.2",
             "Location": "YENIKOY EZINE CANAKKALE"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "19:22:38",
-            "Latitude": "37.4743",
-            "Longitude": "38.3665",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "DUTLUCA BOZOVA SANLIURFA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "19:19:57",
-            "Latitude": "40.7907",
-            "Longitude": "27.7287",
-            "Depth": "12.4",
-            "ML": "2.7",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "18:42:16",
-            "Latitude": "39.0970",
-            "Longitude": "27.8177",
-            "Depth": "5.9",
-            "ML": "2.6",
-            "Location": "KARAKURT KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "17:14:14",
-            "Latitude": "37.0455",
-            "Longitude": "28.9640",
-            "Depth": "13.7",
-            "ML": "1.7",
-            "Location": "OTMANLAR KOYCEGIZ MUGLA"
         }
     ]
 }
