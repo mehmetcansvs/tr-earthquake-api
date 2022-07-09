@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.09",
+            "Time": "09:03:30",
+            "Latitude": "37.9945",
+            "Longitude": "27.1788",
+            "Depth": "1.6",
+            "ML": "1.9",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.09",
             "Time": "07:18:58",
             "Latitude": "39.4485",
             "Longitude": "33.0542",
@@ -4445,15 +4454,6 @@
             "Depth": "15.6",
             "ML": "2.4",
             "Location": "KARAKURT KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "20:21:15",
-            "Latitude": "36.8962",
-            "Longitude": "38.2250",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "KARACA SURUC SANLIURFA"
         }
     ]
 }
