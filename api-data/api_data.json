@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.09",
+            "Time": "07:18:58",
+            "Latitude": "39.4485",
+            "Longitude": "33.0542",
+            "Depth": "5.5",
+            "ML": "2.0",
+            "Location": "AFSAR BALA ANKARA"
+        },
+        {
+            "Date": "2022.07.09",
             "Time": "07:13:00",
             "Latitude": "39.9033",
             "Longitude": "41.7048",
@@ -4445,15 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.8",
             "Location": "KARACA SURUC SANLIURFA"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "19:47:19",
-            "Latitude": "39.9505",
-            "Longitude": "26.1795",
-            "Depth": "3.3",
-            "ML": "1.2",
-            "Location": "YENIKOY EZINE CANAKKALE"
         }
     ]
 }
