@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.09",
+            "Time": "11:21:30",
+            "Latitude": "38.2935",
+            "Longitude": "38.9583",
+            "Depth": "10.5",
+            "ML": "1.7",
+            "Location": "KOLDERE DOGANYOL MALATYA"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "11:15:09",
+            "Latitude": "37.8802",
+            "Longitude": "26.8660",
+            "Depth": "2.4",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "11:11:05",
+            "Latitude": "37.8872",
+            "Longitude": "26.8713",
+            "Depth": "5.4",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "10:23:57",
+            "Latitude": "37.9135",
+            "Longitude": "26.9017",
+            "Depth": "6.7",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.09",
             "Time": "09:03:30",
             "Latitude": "37.9945",
             "Longitude": "27.1788",
@@ -4418,42 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.6",
             "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "22:45:03",
-            "Latitude": "38.3792",
-            "Longitude": "39.0973",
-            "Depth": "6.4",
-            "ML": "1.9",
-            "Location": "KALABA SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "22:22:23",
-            "Latitude": "38.8717",
-            "Longitude": "43.6823",
-            "Depth": "6.1",
-            "ML": "2.1",
-            "Location": "TOPUZARPA MURADIYE VAN"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "22:20:02",
-            "Latitude": "35.6410",
-            "Longitude": "26.6843",
-            "Depth": "6.7",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.26",
-            "Time": "20:27:01",
-            "Latitude": "39.1090",
-            "Longitude": "27.8232",
-            "Depth": "15.6",
-            "ML": "2.4",
-            "Location": "KARAKURT KIRKAGAC MANISA"
         }
     ]
 }
