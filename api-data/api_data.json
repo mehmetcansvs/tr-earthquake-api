@@ -1,6 +1,60 @@
 {
     "data": [
         {
+            "Date": "2022.07.10",
+            "Time": "00:35:36",
+            "Latitude": "36.9397",
+            "Longitude": "28.2040",
+            "Depth": "10.7",
+            "ML": "1.6",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "23:41:44",
+            "Latitude": "36.9388",
+            "Longitude": "28.2955",
+            "Depth": "5.0",
+            "ML": "1.2",
+            "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "23:28:30",
+            "Latitude": "40.3763",
+            "Longitude": "35.2335",
+            "Depth": "12.8",
+            "ML": "1.5",
+            "Location": "IBEK MECITOZU CORUM"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "22:30:08",
+            "Latitude": "36.9392",
+            "Longitude": "28.2515",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "22:22:46",
+            "Latitude": "36.9478",
+            "Longitude": "28.1933",
+            "Depth": "1.8",
+            "ML": "0.7",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "21:30:31",
+            "Latitude": "36.9220",
+            "Longitude": "28.2460",
+            "Depth": "10.1",
+            "ML": "1.4",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
             "Date": "2022.07.09",
             "Time": "21:15:14",
             "Latitude": "37.1090",
@@ -4400,60 +4454,6 @@
             "Depth": "3.9",
             "ML": "1.5",
             "Location": "KOCAPINAR SUSURLUK BALIKESIR"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "07:08:26",
-            "Latitude": "39.6135",
-            "Longitude": "39.7405",
-            "Depth": "4.1",
-            "ML": "2.3",
-            "Location": "ULUKOY ERZINCAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "06:49:30",
-            "Latitude": "41.0802",
-            "Longitude": "43.9135",
-            "Depth": "5.0",
-            "ML": "3.7",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "06:45:35",
-            "Latitude": "34.6217",
-            "Longitude": "25.6088",
-            "Depth": "10.2",
-            "ML": "2.2",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "06:40:33",
-            "Latitude": "37.3767",
-            "Longitude": "35.0228",
-            "Depth": "1.9",
-            "ML": "1.9",
-            "Location": "GILDIRLI KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "06:11:49",
-            "Latitude": "36.3370",
-            "Longitude": "28.4653",
-            "Depth": "19.0",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "05:34:33",
-            "Latitude": "35.2130",
-            "Longitude": "25.3293",
-            "Depth": "5.1",
-            "ML": "1.8",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
