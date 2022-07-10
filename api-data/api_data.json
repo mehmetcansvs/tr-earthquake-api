@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.10",
+            "Time": "14:25:23",
+            "Latitude": "37.0955",
+            "Longitude": "28.4085",
+            "Depth": "4.8",
+            "ML": "1.3",
+            "Location": "ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "13:08:07",
+            "Latitude": "39.1462",
+            "Longitude": "41.6095",
+            "Depth": "4.8",
+            "ML": "1.9",
+            "Location": "GOLTEPE VARTO MUS"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "13:06:38",
+            "Latitude": "36.9422",
+            "Longitude": "28.2143",
+            "Depth": "1.8",
+            "ML": "1.7",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.10",
             "Time": "12:58:13",
             "Latitude": "38.8568",
             "Longitude": "43.5615",
@@ -44,6 +71,24 @@
             "Depth": "12.8",
             "ML": "2.2",
             "Location": "BULGURLU HORASAN ERZURUM"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "11:59:17",
+            "Latitude": "37.1667",
+            "Longitude": "36.8372",
+            "Depth": "19.1",
+            "ML": "1.2",
+            "Location": "ICERISU NURDAGI GAZIANTEP"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "11:42:14",
+            "Latitude": "36.9053",
+            "Longitude": "33.8598",
+            "Depth": "18.7",
+            "ML": "1.9",
+            "Location": "EVDILEK ERDEMLI MERSIN"
         },
         {
             "Date": "2022.07.10",
@@ -4418,51 +4463,6 @@
             "Depth": "21.9",
             "ML": "2.7",
             "Location": "YANIKCAY GEVAS VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "17:51:07",
-            "Latitude": "38.3697",
-            "Longitude": "38.8215",
-            "Depth": "15.0",
-            "ML": "1.9",
-            "Location": "KOZLUK KALE MALATYA"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "17:49:01",
-            "Latitude": "35.7152",
-            "Longitude": "24.5695",
-            "Depth": "29.4",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "17:39:06",
-            "Latitude": "36.5337",
-            "Longitude": "23.1295",
-            "Depth": "9.2",
-            "ML": "2.3",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "17:22:21",
-            "Latitude": "37.3898",
-            "Longitude": "38.6357",
-            "Depth": "5.0",
-            "ML": "2.2",
-            "Location": "TATARHUYUK BOZOVA SANLIURFA"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "17:12:15",
-            "Latitude": "37.0262",
-            "Longitude": "34.4472",
-            "Depth": "17.0",
-            "ML": "1.4",
-            "Location": "HOROZLU TOROSLAR MERSIN"
         }
     ]
 }
