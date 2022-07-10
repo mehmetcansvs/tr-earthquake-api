@@ -2,12 +2,75 @@
     "data": [
         {
             "Date": "2022.07.10",
+            "Time": "04:51:26",
+            "Latitude": "36.9358",
+            "Longitude": "28.2405",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "04:13:28",
+            "Latitude": "36.9373",
+            "Longitude": "28.1295",
+            "Depth": "11.8",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "04:05:50",
+            "Latitude": "36.8400",
+            "Longitude": "27.8217",
+            "Depth": "9.2",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "04:03:20",
+            "Latitude": "36.8197",
+            "Longitude": "27.8318",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.10",
             "Time": "02:34:09",
             "Latitude": "36.0273",
             "Longitude": "30.4332",
             "Depth": "22.0",
             "ML": "2.5",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "02:11:40",
+            "Latitude": "38.7068",
+            "Longitude": "26.5915",
+            "Depth": "10.4",
+            "ML": "2.0",
+            "Location": "IZMIR KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "01:55:33",
+            "Latitude": "36.9912",
+            "Longitude": "27.6552",
+            "Depth": "1.9",
+            "ML": "1.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "01:39:12",
+            "Latitude": "36.9412",
+            "Longitude": "28.2445",
+            "Depth": "14.9",
+            "ML": "1.4",
+            "Location": "CAMLI MARMARIS MUGLA"
         },
         {
             "Date": "2022.07.10",
@@ -98,6 +161,15 @@
             "Depth": "12.1",
             "ML": "1.7",
             "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "19:35:34",
+            "Latitude": "35.1867",
+            "Longitude": "25.3148",
+            "Depth": "11.0",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.09",
@@ -4382,78 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.0",
             "Location": "BAHCESARAY VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "10:41:57",
-            "Latitude": "38.2810",
-            "Longitude": "32.5112",
-            "Depth": "11.5",
-            "ML": "1.3",
-            "Location": "BASHUYUK SARAYONU KONYA"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "10:27:04",
-            "Latitude": "38.4313",
-            "Longitude": "42.8247",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "TIMAR GEVAS VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "10:20:39",
-            "Latitude": "38.7495",
-            "Longitude": "43.9898",
-            "Depth": "12.0",
-            "ML": "2.7",
-            "Location": "SEHITTEPE OZALP VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "09:44:26",
-            "Latitude": "38.3648",
-            "Longitude": "42.9108",
-            "Depth": "25.9",
-            "ML": "2.4",
-            "Location": "GORUNDU GEVAS VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "09:17:50",
-            "Latitude": "38.4267",
-            "Longitude": "42.8590",
-            "Depth": "11.1",
-            "ML": "1.9",
-            "Location": "INKOY GEVAS VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "09:16:15",
-            "Latitude": "37.0605",
-            "Longitude": "28.4427",
-            "Depth": "1.2",
-            "ML": "1.4",
-            "Location": "ELMALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "08:43:41",
-            "Latitude": "38.2048",
-            "Longitude": "42.7860",
-            "Depth": "12.5",
-            "ML": "1.6",
-            "Location": "CATBAYIR BAHCESARAY VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "07:32:31",
-            "Latitude": "35.4350",
-            "Longitude": "23.1028",
-            "Depth": "21.5",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
