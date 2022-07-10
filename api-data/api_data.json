@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.10",
+            "Time": "09:36:29",
+            "Latitude": "38.4675",
+            "Longitude": "28.1752",
+            "Depth": "5.0",
+            "ML": "1.3",
+            "Location": "CUKUROBA SALIHLI MANISA"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "09:35:19",
+            "Latitude": "38.4620",
+            "Longitude": "28.1445",
+            "Depth": "16.1",
+            "ML": "0.7",
+            "Location": "HACIBEKTASLI SALIHLI MANISA"
+        },
+        {
+            "Date": "2022.07.10",
             "Time": "08:51:40",
             "Latitude": "36.2332",
             "Longitude": "36.8022",
@@ -4445,24 +4463,6 @@
             "Depth": "2.8",
             "ML": "1.8",
             "Location": "TORELI GEVAS VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "13:20:09",
-            "Latitude": "38.1868",
-            "Longitude": "42.7950",
-            "Depth": "7.9",
-            "ML": "2.3",
-            "Location": "BAHCESARAY VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "11:54:14",
-            "Latitude": "40.6895",
-            "Longitude": "30.5962",
-            "Depth": "5.5",
-            "ML": "2.1",
-            "Location": "AKYAZI SAKARYA"
         }
     ]
 }
