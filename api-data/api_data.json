@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.07.11",
+            "Time": "00:44:00",
+            "Latitude": "39.2257",
+            "Longitude": "26.0880",
+            "Depth": "10.1",
+            "ML": "1.6",
+            "Location": "MIDILLI ADASI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "00:32:30",
+            "Latitude": "38.6487",
+            "Longitude": "42.6112",
+            "Depth": "14.5",
+            "ML": "1.3",
+            "Location": "ADABAG TATVAN BITLIS"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "23:52:23",
+            "Latitude": "36.9968",
+            "Longitude": "28.6843",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "TOPARLAR KOYCEGIZ MUGLA"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "23:18:26",
+            "Latitude": "40.2582",
+            "Longitude": "28.0458",
+            "Depth": "8.4",
+            "ML": "2.5",
+            "Location": "DOGRUCA BANDIRMA BALIKESIR"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "23:01:45",
+            "Latitude": "38.9140",
+            "Longitude": "43.4255",
+            "Depth": "5.6",
+            "ML": "1.9",
+            "Location": "VAN GOLU"
+        },
+        {
             "Date": "2022.07.10",
             "Time": "22:27:26",
             "Latitude": "36.7155",
@@ -4418,51 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.9",
             "Location": "EGNEZ SOMA MANISA"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "09:56:08",
-            "Latitude": "39.1215",
-            "Longitude": "27.5027",
-            "Depth": "8.7",
-            "ML": "1.5",
-            "Location": "AZIZIYE KINIK IZMIR"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "09:13:53",
-            "Latitude": "35.1193",
-            "Longitude": "25.2298",
-            "Depth": "9.1",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "07:50:09",
-            "Latitude": "39.5385",
-            "Longitude": "26.1698",
-            "Depth": "9.6",
-            "ML": "2.0",
-            "Location": "YUKARIKOY AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "07:46:38",
-            "Latitude": "39.5488",
-            "Longitude": "26.1955",
-            "Depth": "9.2",
-            "ML": "1.8",
-            "Location": "YUKARIKOY AYVACIK CANAKKALE"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "07:42:34",
-            "Latitude": "39.5502",
-            "Longitude": "26.2240",
-            "Depth": "5.4",
-            "ML": "1.6",
-            "Location": "TABAKLAR AYVACIK CANAKKALE"
         }
     ]
 }
