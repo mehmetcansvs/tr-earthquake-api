@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.10",
+            "Time": "20:42:27",
+            "Latitude": "36.8930",
+            "Longitude": "28.1475",
+            "Depth": "23.9",
+            "ML": "1.8",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "20:03:40",
+            "Latitude": "39.7462",
+            "Longitude": "23.5933",
+            "Depth": "8.8",
+            "ML": "3.3",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "19:51:46",
+            "Latitude": "36.4732",
+            "Longitude": "28.3618",
+            "Depth": "75.7",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "18:54:38",
+            "Latitude": "38.8140",
+            "Longitude": "44.7050",
+            "Depth": "9.7",
+            "ML": "2.3",
+            "Location": "TURKIYE IRAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.07.10",
             "Time": "18:29:06",
             "Latitude": "36.9150",
             "Longitude": "27.6492",
@@ -4427,42 +4463,6 @@
             "Depth": "10.8",
             "ML": "2.2",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "01:58:29",
-            "Latitude": "41.8090",
-            "Longitude": "30.8298",
-            "Depth": "21.1",
-            "ML": "2.0",
-            "Location": "KOCAALI ACIKLARI SAKARYA KARADENIZ"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "01:56:45",
-            "Latitude": "42.1618",
-            "Longitude": "31.0168",
-            "Depth": "18.3",
-            "ML": "2.4",
-            "Location": "KARADENIZ"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "00:58:38",
-            "Latitude": "37.9360",
-            "Longitude": "27.0950",
-            "Depth": "8.8",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "00:53:17",
-            "Latitude": "37.9238",
-            "Longitude": "27.0903",
-            "Depth": "6.8",
-            "ML": "2.5",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
