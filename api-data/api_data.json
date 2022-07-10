@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.10",
+            "Time": "08:51:40",
+            "Latitude": "36.2332",
+            "Longitude": "36.8022",
+            "Depth": "10.9",
+            "ML": "2.7",
+            "Location": "SURIYE"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "08:26:02",
+            "Latitude": "36.9407",
+            "Longitude": "28.2290",
+            "Depth": "11.5",
+            "ML": "1.5",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.10",
             "Time": "06:39:55",
             "Latitude": "38.6010",
             "Longitude": "43.2140",
@@ -4445,15 +4463,6 @@
             "Depth": "5.5",
             "ML": "2.1",
             "Location": "AKYAZI SAKARYA"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "11:31:36",
-            "Latitude": "35.0542",
-            "Longitude": "25.2932",
-            "Depth": "7.6",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ REVIZE BAHCESARAY VAN"
         }
     ]
 }
