@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.10",
+            "Time": "16:51:04",
+            "Latitude": "38.8432",
+            "Longitude": "43.5790",
+            "Depth": "5.5",
+            "ML": "2.1",
+            "Location": "AKCIFT VAN"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "16:07:16",
+            "Latitude": "36.2130",
+            "Longitude": "30.9192",
+            "Depth": "9.6",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "14:59:14",
+            "Latitude": "38.4082",
+            "Longitude": "25.4660",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.10",
+            "Time": "14:35:14",
+            "Latitude": "38.9193",
+            "Longitude": "43.4645",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "VAN GOLU"
+        },
+        {
+            "Date": "2022.07.10",
             "Time": "14:25:23",
             "Latitude": "37.0955",
             "Longitude": "28.4085",
@@ -4427,42 +4463,6 @@
             "Depth": "6.1",
             "ML": "1.7",
             "Location": "KURTULUS ACIKLARI MERSIN AKDENIZ"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "21:18:56",
-            "Latitude": "37.8277",
-            "Longitude": "26.3917",
-            "Depth": "19.1",
-            "ML": "1.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "21:04:06",
-            "Latitude": "38.5917",
-            "Longitude": "43.9820",
-            "Depth": "12.9",
-            "ML": "2.0",
-            "Location": "EMEK OZALP VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "20:53:26",
-            "Latitude": "37.9175",
-            "Longitude": "26.3993",
-            "Depth": "17.8",
-            "ML": "1.5",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "18:20:20",
-            "Latitude": "38.2768",
-            "Longitude": "42.8528",
-            "Depth": "21.9",
-            "ML": "2.7",
-            "Location": "YANIKCAY GEVAS VAN"
         }
     ]
 }
