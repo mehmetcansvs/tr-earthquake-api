@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.10",
+            "Time": "06:39:55",
+            "Latitude": "38.6010",
+            "Longitude": "43.2140",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "CITOREN VAN"
+        },
+        {
+            "Date": "2022.07.10",
             "Time": "04:51:26",
             "Latitude": "36.9358",
             "Longitude": "28.2405",
@@ -169,6 +178,15 @@
             "Longitude": "25.3148",
             "Depth": "11.0",
             "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.09",
+            "Time": "19:34:41",
+            "Latitude": "35.3167",
+            "Longitude": "25.3640",
+            "Depth": "12.8",
+            "ML": "2.6",
             "Location": "GIRIT ADASI AKDENIZ"
         },
         {
@@ -4436,24 +4454,6 @@
             "Depth": "7.6",
             "ML": "2.1",
             "Location": "GIRIT ADASI AKDENIZ REVIZE BAHCESARAY VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "11:07:10",
-            "Latitude": "38.1715",
-            "Longitude": "42.8107",
-            "Depth": "10.7",
-            "ML": "2.5",
-            "Location": "BAHCESARAY VAN"
-        },
-        {
-            "Date": "2022.06.27",
-            "Time": "10:56:28",
-            "Latitude": "38.1698",
-            "Longitude": "42.8065",
-            "Depth": "5.0",
-            "ML": "2.0",
-            "Location": "BAHCESARAY VAN"
         }
     ]
 }
