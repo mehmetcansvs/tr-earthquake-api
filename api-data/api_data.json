@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.07.11",
+            "Time": "12:23:46",
+            "Latitude": "37.3132",
+            "Longitude": "36.8897",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "BALIKALAN NURDAGI GAZIANTEP"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "12:02:57",
+            "Latitude": "39.6563",
+            "Longitude": "44.4052",
+            "Depth": "14.6",
+            "ML": "1.9",
+            "Location": "GUNGOREN DOGUBAYAZIT AGRI"
+        },
+        {
+            "Date": "2022.07.11",
             "Time": "11:14:53",
             "Latitude": "36.9725",
             "Longitude": "28.1918",
             "Depth": "7.4",
             "ML": "1.7",
             "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "11:00:37",
+            "Latitude": "36.9187",
+            "Longitude": "28.3730",
+            "Depth": "5.3",
+            "ML": "0.9",
+            "Location": "CETIBELI MARMARIS MUGLA"
         },
         {
             "Date": "2022.07.11",
@@ -4436,33 +4463,6 @@
             "Depth": "5.0",
             "ML": "2.8",
             "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "04:16:31",
-            "Latitude": "34.5688",
-            "Longitude": "33.0933",
-            "Depth": "1.4",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "02:31:16",
-            "Latitude": "35.3478",
-            "Longitude": "25.2448",
-            "Depth": "3.7",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "01:58:06",
-            "Latitude": "39.0998",
-            "Longitude": "27.8378",
-            "Depth": "7.7",
-            "ML": "2.2",
-            "Location": "KARAKURT KIRKAGAC MANISA"
         }
     ]
 }
