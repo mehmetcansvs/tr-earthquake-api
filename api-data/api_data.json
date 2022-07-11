@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "Date": "2022.07.12",
+            "Time": "00:46:15",
+            "Latitude": "39.4823",
+            "Longitude": "29.5868",
+            "Depth": "9.2",
+            "ML": "1.4",
+            "Location": "YAGMURLU TAVSANLI KUTAHYA"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "00:21:17",
+            "Latitude": "36.0745",
+            "Longitude": "27.1773",
+            "Depth": "7.3",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "00:03:50",
+            "Latitude": "34.8742",
+            "Longitude": "24.2468",
+            "Depth": "12.9",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "23:59:49",
+            "Latitude": "37.3367",
+            "Longitude": "36.8920",
+            "Depth": "5.3",
+            "ML": "1.8",
+            "Location": "HACIBEBEK TURKOGLU KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "23:40:52",
+            "Latitude": "37.4858",
+            "Longitude": "36.1927",
+            "Depth": "15.4",
+            "ML": "1.8",
+            "Location": "KOCLU KADIRLI OSMANIYE"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "23:26:28",
+            "Latitude": "41.1380",
+            "Longitude": "43.9182",
+            "Depth": "7.0",
+            "ML": "2.3",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "23:10:33",
+            "Latitude": "38.2943",
+            "Longitude": "38.8223",
+            "Depth": "11.9",
+            "ML": "2.0",
+            "Location": "BOLUKKAYA PUTURGE MALATYA"
+        },
+        {
             "Date": "2022.07.11",
             "Time": "22:50:44",
             "Latitude": "38.8980",
@@ -4400,69 +4463,6 @@
             "Depth": "5.9",
             "ML": "2.0",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "02:59:46",
-            "Latitude": "37.8568",
-            "Longitude": "29.7228",
-            "Depth": "5.5",
-            "ML": "2.0",
-            "Location": "DARICILAR DAZKIRI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "02:46:04",
-            "Latitude": "39.0452",
-            "Longitude": "37.7717",
-            "Depth": "6.7",
-            "ML": "1.5",
-            "Location": "KARAPINAR HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "00:42:08",
-            "Latitude": "39.0833",
-            "Longitude": "37.7237",
-            "Depth": "2.3",
-            "ML": "2.2",
-            "Location": "AKCAMAGARA KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "00:06:48",
-            "Latitude": "38.4450",
-            "Longitude": "31.7995",
-            "Depth": "7.6",
-            "ML": "2.3",
-            "Location": "KONARI TUZLUKCU KONYA"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "23:57:13",
-            "Latitude": "39.0265",
-            "Longitude": "41.9788",
-            "Depth": "2.8",
-            "ML": "2.0",
-            "Location": "HOSGELDI BULANIK MUS"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "23:38:12",
-            "Latitude": "40.3798",
-            "Longitude": "25.9018",
-            "Depth": "10.4",
-            "ML": "1.7",
-            "Location": "KALEKOY GOKCEADA CANAKKALE"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "23:38:01",
-            "Latitude": "39.0890",
-            "Longitude": "37.7917",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "TASLI KANGAL SIVAS"
         }
     ]
 }
