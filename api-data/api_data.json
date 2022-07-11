@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.11",
+            "Time": "14:29:22",
+            "Latitude": "36.9020",
+            "Longitude": "28.2493",
+            "Depth": "18.6",
+            "ML": "1.4",
+            "Location": "YESILBELDE MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "14:24:18",
+            "Latitude": "37.0772",
+            "Longitude": "28.4217",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "YESILOVA ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "14:18:02",
+            "Latitude": "36.9842",
+            "Longitude": "28.2195",
+            "Depth": "15.3",
+            "ML": "1.4",
+            "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "13:10:25",
+            "Latitude": "39.6772",
+            "Longitude": "28.5692",
+            "Depth": "8.8",
+            "ML": "1.9",
+            "Location": "CAKIRCA DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.07.11",
             "Time": "12:23:46",
             "Latitude": "37.3132",
             "Longitude": "36.8897",
@@ -4427,42 +4463,6 @@
             "Depth": "18.5",
             "ML": "1.3",
             "Location": "YESILDERE KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "10:36:20",
-            "Latitude": "38.9747",
-            "Longitude": "26.5737",
-            "Depth": "10.7",
-            "ML": "1.9",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "06:47:51",
-            "Latitude": "34.9780",
-            "Longitude": "33.1405",
-            "Depth": "7.6",
-            "ML": "1.9",
-            "Location": "KIBRIS ZUMRUTKOY"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "06:46:37",
-            "Latitude": "37.8325",
-            "Longitude": "26.7993",
-            "Depth": "8.8",
-            "ML": "1.7",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "04:18:26",
-            "Latitude": "36.3933",
-            "Longitude": "23.3457",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "YUNANISTAN"
         }
     ]
 }
