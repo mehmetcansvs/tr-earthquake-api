@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.11",
+            "Time": "06:36:22",
+            "Latitude": "41.1288",
+            "Longitude": "43.8913",
+            "Depth": "5.0",
+            "ML": "4.7",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.07.11",
             "Time": "05:57:39",
             "Latitude": "40.8805",
             "Longitude": "31.6668",
@@ -44,6 +53,15 @@
             "Depth": "18.8",
             "ML": "2.6",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "01:22:44",
+            "Latitude": "39.1928",
+            "Longitude": "26.0743",
+            "Depth": "9.2",
+            "ML": "1.7",
+            "Location": "MIDILLI ADASI EGE DENIZI"
         },
         {
             "Date": "2022.07.11",
@@ -4445,24 +4463,6 @@
             "Depth": "0.0",
             "ML": "0.9",
             "Location": "ISIKLI SILIFKE MERSIN"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "12:56:03",
-            "Latitude": "39.1873",
-            "Longitude": "27.5303",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "KOZANLI SOMA MANISA"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "12:47:54",
-            "Latitude": "39.1487",
-            "Longitude": "27.5560",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "AVDAN SOMA MANISA"
         }
     ]
 }
