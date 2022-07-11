@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.07.11",
+            "Time": "11:14:53",
+            "Latitude": "36.9725",
+            "Longitude": "28.1918",
+            "Depth": "7.4",
+            "ML": "1.7",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "09:46:10",
+            "Latitude": "36.9937",
+            "Longitude": "28.2310",
+            "Depth": "24.1",
+            "ML": "1.0",
+            "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "09:42:37",
+            "Latitude": "37.1590",
+            "Longitude": "28.5500",
+            "Depth": "8.1",
+            "ML": "1.5",
+            "Location": "YAYLASOGUT ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "09:27:43",
+            "Latitude": "35.4532",
+            "Longitude": "28.1695",
+            "Depth": "24.7",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "09:24:28",
+            "Latitude": "41.1815",
+            "Longitude": "43.9108",
+            "Depth": "5.0",
+            "ML": "3.2",
+            "Location": "GURCISTAN"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "09:14:10",
+            "Latitude": "41.1222",
+            "Longitude": "43.9200",
+            "Depth": "7.9",
+            "ML": "2.5",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.07.11",
             "Time": "09:11:10",
             "Latitude": "36.9463",
             "Longitude": "27.6832",
@@ -4409,60 +4463,6 @@
             "Depth": "7.7",
             "ML": "2.2",
             "Location": "KARAKURT KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "01:46:12",
-            "Latitude": "40.6470",
-            "Longitude": "35.4173",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "YAYLACIK MERZIFON AMASYA"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "01:36:28",
-            "Latitude": "40.6385",
-            "Longitude": "35.4262",
-            "Depth": "6.0",
-            "ML": "1.7",
-            "Location": "KONAC MECITOZU CORUM"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "01:31:52",
-            "Latitude": "39.8210",
-            "Longitude": "25.5647",
-            "Depth": "7.1",
-            "ML": "1.8",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "23:28:20",
-            "Latitude": "35.9783",
-            "Longitude": "28.9457",
-            "Depth": "5.0",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "20:14:37",
-            "Latitude": "37.8560",
-            "Longitude": "26.7258",
-            "Depth": "7.6",
-            "ML": "2.5",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "19:05:06",
-            "Latitude": "40.1968",
-            "Longitude": "25.1450",
-            "Depth": "12.5",
-            "ML": "2.2",
-            "Location": "EGE DENIZI"
         }
     ]
 }
