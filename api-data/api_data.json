@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.11",
+            "Time": "05:57:39",
+            "Latitude": "40.8805",
+            "Longitude": "31.6668",
+            "Depth": "6.1",
+            "ML": "2.5",
+            "Location": "MESCICELE BOLU"
+        },
+        {
+            "Date": "2022.07.11",
             "Time": "04:21:44",
             "Latitude": "40.5635",
             "Longitude": "35.4588",
@@ -4454,15 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.8",
             "Location": "AVDAN SOMA MANISA"
-        },
-        {
-            "Date": "2022.06.28",
-            "Time": "12:23:52",
-            "Latitude": "39.7708",
-            "Longitude": "30.1502",
-            "Depth": "10.5",
-            "ML": "1.3",
-            "Location": "DUTLUCA INONU ESKISEHIR"
         }
     ]
 }
