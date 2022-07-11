@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.11",
+            "Time": "16:54:19",
+            "Latitude": "41.1308",
+            "Longitude": "43.9203",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "16:30:54",
+            "Latitude": "36.1422",
+            "Longitude": "30.9162",
+            "Depth": "19.6",
+            "ML": "2.3",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "16:28:19",
+            "Latitude": "36.9442",
+            "Longitude": "28.1637",
+            "Depth": "4.4",
+            "ML": "1.4",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "16:13:07",
+            "Latitude": "37.1858",
+            "Longitude": "39.0152",
+            "Depth": "0.0",
+            "ML": "1.6",
+            "Location": "BAKIMLI SANLIURFA"
+        },
+        {
+            "Date": "2022.07.11",
+            "Time": "15:44:09",
+            "Latitude": "36.9413",
+            "Longitude": "28.1100",
+            "Depth": "5.1",
+            "ML": "1.7",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.11",
             "Time": "14:29:22",
             "Latitude": "36.9020",
             "Longitude": "28.2493",
@@ -4418,51 +4463,6 @@
             "Depth": "2.9",
             "ML": "1.9",
             "Location": "AYDINLIK ACIKLARI MERSIN AKDENIZ"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "13:10:38",
-            "Latitude": "41.3618",
-            "Longitude": "43.9912",
-            "Depth": "7.5",
-            "ML": "2.9",
-            "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "13:04:07",
-            "Latitude": "36.1727",
-            "Longitude": "33.8873",
-            "Depth": "12.2",
-            "ML": "1.1",
-            "Location": "SILIFKE ACIKLARI MERSIN AKDENIZ"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "12:59:09",
-            "Latitude": "39.8463",
-            "Longitude": "35.2535",
-            "Depth": "5.1",
-            "ML": "1.7",
-            "Location": "BAGLARBASI SORGUN YOZGAT"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "12:53:11",
-            "Latitude": "37.2063",
-            "Longitude": "27.9382",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "KAYADERE MILAS MUGLA"
-        },
-        {
-            "Date": "2022.06.29",
-            "Time": "12:34:47",
-            "Latitude": "39.1462",
-            "Longitude": "37.4927",
-            "Depth": "18.5",
-            "ML": "1.3",
-            "Location": "YESILDERE KANGAL SIVAS"
         }
     ]
 }
