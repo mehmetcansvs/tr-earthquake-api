@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.12",
+            "Time": "11:38:36",
+            "Latitude": "34.7298",
+            "Longitude": "24.8222",
+            "Depth": "10.8",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "11:31:29",
+            "Latitude": "37.3465",
+            "Longitude": "37.1662",
+            "Depth": "12.5",
+            "ML": "1.9",
+            "Location": "AKCAKOYUNLU PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.12",
             "Time": "10:01:50",
             "Latitude": "36.1278",
             "Longitude": "35.7830",
@@ -4445,24 +4463,6 @@
             "Depth": "5.6",
             "ML": "2.1",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "06:42:48",
-            "Latitude": "36.2705",
-            "Longitude": "27.0648",
-            "Depth": "21.4",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "06:09:08",
-            "Latitude": "38.4370",
-            "Longitude": "27.1602",
-            "Depth": "4.9",
-            "ML": "2.6",
-            "Location": "KONAK IZMIR"
         }
     ]
 }
