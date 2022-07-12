@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.12",
+            "Time": "08:47:01",
+            "Latitude": "38.8525",
+            "Longitude": "43.5647",
+            "Depth": "13.9",
+            "ML": "2.3",
+            "Location": "AKCIFT VAN"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "08:01:51",
+            "Latitude": "37.9922",
+            "Longitude": "27.1828",
+            "Depth": "3.8",
+            "ML": "1.6",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "07:20:42",
+            "Latitude": "37.4280",
+            "Longitude": "37.2247",
+            "Depth": "8.2",
+            "ML": "1.3",
+            "Location": "SALMANIPAK PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.12",
             "Time": "06:02:17",
             "Latitude": "38.4540",
             "Longitude": "30.9517",
@@ -4436,33 +4463,6 @@
             "Depth": "7.9",
             "ML": "1.4",
             "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "05:38:50",
-            "Latitude": "36.9430",
-            "Longitude": "27.5937",
-            "Depth": "15.4",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "05:35:08",
-            "Latitude": "36.8275",
-            "Longitude": "28.0502",
-            "Depth": "8.3",
-            "ML": "1.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "05:21:15",
-            "Latitude": "36.2577",
-            "Longitude": "27.0617",
-            "Depth": "1.8",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
         }
     ]
 }
