@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.12",
+            "Time": "04:18:39",
+            "Latitude": "39.7545",
+            "Longitude": "41.8605",
+            "Depth": "10.8",
+            "ML": "1.9",
+            "Location": "CULLU KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "03:59:32",
+            "Latitude": "40.7012",
+            "Longitude": "30.6290",
+            "Depth": "5.9",
+            "ML": "2.3",
+            "Location": "YUVALIK AKYAZI SAKARYA"
+        },
+        {
+            "Date": "2022.07.12",
             "Time": "00:46:15",
             "Latitude": "39.4823",
             "Longitude": "29.5868",
@@ -4445,24 +4463,6 @@
             "Depth": "3.6",
             "ML": "1.8",
             "Location": "KARAPINAR HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "03:50:03",
-            "Latitude": "38.0432",
-            "Longitude": "27.2593",
-            "Depth": "4.9",
-            "ML": "1.4",
-            "Location": "GOLOVA MENDERES IZMIR"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "03:20:41",
-            "Latitude": "37.9402",
-            "Longitude": "27.1165",
-            "Depth": "5.9",
-            "ML": "2.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
