@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.12",
+            "Time": "20:59:26",
+            "Latitude": "37.9248",
+            "Longitude": "27.2512",
+            "Depth": "6.0",
+            "ML": "2.0",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.12",
             "Time": "18:39:48",
             "Latitude": "37.3842",
             "Longitude": "37.1418",
@@ -4454,15 +4463,6 @@
             "Depth": "5.0",
             "ML": "2.8",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "11:54:07",
-            "Latitude": "39.1580",
-            "Longitude": "43.1770",
-            "Depth": "14.5",
-            "ML": "2.0",
-            "Location": "PINARLI ERCIS VAN"
         }
     ]
 }
