@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.12",
+            "Time": "15:17:51",
+            "Latitude": "37.0442",
+            "Longitude": "27.7265",
+            "Depth": "10.7",
+            "ML": "1.7",
+            "Location": "MAZIKOY BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "13:41:30",
+            "Latitude": "37.9210",
+            "Longitude": "26.8688",
+            "Depth": "1.8",
+            "ML": "1.8",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.12",
             "Time": "11:38:36",
             "Latitude": "34.7298",
             "Longitude": "24.8222",
@@ -4445,24 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.9",
             "Location": "KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "08:32:05",
-            "Latitude": "38.4042",
-            "Longitude": "31.7453",
-            "Depth": "22.7",
-            "ML": "1.8",
-            "Location": "KOKLUCE TUZLUKCU KONYA"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "06:44:17",
-            "Latitude": "36.8728",
-            "Longitude": "26.4048",
-            "Depth": "5.6",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
         }
     ]
 }
