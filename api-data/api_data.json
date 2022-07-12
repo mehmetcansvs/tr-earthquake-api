@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.12",
+            "Time": "23:07:28",
+            "Latitude": "37.1545",
+            "Longitude": "26.7708",
+            "Depth": "12.0",
+            "ML": "1.6",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "22:54:32",
+            "Latitude": "38.1273",
+            "Longitude": "27.2042",
+            "Depth": "6.7",
+            "ML": "2.6",
+            "Location": "KARAKUYU MENDERES IZMIR"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "21:31:49",
+            "Latitude": "39.4327",
+            "Longitude": "29.6450",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "AKCASEHIR TAVSANLI KUTAHYA"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "21:27:07",
+            "Latitude": "38.1313",
+            "Longitude": "27.2023",
+            "Depth": "7.3",
+            "ML": "2.1",
+            "Location": "CILEME MENDERES IZMIR"
+        },
+        {
+            "Date": "2022.07.12",
             "Time": "20:59:26",
             "Latitude": "37.9248",
             "Longitude": "27.2512",
@@ -4426,42 +4462,6 @@
             "Longitude": "27.1103",
             "Depth": "5.7",
             "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "13:33:03",
-            "Latitude": "39.9473",
-            "Longitude": "28.8170",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "KARINCALI ORHANELI BURSA"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "13:04:06",
-            "Latitude": "36.1958",
-            "Longitude": "27.0658",
-            "Depth": "8.9",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "13:02:51",
-            "Latitude": "36.2725",
-            "Longitude": "27.0513",
-            "Depth": "8.7",
-            "ML": "2.9",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "12:56:02",
-            "Latitude": "36.2513",
-            "Longitude": "27.0395",
-            "Depth": "5.0",
-            "ML": "2.8",
             "Location": "AKDENIZ"
         }
     ]
