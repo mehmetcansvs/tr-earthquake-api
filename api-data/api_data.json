@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.12",
+            "Time": "18:39:48",
+            "Latitude": "37.3842",
+            "Longitude": "37.1418",
+            "Depth": "5.5",
+            "ML": "1.7",
+            "Location": "NARLI PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "18:22:54",
+            "Latitude": "40.5872",
+            "Longitude": "30.8652",
+            "Depth": "3.5",
+            "ML": "1.6",
+            "Location": "DOKURCUN AKYAZI SAKARYA"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "17:19:04",
+            "Latitude": "35.1690",
+            "Longitude": "30.4505",
+            "Depth": "62.5",
+            "ML": "3.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "17:13:29",
+            "Latitude": "35.2562",
+            "Longitude": "27.1890",
+            "Depth": "12.3",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "17:00:08",
+            "Latitude": "35.2905",
+            "Longitude": "27.0982",
+            "Depth": "18.2",
+            "ML": "3.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.12",
             "Time": "15:40:13",
             "Latitude": "36.8518",
             "Longitude": "29.2233",
@@ -4418,51 +4463,6 @@
             "Depth": "14.5",
             "ML": "2.0",
             "Location": "PINARLI ERCIS VAN"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "11:50:45",
-            "Latitude": "37.7823",
-            "Longitude": "30.5105",
-            "Depth": "1.9",
-            "ML": "1.6",
-            "Location": "DEREGUMU ISPARTA"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "11:37:50",
-            "Latitude": "40.8515",
-            "Longitude": "31.7020",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "MESCICELE BOLU"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "11:04:30",
-            "Latitude": "40.0727",
-            "Longitude": "34.6803",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "SULUDERE ALACA CORUM"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "10:53:52",
-            "Latitude": "36.5512",
-            "Longitude": "27.9825",
-            "Depth": "10.0",
-            "ML": "1.8",
-            "Location": "BOZBURUN ACIKLARI MUGLA AKDENIZ"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "10:17:01",
-            "Latitude": "37.9047",
-            "Longitude": "27.0342",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
