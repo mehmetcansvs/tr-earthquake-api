@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.12",
+            "Time": "10:01:50",
+            "Latitude": "36.1278",
+            "Longitude": "35.7830",
+            "Depth": "17.9",
+            "ML": "2.7",
+            "Location": "KAPISUYU SAMANDAG HATAY"
+        },
+        {
+            "Date": "2022.07.12",
             "Time": "08:47:01",
             "Latitude": "38.8525",
             "Longitude": "43.5647",
@@ -4454,15 +4463,6 @@
             "Depth": "4.9",
             "ML": "2.6",
             "Location": "KONAK IZMIR"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "05:44:57",
-            "Latitude": "38.7928",
-            "Longitude": "31.5333",
-            "Depth": "7.9",
-            "ML": "1.4",
-            "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
         }
     ]
 }
