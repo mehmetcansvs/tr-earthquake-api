@@ -1,6 +1,51 @@
 {
     "data": [
         {
+            "Date": "2022.07.13",
+            "Time": "00:30:43",
+            "Latitude": "39.9523",
+            "Longitude": "41.8440",
+            "Depth": "28.5",
+            "ML": "1.3",
+            "Location": "EGIRMEZ KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "00:28:02",
+            "Latitude": "36.4633",
+            "Longitude": "29.3600",
+            "Depth": "9.9",
+            "ML": "1.7",
+            "Location": "KORUBUKU FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "23:49:30",
+            "Latitude": "38.2882",
+            "Longitude": "34.9705",
+            "Depth": "5.3",
+            "ML": "1.9",
+            "Location": "EDIKLI NIGDE"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "23:47:51",
+            "Latitude": "38.6388",
+            "Longitude": "39.4993",
+            "Depth": "5.3",
+            "ML": "1.8",
+            "Location": "DEGIRMENONU ELAZIG"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "23:15:01",
+            "Latitude": "39.1867",
+            "Longitude": "40.1532",
+            "Depth": "15.3",
+            "ML": "2.3",
+            "Location": "KORLU YAYLADERE BINGOL"
+        },
+        {
             "Date": "2022.07.12",
             "Time": "23:07:28",
             "Latitude": "37.1545",
@@ -8,6 +53,15 @@
             "Depth": "12.0",
             "ML": "1.6",
             "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "23:01:55",
+            "Latitude": "38.1333",
+            "Longitude": "27.2263",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "KARAKUYU MENDERES IZMIR"
         },
         {
             "Date": "2022.07.12",
@@ -4409,60 +4463,6 @@
             "Depth": "8.0",
             "ML": "2.4",
             "Location": "SOGUTLU FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "19:37:09",
-            "Latitude": "38.9800",
-            "Longitude": "26.1368",
-            "Depth": "9.1",
-            "ML": "2.7",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "18:26:41",
-            "Latitude": "37.3448",
-            "Longitude": "35.0022",
-            "Depth": "4.9",
-            "ML": "2.1",
-            "Location": "KARAKILIC KARAISALI ADANA"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "17:32:27",
-            "Latitude": "38.5720",
-            "Longitude": "39.6687",
-            "Depth": "6.8",
-            "ML": "2.4",
-            "Location": "KUMYAZI MADEN ELAZIG"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "16:09:45",
-            "Latitude": "39.5310",
-            "Longitude": "31.5230",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "MEMIK SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "15:20:05",
-            "Latitude": "36.1518",
-            "Longitude": "33.5220",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "YANISLI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "14:19:45",
-            "Latitude": "36.2218",
-            "Longitude": "27.1103",
-            "Depth": "5.7",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
         }
     ]
 }
