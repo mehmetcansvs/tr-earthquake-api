@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.12",
+            "Time": "06:02:17",
+            "Latitude": "38.4540",
+            "Longitude": "30.9517",
+            "Depth": "10.3",
+            "ML": "0.6",
+            "Location": "KOCBEYLI CAY AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.07.12",
+            "Time": "05:28:22",
+            "Latitude": "35.5585",
+            "Longitude": "33.7228",
+            "Depth": "31.3",
+            "ML": "3.4",
+            "Location": "KIBRIS ACIKLARI KUZEY AKDENIZ"
+        },
+        {
+            "Date": "2022.07.12",
             "Time": "04:18:39",
             "Latitude": "39.7545",
             "Longitude": "41.8605",
@@ -4445,24 +4463,6 @@
             "Depth": "1.8",
             "ML": "2.2",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "05:19:29",
-            "Latitude": "39.0667",
-            "Longitude": "37.7697",
-            "Depth": "5.0",
-            "ML": "2.8",
-            "Location": "KARAPINAR HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "04:43:47",
-            "Latitude": "39.0545",
-            "Longitude": "37.7890",
-            "Depth": "3.6",
-            "ML": "1.8",
-            "Location": "KARAPINAR HEKIMHAN MALATYA"
         }
     ]
 }
