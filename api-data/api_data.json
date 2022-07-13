@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.13",
+            "Time": "03:40:17",
+            "Latitude": "38.6230",
+            "Longitude": "39.4737",
+            "Depth": "9.4",
+            "ML": "1.5",
+            "Location": "ELMAPINARI ELAZIG"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "03:20:46",
+            "Latitude": "38.1302",
+            "Longitude": "38.7808",
+            "Depth": "5.0",
+            "ML": "1.8",
+            "Location": "GOKCELI PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "01:03:58",
+            "Latitude": "39.9578",
+            "Longitude": "39.1965",
+            "Depth": "5.0",
+            "ML": "2.7",
+            "Location": "KOCYATAGI ERZINCAN"
+        },
+        {
+            "Date": "2022.07.13",
             "Time": "00:30:43",
             "Latitude": "39.9523",
             "Longitude": "41.8440",
@@ -4436,33 +4463,6 @@
             "Depth": "8.5",
             "ML": "1.9",
             "Location": "SAGSAK ESKIL AKSARAY"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "01:26:17",
-            "Latitude": "34.2233",
-            "Longitude": "32.0455",
-            "Depth": "58.5",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "22:27:50",
-            "Latitude": "40.1535",
-            "Longitude": "31.6418",
-            "Depth": "5.0",
-            "ML": "2.4",
-            "Location": "ULUKOY NALLIHAN ANKARA"
-        },
-        {
-            "Date": "2022.06.30",
-            "Time": "22:04:20",
-            "Latitude": "36.8403",
-            "Longitude": "29.2400",
-            "Depth": "8.0",
-            "ML": "2.4",
-            "Location": "SOGUTLU FETHIYE MUGLA"
         }
     ]
 }
