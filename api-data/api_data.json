@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.13",
+            "Time": "16:59:48",
+            "Latitude": "36.9505",
+            "Longitude": "27.7115",
+            "Depth": "22.3",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.13",
             "Time": "14:49:53",
             "Latitude": "37.8765",
             "Longitude": "29.6110",
@@ -4454,15 +4463,6 @@
             "Depth": "5.1",
             "ML": "1.3",
             "Location": "KARACAY HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "13:24:08",
-            "Latitude": "37.2363",
-            "Longitude": "27.9017",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "CAMLIBELEN MILAS MUGLA"
         }
     ]
 }
