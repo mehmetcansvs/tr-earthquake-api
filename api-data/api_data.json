@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.13",
+            "Time": "11:08:24",
+            "Latitude": "38.3202",
+            "Longitude": "38.7587",
+            "Depth": "12.5",
+            "ML": "2.2",
+            "Location": "SARIOT KALE MALATYA"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "10:48:03",
+            "Latitude": "38.1380",
+            "Longitude": "38.6557",
+            "Depth": "4.1",
+            "ML": "1.7",
+            "Location": "BASMEZRA PUTURGE MALATYA"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "10:16:42",
+            "Latitude": "37.3903",
+            "Longitude": "37.1935",
+            "Depth": "5.4",
+            "ML": "1.9",
+            "Location": "CIGDEMTEPE PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "09:59:52",
+            "Latitude": "39.5420",
+            "Longitude": "25.9448",
+            "Depth": "6.8",
+            "ML": "2.8",
+            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "09:26:51",
+            "Latitude": "36.2788",
+            "Longitude": "28.9543",
+            "Depth": "8.4",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.13",
             "Time": "08:49:04",
             "Latitude": "37.8212",
             "Longitude": "27.2755",
@@ -4418,51 +4463,6 @@
             "Depth": "5.5",
             "ML": "2.1",
             "Location": "CEBRAIL GEDIZ KUTAHYA"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "10:56:54",
-            "Latitude": "36.7207",
-            "Longitude": "28.1323",
-            "Depth": "58.0",
-            "ML": "2.8",
-            "Location": "BAYIR MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "08:16:50",
-            "Latitude": "37.8310",
-            "Longitude": "29.6443",
-            "Depth": "4.7",
-            "ML": "1.2",
-            "Location": "CARDAK DENIZLI"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "06:53:24",
-            "Latitude": "35.3642",
-            "Longitude": "23.1575",
-            "Depth": "10.1",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "05:34:04",
-            "Latitude": "38.5850",
-            "Longitude": "43.0195",
-            "Depth": "20.5",
-            "ML": "1.9",
-            "Location": "VAN GOLU"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "04:49:50",
-            "Latitude": "34.2578",
-            "Longitude": "25.1213",
-            "Depth": "15.7",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
