@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.13",
+            "Time": "06:42:41",
+            "Latitude": "35.8367",
+            "Longitude": "29.7625",
+            "Depth": "13.6",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.13",
             "Time": "04:10:10",
             "Latitude": "36.2587",
             "Longitude": "29.1568",
@@ -4454,15 +4463,6 @@
             "Depth": "6.7",
             "ML": "2.4",
             "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "01:46:55",
-            "Latitude": "40.6613",
-            "Longitude": "36.6175",
-            "Depth": "4.7",
-            "ML": "2.2",
-            "Location": "ERBAA TOKAT"
         }
     ]
 }
