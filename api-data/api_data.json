@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "Date": "2022.07.14",
+            "Time": "00:18:18",
+            "Latitude": "37.4100",
+            "Longitude": "37.2105",
+            "Depth": "5.7",
+            "ML": "1.4",
+            "Location": "SALMANIPAK PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "00:17:34",
+            "Latitude": "37.3762",
+            "Longitude": "37.1282",
+            "Depth": "5.2",
+            "ML": "1.7",
+            "Location": "KADINCIK PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "00:12:17",
+            "Latitude": "41.1613",
+            "Longitude": "43.9270",
+            "Depth": "5.3",
+            "ML": "2.0",
+            "Location": "GURCISTAN ERMENISTAN SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "00:01:49",
+            "Latitude": "35.1848",
+            "Longitude": "25.3150",
+            "Depth": "5.5",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "23:38:02",
+            "Latitude": "36.2717",
+            "Longitude": "42.0893",
+            "Depth": "3.8",
+            "ML": "2.9",
+            "Location": "IRAK REVIZE AKDENIZ"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "23:27:19",
+            "Latitude": "37.2655",
+            "Longitude": "36.0512",
+            "Depth": "16.5",
+            "ML": "1.2",
+            "Location": "KARABACAK KADIRLI OSMANIYE"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "23:20:30",
+            "Latitude": "35.1498",
+            "Longitude": "25.3062",
+            "Depth": "5.4",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
             "Date": "2022.07.13",
             "Time": "22:53:40",
             "Latitude": "37.4202",
@@ -4391,78 +4454,6 @@
             "Depth": "10.3",
             "ML": "2.0",
             "Location": "KAVAKCALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "06:54:16",
-            "Latitude": "38.4603",
-            "Longitude": "39.2985",
-            "Depth": "2.3",
-            "ML": "2.9",
-            "Location": "SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "05:55:10",
-            "Latitude": "38.9137",
-            "Longitude": "26.1043",
-            "Depth": "2.1",
-            "ML": "2.1",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "04:36:23",
-            "Latitude": "38.9178",
-            "Longitude": "43.5482",
-            "Depth": "9.3",
-            "ML": "2.4",
-            "Location": "COLPAN VAN"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "04:29:37",
-            "Latitude": "37.3743",
-            "Longitude": "37.0710",
-            "Depth": "5.7",
-            "ML": "2.0",
-            "Location": "ARSLANBEY PAZARCIK KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "04:28:56",
-            "Latitude": "39.8705",
-            "Longitude": "24.0962",
-            "Depth": "11.9",
-            "ML": "2.2",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "04:15:18",
-            "Latitude": "39.7232",
-            "Longitude": "24.0088",
-            "Depth": "15.0",
-            "ML": "2.6",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "04:05:07",
-            "Latitude": "34.8937",
-            "Longitude": "24.0255",
-            "Depth": "16.5",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "03:57:45",
-            "Latitude": "34.7963",
-            "Longitude": "25.6682",
-            "Depth": "13.9",
-            "ML": "2.3",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
