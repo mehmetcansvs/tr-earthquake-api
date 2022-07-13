@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.13",
+            "Time": "14:49:53",
+            "Latitude": "37.8765",
+            "Longitude": "29.6110",
+            "Depth": "2.1",
+            "ML": "1.6",
+            "Location": "TUTLUCA BOZKURT DENIZLI"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "14:18:39",
+            "Latitude": "39.5947",
+            "Longitude": "39.9072",
+            "Depth": "5.0",
+            "ML": "2.1",
+            "Location": "DEREBUK UZUMLU ERZINCAN"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "14:04:18",
+            "Latitude": "36.9387",
+            "Longitude": "27.6128",
+            "Depth": "17.7",
+            "ML": "1.3",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.13",
+            "Time": "13:33:51",
+            "Latitude": "36.9168",
+            "Longitude": "27.7330",
+            "Depth": "4.4",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.13",
             "Time": "13:00:34",
             "Latitude": "36.9347",
             "Longitude": "27.7045",
@@ -4427,42 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "CAMLIBELEN MILAS MUGLA"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "13:17:32",
-            "Latitude": "37.2213",
-            "Longitude": "27.8433",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "ULAS MILAS MUGLA"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "13:13:56",
-            "Latitude": "39.7687",
-            "Longitude": "29.8787",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "YENIUREGIL BOZUYUK BILECIK"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "13:02:30",
-            "Latitude": "40.1555",
-            "Longitude": "33.3363",
-            "Depth": "7.7",
-            "ML": "1.3",
-            "Location": "ESKIKOY KALECIK ANKARA"
-        },
-        {
-            "Date": "2022.07.01",
-            "Time": "13:01:27",
-            "Latitude": "37.0608",
-            "Longitude": "28.4240",
-            "Depth": "2.7",
-            "ML": "1.1",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
