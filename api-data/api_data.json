@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.14",
+            "Time": "21:53:22",
+            "Latitude": "35.4957",
+            "Longitude": "27.2715",
+            "Depth": "7.7",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.14",
             "Time": "19:28:24",
             "Latitude": "35.1955",
             "Longitude": "30.5597",
@@ -4445,15 +4454,6 @@
             "Depth": "1.2",
             "ML": "2.1",
             "Location": "SULEYMANLI OLTU ERZURUM"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "03:00:35",
-            "Latitude": "34.3765",
-            "Longitude": "25.0768",
-            "Depth": "1.0",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
