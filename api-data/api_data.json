@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.14",
+            "Time": "02:19:58",
+            "Latitude": "37.4070",
+            "Longitude": "37.2008",
+            "Depth": "7.9",
+            "ML": "1.7",
+            "Location": "SALMANIPAK PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "02:18:04",
+            "Latitude": "38.1927",
+            "Longitude": "31.9445",
+            "Depth": "4.0",
+            "ML": "1.6",
+            "Location": "BULCUK ILGIN KONYA"
+        },
+        {
+            "Date": "2022.07.14",
             "Time": "00:18:18",
             "Latitude": "37.4100",
             "Longitude": "37.2105",
@@ -4436,24 +4454,6 @@
             "Depth": "7.7",
             "ML": "1.7",
             "Location": "NILUFER BURSA"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "07:51:23",
-            "Latitude": "38.4635",
-            "Longitude": "39.4293",
-            "Depth": "13.0",
-            "ML": "1.5",
-            "Location": "YONCAPINAR MADEN ELAZIG"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "07:25:24",
-            "Latitude": "37.0828",
-            "Longitude": "28.6238",
-            "Depth": "10.3",
-            "ML": "2.0",
-            "Location": "KAVAKCALI ULA MUGLA"
         }
     ]
 }
