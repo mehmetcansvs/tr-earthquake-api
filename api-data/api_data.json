@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.07.15",
+            "Time": "00:03:29",
+            "Latitude": "34.9112",
+            "Longitude": "30.4598",
+            "Depth": "81.3",
+            "ML": "2.7",
+            "Location": "AKDENIZ"
+        },
+        {
             "Date": "2022.07.14",
             "Time": "21:53:22",
             "Latitude": "35.4957",
@@ -4445,15 +4454,6 @@
             "Depth": "1.0",
             "ML": "1.9",
             "Location": "ATADAMI DIYADIN AGRI"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "03:57:13",
-            "Latitude": "40.4050",
-            "Longitude": "42.1392",
-            "Depth": "1.2",
-            "ML": "2.1",
-            "Location": "SULEYMANLI OLTU ERZURUM"
         }
     ]
 }
