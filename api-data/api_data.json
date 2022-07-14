@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.07.14",
+            "Time": "08:54:54",
+            "Latitude": "37.9545",
+            "Longitude": "27.6787",
+            "Depth": "7.3",
+            "ML": "2.1",
+            "Location": "MESELI GERMENCIK AYDIN"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "08:42:14",
+            "Latitude": "37.3965",
+            "Longitude": "37.2130",
+            "Depth": "6.5",
+            "ML": "1.8",
+            "Location": "IGDELI PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.14",
             "Time": "05:48:37",
             "Latitude": "37.1037",
             "Longitude": "27.9563",
             "Depth": "10.5",
             "ML": "2.7",
             "Location": "DEREKOY MILAS MUGLA"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "05:39:07",
+            "Latitude": "35.1345",
+            "Longitude": "25.3072",
+            "Depth": "10.0",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.14",
@@ -4427,33 +4454,6 @@
             "Depth": "19.5",
             "ML": "1.5",
             "Location": "AKYARLAR BODRUM MUGLA"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "10:26:10",
-            "Latitude": "39.6658",
-            "Longitude": "29.4977",
-            "Depth": "0.0",
-            "ML": "1.1",
-            "Location": "MUHACIRLER DOMANIC KUTAHYA"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "10:12:54",
-            "Latitude": "36.2543",
-            "Longitude": "27.0002",
-            "Depth": "11.8",
-            "ML": "3.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "10:01:53",
-            "Latitude": "37.4000",
-            "Longitude": "37.0582",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "HALKACAYIRI KAHRAMANMARAS"
         }
     ]
 }
