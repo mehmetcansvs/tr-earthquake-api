@@ -2,12 +2,12 @@
     "data": [
         {
             "Date": "2022.07.14",
-            "Time": "18:36:38",
-            "Latitude": "35.1837",
-            "Longitude": "25.3117",
-            "Depth": "10.3",
-            "ML": "3.6",
-            "Location": "GIRIT ADASI AKDENIZ"
+            "Time": "19:28:24",
+            "Latitude": "35.1955",
+            "Longitude": "30.5597",
+            "Depth": "91.1",
+            "ML": "3.3",
+            "Location": "AKDENIZ REVIZE GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.14",
@@ -4454,15 +4454,6 @@
             "Depth": "1.0",
             "ML": "2.6",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "02:42:28",
-            "Latitude": "40.8312",
-            "Longitude": "31.0300",
-            "Depth": "7.4",
-            "ML": "2.1",
-            "Location": "KOPRUBASI OMEREFENDI DUZCE"
         }
     ]
 }
