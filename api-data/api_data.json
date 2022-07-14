@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.07.14",
+            "Time": "10:50:21",
+            "Latitude": "36.9347",
+            "Longitude": "28.1905",
+            "Depth": "3.5",
+            "ML": "1.3",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "10:30:08",
+            "Latitude": "40.8483",
+            "Longitude": "31.6625",
+            "Depth": "9.0",
+            "ML": "2.2",
+            "Location": "YESILCELE BOLU"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "10:09:52",
+            "Latitude": "37.6043",
+            "Longitude": "36.0795",
+            "Depth": "5.8",
+            "ML": "1.8",
+            "Location": "CICEKLIDERE SUMBAS OSMANIYE"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "10:05:46",
+            "Latitude": "35.2147",
+            "Longitude": "25.3062",
+            "Depth": "5.4",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "10:02:37",
+            "Latitude": "36.9250",
+            "Longitude": "28.2460",
+            "Depth": "12.0",
+            "ML": "2.0",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "09:49:29",
+            "Latitude": "36.9378",
+            "Longitude": "28.2055",
+            "Depth": "7.3",
+            "ML": "2.3",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "09:23:42",
+            "Latitude": "34.5248",
+            "Longitude": "24.7617",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "09:17:38",
+            "Latitude": "37.4428",
+            "Longitude": "37.0978",
+            "Depth": "12.3",
+            "ML": "1.5",
+            "Location": "DENIZLI PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.14",
             "Time": "08:54:54",
             "Latitude": "37.9545",
             "Longitude": "27.6787",
@@ -4382,78 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.4",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "13:05:28",
-            "Latitude": "39.8512",
-            "Longitude": "28.8343",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "ALTINTAS ORHANELI BURSA"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "12:59:14",
-            "Latitude": "39.5098",
-            "Longitude": "29.6692",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "ALIKOY TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "12:20:24",
-            "Latitude": "37.7948",
-            "Longitude": "29.3685",
-            "Depth": "2.8",
-            "ML": "1.6",
-            "Location": "DERECIFTLIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "12:17:34",
-            "Latitude": "37.8013",
-            "Longitude": "29.3550",
-            "Depth": "1.7",
-            "ML": "1.8",
-            "Location": "DERECIFTLIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "11:49:38",
-            "Latitude": "40.5667",
-            "Longitude": "27.3415",
-            "Depth": "17.7",
-            "ML": "1.5",
-            "Location": "MUREFTE ACIKLARI TEKIRDAG MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "11:49:02",
-            "Latitude": "37.2048",
-            "Longitude": "37.2252",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "UCGOZE SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "11:21:12",
-            "Latitude": "39.1912",
-            "Longitude": "26.5062",
-            "Depth": "8.7",
-            "ML": "1.6",
-            "Location": "MIDILLI ADASI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "11:20:21",
-            "Latitude": "36.9735",
-            "Longitude": "27.2482",
-            "Depth": "19.5",
-            "ML": "1.5",
-            "Location": "AKYARLAR BODRUM MUGLA"
         }
     ]
 }
