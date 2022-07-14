@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.14",
+            "Time": "05:48:37",
+            "Latitude": "37.1037",
+            "Longitude": "27.9563",
+            "Depth": "10.5",
+            "ML": "2.7",
+            "Location": "DEREKOY MILAS MUGLA"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "03:26:55",
+            "Latitude": "37.3827",
+            "Longitude": "37.2042",
+            "Depth": "7.3",
+            "ML": "1.5",
+            "Location": "IGDELI PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "03:22:45",
+            "Latitude": "37.3872",
+            "Longitude": "37.1902",
+            "Depth": "10.6",
+            "ML": "1.2",
+            "Location": "CIGDEMTEPE PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "02:20:55",
+            "Latitude": "37.4710",
+            "Longitude": "37.2377",
+            "Depth": "2.4",
+            "ML": "1.4",
+            "Location": "YARBASI PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.14",
             "Time": "02:19:58",
             "Latitude": "37.4070",
             "Longitude": "37.2008",
@@ -17,6 +53,15 @@
             "Depth": "4.0",
             "ML": "1.6",
             "Location": "BULCUK ILGIN KONYA"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "01:26:55",
+            "Latitude": "37.3595",
+            "Longitude": "37.1665",
+            "Depth": "8.6",
+            "ML": "1.1",
+            "Location": "AKCAKOYUNLU PAZARCIK KAHRAMANMARAS"
         },
         {
             "Date": "2022.07.14",
@@ -4409,51 +4454,6 @@
             "Depth": "5.4",
             "ML": "1.5",
             "Location": "HALKACAYIRI KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "09:22:22",
-            "Latitude": "39.1562",
-            "Longitude": "27.5753",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "DARKALE SOMA MANISA"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "08:19:48",
-            "Latitude": "37.7625",
-            "Longitude": "27.0548",
-            "Depth": "7.8",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "08:17:20",
-            "Latitude": "38.3388",
-            "Longitude": "34.1220",
-            "Depth": "10.5",
-            "ML": "2.1",
-            "Location": "SEVINCLI AKSARAY"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "08:13:56",
-            "Latitude": "34.4292",
-            "Longitude": "23.8155",
-            "Depth": "5.0",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.02",
-            "Time": "08:00:50",
-            "Latitude": "40.2215",
-            "Longitude": "28.9348",
-            "Depth": "7.7",
-            "ML": "1.7",
-            "Location": "NILUFER BURSA"
         }
     ]
 }
