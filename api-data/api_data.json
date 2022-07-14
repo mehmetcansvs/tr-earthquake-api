@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.14",
+            "Time": "18:36:38",
+            "Latitude": "35.1837",
+            "Longitude": "25.3117",
+            "Depth": "10.3",
+            "ML": "3.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "17:21:14",
+            "Latitude": "38.2957",
+            "Longitude": "40.3092",
+            "Depth": "5.4",
+            "ML": "2.0",
+            "Location": "DEDEKOY DICLE DIYARBAKIR"
+        },
+        {
+            "Date": "2022.07.14",
             "Time": "16:29:14",
             "Latitude": "36.2763",
             "Longitude": "28.9493",
@@ -4445,24 +4463,6 @@
             "Depth": "7.4",
             "ML": "2.1",
             "Location": "KOPRUBASI OMEREFENDI DUZCE"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "01:37:16",
-            "Latitude": "38.9613",
-            "Longitude": "27.8762",
-            "Depth": "6.2",
-            "ML": "1.9",
-            "Location": "CAMONU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "00:29:39",
-            "Latitude": "35.8298",
-            "Longitude": "25.4087",
-            "Depth": "27.9",
-            "ML": "3.7",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
