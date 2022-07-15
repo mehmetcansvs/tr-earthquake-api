@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.15",
+            "Time": "21:05:47",
+            "Latitude": "40.1400",
+            "Longitude": "24.5445",
+            "Depth": "11.6",
+            "ML": "2.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.15",
             "Time": "18:05:49",
             "Latitude": "39.5285",
             "Longitude": "28.3597",
@@ -4445,15 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.4",
             "Location": "KOZANLI KULU KONYA REVIZE GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "12:21:48",
-            "Latitude": "35.1997",
-            "Longitude": "25.3033",
-            "Depth": "3.2",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
