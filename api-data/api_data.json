@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.15",
+            "Time": "10:49:14",
+            "Latitude": "37.3945",
+            "Longitude": "37.1980",
+            "Depth": "8.4",
+            "ML": "1.8",
+            "Location": "CIGDEMTEPE PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "10:42:51",
+            "Latitude": "36.9620",
+            "Longitude": "28.2363",
+            "Depth": "14.8",
+            "ML": "1.7",
+            "Location": "CAMLI MARMARIS MUGLA REVIZE AKDENIZ"
+        },
+        {
+            "Date": "2022.07.15",
             "Time": "08:28:27",
             "Latitude": "36.6037",
             "Longitude": "34.4155",
@@ -4436,33 +4454,6 @@
             "Depth": "15.1",
             "ML": "1.9",
             "Location": "GULPINAR TOKAT"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "22:44:50",
-            "Latitude": "36.5253",
-            "Longitude": "27.2130",
-            "Depth": "4.1",
-            "ML": "1.2",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "22:34:42",
-            "Latitude": "36.0670",
-            "Longitude": "31.1455",
-            "Depth": "9.9",
-            "ML": "3.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "21:31:38",
-            "Latitude": "38.1180",
-            "Longitude": "29.5945",
-            "Depth": "10.0",
-            "ML": "1.6",
-            "Location": "BEYELLI BAKLAN DENIZLI"
         }
     ]
 }
