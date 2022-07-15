@@ -2,6 +2,69 @@
     "data": [
         {
             "Date": "2022.07.15",
+            "Time": "15:13:45",
+            "Latitude": "37.4320",
+            "Longitude": "37.2567",
+            "Depth": "6.2",
+            "ML": "3.8",
+            "Location": "DAMLATAS PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "15:11:19",
+            "Latitude": "37.6555",
+            "Longitude": "36.0987",
+            "Depth": "5.4",
+            "ML": "2.6",
+            "Location": "ESENLI SUMBAS OSMANIYE"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "14:30:55",
+            "Latitude": "37.6333",
+            "Longitude": "36.1160",
+            "Depth": "2.8",
+            "ML": "2.3",
+            "Location": "ESENLI SUMBAS OSMANIYE"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "14:12:09",
+            "Latitude": "36.8297",
+            "Longitude": "29.3040",
+            "Depth": "2.1",
+            "ML": "1.8",
+            "Location": "SOGUTLUDERE FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "14:04:49",
+            "Latitude": "36.8627",
+            "Longitude": "29.1995",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "SOGUTLU FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "13:46:53",
+            "Latitude": "36.4458",
+            "Longitude": "28.0377",
+            "Depth": "9.8",
+            "ML": "1.7",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "13:43:25",
+            "Latitude": "37.6380",
+            "Longitude": "36.1248",
+            "Depth": "5.6",
+            "ML": "2.8",
+            "Location": "ESENLI SUMBAS OSMANIYE"
+        },
+        {
+            "Date": "2022.07.15",
             "Time": "12:48:05",
             "Latitude": "37.0152",
             "Longitude": "32.7728",
@@ -4391,69 +4454,6 @@
             "Depth": "7.8",
             "ML": "2.0",
             "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "11:30:35",
-            "Latitude": "36.9327",
-            "Longitude": "28.4118",
-            "Depth": "24.2",
-            "ML": "1.2",
-            "Location": "YESILCAM ULA MUGLA"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "10:12:46",
-            "Latitude": "35.3552",
-            "Longitude": "25.3347",
-            "Depth": "5.7",
-            "ML": "3.3",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "09:16:13",
-            "Latitude": "36.2652",
-            "Longitude": "27.0218",
-            "Depth": "20.3",
-            "ML": "2.3",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "08:38:15",
-            "Latitude": "40.1007",
-            "Longitude": "24.4293",
-            "Depth": "9.4",
-            "ML": "2.1",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "08:11:08",
-            "Latitude": "37.9045",
-            "Longitude": "27.0012",
-            "Depth": "10.5",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "04:22:20",
-            "Latitude": "39.1253",
-            "Longitude": "27.8063",
-            "Depth": "3.5",
-            "ML": "1.8",
-            "Location": "KARAKURT KIRKAGAC MANISA"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "02:45:21",
-            "Latitude": "43.2988",
-            "Longitude": "42.8522",
-            "Depth": "5.0",
-            "ML": "3.5",
-            "Location": "RUSYA"
         }
     ]
 }
