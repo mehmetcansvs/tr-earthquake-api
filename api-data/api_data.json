@@ -2,6 +2,78 @@
     "data": [
         {
             "Date": "2022.07.15",
+            "Time": "04:03:21",
+            "Latitude": "38.8117",
+            "Longitude": "43.5200",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "DEREBEY VAN"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "04:02:47",
+            "Latitude": "36.9427",
+            "Longitude": "27.8173",
+            "Depth": "11.4",
+            "ML": "2.4",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "03:59:03",
+            "Latitude": "38.8110",
+            "Longitude": "31.4127",
+            "Depth": "5.6",
+            "ML": "1.5",
+            "Location": "LEYLEKLI EMIRDAG AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "03:57:34",
+            "Latitude": "37.8822",
+            "Longitude": "27.0788",
+            "Depth": "4.5",
+            "ML": "1.7",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "03:21:04",
+            "Latitude": "39.4042",
+            "Longitude": "41.0353",
+            "Depth": "13.4",
+            "ML": "1.4",
+            "Location": "CIFTLIKKOY KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "02:59:54",
+            "Latitude": "39.2658",
+            "Longitude": "40.9383",
+            "Depth": "6.6",
+            "ML": "1.8",
+            "Location": "TASLICAY KARLIOVA BINGOL"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "01:54:47",
+            "Latitude": "38.7980",
+            "Longitude": "43.5470",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "DEGIRMENOZU VAN"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "01:43:12",
+            "Latitude": "40.7115",
+            "Longitude": "30.6282",
+            "Depth": "8.8",
+            "ML": "2.2",
+            "Location": "YUVALIK AKYAZI SAKARYA"
+        },
+        {
+            "Date": "2022.07.15",
             "Time": "00:03:29",
             "Latitude": "34.9112",
             "Longitude": "30.4598",
@@ -17,6 +89,15 @@
             "Depth": "7.7",
             "ML": "2.9",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "21:00:54",
+            "Latitude": "40.7262",
+            "Longitude": "30.6630",
+            "Depth": "0.0",
+            "ML": "1.9",
+            "Location": "CAYIRBASI HENDEK SAKARYA"
         },
         {
             "Date": "2022.07.14",
@@ -4373,87 +4454,6 @@
             "Depth": "13.1",
             "ML": "1.8",
             "Location": "UZUMLU GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "07:21:00",
-            "Latitude": "37.8005",
-            "Longitude": "29.3650",
-            "Depth": "7.4",
-            "ML": "1.9",
-            "Location": "DERECIFTLIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "06:55:52",
-            "Latitude": "37.9815",
-            "Longitude": "27.1312",
-            "Depth": "7.2",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "06:42:29",
-            "Latitude": "40.4740",
-            "Longitude": "29.2612",
-            "Depth": "4.2",
-            "ML": "1.5",
-            "Location": "FINDIKLI ORHANGAZI BURSA"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "06:36:52",
-            "Latitude": "36.4728",
-            "Longitude": "29.4568",
-            "Depth": "2.9",
-            "ML": "2.1",
-            "Location": "ARSAKOY FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "06:00:55",
-            "Latitude": "37.9633",
-            "Longitude": "27.6543",
-            "Depth": "7.8",
-            "ML": "1.9",
-            "Location": "BOZKOY GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "05:58:01",
-            "Latitude": "37.9680",
-            "Longitude": "27.6313",
-            "Depth": "7.6",
-            "ML": "1.8",
-            "Location": "BOZKOY GERMENCIK AYDIN"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "05:49:40",
-            "Latitude": "37.7937",
-            "Longitude": "29.3480",
-            "Depth": "9.0",
-            "ML": "1.7",
-            "Location": "DERECIFTLIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "05:17:45",
-            "Latitude": "39.1163",
-            "Longitude": "25.6640",
-            "Depth": "10.1",
-            "ML": "2.1",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "04:10:35",
-            "Latitude": "39.3138",
-            "Longitude": "43.7950",
-            "Depth": "1.0",
-            "ML": "1.9",
-            "Location": "ATADAMI DIYADIN AGRI"
         }
     ]
 }
