@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.15",
+            "Time": "08:28:27",
+            "Latitude": "36.6037",
+            "Longitude": "34.4155",
+            "Depth": "23.3",
+            "ML": "1.7",
+            "Location": "KARGIPINARI ERDEMLI MERSIN"
+        },
+        {
+            "Date": "2022.07.15",
             "Time": "07:04:44",
             "Latitude": "36.2627",
             "Longitude": "27.0047",
@@ -4454,15 +4463,6 @@
             "Depth": "10.0",
             "ML": "1.6",
             "Location": "BEYELLI BAKLAN DENIZLI"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "21:13:56",
-            "Latitude": "36.5942",
-            "Longitude": "29.1543",
-            "Depth": "32.6",
-            "ML": "1.6",
-            "Location": "OLUDENIZ FETHIYE MUGLA"
         }
     ]
 }
