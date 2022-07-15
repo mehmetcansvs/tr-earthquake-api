@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.15",
+            "Time": "07:04:44",
+            "Latitude": "36.2627",
+            "Longitude": "27.0047",
+            "Depth": "5.1",
+            "ML": "2.9",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "06:12:35",
+            "Latitude": "37.9150",
+            "Longitude": "29.0562",
+            "Depth": "19.6",
+            "ML": "1.3",
+            "Location": "YUKARISAMLI AKKOY DENIZLI"
+        },
+        {
+            "Date": "2022.07.15",
             "Time": "04:03:21",
             "Latitude": "38.8117",
             "Longitude": "43.5200",
@@ -107,6 +125,15 @@
             "Depth": "81.3",
             "ML": "2.7",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.14",
+            "Time": "22:19:20",
+            "Latitude": "37.3960",
+            "Longitude": "37.1680",
+            "Depth": "8.8",
+            "ML": "1.8",
+            "Location": "CIGDEMTEPE PAZARCIK KAHRAMANMARAS"
         },
         {
             "Date": "2022.07.14",
@@ -4436,24 +4463,6 @@
             "Depth": "32.6",
             "ML": "1.6",
             "Location": "OLUDENIZ FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "20:36:49",
-            "Latitude": "40.7722",
-            "Longitude": "27.4380",
-            "Depth": "15.4",
-            "ML": "2.7",
-            "Location": "YENIKOY TEKIRDAG ACIKLARI MARMARA DENIZI REVIZE TASLIK PAZAR TOKAT"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "18:04:48",
-            "Latitude": "40.2898",
-            "Longitude": "36.3260",
-            "Depth": "7.7",
-            "ML": "1.9",
-            "Location": "TASLIK PAZAR TOKAT"
         }
     ]
 }
