@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.15",
+            "Time": "12:48:05",
+            "Latitude": "37.0152",
+            "Longitude": "32.7728",
+            "Depth": "4.8",
+            "ML": "2.0",
+            "Location": "GOYNUKKISLA HADIM KONYA"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "12:23:15",
+            "Latitude": "37.9018",
+            "Longitude": "26.9810",
+            "Depth": "8.2",
+            "ML": "1.5",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "12:21:42",
+            "Latitude": "38.9773",
+            "Longitude": "29.8413",
+            "Depth": "15.3",
+            "ML": "1.8",
+            "Location": "OYSU ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "11:41:11",
+            "Latitude": "36.9295",
+            "Longitude": "28.2427",
+            "Depth": "4.9",
+            "ML": "1.5",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "11:35:27",
+            "Latitude": "37.9162",
+            "Longitude": "27.3335",
+            "Depth": "4.0",
+            "ML": "1.9",
+            "Location": "ACARLAR SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.07.15",
             "Time": "10:49:14",
             "Latitude": "37.3945",
             "Longitude": "37.1980",
@@ -4409,51 +4454,6 @@
             "Depth": "5.0",
             "ML": "3.5",
             "Location": "RUSYA"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "00:03:13",
-            "Latitude": "40.2773",
-            "Longitude": "36.3322",
-            "Depth": "5.4",
-            "ML": "2.5",
-            "Location": "TASLIK PAZAR TOKAT"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "23:55:06",
-            "Latitude": "40.2928",
-            "Longitude": "36.3343",
-            "Depth": "3.5",
-            "ML": "3.4",
-            "Location": "TASLIK PAZAR TOKAT"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "23:53:28",
-            "Latitude": "40.2912",
-            "Longitude": "36.3477",
-            "Depth": "4.6",
-            "ML": "1.4",
-            "Location": "KUCUKBAGLAR TOKAT"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "23:38:26",
-            "Latitude": "40.2940",
-            "Longitude": "36.3410",
-            "Depth": "5.4",
-            "ML": "2.1",
-            "Location": "KUCUKBAGLAR TOKAT"
-        },
-        {
-            "Date": "2022.07.03",
-            "Time": "23:38:11",
-            "Latitude": "40.3025",
-            "Longitude": "36.3888",
-            "Depth": "15.1",
-            "ML": "1.9",
-            "Location": "GULPINAR TOKAT"
         }
     ]
 }
