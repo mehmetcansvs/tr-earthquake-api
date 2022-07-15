@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.15",
+            "Time": "18:05:49",
+            "Latitude": "39.5285",
+            "Longitude": "28.3597",
+            "Depth": "7.4",
+            "ML": "2.1",
+            "Location": "KUMLU DURSUNBEY BALIKESIR"
+        },
+        {
+            "Date": "2022.07.15",
             "Time": "15:44:24",
             "Latitude": "37.8180",
             "Longitude": "29.3708",
@@ -4445,15 +4454,6 @@
             "Depth": "3.2",
             "ML": "2.5",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "12:10:28",
-            "Latitude": "39.7023",
-            "Longitude": "30.1008",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "KUMBETAKPINAR INONU ESKISEHIR"
         }
     ]
 }
