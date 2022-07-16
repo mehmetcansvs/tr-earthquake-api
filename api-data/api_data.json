@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.16",
+            "Time": "21:54:28",
+            "Latitude": "38.8737",
+            "Longitude": "43.4982",
+            "Depth": "5.0",
+            "ML": "2.9",
+            "Location": "ERMISLER VAN REVIZE KOZAN ADANA"
+        },
+        {
+            "Date": "2022.07.16",
             "Time": "19:33:13",
             "Latitude": "37.4067",
             "Longitude": "37.1775",
@@ -4445,24 +4454,6 @@
             "Depth": "0.0",
             "ML": "1.2",
             "Location": "KAYADERE MILAS MUGLA"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "17:52:25",
-            "Latitude": "39.5833",
-            "Longitude": "29.4923",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "KAYAARASI TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "17:18:17",
-            "Latitude": "39.4495",
-            "Longitude": "31.5712",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
         }
     ]
 }
