@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.16",
+            "Time": "17:31:25",
+            "Latitude": "38.8708",
+            "Longitude": "43.5802",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "SAGLAMTAS VAN"
+        },
+        {
+            "Date": "2022.07.16",
             "Time": "16:27:41",
             "Latitude": "34.8163",
             "Longitude": "24.2562",
@@ -4454,15 +4463,6 @@
             "Depth": "7.8",
             "ML": "2.5",
             "Location": "HIRKATEPE BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "13:59:48",
-            "Latitude": "40.1082",
-            "Longitude": "42.7867",
-            "Depth": "22.5",
-            "ML": "1.8",
-            "Location": "KALEBASI SARIKAMIS KARS"
         }
     ]
 }
