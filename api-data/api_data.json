@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.16",
+            "Time": "19:33:13",
+            "Latitude": "37.4067",
+            "Longitude": "37.1775",
+            "Depth": "7.0",
+            "ML": "2.0",
+            "Location": "DOGANLI PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "19:06:42",
+            "Latitude": "37.4143",
+            "Longitude": "37.2270",
+            "Depth": "6.1",
+            "ML": "2.1",
+            "Location": "SALMANIPAK PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.16",
             "Time": "17:31:25",
             "Latitude": "38.8708",
             "Longitude": "43.5802",
@@ -4445,24 +4463,6 @@
             "Depth": "0.0",
             "ML": "1.6",
             "Location": "BOGURTLEN SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "15:29:24",
-            "Latitude": "36.0707",
-            "Longitude": "33.6072",
-            "Depth": "7.9",
-            "ML": "1.5",
-            "Location": "YESILOVACIK ACIKLARI MERSIN AKDENIZ"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "14:20:35",
-            "Latitude": "40.1797",
-            "Longitude": "31.7595",
-            "Depth": "7.8",
-            "ML": "2.5",
-            "Location": "HIRKATEPE BEYPAZARI ANKARA"
         }
     ]
 }
