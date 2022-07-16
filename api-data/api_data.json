@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.16",
+            "Time": "23:44:03",
+            "Latitude": "36.4830",
+            "Longitude": "31.0248",
+            "Depth": "30.8",
+            "ML": "3.8",
+            "Location": "ANTALYA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.16",
             "Time": "21:54:28",
             "Latitude": "38.8737",
             "Longitude": "43.4982",
@@ -4445,15 +4454,6 @@
             "Depth": "11.6",
             "ML": "1.9",
             "Location": "SILIVRI ACIKLARI ISTANBUL MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "18:09:09",
-            "Latitude": "37.2277",
-            "Longitude": "27.9378",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "KAYADERE MILAS MUGLA"
         }
     ]
 }
