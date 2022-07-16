@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.16",
+            "Time": "06:49:42",
+            "Latitude": "37.8895",
+            "Longitude": "30.2022",
+            "Depth": "7.2",
+            "ML": "2.3",
+            "Location": "YENITEPE KECIBORLU ISPARTA"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "06:21:26",
+            "Latitude": "39.4297",
+            "Longitude": "25.6297",
+            "Depth": "7.4",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "06:15:24",
+            "Latitude": "35.0647",
+            "Longitude": "25.2438",
+            "Depth": "8.3",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.16",
             "Time": "05:41:47",
             "Latitude": "36.9345",
             "Longitude": "28.1998",
@@ -56,12 +83,39 @@
         },
         {
             "Date": "2022.07.16",
+            "Time": "03:34:53",
+            "Latitude": "36.9187",
+            "Longitude": "28.1422",
+            "Depth": "16.0",
+            "ML": "1.3",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "03:27:34",
+            "Latitude": "39.5605",
+            "Longitude": "44.0460",
+            "Depth": "19.3",
+            "ML": "2.0",
+            "Location": "YANOBA DOGUBAYAZIT AGRI"
+        },
+        {
+            "Date": "2022.07.16",
             "Time": "03:25:08",
             "Latitude": "37.4923",
             "Longitude": "37.1350",
             "Depth": "8.3",
             "ML": "1.0",
             "Location": "KARTAL KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "03:19:22",
+            "Latitude": "39.3150",
+            "Longitude": "44.3378",
+            "Depth": "2.4",
+            "ML": "2.0",
+            "Location": "BOLUCEK DOGUBAYAZIT AGRI"
         },
         {
             "Date": "2022.07.16",
@@ -4400,60 +4454,6 @@
             "Depth": "4.3",
             "ML": "2.8",
             "Location": "SELCUK IZMIR"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "08:49:53",
-            "Latitude": "37.9045",
-            "Longitude": "27.3168",
-            "Depth": "9.8",
-            "ML": "2.0",
-            "Location": "SULTANIYE SELCUK IZMIR"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "08:47:08",
-            "Latitude": "37.9220",
-            "Longitude": "27.2810",
-            "Depth": "9.9",
-            "ML": "1.9",
-            "Location": "SULTANIYE SELCUK IZMIR"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "08:46:19",
-            "Latitude": "37.9240",
-            "Longitude": "27.2662",
-            "Depth": "6.6",
-            "ML": "2.1",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "04:38:45",
-            "Latitude": "39.7547",
-            "Longitude": "41.9542",
-            "Depth": "6.9",
-            "ML": "2.0",
-            "Location": "PAYVEREN KARAYAZI ERZURUM"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "03:36:31",
-            "Latitude": "36.5750",
-            "Longitude": "31.4380",
-            "Depth": "55.4",
-            "ML": "2.1",
-            "Location": "MANAVGAT ACIKLARI ANTALYA AKDENIZ"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "02:06:57",
-            "Latitude": "40.7952",
-            "Longitude": "34.6537",
-            "Depth": "14.4",
-            "ML": "2.4",
-            "Location": "AGACCAMI OGUZLAR CORUM"
         }
     ]
 }
