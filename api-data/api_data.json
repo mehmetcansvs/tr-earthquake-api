@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.16",
+            "Time": "13:46:10",
+            "Latitude": "37.2950",
+            "Longitude": "39.0508",
+            "Depth": "5.0",
+            "ML": "2.0",
+            "Location": "KALECIK SANLIURFA"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "13:21:14",
+            "Latitude": "35.1775",
+            "Longitude": "33.4988",
+            "Depth": "5.8",
+            "ML": "2.1",
+            "Location": "KIBRIS DEGIRMENLIK"
+        },
+        {
+            "Date": "2022.07.16",
             "Time": "11:50:38",
             "Latitude": "39.1115",
             "Longitude": "29.0615",
@@ -4445,24 +4463,6 @@
             "Depth": "3.6",
             "ML": "1.3",
             "Location": "FETHIYE YENISEHIR BURSA"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "12:59:44",
-            "Latitude": "39.7375",
-            "Longitude": "30.6838",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "KANLIPINAR ODUNPAZARI ESKISEHIR"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "11:46:35",
-            "Latitude": "35.0910",
-            "Longitude": "24.0767",
-            "Depth": "5.0",
-            "ML": "2.1",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
