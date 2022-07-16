@@ -1,6 +1,105 @@
 {
     "data": [
         {
+            "Date": "2022.07.16",
+            "Time": "04:13:21",
+            "Latitude": "38.2697",
+            "Longitude": "28.3762",
+            "Depth": "5.3",
+            "ML": "1.4",
+            "Location": "KESTANEDERESI ALASEHIR MANISA"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "03:36:45",
+            "Latitude": "36.9372",
+            "Longitude": "28.2500",
+            "Depth": "5.0",
+            "ML": "0.7",
+            "Location": "CAMLI MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "03:36:22",
+            "Latitude": "39.4352",
+            "Longitude": "23.5003",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "YUNANISTAN"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "03:06:36",
+            "Latitude": "36.5737",
+            "Longitude": "31.4502",
+            "Depth": "91.9",
+            "ML": "2.5",
+            "Location": "ANTALYA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "02:47:05",
+            "Latitude": "37.8463",
+            "Longitude": "32.0063",
+            "Depth": "4.1",
+            "ML": "1.4",
+            "Location": "SAGLIK MERAM KONYA"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "02:08:11",
+            "Latitude": "39.5682",
+            "Longitude": "26.1078",
+            "Depth": "7.1",
+            "ML": "1.8",
+            "Location": "GULPINAR AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "01:32:08",
+            "Latitude": "36.9392",
+            "Longitude": "28.2217",
+            "Depth": "5.0",
+            "ML": "1.1",
+            "Location": "KARACA MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "00:39:07",
+            "Latitude": "38.5203",
+            "Longitude": "39.4363",
+            "Depth": "5.0",
+            "ML": "1.6",
+            "Location": "GOLARDI ELAZIG"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "23:54:22",
+            "Latitude": "38.5583",
+            "Longitude": "39.3857",
+            "Depth": "5.0",
+            "ML": "2.2",
+            "Location": "DEREBOGAZI ELAZIG"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "22:46:23",
+            "Latitude": "36.7232",
+            "Longitude": "27.9818",
+            "Depth": "18.3",
+            "ML": "1.4",
+            "Location": "BOZBURUN MARMARIS MUGLA"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "22:25:44",
+            "Latitude": "38.4640",
+            "Longitude": "44.3050",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "KAPIKOY SARAY VAN"
+        },
+        {
             "Date": "2022.07.15",
             "Time": "21:05:47",
             "Latitude": "40.1400",
@@ -8,6 +107,15 @@
             "Depth": "11.6",
             "ML": "2.2",
             "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.15",
+            "Time": "20:45:28",
+            "Latitude": "37.4143",
+            "Longitude": "37.2182",
+            "Depth": "5.7",
+            "ML": "1.9",
+            "Location": "SALMANIPAK PAZARCIK KAHRAMANMARAS"
         },
         {
             "Date": "2022.07.15",
@@ -4355,105 +4463,6 @@
             "Depth": "7.4",
             "ML": "1.4",
             "Location": "ULA MUGLA"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "16:25:50",
-            "Latitude": "37.2380",
-            "Longitude": "37.4805",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "CAYKUYU SEHITKAMIL GAZIANTEP"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "15:50:13",
-            "Latitude": "40.0175",
-            "Longitude": "35.2338",
-            "Depth": "11.1",
-            "ML": "2.2",
-            "Location": "EYMIR SORGUN YOZGAT"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "15:45:58",
-            "Latitude": "38.3935",
-            "Longitude": "26.4192",
-            "Depth": "10.6",
-            "ML": "2.6",
-            "Location": "ILDIR CESME IZMIR"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "15:28:14",
-            "Latitude": "35.4602",
-            "Longitude": "25.8777",
-            "Depth": "18.8",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "15:28:09",
-            "Latitude": "34.3877",
-            "Longitude": "26.1078",
-            "Depth": "31.5",
-            "ML": "2.9",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "15:19:22",
-            "Latitude": "40.2527",
-            "Longitude": "33.2610",
-            "Depth": "5.0",
-            "ML": "1.4",
-            "Location": "ASAGIEMIRLER CUBUK ANKARA"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "14:34:56",
-            "Latitude": "38.9692",
-            "Longitude": "27.8778",
-            "Depth": "5.9",
-            "ML": "1.6",
-            "Location": "CAMONU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "13:10:40",
-            "Latitude": "39.8127",
-            "Longitude": "28.8125",
-            "Depth": "10.5",
-            "ML": "2.1",
-            "Location": "AKTAS BUYUKORHAN BURSA"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "12:51:39",
-            "Latitude": "37.9542",
-            "Longitude": "29.0820",
-            "Depth": "18.0",
-            "ML": "1.5",
-            "Location": "AKKOY DENIZLI"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "12:41:46",
-            "Latitude": "40.5760",
-            "Longitude": "29.3305",
-            "Depth": "0.0",
-            "ML": "1.0",
-            "Location": "SUGOREN YALOVA"
-        },
-        {
-            "Date": "2022.07.04",
-            "Time": "12:34:47",
-            "Latitude": "39.0402",
-            "Longitude": "32.8068",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "KOZANLI KULU KONYA REVIZE GIRIT ADASI AKDENIZ"
         }
     ]
 }
