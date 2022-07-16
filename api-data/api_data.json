@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.16",
+            "Time": "11:50:38",
+            "Latitude": "39.1115",
+            "Longitude": "29.0615",
+            "Depth": "5.4",
+            "ML": "2.2",
+            "Location": "SOGUT SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "11:17:50",
+            "Latitude": "39.4767",
+            "Longitude": "26.3478",
+            "Depth": "5.6",
+            "ML": "2.2",
+            "Location": "BEHRAM AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "11:07:57",
+            "Latitude": "35.1905",
+            "Longitude": "25.3170",
+            "Depth": "13.8",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.16",
             "Time": "10:33:59",
             "Latitude": "36.4707",
             "Longitude": "26.5318",
@@ -17,6 +44,24 @@
             "Depth": "10.8",
             "ML": "1.9",
             "Location": "CIGLI IZMIR"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "10:24:02",
+            "Latitude": "35.8092",
+            "Longitude": "24.4200",
+            "Depth": "27.1",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "09:26:54",
+            "Latitude": "34.6077",
+            "Longitude": "25.0507",
+            "Depth": "19.0",
+            "ML": "1.9",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.07.16",
@@ -4418,51 +4463,6 @@
             "Depth": "5.0",
             "ML": "2.1",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "10:48:19",
-            "Latitude": "39.1593",
-            "Longitude": "27.5527",
-            "Depth": "0.0",
-            "ML": "2.0",
-            "Location": "KOZANLI SOMA MANISA"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "10:30:04",
-            "Latitude": "37.2190",
-            "Longitude": "27.0945",
-            "Depth": "9.3",
-            "ML": "2.0",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "10:27:53",
-            "Latitude": "37.9925",
-            "Longitude": "26.9868",
-            "Depth": "18.5",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "10:21:50",
-            "Latitude": "37.9512",
-            "Longitude": "27.2925",
-            "Depth": "24.1",
-            "ML": "1.5",
-            "Location": "ZEYTINKOY SELCUK IZMIR"
-        },
-        {
-            "Date": "2022.07.05",
-            "Time": "10:21:12",
-            "Latitude": "37.9292",
-            "Longitude": "27.2510",
-            "Depth": "6.1",
-            "ML": "1.9",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
