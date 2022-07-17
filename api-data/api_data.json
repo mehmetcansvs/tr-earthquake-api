@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.17",
+            "Time": "10:30:58",
+            "Latitude": "37.9508",
+            "Longitude": "28.7817",
+            "Depth": "6.1",
+            "ML": "2.2",
+            "Location": "SAVCILI BUHARKENT AYDIN"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "09:17:22",
+            "Latitude": "35.1845",
+            "Longitude": "25.3268",
+            "Depth": "4.2",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "09:06:19",
+            "Latitude": "37.8117",
+            "Longitude": "26.4752",
+            "Depth": "3.9",
+            "ML": "2.7",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.07.17",
             "Time": "08:43:09",
             "Latitude": "35.0972",
             "Longitude": "25.2642",
@@ -4427,33 +4454,6 @@
             "Depth": "17.3",
             "ML": "2.6",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "11:27:24",
-            "Latitude": "36.0345",
-            "Longitude": "31.5328",
-            "Depth": "22.1",
-            "ML": "3.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "11:25:20",
-            "Latitude": "39.5695",
-            "Longitude": "29.3530",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "SAPCIDEDE TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "09:48:09",
-            "Latitude": "38.6143",
-            "Longitude": "26.8148",
-            "Depth": "5.5",
-            "ML": "1.8",
-            "Location": "IZMIR KORFEZI EGE DENIZI"
         }
     ]
 }
