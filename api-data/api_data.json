@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.17",
+            "Time": "20:48:38",
+            "Latitude": "37.8410",
+            "Longitude": "27.0612",
+            "Depth": "5.0",
+            "ML": "2.3",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "20:43:13",
+            "Latitude": "39.8185",
+            "Longitude": "27.9320",
+            "Depth": "12.2",
+            "ML": "1.8",
+            "Location": "HALKAPINAR BALIKESIR"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "20:07:50",
+            "Latitude": "40.7200",
+            "Longitude": "27.4502",
+            "Depth": "10.2",
+            "ML": "2.7",
+            "Location": "GUZELKOY ACIKLARI TEKIRDAG MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "19:12:38",
+            "Latitude": "39.2875",
+            "Longitude": "27.7062",
+            "Depth": "1.8",
+            "ML": "1.8",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
             "Time": "18:42:04",
             "Latitude": "37.4213",
             "Longitude": "37.2388",
@@ -4435,33 +4471,6 @@
             "Longitude": "25.3285",
             "Depth": "12.1",
             "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "01:31:13",
-            "Latitude": "40.2075",
-            "Longitude": "34.1975",
-            "Depth": "4.4",
-            "ML": "2.1",
-            "Location": "TERZILI SUNGURLU CORUM"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "00:42:27",
-            "Latitude": "37.7972",
-            "Longitude": "29.3683",
-            "Depth": "8.0",
-            "ML": "1.4",
-            "Location": "DERECIFTLIK HONAZ DENIZLI REVIZE KIZILAGIL BOLU"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "00:21:36",
-            "Latitude": "35.1485",
-            "Longitude": "23.5957",
-            "Depth": "28.5",
-            "ML": "1.4",
             "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
