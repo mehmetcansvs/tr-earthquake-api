@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.17",
+            "Time": "13:06:28",
+            "Latitude": "35.0942",
+            "Longitude": "25.3010",
+            "Depth": "6.5",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "12:52:32",
+            "Latitude": "35.1615",
+            "Longitude": "25.2855",
+            "Depth": "14.0",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "12:17:01",
+            "Latitude": "38.3565",
+            "Longitude": "38.7680",
+            "Depth": "16.7",
+            "ML": "2.0",
+            "Location": "CANAKCI KALE MALATYA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "12:08:52",
+            "Latitude": "41.1195",
+            "Longitude": "28.9813",
+            "Depth": "0.0",
+            "ML": "0.8",
+            "Location": "KAGITHANE ISTANBUL"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "12:02:57",
+            "Latitude": "35.2485",
+            "Longitude": "25.3440",
+            "Depth": "4.8",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.17",
             "Time": "10:30:58",
             "Latitude": "37.9508",
             "Longitude": "28.7817",
@@ -4409,51 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.4",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "12:00:47",
-            "Latitude": "40.8495",
-            "Longitude": "31.3935",
-            "Depth": "6.1",
-            "ML": "2.4",
-            "Location": "KIRIK YIGILCA DUZCE"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "11:33:50",
-            "Latitude": "39.5618",
-            "Longitude": "29.3918",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "AYVALI TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "11:32:43",
-            "Latitude": "39.6083",
-            "Longitude": "29.3090",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "DUTLAR TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "11:32:32",
-            "Latitude": "40.0287",
-            "Longitude": "29.1250",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "KARAISLAH OSMANGAZI BURSA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "11:28:25",
-            "Latitude": "35.9535",
-            "Longitude": "24.0698",
-            "Depth": "17.3",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
