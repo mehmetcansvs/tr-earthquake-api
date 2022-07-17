@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.17",
+            "Time": "06:29:57",
+            "Latitude": "36.2393",
+            "Longitude": "36.4050",
+            "Depth": "17.4",
+            "ML": "1.6",
+            "Location": "TAYFURSOKMEN REYHANLI HATAY"
+        },
+        {
+            "Date": "2022.07.17",
             "Time": "04:59:49",
             "Latitude": "40.1595",
             "Longitude": "27.4217",
@@ -4445,15 +4454,6 @@
             "Depth": "24.3",
             "ML": "2.8",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "07:14:48",
-            "Latitude": "37.7997",
-            "Longitude": "29.5157",
-            "Depth": "7.1",
-            "ML": "2.2",
-            "Location": "YENIBAGLAR BOZKURT DENIZLI"
         }
     ]
 }
