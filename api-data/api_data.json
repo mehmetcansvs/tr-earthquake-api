@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.17",
+            "Time": "04:59:49",
+            "Latitude": "40.1595",
+            "Longitude": "27.4217",
+            "Depth": "15.5",
+            "ML": "1.7",
+            "Location": "TAHTALI GONEN BALIKESIR"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "04:58:47",
+            "Latitude": "34.1252",
+            "Longitude": "25.0827",
+            "Depth": "13.9",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "04:55:38",
+            "Latitude": "37.9873",
+            "Longitude": "27.2470",
+            "Depth": "7.0",
+            "ML": "1.9",
+            "Location": "ZEYTINKOY SELCUK IZMIR"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "04:51:11",
+            "Latitude": "40.1612",
+            "Longitude": "27.4115",
+            "Depth": "9.1",
+            "ML": "2.4",
+            "Location": "TAHTALI GONEN BALIKESIR"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "04:47:05",
+            "Latitude": "36.9773",
+            "Longitude": "28.5355",
+            "Depth": "10.0",
+            "ML": "1.5",
+            "Location": "CORUS ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.17",
             "Time": "04:34:26",
             "Latitude": "35.1682",
             "Longitude": "25.3055",
@@ -4409,51 +4454,6 @@
             "Depth": "7.1",
             "ML": "2.2",
             "Location": "YENIBAGLAR BOZKURT DENIZLI"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "07:13:28",
-            "Latitude": "40.1638",
-            "Longitude": "34.2043",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "AYDOGAN SUNGURLU CORUM"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "07:10:39",
-            "Latitude": "37.8378",
-            "Longitude": "29.4815",
-            "Depth": "8.5",
-            "ML": "2.0",
-            "Location": "ALIKURT BOZKURT DENIZLI"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "06:43:27",
-            "Latitude": "39.9860",
-            "Longitude": "39.9448",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "BOGAZLI OTLUKBELI ERZINCAN"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "06:35:41",
-            "Latitude": "35.4267",
-            "Longitude": "25.3457",
-            "Depth": "9.5",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "05:36:15",
-            "Latitude": "36.0888",
-            "Longitude": "26.2718",
-            "Depth": "23.7",
-            "ML": "1.9",
-            "Location": "AKDENIZ"
         }
     ]
 }
