@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.07.17",
+            "Time": "18:42:04",
+            "Latitude": "37.4213",
+            "Longitude": "37.2388",
+            "Depth": "5.9",
+            "ML": "2.5",
+            "Location": "SALMANIPAK PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "18:02:22",
+            "Latitude": "39.2912",
+            "Longitude": "27.7210",
+            "Depth": "10.6",
+            "ML": "1.8",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "17:57:07",
+            "Latitude": "39.2810",
+            "Longitude": "27.7127",
+            "Depth": "10.1",
+            "ML": "1.6",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "17:43:15",
+            "Latitude": "39.3048",
+            "Longitude": "27.7135",
+            "Depth": "8.5",
+            "ML": "2.2",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "17:36:08",
+            "Latitude": "39.2850",
+            "Longitude": "27.7088",
+            "Depth": "5.4",
+            "ML": "2.4",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "17:13:32",
+            "Latitude": "39.2833",
+            "Longitude": "27.7223",
+            "Depth": "8.0",
+            "ML": "2.5",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
             "Time": "17:03:02",
             "Latitude": "39.2980",
             "Longitude": "27.7060",
@@ -4409,60 +4463,6 @@
             "Depth": "28.5",
             "ML": "1.4",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "23:48:55",
-            "Latitude": "38.0108",
-            "Longitude": "32.4867",
-            "Depth": "11.6",
-            "ML": "1.1",
-            "Location": "SIZMA SELCUKLU KONYA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "23:30:52",
-            "Latitude": "35.4455",
-            "Longitude": "25.2990",
-            "Depth": "8.6",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "23:26:20",
-            "Latitude": "38.8125",
-            "Longitude": "43.5657",
-            "Depth": "17.9",
-            "ML": "1.8",
-            "Location": "AKCIFT VAN"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "23:04:15",
-            "Latitude": "35.0442",
-            "Longitude": "25.2873",
-            "Depth": "11.7",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "22:46:26",
-            "Latitude": "40.1660",
-            "Longitude": "31.8127",
-            "Depth": "14.5",
-            "ML": "1.9",
-            "Location": "KUYUCAK BEYPAZARI ANKARA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "22:38:54",
-            "Latitude": "37.9795",
-            "Longitude": "27.1607",
-            "Depth": "6.3",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
