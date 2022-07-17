@@ -1,6 +1,24 @@
 {
     "data": [
         {
+            "Date": "2022.07.18",
+            "Time": "00:46:43",
+            "Latitude": "38.9962",
+            "Longitude": "43.7515",
+            "Depth": "3.3",
+            "ML": "2.9",
+            "Location": "MURADIYE VAN"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "23:21:22",
+            "Latitude": "39.2778",
+            "Longitude": "27.7248",
+            "Depth": "7.5",
+            "ML": "2.3",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
             "Date": "2022.07.17",
             "Time": "22:36:11",
             "Latitude": "39.2778",
@@ -4454,24 +4472,6 @@
             "Depth": "15.0",
             "ML": "2.0",
             "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "05:01:38",
-            "Latitude": "40.0262",
-            "Longitude": "40.0965",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "UMURLU OTLUKBELI ERZINCAN"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "04:24:27",
-            "Latitude": "37.8572",
-            "Longitude": "27.0658",
-            "Depth": "1.1",
-            "ML": "2.2",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
