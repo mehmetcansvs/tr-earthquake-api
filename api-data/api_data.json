@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.17",
+            "Time": "08:43:09",
+            "Latitude": "35.0972",
+            "Longitude": "25.2642",
+            "Depth": "8.5",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.17",
             "Time": "06:29:57",
             "Latitude": "36.2393",
             "Longitude": "36.4050",
@@ -56,12 +65,30 @@
         },
         {
             "Date": "2022.07.17",
+            "Time": "04:40:14",
+            "Latitude": "35.2897",
+            "Longitude": "25.3410",
+            "Depth": "6.4",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.17",
             "Time": "04:34:26",
             "Latitude": "35.1682",
             "Longitude": "25.3055",
             "Depth": "5.5",
             "ML": "3.8",
             "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "04:28:35",
+            "Latitude": "34.7907",
+            "Longitude": "24.9520",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         },
         {
             "Date": "2022.07.17",
@@ -4427,33 +4454,6 @@
             "Depth": "5.5",
             "ML": "1.8",
             "Location": "IZMIR KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "08:33:48",
-            "Latitude": "36.3408",
-            "Longitude": "27.1277",
-            "Depth": "5.4",
-            "ML": "2.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "08:31:13",
-            "Latitude": "35.6063",
-            "Longitude": "25.3453",
-            "Depth": "14.2",
-            "ML": "2.5",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "07:29:16",
-            "Latitude": "36.1005",
-            "Longitude": "24.5402",
-            "Depth": "24.3",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
