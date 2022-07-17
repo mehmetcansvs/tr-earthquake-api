@@ -2,6 +2,150 @@
     "data": [
         {
             "Date": "2022.07.17",
+            "Time": "17:03:02",
+            "Latitude": "39.2980",
+            "Longitude": "27.7060",
+            "Depth": "5.8",
+            "ML": "3.7",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "16:36:31",
+            "Latitude": "39.2880",
+            "Longitude": "27.7108",
+            "Depth": "7.8",
+            "ML": "3.3",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "16:19:53",
+            "Latitude": "39.2830",
+            "Longitude": "27.7255",
+            "Depth": "7.3",
+            "ML": "2.7",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "16:18:29",
+            "Latitude": "35.1870",
+            "Longitude": "25.2920",
+            "Depth": "6.0",
+            "ML": "3.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "15:43:25",
+            "Latitude": "39.2980",
+            "Longitude": "27.7065",
+            "Depth": "7.8",
+            "ML": "2.4",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "15:40:49",
+            "Latitude": "40.1975",
+            "Longitude": "31.8507",
+            "Depth": "23.7",
+            "ML": "2.8",
+            "Location": "CAKILOBA BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "15:23:23",
+            "Latitude": "39.2982",
+            "Longitude": "27.6705",
+            "Depth": "5.2",
+            "ML": "1.8",
+            "Location": "GOKTAS SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "15:22:18",
+            "Latitude": "39.2908",
+            "Longitude": "27.7380",
+            "Depth": "7.4",
+            "ML": "1.9",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "15:15:27",
+            "Latitude": "39.2818",
+            "Longitude": "27.7107",
+            "Depth": "8.0",
+            "ML": "1.8",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "15:10:49",
+            "Latitude": "35.1318",
+            "Longitude": "25.2940",
+            "Depth": "16.2",
+            "ML": "3.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "15:04:54",
+            "Latitude": "39.2843",
+            "Longitude": "27.6940",
+            "Depth": "8.0",
+            "ML": "1.9",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "15:02:25",
+            "Latitude": "39.2897",
+            "Longitude": "27.7093",
+            "Depth": "9.0",
+            "ML": "2.5",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "15:01:41",
+            "Latitude": "39.2750",
+            "Longitude": "27.7258",
+            "Depth": "7.5",
+            "ML": "2.2",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "14:59:50",
+            "Latitude": "39.2935",
+            "Longitude": "27.7155",
+            "Depth": "5.7",
+            "ML": "2.4",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "14:58:57",
+            "Latitude": "39.2907",
+            "Longitude": "27.6988",
+            "Depth": "7.2",
+            "ML": "3.1",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
+            "Time": "14:57:35",
+            "Latitude": "39.2830",
+            "Longitude": "27.7223",
+            "Depth": "2.8",
+            "ML": "2.3",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.17",
             "Time": "14:56:30",
             "Latitude": "39.2807",
             "Longitude": "27.6957",
@@ -12,9 +156,9 @@
         {
             "Date": "2022.07.17",
             "Time": "14:55:39",
-            "Latitude": "39.2762",
-            "Longitude": "27.6852",
-            "Depth": "6.2",
+            "Latitude": "39.2747",
+            "Longitude": "27.6817",
+            "Depth": "6.7",
             "ML": "4.5",
             "Location": "KOZLUOREN SOMA MANISA"
         },
@@ -4319,150 +4463,6 @@
             "Depth": "6.3",
             "ML": "1.7",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "22:37:57",
-            "Latitude": "36.7823",
-            "Longitude": "27.4185",
-            "Depth": "6.1",
-            "ML": "1.4",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "21:07:26",
-            "Latitude": "38.3982",
-            "Longitude": "32.3728",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "GOZLU SARAYONU KONYA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "20:44:40",
-            "Latitude": "35.1370",
-            "Longitude": "25.3148",
-            "Depth": "8.2",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "20:32:14",
-            "Latitude": "38.2158",
-            "Longitude": "30.9710",
-            "Depth": "11.2",
-            "ML": "1.6",
-            "Location": "TOKMACIK YALVAC ISPARTA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "19:47:37",
-            "Latitude": "35.1938",
-            "Longitude": "25.3150",
-            "Depth": "6.6",
-            "ML": "2.7",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "19:32:50",
-            "Latitude": "39.0463",
-            "Longitude": "26.9367",
-            "Depth": "9.0",
-            "ML": "1.8",
-            "Location": "UZUNBURUN DIKILI IZMIR"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "18:08:40",
-            "Latitude": "37.2188",
-            "Longitude": "27.9378",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "KAYADERE MILAS MUGLA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "17:26:05",
-            "Latitude": "38.8168",
-            "Longitude": "37.8337",
-            "Depth": "8.4",
-            "ML": "1.4",
-            "Location": "DURSUNLU HEKIMHAN MALATYA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "15:34:09",
-            "Latitude": "35.6418",
-            "Longitude": "27.1208",
-            "Depth": "4.9",
-            "ML": "2.2",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "15:02:55",
-            "Latitude": "39.5355",
-            "Longitude": "29.5837",
-            "Depth": "0.0",
-            "ML": "1.2",
-            "Location": "KAYI TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "14:29:57",
-            "Latitude": "36.4168",
-            "Longitude": "27.1647",
-            "Depth": "5.0",
-            "ML": "2.3",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "13:36:09",
-            "Latitude": "36.1638",
-            "Longitude": "33.5317",
-            "Depth": "0.0",
-            "ML": "1.3",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "13:30:32",
-            "Latitude": "38.9760",
-            "Longitude": "26.1463",
-            "Depth": "9.5",
-            "ML": "2.7",
-            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "13:13:18",
-            "Latitude": "35.0657",
-            "Longitude": "23.1420",
-            "Depth": "22.4",
-            "ML": "2.0",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "13:04:19",
-            "Latitude": "38.8402",
-            "Longitude": "27.6818",
-            "Depth": "1.7",
-            "ML": "1.3",
-            "Location": "DILEK SARUHANLI MANISA"
-        },
-        {
-            "Date": "2022.07.06",
-            "Time": "12:54:06",
-            "Latitude": "35.3312",
-            "Longitude": "25.3300",
-            "Depth": "8.2",
-            "ML": "2.8",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
