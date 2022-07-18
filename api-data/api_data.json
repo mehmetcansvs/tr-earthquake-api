@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.18",
+            "Time": "03:49:05",
+            "Latitude": "35.2387",
+            "Longitude": "25.3128",
+            "Depth": "5.4",
+            "ML": "3.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "03:44:44",
+            "Latitude": "35.8153",
+            "Longitude": "27.5567",
+            "Depth": "9.3",
+            "ML": "2.5",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "02:04:30",
+            "Latitude": "45.7583",
+            "Longitude": "26.6970",
+            "Depth": "88.1",
+            "ML": "3.9",
+            "Location": "ROMANYA"
+        },
+        {
+            "Date": "2022.07.18",
             "Time": "00:46:43",
             "Latitude": "38.9962",
             "Longitude": "43.7515",
@@ -4445,33 +4472,6 @@
             "Depth": "2.7",
             "ML": "2.1",
             "Location": "OSMANIYE CORUM"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "09:24:28",
-            "Latitude": "40.7982",
-            "Longitude": "29.0392",
-            "Depth": "10.0",
-            "ML": "2.2",
-            "Location": "CINARCIK ACIKLARI YALOVA MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "08:13:04",
-            "Latitude": "38.3330",
-            "Longitude": "32.4990",
-            "Depth": "9.5",
-            "ML": "1.6",
-            "Location": "BASHUYUK SARAYONU KONYA"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "07:45:36",
-            "Latitude": "40.7953",
-            "Longitude": "28.0938",
-            "Depth": "15.0",
-            "ML": "2.0",
-            "Location": "MARMARA DENIZI"
         }
     ]
 }
