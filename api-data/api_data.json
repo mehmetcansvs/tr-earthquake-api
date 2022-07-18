@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.07.19",
+            "Time": "00:37:11",
+            "Latitude": "35.1672",
+            "Longitude": "25.2943",
+            "Depth": "8.2",
+            "ML": "3.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
             "Date": "2022.07.18",
             "Time": "21:17:31",
             "Latitude": "38.9297",
@@ -4463,15 +4472,6 @@
             "Depth": "5.4",
             "ML": "2.6",
             "Location": "SOGUTLU FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "19:38:06",
-            "Latitude": "39.5228",
-            "Longitude": "27.7495",
-            "Depth": "5.5",
-            "ML": "1.7",
-            "Location": "CAMKOY BALIKESIR"
         }
     ]
 }
