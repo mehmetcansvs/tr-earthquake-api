@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.18",
+            "Time": "06:51:01",
+            "Latitude": "39.2900",
+            "Longitude": "27.7110",
+            "Depth": "5.5",
+            "ML": "2.2",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "05:25:18",
+            "Latitude": "35.3325",
+            "Longitude": "25.2417",
+            "Depth": "14.5",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "04:23:18",
+            "Latitude": "35.0430",
+            "Longitude": "25.2718",
+            "Depth": "8.2",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.18",
             "Time": "03:49:05",
             "Latitude": "35.2387",
             "Longitude": "25.3128",
@@ -17,6 +44,15 @@
             "Depth": "9.3",
             "ML": "2.5",
             "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "03:05:44",
+            "Latitude": "35.1337",
+            "Longitude": "25.3032",
+            "Depth": "16.7",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.18",
@@ -4436,42 +4472,6 @@
             "Depth": "0.0",
             "ML": "1.5",
             "Location": "KIBRIS GIRNE"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "11:21:09",
-            "Latitude": "37.7778",
-            "Longitude": "29.3635",
-            "Depth": "20.0",
-            "ML": "1.4",
-            "Location": "DERECIFTLIK HONAZ DENIZLI"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "10:40:23",
-            "Latitude": "37.7382",
-            "Longitude": "36.0307",
-            "Depth": "8.7",
-            "ML": "2.8",
-            "Location": "AKOLUK FEKE ADANA"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "09:55:04",
-            "Latitude": "39.2712",
-            "Longitude": "27.5302",
-            "Depth": "21.5",
-            "ML": "1.6",
-            "Location": "URUZLAR SOMA MANISA"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "09:32:42",
-            "Latitude": "40.6715",
-            "Longitude": "34.9177",
-            "Depth": "2.7",
-            "ML": "2.1",
-            "Location": "OSMANIYE CORUM"
         }
     ]
 }
