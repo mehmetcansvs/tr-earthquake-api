@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.18",
+            "Time": "10:32:48",
+            "Latitude": "40.3120",
+            "Longitude": "26.9922",
+            "Depth": "13.9",
+            "ML": "1.5",
+            "Location": "DOGANDERE LAPSEKI CANAKKALE"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "09:44:47",
+            "Latitude": "40.7988",
+            "Longitude": "32.9073",
+            "Depth": "15.7",
+            "ML": "1.6",
+            "Location": "BOZOGLU CERKES CANKIRI"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "09:22:49",
+            "Latitude": "40.3990",
+            "Longitude": "27.2107",
+            "Depth": "14.7",
+            "ML": "1.7",
+            "Location": "ORTULUCE BIGA CANAKKALE"
+        },
+        {
+            "Date": "2022.07.18",
             "Time": "07:55:59",
             "Latitude": "36.5570",
             "Longitude": "30.2950",
@@ -4445,33 +4472,6 @@
             "Depth": "10.6",
             "ML": "2.4",
             "Location": "PINARLIKAYA UZUMLU ERZINCAN"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "14:14:23",
-            "Latitude": "36.1338",
-            "Longitude": "33.5842",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "BUYUKECELI GULNAR MERSIN"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "13:04:02",
-            "Latitude": "35.3888",
-            "Longitude": "33.6567",
-            "Depth": "22.3",
-            "ML": "1.7",
-            "Location": "KIBRIS BESPARMAK"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "12:55:02",
-            "Latitude": "35.1552",
-            "Longitude": "25.1073",
-            "Depth": "20.2",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
