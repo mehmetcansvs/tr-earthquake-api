@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.18",
+            "Time": "07:55:59",
+            "Latitude": "36.5570",
+            "Longitude": "30.2950",
+            "Depth": "11.5",
+            "ML": "1.4",
+            "Location": "CALTI KUMLUCA ANTALYA"
+        },
+        {
+            "Date": "2022.07.18",
             "Time": "06:51:01",
             "Latitude": "39.2900",
             "Longitude": "27.7110",
@@ -4463,15 +4472,6 @@
             "Depth": "20.2",
             "ML": "2.6",
             "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "12:45:52",
-            "Latitude": "35.3098",
-            "Longitude": "33.3895",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "KIBRIS GIRNE"
         }
     ]
 }
