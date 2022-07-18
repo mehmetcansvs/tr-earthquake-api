@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.18",
+            "Time": "15:06:49",
+            "Latitude": "38.7737",
+            "Longitude": "39.9257",
+            "Depth": "5.1",
+            "ML": "2.5",
+            "Location": "YESILKOY KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "14:04:57",
+            "Latitude": "36.1630",
+            "Longitude": "33.5147",
+            "Depth": "0.0",
+            "ML": "1.3",
+            "Location": "YANISLI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.07.18",
             "Time": "10:32:48",
             "Latitude": "40.3120",
             "Longitude": "26.9922",
@@ -4454,24 +4472,6 @@
             "Depth": "8.5",
             "ML": "1.9",
             "Location": "CAYPINAR BALIKESIR"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "15:25:26",
-            "Latitude": "41.1400",
-            "Longitude": "28.9860",
-            "Depth": "0.0",
-            "ML": "0.8",
-            "Location": "SARIYER ISTANBUL"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "14:47:12",
-            "Latitude": "39.6453",
-            "Longitude": "39.8872",
-            "Depth": "10.6",
-            "ML": "2.4",
-            "Location": "PINARLIKAYA UZUMLU ERZINCAN"
         }
     ]
 }
