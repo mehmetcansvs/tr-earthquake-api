@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.18",
+            "Time": "21:17:31",
+            "Latitude": "38.9297",
+            "Longitude": "38.3083",
+            "Depth": "5.0",
+            "ML": "2.8",
+            "Location": "GOKAGAC ARGUVAN MALATYA"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "21:16:15",
+            "Latitude": "38.8558",
+            "Longitude": "38.1985",
+            "Depth": "2.3",
+            "ML": "2.5",
+            "Location": "ARMUTLU ARGUVAN MALATYA"
+        },
+        {
+            "Date": "2022.07.18",
             "Time": "15:47:38",
             "Latitude": "35.7718",
             "Longitude": "27.4660",
@@ -4454,24 +4472,6 @@
             "Depth": "5.5",
             "ML": "1.7",
             "Location": "CAMKOY BALIKESIR"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "19:03:42",
-            "Latitude": "38.8305",
-            "Longitude": "43.5162",
-            "Depth": "4.4",
-            "ML": "1.8",
-            "Location": "BAGDASAN VAN"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "18:55:55",
-            "Latitude": "38.6028",
-            "Longitude": "39.3122",
-            "Depth": "11.8",
-            "ML": "1.6",
-            "Location": "YAZIKONAK ELAZIG"
         }
     ]
 }
