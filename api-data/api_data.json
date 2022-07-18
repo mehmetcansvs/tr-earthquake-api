@@ -2,12 +2,39 @@
     "data": [
         {
             "Date": "2022.07.18",
+            "Time": "15:47:38",
+            "Latitude": "35.7718",
+            "Longitude": "27.4660",
+            "Depth": "8.1",
+            "ML": "2.6",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "15:30:40",
+            "Latitude": "36.5162",
+            "Longitude": "27.2053",
+            "Depth": "5.0",
+            "ML": "1.9",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.07.18",
             "Time": "15:06:49",
             "Latitude": "38.7737",
             "Longitude": "39.9257",
             "Depth": "5.1",
             "ML": "2.5",
             "Location": "YESILKOY KOVANCILAR ELAZIG"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "14:06:58",
+            "Latitude": "40.0468",
+            "Longitude": "28.6182",
+            "Depth": "5.1",
+            "ML": "1.7",
+            "Location": "KILLIK MUSTAFAKEMALPASA BURSA"
         },
         {
             "Date": "2022.07.18",
@@ -53,6 +80,15 @@
             "Depth": "11.5",
             "ML": "1.4",
             "Location": "CALTI KUMLUCA ANTALYA"
+        },
+        {
+            "Date": "2022.07.18",
+            "Time": "06:55:45",
+            "Latitude": "35.2012",
+            "Longitude": "25.3345",
+            "Depth": "4.1",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.18",
@@ -4436,42 +4472,6 @@
             "Depth": "11.8",
             "ML": "1.6",
             "Location": "YAZIKONAK ELAZIG"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "18:35:35",
-            "Latitude": "39.2222",
-            "Longitude": "27.6608",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "EVCILER SOMA MANISA"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "18:15:08",
-            "Latitude": "38.8275",
-            "Longitude": "43.5627",
-            "Depth": "20.7",
-            "ML": "2.2",
-            "Location": "AKCIFT VAN"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "18:13:16",
-            "Latitude": "38.7622",
-            "Longitude": "43.6542",
-            "Depth": "5.0",
-            "ML": "3.4",
-            "Location": "SURUYOLU MURADIYE VAN"
-        },
-        {
-            "Date": "2022.07.07",
-            "Time": "17:55:12",
-            "Latitude": "39.8157",
-            "Longitude": "27.9637",
-            "Depth": "8.5",
-            "ML": "1.9",
-            "Location": "CAYPINAR BALIKESIR"
         }
     ]
 }
