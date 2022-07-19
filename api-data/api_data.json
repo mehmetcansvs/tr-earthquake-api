@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.19",
+            "Time": "11:27:45",
+            "Latitude": "37.4560",
+            "Longitude": "38.8185",
+            "Depth": "7.5",
+            "ML": "1.6",
+            "Location": "APAYDIN SANLIURFA"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "10:28:13",
+            "Latitude": "37.7828",
+            "Longitude": "29.3862",
+            "Depth": "9.0",
+            "ML": "1.5",
+            "Location": "YUKARIDAGDERE HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.07.19",
             "Time": "09:52:19",
             "Latitude": "38.9277",
             "Longitude": "38.2443",
@@ -35,6 +53,15 @@
             "Depth": "0.0",
             "ML": "1.7",
             "Location": "CELTIKCI ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "08:56:44",
+            "Latitude": "38.8445",
+            "Longitude": "43.8243",
+            "Depth": "27.7",
+            "ML": "2.3",
+            "Location": "YARIMKAYA OZALP VAN"
         },
         {
             "Date": "2022.07.19",
@@ -4445,33 +4472,6 @@
             "Depth": "0.0",
             "ML": "0.9",
             "Location": "TEKOREN SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "13:53:36",
-            "Latitude": "39.4072",
-            "Longitude": "31.5977",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "TEKOREN SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "13:02:42",
-            "Latitude": "35.2495",
-            "Longitude": "23.0933",
-            "Depth": "18.8",
-            "ML": "2.6",
-            "Location": "GIRIT ADASI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "12:24:59",
-            "Latitude": "37.7567",
-            "Longitude": "27.4435",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "SAZLI SOKE AYDIN"
         }
     ]
 }
