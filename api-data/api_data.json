@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.19",
+            "Time": "14:57:37",
+            "Latitude": "35.2048",
+            "Longitude": "25.2998",
+            "Depth": "7.7",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "14:51:07",
+            "Latitude": "38.8638",
+            "Longitude": "43.4217",
+            "Depth": "11.1",
+            "ML": "1.8",
+            "Location": "KUMLUCA VAN"
+        },
+        {
+            "Date": "2022.07.19",
             "Time": "14:18:12",
             "Latitude": "37.6285",
             "Longitude": "36.2475",
@@ -26,6 +44,15 @@
             "Depth": "0.0",
             "ML": "0.5",
             "Location": "AKDERE SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "13:04:11",
+            "Latitude": "35.3523",
+            "Longitude": "25.3797",
+            "Depth": "10.8",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.19",
@@ -4445,33 +4472,6 @@
             "Depth": "4.1",
             "ML": "1.8",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "16:08:08",
-            "Latitude": "39.0560",
-            "Longitude": "37.3487",
-            "Depth": "0.0",
-            "ML": "1.7",
-            "Location": "SEKERPINAR KANGAL SIVAS"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "16:06:16",
-            "Latitude": "38.4827",
-            "Longitude": "39.1980",
-            "Depth": "11.4",
-            "ML": "2.1",
-            "Location": "DEDEYOLU SIVRICE ELAZIG"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "15:56:47",
-            "Latitude": "37.0395",
-            "Longitude": "28.4310",
-            "Depth": "2.9",
-            "ML": "1.2",
-            "Location": "CITLIK ULA MUGLA"
         }
     ]
 }
