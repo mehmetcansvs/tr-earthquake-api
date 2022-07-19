@@ -2,12 +2,21 @@
     "data": [
         {
             "Date": "2022.07.19",
-            "Time": "21:01:42",
-            "Latitude": "38.4155",
-            "Longitude": "39.2102",
+            "Time": "21:51:34",
+            "Latitude": "40.0920",
+            "Longitude": "27.6840",
+            "Depth": "6.0",
+            "ML": "3.2",
+            "Location": "KORUDEGIRMEN GONEN BALIKESIR"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "21:51:25",
+            "Latitude": "37.4248",
+            "Longitude": "37.2387",
             "Depth": "5.0",
-            "ML": "3.4",
-            "Location": "YEDIPINAR SIVRICE ELAZIG"
+            "ML": "2.6",
+            "Location": "SALMANIPAK PAZARCIK KAHRAMANMARAS REVIZE YEDIPINAR SIVRICE ELAZIG"
         },
         {
             "Date": "2022.07.19",
@@ -4454,24 +4463,6 @@
             "Depth": "29.0",
             "ML": "2.3",
             "Location": "CAMLIYAYLA MERSIN"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "20:23:13",
-            "Latitude": "38.5558",
-            "Longitude": "31.2180",
-            "Depth": "11.7",
-            "ML": "1.5",
-            "Location": "DOGANCIK SULTANDAGI AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "19:44:07",
-            "Latitude": "38.7970",
-            "Longitude": "43.5427",
-            "Depth": "23.8",
-            "ML": "1.9",
-            "Location": "DEGIRMENOZU VAN"
         }
     ]
 }
