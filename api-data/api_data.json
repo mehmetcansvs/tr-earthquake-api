@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.19",
+            "Time": "07:28:21",
+            "Latitude": "38.3613",
+            "Longitude": "30.9775",
+            "Depth": "16.6",
+            "ML": "1.5",
+            "Location": "KUMDANLI YALVAC ISPARTA"
+        },
+        {
+            "Date": "2022.07.19",
             "Time": "05:47:13",
             "Latitude": "38.4005",
             "Longitude": "26.4833",
@@ -20,6 +29,15 @@
         },
         {
             "Date": "2022.07.19",
+            "Time": "05:34:10",
+            "Latitude": "37.3990",
+            "Longitude": "37.1590",
+            "Depth": "5.4",
+            "ML": "1.2",
+            "Location": "CIGDEMTEPE PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.19",
             "Time": "05:18:54",
             "Latitude": "37.4155",
             "Longitude": "37.2158",
@@ -35,6 +53,15 @@
             "Depth": "4.8",
             "ML": "1.4",
             "Location": "VISNELI KEMALPASA IZMIR"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "03:33:21",
+            "Latitude": "34.8505",
+            "Longitude": "23.9717",
+            "Depth": "28.6",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.19",
@@ -4445,33 +4472,6 @@
             "Depth": "7.9",
             "ML": "3.3",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "08:08:30",
-            "Latitude": "40.7002",
-            "Longitude": "32.9682",
-            "Depth": "7.9",
-            "ML": "1.5",
-            "Location": "HACILAR CERKES CANKIRI"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "08:05:00",
-            "Latitude": "40.7042",
-            "Longitude": "32.9230",
-            "Depth": "5.0",
-            "ML": "2.5",
-            "Location": "HACILAR CERKES CANKIRI"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "07:48:11",
-            "Latitude": "36.0827",
-            "Longitude": "31.0162",
-            "Depth": "7.0",
-            "ML": "1.8",
-            "Location": "AKDENIZ"
         }
     ]
 }
