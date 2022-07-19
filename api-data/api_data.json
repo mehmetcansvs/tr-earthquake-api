@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.07.19",
+            "Time": "14:18:12",
+            "Latitude": "37.6285",
+            "Longitude": "36.2475",
+            "Depth": "8.6",
+            "ML": "1.9",
+            "Location": "DEGIRMENDERE KADIRLI OSMANIYE"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "13:58:51",
+            "Latitude": "38.1158",
+            "Longitude": "36.1823",
+            "Depth": "27.1",
+            "ML": "1.4",
+            "Location": "GUZELIM TUFANBEYLI ADANA"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "13:12:36",
+            "Latitude": "36.2718",
+            "Longitude": "33.7317",
+            "Depth": "0.0",
+            "ML": "0.5",
+            "Location": "AKDERE SILIFKE MERSIN"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "12:42:28",
+            "Latitude": "39.8403",
+            "Longitude": "33.0605",
+            "Depth": "9.2",
+            "ML": "1.7",
+            "Location": "KARACAHASAN ELMADAG ANKARA"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "12:20:43",
+            "Latitude": "39.7365",
+            "Longitude": "27.7658",
+            "Depth": "27.1",
+            "ML": "1.6",
+            "Location": "DELIKLITAS BALIKESIR"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "12:02:31",
+            "Latitude": "39.6598",
+            "Longitude": "30.1085",
+            "Depth": "5.4",
+            "ML": "1.5",
+            "Location": "YUKARIKUZFINDIK INONU ESKISEHIR"
+        },
+        {
+            "Date": "2022.07.19",
             "Time": "11:27:45",
             "Latitude": "37.4560",
             "Longitude": "38.8185",
@@ -4418,60 +4472,6 @@
             "Depth": "2.9",
             "ML": "1.2",
             "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "15:52:46",
-            "Latitude": "38.9775",
-            "Longitude": "27.8515",
-            "Depth": "6.6",
-            "ML": "2.0",
-            "Location": "KARABORKLU AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "15:47:52",
-            "Latitude": "40.0672",
-            "Longitude": "28.6230",
-            "Depth": "14.0",
-            "ML": "1.6",
-            "Location": "INCEALIPINAR MUSTAFAKEMALPASA BURSA"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "15:09:35",
-            "Latitude": "38.9213",
-            "Longitude": "29.1452",
-            "Depth": "8.9",
-            "ML": "1.5",
-            "Location": "SOFULAR PAZARLAR KUTAHYA"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "14:52:07",
-            "Latitude": "39.6775",
-            "Longitude": "28.4158",
-            "Depth": "5.3",
-            "ML": "1.9",
-            "Location": "ERICEK DURSUNBEY BALIKESIR"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "14:16:41",
-            "Latitude": "39.4250",
-            "Longitude": "31.5703",
-            "Depth": "0.0",
-            "ML": "1.4",
-            "Location": "TEKOREN SIVRIHISAR ESKISEHIR"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "13:59:36",
-            "Latitude": "39.4170",
-            "Longitude": "31.5563",
-            "Depth": "0.0",
-            "ML": "0.9",
-            "Location": "TEKOREN SIVRIHISAR ESKISEHIR"
         }
     ]
 }
