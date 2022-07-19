@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.19",
+            "Time": "21:01:42",
+            "Latitude": "38.4155",
+            "Longitude": "39.2102",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "YEDIPINAR SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "19:21:35",
+            "Latitude": "38.6718",
+            "Longitude": "30.8880",
+            "Depth": "7.8",
+            "ML": "2.1",
+            "Location": "HAMIDIYE BOLVADIN AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.07.19",
             "Time": "18:09:08",
             "Latitude": "39.8247",
             "Longitude": "41.8632",
@@ -4454,24 +4472,6 @@
             "Depth": "23.8",
             "ML": "1.9",
             "Location": "DEGIRMENOZU VAN"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "19:33:20",
-            "Latitude": "36.6622",
-            "Longitude": "28.1190",
-            "Depth": "19.9",
-            "ML": "1.4",
-            "Location": "SOGUTKOY MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "18:03:32",
-            "Latitude": "34.8300",
-            "Longitude": "24.7305",
-            "Depth": "3.2",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
         }
     ]
 }
