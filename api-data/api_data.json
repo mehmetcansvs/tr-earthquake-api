@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.19",
+            "Time": "23:03:15",
+            "Latitude": "38.9733",
+            "Longitude": "30.1778",
+            "Depth": "1.8",
+            "ML": "1.9",
+            "Location": "BESKARIS ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "22:23:32",
+            "Latitude": "40.1718",
+            "Longitude": "31.7225",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "SEKLI BEYPAZARI ANKARA"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "22:15:09",
+            "Latitude": "40.7280",
+            "Longitude": "42.2320",
+            "Depth": "16.4",
+            "ML": "1.7",
+            "Location": "SUSUZ SENKAYA ERZURUM"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "21:59:05",
+            "Latitude": "38.4123",
+            "Longitude": "39.3557",
+            "Depth": "4.5",
+            "ML": "1.7",
+            "Location": "ELMASUYU SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.07.19",
             "Time": "21:51:34",
             "Latitude": "40.0920",
             "Longitude": "27.6840",
@@ -17,6 +53,24 @@
             "Depth": "5.0",
             "ML": "2.6",
             "Location": "SALMANIPAK PAZARCIK KAHRAMANMARAS REVIZE YEDIPINAR SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "20:57:57",
+            "Latitude": "36.4942",
+            "Longitude": "29.3643",
+            "Depth": "18.7",
+            "ML": "1.4",
+            "Location": "KORUBUKU FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "19:37:30",
+            "Latitude": "39.0145",
+            "Longitude": "26.0653",
+            "Depth": "2.7",
+            "ML": "2.5",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
         },
         {
             "Date": "2022.07.19",
@@ -4409,60 +4463,6 @@
             "Depth": "8.5",
             "ML": "1.5",
             "Location": "CAVUSPINARI KARAMAN"
-        },
-        {
-            "Date": "2022.07.09",
-            "Time": "01:19:37",
-            "Latitude": "38.7288",
-            "Longitude": "43.2232",
-            "Depth": "22.5",
-            "ML": "1.8",
-            "Location": "OZYURT VAN"
-        },
-        {
-            "Date": "2022.07.09",
-            "Time": "00:03:06",
-            "Latitude": "36.9883",
-            "Longitude": "27.7582",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "22:59:32",
-            "Latitude": "40.4357",
-            "Longitude": "29.2133",
-            "Depth": "5.4",
-            "ML": "1.5",
-            "Location": "CIHATLI GEMLIK BURSA"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "22:54:43",
-            "Latitude": "38.7115",
-            "Longitude": "43.7145",
-            "Depth": "5.7",
-            "ML": "3.0",
-            "Location": "YUKARIGUNEYCE VAN"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "21:39:37",
-            "Latitude": "37.8807",
-            "Longitude": "26.9348",
-            "Depth": "5.3",
-            "ML": "1.4",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "20:28:36",
-            "Latitude": "37.1703",
-            "Longitude": "34.5505",
-            "Depth": "29.0",
-            "ML": "2.3",
-            "Location": "CAMLIYAYLA MERSIN"
         }
     ]
 }
