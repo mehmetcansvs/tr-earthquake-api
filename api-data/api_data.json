@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.19",
+            "Time": "18:09:08",
+            "Latitude": "39.8247",
+            "Longitude": "41.8632",
+            "Depth": "12.4",
+            "ML": "2.7",
+            "Location": "KAYABASI KOPRUKOY ERZURUM"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "17:45:01",
+            "Latitude": "34.9490",
+            "Longitude": "27.8013",
+            "Depth": "5.6",
+            "ML": "3.0",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "17:33:38",
+            "Latitude": "39.4017",
+            "Longitude": "25.8097",
+            "Depth": "15.6",
+            "ML": "2.1",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "17:12:53",
+            "Latitude": "36.1408",
+            "Longitude": "33.5468",
+            "Depth": "0.0",
+            "ML": "1.4",
+            "Location": "BUYUKECELI GULNAR MERSIN"
+        },
+        {
+            "Date": "2022.07.19",
             "Time": "14:57:37",
             "Latitude": "35.2048",
             "Longitude": "25.2998",
@@ -4436,42 +4472,6 @@
             "Depth": "3.2",
             "ML": "2.4",
             "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "17:33:52",
-            "Latitude": "38.8058",
-            "Longitude": "43.5095",
-            "Depth": "17.6",
-            "ML": "2.1",
-            "Location": "DEREBEY VAN"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "17:19:26",
-            "Latitude": "37.0392",
-            "Longitude": "28.2995",
-            "Depth": "14.2",
-            "ML": "1.9",
-            "Location": "AKYAKA ULA MUGLA"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "17:02:57",
-            "Latitude": "37.6940",
-            "Longitude": "27.2850",
-            "Depth": "5.7",
-            "ML": "1.7",
-            "Location": "GULLUBAHCE SOKE AYDIN"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "16:17:34",
-            "Latitude": "36.9700",
-            "Longitude": "27.6813",
-            "Depth": "4.1",
-            "ML": "1.8",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
