@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.19",
+            "Time": "09:52:19",
+            "Latitude": "38.9277",
+            "Longitude": "38.2443",
+            "Depth": "5.0",
+            "ML": "3.4",
+            "Location": "ALHASUSAGI ARGUVAN MALATYA"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "09:41:56",
+            "Latitude": "37.3285",
+            "Longitude": "38.9985",
+            "Depth": "6.6",
+            "ML": "3.0",
+            "Location": "YENICE SANLIURFA"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "09:25:50",
+            "Latitude": "37.8190",
+            "Longitude": "29.3518",
+            "Depth": "8.8",
+            "ML": "1.9",
+            "Location": "DERECIFTLIK HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "09:11:52",
+            "Latitude": "40.4698",
+            "Longitude": "29.2908",
+            "Depth": "0.0",
+            "ML": "1.7",
+            "Location": "CELTIKCI ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.07.19",
             "Time": "07:28:21",
             "Latitude": "38.3613",
             "Longitude": "30.9775",
@@ -4436,42 +4472,6 @@
             "Depth": "5.0",
             "ML": "1.2",
             "Location": "SAZLI SOKE AYDIN"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "12:11:05",
-            "Latitude": "36.3897",
-            "Longitude": "29.5457",
-            "Depth": "9.0",
-            "ML": "2.0",
-            "Location": "CAMLIOVA KAS ANTALYA"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "10:25:10",
-            "Latitude": "40.7223",
-            "Longitude": "28.1967",
-            "Depth": "8.1",
-            "ML": "1.5",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "09:46:12",
-            "Latitude": "39.5232",
-            "Longitude": "25.9357",
-            "Depth": "13.5",
-            "ML": "1.8",
-            "Location": "GULPINAR ACIKLARI CANAKKALE EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "09:22:22",
-            "Latitude": "36.9652",
-            "Longitude": "27.6722",
-            "Depth": "7.9",
-            "ML": "3.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
