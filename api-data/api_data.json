@@ -2,12 +2,66 @@
     "data": [
         {
             "Date": "2022.07.19",
+            "Time": "05:47:13",
+            "Latitude": "38.4005",
+            "Longitude": "26.4833",
+            "Depth": "8.1",
+            "ML": "1.6",
+            "Location": "ILDIR CESME IZMIR"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "05:41:07",
+            "Latitude": "38.8430",
+            "Longitude": "43.4940",
+            "Depth": "5.0",
+            "ML": "2.6",
+            "Location": "KARAAGAC VAN"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "05:18:54",
+            "Latitude": "37.4155",
+            "Longitude": "37.2158",
+            "Depth": "5.2",
+            "ML": "3.0",
+            "Location": "SALMANIPAK PAZARCIK KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "04:12:31",
+            "Latitude": "38.3457",
+            "Longitude": "27.4122",
+            "Depth": "4.8",
+            "ML": "1.4",
+            "Location": "VISNELI KEMALPASA IZMIR"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "03:10:58",
+            "Latitude": "38.4465",
+            "Longitude": "39.2803",
+            "Depth": "8.2",
+            "ML": "1.3",
+            "Location": "SIVRICE ELAZIG"
+        },
+        {
+            "Date": "2022.07.19",
             "Time": "02:19:33",
             "Latitude": "38.8465",
             "Longitude": "43.4922",
             "Depth": "1.5",
             "ML": "2.7",
             "Location": "KARAAGAC VAN"
+        },
+        {
+            "Date": "2022.07.19",
+            "Time": "01:20:32",
+            "Latitude": "39.5510",
+            "Longitude": "27.3027",
+            "Depth": "2.8",
+            "ML": "1.6",
+            "Location": "HUSEYINBESELER HAVRAN BALIKESIR"
         },
         {
             "Date": "2022.07.19",
@@ -4418,60 +4472,6 @@
             "Depth": "7.0",
             "ML": "1.8",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "06:53:41",
-            "Latitude": "40.7955",
-            "Longitude": "28.1392",
-            "Depth": "9.2",
-            "ML": "1.5",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "06:48:44",
-            "Latitude": "38.8658",
-            "Longitude": "43.5383",
-            "Depth": "5.8",
-            "ML": "2.6",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "06:42:42",
-            "Latitude": "40.7802",
-            "Longitude": "28.1060",
-            "Depth": "5.3",
-            "ML": "2.0",
-            "Location": "MARMARA DENIZI"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "06:15:10",
-            "Latitude": "40.4188",
-            "Longitude": "30.7468",
-            "Depth": "7.5",
-            "ML": "1.6",
-            "Location": "BULANIK GOYNUK BOLU"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "06:08:08",
-            "Latitude": "40.5197",
-            "Longitude": "32.9447",
-            "Depth": "10.4",
-            "ML": "2.0",
-            "Location": "TUTMACBAYINDIR ORTA CANKIRI"
-        },
-        {
-            "Date": "2022.07.08",
-            "Time": "04:06:03",
-            "Latitude": "35.2918",
-            "Longitude": "25.3232",
-            "Depth": "5.5",
-            "ML": "2.4",
-            "Location": "GIRIT ADASI AKDENIZ"
         }
     ]
 }
