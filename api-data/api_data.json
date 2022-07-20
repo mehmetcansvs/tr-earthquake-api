@@ -2,6 +2,60 @@
     "data": [
         {
             "Date": "2022.07.20",
+            "Time": "20:20:05",
+            "Latitude": "35.3180",
+            "Longitude": "25.3970",
+            "Depth": "8.6",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "19:30:18",
+            "Latitude": "35.2357",
+            "Longitude": "25.3142",
+            "Depth": "10.1",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "19:25:42",
+            "Latitude": "35.4967",
+            "Longitude": "25.4280",
+            "Depth": "8.2",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "19:23:41",
+            "Latitude": "35.3213",
+            "Longitude": "25.3147",
+            "Depth": "8.5",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "19:18:06",
+            "Latitude": "39.4582",
+            "Longitude": "26.0680",
+            "Depth": "1.0",
+            "ML": "1.6",
+            "Location": "BABAKALE AYVACIK CANAKKALE"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "19:17:55",
+            "Latitude": "38.9685",
+            "Longitude": "31.0908",
+            "Depth": "5.4",
+            "ML": "1.8",
+            "Location": "BASKONAK EMIRDAG AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.07.20",
             "Time": "18:21:10",
             "Latitude": "35.1740",
             "Longitude": "25.2940",
@@ -4400,60 +4454,6 @@
             "Depth": "16.1",
             "ML": "0.7",
             "Location": "HACIBEKTASLI SALIHLI MANISA"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "08:51:40",
-            "Latitude": "36.2332",
-            "Longitude": "36.8022",
-            "Depth": "10.9",
-            "ML": "2.7",
-            "Location": "SURIYE"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "08:26:02",
-            "Latitude": "36.9407",
-            "Longitude": "28.2290",
-            "Depth": "11.5",
-            "ML": "1.5",
-            "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "06:39:55",
-            "Latitude": "38.6010",
-            "Longitude": "43.2140",
-            "Depth": "5.0",
-            "ML": "1.7",
-            "Location": "CITOREN VAN"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "04:51:26",
-            "Latitude": "36.9358",
-            "Longitude": "28.2405",
-            "Depth": "5.0",
-            "ML": "1.1",
-            "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "04:13:28",
-            "Latitude": "36.9373",
-            "Longitude": "28.1295",
-            "Depth": "11.8",
-            "ML": "1.1",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "04:05:50",
-            "Latitude": "36.8400",
-            "Longitude": "27.8217",
-            "Depth": "9.2",
-            "ML": "1.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
