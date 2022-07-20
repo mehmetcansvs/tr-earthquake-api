@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.20",
+            "Time": "08:52:54",
+            "Latitude": "39.7833",
+            "Longitude": "25.9312",
+            "Depth": "5.5",
+            "ML": "1.9",
+            "Location": "EGE DENIZI REVIZE ANTALYA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.20",
             "Time": "07:28:55",
             "Latitude": "35.2102",
             "Longitude": "27.3870",
@@ -4444,24 +4453,6 @@
             "Longitude": "26.8713",
             "Depth": "5.4",
             "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.09",
-            "Time": "10:23:57",
-            "Latitude": "37.9135",
-            "Longitude": "26.9017",
-            "Depth": "6.7",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.09",
-            "Time": "09:03:30",
-            "Latitude": "37.9945",
-            "Longitude": "27.1788",
-            "Depth": "1.6",
-            "ML": "1.9",
             "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
