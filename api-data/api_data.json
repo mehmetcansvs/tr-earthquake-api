@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.20",
+            "Time": "23:45:02",
+            "Latitude": "38.3705",
+            "Longitude": "43.7642",
+            "Depth": "13.5",
+            "ML": "2.1",
+            "Location": "UCGEN GURPINAR VAN"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "23:16:07",
+            "Latitude": "40.8042",
+            "Longitude": "31.3105",
+            "Depth": "12.9",
+            "ML": "2.0",
+            "Location": "DARIYERIYORUKLER KAYNASLI DUZCE"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "23:10:45",
+            "Latitude": "38.7105",
+            "Longitude": "43.2853",
+            "Depth": "10.9",
+            "ML": "2.2",
+            "Location": "ATMACA VAN"
+        },
+        {
+            "Date": "2022.07.20",
             "Time": "22:49:39",
             "Latitude": "40.8220",
             "Longitude": "31.3478",
@@ -4427,33 +4454,6 @@
             "Depth": "18.7",
             "ML": "1.9",
             "Location": "EVDILEK ERDEMLI MERSIN"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "11:36:30",
-            "Latitude": "40.0122",
-            "Longitude": "35.9340",
-            "Depth": "11.7",
-            "ML": "1.7",
-            "Location": "YUKARIKIZILOZ KADISEHRI YOZGAT"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "11:12:04",
-            "Latitude": "36.9383",
-            "Longitude": "28.2350",
-            "Depth": "1.3",
-            "ML": "1.5",
-            "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "10:36:03",
-            "Latitude": "37.6620",
-            "Longitude": "31.5708",
-            "Depth": "21.4",
-            "ML": "1.1",
-            "Location": "KARADIKEN BEYSEHIR KONYA"
         }
     ]
 }
