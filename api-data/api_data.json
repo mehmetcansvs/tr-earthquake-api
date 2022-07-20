@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.20",
+            "Time": "04:59:49",
+            "Latitude": "35.8432",
+            "Longitude": "29.4127",
+            "Depth": "7.6",
+            "ML": "2.1",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "04:45:08",
+            "Latitude": "39.3488",
+            "Longitude": "25.9567",
+            "Depth": "4.1",
+            "ML": "2.2",
+            "Location": "BADEMLI ACIKLARI CANAKKALE EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.20",
             "Time": "04:30:04",
             "Latitude": "35.2988",
             "Longitude": "29.2855",
@@ -4445,24 +4463,6 @@
             "Depth": "11.2",
             "ML": "1.8",
             "Location": "YASTIKTEPE PASINLER ERZURUM"
-        },
-        {
-            "Date": "2022.07.09",
-            "Time": "06:57:37",
-            "Latitude": "38.7128",
-            "Longitude": "44.2612",
-            "Depth": "17.0",
-            "ML": "2.2",
-            "Location": "BAKISIK SARAY VAN"
-        },
-        {
-            "Date": "2022.07.09",
-            "Time": "06:26:31",
-            "Latitude": "38.6987",
-            "Longitude": "44.1625",
-            "Depth": "9.6",
-            "ML": "2.9",
-            "Location": "SIRIMLI SARAY VAN"
         }
     ]
 }
