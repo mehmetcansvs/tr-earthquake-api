@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.20",
+            "Time": "12:47:26",
+            "Latitude": "38.9587",
+            "Longitude": "26.1350",
+            "Depth": "8.9",
+            "ML": "2.3",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "12:13:59",
+            "Latitude": "40.4002",
+            "Longitude": "29.0277",
+            "Depth": "2.9",
+            "ML": "2.0",
+            "Location": "GEMLIK KORFEZI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "12:01:00",
+            "Latitude": "35.1342",
+            "Longitude": "25.2937",
+            "Depth": "4.7",
+            "ML": "4.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "11:33:57",
+            "Latitude": "38.2152",
+            "Longitude": "37.1067",
+            "Depth": "5.0",
+            "ML": "1.7",
+            "Location": "YAPRAKLI ELBISTAN KAHRAMANMARAS"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "11:20:53",
+            "Latitude": "35.0652",
+            "Longitude": "25.2690",
+            "Depth": "7.8",
+            "ML": "3.0",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.20",
             "Time": "08:52:54",
             "Latitude": "39.7833",
             "Longitude": "25.9312",
@@ -4409,51 +4454,6 @@
             "Depth": "5.0",
             "ML": "1.6",
             "Location": "UYANIK KALE MALATYA"
-        },
-        {
-            "Date": "2022.07.09",
-            "Time": "13:20:54",
-            "Latitude": "36.9295",
-            "Longitude": "27.3087",
-            "Depth": "5.6",
-            "ML": "1.6",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.09",
-            "Time": "13:17:48",
-            "Latitude": "38.8835",
-            "Longitude": "43.5195",
-            "Depth": "8.5",
-            "ML": "2.5",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.07.09",
-            "Time": "11:21:30",
-            "Latitude": "38.2935",
-            "Longitude": "38.9583",
-            "Depth": "10.5",
-            "ML": "1.7",
-            "Location": "KOLDERE DOGANYOL MALATYA"
-        },
-        {
-            "Date": "2022.07.09",
-            "Time": "11:15:09",
-            "Latitude": "37.8802",
-            "Longitude": "26.8660",
-            "Depth": "2.4",
-            "ML": "1.8",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.09",
-            "Time": "11:11:05",
-            "Latitude": "37.8872",
-            "Longitude": "26.8713",
-            "Depth": "5.4",
-            "ML": "1.7",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
