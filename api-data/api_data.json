@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.20",
+            "Time": "22:49:39",
+            "Latitude": "40.8220",
+            "Longitude": "31.3478",
+            "Depth": "4.4",
+            "ML": "4.3",
+            "Location": "SARICOKEK KAYNASLI DUZCE"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "21:38:10",
+            "Latitude": "35.3055",
+            "Longitude": "26.1413",
+            "Depth": "12.8",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.20",
+            "Time": "21:18:55",
+            "Latitude": "35.3238",
+            "Longitude": "25.3278",
+            "Depth": "5.5",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.20",
             "Time": "20:20:05",
             "Latitude": "35.3180",
             "Longitude": "25.3970",
@@ -4427,33 +4454,6 @@
             "Depth": "21.4",
             "ML": "1.1",
             "Location": "KARADIKEN BEYSEHIR KONYA"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "10:16:56",
-            "Latitude": "36.2440",
-            "Longitude": "29.4655",
-            "Depth": "24.2",
-            "ML": "1.6",
-            "Location": "SARIBELEN KAS ANTALYA"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "09:36:29",
-            "Latitude": "38.4675",
-            "Longitude": "28.1752",
-            "Depth": "5.0",
-            "ML": "1.3",
-            "Location": "CUKUROBA SALIHLI MANISA"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "09:35:19",
-            "Latitude": "38.4620",
-            "Longitude": "28.1445",
-            "Depth": "16.1",
-            "ML": "0.7",
-            "Location": "HACIBEKTASLI SALIHLI MANISA"
         }
     ]
 }
