@@ -2,12 +2,57 @@
     "data": [
         {
             "Date": "2022.07.21",
+            "Time": "06:18:21",
+            "Latitude": "39.9378",
+            "Longitude": "27.3012",
+            "Depth": "11.1",
+            "ML": "2.1",
+            "Location": "SEYVAN YENICE CANAKKALE"
+        },
+        {
+            "Date": "2022.07.21",
             "Time": "04:21:08",
             "Latitude": "40.7060",
             "Longitude": "29.2363",
             "Depth": "14.4",
             "ML": "2.0",
             "Location": "YALOVA ACIKLARI MARMARA DENIZI"
+        },
+        {
+            "Date": "2022.07.21",
+            "Time": "04:08:22",
+            "Latitude": "37.9862",
+            "Longitude": "26.2077",
+            "Depth": "3.8",
+            "ML": "2.0",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.21",
+            "Time": "02:37:27",
+            "Latitude": "38.5848",
+            "Longitude": "32.0433",
+            "Depth": "4.7",
+            "ML": "1.5",
+            "Location": "BUYUKOBA ILGIN KONYA"
+        },
+        {
+            "Date": "2022.07.21",
+            "Time": "02:35:05",
+            "Latitude": "38.6035",
+            "Longitude": "32.0845",
+            "Depth": "6.3",
+            "ML": "2.7",
+            "Location": "SACIKARA KADINHANI KONYA"
+        },
+        {
+            "Date": "2022.07.21",
+            "Time": "01:46:32",
+            "Latitude": "40.8195",
+            "Longitude": "31.3413",
+            "Depth": "9.6",
+            "ML": "1.7",
+            "Location": "SARICOKEK KAYNASLI DUZCE"
         },
         {
             "Date": "2022.07.20",
@@ -4409,51 +4454,6 @@
             "Depth": "5.0",
             "ML": "2.7",
             "Location": "AKCIFT VAN"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "12:47:12",
-            "Latitude": "38.8780",
-            "Longitude": "43.5348",
-            "Depth": "6.9",
-            "ML": "2.3",
-            "Location": "ERMISLER VAN"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "12:40:58",
-            "Latitude": "38.7423",
-            "Longitude": "43.6920",
-            "Depth": "25.2",
-            "ML": "2.0",
-            "Location": "SURUYOLU MURADIYE VAN"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "12:37:11",
-            "Latitude": "38.8612",
-            "Longitude": "43.6135",
-            "Depth": "5.0",
-            "ML": "3.9",
-            "Location": "KELLE VAN"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "12:30:13",
-            "Latitude": "40.1718",
-            "Longitude": "42.2810",
-            "Depth": "12.8",
-            "ML": "2.2",
-            "Location": "BULGURLU HORASAN ERZURUM"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "11:59:17",
-            "Latitude": "37.1667",
-            "Longitude": "36.8372",
-            "Depth": "19.1",
-            "ML": "1.2",
-            "Location": "ICERISU NURDAGI GAZIANTEP"
         }
     ]
 }
