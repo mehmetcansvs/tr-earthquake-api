@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.21",
+            "Time": "07:17:51",
+            "Latitude": "38.5900",
+            "Longitude": "32.0607",
+            "Depth": "6.3",
+            "ML": "2.2",
+            "Location": "BUYUKOBA ILGIN KONYA"
+        },
+        {
+            "Date": "2022.07.21",
             "Time": "06:18:21",
             "Latitude": "39.9378",
             "Longitude": "27.3012",
@@ -4445,15 +4454,6 @@
             "Depth": "1.8",
             "ML": "1.7",
             "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "12:58:13",
-            "Latitude": "38.8568",
-            "Longitude": "43.5615",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "AKCIFT VAN"
         }
     ]
 }
