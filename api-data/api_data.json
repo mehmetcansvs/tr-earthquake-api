@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.21",
+            "Time": "23:42:36",
+            "Latitude": "40.1597",
+            "Longitude": "27.4178",
+            "Depth": "16.8",
+            "ML": "2.1",
+            "Location": "TAHTALI GONEN BALIKESIR"
+        },
+        {
+            "Date": "2022.07.21",
+            "Time": "22:48:36",
+            "Latitude": "35.2502",
+            "Longitude": "25.2957",
+            "Depth": "13.8",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.21",
             "Time": "22:36:50",
             "Latitude": "34.3177",
             "Longitude": "25.1385",
@@ -4435,24 +4453,6 @@
             "Longitude": "43.9008",
             "Depth": "5.0",
             "ML": "4.2",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "08:07:59",
-            "Latitude": "37.8798",
-            "Longitude": "29.1963",
-            "Depth": "11.1",
-            "ML": "1.9",
-            "Location": "IRLIGANLI DENIZLI"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "06:44:48",
-            "Latitude": "41.0885",
-            "Longitude": "43.8688",
-            "Depth": "6.4",
-            "ML": "1.5",
             "Location": "ERMENISTAN"
         }
     ]
