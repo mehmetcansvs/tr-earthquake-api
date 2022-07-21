@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "Date": "2022.07.21",
+            "Time": "04:21:08",
+            "Latitude": "40.7060",
+            "Longitude": "29.2363",
+            "Depth": "14.4",
+            "ML": "2.0",
+            "Location": "YALOVA ACIKLARI MARMARA DENIZI"
+        },
+        {
             "Date": "2022.07.20",
             "Time": "23:45:02",
             "Latitude": "38.3705",
@@ -4445,15 +4454,6 @@
             "Depth": "19.1",
             "ML": "1.2",
             "Location": "ICERISU NURDAGI GAZIANTEP"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "11:42:14",
-            "Latitude": "36.9053",
-            "Longitude": "33.8598",
-            "Depth": "18.7",
-            "ML": "1.9",
-            "Location": "EVDILEK ERDEMLI MERSIN"
         }
     ]
 }
