@@ -38,6 +38,15 @@
         },
         {
             "Date": "2022.07.21",
+            "Time": "17:59:46",
+            "Latitude": "40.1477",
+            "Longitude": "31.6742",
+            "Depth": "6.7",
+            "ML": "2.1",
+            "Location": "ULUKOY NALLIHAN ANKARA"
+        },
+        {
+            "Date": "2022.07.21",
             "Time": "17:38:05",
             "Latitude": "39.3980",
             "Longitude": "27.7353",
@@ -4445,15 +4454,6 @@
             "Depth": "5.4",
             "ML": "1.5",
             "Location": "TOPARLAR KOYCEGIZ MUGLA"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "23:18:26",
-            "Latitude": "40.2582",
-            "Longitude": "28.0458",
-            "Depth": "8.4",
-            "ML": "2.5",
-            "Location": "DOGRUCA BANDIRMA BALIKESIR"
         }
     ]
 }
