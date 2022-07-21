@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.21",
+            "Time": "12:12:27",
+            "Latitude": "36.5160",
+            "Longitude": "29.8083",
+            "Depth": "56.2",
+            "ML": "2.2",
+            "Location": "ARMUTLU ELMALI ANTALYA"
+        },
+        {
+            "Date": "2022.07.21",
+            "Time": "12:06:35",
+            "Latitude": "39.2695",
+            "Longitude": "27.7223",
+            "Depth": "3.0",
+            "ML": "2.5",
+            "Location": "KOZLUOREN SOMA MANISA"
+        },
+        {
+            "Date": "2022.07.21",
+            "Time": "11:52:09",
+            "Latitude": "39.9562",
+            "Longitude": "39.1165",
+            "Depth": "8.0",
+            "ML": "1.8",
+            "Location": "GOLKOY REFAHIYE ERZINCAN"
+        },
+        {
+            "Date": "2022.07.21",
+            "Time": "10:39:59",
+            "Latitude": "39.6595",
+            "Longitude": "29.0663",
+            "Depth": "7.8",
+            "ML": "1.5",
+            "Location": "DEDEBALI HARMANCIK BURSA"
+        },
+        {
+            "Date": "2022.07.21",
             "Time": "09:55:10",
             "Latitude": "38.4993",
             "Longitude": "32.0433",
@@ -4418,42 +4454,6 @@
             "Depth": "11.0",
             "ML": "1.7",
             "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "16:51:04",
-            "Latitude": "38.8432",
-            "Longitude": "43.5790",
-            "Depth": "5.5",
-            "ML": "2.1",
-            "Location": "AKCIFT VAN"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "16:07:16",
-            "Latitude": "36.2130",
-            "Longitude": "30.9192",
-            "Depth": "9.6",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "14:59:14",
-            "Latitude": "38.4082",
-            "Longitude": "25.4660",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "14:35:14",
-            "Latitude": "38.9193",
-            "Longitude": "43.4645",
-            "Depth": "5.0",
-            "ML": "1.5",
-            "Location": "VAN GOLU"
         }
     ]
 }
