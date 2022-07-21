@@ -2,6 +2,33 @@
     "data": [
         {
             "Date": "2022.07.21",
+            "Time": "15:06:07",
+            "Latitude": "34.8295",
+            "Longitude": "24.0262",
+            "Depth": "22.1",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.21",
+            "Time": "13:57:24",
+            "Latitude": "37.0813",
+            "Longitude": "27.3200",
+            "Depth": "5.0",
+            "ML": "1.5",
+            "Location": "YAKAKOY BODRUM MUGLA"
+        },
+        {
+            "Date": "2022.07.21",
+            "Time": "13:14:51",
+            "Latitude": "38.4965",
+            "Longitude": "39.2518",
+            "Depth": "5.0",
+            "ML": "2.5",
+            "Location": "GOZEBASI ELAZIG"
+        },
+        {
+            "Date": "2022.07.21",
             "Time": "12:12:27",
             "Latitude": "36.5160",
             "Longitude": "29.8083",
@@ -1820,6 +1847,15 @@
         },
         {
             "Date": "2022.07.16",
+            "Time": "23:42:01",
+            "Latitude": "35.2513",
+            "Longitude": "25.2930",
+            "Depth": "5.0",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.16",
             "Time": "21:54:28",
             "Latitude": "38.8737",
             "Longitude": "43.4982",
@@ -1835,6 +1871,15 @@
             "Depth": "10.0",
             "ML": "2.1",
             "Location": "KOZAN ADANA"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "19:36:03",
+            "Latitude": "37.3988",
+            "Longitude": "37.2757",
+            "Depth": "7.9",
+            "ML": "1.7",
+            "Location": "SALMANLI PAZARCIK KAHRAMANMARAS"
         },
         {
             "Date": "2022.07.16",
@@ -2000,12 +2045,30 @@
         },
         {
             "Date": "2022.07.16",
+            "Time": "06:56:53",
+            "Latitude": "38.9407",
+            "Longitude": "27.8612",
+            "Depth": "6.2",
+            "ML": "1.3",
+            "Location": "AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.07.16",
             "Time": "06:49:42",
             "Latitude": "37.8895",
             "Longitude": "30.2022",
             "Depth": "7.2",
             "ML": "2.3",
             "Location": "YENITEPE KECIBORLU ISPARTA"
+        },
+        {
+            "Date": "2022.07.16",
+            "Time": "06:45:57",
+            "Latitude": "38.8620",
+            "Longitude": "43.5457",
+            "Depth": "9.2",
+            "ML": "1.9",
+            "Location": "BAGDASAN VAN"
         },
         {
             "Date": "2022.07.16",
@@ -4391,69 +4454,6 @@
             "Depth": "1.2",
             "ML": "2.1",
             "Location": "CAMLIK BUCAK BURDUR"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "21:00:01",
-            "Latitude": "39.5552",
-            "Longitude": "23.4522",
-            "Depth": "16.0",
-            "ML": "3.0",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "20:42:27",
-            "Latitude": "36.8930",
-            "Longitude": "28.1475",
-            "Depth": "23.9",
-            "ML": "1.8",
-            "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "20:03:40",
-            "Latitude": "39.7462",
-            "Longitude": "23.5933",
-            "Depth": "8.8",
-            "ML": "3.3",
-            "Location": "YUNANISTAN"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "19:51:46",
-            "Latitude": "36.4732",
-            "Longitude": "28.3618",
-            "Depth": "75.7",
-            "ML": "2.1",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "18:54:38",
-            "Latitude": "38.8140",
-            "Longitude": "44.7050",
-            "Depth": "9.7",
-            "ML": "2.3",
-            "Location": "TURKIYE IRAN SINIR BOLGESI"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "18:29:06",
-            "Latitude": "36.9150",
-            "Longitude": "27.6492",
-            "Depth": "11.8",
-            "ML": "2.2",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.10",
-            "Time": "17:14:16",
-            "Latitude": "36.9187",
-            "Longitude": "28.2218",
-            "Depth": "11.0",
-            "ML": "1.7",
-            "Location": "KARACA MARMARIS MUGLA"
         }
     ]
 }
