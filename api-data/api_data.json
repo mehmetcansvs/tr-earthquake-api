@@ -20,6 +20,15 @@
         },
         {
             "Date": "2022.07.22",
+            "Time": "18:39:08",
+            "Latitude": "36.4052",
+            "Longitude": "27.1532",
+            "Depth": "8.1",
+            "ML": "2.3",
+            "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.07.22",
             "Time": "15:06:24",
             "Latitude": "38.8843",
             "Longitude": "26.0993",
@@ -4445,15 +4454,6 @@
             "Depth": "6.7",
             "ML": "1.7",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "19:42:18",
-            "Latitude": "36.9407",
-            "Longitude": "28.2483",
-            "Depth": "1.8",
-            "ML": "1.2",
-            "Location": "CAMLI MARMARIS MUGLA"
         }
     ]
 }
