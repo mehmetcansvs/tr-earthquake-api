@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.22",
+            "Time": "12:23:52",
+            "Latitude": "35.1080",
+            "Longitude": "25.2792",
+            "Depth": "7.4",
+            "ML": "3.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "12:11:14",
+            "Latitude": "35.5488",
+            "Longitude": "27.4002",
+            "Depth": "4.2",
+            "ML": "2.2",
+            "Location": "AKDENIZ"
+        },
+        {
+            "Date": "2022.07.22",
             "Time": "10:40:05",
             "Latitude": "37.2100",
             "Longitude": "27.9785",
@@ -17,6 +35,15 @@
             "Depth": "19.6",
             "ML": "1.9",
             "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "09:46:55",
+            "Latitude": "35.1400",
+            "Longitude": "25.3057",
+            "Depth": "8.5",
+            "ML": "3.1",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.22",
@@ -4427,33 +4454,6 @@
             "Depth": "19.6",
             "ML": "2.3",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "16:28:19",
-            "Latitude": "36.9442",
-            "Longitude": "28.1637",
-            "Depth": "4.4",
-            "ML": "1.4",
-            "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "16:13:07",
-            "Latitude": "37.1858",
-            "Longitude": "39.0152",
-            "Depth": "0.0",
-            "ML": "1.6",
-            "Location": "BAKIMLI SANLIURFA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "15:44:09",
-            "Latitude": "36.9413",
-            "Longitude": "28.1100",
-            "Depth": "5.1",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
