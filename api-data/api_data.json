@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.22",
+            "Time": "15:06:24",
+            "Latitude": "38.8843",
+            "Longitude": "26.0993",
+            "Depth": "4.5",
+            "ML": "2.3",
+            "Location": "MIDILLI ADASI GUNEYI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.22",
             "Time": "15:04:57",
             "Latitude": "40.1463",
             "Longitude": "27.4158",
@@ -4444,15 +4453,6 @@
             "Longitude": "28.4235",
             "Depth": "6.9",
             "ML": "1.4",
-            "Location": "CITLIK ULA MUGLA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "19:26:24",
-            "Latitude": "37.0313",
-            "Longitude": "28.4148",
-            "Depth": "12.2",
-            "ML": "1.1",
             "Location": "CITLIK ULA MUGLA"
         }
     ]
