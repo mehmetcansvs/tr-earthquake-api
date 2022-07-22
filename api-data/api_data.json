@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.22",
+            "Time": "22:46:14",
+            "Latitude": "39.1302",
+            "Longitude": "29.0772",
+            "Depth": "7.3",
+            "ML": "2.4",
+            "Location": "SOGUT SIMAV KUTAHYA"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "21:39:47",
+            "Latitude": "38.9828",
+            "Longitude": "28.0373",
+            "Depth": "14.9",
+            "ML": "2.2",
+            "Location": "HACIIBRAHIMLER AKHISAR MANISA"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "21:17:31",
+            "Latitude": "34.7395",
+            "Longitude": "23.6713",
+            "Depth": "25.7",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "21:10:21",
+            "Latitude": "34.9200",
+            "Longitude": "24.0687",
+            "Depth": "14.4",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "19:30:22",
+            "Latitude": "35.3647",
+            "Longitude": "25.3378",
+            "Depth": "20.6",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.22",
             "Time": "18:56:29",
             "Latitude": "40.0725",
             "Longitude": "27.6890",
@@ -26,6 +71,15 @@
             "Depth": "8.1",
             "ML": "2.3",
             "Location": "ONIKI ADALAR AKDENIZ"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "18:04:24",
+            "Latitude": "35.2883",
+            "Longitude": "25.3443",
+            "Depth": "5.5",
+            "ML": "2.9",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.22",
@@ -4400,60 +4454,6 @@
             "Depth": "19.7",
             "ML": "2.0",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "20:41:10",
-            "Latitude": "38.8827",
-            "Longitude": "43.5430",
-            "Depth": "5.0",
-            "ML": "2.7",
-            "Location": "COLPAN VAN"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "20:22:32",
-            "Latitude": "35.2283",
-            "Longitude": "29.1532",
-            "Depth": "15.2",
-            "ML": "2.7",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "20:07:05",
-            "Latitude": "36.9408",
-            "Longitude": "28.2040",
-            "Depth": "5.0",
-            "ML": "1.2",
-            "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "20:04:18",
-            "Latitude": "36.9355",
-            "Longitude": "28.2097",
-            "Depth": "11.0",
-            "ML": "1.3",
-            "Location": "KARACA MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "19:56:00",
-            "Latitude": "37.0473",
-            "Longitude": "28.4543",
-            "Depth": "7.5",
-            "ML": "2.0",
-            "Location": "ELMALI ULA MUGLA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "19:47:07",
-            "Latitude": "37.0165",
-            "Longitude": "28.2607",
-            "Depth": "6.7",
-            "ML": "1.7",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
