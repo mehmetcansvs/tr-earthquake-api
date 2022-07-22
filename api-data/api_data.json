@@ -2,6 +2,51 @@
     "data": [
         {
             "Date": "2022.07.22",
+            "Time": "07:33:04",
+            "Latitude": "39.4467",
+            "Longitude": "26.3432",
+            "Depth": "9.1",
+            "ML": "2.4",
+            "Location": "EDREMIT KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "07:28:10",
+            "Latitude": "40.8058",
+            "Longitude": "31.5328",
+            "Depth": "21.1",
+            "ML": "2.2",
+            "Location": "KIZILAGIL BOLU"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "07:24:18",
+            "Latitude": "37.0262",
+            "Longitude": "28.4035",
+            "Depth": "5.4",
+            "ML": "1.2",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "07:02:27",
+            "Latitude": "37.8352",
+            "Longitude": "26.9652",
+            "Depth": "5.4",
+            "ML": "2.1",
+            "Location": "KUSADASI KORFEZI EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "06:47:10",
+            "Latitude": "36.8300",
+            "Longitude": "29.2722",
+            "Depth": "6.0",
+            "ML": "2.1",
+            "Location": "SOGUTLU FETHIYE MUGLA"
+        },
+        {
+            "Date": "2022.07.22",
             "Time": "04:21:04",
             "Latitude": "38.5512",
             "Longitude": "39.2590",
@@ -4409,51 +4454,6 @@
             "Depth": "24.1",
             "ML": "1.0",
             "Location": "CAMLI MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "09:42:37",
-            "Latitude": "37.1590",
-            "Longitude": "28.5500",
-            "Depth": "8.1",
-            "ML": "1.5",
-            "Location": "YAYLASOGUT ULA MUGLA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "09:27:43",
-            "Latitude": "35.4532",
-            "Longitude": "28.1695",
-            "Depth": "24.7",
-            "ML": "2.6",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "09:24:28",
-            "Latitude": "41.1815",
-            "Longitude": "43.9108",
-            "Depth": "5.0",
-            "ML": "3.2",
-            "Location": "GURCISTAN"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "09:14:10",
-            "Latitude": "41.1222",
-            "Longitude": "43.9200",
-            "Depth": "7.9",
-            "ML": "2.5",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "09:11:10",
-            "Latitude": "36.9463",
-            "Longitude": "27.6832",
-            "Depth": "10.4",
-            "ML": "1.3",
-            "Location": "GOKOVA KORFEZI AKDENIZ"
         }
     ]
 }
