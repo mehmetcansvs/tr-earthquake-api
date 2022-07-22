@@ -2,6 +2,24 @@
     "data": [
         {
             "Date": "2022.07.22",
+            "Time": "10:40:05",
+            "Latitude": "37.2100",
+            "Longitude": "27.9785",
+            "Depth": "5.0",
+            "ML": "1.4",
+            "Location": "CAMLICA YATAGAN MUGLA"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "10:21:38",
+            "Latitude": "36.9987",
+            "Longitude": "28.1588",
+            "Depth": "19.6",
+            "ML": "1.9",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.22",
             "Time": "08:45:03",
             "Latitude": "40.1753",
             "Longitude": "27.2088",
@@ -4436,24 +4454,6 @@
             "Depth": "5.1",
             "ML": "1.7",
             "Location": "GOKOVA KORFEZI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "14:29:22",
-            "Latitude": "36.9020",
-            "Longitude": "28.2493",
-            "Depth": "18.6",
-            "ML": "1.4",
-            "Location": "YESILBELDE MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "14:24:18",
-            "Latitude": "37.0772",
-            "Longitude": "28.4217",
-            "Depth": "5.4",
-            "ML": "2.2",
-            "Location": "YESILOVA ULA MUGLA"
         }
     ]
 }
