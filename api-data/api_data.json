@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "Date": "2022.07.23",
+            "Time": "00:50:09",
+            "Latitude": "36.8165",
+            "Longitude": "27.3862",
+            "Depth": "8.1",
+            "ML": "2.6",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "00:33:49",
+            "Latitude": "37.0068",
+            "Longitude": "28.3882",
+            "Depth": "3.9",
+            "ML": "3.0",
+            "Location": "SIRINKOY ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "00:21:23",
+            "Latitude": "40.1658",
+            "Longitude": "27.4100",
+            "Depth": "9.8",
+            "ML": "1.5",
+            "Location": "TAHTALI GONEN BALIKESIR"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "00:13:06",
+            "Latitude": "35.2550",
+            "Longitude": "25.3155",
+            "Depth": "14.5",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "00:04:47",
+            "Latitude": "36.6345",
+            "Longitude": "36.6707",
+            "Depth": "9.6",
+            "ML": "2.0",
+            "Location": "TURKIYE SURIYE SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "23:38:00",
+            "Latitude": "36.6177",
+            "Longitude": "36.6083",
+            "Depth": "9.4",
+            "ML": "3.5",
+            "Location": "TURKIYE SURIYE SINIR BOLGESI"
+        },
+        {
+            "Date": "2022.07.22",
+            "Time": "23:12:05",
+            "Latitude": "35.2210",
+            "Longitude": "25.3225",
+            "Depth": "8.3",
+            "ML": "2.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
             "Date": "2022.07.22",
             "Time": "22:46:14",
             "Latitude": "39.1302",
@@ -4391,69 +4454,6 @@
             "Depth": "15.4",
             "ML": "1.8",
             "Location": "KOCLU KADIRLI OSMANIYE"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "23:26:28",
-            "Latitude": "41.1380",
-            "Longitude": "43.9182",
-            "Depth": "7.0",
-            "ML": "2.3",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "23:10:33",
-            "Latitude": "38.2943",
-            "Longitude": "38.8223",
-            "Depth": "11.9",
-            "ML": "2.0",
-            "Location": "BOLUKKAYA PUTURGE MALATYA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "22:50:44",
-            "Latitude": "38.8980",
-            "Longitude": "27.8765",
-            "Depth": "5.0",
-            "ML": "1.6",
-            "Location": "YENIDOGAN AKHISAR MANISA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "22:31:14",
-            "Latitude": "36.6837",
-            "Longitude": "28.2032",
-            "Depth": "64.7",
-            "ML": "1.8",
-            "Location": "BAYIR MARMARIS MUGLA"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "22:03:32",
-            "Latitude": "41.1565",
-            "Longitude": "43.9105",
-            "Depth": "6.6",
-            "ML": "3.3",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "21:25:05",
-            "Latitude": "41.0803",
-            "Longitude": "43.8927",
-            "Depth": "12.1",
-            "ML": "3.0",
-            "Location": "ERMENISTAN"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "21:14:17",
-            "Latitude": "36.0287",
-            "Longitude": "30.7515",
-            "Depth": "19.7",
-            "ML": "2.0",
-            "Location": "AKDENIZ"
         }
     ]
 }
