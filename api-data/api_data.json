@@ -2,6 +2,114 @@
     "data": [
         {
             "Date": "2022.07.23",
+            "Time": "09:08:52",
+            "Latitude": "40.4610",
+            "Longitude": "29.3083",
+            "Depth": "0.0",
+            "ML": "1.5",
+            "Location": "ORNEKKOY ORHANGAZI BURSA"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "09:03:28",
+            "Latitude": "36.6550",
+            "Longitude": "36.5620",
+            "Depth": "9.3",
+            "ML": "2.0",
+            "Location": "KALETEPE KIRIKHAN HATAY"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "08:47:01",
+            "Latitude": "37.8298",
+            "Longitude": "29.3267",
+            "Depth": "5.3",
+            "ML": "1.5",
+            "Location": "KOCABAS HONAZ DENIZLI"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "08:11:13",
+            "Latitude": "38.4345",
+            "Longitude": "30.3452",
+            "Depth": "24.3",
+            "ML": "1.7",
+            "Location": "BEKTAS SANDIKLI AFYONKARAHISAR"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "08:09:09",
+            "Latitude": "39.0078",
+            "Longitude": "30.1903",
+            "Depth": "5.9",
+            "ML": "2.5",
+            "Location": "BESKARIS ALTINTAS KUTAHYA"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "06:50:41",
+            "Latitude": "35.1735",
+            "Longitude": "25.3190",
+            "Depth": "11.7",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "06:01:13",
+            "Latitude": "35.2897",
+            "Longitude": "25.3635",
+            "Depth": "8.6",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "05:41:15",
+            "Latitude": "35.4002",
+            "Longitude": "25.3570",
+            "Depth": "5.3",
+            "ML": "2.1",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "05:34:07",
+            "Latitude": "35.2792",
+            "Longitude": "25.3613",
+            "Depth": "5.4",
+            "ML": "2.4",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "04:47:23",
+            "Latitude": "35.2615",
+            "Longitude": "25.3512",
+            "Depth": "2.5",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "04:30:25",
+            "Latitude": "35.1425",
+            "Longitude": "25.3250",
+            "Depth": "12.1",
+            "ML": "3.3",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "03:10:27",
+            "Latitude": "36.9550",
+            "Longitude": "27.8802",
+            "Depth": "12.5",
+            "ML": "1.5",
+            "Location": "GOKOVA KORFEZI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
             "Time": "00:50:09",
             "Latitude": "36.8165",
             "Longitude": "27.3862",
@@ -4346,114 +4454,6 @@
             "Depth": "17.9",
             "ML": "2.7",
             "Location": "KAPISUYU SAMANDAG HATAY"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "08:47:01",
-            "Latitude": "38.8525",
-            "Longitude": "43.5647",
-            "Depth": "13.9",
-            "ML": "2.3",
-            "Location": "AKCIFT VAN"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "08:01:51",
-            "Latitude": "37.9922",
-            "Longitude": "27.1828",
-            "Depth": "3.8",
-            "ML": "1.6",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "07:20:42",
-            "Latitude": "37.4280",
-            "Longitude": "37.2247",
-            "Depth": "8.2",
-            "ML": "1.3",
-            "Location": "SALMANIPAK PAZARCIK KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "06:02:17",
-            "Latitude": "38.4540",
-            "Longitude": "30.9517",
-            "Depth": "10.3",
-            "ML": "0.6",
-            "Location": "KOCBEYLI CAY AFYONKARAHISAR"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "05:28:22",
-            "Latitude": "35.5585",
-            "Longitude": "33.7228",
-            "Depth": "31.3",
-            "ML": "3.4",
-            "Location": "KIBRIS ACIKLARI KUZEY AKDENIZ"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "04:18:39",
-            "Latitude": "39.7545",
-            "Longitude": "41.8605",
-            "Depth": "10.8",
-            "ML": "1.9",
-            "Location": "CULLU KOPRUKOY ERZURUM"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "03:59:32",
-            "Latitude": "40.7012",
-            "Longitude": "30.6290",
-            "Depth": "5.9",
-            "ML": "2.3",
-            "Location": "YUVALIK AKYAZI SAKARYA"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "00:46:15",
-            "Latitude": "39.4823",
-            "Longitude": "29.5868",
-            "Depth": "9.2",
-            "ML": "1.4",
-            "Location": "YAGMURLU TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "00:21:17",
-            "Latitude": "36.0745",
-            "Longitude": "27.1773",
-            "Depth": "7.3",
-            "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "00:03:50",
-            "Latitude": "34.8742",
-            "Longitude": "24.2468",
-            "Depth": "12.9",
-            "ML": "3.0",
-            "Location": "GIRIT ADASI ACIKLARI AKDENIZ"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "23:59:49",
-            "Latitude": "37.3367",
-            "Longitude": "36.8920",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "HACIBEBEK TURKOGLU KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.07.11",
-            "Time": "23:40:52",
-            "Latitude": "37.4858",
-            "Longitude": "36.1927",
-            "Depth": "15.4",
-            "ML": "1.8",
-            "Location": "KOCLU KADIRLI OSMANIYE"
         }
     ]
 }
