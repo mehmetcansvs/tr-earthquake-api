@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.23",
+            "Time": "14:17:06",
+            "Latitude": "37.0303",
+            "Longitude": "28.4203",
+            "Depth": "8.8",
+            "ML": "1.7",
+            "Location": "CITLIK ULA MUGLA"
+        },
+        {
+            "Date": "2022.07.23",
             "Time": "12:35:26",
             "Latitude": "40.9657",
             "Longitude": "35.7632",
@@ -4445,15 +4454,6 @@
             "Depth": "18.2",
             "ML": "3.5",
             "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "15:40:13",
-            "Latitude": "36.8518",
-            "Longitude": "29.2233",
-            "Depth": "0.0",
-            "ML": "1.8",
-            "Location": "SOGUTLU FETHIYE MUGLA"
         }
     ]
 }
