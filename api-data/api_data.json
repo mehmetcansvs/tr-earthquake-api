@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.23",
+            "Time": "09:35:29",
+            "Latitude": "40.8465",
+            "Longitude": "31.3555",
+            "Depth": "8.3",
+            "ML": "1.7",
+            "Location": "SARICOKEK KAYNASLI DUZCE"
+        },
+        {
+            "Date": "2022.07.23",
             "Time": "09:08:52",
             "Latitude": "40.4610",
             "Longitude": "29.3083",
@@ -4445,15 +4454,6 @@
             "Depth": "12.5",
             "ML": "1.9",
             "Location": "AKCAKOYUNLU PAZARCIK KAHRAMANMARAS"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "10:01:50",
-            "Latitude": "36.1278",
-            "Longitude": "35.7830",
-            "Depth": "17.9",
-            "ML": "2.7",
-            "Location": "KAPISUYU SAMANDAG HATAY"
         }
     ]
 }
