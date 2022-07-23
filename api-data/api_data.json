@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.23",
+            "Time": "19:59:48",
+            "Latitude": "37.8922",
+            "Longitude": "26.7950",
+            "Depth": "4.2",
+            "ML": "2.2",
+            "Location": "EGE DENIZI"
+        },
+        {
+            "Date": "2022.07.23",
             "Time": "16:57:15",
             "Latitude": "40.7727",
             "Longitude": "33.0598",
@@ -4445,15 +4454,6 @@
             "Depth": "3.5",
             "ML": "1.6",
             "Location": "DOKURCUN AKYAZI SAKARYA"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "17:19:04",
-            "Latitude": "35.1690",
-            "Longitude": "30.4505",
-            "Depth": "62.5",
-            "ML": "3.2",
-            "Location": "AKDENIZ"
         }
     ]
 }
