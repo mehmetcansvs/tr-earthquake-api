@@ -2,6 +2,42 @@
     "data": [
         {
             "Date": "2022.07.23",
+            "Time": "23:16:38",
+            "Latitude": "35.3073",
+            "Longitude": "25.3415",
+            "Depth": "17.4",
+            "ML": "2.6",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "22:30:01",
+            "Latitude": "35.1780",
+            "Longitude": "25.2893",
+            "Depth": "6.2",
+            "ML": "2.5",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "22:13:07",
+            "Latitude": "37.1882",
+            "Longitude": "28.3973",
+            "Depth": "21.2",
+            "ML": "1.4",
+            "Location": "ORTAKOY MUGLA"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "20:26:50",
+            "Latitude": "34.9913",
+            "Longitude": "25.2858",
+            "Depth": "8.9",
+            "ML": "2.7",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
             "Time": "19:59:48",
             "Latitude": "37.8922",
             "Longitude": "26.7950",
@@ -20,12 +56,30 @@
         },
         {
             "Date": "2022.07.23",
+            "Time": "19:07:30",
+            "Latitude": "35.1157",
+            "Longitude": "25.2933",
+            "Depth": "6.9",
+            "ML": "2.8",
+            "Location": "GIRIT ADASI AKDENIZ"
+        },
+        {
+            "Date": "2022.07.23",
             "Time": "18:21:16",
             "Latitude": "39.8762",
             "Longitude": "32.6592",
             "Depth": "0.0",
             "ML": "1.6",
             "Location": "ETIMESGUT ANKARA"
+        },
+        {
+            "Date": "2022.07.23",
+            "Time": "17:34:59",
+            "Latitude": "35.2557",
+            "Longitude": "25.3523",
+            "Depth": "16.4",
+            "ML": "2.2",
+            "Location": "GIRIT ADASI AKDENIZ"
         },
         {
             "Date": "2022.07.23",
@@ -4400,60 +4454,6 @@
             "Depth": "15.3",
             "ML": "2.3",
             "Location": "KORLU YAYLADERE BINGOL"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "23:07:28",
-            "Latitude": "37.1545",
-            "Longitude": "26.7708",
-            "Depth": "12.0",
-            "ML": "1.6",
-            "Location": "ONIKI ADALAR AKDENIZ"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "23:01:55",
-            "Latitude": "38.1333",
-            "Longitude": "27.2263",
-            "Depth": "5.3",
-            "ML": "1.4",
-            "Location": "KARAKUYU MENDERES IZMIR"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "22:54:32",
-            "Latitude": "38.1273",
-            "Longitude": "27.2042",
-            "Depth": "6.7",
-            "ML": "2.6",
-            "Location": "KARAKUYU MENDERES IZMIR"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "21:31:49",
-            "Latitude": "39.4327",
-            "Longitude": "29.6450",
-            "Depth": "0.0",
-            "ML": "1.5",
-            "Location": "AKCASEHIR TAVSANLI KUTAHYA"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "21:27:07",
-            "Latitude": "38.1313",
-            "Longitude": "27.2023",
-            "Depth": "7.3",
-            "ML": "2.1",
-            "Location": "CILEME MENDERES IZMIR"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "20:59:26",
-            "Latitude": "37.9248",
-            "Longitude": "27.2512",
-            "Depth": "6.0",
-            "ML": "2.0",
-            "Location": "KUSADASI KORFEZI EGE DENIZI"
         }
     ]
 }
