@@ -2,6 +2,15 @@
     "data": [
         {
             "Date": "2022.07.23",
+            "Time": "15:56:35",
+            "Latitude": "39.5070",
+            "Longitude": "29.2897",
+            "Depth": "16.8",
+            "ML": "1.6",
+            "Location": "YENIKOY EMET KUTAHYA"
+        },
+        {
+            "Date": "2022.07.23",
             "Time": "14:17:06",
             "Latitude": "37.0303",
             "Longitude": "28.4203",
@@ -4444,15 +4453,6 @@
             "Longitude": "27.1890",
             "Depth": "12.3",
             "ML": "2.5",
-            "Location": "AKDENIZ"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "17:00:08",
-            "Latitude": "35.2905",
-            "Longitude": "27.0982",
-            "Depth": "18.2",
-            "ML": "3.5",
             "Location": "AKDENIZ"
         }
     ]
