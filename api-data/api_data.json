@@ -1,6 +1,33 @@
 {
     "data": [
         {
+            "Date": "2022.07.24",
+            "Time": "04:49:53",
+            "Latitude": "41.1578",
+            "Longitude": "43.9215",
+            "Depth": "5.0",
+            "ML": "3.3",
+            "Location": "ERMENISTAN"
+        },
+        {
+            "Date": "2022.07.24",
+            "Time": "03:03:28",
+            "Latitude": "36.1740",
+            "Longitude": "36.0748",
+            "Depth": "3.7",
+            "ML": "1.5",
+            "Location": "OZENGILI SAMANDAG HATAY"
+        },
+        {
+            "Date": "2022.07.24",
+            "Time": "01:21:17",
+            "Latitude": "36.8602",
+            "Longitude": "29.2308",
+            "Depth": "6.2",
+            "ML": "1.5",
+            "Location": "SOGUTLU FETHIYE MUGLA"
+        },
+        {
             "Date": "2022.07.23",
             "Time": "23:16:38",
             "Latitude": "35.3073",
@@ -4427,33 +4454,6 @@
             "Depth": "9.9",
             "ML": "1.7",
             "Location": "KORUBUKU FETHIYE MUGLA"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "23:49:30",
-            "Latitude": "38.2882",
-            "Longitude": "34.9705",
-            "Depth": "5.3",
-            "ML": "1.9",
-            "Location": "EDIKLI NIGDE"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "23:47:51",
-            "Latitude": "38.6388",
-            "Longitude": "39.4993",
-            "Depth": "5.3",
-            "ML": "1.8",
-            "Location": "DEGIRMENONU ELAZIG"
-        },
-        {
-            "Date": "2022.07.12",
-            "Time": "23:15:01",
-            "Latitude": "39.1867",
-            "Longitude": "40.1532",
-            "Depth": "15.3",
-            "ML": "2.3",
-            "Location": "KORLU YAYLADERE BINGOL"
         }
     ]
 }
